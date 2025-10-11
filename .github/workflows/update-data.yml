@@ -8,6 +8,10 @@ on:
   # 允许手动触发
   workflow_dispatch:
 
+# 添加 GITHUB_TOKEN 权限
+permissions:
+  contents: write
+
 jobs:
   update-xmls:
     runs-on: ubuntu-latest
