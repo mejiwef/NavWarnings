@@ -1,4 +1,4 @@
-name: Update Multiple XML Data
+name: Update NavWarnings Data
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
       - name: Make script executable
         run: chmod +x scripts/update-data.sh
 
-      - name: Update multiple XML data
+      - name: Update NavWarnings Data
         run: ./scripts/update-data.sh
 
       - name: Check for changes
