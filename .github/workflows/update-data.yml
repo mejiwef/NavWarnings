@@ -1,0 +1,45 @@
+name: Update Multiple XML Data
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行
+    - cron: '0 0 * * *'
+
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-xmls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Make script executable
+        run: chmod +x scripts/update-data.sh
+
+      - name: Update multiple XML data
+        run: ./scripts/update-data.sh
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add data/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "没有检测到文件变更"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "检测到文件变更"
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "mejiwef@outlook.com"
+          git config --local user.name "ming"
+          git commit -m "chore: 自动更新多个数据源 [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
