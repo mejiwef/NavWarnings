@@ -615,21 +615,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>060821Z OCT 25
-HYDROPAC 2561/25(74).
-EASTERN INDIAN OCEAN.
-DNC 04.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   110100Z TO 110700Z OCT
-   IN AREA BOUND BY
-   13-09.00S 118-12.00E, 13-12.00S 118-56.00E,
-   14-59.00S 118-49.00E, 14-57.00S 118-05.00E.
-2. CANCEL THIS MSG 110800Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051709Z OCT 25

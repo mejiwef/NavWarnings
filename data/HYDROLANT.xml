@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111519Z OCT 25
+HYDROLANT 1709/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 53-25.00S 037-51.00W.
+   B. A74A, 55-44.00S 033-17.00W.
+   C. A77, 57-30.00S 045-09.00W.
+   D. A76C, 60-08.00S 043-52.00W.
+   E. B15AB, 57-36.00S 048-55.00W.
+   F. A23G, 52-27.00S 038-56.00W.
+   G. A23H, 52-00.00S 041-15.00W.
+   H. A23I, 53-10.00S 040-54.00W.
+   I. 49-20.00S 038-27.00W.
+   J. 51-40.00S 040-29.00W.
+   K. 55-37.00S 043-35.00W.
+   L. 52-18.00S 025-55.00W.
+   M. 48-50.00S 021-06.00W.
+   N. 56-58.00S 046-40.00W.
+   O. 51-41.00S 028-45.00W.
+   P. 52-52.00S 036-49.00W.
+   Q. 51-05.00S 040-47.00W.
+   R. 51-32.00S 036-15.00W.
+   S. 52-25.00S 042-09.00W.
+   T. 51-30.00S 026-25.00W.
+   U. 52-29.00S 037-46.00W.
+   V. 53-45.00S 039-30.00W.
+   W. 53-41.00S 041-01.00W.
+   X. 57-00.00S 045-46.00W.
+   Y. 52-36.00S 036-35.00W.
+   Z. 53-05.00S 037-51.00W.
+   AA. 51-35.00S 026-24.00W.
+   AB. 50-33.00S 031-59.00W.
+   AC. 50-10.00S 024-20.00W.
+   AD. 52-37.00S 027-18.00W.
+   AE. 53-30.00S 037-17.00W.
+   AF. 49-25.00S 038-18.00W.
+2. CANCEL THIS MSG 121518Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111303Z OCT 25
+HYDROLANT 1708/25(24).
+NORTH ATLANTIC.
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 161000Z TO 162100Z OCT
+   IN AREA BOUND BY
+   00-13.30N 046-42.00W, 00-13.40N 046-52.00W,
+   00-06.60S 046-53.00W, 00-06.90S 046-42.90W.
+2. CANCEL THIS MSG 162200Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111037Z OCT 25
+HYDROLANT 1707/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-40.00S 058-19.80W.
+   B. B15AB, 57-45.60S 048-45.00W.
+   C. B29, 73-49.80S 110-31.80W.
+   D. D33A, 66-35.40S 057-12.60W.
+   E. D33C, 67-00.00S 058-21.60W.
+2. CANCEL THIS MSG 121033Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>WORKING VESSELS</category>
         <status>INFORCE</status>
         <msgText>110610Z OCT 25
@@ -30,22 +110,6 @@ DNC 22.
    55-24.98N 020-41.88E, 55-21.98N 020-45.88E,
    55-24.98N 020-59.88E.
 2. CANCEL THIS MSG 312100Z OCT 25.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>102243Z OCT 25
-HYDROLANT 1702/25(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. DERELICT 16 METER F/V FAITHFUL ADRIFT
-   IN 50-06.00N 003-47.00W AT 100801Z OCT.
-2. CANCEL HYDROLANT 1689/25.
-3. CANCEL THIS MSG 132243Z OCT 25.
-
 
 </msgText>
     </smapsActiveEntity>
@@ -167,70 +231,6 @@ CANCEL NAVAREA IV 52/25.
 CONDITION CHANGED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101213Z OCT 25
-HYDROLANT 1693/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 53-25.00S 037-51.00W.
-   B. A74A, 55-50.00S 033-40.00W.
-   C. A77, 57-33.00S 045-44.00W.
-   D. A76C, 60-09.00S 044-02.00W.
-   E. B15AB, 57-34.00S 049-11.00W.
-   F. A23G, 52-26.00S 038-57.00W.
-   G. A23H, 52-09.00S 041-28.00W.
-   H. A23I, 53-16.00S 040-43.00W.
-   I. 49-18.00S 038-48.00W.
-   J. 51-44.00S 040-38.00W.
-   K. 55-41.00S 043-26.00W.
-   L. 52-18.00S 025-55.00W.
-   M. 49-39.00S 022-32.00W.
-   N. 56-58.00S 047-23.00W.
-   O. 52-55.00S 037-12.00W.
-   P. 51-11.00S 041-05.00W.
-   Q. 51-33.00S 036-27.00W.
-   R. 52-30.00S 042-19.00W.
-   S. 51-32.00S 026-51.00W.
-   T. 52-23.00S 037-40.00W.
-   U. 53-42.00S 039-32.00W.
-   V. 53-41.00S 041-02.00W.
-   W. 57-10.00S 046-18.00W.
-   X. 52-46.00S 036-50.00W.
-   Y. 52-51.00S 038-02.00W.
-   Z. 51-26.00S 026-53.00W.
-   AA. 50-40.00S 031-52.00W.
-   AB. 51-32.00S 029-07.00W.
-   AC. 50-09.00S 025-18.00W.
-   AD. 52-37.00S 027-18.00W.
-   AE. 52-12.00S 035-33.00W.
-   AF. 53-29.00S 037-22.00W.
-2. CANCEL THIS MSG 111211Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101018Z OCT 25
-HYDROLANT 1692/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 66-19.20S 058-19.80W.
-   B. B15AB, 58-55.20S 050-43.20W.
-   C. B29, 73-49.80S 110-31.80W.
-   D. D33A, 66-52.80S 057-06.00W.
-   E. D33C, 67-18.00S 058-15.00W.
-2. CANCEL THIS MSG 111014Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>071026Z OCT 25
@@ -271,18 +271,6 @@ WALES.
 DNC 20.
 FOG SIGNAL AT SOUTH BISHOP LIGHTHOUSE
 51-51.10N 005-24.70W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>090541Z OCT 25
-HYDROLANT 1684/25(36).
-NORTH CHANNEL.
-SCOTLAND.
-DNC 20.
-RACON AT LADY ISLE LIGHT 55-31.60N 004-44.00W
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -504,22 +492,6 @@ DNC 10.
    44-05.00N 028-51.00E, 44-10.00N 028-51.00E,
    44-10.00N 029-00.00E, 44-05.00N 029-00.00E.
 2. CANCEL THIS MSG 160001Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281343Z SEP 25
-HYDROLANT 1612/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS  0800Z TO
-   1800Z DAILY UNTIL 11 OCT
-   BY M/V COMANDO B
-   IN 20-22.98S 040-09.38W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 111900Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
