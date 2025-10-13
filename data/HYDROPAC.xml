@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>122156Z OCT 25
+HYDROPAC 2619/25(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+RACON AT PIPER REEF LIGHT 12-15.07S 143-14.92E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>121534Z OCT 25
+HYDROPAC 2618/25(21, 22, 83).
+NORTH PACIFIC.
+SOUTH PACIFIC.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   201536Z TO 202024Z, 211536Z TO 212024Z,
+   221536Z TO 222024Z, 231536Z TO 232024Z, 
+   241536Z TO 242024Z, 251536Z TO 242024Z,
+   AND 261536Z TO 262024Z.
+   IN AREA BOUND BY
+   11-37.00N 123-13.00W, 00-10.00S 115-17.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W,
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W.
+2. CANCEL THIS MSG 262124Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121437Z OCT 25
+HYDROPAC 2617/25(62).
+PERSIAN GULF.
+BAHRAIN.
+IRAN.
+QATAR.
+DNC 10.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL
+   20 OCT IN AREA BOUND BY: 
+   26-29.38N 051-53.05E, 26-28.18N 051-54.91E.
+   26-24.57N 051-52.28E, 26-25.70N 051-50.11E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2590/25.
+3. CANCEL THIS MSG 210001Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>121427Z OCT 25
+HYDROPAC 2616/25(97).
+NORTH PACIFIC.
+JAPAN.
+DNC 12.
+1. GUNNERY EXERCISES 2100Z TO 0900Z
+   DAILY 16 THRU 21 OCT, ALTERNATE 2100Z
+   TO 0900Z DAILY 22 THRU 25 OCT
+   IN 25 MILES OF 31-14.14N 144-26.48E.
+2. CANCEL THIS MSG 261000Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121408Z OCT 25
+HYDROPAC 2615/25(81,97).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 12.
+1. UNDERWATER OPERATIONS 13 THRU 27 OCT
+   BY M/V YOKOSUKA, SUBMERSIBLE SHINKAI 6500
+   IN AREA BOUND BY
+   24-30.00N 140-00.00E, 24-30.00N 143-30.00E,
+   21-00.00N 143-30.00E, 21-00.00N 140-00.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 290001Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>121124Z OCT 25
+HYDROPAC 2614/25(93).
+SOUTH CHINA SEA.
+MALAYSIA.
+DNC 11.
+MAN OVERBOARD FROM F/V KG 90636 TS
+IN: 06-07.00N 105-47.00E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+FAX:+84 225 3981615 ,
+EMAIL:HPLES-GMDSS@HPLES.COM.VN .
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110028Z OCT 25
@@ -347,22 +445,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091112Z OCT 25
-HYDROPAC 2590/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS BY BARGE 
-   MC DERMOTT (DB30) IN AREA BOUND BY
-   26-00.00N 051-31.50E, 26-00.00N 051-38.00E,
-   25-58.00N 051-38.00E, 25-57.50N 051-32.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 170001Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>080741Z OCT 25
@@ -642,23 +724,6 @@ U.A.E.
 DNC 10.
 ZAQQUM BUOY IN 25-06.56N 053-25.06E.
 LIGHT AND RACON UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>042252Z OCT 25
-HYDROPAC 2555/25(61,75,76).
-SOUTH PACIFIC.
-DNC 03, DNC 04, DNC 05, DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0438Z TO 1148Z DAILY 06 THRU 12 OCT   
-   IN AREA BOUND BY
-   48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
-   51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
-   41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
-   49-27.00S 159-48.00E.
-2. CANCEL THIS MSG 121248Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
