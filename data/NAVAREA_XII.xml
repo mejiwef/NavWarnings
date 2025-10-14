@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>100114Z OCT 25
+NAVAREA XII 639/25(21,22,83).
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   180145Z TO 180633Z, 190122Z TO 190610Z,
+   191900Z TO 192348Z, 201838Z TO 202326Z,
+   211816Z TO 212304Z, 221754Z TO 222242Z
+   AND 231732Z TO 232220Z OCT
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 232320Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>130357Z OCT 25
+NAVAREA XII 638/25(21,22,83).
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1536Z TO 2024Z DAILY 20 THRU 26 OCT
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 262124Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>042204Z OCT 25
