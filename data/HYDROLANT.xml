@@ -1,6 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>152101Z OCT 25
+HYDROLANT 1735/25(51).
+NORTH ATLANTIC.
+SENEGAL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 170800Z TO 171400Z OCT
+   IN AREA WITHIN NINE MILES OF 14-49.00N 018-44.00W.
+2. CANCEL THIS MSG 171500Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>151622Z OCT 25
+HYDROLANT 1734/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-48.00S 058-19.80W.
+   B. B15AB, 57-45.60S 048-45.00W.
+   C. B29, 73-49.80S 110-31.80W.
+   D. D33A, 66-35.40S 057-12.60W.
+   E. D33C, 67-00.00S 058-21.60W.
+2. CANCEL THIS MSG 161612Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>151454Z OCT 25
+HYDROLANT 1733/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 53-24.00S 038-42.00W.
+   B. A74A, 55-07.00S 033-46.00W.
+   C. A77, 57-17.00S 044-01.00W.
+   D. A76C, 60-10.00S 043-16.00W.
+   E. B15AB, 57-39.00S 049-12.00W.
+   F. A23G, 52-12.00S 038-52.00W.
+   G. A23H, 51-36.00S 040-18.00W.
+   H. A23I, 52-25.00S 041-36.00W.
+   I. 49-11.00S 038-14.00W.
+   J. 51-25.00S 039-45.00W.
+   K. 55-29.00S 043-54.00W.
+   L. 52-18.00S 025-55.00W.
+   M. 48-54.00S 020-12.00W.
+   N. 56-04.00S 045-22.00W.
+   O. 51-10.00S 029-48.00W.
+   P. 52-41.00S 036-36.00W.
+   Q. 50-37.00S 039-48.00W.
+   R. 51-28.00S 036-07.00W.
+   S. 51-36.00S 041-26.00W.
+   T. 50-45.00S 025-51.00W.
+   U. 52-40.00S 037-49.00W.
+   V. 53-26.00S 040-08.00W.
+   W. 53-41.00S 041-02.00W.
+   X. 52-20.00S 036-58.00W.
+   Y. 53-06.00S 037-28.00W.
+   Z. 50-40.00S 025-51.00W.
+   AA. 50-13.00S 031-46.00W.
+   AB. 50-46.00S 022-51.00W.
+   AC. 52-21.00S 027-33.00W.
+   AD. 53-32.00S 037-04.00W.
+   AE. 49-15.00S 038-46.00W.
+   AF. 51-38.00S 040-17.00W.
+2. CANCEL HYDROLANT 1712/25(37).
+3. CANCEL THIS MSG 161449Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OIL SPILL RESPONSE</category>
+        <status>INFORCE</status>
+        <msgText>151119Z OCT 25
+HYDROLANT 1732/25(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. OIL SPILL RESPONSE EXERCISE 180600Z TO
+   181300Z OCT BY M/V SAR FAME 
+   IN AREA BOUND BY
+   44-13.69N 029-07.75E, 44-13.69N 029-06.22E,
+   44-12.59N 029-06.22E, 44-12.59N 029-07.75E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 181400Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>142241Z OCT 25
@@ -22,7 +116,8 @@ DNC 01.
    01-54.07S 040-17.24W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1727/25.
-3. CANCEL THIS MSG 010001Z APR 26.</msgText>
+3. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -33,87 +128,7 @@ SOUTH ATLANTIC.
 DNC 01.
 1. HAZARDOUS OPERATIONS 180300Z TO 182100Z OCT
    IN AREA WITHIN TEN MILES OF 14-39.42S 037-02.66W.
-2. CANCEL THIS MSG 182200Z OCT 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>142218Z OCT 25
-HYDROLANT 1728/25(35,36).
-NORTH CHANNEL.
-NORTH SEA.
-ENGLAND.
-DNC 20.
-1. NAVTEX STATION CULLERCOATS (G)
-   55-04.00N 001-28.00W OFF AIR
-  150800Z TO 151400Z OCT.
-2. CULLERCOATS BROADCASTS WILL BE
-   TRANSMITTED FROM NAVTEX STATION
-   PORTPATRICK (O) 54-51.00N 005-07.00W.
-3. CANCEL THIS MSG 151500Z OCT 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141505Z OCT 25
-HYDROLANT 1726/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 53-26.00S 038-17.00W.
-   B. A74A, 55-07.00S 033-46.00W.
-   C. A77, 57-17.00S 044-01.00W.
-   D. A76C, 60-10.00S 043-17.00W.
-   E. B15AB, 57-39.00S 049-12.00W.
-   F. A23G, 52-19.00S 038-45.00W.
-   G. A23H, 51-37.00S 040-28.00W.
-   H. A23I, 52-33.00S 041-32.00W.
-   I. 49-11.00S 038-14.00W.
-   J. 51-25.00S 039-54.00W.
-   K. 55-31.00S 043-50.00W.
-   L. 52-18.00S 025-55.00W.
-   M. 48-54.00S 020-21.00W.
-   N. 56-18.00S 045-18.00W.
-   O. 51-10.00S 029-48.00W.
-   P. 52-41.00S 036-36.00W.
-   Q. 50-45.00S 040-05.00W.
-   R. 51-28.00S 036-07.00W.
-   S. 51-48.00S 041-37.00W.
-   T. 51-02.00S 026-14.00W.
-   U. 52-40.00S 037-49.00W.
-   V. 53-30.00S 039-50.00W.
-   W. 53-41.00S 041-02.00W.
-   X. 52-20.00S 036-58.00W.
-   Y. 53-06.00S 037-28.00W.
-   Z. 50-54.00S 026-12.00W.
-   AA. 50-13.00S 031-46.00W.
-   AB. 50-46.00S 022-51.00W.
-   AC. 52-21.00S 027-33.00W.
-   AD. 53-32.00S 037-04.00W.
-   AE. 49-15.00S 038-46.00W.
-   AF. 51-38.00S 040-17.00W.
-2. CANCEL THIS MSG 151502Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141429Z OCT 25
-HYDROLANT 1725/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-48.00S 058-19.80W.
-   B. B15AB, 57-45.60S 048-45.00W.
-   C. B29, 73-49.80S 110-31.80W.
-   D. D33A, 66-35.40S 057-12.60W.
-   E. D33C, 67-00.00S 058-21.60W.
-2. CANCEL THIS MSG 151415Z OCT 25.
+2. CANCEL THIS MSG 182200Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -178,21 +193,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>130951Z OCT 25
-HYDROLANT 1716/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-F/V NETINHO 3, SIX PERSONS ON BOARD,
-CAPSIZED IN 00-10.95S 047-48.67W ON 
-12 OCT. VESSELS IN VICINITY REQUESTED 
-TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>130146Z OCT 25
@@ -201,19 +201,6 @@ SOUTH PACIFIC.
 ARGENTINA.
 DNC 07.
 CRAWFORD LIGHT 52-32.70S 069-36.10W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>120933Z OCT 25
-HYDROLANT 1712/25(37).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-1. ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK  
-    53-11.0 N 002-05.8E INOPERATIVE.
-2. CANCEL WZ 546/25 (GA67).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -306,21 +293,6 @@ DNC 01.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>101652Z OCT 25
-HYDROLANT 1697/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 151000Z TO 152100Z OCT
-   IN AREA BOUND BY
-   00-39.40S 045-07.30W, 00-37.80S 045-17.00W,
-   00-58.00S 045-19.50W, 00-59.50S 045-09.50W.
-2. CANCEL THIS MSG 152200Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>101622Z OCT 25
 HYDROLANT 1696/25(35).
 NORTH ATLANTIC.
@@ -368,15 +340,6 @@ HYDROLANT 1695/25(GEN).
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1645/23, 1650/25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>101117Z OCT 25
-NAVAREA IV 1693/25.
-FRENCH GUIANA.
-CANCEL NAVAREA IV 52/25.
-CONDITION CHANGED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -1069,22 +1032,6 @@ DNC 21, DNC 22.
 GPS, GNSS, AIS, AND RADAR INTERFERENCE REPORTED IN 
 VICINITY OF BALTIC SEA, GULF OF FINLAND, GULF OF RIGA 
 AND SEA OF AALAND. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141442Z JUN 25
-HYDROLANT 1012/25(24).
-WESTERN SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS 151100Z JUN THRU 152200Z OCT
-   BY M/V FUGRO VAQUITA IN AREA BOUND BY
-   10-29.80S 036-24.40W, 11-26.60S 037-19.40W,
-   13-34.10S 034-36.90W, 12-45.40S 033-51.40W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 152300Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
