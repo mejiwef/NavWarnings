@@ -15,7 +15,8 @@ DNC 22.
    70-25.00N 013-17.00E, 70-49.00N 016-39.00E,
    69-42.00N 016-53.00E, 69-20.00N 015-09.00E,
    68-50.00N 014-14.00E.
-2. CANCEL THIS MSG 270300Z OCT 25.</msgText>
+2. CANCEL THIS MSG 270300Z OCT 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
