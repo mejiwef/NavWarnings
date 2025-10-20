@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>190557Z OCT 25
+HYDROPAC 2677/25(62).
+PERSIAN GULF.
+U.A.E..
+DNC 10.
+OBSTRUCTION REPORTED IN 25-19.55N 055-14.79E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>161857Z OCT 25
+HYDROPAC 2676/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1536Z TO 2024Z DAILY 24 THRU 30 OCT
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 302124Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>190042Z OCT 25
+HYDROPAC 2675/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+MAN OVERBOARD FROM F/V PY 94808 TS
+IN 13-18.00N 109-25.00E AT 180200Z OCT.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150816Z OCT 25
@@ -237,68 +278,6 @@ DNC 05.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>162207Z OCT 25
-HYDROPAC 2657/25(81,97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-MICRONESIA, FEDERATED STATES OF.
-DNC 12.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
-   A. 210204Z TO 210209Z OCT, ALTERNATE 
-      2007Z TO 0217Z DAILY 21 OCT THRU 03 NOV
-      IN AREA BOUND BY
-      28-39.00N 134-02.00E, 29-14.32N 134-12.30E,
-      29-17.85N 134-43.80E, 29-00.00N 135-38.00E,
-      28-24.56N 135-26.44E, 28-21.47N 134-58.80E.
-   B. 210208Z TO 210224Z OCT, ALTERNATE
-      2011Z TO 0232Z DAILY 21 OCT THRU 03 NOV
-      IN AREA BOUND BY
-      26-50.77N 136-38.57E, 26-59.55N 136-39.00E,
-      27-53.87N 137-12.15E, 27-52.00N 137-51.00E,
-      26-55.76N 139-21.52E, 26-44.98N 139-21.00E,
-      25-51.58N 138-47.72E, 25-53.40N 138-10.20E.
-   C. 210211Z TO 210227Z OCT, ALTERNATE
-      2014Z TO 0235Z DAILY 21 OCT THRU 03 NOV
-      IN AREA BOUND BY
-      16-09.00N 147-58.00E, 17-40.00N 149-35.00E,
-      10-45.00N 156-01.00E, 09-14.00N 154-25.00E.
-2. CANCEL THIS MSG 040335Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161138Z OCT 25
-HYDROPAC 2654/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 1130Z
-   DAILY 18 AND 19 OCT IN AREA BOUND BY
-   09-50.22N 075-43.40E, 09-50.20N 075-32.30E,
-   09-40.22N 075-32.30E, 09-40.22N 075-43.40E.
-2. CANCEL THIS MSG 191230Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>160906Z OCT 25
-HYDROPAC 2653/25(22,83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   210340Z TO 210449Z OCT
-   IN AREA BOUND BY
-   45-00.00S 165-00.00W, 45-00.00S 105-00.00W,
-   53-00.00S 105-00.00W, 53-00.00S 155-00.00W,
-   49-00.00S 165-00.00W.
-2. CANCEL THIS MSG 210549Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160807Z OCT 25
@@ -312,21 +291,6 @@ IN AREA BOUND BY
 17-15.00S 147-00.00E, 17-15.00S 149-24.00E,
 18-20.00S 149-24.00E, 18-20.00S 147-00.00E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>160425Z OCT 25
-HYDROPAC 2651/25(71,74).
-INDIAN OCEAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   190200Z TO 190800Z OCT
-   IN AREA BOUND BY
-   09-00.00S 093-03.00E, 08-56.00S 092-30.00E,
-   14-17.00S 091-47.00E, 14-22.00S 092-20.00E.
-2. CANCEL THIS MSG 190900Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -360,52 +324,6 @@ DNC 03.
    20-20.13N 072-01.32E, 20-13.31N 071-54.79E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 190001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>160045Z OCT 25
-HYDROPAC 2646/25(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-1. VESSEL BOARDED BY THREE ARMED PIRATES
-   IN 01-04.50N 103-35.70E AT 151940Z OCT.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 190045Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152355Z OCT 25
-HYDROPAC 2644/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V DEEP ORIENT IN
-   21-11.40S 114-41.80E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2553/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151417Z OCT 25
-HYDROPAC 2642/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0300Z TO 1200Z  
-   DAILY 18 AND 19 OCT IN AREA BOUND BY
-   24-48.41N 066-57.36E, 24-48.41N 066-49.63E,
-   24-46.59N 066-49.90E, 24-44.90N 066-50.57E,
-   24-43.45N 066-51.90E.
-2. CANCEL THIS MSG 191300Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

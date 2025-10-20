@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>161857Z OCT 25
+NAVAREA XII 652/25(21,22,83).
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1536Z TO 2024Z DAILY 24 THRU 30 OCT
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 302124Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180919Z OCT 25
@@ -121,24 +135,6 @@ COLOMBIA.
    02-01.72N 079-08.21W, 01-54.59N 079-08.23W,
    01-54.59N 079-01.19W, 02-01.71N 079-01.19W.
 2. CANCEL THIS MSG 212200Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160942Z OCT 25
-NAVAREA XII 643/25(19).
-NORTH PACIFIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   18 OCT BY M/V GRACE
-   ALONG TRACKLINE JOINING
-   25-06.40N 151-12.60W, 25-04.24N 151-16.47W,
-   25-04.24N 151-16.47W, 25-00.03N 151-23.11W,
-   25-00.95N 151-26.40W, 24-54.83N 151-33.89W,
-   24-43.17N 151-48.15W, 24-37.20N 151-57.01W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 616/25.
-3. CANCEL THIS MSG 190001Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
