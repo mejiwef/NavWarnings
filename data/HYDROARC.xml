@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>190635Z OCT 25
-HYDROARC 189/25(43).
-NORWEGIAN SEA.
-NORWAY.
-DNC 22.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   191800Z TO 200200Z OCT IN AREA BOUND BY
-   70-01.00N 013-43.00E, 69-22.00N 014-52.00E,
-   69-44.00N 016-38.00E, 70-22.00N 015-35.00E.
-2. CANCEL HYDROARC 188/25.
-3. CANCEL THIS MSG 200300Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>171738Z OCT 25
