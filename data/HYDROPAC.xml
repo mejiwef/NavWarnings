@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>210935Z OCT 25
+HYDROPAC 2690/25(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   221847Z TO 221914Z OCT
+   IN AREA BOUND BY
+   20-42.00S 173-18.60E, 20-48.00S 175-19.20E,
+   22-09.60S 179-34.80E, 22-09.00S 177-34.80E.
+2. CANCEL THIS MSG 222014Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210634Z OCT 25
+HYDROPAC 2688/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS 
+UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
+IN 21-11.40S 114-41.80E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201404Z OCT 25
@@ -221,23 +249,6 @@ DNC 03.
    17-25.00N 084-00.00E, 17-25.00N 083-40.00E.
 2. CANCEL HYDROPAC 2647/25 AND 2648/25.
 3. CANCEL THIS MSG 240930Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>170948Z OCT 25
-HYDROPAC 2666/25(82,83).
-CORAL SEA.
-SOUTH PACIFIC.
-VANUATU.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   221634Z TO 221937Z OCT
-   IN AREA BOUND BY
-   20-24.00S 169-27.00E, 22-26.00S 173-44.00E,
-   21-26.00S 149-10.00W, 18-52.00S 154-23.00W.
-2. CANCEL THIS MSG 222037Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -491,23 +502,6 @@ AUSTRALIA.
 DNC 05.
 RACON AT PIPER REEF LIGHT 12-15.07S 143-14.92E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121437Z OCT 25
-HYDROPAC 2617/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL
-   20 OCT IN AREA BOUND BY
-   26-29.38N 051-53.05E, 26-28.18N 051-54.91E,
-   26-24.57N 051-52.28E, 26-25.70N 051-50.11E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2590/25.
-3. CANCEL THIS MSG 210001Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1012,18 +1006,6 @@ DNC 04.
    12-59.00S 124-25.50E, 12-59.00S 124-27.80E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1889/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>212230Z SEP 25
-HYDROPAC 2436/25(73).
-CORAL SEA.
-PAPUA NEW GUINEA.
-DNC 05.
-RACON AT SMITH CAY LIGHT 09-45.93S 143-19.15E
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
