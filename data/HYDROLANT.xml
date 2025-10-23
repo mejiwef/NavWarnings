@@ -1,64 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>LIGHT</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>211720Z OCT 25
-HYDROLANT 1774/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
-2. CANCEL HYDROLANT 1495/25.</msgText>
+        <msgText>221350Z OCT 25
+HYDROLANT 1777/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 271500Z TO 282100Z OCT 
+   IN AREA WITHIN FIVE MILES OF 24-23.00S 045-47.00W.
+2. CANCEL THIS MSG 282200Z OCT 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>211438Z OCT 25
-HYDROLANT 1773/25(23,29).
+        <msgText>221355Z OCT 25
+HYDROLANT 1776/25(23,29).
 SCOTIA SEA.
 SOUTH ATLANTIC.
 ANTARCTICA.
 DNC 01, DNC 29.
 1. ICEBERGS REPORTED IN: 
-   A. A23A, 53-15.00S 039-45.00W.
+   A. A23A, 53-13.00S 039-59.00W.
    B. A74A, 54-05.00S 033-35.00W.
-   C. A77, 57-02.00S 042-05.00W.
-   D. A76C, 60-26.00S 043-07.00W.
-   E. B15AB, 57-54.00S 048-40.00W.
-   F. A23G, 52-11.00S 038-58.00W.
-   G. A23H, 51-36.00S 039-48.00W.
-   H. A23I, 51-20.00S 040-52.00W.
-   I. 49-14.00S 036-18.00W.
-   J. 51-31.00S 038-46.00W.
-   K. 55-44.00S 044-54.00W.
-   L. 55-16.00S 045-30.00W.
-   M. 52-30.00S 037-23.00W.
-   N. 50-56.00S 038-57.00W.
+   C. A77, 57-04.00S 041-53.00W.
+   D. A76C, 60-26.00S 043-04.00W.
+   E. B15AB, 58-05.00S 048-27.00W.
+   F. A23G, 52-13.00S 039-00.00W.
+   G. A23H, 51-41.00S 039-37.00W.
+   H. A23I, 51-13.00S 040-44.00W.
+   I. 49-20.00S 035-57.00W.
+   J. 51-29.00S 038-34.00W.
+   K. 55-41.00S 045-08.00W.
+   L. 55-18.00S 045-11.00W.
+   M. 52-32.00S 037-29.00W.
+   N. 51-05.00S 038-53.00W.
    O. 51-33.00S 036-02.00W.
-   P. 51-06.00S 040-09.00W.
-   Q. 49-58.00S 024-36.00W.
-   R. 52-59.00S 037-59.00W.
-   S. 53-02.00S 041-03.00W.
+   P. 51-09.00S 040-03.00W.
+   Q. 49-57.00S 024-35.00W.
+   R. 53-10.00S 037-55.00W.
+   S. 52-59.00S 041-08.00W.
    T. 53-42.00S 041-04.00W.
    U. 53-01.00S 036-42.00W.
-   V. 50-13.00S 025-02.00W.
+   V. 50-15.00S 024-31.00W.
    W. 50-21.00S 029-29.00W.
-   X. 50-17.00S 022-00.00W.
+   X. 50-08.00S 022-15.00W.
    Y. 53-32.00S 026-21.00W.
-   Z. 53-27.00S 037-07.00W.
-   AA. 49-21.00S 038-44.00W.
-   AB. 51-41.00S 039-08.00W.
-   AC. 61-02.00S 046-34.00W.
+   Z. 53-30.00S 036-55.00W.
+   AA. 49-21.00S 038-41.00W.
+   AB. 51-41.00S 039-02.00W.
+   AC. 60-59.00S 046-32.00W.
    AD. 52-51.00S 036-57.00W.
    AE. 53-00.00S 036-35.00W.
-2. CANCEL THIS MSG 221438Z OCT 25.</msgText>
+2. CANCEL THIS MSG 231354Z OCT 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>210952Z OCT 25
-HYDROLANT 1772/25(23,29).
+        <msgText>221001Z OCT 25
+HYDROLANT 1775/25(23,29).
 SCOTIA SEA.
 SOUTH ATLANTIC.
 SOUTH PACIFIC.
@@ -70,7 +73,20 @@ DNC 01, DNC 29.
    C. B29, 73-49.80S 110-31.80W.
    D. D33A, 66-10.80S 057-12.60W.
    E. D33C, 67-36.60S 058-20.40W.
-2. CANCEL THIS MSG 220952Z OCT 25.</msgText>
+2. CANCEL THIS MSG 231000Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>211720Z OCT 25
+HYDROLANT 1774/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
+2. CANCEL HYDROLANT 1495/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -82,10 +98,11 @@ BRAZIL.
 DNC 01.
 1. JERICOACOARA LIGHT 02-47.30S 040-30.00W 
    UNLIT UNTIL 19 APR 26. 
-2. CANCEL THIS MSG 200001Z APR 26.</msgText>
+2. CANCEL THIS MSG 200001Z APR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WORKING VESSEL</category>
+        <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>202244Z OCT 25
 HYDROLANT 1770/25(24).
@@ -102,7 +119,8 @@ DNC 01.
    02-32.32N 045-25.86W, 02-34.53N 045-23.63W.
    SEVEN MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1677/25.
-3. CANCEL THIS MSG 280001Z OCT 25.</msgText>
+3. CANCEL THIS MSG 280001Z OCT 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -115,7 +133,8 @@ DNC 01.
 1. ODAS BUOY BRAVO RN-L TEMPORARILY
    ESTABLISHED UNTIL 20 OCT 26
    IN 04-53.00S 035-46.01W.
-2. CANCEL THIS MSG 210001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 210001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -126,36 +145,8 @@ NORTH ATLANTIC.
 IRELAND.
 DNC 19.
 NAVTEX STATION VALENTIA (W) 51-56.00N 010-21.00W
-OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201318Z OCT 25
-HYDROLANT 1763/25(51).
-NORTH ATLANTIC.
-SENEGAL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 220900Z TO 221500Z
-   OCT IN AREA WITHIN 12 MILES OF 14-28.00N
-   017-52.00W.
-2. CANCEL THIS MSG 221600Z OCT 25.
+OFF AIR.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201057Z OCT 25
-HYDROLANT 1762/25(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. HAZARDOUS OPERATIONS 220800Z TO 222000Z OCT 
-   IN AREA BOUND BY 
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 222100Z OCT 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

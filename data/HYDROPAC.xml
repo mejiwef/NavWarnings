@@ -1,18 +1,135 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>222332Z OCT 25
+HYDROPAC 2703/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+CANCEL HYDROPAC 2622/25 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>221254Z OCT 25
+HYDROPAC 2701/25(97).
+NORTH PACIFIC.
+DNC 12.
+1. GUNNERY EXERCISES 2100Z TO 0900Z DAILY
+   26, 27 AND 29 OCT, ALTERNATE 302100Z TO
+   310900Z OCT IN AREA WITHIN 25 MILES OF
+   31-14.23N 144-26.80E.
+2. CANCEL HYDROPAC 2700/25(81).
+3. CANCEL THIS MSG 311000Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>220945Z OCT 25
+HYDROPAC 2699/25(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. NAVTEX STATION VALPARAISO (B) 32-48.37S 071-29.23W 
+   OFF AIR. 
+2. VALPARAISO RADIO 33-04.70S 071-36.80W ASSUMES 
+   CONTROL AND WILL TRANSMIT VIA SAFETYNET.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220936Z OCT 25
+HYDROPAC 2698/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 270001Z TO 310800Z OCT
+   IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
+   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
+   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+2. CANCEL THIS MSG 310900Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220919Z OCT 25
+HYDROPAC 2697/25(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 270001Z TO 310130Z OCT
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
+   10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 310230Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220807Z OCT 25
+HYDROPAC 2696/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 2100Z TO 0600Z DAILY
+   27 AND 28 OCT IN AREA WITHIN FIVE MILES OF
+   13-29.00N 144-25.00E.
+2. CANCEL THIS MSG 290700Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>220725Z OCT 25
+HYDROPAC 2695/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+ROBE LIGHT 37-09.90S 139-44.70E UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>210935Z OCT 25
-HYDROPAC 2690/25(83).
-SOUTH PACIFIC.
-DNC 06.
+        <msgText>220251Z OCT 25
+HYDROPAC 2692/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
 1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   221847Z TO 221914Z OCT
-   IN AREA BOUND BY
-   20-42.00S 173-18.60E, 20-48.00S 175-19.20E,
-   22-09.60S 179-34.80E, 22-09.00S 177-34.80E.
-2. CANCEL THIS MSG 222014Z OCT 25.
+   272248Z TO 280336Z, 282226Z TO 290314Z,
+   292204Z TO 300252Z, 302142Z TO 310230Z,
+   312120Z OCT TO 010208Z, 012057Z TO 020145Z
+   AND 022035Z TO 030123Z NOV IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 030223Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>220058Z OCT 25
+HYDROPAC 2691/25(97).
+EAST CHINA SEA.
+JAPAN.
+DNC 23.
+MOJI NAVTEX STATION (H) 34-00.9N 130-56.1E OFF AIR.
+MOJI BROADCASTS WILL BE TRANSMITTED FROM
+NAVTEX STATION NAHA (G) 26-05.50N 127-40.10E
+AND YOKOHAMA NAVTEX STATION (I) 35-14.55N 139-55.28E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -26,7 +143,8 @@ DNC 04.
 UNDERWATER OPERATIONS IN PROGRESS 
 UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
 IN 21-11.40S 114-41.80E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -46,7 +164,8 @@ DNC 10.
    C. 230400Z TO 231500Z IN AREA BOUND BY
       23-09.67N 038-45.67E, 23-09.67N 038-40.85E,
       23-03.83N 038-40.85E, 23-01.83N 038-46.83E.
-2. CANCEL THIS MSG 231600Z OCT 25.</msgText>
+2. CANCEL THIS MSG 231600Z OCT 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -161,21 +280,6 @@ DNC 02, DNC 03, DNC 10.
    09-18.00N 058-30.00E, 05-18.00N 053-30.00E,
    03-00.00N 052-32.00E.
 2. CANCEL THIS MSG 300327Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>180106Z OCT 25
-HYDROPAC 2671/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. USCG REMOTE COMMUNICATION FACILITY
-   GUAM 13-29.00N 144-50.00E MF AND HF TRANSMIT,
-   RECEIVE, AND DSC RESPONSE SERVICES OFF AIR 
-   221500Z TO 221900Z OCT.
-2. CANCEL THIS MSG 222000Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -302,19 +406,6 @@ DNC 12.
    14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
 2. CANCEL THIS MSG 240800Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>162314Z OCT 25
-HYDROPAC 2659/25(73).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-1. RACON AT BRAMBLE CAY LIGHT 09-08.53S 143-52.56E
-   INOPERATIVE.
-2. CANCEL HYDROPAC 2658/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -768,21 +859,6 @@ DNC 03.
    20-36.02N 072-02.23E, 20-08.39N 071-53.14E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 170001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061216Z OCT 25
-HYDROPAC 2563/25(63).
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0230Z TO 1130Z
-   DAILY 09, 15 AND 22 OCT IN AREA BOUND BY
-   20-40.00N 072-27.00E, 20-26.00N 072-27.00E,
-   20-26.00N 072-40.00E, 20-40.00N 072-40.00E.
-2. CANCEL THIS MSG 221230Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1345,24 +1421,6 @@ DNC 24.
    50-47.96N 144-53.12E, 50-48.80N 143-40.03E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>050949Z JUN 25
-HYDROPAC 1451/25(96).
-SEA OF OKHOTSK.
-RUSSIA.
-DNC 24.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 21 OCT BY M/V TRIAS
-   IN AREA BOUND BY
-   51-34.92N 143-24.27E, 51-34.90N 144-06.22E,
-   51-32.60N 144-06.18E, 51-31.60N 144-43.48E,
-   50-47.97N 144-53.12E, 50-48.80N 143-40.03E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
