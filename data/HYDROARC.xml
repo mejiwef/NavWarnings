@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>242131Z OCT 25
+HYDROARC 191/25(15).
+CANADA.
+DNC 28.
+CANCEL HYDROARC 153/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
-        <msgText>171738Z OCT 25
-HYDROARC 186/25(GEN).
-1. HYDROARC WARNINGS IN FORCE AS OF 171730Z OCT.
+        <msgText>241504Z OCT 25
+HYDROARC 190/25(GEN).
+1. HYDROARC WARNINGS IN FORCE AS OF 241503Z OCT. 
    ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   180/2025, 178/2025, 175/2025, 163/2025, 162/2025,
-   153/2025, 148/2025, 145/2025, 143/2025, 119/2025,
+   180/2025, 178/2025, 175/2025, 163/2025, 162/2025, 
+   153/2025, 148/2025, 145/2025, 143/2025, 119/2025, 
    103/2025.
    283/2024.
    163/2023.
@@ -19,8 +28,7 @@ HYDROARC 186/25(GEN).
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 183/25.
-CANCEL THIS MSG 241301Z OCT 25.
+3. CANCEL HYDROARC 186/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
