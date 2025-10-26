@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>251704Z OCT 25
+HYDROPAC 2738/25(76).
+TASMAN BAY.
+NEW ZEALAND.
+DNC 06.
+1. DERELICT 11 METER VESSEL ADRIFT
+   IN VICINITY 40-55.66S 174-29.94E 
+   AT 251535Z OCT.
+2. CANCEL THIS MSG 281703Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>251257Z OCT 25
+HYDROPAC 2737/25(63).
+EASTERN INDIAN OCEAN.
+SRI LANKA.
+DNC 03.
+1. M/V INTEGRITY STAR DERELICT AND ADRIFT 
+   IN 05-20.00N 082-33.00E AT 250715Z OCT.
+2. CANCEL THIS MSG 281258Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>251230Z OCT 25
+HYDROPAC 2736/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V QNG 90704 TS DISABLED AND ADRIFT 
+   IN 10-47.00N 109-28.00E AT 250825Z OCT.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL:HPLES-GMDSS@HPLES.COM.VN .
+2. CANCEL HYDROPAC 2725/25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>251017Z OCT 25
+HYDROPAC 2735/25(GEN).
+1. COAST GUARD OCEANIA DISTRICT 
+   COMMAND CENTER/JRCC HONOLULU 
+   NEW PHONE NUMBER 1-800-331-6176.
+   OLD PHONE NUMBER NO LONGER IN 
+   SERVICE.
+2. CANCEL THIS MSG 010001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>222117Z OCT 25
+HYDROPAC 2734/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   302142Z TO 310230Z OCT, ALTERNATE
+   312120Z OCT TO 010208Z NOV, 012058Z TO 020146Z
+   022036Z TO 030124Z, 032014Z TO 040102Z
+   041952Z TO 050040Z, 051929Z TO 060017Z NOV 
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 060117Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>241517Z OCT 25
@@ -163,23 +239,6 @@ DNC 03.
    13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
    13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
 2. CANCEL THIS MSG 281030Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>241153Z OCT 25
-HYDROPAC 2725/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 90704 TS DISABLED AND ADRIFT 
-   IN 12-05.00N 110-01.00E AT 241000Z OCT.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 2707/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

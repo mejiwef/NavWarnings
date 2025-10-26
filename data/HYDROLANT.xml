@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251711Z OCT 25
+HYDROLANT 1799/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 01.
+1. HAZARDOUS OPERATIONS 300000Z TO 302359Z OCT
+   IN AREA WITHIN 20.00 MILES OF 26-50.00N 014-00.00W.
+2. CANCEL THIS MSG 310100Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251441Z OCT 25
+HYDROLANT 1798/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 53-07.00S 040-10.00W.
+   B. A74A, 54-10.00S 033-11.00W.
+   C. A77, 56-49.00S 041-07.00W.
+   D. A76C, 60-26.00S 042-57.00W.
+   E. B15AB, 58-10.00S 048-09.00W.
+   F. A23G, 52-17.00S 038-55.00W.
+   G. A23I, 50-59.00S 040-26.00W.
+   H. 49-26.00S 035-39.00W.
+   I. 51-23.00S 038-12.00W.
+   J. 55-34.00S 045-02.00W.
+   K. 55-14.00S 045-02.00W.
+   L. 52-41.00S 037-39.00W.
+   M. 51-08.00S 038-17.00W.
+   N. 51-31.00S 035-48.00W.
+   O. 51-25.00S 039-49.00W.
+   P. 49-57.00S 024-35.00W.
+   Q. 53-13.00S 037-35.00W.
+   R. 52-51.00S 041-12.00W.
+   S. 53-42.00S 041-04.00W.
+   T. 52-47.00S 036-22.00W.
+   U. 50-12.00S 024-02.00W.
+   V. 49-36.00S 029-00.00W.
+   W. 49-54.00S 022-14.00W.
+   X. 52-58.00S 025-47.00W.
+   Y. 53-32.00S 036-54.00W.
+   Z. 49-44.00S 038-33.00W.
+   AA. 51-51.00S 038-58.00W.
+   AB. 60-58.00S 046-29.00W.
+   AC. 52-42.00S 036-38.00W.
+   AD. 52-32.00S 036-19.00W.
+   AE. 51-35.00S 039-19.00W.
+2. CANCEL THIS MSG 261440Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251305Z OCT 25
+HYDROLANT 1797/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-21.00S 058-09.60W.
+   B. B15AB, 58-05.40S 048-07.20W.
+   C. B29, 73-30.00S 110-19.20W.
+   D. D33A, 66-03.00S 057-07.80W.
+   E. D33C, 66-18.60S 058-13.20W.
+2. CANCEL THIS MSG 261304Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251243Z OCT 25
+HYDROLANT 1796/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 012300Z DEC 
+   BY M/V SKANDI COMMANDER IN AREA BOUND BY
+   22-20.46S 041-00.00W, 22-12.86S 040-52.68W,
+   22-10.08S 040-01.86W, 22-38.66S 040-04.76W,
+   22-43.03S 040-41.85W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1589/25.
+3. CANCEL THIS MSG 020001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>250350Z OCT 25
+HYDROLANT 1795/25(35).
+NORTH SEA.
+SCOTLAND.
+DNC 20.
+1. CGOC GREGNESS 57-07.70N 002-03.20W
+   MF R/T SERVICE OFF AIR.
+2. CANCEL HYDROLANT 1522/25</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>241732Z OCT 25
@@ -57,69 +162,6 @@ HYDROLANT 1792/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1748/25, 1759/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241407Z OCT 25
-HYDROLANT 1791/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 53-07.00S 040-10.00W.
-   B. A74A, 54-10.00S 033-11.00W.
-   C. A77, 56-49.00S 041-07.00W.
-   D. A76C, 60-26.00S 042-57.00W.
-   E. B15AB, 58-10.00S 048-09.00W.
-   F. A23G, 52-17.00S 038-55.00W.
-   G. A23I, 50-59.00S 040-26.00W.
-   H. 49-26.00S 035-39.00W.
-   I. 51-23.00S 038-12.00W.
-   J. 55-34.00S 045-02.00W.
-   K. 55-14.00S 045-02.00W.
-   L. 52-41.00S 037-39.00W.
-   M. 51-08.00S 038-17.00W.
-   N. 51-31.00S 035-48.00W.
-   O. 51-25.00S 039-49.00W.
-   P. 49-57.00S 024-35.00W.
-   Q. 53-13.00S 037-35.00W.
-   R. 52-51.00S 041-12.00W.
-   S. 53-42.00S 041-04.00W.
-   T. 52-47.00S 036-22.00W.
-   U. 50-12.00S 024-02.00W.
-   V. 49-36.00S 029-00.00W.
-   W. 49-54.00S 022-14.00W.
-   X. 52-58.00S 025-47.00W.
-   Y. 53-32.00S 036-54.00W.
-   Z. 49-44.00S 038-33.00W.
-   AA. 51-51.00S 038-58.00W.
-   AB. 60-58.00S 046-29.00W.
-   AC. 52-42.00S 036-38.00W.
-   AD. 52-32.00S 036-19.00W.
-   AE. 51-35.00S 039-19.00W.
-2. CANCEL THIS MSG 251406Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241402Z OCT 25
-HYDROLANT 1790/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-42.60S 058-19.80W.
-   B. B15AB, 57-34.80S 049-10.80W.
-   C. B29, 73-49.80S 110-31.80W.
-   D. D33A, 66-10.80S 057-12.60W.
-   E. D33C, 67-36.60S 058-20.40W.
-2. CANCEL THIS MSG 251400Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -577,25 +619,6 @@ DNC 14.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250449Z SEP 25
-HYDROLANT 1589/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   282300Z OCT BY M/V SKANDI COMMANDER
-   IN AREA BOUND BY
-   22-20.46S 041-00.00W, 22-12.86S 040-52.68W,
-   22-10.08S 040-01.86W, 22-38.66S 040-04.76W,
-   22-43.03S 040-41.85W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1438/25.
-3. CANCEL THIS MSG 290001Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>241707Z SEP 25
@@ -669,18 +692,6 @@ DNC 01.
 1. MORRO GRANDE LIGHT 20-18.15S 040-18.60W UNLIT
    UNTIL 12 MAR 26.
 2. CANCEL THIS MSG 130001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>122249Z SEP 25
-HYDROLANT 1522/25(35).
-NORTH SEA.
-SCOTLAND.
-DNC 20.
-CGOC GREGNESS 57-07.70N 002-03.20W
-MF R/T SERVICE OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

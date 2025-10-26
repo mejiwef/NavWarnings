@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>242131Z OCT 25
-HYDROARC 191/25(15).
+        <msgText>251826Z OCT 25
+HYDROARC 192/25(15).
 CANADA.
 DNC 28.
-CANCEL HYDROARC 153/25 AND THIS MSG.</msgText>
+IQALUIT MCTS CAMBRIDGE BAY
+IN 69-07.00N 105-01.00W. 
+MF AND HF SERVICES OFF AIR AT 251635Z OCT 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -96,18 +98,6 @@ DNC 28.
 DEPTHS REPORTED: 
 A. 6.4 METERS IN 71-21.06N 096-53.88W.
 B. 21.7 METERS IN 71-20.64N 096-55.57W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>VESSEL ABANDONED</category>
-        <status>INFORCE</status>
-        <msgText>080043Z SEP 25
-HYDROARC 153/25(15).
-MCCLINTOCK CHANNEL.
-CANADA.
-DNC 28.
-VESSEL THAMESBORG AGROUND
-IN 71-21.40N 096-53.96W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
