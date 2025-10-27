@@ -3,16 +3,85 @@
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
-        <msgText>251704Z OCT 25
-HYDROPAC 2738/25(76).
-TASMAN BAY.
-NEW ZEALAND.
-DNC 06.
-1. DERELICT 11 METER VESSEL ADRIFT
-   IN VICINITY 40-55.66S 174-29.94E 
-   AT 251535Z OCT.
-2. CANCEL THIS MSG 281703Z OCT 25.
+        <msgText>261940Z OCT 25
+HYDROPAC 2750/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. DERELICT F/V, PARTIALLY SUBMERGED AND
+   ADRIFT IN 11-23.30N 080-51.30E ON 25 OCT.
+2. CANCEL THIS MSG 291940Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>261934Z OCT 25
+HYDROPAC 2749/25(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   06-50.70N 077-37.40E AT 250652Z OCT.
+2. CANCEL THIS MSG 291934Z OCT 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>261922Z OCT 25
+HYDROPAC 2748/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 23.
+VESSEL THAI HA 8888, EIGHT PERSONS ON BOARD,
+SINKING IN 16-16.40N 108-12.46E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261519Z OCT 25
+HYDROPAC 2746/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. NAVAL OPERATIONS 0001Z TO 0400Z 
+   28 AND 29 OCT IN AREA BOUND BY
+   25-05.36N 063-32.47E, 24-59.00N 063-37.99E,
+   24-47.42N 063-23.42E, 24-53.79N 063-17.42E.
+2. CANCEL THIS MSG 290500Z OCT 25.
 </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261423Z OCT 25
+HYDROPAC 2745/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+UNDERWATER OPERATIONS 27 OCT UNTIL FURTHER NOTICE
+BY M/V HYSY 285 IN AREA BOUND BY
+26-01.77N 052-41.77E, 26-00.92N 052-40.77E,
+25-58.29N 052-40.08E, 25-56.48N 052-40.53E,
+25-52.60N 052-43.06E, 25-52.82N 052-44.47E,
+25-56.40N 052-45.64E, 26-00.97N 052-42.77E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>260458Z OCT 25
+HYDROPAC 2741/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+EIGHT, SIX METER BUOYS, YELLOW, FL W 3 SEC,
+ESTABLISHED IN AREA WITHIN ONE MILE
+OF 39-00.85S 142-36.47E.
+THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -25,24 +94,6 @@ DNC 03.
 1. M/V INTEGRITY STAR DERELICT AND ADRIFT 
    IN 05-20.00N 082-33.00E AT 250715Z OCT.
 2. CANCEL THIS MSG 281258Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>251230Z OCT 25
-HYDROPAC 2736/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 90704 TS DISABLED AND ADRIFT 
-   IN 10-47.00N 109-28.00E AT 250825Z OCT.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL:HPLES-GMDSS@HPLES.COM.VN .
-2. CANCEL HYDROPAC 2725/25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -149,23 +200,6 @@ DNC 03.
    17-54.00N 069-20.00E, 18-18.00N 072-10.00E,
    16-44.00N 073-06.00E, 16-36.00N 069-56.00E.
 2. CANCEL THIS MSG 271830Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>241322Z OCT 25
-HYDROPAC 2730/25(63).
-ANDAMAN SEA.
-BURMA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   260200Z TO 260800Z OCT IN AREAS BOUND BY:
-   A. 11-51.00N 097-03.00E, 12-43.00N 097-19.00E,
-      12-59.00N 096-25.00E, 12-07.00N 096-09.00E.
-   B. 07-36.00N 095-21.00E, 08-50.00N 095-45.00E,
-      09-16.00N 094-28.00E, 08-02.00N 094-03.00E.
-2. CANCEL THIS MSG 260900Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -436,21 +470,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>231142Z OCT 25
-HYDROPAC 2709/25(22,83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   260142Z TO 260221Z OCT IN AREA BOUND BY
-   45-00.00S 165-00.00W, 45-00.00S 105-00.00W,
-   53-00.00S 105-00.00W, 53-00.00S 155-00.00W,
-   49-00.00S 165-00.00W.
-2. CANCEL THIS MSG 260321Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>220745Z OCT 25
@@ -591,22 +610,6 @@ PERSIAN GULF.
 U.A.E.
 DNC 10.
 OBSTRUCTION REPORTED IN 25-19.55N 055-14.79E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>161857Z OCT 25
-HYDROPAC 2676/25(21,22,83).
-PACIFIC OCEAN.
-DNC 06, DNC 07, DNC 13.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1536Z TO 2024Z DAILY 24 THRU 30 OCT
-   IN AREA BOUND BY
-   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
-   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
-   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
-2. CANCEL THIS MSG 302124Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -824,21 +827,6 @@ AUSTRALIA.
 DNC 05.
 RACON AT PIPER REEF LIGHT 12-15.07S 143-14.92E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>121427Z OCT 25
-HYDROPAC 2616/25(97).
-NORTH PACIFIC.
-JAPAN.
-DNC 12.
-1. GUNNERY EXERCISES 2100Z TO 0900Z
-   DAILY 16 THRU 21 OCT, ALTERNATE 2100Z
-   TO 0900Z DAILY 22 THRU 25 OCT IN AREA
-   WITHIN 25 MILES OF31-14.14N 144-26.48E.
-2. CANCEL THIS MSG 261000Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1268,22 +1256,6 @@ OF 39-14.22S 145-15.22E.
 THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230941Z SEP 25
-HYDROPAC 2457/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE IN AREA BOUND BY
-   26-21.61N 051-25.27E, 26-17.07N 051-30.82E,
-   26-07.41N 051-21.18E, 26-11.50N 051-15.31E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2448/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>230235Z SEP 25
@@ -1399,18 +1371,6 @@ AUSTRALIA.
 DNC 05.
 THREE SIX METER YELLOW SURFACE BUOYS DEPLOYED
 IN AREA WITHIN ONE MILE OF 39-05.25S 142-54.80E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>261227Z AUG 25
-HYDROPAC 2175/25(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-12 SIX METER YELLOW SURFACE BUOYS DEPLOYED
-IN AREA WITHIN ONE MILE OF 38-56.07S 142-52.87E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
