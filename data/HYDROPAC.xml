@@ -3,6 +3,112 @@
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
+        <msgText>292013Z OCT 25
+HYDROPAC 2778/25(93).
+GULF OF THAILAND.
+VIETNAM.
+DNC 03.
+MAN OVERBOARD FROM F/V TG 93149 TS IN
+VICINITY 08-43.20N 104-16.90E AT 291115Z OCT.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM,
+E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291748Z OCT 25
+HYDROPAC 2777/25(81).
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 022330Z TO
+   030100Z, 2330Z TO 0230Z AND 
+   0500Z TO 0800Z DAILY 03 THRU 06 NOV
+   IN AREA BOUND BY
+   17-00.00N 145-05.00E, 17-00.00N 147-00.00E,
+   16-09.50N 148-10.00E, 14-45.00N 148-00.00E,
+   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
+   15-40.50N 146-12.10E, 15-43.60N 145-27.70E.
+2. CANCEL THIS MSG 070900Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291324Z OCT 25
+HYDROPAC 2776/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 300130Z TO 300215Z OCT
+   IN AREA BOUND BY
+   14-46.00N 073-43.00E, 14-46.00N 073-53.00E,
+   14-56.00N 073-53.00E, 14-56.00N 073-43.00E.
+2. CANCEL THIS MSG 300315Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290934Z OCT 25
+HYDROPAC 2775/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+YARRAVILLE SHOALS LIGHT 33-17.00S 137-35.00E
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290911Z OCT 25
+HYDROPAC 2774/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0300Z TO 1200Z 
+   DAILY 01 AND 02 NOV IN AREA BOUND BY
+   24-48.41N 066-57.36E, 24-48.41N 066-49.63E,
+   24-46.59N 066-49.90E, 24-44.90N 066-50.57E,
+   24-43.45N 066-51.90E.
+2. CANCEL THIS MSG 021300Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>290855Z OCT 25
+HYDROPAC 2773/25(83).
+SOUTH PACIFIC.
+DNC 06.
+1. DERELICT 105 METER M/V MEDIA ADRIFT 
+   IN VICINITY 16-10.03S 175-19.14E AT 
+   290230Z OCT.
+2. CANCEL THIS MSG 010854Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290608Z OCT 25
+HYDROPAC 2772/25(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 300330Z TO 301130Z OCT
+   IN AREA BOUND BY
+   09-17.00N 075-44.00E, 09-17.00N 075-49.00E,
+   09-22.00N 075-49.00E, 09-22.00N 075-44.00E.
+2. CANCEL THIS MSG 301230Z OCT 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
         <msgText>281740Z OCT 25
 HYDROPAC 2770/25(93).
 SOUTH CHINA SEA.
@@ -211,18 +317,6 @@ DNC 11.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>271158Z OCT 25
-HYDROPAC 2754/25(63).
-INDIA.
-DNC 03.
-1. NAVTEX STATION BALASORE (S) 21-29.18N 086-55.01E
-   OFF AIR 290030Z TO 291630Z OCT.
-2. CANCEL THIS MSG 291730Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270708Z OCT 25
@@ -237,47 +331,6 @@ DNC 10.
    26-27.72N 052-13.37E, 26-29.42N 052-14.93E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 040001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>261940Z OCT 25
-HYDROPAC 2750/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. DERELICT F/V, PARTIALLY SUBMERGED AND ADRIFT
-   IN VICINITY 11-23.30N 080-51.30E ON 25 OCT.
-2. CANCEL THIS MSG 291940Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>261934Z OCT 25
-HYDROPAC 2749/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. DERELICT VESSEL ADRIFT IN VICINITY
-   06-50.70N 077-37.40E AT 250652Z OCT.
-2. CANCEL THIS MSG 291934Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261519Z OCT 25
-HYDROPAC 2746/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. NAVAL OPERATIONS 0001Z TO 0400Z 
-   28 AND 29 OCT IN AREA BOUND BY
-   25-05.36N 063-32.47E, 24-59.00N 063-37.99E,
-   24-47.42N 063-23.42E, 24-53.79N 063-17.42E.
-2. CANCEL THIS MSG 290500Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -480,21 +533,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240118Z OCT 25
-HYDROPAC 2718/25(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 1300Z TO 1900Z
-   DAILY 28 AND 29 OCT IN AREA BOUND BY
-   36-25.00S 073-40.00W, 36-25.00S 073-21.50W,
-   36-40.00S 073-21.50W, 36-40.00S 073-40.00W.
-2. CANCEL THIS MSG 292000Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231624Z OCT 25
@@ -566,25 +604,6 @@ DNC 12.
    C. 16-09.00N 147-58.00E, 17-40.00N 149-35.00E,
       10-45.00N 156-01.00E, 09-14.00N 154-25.00E.
 2. CANCEL THIS MSG 040138Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231212Z OCT 25
-HYDROPAC 2710/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z
-   AND 0900Z TO 1100Z DAILY 27 AND 29 OCT
-   IN AREA BOUND BY
-   21-14.92N 086-48.63E, 20-42.50N 087-10.43E,
-   20-28.50N 086-54.78E, 19-54.67N 087-09.67E,
-   19-45.78N 087-48.07E, 21-02.72N 088-52.75E,
-   21-28.55N 087-59.30E, 21-35.58N 087-10.70E.
-2. CANCEL THIS MSG 291200Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -670,21 +689,6 @@ DNC 12.
    10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
 2. CANCEL THIS MSG 310230Z OCT 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>220807Z OCT 25
-HYDROPAC 2696/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 2100Z TO 0600Z DAILY
-   27 AND 28 OCT IN AREA WITHIN FIVE MILES OF
-   13-29.00N 144-25.00E.
-2. CANCEL THIS MSG 290700Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1061,22 +1065,6 @@ U.A.E.
 DNC 10.
 ZAQQUM BUOY IN 25-06.56N 053-25.06E.
 LIGHT AND RACON UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031204Z OCT 25
-HYDROPAC 2549/25(63).
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z DAILY
-   08, 15, 22 AND 29 OCT IN AREA BOUND BY
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 290730Z OCT 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
