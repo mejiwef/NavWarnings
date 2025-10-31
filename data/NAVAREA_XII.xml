@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>FISHING GEAR</category>
+        <status>INFORCE</status>
+        <msgText>300805Z OCT 25
+NAVAREA XII 678/25(22).
+NORTH PACIFIC.
+COLOMBIA.
+FISH FARM ESTABLISHED IN AREA BOUND BY
+07-10.96N 077-54.60W, 06-56.19N 078-07.51W,
+06-50.73N 078-04.75W, 06-11.42N 077-51.53W,
+06-03.57N 077-49.63W, 06-03.55N 077-32.02W,
+06-10.59N 077-31.38W, 06-17.90N 077-33.61W,
+06-31.64N 077-28.82W, 06-49.13N 077-44.24W.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>292326Z OCT 25
@@ -116,22 +132,6 @@ NAVAREA XII 665/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 647/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232218Z OCT 25
-NAVAREA XII 663/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1200Z TO 0030Z DAILY
-   27, 29 AND 30 OCT, ALTERNATE 1200Z TO
-   0030Z DAILY 31 OCT AND 01 NOV IN AREA BOUND BY
-   32-44.58N 120-08.37W, 33-31.07N 120-41.17W,
-   33-49.18N 120-25.82W, 33-52.48N 119-11.73W,
-   33-20.95N 119-08.00W, 33-02.63N 119-38.02W.
-2. CANCEL THIS MSG 010130Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
