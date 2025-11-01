@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>312341Z OCT 25
+HYDROARC 200/25(15).
+FRANKLIN STRAIT.
+MCCLINTOCK CHANNEL.
+CANADA.
+DNC 28.
+1. 20.7 METER DEPTH REPORTED IN 77-27.67N 093-03.26W.
+2. CANCEL HYDROARC 163/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>312332Z OCT 25
+HYDROARC 199/25(15).
+GULF OF BOOTHIA.
+CANADA.
+DNC 28.
+1. 6.8 METER DEPTH REPORTED IN 69-11.40N 089-32.70W.
+2. CANCEL HYDROARC 143/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>312309Z OCT 25
+HYDROARC 198/25(15).
+FRANKLIN STRAIT.
+MCCLINTOCK CHANNEL.
+CANADA.
+DNC 28.
+1. DEPTHS REPORTED: 
+   A. 6.4 METERS IN 71-21.06N 096-53.88W.
+   B. 21.7 METERS IN 71-20.64N 096-55.57W.
+2. CANCEL HYDROARC 162/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SHOAL</category>
+        <status>INFORCE</status>
+        <msgText>312302Z OCT 25
+HYDROARC 197/25(15).
+AMUNDSEN GULF.
+CANADA.
+DNC 28.
+1. SHOALS REPORTED IN: 
+   A. 71-22.48N 116-57.77W.
+   B. 71-22.61N 117-01.34W.
+2. CANCEL HYDROARC 119/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>311710Z OCT 25.
+HYDROARC 196/25(GEN).
+1. HYDROARC WARNINGS IN FORCE AS OF 311710Z OCT 25.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   195/2025, 194/2025, 180/2025, 178/2025, 175/2025, 
+   163/2025, 162/2025, 148/2025, 145/2025, 143/2025, 
+   119/2025, 103/2025.
+   283/2024. 
+   163/2023. 
+   198/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY   NGA.MIL.
+3. CANCEL HYDROARC 190/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ADMIN</category>
         <status>INFORCE</status>
         <msgText>302107Z OCT 25
@@ -12,7 +84,7 @@ ADDITIONAL MILITARY LAYERS (AML) ADVISORY.
    THE BOUNDARIES AML (U4R0UMBA THROUGH
    U4R0UMBZ) ONLY. EDITION 1 OF THE BOUNDARIES
    AML, OPAREA AMLS (U4R0UOA1, U4R0UOA3,
-    U4R0UOA0) AND HITS AML (U4R0UHIT) ARE
+   U4R0UOA0) AND HITS AML (U4R0UHIT) ARE
    NOT AFFECTED. NGA HAS CONFIRMED THIS
    ISSUE AFFECTS NAVY VMS 9.5.2; OTHER SYSTEMS
    ARE CURRENTLY UNASSESSED. QUERYING AREA
@@ -41,28 +113,6 @@ CANADA.
 DNC 27.
 MCTS IQALUIT REMOTE STATION INUVIK
 68-19.00N 133-35.00W HF SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>241504Z OCT 25
-HYDROARC 190/25(GEN).
-1. HYDROARC WARNINGS IN FORCE AS OF 241503Z OCT. 
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   180/2025, 178/2025, 175/2025, 163/2025, 162/2025, 
-   153/2025, 148/2025, 145/2025, 143/2025, 119/2025, 
-   103/2025.
-   283/2024.
-   163/2023.
-   198/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
-   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-   MARITIME SAFETY INFORMATION WEBSITE AT:
-   MSI.NGA.MIL/NAVWARNINGS.
-   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-   FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 186/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -109,32 +159,6 @@ DNC 28.
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
-        <msgText>191130Z SEP 25
-HYDROARC 163/25(15).
-FRANKLIN STRAIT.
-MCCLINTOCK CHANNEL.
-CANADA.
-DNC 28.
-20.7 METER DEPTH REPORTED IN 77-27.67N 093-03.26W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>191124Z SEP 25
-HYDROARC 162/25(15).
-FRANKLIN STRAIT.
-MCCLINTOCK CHANNEL.
-CANADA.
-DNC 28.
-DEPTHS REPORTED: 
-A. 6.4 METERS IN 71-21.06N 096-53.88W.
-B. 21.7 METERS IN 71-20.64N 096-55.57W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
         <msgText>310015Z AUG 25
 HYDROARC 148/25(15).
 LANCASTER SOUND.
@@ -153,30 +177,6 @@ CANADA.
 DNC 27.
 RACON AT PITT ISLAND 69-09.00N 136-11.00W
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>232329Z AUG 25
-HYDROARC 143/25(15).
-GULF OF BOOTHIA.
-CANADA.
-DNC 28.
-6.8 METER DEPTH REPORTED IN 69-11.40N 089-32.70W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SHOAL</category>
-        <status>INFORCE</status>
-        <msgText>302349Z JUL 25
-HYDROARC 119/25(15).
-AMUNDSEN GULF.
-CANADA.
-DNC 28.
-SHOALS REPORTED IN: 
-A. 71-22.50N 116-57.80W.
-B. 71-22.61N 117-01.30W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
