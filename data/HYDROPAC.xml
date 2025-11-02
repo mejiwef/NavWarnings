@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>012321Z NOV 25
+HYDROPAC 2814/25(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 05 THRU 07 NOV
+   IN AREA BOUND BY
+   36-52.00S 073-20.30W, 36-52.00S 073-28.00W,
+   37-00.00S 073-28.00W, 37-00.00S 073-20.30W.
+2. CANCEL THIS MSG 080100Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011842Z NOV 25
+HYDROPAC 2813/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V VANESSA 7 IN AREA BOUND BY
+18-36.12N 071-01.59E, 18-29.86N 072-15.01E,
+18-38.27N 072-14.04E, 18-54.75N 071-49.57E,
+19-34.90N 071-54.08E, 20-05.46N 071-53.12E,
+19-26.15N 071-18.63E, 19-15.30N 071-21.79E,
+19-14.62N 071-26.06E, 18-36.12N 071-01.59E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011735Z NOV 25
+HYDROPAC 2812/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0330Z TO 1130Z DAILY
+   03 THRU 05 NOV IN AREA BOUND BY
+   14-46.00N 073-43.00E, 14-46.00N 073-53.00E,
+   14-56.00N 073-53.00E, 14-56.00N 073-43.00E.
+2. CANCEL THIS MSG 051230Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>301929Z OCT 25
+HYDROPAC 2811/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   062232Z TO 070320Z, 072210Z TO 080258Z,
+   082148Z TO 090236Z, 091720Z TO 092208Z,
+   101658Z TO 102146Z, 112041Z TO 120129Z
+   AND 122019Z TO 130107Z NOV 
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 130207Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010447Z NOV 25
+HYDROPAC 2810/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 020300Z TO 051500Z NOV
+   IN AREA BOUND BY
+   23-30.00N 067-50.00E, 22-50.00N 067-30.00E,
+   22-42.00N 067-20.00E, 22-42.00N 066-30.00E,
+   23-30.00N 066-30.00E.
+2. CANCEL THIS MSG 051600Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010052Z NOV 25
+HYDROPAC 2809/25(97).
+NORTH PACIFIC.
+JAPAN.
+DNC 12.
+CABLE OPERATIONS 02 NOV UNTIL FURTHER NOTICE
+BY CABLESHIP KDDI CABLE INFINITY
+IN AREA BOUND BY
+28-35.00N 142-40.00E, 28-35.00N 143-20.00E,
+30-25.00N 143-20.00E, 30-25.00N 142-40.00E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>312142Z OCT 25
@@ -157,25 +252,6 @@ DNC 23, DNC 24.
    42-40.00N 131-41.00E, 42-15.00N 131-41.00E,
    42-15.00N 132-15.00E.
 2. CANCEL THIS MSG 291100Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>311021Z OCT 25
-HYDROPAC 2797/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-21.00S 058-16.20W.
-   B. B15AB, 58-05.40S 048-12.00W.
-   C. B29, 73-30.00S 110-31.80W.
-   D. D33A, 66-03.00S 057-13.20W.
-   E. D33C, 66-18.60S 058-21.60W.
-2. CANCEL THIS MSG 011021Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -584,19 +660,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>290855Z OCT 25
-HYDROPAC 2773/25(83).
-SOUTH PACIFIC.
-DNC 06.
-1. DERELICT 105 METER M/V MEDIA ADRIFT 
-   IN VICINITY 16-10.03S 175-19.14E AT 
-   290230Z OCT.
-2. CANCEL THIS MSG 010854Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>281740Z OCT 25
@@ -695,24 +758,6 @@ DNC 03, DNC 04, DNC 05, DNC 06.
    41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
    49-27.00S 159-48.00E.
 2. CANCEL THIS MSG 010100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271457Z OCT 25
-HYDROPAC 2758/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO
-   0730Z DAILY 30 OCT THRU 01 NOV
-   IN AREA BOUND BY
-   21-36.90N 087-30.07E, 21-02.72N 088-52.75E,
-   19-48.93N 087-40.23E, 19-40.18N 086-52.85E,
-   20-15.83N 086-50.73E, 20-48.12N 087-02.32E,
-   21-19.97N 086-54.63E.
-2. CANCEL THIS MSG 010830Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -886,21 +931,6 @@ AUSTRALIA.
 DNC 05.
 RACON AT DIAMOND REIGN LIGHT 13-11.56S 143-47.55E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241131Z OCT 25
-HYDROPAC 2722/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 27 THRU 31 OCT BY 
-   M/V VANESSA 6 ALONG TRACKLINE JOINING
-   19-31.85N 071-18.02E, 19-21.82N 072-06.78E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1291,45 +1321,6 @@ DNC 10.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2500/25.
 3. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011210Z OCT 25
-HYDROPAC 2529/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 31 OCT
-   BY M/V VANESSA 7 IN AREA BOUND BY
-   20-13.34N 071-54.79E, 20-05.46N 071-53.12E,
-   20-05.60N 071-48.56E, 19-35.42N 071-16.66E,
-   19-14.62N 071-26.06E, 19-15.30N 071-21.79E,
-   18-18.75N 072-01.56E, 18-01.05N 072-22.72E,
-   18-08.15N 072-25.28E, 18-29.86N 072-15.01E,
-   18-43.44N 072-22.31E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>261838Z SEP 25
-HYDROPAC 2495/25(61,75,76).
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-DNC 03, DNC 04, DNC 05, DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   01 THRU 31 OCT IN AREA BOUND BY
-   48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
-   51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
-   41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
-   49-27.00S 159-48.00E.
-2. CANCEL THIS MSG 010001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
