@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>022141Z NOV 25
+HYDROLANT 1839/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+ILHA DO BOI LIGHT 20-18.64S 040-16.90W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>022137Z NOV 25
+HYDROLANT 1838/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+PONTA UCHURIA LIGHT 20-19.41S 040-17.22W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>021604Z NOV 25
+HYDROLANT 1837/25(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. ABANDONED FISHING GEAR ADRIFT 
+   IN VICINITY 50-01N 003-50W AT 
+   021315Z NOV.
+2. CANCEL THIS MSG 051315Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021445Z NOV 25
+HYDROLANT 1836/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN:
+   A. A23A, 52-40.00S 040-16.00W.
+   B. A74A, 53-28.00S 031-24.00W.
+   C. A77, 56-09.00S 041-19.00W.
+   D. A76C, 60-34.00S 041-45.00W.
+   E. B15AB, 58-43.00S 047-13.00W.
+   F. A23G, 51-55.00S 038-52.00W.
+   G. A23I, 49-59.00S 039-47.00W.
+   H. 49-47.00S 035-17.00W.
+   I. 51-18.00S 038-03.00W.
+   J. 54-59.00S 044-12.00W.
+   K. 55-31.00S 043-48.00W.
+   L. 53-05.00S 036-39.00W.
+   M. 50-58.00S 037-56.00W.
+   N. 51-57.00S 035-12.00W.
+   O. 52-25.00S 039-30.00W.
+   P. 53-31.00S 038-25.00W.
+   Q. 52-19.00S 041-12.00W.
+   R. 53-41.00S 041-00.00W.
+   S. 52-08.00S 037-24.00W.
+   T. 51-24.00S 026-42.00W.
+   U. 52-48.00S 036-41.00W.
+   V. 49-44.00S 038-08.00W.
+   W. 51-38.00S 038-22.00W.
+   X. 60-58.00S 045-28.00W.
+   Y. 52-30.00S 037-32.00W.
+   Z. 52-05.00S 034-44.00W.
+   AA. 51-02.00S 038-22.00W.
+   AB. 52-05.00S 038-58.00W.
+   AC. 51-54.00S 039-01.00W.
+   AD. 52-14.00S 038-27.00W.
+   AE. 52-00.00S 038-18.00W.
+   AF. 52-05.00S 039-03.00W.
+   AG. 52-07.00S 038-44.00W.
+   AH. 51-19.00S 039-51.00W.
+   AI. 50-59.00S 027-09.00W.
+2. CANCEL THIS MSG 031445Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021109Z NOV 25
+HYDROLANT 1835/25(23, 29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-36.00S 058-16.20W.
+   B. B15AB, 58-09.00S 048-12.00W.
+   C. B29, 73-49.80S 110-31.80W.
+   D. D33A, 66-04.80S 057-13.20W.
+   E. D33C, 66-30.60S 058-21.60W.
+2. CANCEL THIS MSG 031109Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011616Z NOV 25
@@ -34,56 +132,6 @@ TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011417Z NOV 25
-HYDROLANT 1832/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 52-41.00S 040-22.00W.
-   B. A74A, 53-34.00S 031-40.00W.
-   C. A77, 56-20.00S 041-36.00W.
-   D. A76C, 60-31.00S 041-55.00W.
-   E. B15AB, 58-43.00S 047-13.00W.
-   F. A23G, 52-02.00S 038-52.00W.
-   G. A23I, 49-59.00S 039-47.00W.
-   H. 49-46.00S 035-14.00W.
-   I. 51-13.00S 038-04.00W.
-   J. 55-06.00S 044-43.00W.
-   K. 55-31.00S 043-48.00W.
-   L. 53-03.00S 036-46.00W.
-   M. 51-00.00S 037-55.00W.
-   N. 51-57.00S 035-12.00W.
-   O. 52-21.00S 039-39.00W.
-   P. 50-49.00S 022-10.00W.
-   Q. 53-31.00S 038-24.00W.
-   R. 52-19.00S 041-10.00W.
-   S. 53-41.00S 041-00.00W.
-   T. 52-06.00S 037-18.00W.
-   U. 51-33.00S 026-44.00W.
-   V. 52-58.00S 025-47.00W.
-   W. 52-59.00S 036-48.00W.
-   X. 49-47.00S 038-15.00W.
-   Y. 51-35.00S 038-27.00W.
-   Z. 61-02.00S 045-30.00W.
-   AA. 52-22.00S 037-25.00W.
-   AB. 52-17.00S 034-31.00W.
-   AC. 51-08.00S 038-28.00W.
-   AD. 51-07.00S 038-28.00W.
-   AE. 51-57.00S 038-37.00W.
-   AF. 52-09.00S 039-00.00W.
-   AG. 51-54.00S 039-01.00W.
-   AH. 52-28.00S 038-32.00W.
-   AI. 52-05.00S 038-02.00W.
-   AJ. 52-09.00S 038-46.00W.
-   AK. 51-19.00S 039-51.00W.
-   AL. 51-13.00S 027-06.00W.
-2. CANCEL THIS MSG 021437Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>011248Z NOV 25
@@ -95,36 +143,6 @@ DNC 01.
    UNLIT UNTIL 30 APR 26.
 2. CANCEL HYDROLANT 1779/25
 3. CANCEL THIS MSG 010001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011035Z NOV 25
-HYDROLANT 1830/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN:
-   A. A81, 65-21.00 S 58-16.20 W.
-   B. B15AB, 58-05.40 S 48-12.00 W.
-   C. B29, 73-30.00 S 110-31.80 W.
-   D. D33A, 66-03.00 S 57-13.20 W.
-   E. D33C, 66-18.60 S 58-21.60 W.
-2. CANCEL THIS MSG 021035Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311830Z OCT 25
-HYDROLANT 1829/25(51).
-NORTH ATLANTIC.
-SENEGAL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 020800Z TO 021400Z NOV
-   IN AREA WITHIN 20 MILES OF 12-44.00N 017-47.00W.
-2. CANCEL THIS MSG 021500Z NOV 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -452,21 +470,6 @@ IRELAND.
 DNC 19.
 NAVTEX STATION VALENTIA (W) 51-56.00N 010-21.00W
 OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>172021Z OCT 25
-HYDROLANT 1749/25(51).
-GULF OF CADIZ.
-PORTUGAL.
-DNC 08.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   020001Z NOV BY M/V RAMON MARGALEF
-   IN VICINITY 36-58.04N 007-07.33W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 020101Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

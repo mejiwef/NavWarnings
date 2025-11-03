@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010004Z NOV 25
+NAVAREA XII 686/25(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1600Z TO 0100Z DAILY
+   07 THRU 11 NOV IN AREA BOUND BY
+   32-36.00N 118-20.00W, 32-12.00N 119-18.00W,
+   32-23.00N 119-28.00W, 32-32.00N 119-18.00W,
+   33-02.00N 118-38.00W.
+2. CANCEL THIS MSG 120200Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>301916Z OCT 25
