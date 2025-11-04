@@ -1,6 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>032024Z NOV 25
+HYDROLANT 1845/25(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0600Z TO 1400Z
+   DAILY 06 AND 07 NOV IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 071500Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>031944Z NOV 25
+HYDROLANT 1844/25(GEN).
+EASTERN NORTH ATLANTIC.
+CANCEL HYDROLANT 1842/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031837Z NOV 25
+HYDROLANT 1843/25(51).
+NORTH ATLANTIC.
+SENEGAL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 060700Z TO 061500Z NOV 
+   IN AREA WITHIN 30 MILES OF 12-44.00N 017-47.00W.
+2. CANCEL THIS MSG 061600Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>031739Z NOV 25
+HYDROLANT 1842/25(GEN).
+EASTERN NORTH ATLANTIC.
+NAVAREA II E-MAIL UNUSABLE UNTIL FURTHER NOTICE.
+FOR ANY URGENT REQUEST OF NAVIGATIONAL WARNINGS,
+USE THE E-MAIL ADRESS: COORD.NAVAREA2@GMAIL.COM 
+OR CONTACT THE SERVICE PHONE 33 624 800 892.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031433Z NOV 25
+HYDROLANT 1841/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-40.00S 040-18.00W.
+   B. A74A, 53-25.00S 031-03.00W.
+   C. A77, 56-06.00S 041-18.00W.
+   D. A76C, 60-35.00S 041-37.00W.
+   E. B15AB, 58-58.00S 047-14.00W.
+   F. A23G, 51-51.00S 038-50.00W.
+   G. A23I, 49-49.00S 039-39.00W.
+   H. A23J, 52-01.00S 038-58.00W.
+   I. 49-46.00S 035-18.00W.
+   J. 51-24.00S 037-58.00W.
+   K. 54-59.00S 044-04.00W.
+   L. 53-06.00S 036-38.00W.
+   M. 51-02.00S 037-59.00W.
+   N. 50-39.00S 033-36.00W.
+   O. 52-27.00S 039-19.00W.
+   P. 53-32.00S 038-38.00W.
+   Q. 52-25.00S 040-59.00W.
+   R. 52-08.00S 037-24.00W.
+   S. 51-15.00S 026-41.00W.
+   T. 52-42.00S 036-44.00W.
+   U. 49-41.00S 037-52.00W.
+   V. 51-48.00S 038-20.00W.
+   W. 60-58.00S 045-35.00W.
+   X. 52-19.00S 034-14.00W.
+   Y. 50-59.00S 039-19.00W.
+   Z. 51-52.00S 038-57.00W.
+   AA. 52-17.00S 038-20.00W.
+   AB. 52-07.00S 038-58.00W.
+   AC. 52-04.00S 038-47.00W.
+   AD. 51-28.00S 039-45.00W.
+   AE. 50-59.00S 027-09.00W.
+   AF. 52-17.00S 038-32.00W.
+   AG. 51-55.00S 038-40.00W.
+   AH. 52-51.00S 040-09.00W.
+   AI. 53-01.00S 039-53.00W.
+2. CANCEL THIS MSG 041433Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031422Z NOV 25
+HYDROLANT 1840/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-36.00S 058-16.20W.
+   B. B15AB, 58-09.00S 048-12.00W.
+   C. B29, 73-49.80S 110-31.80W.
+   D. D33A, 66-04.80S 057-13.20W.
+   E. D33C, 66-30.60S 058-21.60W.
+2. CANCEL THIS MSG 041422Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>022141Z NOV 25
@@ -32,71 +147,6 @@ DNC 20.
    IN VICINITY 50-01N 003-50W AT 
    021315Z NOV.
 2. CANCEL THIS MSG 051315Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021445Z NOV 25
-HYDROLANT 1836/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 52-40.00S 040-16.00W.
-   B. A74A, 53-28.00S 031-24.00W.
-   C. A77, 56-09.00S 041-19.00W.
-   D. A76C, 60-34.00S 041-45.00W.
-   E. B15AB, 58-43.00S 047-13.00W.
-   F. A23G, 51-55.00S 038-52.00W.
-   G. A23I, 49-59.00S 039-47.00W.
-   H. 49-47.00S 035-17.00W.
-   I. 51-18.00S 038-03.00W.
-   J. 54-59.00S 044-12.00W.
-   K. 55-31.00S 043-48.00W.
-   L. 53-05.00S 036-39.00W.
-   M. 50-58.00S 037-56.00W.
-   N. 51-57.00S 035-12.00W.
-   O. 52-25.00S 039-30.00W.
-   P. 53-31.00S 038-25.00W.
-   Q. 52-19.00S 041-12.00W.
-   R. 53-41.00S 041-00.00W.
-   S. 52-08.00S 037-24.00W.
-   T. 51-24.00S 026-42.00W.
-   U. 52-48.00S 036-41.00W.
-   V. 49-44.00S 038-08.00W.
-   W. 51-38.00S 038-22.00W.
-   X. 60-58.00S 045-28.00W.
-   Y. 52-30.00S 037-32.00W.
-   Z. 52-05.00S 034-44.00W.
-   AA. 51-02.00S 038-22.00W.
-   AB. 52-05.00S 038-58.00W.
-   AC. 51-54.00S 039-01.00W.
-   AD. 52-14.00S 038-27.00W.
-   AE. 52-00.00S 038-18.00W.
-   AF. 52-05.00S 039-03.00W.
-   AG. 52-07.00S 038-44.00W.
-   AH. 51-19.00S 039-51.00W.
-   AI. 50-59.00S 027-09.00W.
-2. CANCEL THIS MSG 031445Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021109Z NOV 25
-HYDROLANT 1835/25(23, 29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-36.00S 058-16.20W.
-   B. B15AB, 58-09.00S 048-12.00W.
-   C. B29, 73-49.80S 110-31.80W.
-   D. D33A, 66-04.80S 057-13.20W.
-   E. D33C, 66-30.60S 058-21.60W.
-2. CANCEL THIS MSG 031109Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -561,21 +611,6 @@ SOUTH ATLANTIC.
 BRAZIL.
 DNC 01.
 YELLOW ODAS BUOY ESTABLISHED IN 18-03.67S 038-51.08W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>291046Z SEP 25
-HYDROLANT 1690/25(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-DNC 01, DNC 14.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   15 OCT THRU 02 NOV IN AREA BOUND BY
-   05-49.00N 053-59.11W, 04-27.12N 051-30.00W,
-   06-18.45N 048-17.31W, 09-09.52N 053-31.17W.
-2. CANCEL THIS MSG 030001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

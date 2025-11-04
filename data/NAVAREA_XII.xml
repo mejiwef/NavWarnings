@@ -170,20 +170,6 @@ REPORTS TO ANY COASTAL RADIO STATION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281710Z OCT 25
-NAVAREA XII 673/25(18).
-NORTH PACIFIC.
-1. CABLE OPERATIONS 302100Z OCT THRU 082300Z NOV
-   BY M/V REBECCA ALONG TRACKLINE JOINING
-   41-36.63N 134-15.92W, 43-03.45N 132-35.90W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 655/25.
-3. CANCEL THIS MSG 090001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ADMIN</category>
         <status>INFORCE</status>
         <msgText>251006Z OCT 25
