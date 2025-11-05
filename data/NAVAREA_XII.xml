@@ -3,6 +3,40 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>041755Z NOV 25
+NAVAREA XII 689/25(18,21).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS:
+   A. 1600Z TO 0100Z DAILY 07, 08 AND 11 NOV
+      IN AREA BOUND BY
+      32-36.00N 118-20.00W, 32-12.00N 119-18.00W,
+      32-23.00N 119-28.00W, 32-32.00N 119-18.00W,
+      33-02.00N 118-38.00W.
+   B. 1600Z TO 0100Z DAILY 09 AND 10 NOV
+      IN AREA BOUND BY
+      32-35.00N 117-40.00W, 32-48.00N 118-25.09W,
+      33-02.10N 118-37.09W, 33-03.90N 118-41.59W,
+      33-08.00N 118-51.90W, 32-11.00N 120-17.00W,
+      31-41.50N 120-15.00W, 30-54.00N 118-46.99W,
+      30-54.00N 117-40.00W.
+2. CANCEL THIS MSG 120200Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>040059Z NOV 25
+NAVAREA XII 688/25(18).
+EASTERN NORTH PACIFIC.
+CANADA.
+1. AMPHITRITE POINT (H) 48-55.28N 125-32.38W
+   NAVTEX SERVICES OFF AIR 041600Z TO 050001Z NOV.
+2. CANCEL THIS MSG 050101Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>010004Z NOV 25
 NAVAREA XII 686/25(18).
 NORTH PACIFIC.

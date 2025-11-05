@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041039Z NOV 25
+HYDROPAC 2835/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   15 MAY 26 BY M/V MICLYN CONSTRUCTOR I 
+   AND M/V SAKSHAM IN 19-31.78N 071-18.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>040906Z NOV 25
+HYDROPAC 2834/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 23.
+F/V QNG 96257 TS, 16 PERSONS ON BOARD, 
+DISABLED AND ADRIFT DUE TO ENGINE FAILURE
+IN 15-15.43N 110-23.36E AT 040630Z NOV.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>040219Z NOV 25
+HYDROPAC 2833/25(74).
+EASTERN INDIAN OCEAN.
+INDONESIA.
+DNC 04.
+1. DERELICT VESSEL, PARTIALLY SUBMERGED AND
+   ADRIFT IN 12-17.00S 122-47.00E AT 030455Z NOV.
+2. CANCEL THIS MSG 070219Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FAD</category>
+        <status>INFORCE</status>
+        <msgText>040214Z NOV 25
+HYDROPAC 2832/25(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+1. FAD WITH ROPE ADRIFT IN 14-11.21S 118-39.88E
+   AT 030429Z NOV.
+2. CANCEL THIS MSG 070214Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031804Z NOV 25
@@ -136,19 +191,6 @@ SEA FARM ESTABLISHED IN AREA BOUND BY
 40-55.50S 174-13.41E, 40-55.05S 174-14.05E,
 40-55.66S 174-14.80E, 40-56.12S 174-14.41E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>022320Z NOV 25
-HYDROPAC 2819/25(81).
-NORTH PACIFIC.
-DNC 12.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL
-   040800Z NOV IN AREAS WITHIN:
-   A. 20 MILES OF 23-00.00N 165-58.00E.
-   B. TEN MILES OF 22-42.00N 166-00.00E.
-2. CANCEL THIS MSG 040900Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -385,21 +427,6 @@ HYDROPAC 2805/25(GEN).
 3. CANCEL HYDROPAC 2608/25, 2624/25, 2733/25, 2798/25, 
    2802/25, 2803/25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311513Z OCT 25
-HYDROPAC 2804/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 040330Z TO
-   040730Z NOV IN AREA BOUND BY
-   20-22.30N 087-29.68E, 20-48.92N 087-07.08E,
-   20-48.12N 087-02.32E, 20-15.83N 086-50.73E,
-   19-40.18N 086-52.85E, 19-48.93N 087-40.23E.
-2. CANCEL THIS MSG 040830Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -862,23 +889,6 @@ DNC 11.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270708Z OCT 25
-HYDROPAC 2752/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 
-   03 NOV BY BARGE MCDERMOTT DB50 AND 
-   BARGE DERRICK DB30 IN AREA BOUND BY
-   26-24.79N 052-18.05E, 26-23.36N 052-15.38E,
-   26-27.72N 052-13.37E, 26-29.42N 052-14.93E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261423Z OCT 25
@@ -1019,30 +1029,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>231248Z OCT 25
-HYDROPAC 2711/25(81,97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-MICRONESIA.
-DNC 12.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   260006Z TO 260029Z OCT, ALTERNATE  2007Z TO 0038Z   
-   DAILY 26 OCT TO 03 NOV IN AREAS BOUND BY:
-   A. 28-39.00N 134-02.00E, 29-14.32N 134-12.30E,
-      29-17.85N 134-43.80E, 29-00.00N 135-38.00E,
-      28-24.56N 135-26.44E, 28-21.47N 134-58.80E.
-   B. 26-50.77N 136-38.57E, 26-59.55N 136-39.00E,
-      27-53.87N 137-12.15E, 27-52.00N 137-51.00E,
-      26-55.76N 139-21.52E, 26-44.98N 139-21.00E,
-      25-51.58N 138-47.72E, 25-53.40N 138-10.20E.
-   C. 16-09.00N 147-58.00E, 17-40.00N 149-35.00E,
-      10-45.00N 156-01.00E, 09-14.00N 154-25.00E.
-2. CANCEL THIS MSG 040138Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1214,25 +1200,6 @@ DNC 03.
    20-13.31N 071-54.79E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 230001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091425Z OCT 25
-HYDROPAC 2595/25(63).
-ARABIAN SEA.
-INDIA.
-PAKISTAN.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 03 NOV
-   BY MV PACIFIC GROUSE IN AREAS BOUND BY:
-   A. 22-26.77N 068-34.81E, 22-26.74N 068-26.49E,
-      22-20.62N 068-26.52E, 22-20.64N 068-34.83E.
-   B. 22-42.76N 068-32.32E, 22-42.75N 068-27.41E,
-      22-35.18N 068-27.44E, 22-35.20N 068-32.35E.
-    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
