@@ -1,6 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>062128Z NOV 25
+HYDROPAC 2861/25(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 080001Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061447Z NOV 25
+HYDROPAC 2860/25(81).
+NORTH PACIFIC.
+DNC 12.
+CABLE OPERATIONS 07 NOV UNTIL FURTHER NOTICE 
+BY M/V ANIEK IN VICINITY OF TRACKLINE JOINING
+23-29.71N 154-55.86E, 23-29.79N 154-27.60E,
+23-24.00N 154-15.00E, 23-09.60N 154-02.89E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY</category>
+        <status>INFORCE</status>
+        <msgText>061308Z NOV 25
+HYDROPAC 2859/25(63).
+EASTERN INDIAN OCEAN.
+DNC 02.
+1. VESSEL REPORTS ATTACK IN 02-05N 057-10E AT 
+   060850Z NOV. VESSELS ARE ADVISED TO KEEP CLEAR 
+   OF THIS POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 091308Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061106Z NOV 25
+HYDROPAC 2858/25(63).
+ANDAMAN SEA.
+BURMA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 100001Z TO 142359Z NOV 
+   IN AREA BOUND BY
+   12-51.00N 096-40.00E, 12-51.00N 097-40.00E,
+   11-51.00N 097-40.00E, 11-51.00N 096-40.00E.
+2. CANCEL THIS MSG 150059Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>060909Z NOV 25
+HYDROPAC 2857/25(63).
+EASTERN INDIAN OCEAN.
+DNC 02.
+1. VESSEL ATTACKED IN 02-05.00N 057-10.00E 
+   AT 060850Z NOV.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 090920Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050747Z NOV 25
+HYDROPAC 2855/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 11 THRU 13 NOV IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 131400Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060152Z NOV 25
+HYDROPAC 2853/25(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   06 DEC 26 IN AREA BOUND BY
+   16-21.67S 179-19.24E, 16-21.46S 179-20.53E,
+   16-21.30S 179-22.13E, 16-21.52S 179-22.14E,
+   16-21.70S 179-21.88E, 16-22.00S 179-20.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 060600Z DEC 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>052258Z NOV 25
@@ -169,23 +268,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>040906Z NOV 25
-HYDROPAC 2834/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 23.
-F/V QNG 96257 TS, 16 PERSONS ON BOARD, 
-DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-IN 15-15.43N 110-23.36E AT 040630Z NOV.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>040219Z NOV 25
@@ -264,21 +346,6 @@ DNC 03.
    17-14.00S 091-33.00E, 17-10.00S 091-00.00E,
    22-30.00S 090-11.00E, 22-35.00S 090-45.00E.
 2. CANCEL THIS MSG 070900Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031242Z NOV 25
-HYDROPAC 2826/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 060830Z TO 061030Z NOV
-   IN AREA BOUND BY
-   13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
-   12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
-2. CANCEL THIS MSG 061130Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -444,25 +511,6 @@ IN AREA BOUND BY
 WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>312142Z OCT 25
-HYDROPAC 2808/25(76,83).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   1215Z TO 2115Z DAILY 05 THRU 18 NOV
-   IN AREAS BOUND BY:
-   A. 39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
-      39-12.00S 178-15.00E, 39-24.00S 178-45.00E,
-      39-33.00S 178-39.00E, 39-27.00S 177-54.00E,
-      39-18.00S 177-39.00E, 39-15.00S 177-39.00E.
-   B. 39-36.00S 176-54.00W, 40-36.00S 170-06.00W,
-      42-12.00S 170-30.00W, 41-12.00S 177-24.00W.
-2. CANCEL THIS MSG 182215Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>311803Z OCT 25
@@ -519,24 +567,6 @@ HYDROPAC 2805/25(GEN).
    FROM NGA AT NAVSAFETY   NGA.MIL.
 3. CANCEL HYDROPAC 2608/25, 2624/25, 2733/25, 2798/25, 
    2802/25, 2803/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311406Z OCT 25
-HYDROPAC 2801/25(81).
-NORTH PACIFIC.
-MARSHALL ISLANDS.
-DNC 12, DNC 13.
-1. HAZARDOUS OPERATIONS 0631Z TO 1431Z DAILY
-   05 AND 06 NOV IN AREAS BOUND BY:
-   A. 16-00.00N 178-01.00E, 15-20.00N 176-45.00E,
-      14-24.00N 177-15.00E, 15-08.00N 178-34.00E.
-   B. 13-29.00N 174-16.00E, 14-10.00N 172-45.00E,
-      13-16.00N 171-22.00E, 11-45.00N 171-57.00E,
-      10-50.00N 173-16.00E, 11-56.00N 174-44.00E.
-2.  CANCEL THIS MSG 061501Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -618,21 +648,6 @@ ADDITIONAL MILITARY LAYERS (AML) ADVISORY.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>301748Z OCT 25
-HYDROPAC 2787/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS  030230Z TO 062230Z NOV
-   IN AREA BOUND BY
-   17-50.00N 084-25.00E, 17-05.00N 083-15.00E,
-   15-55.00N 084-06.00E, 16-40.00N 085-16.00E.
-2. CANCEL THIS MSG 062330Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>301612Z OCT 25
 HYDROPAC 2785/25(63).
 BAY OF BENGAL.
@@ -685,23 +700,6 @@ DNC 03, DNC 10.
    D. 24-16.30N 066-33.00E, 24-22.00N 066-27.00E,
       24-16.18N 066-20.50E, 24-10.30N 066-27.00E.
 2. CANCEL THIS MSG 282000Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290842Z OCT 25
-HYDROPAC 2779/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 04 THRU 06 NOV IN AREAS WITHIN
-   THREE MILE OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 061400Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -908,24 +906,6 @@ HYDROPAC 2735/25(GEN).
    OLD PHONE NUMBER NO LONGER IN 
    SERVICE.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>222117Z OCT 25
-HYDROPAC 2734/25(21,22,83).
-PACIFIC OCEAN.
-DNC 06, DNC 07, DNC 13.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   302142Z TO 310230Z OCT, 312120Z OCT TO 010208Z NOV,
-   012058Z TO 020146Z, 022036Z TO 030124Z,
-   032014Z TO 040102Z, 041952Z TO 050040Z,
-   051929Z TO 060017Z NOV IN AREA BOUND BY
-   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
-   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
-   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
-2. CANCEL THIS MSG 060117Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
