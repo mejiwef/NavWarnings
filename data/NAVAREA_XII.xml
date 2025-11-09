@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080136Z NOV 25
+NAVAREA XII 705/25(19).
+NORTH PACIFIC.
+1. CABLE OPERATIONS 121200Z TO 172300Z NOV 
+   BY M/V REBECCA ALONG TRACKLINE JOINING
+   23-59.23N 154-47.84W, 23-32.37N 155-58.93W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 180001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>071725Z NOV 25
@@ -35,18 +48,6 @@ NAVAREA XII 702/25(GEN).
    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 682/25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>062128Z NOV 25
-NAVAREA XII 700/25(GEN).
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 080001Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
@@ -157,21 +158,6 @@ PACIFIC OCEAN.
    00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
    10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
 2. CANCEL THIS MSG 130207Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>292109Z OCT 25
-NAVAREA XII 681/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 051700Z TO 052300Z
-   AND 081500Z TO 082100Z NOV 
-   IN AREA BOUND BY
-   32-54.55N 120-49.75W, 33-25.02N 120-30.63W,
-   33-04.35N 119-44.72W, 32-33.98N 120-04.28W.
-2. CANCEL THIS MSG 082200Z NOV 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>FISHING GEAR</category>

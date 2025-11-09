@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081425Z NOV 25
+HYDROPAC 2879/25(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 22 NOV
+   BY M/V CABO DE HORNOS IN AREA BOUND BY
+   33-00.00S 074-35.80W, 33-00.00S 071-39.60W,
+   33-51.60S 071-50.10W, 34-49.10S 072-08.80W,
+   35-43.10S 072-35.20W, 35-43.10S 074-35.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 230001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>071633Z NOV 25
@@ -231,18 +248,6 @@ DNC 07.
    41-47.06S 073-52.75W OFF AIR.
 2. VALPARAISO RADIO 33-04.70S 071-36.80W 
    ASSUMES CONTROL AND TRANSMIT VIA SAFETYNET.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>062128Z NOV 25
-HYDROPAC 2861/25(GEN).
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 080001Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -586,20 +591,6 @@ BY VESSEL CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>012321Z NOV 25
-HYDROPAC 2814/25(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 05 THRU 07 NOV
-   IN AREA BOUND BY
-   36-52.00S 073-20.30W, 36-52.00S 073-28.00W,
-   37-00.00S 073-28.00W, 37-00.00S 073-20.30W.
-2. CANCEL THIS MSG 080100Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011842Z NOV 25
@@ -864,24 +855,6 @@ WIDE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>251311Z OCT 25
-HYDROPAC 2765/25(57,61).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   020714Z TO 020805Z, 030648Z TO 030739Z, 
-   040627Z TO 040718Z, 050602Z TO 050653Z,
-   060537Z TO 060628Z, 070511Z TO 070602Z AND 
-   080450Z TO 080541Z NOV IN AREA BOUND BY
-   37-27.00S 053-38.00E, 36-08.00S 053-05.00E,
-   44-59.00S 016-14.00E, 46-18.00S 016-52.00E.
-2. CANCEL THIS MSG 080641Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
         <msgText>271751Z OCT 25
 HYDROPAC 2762/25(57,61,71).
 EASTERN INDIAN OCEAN.
@@ -925,21 +898,6 @@ MOJI NAVTEX STATION (H) 34-00.90N 130-56.10E OFF AIR.
 MOJI BROADCASTS WILL BE TRANSMITTED FROM
 NAHA NAVTEX STATION (G) 26-05.50N 127-40.10E
 AND YOKOHAMA NAVTEX STATION (I) 35-14.55N 139-55.28E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>271241Z OCT 25
-HYDROPAC 2755/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. GUNNERY EXERCISES 010001Z TO 011300Z NOV,
-   ALTERNATE 080001Z TO 081300Z NOV
-   IN AREA BOUND BY
-   10-25.16N 114-18.56E, 10-25.28N 114-25.80E,
-   10-20.95N 114-26.08E, 10-20.20N 114-18.56E.
-2. CANCEL THIS MSG 081400Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
