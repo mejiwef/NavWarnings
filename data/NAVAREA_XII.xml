@@ -3,6 +3,24 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>101945Z NOV 25
+NAVAREA XII 708/25(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 141700Z TO 150100Z NOV 
+   ALTERNATE 151700Z TO 160100Z NOV 
+   IN AREA BOUND BY
+   33-47.00N 119-22.00W, 33-51.00N 119-03.00W,
+   33-50.00N 119-01.00W, 33-35.00N 119-08.00W,
+   33-15.00N 119-37.00W, 33-07.00N 119-33.00W,
+   32-56.00N 119-48.00W, 33-12.00N 120-08.00W,
+   33-31.00N 119-50.00W.
+2. CANCEL THIS MSG 160200Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>070012Z NOV 25
 NAVAREA XII 707/25(18).
 NORTH PACIFIC.

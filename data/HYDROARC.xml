@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>100841Z NOV 25
+HYDROARC 206/25(43).
+NORWEGIAN SEA.
+NORWAY.
+DNC 21, DNC 22.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0600Z TO 1100Z DAILY 13 THRU 27 NOV
+   IN AREAS BOUND BY:
+   A. 74-35.00N 016-04.00E, 74-19.00N 011-35.00E,
+      73-25.00N 012-47.00E, 73-40.00N 016-50.00E.
+   B. 70-29.00N 016-24.00E, 71-06.00N 014-37.00E,
+      70-31.00N 012-39.00E, 69-53.00N 014-33.00E.
+   C. 69-48.00N 016-09.00E, 69-47.00N 015-33.00E,
+      69-35.00N 015-38.00E, 69-36.00N 016-12.00E.
+   D. 69-26.30N 016-10.50E, 69-28.60N 015-57.40E,
+      69-27.20N 015-49.40E, 69-21.10N 015-34.50E,
+      69-16.60N 016-04.10E.
+2. CANCEL THIS MSG 271200Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>071604Z NOV 25
