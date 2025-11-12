@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER EVENTS</category>
+        <status>INFORCE</status>
+        <msgText>111919Z NOV 25
+NAVAREA XII 711/25(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 150001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>110106Z NOV 25
+NAVAREA XII 710/25(22).
+NORTH PACIFIC.
+COLOMBIA.
+PUNTA COLL LIGHTHOUSE 03-00.20N 078-10.07W
+AND GORGONILLA LIGHTHOUSE 02-56.50N 078-12.86W
+DISCONTINUED. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>110046Z NOV 25
+NAVAREA XII 709/25(22).
+NORTH PACIFIC.
+COLOMBIA.
+CHARAMBIRA LIGHTHOUSE 04-15.00N 077-31.50W
+DISCONTINUED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101945Z NOV 25
@@ -71,19 +106,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>071725Z NOV 25
-NAVAREA XII 703/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. USCG REMOTE COMMUNICATION FACILITY 
-   HONOLULU 21-22.00N 158-09.00W HF TRANSMIT 
-   UNRELIABLE 101830Z TO 110001Z NOV.
-2. CANCEL THIS MSG 110100Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>071700Z NOV 25
@@ -132,7 +154,8 @@ PACIFIC OCEAN.
    IN AREA BOUND BY
    00-04.00N 175-42.00W, 00-18.00S 173-50.00W,
    13-27.00N 171-03.00W, 14-57.00N 172-49.00W.
-2. CANCEL THIS MSG 170011Z NOV 25.</msgText>
+2. CANCEL THIS MSG 170011Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -214,7 +237,8 @@ PACIFIC OCEAN.
    34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
    00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
    10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
-2. CANCEL THIS MSG 130207Z NOV 25.</msgText>
+2. CANCEL THIS MSG 130207Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>FISHING GEAR</category>

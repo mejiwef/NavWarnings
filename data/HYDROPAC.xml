@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER EVENTS</category>
+        <status>INFORCE</status>
+        <msgText>111919Z NOV 25
+HYDROPAC 2900/25(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 150001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111633Z NOV 25
+HYDROPAC 2899/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. PIPELINE OPERATIONS 12 THRU 26 NOV BY 
+   BARGE MC DERMOTT IN AREA BOUND BY
+   25-58.99N 051-51.38E, 25-59.94N 051-53.48E,
+   25-58.75N 052-00.93E, 25-57.48N 052-03.12E,
+   25-56.12N 052-01.87E, 25-57.10N 051-53.10E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 270001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>111251Z NOV 25
+HYDROPAC 2898/25.
+CANCEL HYDROPAC 2591/25 AND THIS MSG.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111213Z NOV 25
+HYDROPAC 2897/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 12 NOV THRU 01 DEC
+   IN AREA BOUND BY
+   20-42.50N 087-13.80E, 20-42.50N 087-22.00E,
+   21-03.50N 087-22.00E, 21-03.50N 086-52.50E,
+   20-56.00N 086-57.00E, 20-56.00N 087-09.00E,
+   20-49.00N 087-09.00E, 20-49.00N 087-13.80E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 020001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111130Z NOV 25
+HYDROPAC 2896/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 12 NOV THRU 31 DEC BY 
+   M/V RAMFORM SOVEREIGN IN AREA BOUND BY
+   18-47.52N 086-41.34E, 19-20.04N 086-41.34E,
+   19-19.86N 086-14.10E, 18-03.57N 084-34.43E,
+   16-59.16N 084-49.26E, 16-56.57N 085-38.41E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111041Z NOV 25
+HYDROPAC 2895/25(63).
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0230Z TO 1130Z 
+   DAILY 15 AND 24 NOV IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
+   20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
+2. CANCEL THIS MSG 241230Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER PIPELINE</category>
         <status>INFORCE</status>
         <msgText>101735Z NOV 25
@@ -299,21 +387,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071329Z NOV 25
-HYDROPAC 2873/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 110830Z TO 111230Z NOV
-   IN AREA BOUND BY
-   11-38.70N 092-53.30E, 11-40.60N 092-47.10E,
-   11-39.70N 092-46.30E, 11-32.90N 092-48.00E.
-2. CANCEL THIS MSG 111330Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071257Z NOV 25
@@ -563,7 +636,8 @@ DNC 06, DNC 13.
    IN AREA BOUND BY
    00-04.00N 175-42.00W, 00-18.00S 173-50.00W,
    13-27.00N 171-03.00W, 14-57.00N 172-49.00W.
-2. CANCEL THIS MSG 170011Z NOV 25.</msgText>
+2. CANCEL THIS MSG 170011Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -574,8 +648,8 @@ ARABIAN SEA.
 INDIA.
 DNC 03.
 1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   15 MAY 26 BY M/V MICLYN CONSTRUCTOR I 
-   AND M/V SAKSHAM IN 19-31.78N 071-18.15E.
+   15 MAY 26 BY M/V MICLYN CONSTRUCTOR I AND
+   M/V SAKSHAM IN VICINITY 19-31.78N 071-18.15E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z MAY 26.
 </msgText>
@@ -610,20 +684,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030716Z NOV 25
-HYDROPAC 2823/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS 
-UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-IN 19-41.50S 115-50.40E.
-ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>FISHING GEAR</category>
         <status>INFORCE</status>
         <msgText>030638Z NOV 25
@@ -634,7 +694,8 @@ DNC 06.
 SEA FARM ESTABLISHED IN AREA BOUND BY
 40-55.50S 174-13.41E, 40-55.05S 174-14.05E,
 40-55.66S 174-14.80E, 40-56.12S 174-14.41E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -649,7 +710,8 @@ DNC 03.
    151230Z NOV IN AREA BOUND BY
    23-29.00N 068-08.00E, 20-13.00N 066-45.00E,
    19-36.00N 068-46.00E, 21-35.00N 069-34.00E.
-2. CANCEL THIS MSG 151330Z NOV 25.</msgText>
+2. CANCEL THIS MSG 151330Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -667,7 +729,8 @@ BY VESSEL CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
 25-15.40N 056-48.30E, 25-12.50N 056-48.40E,
 25-07.10N 056-45.30E, 25-03.10N 056-42.50E,
 25-00.60N 056-41.40E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -685,7 +748,8 @@ NOTICE BY M/V VANESSA 7 IN AREA BOUND BY
 19-34.90N 071-54.08E, 20-05.46N 071-53.12E,
 19-26.15N 071-18.63E, 19-15.30N 071-21.79E,
 19-14.62N 071-26.06E, 18-36.12N 071-01.59E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -703,7 +767,8 @@ DNC 06, DNC 07, DNC 13.
    34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
    00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
    10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
-2. CANCEL THIS MSG 130207Z NOV 25.</msgText>
+2. CANCEL THIS MSG 130207Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -718,7 +783,8 @@ BY CABLESHIP KDDI CABLE INFINITY
 IN AREA BOUND BY
 28-35.00N 142-40.00E, 28-35.00N 143-20.00E,
 30-25.00N 143-20.00E, 30-25.00N 142-40.00E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1248,20 +1314,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SALVAGE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091321Z OCT 25
-HYDROPAC 2591/25(63).
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-1. SALVAGE OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE IN VICINTY OF 22-48.84N 070-06.26E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1883/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061403Z OCT 25
@@ -1386,23 +1438,6 @@ DNC 03.
    20-36.02N 072-02.23E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 040001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111141Z SEP 25
-HYDROPAC 2334/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 11 NOV
-   BY M/V RAMFORM SOVEREIGN IN AREA BOUND BY
-   19-19.86N 086-14.10E, 18-03.57N 084-34.43E,
-   16-59.16N 084-49.26E, 16-56.57N 085-38.41E,
-   18-47.52N 086-41.34E, 19-20.04N 086-41.34E.
-   SEVEN MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 120001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
