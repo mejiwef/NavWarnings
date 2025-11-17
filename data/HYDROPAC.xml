@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>162115Z NOV 25
+HYDROPAC 2953/25(71).
+SOUTH CHINA SEA.
+INDONESIA.
+DNC 03.
+1. TANKER BOARDED AND ROBBED BY TWO PIRATES 
+   IN 04-47.55S 011-48.33E AT 151808Z NOV.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 192119Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161807Z NOV 25
+HYDROPAC 2952/25(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+   BY CABLESHIP ILE DE YEU ALONG TRACKLINE JOINING
+   38-26.80S 144-29.60E, 38-44.10S 144-51.00E,
+   39-17.60S 146-16.10E, 39-36.60S 146-32.80E,
+   39-36.60S 147-15.90E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2892/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>161330Z NOV 25
+HYDROPAC 2951/25(91).
+SOUTH CHINA SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES 17 THRU 30 NOV
+   IN AREA BOUND BY
+   14-39.87N 119-30.07E, 14-39.87N 119-40.07E,
+   14-29.88N 119-40.07E, 14-29.87N 119-30.07E.
+2. CANCEL THIS MSG 010001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161305Z NOV 25
+HYDROPAC 2950/25(97).
+NORTH PACIFIC.
+DNC 12.
+CABLE OPERATIONS 17 NOV UNTIL FURTHER NOTICE
+BY M/V ANIEK ALONG TRACKLINE JOINING
+30-33.75N 166-25.90E, 30-25.48N 166-49.36E,
+30-23.27N 167-14.93E, 30-01.84N 167-55.46E,
+29-51.00N 168-22.53E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>151345Z NOV 25
@@ -237,22 +296,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>140945Z NOV 25
-HYDROPAC 2931/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 2100Z TO 0800Z 
-   DAILY 14 AND 15 NOV IN AREA BOUND BY
-   12-49.98N 145-00.00E, 12-49.98N 145-10.00E,
-   11-25.00N 147-00.00E, 10-30.00N 147-00.00E,
-   10-30.00N 145-19.98E.
-2. CANCEL THIS MSG 160900Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>140933Z NOV 25
 HYDROPAC 2930/25(62).
 PERSIAN GULF.
@@ -419,26 +462,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120737Z NOV 25
-HYDROPAC 2906/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 161400Z TO 162000Z NOV
-   IN AREAS BOUND BY:
-   A. 12-49.98N 145-00.00E, 12-49.98N 145-10.00E,
-      11-25.00N 147-00.00E, 10-30.00N 147-00.00E,
-      10-30.00N 145-19.98E.
-   B. 13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-      12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
-      10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
-      12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 162100Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>090702Z NOV 25
@@ -548,11 +571,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>MSG CLREARED BY SWO BEFORE EMAILED</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER PIPELINE</category>
         <status>INFORCE</status>
         <msgText>101735Z NOV 25
@@ -568,18 +586,9 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
+        <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>101504Z NOV 25
-HYDROPAC 2892/25(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-BY CABLESHIP ILE DYEU IN AREA BOUND BY
-38-20.93S 144-19.84E, 38-26.90S 144-19.84E,
-38-26.90S 144-29.55E, 38-20.93S 144-29.55E.
-ONE MILE BERTH REQUESTED.</msgText>
+        <msgText>MSG CLREARED BY SWO BEFORE EMAILED</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -631,60 +640,6 @@ DNC 03.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051033Z NOV 25
-HYDROPAC 2886/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 132100Z TO 140800Z
-   AND 160800Z TO 161359Z NOV
-   IN AREA BOUND BY
-   12-49.98N 145-00.00E, 12-49.98N 145-10.00E,
-   11-25.00N 147-00.00E, 10-30.00N 147-00.00E,
-   10-30.00N 145-19.98E.
-2. CANCEL THIS MSG 161459Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051045Z NOV 25
-HYDROPAC 2885/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 130800Z TO 131359Z, 
-   131400Z TO 131500Z AND 
-   152100Z TO 161359Z NOV IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
-   10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 161459Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051024Z NOV 25
-HYDROPAC 2883/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0200Z TO 0800Z 
-   DAILY 13 AND 14 NOV, 150001Z TO 151030Z 
-   AND 160530Z TO 160730Z NOV
-   IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 160830Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1167,24 +1122,6 @@ DNC 03.
    19-05.49N 072-52.09E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 120001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241142Z OCT 25
-HYDROPAC 2724/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 27 OCT THRU 15 NOV 
-   BY M/V ALBATROSS 37 IN AREA BOUND BY
-   21-24.74N 087-36.18E, 21-19.32N 087-38.36E,
-   20-36.08N 087-41.62E, 20-08.61N 088-03.34E,
-   19-45.24N 088-14.90E, 19-43.72N 088-11.17E,
-   20-34.86N 087-37.90E, 21-23.98N 087-34.02E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
