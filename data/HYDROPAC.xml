@@ -1,6 +1,161 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>182055Z NOV 25
+HYDROPAC 2987/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
+IN 20-08.88S 115-02.45E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181344Z NOV 25
+HYDROPAC 2986/25(63).
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 20 NOV THRU 15 MAY 26 BY 
+   M/V TWO AARYAN AMD M/V TWO NADIM IN VICINITY
+   20-36.01N 072-02.13E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181316Z NOV 25
+HYDROPAC 2985/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 19 NOV THRU 02 JAN 26 
+   BY VESSEL M/V SEAMEC GLORIOUS AND M/V AKSHIP 1
+   IN VICINITY OF TRACKLINE JOINING
+   18-42.56N 072-20.41E, 18-47.21N 072-19.54E,
+   18-34.53N 072-16.75E, 19-12.79N 072-06.68E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181303Z NOV 25
+HYDROPAC 2984/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 21 THRU 29 NOV 
+   BY M/V SAMBHAVYA IN AREA BOUND BY
+   21-36.51N 087-31.49E, 21-35.75N 087-29.32E,
+   21-33.05N 087-30.06E, 21-32.62N 087-33.05E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 300001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181258Z NOV 25
+HYDROPAC 2983/25(63).
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+DNC 03.
+1. HAZARDOUS OPERATIONS 210200Z TO 210730Z NOV
+   IN AREA BOUND BY
+   10-49.18N 073-42.00E, 10-49.18N 073-44.48E,
+   10-46.42N 073-44.48E, 10-46.42N 073-42.00E.
+2. CANCEL THIS MSG 210830Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181241Z NOV 25
+HYDROPAC 2982/25(62).
+RED SEA.
+SAUDI ARABIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0300Z TO 1500Z DAILY 
+   19 AND 20 NOV IN AREAS BOUND BY:
+   A. 21-13.50N 039-06.20E, 21-13.60N 038-58.50E,
+      21-05.58N 038-57.00E, 21-06.00N 038-58.50E.
+   B. 20-08.28N 040-06.46E, 20-08.28N 040-05.14E,
+      20-07.43N 040-05.29E, 20-07.25N 040-06.46E.
+2. CANCEL THIS MSG 201600Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181234Z NOV 25
+HYDROPAC 2981/25(63).
+BAY OF BENGAL.
+BANGLADESH.
+DNC 03.
+1. HAZARDOUS OPERATIONS 220001Z TO 221600Z NOV
+   IN AREA BOUND BY
+   20-22.00N 091-06.00E, 20-07.00N 090-52.00E,
+   19-44.00N 091-21.00E, 20-00.00N 091-36.00E.
+2. CANCEL THIS MSG 221700Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>181211Z NOV 25
+HYDROPAC 2979/25(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   211000Z TO 211600Z NOV IN AREA BOUND BY
+   11-49.00N 116-47.00E, 11-23.00N 116-12.00E,
+   10-40.00N 116-45.00E, 11-06.00N 117-20.00E.
+2. CANCEL THIS MSG 211700Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>181057Z NOV 25
+HYDROPAC 2978/25(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. F/V KH 99171 TS, NINE PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE,
+   IN VICINITY 12-41.00N 111-55.00E AT 180956Z NOV.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 2975/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>142331Z NOV 25
+HYDROPAC 2977/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0936Z TO 1424Z DAILY 23 THRU 29 NOV
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 291524Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>171640Z NOV 25
@@ -102,24 +257,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>171057Z NOV 25
-HYDROPAC 2962/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V KH 99171 TS, NINE PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO MAIN ENGINE TROUBLE,
-   IN VICINITY:
-   12-21.00N 111-32.00E AT 162100Z NOV.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 2954/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>171013Z NOV 25
@@ -179,20 +316,6 @@ CHILE.
 DNC 07.
 ISLA CENTINELA LIGHT 53-05.10S 073-35.10W
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170626Z NOV 25
-HYDROPAC 2957/25(74).
-INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS 
-UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-IN 20-08.90S 115-02.40E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -555,22 +678,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121533Z NOV 25
-HYDROPAC 2914/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER 
-NOTICE BY CABLESHIP ATHBA ALONG TRACKLINE 
-JOINING
-24-11.29N 066-15.73E, 24-02.84N 066-07.36E.
-WIDE BERTH REQUESTED.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120859Z NOV 25
@@ -665,11 +772,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>MSG CLREARED BY SWO BEFORE EMAILED</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER PIPELINE</category>
         <status>INFORCE</status>
         <msgText>101735Z NOV 25
@@ -702,22 +804,6 @@ DNC 03.
    19-12.51N 072-02.24E, 19-10.38N 072-59.06E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 220001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101200Z NOV 25
-HYDROPAC 2889/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 17 NOV
-   BY M/V OCEANIC SIRIUS IN AREA BOUND BY
-   16-52.00N 085-01.00E, 16-52.00N 084-40.00E,
-   15-27.00N 084-40.00E, 15-27.00N 085-01.00E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 180001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
