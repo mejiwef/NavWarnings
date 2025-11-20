@@ -27,7 +27,8 @@ CALIFORNIA.
       28-16.00N 122-12.00W, 28-24.00N 121-40.00W,
       27-59.00N 121-23.00W.
 2. CANCEL NAVAREA XII 736/25.
-3. CANCEL THIS MSG 282109Z NOV 25.</msgText>
+3. CANCEL THIS MSG 282109Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -37,7 +38,7 @@ NAVAREA XII 744/25(19).
 NORTH PACIFIC.
 HAWAII
 1. USCG REMOTE COMMUNICATIONS FACILITY
-   HONOLULU 21-26.1N 158-08.7W HF TRANSMIT 
+   HONOLULU 21-26.10N 158-08.70W HF TRANSMIT 
    SERVICES UNRELIABLE 201830Z TO 210100Z NOV.
 2. CANCEL THIS MSG 220200Z NOV 25.
 </msgText>
@@ -218,19 +219,6 @@ HAWAII.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>150011Z NOV 25
-NAVAREA XII 725/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. USCG REMOTE COMMUNICATION FACILITY
-   HONOLULU 21-22.00N 158-09.00W HF SERVICES
-   UNRELIABLE 181830Z TO 190001Z NOV. 
-2. CANCEL THIS MSG 190101Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>141814Z NOV 25
@@ -281,18 +269,6 @@ GULF OF ALASKA.
    KODIAK (J) 57-46.00N 152-34.00W.
 2. CANCEL NAVAREA XII 460/24.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051928Z NOV 25
-NAVAREA XII 717/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. UNDERWATER ORDNANCE DETONATION
-   181700Z TO 190300Z NOV 
-   IN 21-17.48N 157-59.23W.
-2. CANCEL THIS MSG 190400Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
