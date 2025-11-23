@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>222145Z NOV 25
+HYDROPAC 3049/25(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. 74 METER M/V MINH VU 26, 17 PERSONS ON BOARD
+   DISABLED AND ADRIFT, LAST KNOWN POSITION
+   AT 222050Z IN 10-11.00N 110-32.00E, 
+   SPEED 1.5 KNOTS, AT 245-250 DEG. 
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 3035/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>221446Z NOV 25
+HYDROPAC 3047/25(GEN).
+EAST CHINA SEA.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 11, DNC 23.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   261554Z TO 261645Z NOV IN AREAS BOUND BY:
+   A. 31-12.43N 127-33.13E, 31-18.79N 128-31.90E,
+      29-58.25N 128-43.22E, 29-51.90N 127-45.26E.
+   B. 21-30.71N 128-44.15E, 21-39.25N 129-56.59E,
+      18-57.94N 130-17.48E, 18-49.40N 129-06.28E.
+   C. 11-31.72N 129-38.05E, 11-42.19N 131-16.52E,
+      07-01.75N 131-46.31E, 06-51.28N 130-09.15E.
+2. CANCEL THIS MSG 261745Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221311Z NOV 25
+HYDROPAC 3046/25(97).
+NORTH PACIFIC.
+JAPAN.
+DNC 12.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE BY 
+   CABLESHIP KDDI CABLE INFINITY IN AREA BOUND BY
+   27-10.00N 143-10.00E, 27-10.00N 143-50.00E,
+   28-40.00N 143-50.00E, 28-40.00N 143-10.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2988/25(94).</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>212142Z NOV 25
@@ -92,20 +145,6 @@ HYDROPAC 3040/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>211632Z NOV 25
-HYDROPAC 3039/25(GEN).
-BERING SEA.
-NORTH PACIFIC.
-GUAM.
-DNC 12
-USCG REMOTE COMMUNICATION FACILITY GUAM
-13-29.00N 144-50.00E WEATHER MESSAGE SERVICES 
-UNRELIABLE. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211540Z NOV 25
@@ -153,23 +192,6 @@ DNC 03.
    19-09.06N 072-16.52E, 19-10.14N 071-02.58E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>211428Z NOV 25
-HYDROPAC 3035/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. 74 METER M/V MINH VU 26, 17 PERSONS ON BOARD, 
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE 
-   IN 10-35.00N 111-52.00E AT 211114Z NOV.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 3032/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -255,23 +277,6 @@ DNC 06, DNC 13.
    13-27.00N 171-03.00W, 14-57.00N 172-49.00W.
 2. CANCEL HYDROPAC 2961/25.
 3. CANCEL THIS MSG 040011Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>210132Z NOV 25
-HYDROPAC 3026/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V KH 99171 TS, NINE PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-   IN 12-55.00N 111-32.00E AT 202156Z NOV.
-   VESSELS IN VICINITY REQUESTED TO KEEP 
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 3015/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -598,28 +603,6 @@ DANGEROUS WRECK IN VICINITY 11-59.28S 077-08.77W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190021Z NOV 25
-HYDROPAC 2988/25(94).
-EAST CHINA SEA.
-TAIWAN.
-DNC 23.
-CABLE OPERATIONS 191500Z NOV UNTIL
-FURTHER NOTICE BY CABLESHIP ILE DE AIX
-IN AREA BOUND BY
-25-43.40N 122-20.90E, 25-43.70N 122-23.20E,
-25-39.70N 122-24.80E, 25-37.90N 122-27.10E,
-25-36.30N 122-29.20E, 25-34.70N 122-31.00E,
-25-33.20N 122-33.20E, 25-31.70N 122-34.00E,
-25-24.10N 122-40.80E, 25-22.80N 122-38.90E,
-25-30.50N 122-32.00E, 25-31.50N 122-31.50E,
-25-33.10N 122-29.40E, 25-34.40N 122-28.00E,
-25-36.70N 122-25.00E, 25-38.30N 122-23.00E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>182055Z NOV 25
@@ -682,21 +665,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181234Z NOV 25
-HYDROPAC 2981/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS 220001Z TO 221600Z NOV
-   IN AREA BOUND BY
-   20-22.00N 091-06.00E, 20-07.00N 090-52.00E,
-   19-44.00N 091-21.00E, 20-00.00N 091-36.00E.
-2. CANCEL THIS MSG 221700Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>142331Z NOV 25
@@ -726,21 +694,6 @@ ROSS ISLAND LIGHT 11-40.90N 092-45.99E UNLIT.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>171403Z NOV 25
-HYDROPAC 2968/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 1330Z TO 1430Z DAILY
-   20 THRU 22 NOV IN AREA BOUND BY
-   11-40.30N 092-50.97E, 11-40.77N 092-45.00E,
-   11-40.23N 092-45.75E, 11-37.33N 092-47.93E.
-2. CANCEL THIS MSG 221530Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>171340Z NOV 25
 HYDROPAC 2966/25(63).
 ANDAMAN SEA.
@@ -751,22 +704,6 @@ DNC 03.
    13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
    12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
 2. CANCEL THIS MSG 271130Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171322Z NOV 25
-HYDROPAC 2965/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0300Z TO 1100Z DAILY 21 
-   AND 22 NOV IN AREA BOUND BY
-   25-11.00N 064-38.00E, 25-08.30N 064-47.30E,
-   25-05.00N 064-44.90E, 25-03.10N 064-37.40E,
-   25-05.50N 064-32.40E, 25-09.65N 064-30.34E.
-2. CANCEL THIS MSG 221200Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1032,26 +969,6 @@ DNC 10.
    25-43.05N 055-45.82E, 25-42.87N 055-46.38E,
    25-42.51N 055-46.24E, 25-42.70N 055-45.68E.
 2. CANCEL HYDROPAC 1901/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101254Z NOV 25
-HYDROPAC 2891/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 21 NOV BY M/V ORION LAXMI 
-   IN VICINITY OF TRACKLINE JOINING
-   19-31.76N 071-22.37E, 19-32.30N 071-23.97E,
-   19-23.35N 071-12.32E, 19-21.01N 071-18.08E,
-   19-22.44N 071-21.61E, 19-19.91N 071-20.01E,
-   19-22.48N 071-21.59E, 19-21.03N 071-18.18E,
-   19-12.51N 072-02.24E, 19-10.38N 072-59.06E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

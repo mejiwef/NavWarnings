@@ -24,28 +24,6 @@ NAVAREA XII 755/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>211633Z NOV 25
-NAVAREA XII 754/25(GEN).
-NORTH PACIFIC.
-UNITED STATES.
-WEATHER MESSAGE SERVICES UNRELIABLE AT
-USCG REMOTE COMMUNICATION FACILITIES:
-   A. PT REYES 37-55.00N 122-24.00W.
-   B. HONOLULU 21-22.00N 158-09.00W.
-   C. KODIAK 57-46.00N 152-34.00W.
-   D. NOME 64-29.00N 165-15.00W.
-   E. COLD BAY 55-11.00N 162-42.00W.
-   F. ST PAUL 57-09.00N 170-14.00W.
-   G. SHEMYA 52-43.00N 174-07.00E.
-   H. PT HIGGINS 55-27.00N 131-49.00W.
-   I. ASTORIA 46-10.00N 123-49.00W.
-   J. CAMBRIA 33-44.00N 118-24.00W.
-   K. BERING SEA 57-46.00N 152-34.00W. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>210241Z NOV 25
@@ -149,19 +127,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>181622Z NOV 25
-NAVAREA XII 744/25(19).
-NORTH PACIFIC.
-HAWAII
-1. USCG REMOTE COMMUNICATIONS FACILITY
-   HONOLULU 21-26.10N 158-08.70W HF TRANSMIT 
-   SERVICES UNRELIABLE 201830Z TO 210100Z NOV.
-2. CANCEL THIS MSG 220200Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>142331Z NOV 25
@@ -225,36 +190,6 @@ CALIFORNIA.
       30-11.00N 116-36.00W, 30-05.00N 116-28.00W,
       29-42.00N 116-06.00W, 29-18.00N 115-56.00W.
 2. CANCEL THIS MSG 290113Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180011Z OCT 25
-NAVAREA XII 733/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. HAZARDOUS OPERATIONS 212200Z TO 220330Z, 
-   230001Z TO 230530Z, AND 240200Z TO 240730Z NOV
-   IN AREA BOUND BY
-   19-19.00N 165-11.00W, 19-39.00N 165-33.00W,
-   25-10.00N 161-00.00W, 29-44.00N 155-54.00W,
-   31-24.00N 153-11.00W, 31-32.00N 152-15.00W,
-   31-17.00N 152-00.00W, 30-35.00N 152-18.00W,
-   28-29.00N 154-24.00W, 24-01.00N 159-34.00W.
-2. CANCEL THIS MSG 240830Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051913Z NOV 25
-NAVAREA XII 732/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. UNDERWATER ORDNANCE DETONATION
-   211700Z TO 220300Z NOV IN 21-17.48N 157-59.23W.
-2. CANCEL THIS MSG 220400Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
