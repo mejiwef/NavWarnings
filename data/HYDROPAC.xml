@@ -1,6 +1,133 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251136Z NOV 25
+HYDROPAC 3086/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS BY M/V ZD LIBRA:
+   A. IN PROGRESS UNTIL 28 NOV IN AREA BOUND BY
+      20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
+      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
+   B. 29 NOV THRU 02 DEC IN AREA BOUND BY
+      19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
+      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250933Z NOV 25
+HYDROPAC 3085/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0330Z TO 1300Z 
+   DAILY 27 AND 28 NOV IN AREA BOUND BY
+   25-05.88N 062-22.27E, 24-59.70N 062-30.59E,
+   24-58.15N 062-29.27E, 24-56.77N 062-26.86E,
+   24-55.84N 062-22.97E, 24-56.55N 062-18.40E,
+   24-58.58N 062-15.10E.
+2. CANCEL THIS MSG 281400Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>210201Z NOV 25
+HYDROPAC 3084/25(22,83).
+SOUTH PACIFIC.
+DNC 06, DNC 07.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   300446Z TO 300924Z NOV, ALTERNATE
+   010411Z TO 010849Z, 020357Z TO 020835Z,
+   030343Z TO 030821Z, 040329Z TO 040807Z,
+   050315Z TO 050753Z AND 
+   060301Z TO 060739Z DEC IN AREA BOUND BY
+   59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
+   27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
+2. CANCEL THIS MSG 060839Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>250731Z NOV 25
+HYDROPAC 3083/25(93).
+GULF OF THAILAND.
+VIETNAM.
+DNC 03.
+MAN OVERBOARD FROM F/V TG 90136 TS
+IN 08-53.00N 104-09.00E AT 242200Z NOV.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>250351Z NOV 25
+HYDROPAC 3081/25(92).
+CAMOTES SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES IN PROGRESS 
+   UNTIL 29 NOV IN AREA BOUND BY
+   10-32.00N 124-15.00E, 10-32.00N 124-25.00E,
+   10-22.66N 124-25.12E, 10-22.72N 124-15.18E.
+2. CANCEL THIS MSG 300001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>250334Z NOV 25
+HYDROPAC 3080/25(92).
+CELEBES SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES IN PROGRESS 
+   UNTIL 28 NOV IN AREA BOUND BY
+   07-31.91N 123-37.78E, 07-31.90N 123-42.81E,
+   07-26.89N 123-42.81E, 07-26.88N 123-37.78E.
+2. CANCEL THIS MSG 290001Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>250214Z NOV 25
+HYDROPAC 3079/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+CANCEL HYDROPAC 2987/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250116Z NOV 25
+HYDROPAC 3078/25(71).
+STRAIT OF MALACCA.
+MALAYSIA.
+DNC 03.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   30 SEP 26 BY M/V PXGEO 2 TOWING EIGHT
+   FIVE MILE LONG CABLES IN AREA BOUND BY
+   05-45.00N 098-24.00E, 06-00.00N 099-18.00E,
+   04-44.00N 100-14.00E, 04-28.00N 099-18.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3061/25.
+3. CANCEL THIS MSG 010001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241242Z NOV 25
@@ -34,22 +161,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>241149Z NOV 25
-HYDROPAC 3074/25(93).
-GULF OF THAILAND.
-CAMBODIA.
-DNC 03.
-F/V CM 05967 TS FLOODED AND SUNK IN
-09-15.00N 103-32.00E. FOUR PERSONS
-MISSING. VESSELS IN VICINITY REQUESTED
-TO KEEP A SHARP LOOKOUT, ASSIST IF
-POSSIBLE. REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241138Z NOV 25
@@ -74,22 +185,6 @@ CHILE.
 DNC 07.
 VALPARAISO RADIO 33-04.70S 071-36.80W 
 DSC SERVICES OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>240436Z NOV 25
-HYDROPAC 3068/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-F/V QNG 90424 TS, NINE PERSONS ON BOARD, 
-RAN AGROUND IN 10-42.00N 114-19.00E
-AT 231600Z NOV. VESSELS IN VICINITY 
-REQUESTED TO KEEP A SHARP LOOKOUT, 
-ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -155,24 +250,6 @@ DNC 06.
 2. CANCEL YDROPAC 3030/25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240027Z NOV 25
-HYDROPAC 3061/25(71).
-STRAIT OF MALACCA.
-MALAYSIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   30 SEP 26 BY M/V PXGEO 2 TOWING EIGHT
-   FIVE MILE LONG CABLES IN AREAS BOUND BY:
-   A. 06-00.00N 099-18.00E, 05-45.00N 098-24.00E,
-      04-28.00N 099-18.00E, 04-44.00N 100-14.00E.
-   B. 06-00.00N 099-18.00E, 05-45.00N 098-24.00E,
-      04-28.00N 099-18.00E, 04-44.00N 100-14.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>232354Z NOV 25
@@ -221,20 +298,6 @@ BY CABLESHIP RENE DESCARTES IN AREA BOUND BY
 02-43.00N 101-22.50E, 01-59.40N 102-18.10E,
 01-38.10N 103-02.20E, 01-15.90N 103-25.70E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230625Z NOV 25
-HYDROPAC 3052/25(63).
-ARABIAN SEA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 241930Z TO 250330Z NOV
-   IN AREA BOUND BY 
-   18-02.74N 069-43.18E, 18-25.29N 070-16.24E,
-   17-56.54N 070-45.33E, 17-33.99N 070-12.69E.
-2. CANCEL THIS MSG 250430Z NOV 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -453,23 +516,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201433Z NOV 25
-HYDROPAC 3020/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 250830Z TO 250930Z NOV
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL HYDROPAC 3012/25.
-3. CANCEL THIS MSG 251030Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>WORKING VESSEL</category>
         <status>INFORCE</status>
         <msgText>201311Z NOV 25
@@ -507,22 +553,6 @@ BY CABLESHIP RENE DESCARTES IN AREA BOUND BY
 01-25.90N 103-15.00E, 01-25.40N 103-14.20E,
 01-22.20N 103-17.30E, 01-22.70N 103-18.00E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201150Z NOV 25
-HYDROPAC 3014/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 22 THRU 24 NOV
-   IN AREA BOUND BY
-   12-38.07N 074-13.71E, 12-38.35N 074-06.91E,
-   12-28.94N 074-06.54E, 12-28.69N 074-13.14E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 250001Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -585,24 +615,6 @@ LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC SINGAPORE,
 PHONE: 656 226 5539,
 EMAIL: POCC@MPA.GOV.SG.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200014Z NOV 25
-HYDROPAC 3003/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 240001Z TO 240300Z,
-   240500Z TO 240800Z AND 250001Z TO 250300Z NOV
-   IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
-   10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 250400Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

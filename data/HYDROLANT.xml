@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>250414Z NOV 25
+HYDROLANT 1992/25(35).
+NORTH SEA.
+SCOTLAND.
+DNC 20.
+1. RACON AT BUCHAN NESS LIGHT 57-28.20N 001-46.50W
+   INOPERATIVE 250800Z TO 251600Z NOV 
+2. CANCEL THIS MSG 251700Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250053Z NOV 25
+HYDROLANT 1991/25(24).
+NORTH ATLANTIC.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 07 DEC
+   BY M/V RAMFORM ATLAS, M/V DRS RETUMBANTE,
+   M/V THOR FRIGG AND TUG LH LABARO
+   TOWING 12 10,000 METER LONG CABLES
+   IN AREA BOUND BY
+   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
+   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
+   SIX MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 080001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>250042Z NOV 25
+HYDROLANT 1990/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. ODAS BUOY BRAVO PI ESTABLISHED UNTIL 23 MAY 26
+   IN 02-30.81S 041-31.97W.
+2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250036Z NOV 25
+HYDROLANT 1989/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 1700Z TO 2100Z DAILY
+   27 THRU 29 NOV IN AREA WITHIN TEN MILES
+   OF 05-39.00S 034-33.00W.
+2. CANCEL HYDROLANT 1977/25.
+3. CANCEL THIS MSG 292200Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241937Z NOV 25
@@ -161,35 +216,6 @@ IN AREA BOUND BY
 23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
 23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 260100Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221502Z NOV 25
-HYDROLANT 1977/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 271700Z TO 292100Z NOV
-   IN AREA WITHIN 10.00 MILES OF 05-39.00S 034-33.00W.
-2. CANCEL THIS MSG 292200Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>212018Z NOV 25
-HYDROLANT 1974/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 01.
-1. HAZARDOUS OPERATIONS 240000Z 
-   TO 250100Z NOV IN AREA BOUND BY
-   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
-   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
-   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
-2. CANCEL THIS MSG 250200Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
