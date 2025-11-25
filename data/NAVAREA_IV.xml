@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>251110Z NOV 25
-NAVAREA IV 1305/25(25).
-NORTH ATLANTIC.
-PUERTO RICO.
-CANCEL NAVAREA IV 1249/25 AND THIS MSG,
-OPERATIONS COMPLETED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>242007Z NOV 25
@@ -91,12 +80,13 @@ NAVAREA IV 1298/25(25).
 NORTH ATLANTIC.
 1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
    1711Z TO 1751Z DAILY 28 NOV THRU 28 DEC
-   IN AREAS BOUND BY:
+   IN AREAS BOUND BY
    A. 09-29.00N 052-28.00W, 09-29.00N 052-23.00W,
       08-33.00N 052-23.00W, 08-33.00N 052-28.00W.
    B. 24-53.00N 053-11.00W, 24-53.00N 052-57.00W,
       21-50.00N 052-52.00W, 21-49.00N 053-07.00W.
-2. CANCEL THIS MSG 281851Z DEC 25.</msgText>
+2. CANCEL THIS MSG 281851Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
