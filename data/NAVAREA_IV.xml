@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>251041Z NOV 25
+NAVAREA IV 1311/25(11,26).
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   010500Z TO 010943Z DEC, ALTERNATE
+   0500Z TO 0943Z DAILY 02 THRU 07 DEC
+   IN AREAS BOUND BY:
+   A. 26-26.00N 076-31.00W, 26-32.00N 076-26.00W,
+      26-29.00N 075-54.00W, 26-12.00N 075-07.00W,
+      25-44.00N 074-19.00W, 25-24.00N 074-09.00W,
+      25-10.00N 074-29.00W, 25-17.00N 074-58.00W,
+      25-43.00N 075-40.00W, 26-01.00N 076-09.00W.
+   B. 28-39.00N 080-37.69W, 28-39.00N 080-28.00W,
+      28-30.00N 080-10.00W, 28-24.00N 080-09.00W,
+      28-21.00N 080-11.00W, 28-23.00N 080-19.00W,
+      28-29.35N 080-32.49W.
+2. CANCEL THIS MSG 071043Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>260926Z NOV 25
+NAVAREA IV 1310/25(25).
+CARIBBEAN SEA.
+SAINT MARTIN.
+1. TEN METER LONG TREE ADRIFT IN 
+   VICINITY 17-56.60N 063-07.63W.
+2. CANCEL THIS MSG 290916Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICE</category>
         <status>INFORCE</status>
         <msgText>252002Z NOV 25

@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>261142Z NOV 25
+HYDROLANT 1999/25(57,61,71).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1937Z TO 0320Z DAILY 01 THRU 09 DEC
+   IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 100420Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>220943Z NOV 25
+HYDROLANT 1997/25(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   010001Z TO 312359Z DEC IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 010059Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>260039Z NOV 25
@@ -276,21 +309,6 @@ DNC 01.
    21-01.52S 040-22.93W, 20-50.34S 040-43.34W,
    21-18.87S 040-44.02W, 21-22.97S 040-18.45W.
 2. CANCEL THIS MSG 070059Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>201705Z NOV 25
-HYDROLANT 1967/25(57).
-SOUTH ATLANTIC.
-DNC 01.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1300Z TO 1600Z DAILY 25 THRU 29 NOV
-   IN AREA BOUND BY
-   06-12.50S 003-00.50E, 06-22.00S 004-53.00E,
-   13-35.00S 004-20.00E, 13-26.00S 002-24.00E.
-2. CANCEL THIS MSG 291700Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
