@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>261328Z NOV 25
+HYDROPAC 3109/25(97).
+NORTH PACIFIC.
+DNC 12.
+1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
+   30 NOV THRU 30 DEC IN AREA BOUND BY
+   28-15.25N 146-29.78E, 27-55.25N 144-57.80E,
+   25-00.26N 145-35.80E, 25-25.27N 147-37.78E.
+2. CANCEL THIS MSG 311000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>261247Z NOV 25
+HYDROPAC 3108/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE INSTALLATION OPERATIONS 27 NOV THRU
+   12 DEC BY BARGE DLB KENENNA AND M/V ZD LIBRA
+   IN AREAS BOUND BY:
+   A. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
+      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
+   B. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
+      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+   C. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
+      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
+   D. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
+      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3017/25 AND 3086/25.
+3. CANCEL THIS MSG 130001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>261230Z NOV 25
+HYDROPAC 3107/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE INSTALLATION OPERATIONS 27 NOV THRU
+   20 DEC IN AREAS BOUND BY:
+   A. 19-28.69N 071-35.30E, 19-29.02N 071-09.73E,
+      19-12.38N 071-09.51E, 19-12.05N 071-35.03E.
+   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
+      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
+   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
+      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
+      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
+   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
+      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261218Z NOV 25
+HYDROPAC 3106/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 290030Z TO 301430Z NOV
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 301530Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261204Z NOV 25
+HYDROPAC 3105/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0230Z TO 1130Z
+   DAILY 27 AND 28 NOV IN AREA BOUND BY
+   15-53.00N 072-26.00E, 16-13.00N 071-27.00E,
+   14-34.00N 071-28.00E, 14-55.00N 072-26.00E.
+2. CANCEL THIS MSG 281230Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>261142Z NOV 25
@@ -204,26 +299,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251136Z NOV 25
-HYDROPAC 3086/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS BY M/V ZD LIBRA:
-   A. IN PROGRESS UNTIL 28 NOV IN AREA BOUND BY
-      20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   B. 29 NOV THRU 02 DEC IN AREA BOUND BY
-      19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250933Z NOV 25
@@ -328,7 +403,8 @@ DNC 03.
    04-44.00N 100-14.00E, 04-28.00N 099-18.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3061/25.
-3. CANCEL THIS MSG 010001Z OCT 26.</msgText>
+3. CANCEL THIS MSG 010001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -401,7 +477,8 @@ DNC 07.
    DAILY 27 AND 28 NOV IN AREA BOUND BY
    32-50.00S 072-14.00W, 32-50.00S 071-50.00W,
    33-10.00S 071-50.00W, 33-10.00S 072-14.00W.
-2. CANCEL THIS MSG 282000Z NOV 25.</msgText>
+2. CANCEL THIS MSG 282000Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -415,7 +492,8 @@ DNC 03.
    IN 01-03.59N 103-41.48E AT 231730Z NOV.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 270123Z NOV 25.</msgText>
+2. CANCEL THIS MSG 270123Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
@@ -426,7 +504,7 @@ SOUTH CHINA SEA.
 VIETNAM.
 DNC 11.
 MAN OVERBOARD FROM F/V BV 96567 TS
-IN 08-27.00N 106-43.00E.
+IN 08-27.00N 106-43.00E AT 230730Z NOV.
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
@@ -449,7 +527,8 @@ BY CABLESHIP RENE DESCARTES IN AREA BOUND BY
 01-57.20N 102-16.00E, 02-40.30N 101-21.20E,
 02-43.00N 101-22.50E, 01-59.40N 102-18.10E,
 01-38.10N 103-02.20E, 01-15.90N 103-25.70E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -467,27 +546,6 @@ DNC 03
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>221446Z NOV 25
-HYDROPAC 3047/25(GEN).
-EAST CHINA SEA.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 11, DNC 23.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   261554Z TO 261645Z NOV IN AREAS BOUND BY:
-   A. 31-12.43N 127-33.13E, 31-18.79N 128-31.90E,
-      29-58.25N 128-43.22E, 29-51.90N 127-45.26E.
-   B. 21-30.71N 128-44.15E, 21-39.25N 129-56.59E,
-      18-57.94N 130-17.48E, 18-49.40N 129-06.28E.
-   C. 11-31.72N 129-38.05E, 11-42.19N 131-16.52E,
-      07-01.75N 131-46.31E, 06-51.28N 130-09.15E.
-2. CANCEL THIS MSG 261745Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221311Z NOV 25
@@ -500,7 +558,8 @@ DNC 12.
    27-10.00N 143-10.00E, 27-10.00N 143-50.00E,
    28-40.00N 143-50.00E, 28-40.00N 143-10.00E.
    WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2988/25(94).</msgText>
+2. CANCEL HYDROPAC 2988/25(94).
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -539,21 +598,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211515Z NOV 25
-HYDROPAC 3037/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0230Z TO 1130Z DAILY
-   25 AND 26 NOV IN AREA BOUND BY
-   14-55.00N 072-26.00E, 14-34.00N 071-28.00E,
-   16-13.00N 071-27.00E, 15-53.00N 072-26.00E.
-2. CANCEL THIS MSG 261230Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211454Z NOV 25
@@ -588,21 +632,6 @@ E-MAIL: HPLES-GMDSS@HPLES.COM.VN
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211317Z NOV 25
-HYDROPAC 3033/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 260130Z TO 261130Z NOV
-   IN AREA BOUND BY
-   12-59.00N 080-46.00E, 12-59.00N 081-26.00E,
-   12-49.00N 081-26.00E, 12-49.00N 080-46.00E.
-2. CANCEL THIS MSG 261230Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>210241Z NOV 25
@@ -622,31 +651,6 @@ DNC 06, DNC 13.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WORKING VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>201311Z NOV 25
-HYDROPAC 3017/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. OFFSHORE INSTALLATION OPERATIONS IN PROGRESS 
-   22 NOV THRU 12 DEC BY BARGE DLB KENENNA IN 
-   AREAS BOUND BY:
-   A. 19-28.69N 071-35.30E, 19-29.02N 071-09.73E,
-      19-12.38N 071-09.51E, 19-12.05N 071-35.03E.
-   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-2. CANCEL THIS MSG 130001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201258Z NOV 25
@@ -659,6 +663,7 @@ BY CABLESHIP RENE DESCARTES IN AREA BOUND BY
 01-25.90N 103-15.00E, 01-25.40N 103-14.20E,
 01-22.20N 103-17.30E, 01-22.70N 103-18.00E.
 WIDE BERTH REQUESTED.
+CANCEL THIS MSG 281400Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
