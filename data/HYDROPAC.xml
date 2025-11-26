@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>260155Z NOV 25
+HYDROPAC 3095/25(22).
+SOUTH PACIFIC.
+DNC 07.
+1. DART BUOY 4G 35-45.50S 075-14.40W TEMPORARILY
+   REMOVED.
+2. CANCEL HYDROPAC 3067/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>260010Z NOV 25
@@ -70,18 +81,6 @@ DNC 03.
    22-08.00N 091-31.00E, 21-02.00N 090-28.00E,
    20-44.00N 090-52.00E.
 2. CANCEL THIS MSG 011800Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>251157Z NOV 25
-HYDROPAC 3087/25(74).
-NORTHERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-CAPE NATURALISTE LIGHT 33-32.24S 115-01.12E
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -269,15 +268,6 @@ CHILE.
 DNC 07.
 VALPARAISO RADIO 33-04.70S 071-36.80W 
 DSC SERVICES OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>240240Z NOV 25
-HYDROPAC 3067/25(22).
-SOUTH PACIFIC.
-DNC 07.
-DART BUOY 4G ADRIFT IN 35-44.49S 075-17.02W.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -626,20 +616,6 @@ DNC 03.
    08-38.25N 076-46.91E, 08-29.61N 076-36.87E,
    08-15.63N 076-48.38E, 08-23.86N 076-58.76E.
 2. CANCEL THIS MSG 051930Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200509Z NOV 25
-HYDROPAC 3007/25(76).
-TASMAN SEA.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS 241900Z TO 260400Z NOV
-   IN AREA WITHIN THREE MILES OF 
-   36-28.65S 174-09.63E.
-2. CANCEL THIS MSG 260500Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

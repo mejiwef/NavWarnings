@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260039Z NOV 25
+HYDROLANT 1996/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 270001Z TO
+   302359Z NOV IN AREA BOUND BY
+   24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
+   24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
+2. CANCEL THIS MSG 010059Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>251428Z NOV 25
@@ -194,22 +208,6 @@ DNC 01.
    30-29.30S 048-31.57W, 30-05.82S 048-26.17W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230904Z NOV 25
-HYDROLANT 1979/25(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. HAZARDOUS OPERATIONS 250001Z TO 252359Z NOV
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 260100Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

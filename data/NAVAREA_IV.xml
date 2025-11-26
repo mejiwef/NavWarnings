@@ -293,17 +293,6 @@ FRENCH GUIANA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>200212Z NOV 25
-NAVAREA IV 1285/25(14).
-CANADA.
-1. NAVTEX STATION MOISIE (C)
-   50-11.75N 066-06.74W OFF AIR.
-2. CANCEL NAVAREA IV 1280/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>191207Z NOV 25
