@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270131Z NOV 25
+HYDROPAC 3111/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY CABLESHIP ILE DYEU
+IN AREA WITHIN 20 MILES OF 36-49.36S 135-18.70E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270038Z NOV 25
+HYDROPAC 3110/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
+IN 21-11.40S 114-41.80E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>261328Z NOV 25
@@ -379,16 +405,6 @@ DNC 11.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>250214Z NOV 25
-HYDROPAC 3079/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-CANCEL HYDROPAC 2987/25 AND THIS MSG.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250116Z NOV 25
@@ -479,21 +495,6 @@ DNC 07.
    32-50.00S 072-14.00W, 32-50.00S 071-50.00W,
    33-10.00S 071-50.00W, 33-10.00S 072-14.00W.
 2. CANCEL THIS MSG 282000Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>240123Z NOV 25
-HYDROPAC 3065/25(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-1. VESSEL BOARDED BY TWO ARMED PIRATES
-   IN 01-03.59N 103-41.48E AT 231730Z NOV.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 270123Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -803,20 +804,6 @@ SOUTH PACIFIC.
 PERU.
 DNC 07.
 DANGEROUS WRECK IN VICINITY 11-59.28S 077-08.77W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>182055Z NOV 25
-HYDROPAC 2987/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-IN 20-08.88S 115-02.45E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

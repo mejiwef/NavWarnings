@@ -148,23 +148,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>192058Z NOV 25
-NAVAREA XII 748/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 251400Z TO 260100Z NOV, 
-   ALTERNATE 261400Z TO 270100Z NOV 
-   IN AREA BOUND BY
-   32-14.42N 120-12.97W, 32-49.70N 120-47.27W,
-   33-49.75N 119-52.32W, 33-58.40N 119-22.95W,
-   34-07.07N 119-09.83W, 34-04.85N 119-03.50W,
-   33-03.87N 119-06.07W.
-2. CANCEL THIS MSG 270200Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>141032Z NOV 25
