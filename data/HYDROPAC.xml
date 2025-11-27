@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>242355Z NOV 25
+HYDROPAC 3117/25(57,61,71).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   022213Z TO 030320Z, 032147Z TO 040254Z,
+   042121Z TO 050228Z, 052055Z TO 060202Z,
+   062029Z TO 070136Z, 072003Z TO 080110Z
+   AND 081937Z TO 090044Z DEC 
+   IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 090144Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>242110Z NOV 25
+HYDROPAC 3116/25(21,22,83).
+PACIFIC OCEAN.
+DNC 06, DNC 07, DNC 13.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   022032Z TO 030120Z, 032010Z TO 040058Z,
+   041948Z TO 050036Z, 051925Z TO 060013Z,
+   061903Z TO 062351Z, 071841Z TO 072329Z
+   AND 081819Z TO 082307Z DEC 
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 090007Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251002Z NOV 25
+HYDROPAC 3115/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 02 THRU 04 DEC IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 041400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>270736Z NOV 25
+HYDROPAC 3114/25(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. NAVTEX STATION VALPARAISO (B) 32-48.37S 071-29.23W
+   OFF AIR.
+2. VALPARAISO RADIO 33-04.70S 071-36.80W
+   ASSUMES CONTROL AND WILL TRANSMIT VIA SAFETYNET. 
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270710Z NOV 25
+HYDROPAC 3112/25(63).
+ANDAMAN SEA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 281030Z TO 281330Z NOV
+   IN AREA BOUND BY
+   08-20.00N 095-10.00E, 08-40.00N 095-10.00E,
+   08-40.00N 095-30.00E, 08-20.00N 095-30.00E.
+2. CANCEL THIS MSG 281430Z NOV 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270131Z NOV 25
@@ -441,23 +525,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>241206Z NOV 25
-HYDROPAC 3075/25(63).
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 270430Z TO 270730Z NOV
-   IN AREA BOUND BY
-   22-35.30N 069-16.12E, 22-40.12N 069-09.11E,
-   22-42.00N 068-55.34E, 22-28.11N 068-51.05E,
-   22-28.45N 069-17.10E.
-2. CANCEL THIS MSG 270830Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>241138Z NOV 25
 HYDROPAC 3073/25(63).
 ANDAMAN SEA.
@@ -468,18 +535,6 @@ DNC 03.
    11-45.40N 092-47.00E, 11-45.40N 093-11.60E,
    11-21.60N 093-11.60E, 11-21.60N 092-47.00E.
 2. CANCEL THIS MSG 280730Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>240915Z NOV 25
-HYDROPAC 3071/25(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-VALPARAISO RADIO 33-04.70S 071-36.80W 
-DSC SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -863,21 +918,6 @@ ANDAMAN SEA.
 INDIA.
 DNC 03.
 ROSS ISLAND LIGHT 11-40.90N 092-45.99E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171340Z NOV 25
-HYDROPAC 2966/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 200830Z TO 201030Z, 
-   AND 2708030Z TO 271030Z NOV IN AREA BOUND BY
-   13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
-   12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
-2. CANCEL THIS MSG 271130Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
