@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280213Z NOV 25
+HYDROPAC 3134/25(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 1100Z TO 2000Z
+   DAILY 02 AND 04 DEC IN AREA BOUND BY
+   36-25.00S 073-26.00W, 36-25.00S 073-14.00W,
+   36-34.00S 073-14.00W, 36-34.00S 073-26.00W.
+2. CANCEL HYDROPAC 3133/25.
+3. CANCEL THIS MSG 042100Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>280133Z NOV 25
+HYDROPAC 3132/25(22).
+EASTERN SOUTH PACIFIC
+CHILE.
+DNC 07.
+1. NAVTEX STATION MAGALLANES RADIO (E) 
+   52-55.70S 070-53.42W OFF AIR.
+2. VALPARAISO PLAYA ANCHA RADIO
+   33-04.7S 071-36.8W ASSUMES CONTROL AND WILL
+   TRANSMIT VIA SAFETYNET.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280002Z NOV 25

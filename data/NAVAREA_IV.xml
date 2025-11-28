@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280022Z NOV 25
+NAVAREA IV 1320/25(24).
+CARIBBEAN SEA.
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   041800Z DEC BY M/V DELTA SKIPPER 
+   IN AREA BOUND BY
+   10-06.47N 060-59.25W, 10-06.83N 061-01.93W,
+   10-05.01N 061-02.18W, 10-04.45N 060-59.70W,
+   09-55.25N 060-31.96W, 09-55.37N 060-32.16W,
+   09-56.05N 060-33.23W.
+   500 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 041900Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>271951Z NOV 25

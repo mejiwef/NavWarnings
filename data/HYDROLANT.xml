@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280113Z NOV 25
+HYDROLANT 2010/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 1000Z TO 2000Z DAILY 
+   UNTIL 02 NOV 26 BY M/V FUGRO VAQUITA IN: 
+   A. 22-26.32S 040-25.47W.
+   B. 22-27.05S 040-24.71W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 022100Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEBRIS</category>
         <status>INFORCE</status>
         <msgText>271536Z NOV 25
@@ -95,23 +111,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 090144Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270643Z NOV 25
-HYDROLANT 2004/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 1000Z TO 2000Z 
-   DAILY 26 NOV THRU 02 NOV 26 BY 
-   M/V FUGRO VAQUITA IN: 
-   A. 22-26.32S 040-25.47W.
-   B. 22-27.05S 040-24.71W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 022100Z NOV 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
