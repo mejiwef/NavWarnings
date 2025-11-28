@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>280834Z NOV 25
+HYDROLANT 2012/25(51).
+NORTH ATLANTIC.
+SENEGAL.
+DNC 01.
+1. DERELICT M/V MERSIN ADRIFT IN VICINITY 
+   14-37.00N 017-17.00W AT 280100Z NOV.
+   REPORTS TO COORD.NAVAREA2@SHOM.F.
+2. CANCEL THIS MSG 010833Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280812Z NOV 25
+HYDROLANT 2011/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 290001Z NOV TO 022359Z DEC
+   IN AREA BOUND BY
+   24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
+   24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
+2. CANCEL HYDROLANT 1996/25.
+3. CANCEL THIS MSG 030059Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280113Z NOV 25
@@ -178,21 +208,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010059Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260039Z NOV 25
-HYDROLANT 1996/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 270001Z TO
-   302359Z NOV IN AREA BOUND BY
-   24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
-   24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
-2. CANCEL THIS MSG 010059Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

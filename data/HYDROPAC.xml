@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>280917Z NOV 25
+HYDROPAC 3137/25(93).
+SOUTH CHINA SEA.
+DNC 11.
+F/V PY 96202 TS, FIVE PERSONS ON BOARD, 
+SANK IN 10-22.50N 114-28.61E AT 272352Z NOV.
+THREE PERSONS RESCUED, TWO PERSONS 
+REMAIN MISSING. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>280709Z NOV 25
+HYDROPAC 3135/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V NT 90329 TS, FIVE PERSONS ON BOARD, 
+SINKING IN 11-47.56N 109-11.35E 
+AT 272230Z NOV. TWO PERSONS RESCUED, 
+THREE PERSONS REMAIN MISSING.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280213Z NOV 25
@@ -14,22 +49,6 @@ DNC 07.
    36-34.00S 073-14.00W, 36-34.00S 073-26.00W.
 2. CANCEL HYDROPAC 3133/25.
 3. CANCEL THIS MSG 042100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>280133Z NOV 25
-HYDROPAC 3132/25(22).
-EASTERN SOUTH PACIFIC
-CHILE.
-DNC 07.
-1. NAVTEX STATION MAGALLANES RADIO (E) 
-   52-55.70S 070-53.42W OFF AIR.
-2. VALPARAISO PLAYA ANCHA RADIO
-   33-04.7S 071-36.8W ASSUMES CONTROL AND WILL
-   TRANSMIT VIA SAFETYNET.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -691,37 +710,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3061/25.
 3. CANCEL THIS MSG 010001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241242Z NOV 25
-HYDROPAC 3076/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 0530Z
-   AND 0830Z TO 0930Z DAILY 27 AND 28 NOV
-   IN AREA BOUND BY
-   11-20.00N 092-55.00E, 11-15.00N 092-30.00E,
-   11-00.00N 092-30.00E, 11-05.00N 092-55.00E.
-2. CANCEL THIS MSG 281030Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241138Z NOV 25
-HYDROPAC 3073/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 0630Z DAILY
-   26 AND 28 NOV IN AREA BOUND BY
-   11-45.40N 092-47.00E, 11-45.40N 093-11.60E,
-   11-21.60N 093-11.60E, 11-21.60N 092-47.00E.
-2. CANCEL THIS MSG 280730Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>241611Z NOV 25
+NAVAREA IV 1321/25(12).
+NORTH ATLANTIC.
+VIRGINIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 021015Z TO 021215Z DEC, ALTERNATE 1015Z TO 1215Z 
+      DAILY 03 THRU 09 DEC IN AREA BOUND BY
+      37-49N 075-30W, 37-51N 075-28W, 
+      37-49N 075-25W, 37-47N 075-22W, 
+      37-46N 075-25W, 37-45N 075-25W, 
+      37-45N 075-28W, 37-47N 075-29W.
+   B. 021215Z TO 021700Z DEC, ALTERNATE 1215Z TO 1700Z
+      DAILY 03 THRU 09 DEC IN AREA BOUND BY
+      37-50N 075-29W, 37-51N 075-28W,
+      37-54N 075-11W, 37-54N 075-01W, 
+      37-53N 074-57W, 37-49N 074-53W, 
+      37-42N 074-53W, 37-36N 074-59W, 
+      37-35N 075-12W, 37-38N 075-22W, 
+      37-42N 075-25W.
+2. CANCEL THIS MSG 091800Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280022Z NOV 25
