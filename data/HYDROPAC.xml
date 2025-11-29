@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291514Z NOV 25
+HYDROPAC 3154/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 30 NOV TO 30 DEC
+   BY M/V SAMBHAVYA IN AREA BOUND BY
+   16-15.94N 081-16.99E, 16-13.50N 081-23.56E,
+   16-10.70N 081-20.58E, 16-14.62N 081-15.85E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>290951Z NOV 25
@@ -1040,25 +1056,6 @@ REQUESTED TO KEEP A SHARP LOOKOUT,
 ASSIST IF POSSIBLE. REPORTS TO
 MRCC VIETNAM,
 E-MAIL: HPLES-GMDSS@HPLES.COM.VN
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>210241Z NOV 25
-HYDROPAC 3028/25(83).
-PACIFIC OCEAN.
-DNC 06, DNC 13.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   262123Z TO 262311Z NOV, ALTERNATE
-   282123Z TO 282311Z, 292123Z TO 292311Z,
-   302123Z TO 302311Z NOV, 012123Z TO 012311Z,
-   022123Z TO 022311Z AND 032123Z TO 032311Z DEC
-   IN AREA BOUND BY
-   00-04.00N 175-42.00W, 00-18.00S 173-50.00W,
-   13-27.00N 171-03.00W, 14-57.00N 172-49.00W.
-2. CANCEL HYDROPAC 2961/25.
-3. CANCEL THIS MSG 040011Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
