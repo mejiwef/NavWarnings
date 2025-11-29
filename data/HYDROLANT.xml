@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281837Z NOV 25
+HYDROLANT 2017/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 01.
+1. HAZARDOUS OPERATIONS 03 AND 04 DEC
+   IN AREA BOUND BY
+   29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
+   28-46.50N 010-48.50W, 28-42.80N 010-56.70W.
+2. CANCEL THIS MSG 050001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>281747Z NOV 25
+HYDROLANT 2016/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
+2. CANCEL HYDROLANT 1774/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281443Z NOV 25
@@ -552,24 +577,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADAR JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>120354Z NOV 25
-HYDROLANT 1909/25(35,38).
-NORTH ATLANTIC.
-SCOTLAND.
-DNC 19.
-1. RADAR JAMMING EXERCISES 0900Z TO 1800Z 
-   DAILY 17 THRU 21 AND 24 THRU 28 NOV
-   IN AREA BOUND BY
-   58-39.00N 013-16.00W, 58-39.00N 011-36.00W,
-   57-41.00N 008-42.00W, 57-19.00N 008-42.00W,
-   56-18.00N 011-26.00W, 56-18.00N 013-07.00W,
-   56-50.00N 014-03.00W, 58-04.00N 014-08.00W.
-2. CANCEL THIS MSG 281900Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070917Z NOV 25
@@ -751,18 +758,6 @@ DNC 01.
 1. LAJE MARAMBAIA LIGHT 23-07.00S 043-50.20W
    UNLIT UNTIL 21 APR 26.
 2. CANCEL THIS MESSAGE 220001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>211720Z OCT 25
-HYDROLANT 1774/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
-2. CANCEL HYDROLANT 1495/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

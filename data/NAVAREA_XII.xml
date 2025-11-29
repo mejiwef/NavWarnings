@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>282234Z NOV 25
+NAVAREA XII 773/25(16).
+NORTH PACIFIC
+ALASKA.
+1. USCG REMOTE COMMUNICATION FACILITY NOME
+   64-29.00N 165-15.00W OFF AIR 
+   011800Z TO 011900Z DEC.
+2. CANCEL THIS MSG 012000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>282211Z NOV 25
+NAVAREA XII 772/25(18).
+NORTH PACIFIC.
+CALIFORNIA.
+NAVTEX STATION CAMBRIA (Q) 33-44.00N 118-24.00W
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281513Z NOV 25

@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>282046Z NOV 25
+HYDROPAC 3149/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. UNDERWATER OPERATIONS 29 NOV THRU 26 DEC
+   BY TUG AHT RAWABI OPAL IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 19-29.02N 071-09.73E, 19-28.69N 071-35.30E,
+      19-12.05N 071-35.03E, 19-12.38N 071-09.51E.
+   C. 20-45.60N 071-42.55E, 20-44.82N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   D. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   E. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   F. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 270001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>282019Z NOV 25
+HYDROPAC 3148/25(61).
+MOZAMBIQUE CHANNEL.
+MOZAMBIQUE.
+DNC 02.
+1. DERELICT VESSEL ADRIFT IN 17-05.00S 040-05.00E.
+2. CANCEL THIS MSG 012019Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>282014Z NOV 25
+HYDROPAC 3147/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1630Z 
+   DAILY 01 THRU 05 DEC IN AREA BOUND BY
+   15-50.30N 080-29.30E, 15-47.75N 080-42.55E,
+   15-43.95N 080-41.05E, 15-39.01N 080-35.96E,
+   15-37.50N 080-27.48E, 15-39.12N 080-22.57E.
+2. CANCEL THIS MSG 051730Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281830Z NOV 25
+HYDROPAC 3146/25(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 300630Z TO 301230Z NOV
+   IN AREA BOUND BY
+   08-08.00N 076-27.00E, 08-08.00N 076-32.00E,
+   08-13.00N 076-32.00E, 08-13.00N 076-27.00E.
+2. CANCEL THIS MSG 301330Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281816Z NOV 25
+HYDROPAC 3145/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 01 THRU 31 DEC
+   BY M/V VANESSA 7 IN AREA BOUND BY
+   19-14.74N 072-06.46E, 20-05.46N 071-53.72E,
+   19-23.15N 071-19.13E, 19-13.91N 071-25.00E,
+   18-54.75N 071-49.92E, 18-01.05N 072-22.57E,
+   18-45.23N 072-18.12E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281720Z NOV 25
@@ -446,19 +534,6 @@ IN AREA WITHIN 20 MILES OF 36-49.36S 135-18.70E.
 THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270038Z NOV 25
-HYDROPAC 3110/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-IN 21-11.40S 114-41.80E.
-ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>261328Z NOV 25
@@ -773,21 +848,6 @@ DNC 11.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>250334Z NOV 25
-HYDROPAC 3080/25(92).
-CELEBES SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS 
-   UNTIL 28 NOV IN AREA BOUND BY
-   07-31.91N 123-37.78E, 07-31.90N 123-42.81E,
-   07-26.89N 123-42.81E, 07-26.88N 123-37.78E.
-2. CANCEL THIS MSG 290001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250116Z NOV 25
@@ -803,21 +863,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3061/25.
 3. CANCEL THIS MSG 010001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240223Z NOV 25
-HYDROPAC 3066/25(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 0900Z TO 1900Z
-   DAILY 27 AND 28 NOV IN AREA BOUND BY
-   32-50.00S 072-14.00W, 32-50.00S 071-50.00W,
-   33-10.00S 071-50.00W, 33-10.00S 072-14.00W.
-2. CANCEL THIS MSG 282000Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1486,45 +1531,6 @@ CHILE.
 DNC 07.
 ISLA SAN PEDRO LIGHT 47-41.90S 074-51.90W
 RANGE REDUCED TO NINE MILES.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301407Z OCT 25
-HYDROPAC 2784/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 1831Z TO 1829Z DAILY 
-   02 THRU 28 NOV IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
-2. CANCEL HYDROPAC 2527/25.
-3. CANCEL THIS MSG 281929Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301118Z OCT 25
-HYDROPAC 2781/25(62, 63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03, DNC 10.
-1. HAZARDOUS OPERATIONS 0300Z TO 1900Z DAILY 
-   01 THRU 28 NOV EXCEPT SATURDAYS AND SUNDAYS 
-   IN AREAS BOUND BY:
-   A. 24-19.00N 066-58.00E, 24-24.30N 066-42.00E,
-      24-11.00N 066-27.00E, 24-00.00N 066-39.00E.
-   B. 24-36.02N 063-15.03E, 24-36.02N 062-30.03E,
-      24-21.02N 062-30.03E, 24-21.02N 063-15.03E.
-   C. 24-36.02N 062-30.03E, 24-36.02N 061-45.03E,
-      24-21.02N 061-45.03E, 24-21.02N 062-30.03E.
-   D. 24-16.30N 066-33.00E, 24-22.00N 066-27.00E,
-      24-16.18N 066-20.50E, 24-10.30N 066-27.00E.
-2. CANCEL THIS MSG 282000Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
