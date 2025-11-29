@@ -3,6 +3,35 @@
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>290408Z NOV 25
+HYDROPAC 3152/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
+IN 21-27.00S 113-49.50E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290223Z NOV 25
+HYDROPAC 3151/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS 
+UNTIL FURTHER NOTICE BY M/V OFFSHORE SOLUTION
+IN AREA BOUND BY
+19-20.30S 115-00.00E, 19-20.30S 116-41.00E,
+20-10.00S 116-41.00E, 20-10.00S 115-00.00E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>282046Z NOV 25
 HYDROPAC 3149/25(63).
 ARABIAN SEA.
@@ -212,7 +241,8 @@ HYDROPAC 3139/25(GEN).
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROPAC 3016/25 AND 3040/25.</msgText>
+3. CANCEL HYDROPAC 3016/25 AND 3040/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -467,7 +497,8 @@ DNC 01, DNC 02, DNC 03.
    08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 090144Z DEC 25.</msgText>
+2. CANCEL THIS MSG 090144Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -673,22 +704,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261011Z NOV 25
-HYDROPAC 3100/25(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS 1830Z TO 0330Z 
-   DAILY 26 THRU 28 NOV IN AREA BOUND BY
-   36-34.77S 175-04.04E, 36-34.77S 175-09.52E,
-   36-39.16S 175-09.54E, 36-39.16S 175-04.12E.
-2. CANCEL HYDROPAC 3042/25.
-3. CANCEL THIS MSG 290430Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>260951Z NOV 25
@@ -814,7 +829,8 @@ DNC 06, DNC 07.
    060301Z TO 060739Z DEC IN AREA BOUND BY
    59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
    27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
-2. CANCEL THIS MSG 060839Z DEC 25.</msgText>
+2. CANCEL THIS MSG 060839Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>

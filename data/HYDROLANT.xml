@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290046Z NOV 25
+HYDROLANT 2019/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL 090300Z DEC BY M/V SISTAC VITORIA 
+   IN 22-25.72S 040-01.72W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 090400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290037Z NOV 25
+HYDROLANT 2018/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PORTO DE PEDRAS LIGHT 09-09.39S 035-17.89W
+   UNLIT UNTIL 27 MAY 26.
+2. CANCEL THIS MSG 280001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281837Z NOV 25
@@ -12,7 +40,8 @@ DNC 01.
    IN AREA BOUND BY
    29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
    28-46.50N 010-48.50W, 28-42.80N 010-56.70W.
-2. CANCEL THIS MSG 050001Z DEC 25.</msgText>
+2. CANCEL THIS MSG 050001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -23,7 +52,8 @@ NORTH ATLANTIC.
 MOROCCO.
 DNC 08.
 1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
-2. CANCEL HYDROLANT 1774/25.</msgText>
+2. CANCEL HYDROLANT 1774/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -58,7 +88,8 @@ HYDROLANT 2015/25(GEN).
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROLANT 1973/25.</msgText>
+3. CANCEL HYDROLANT 1973/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -104,7 +135,8 @@ DNC 01.
    AF. 55-49.00S 041-31.00W.
    AG. 50-52.00S 038-39.00W.
    AH. 51-25.00S 036-27.00W.
-2. CANCEL THIS MSG 291400Z NOV 25.</msgText>
+2. CANCEL THIS MSG 291400Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -122,7 +154,8 @@ DNC 29.
    D. B29, 73-49.80S 110-31.80W.
    E. D33A, 65-16.80S 056-56.40W.
    F. D33C, 65-52.80S 058-04.20W.
-2. CANCEL THIS MSG 291400Z NOV 25.</msgText>
+2. CANCEL THIS MSG 291400Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -180,7 +213,8 @@ PORTUGAL.
 DNC 08.
 1. DEBRIS ADRIFT IN VICINITY 39-21.00N 010-04.00W
    AT 271130Z NOV.
-2. CANCEL THIS MSG 301539Z NOV 25.</msgText>
+2. CANCEL THIS MSG 301539Z NOV 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -199,22 +233,7 @@ DNC 01, DNC 02, DNC 03.
    08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 090144Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261620Z NOV 25
-HYDROLANT 2003/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 01.
-1. HAZARDOUS OPERATIONS 280001Z TO 282359Z NOV 
-   IN AREA BOUND BY
-   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
-   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
-   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
-2. CANCEL THIS MSG 290059Z NOV 25.
+2. CANCEL THIS MSG 090144Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -300,21 +319,6 @@ DNC 01.
 2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250036Z NOV 25
-HYDROLANT 1989/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 1700Z TO 2100Z DAILY
-   27 THRU 29 NOV IN AREA WITHIN TEN MILES
-   OF 05-39.00S 034-33.00W.
-2. CANCEL HYDROLANT 1977/25.
-3. CANCEL THIS MSG 292200Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>241443Z NOV 25
@@ -377,21 +381,6 @@ DNC 01.
    30-29.30S 048-31.57W, 30-05.82S 048-26.17W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141558Z NOV 25
-HYDROLANT 1970/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 0900Z T0 1500Z DAILY
-   26 NOV THRU 04 DEC IN AREA BOUND BY
-   06-22.83S 034-55.73W, 05-24.60S 035-11.32W,
-   05-01.65S 033-46.15W, 05-59.83S 033-30.45W.
-2. CANCEL THIS MSG 041600Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
