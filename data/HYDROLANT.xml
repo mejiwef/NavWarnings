@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291112Z NOV 25
+HYDROLANT 2023/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-06.00S 057-48.60W.
+   B. A84, 71-52.20S 095-23.40W.
+   C. A85, 68-03.60S 055-02.40W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-16.80S 056-56.40W.
+   F. D33C, 65-52.80S 058-04.20W.
+2. CANCEL THIS MSG 301400Z NOV 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>290634Z NOV 25
+HYDROLANT 2022/25(35).
+NORTH SEA.
+SCOTLAND.
+DNC 20.
+CGOC ABERDEEN MF DSC AT CRUDEN BAY SITE
+57-25.00N 001-52.00W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290046Z NOV 25

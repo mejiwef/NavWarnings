@@ -206,18 +206,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>260926Z NOV 25
-NAVAREA IV 1310/25(25).
-CARIBBEAN SEA.
-SAINT MARTIN.
-1. TEN METER LONG TREE ADRIFT IN 
-   VICINITY 17-56.60N 063-07.63W.
-2. CANCEL THIS MSG 290916Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241330Z NOV 25
