@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>COMBINED OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>292129Z NOV 25
+HYDROPAC 3159/25(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. HAZARDOUS OPERATIONS 0100Z TO 0400Z 
+   DAILY 05 THRU 18 DEC:
+   A. ROCKET LAUNCHING IN AREA BOUND BY
+      39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
+      39-15.00S 178-06.00E, 39-24.00S 178-06.00E,
+      39-54.00S 177-45.00E, 39-54.00S 177-36.00E.
+   B. SPACE DEBRIS IN AREA BOUND BY
+      43-12.00S 175-42.00E, 43-24.00S 177-30.00E,
+      46-42.00S 176-36.00E, 46-30.00S 174-48.00E.
+2. CANCEL THIS MSG 180500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>292030Z NOV 25
+HYDROPAC 3157/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V NT 90329 TS SANK IN 11-47.56N 109-11.35E
+   AT 272230Z NOV.  TWO PERSONS RESCUED,
+   ONE PERSON REMAINS MISSING.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 3135/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>291858Z NOV 25
+HYDROPAC 3156/25(61).
+MOZAMBIQUE CHANNEL.
+MOZAMBIQUE.
+DNC 02.
+1. DERELICT VESSEL ADRIFT IN 17-05.00S 040-05.00E.
+2. CANCEL HYDROPAC 3148/25.
+3. CANCEL THIS MSG 021857Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291514Z NOV 25
@@ -87,18 +138,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 270001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>282019Z NOV 25
-HYDROPAC 3148/25(61).
-MOZAMBIQUE CHANNEL.
-MOZAMBIQUE.
-DNC 02.
-1. DERELICT VESSEL ADRIFT IN 17-05.00S 040-05.00E.
-2. CANCEL THIS MSG 012019Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -306,24 +345,6 @@ THREE PERSONS RESCUED, TWO PERSONS
 REMAIN MISSING. VESSELS IN VICINITY 
 REQUESTED TO KEEP A SHARP LOOKOUT, 
 ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>280709Z NOV 25
-HYDROPAC 3135/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-F/V NT 90329 TS, FIVE PERSONS ON BOARD, 
-SINKING IN 11-47.56N 109-11.35E 
-AT 272230Z NOV. TWO PERSONS RESCUED, 
-THREE PERSONS REMAIN MISSING.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
@@ -890,21 +911,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>250351Z NOV 25
-HYDROPAC 3081/25(92).
-CAMOTES SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS 
-   UNTIL 29 NOV IN AREA BOUND BY
-   10-32.00N 124-15.00E, 10-32.00N 124-25.00E,
-   10-22.66N 124-25.12E, 10-22.72N 124-15.18E.
-2. CANCEL THIS MSG 300001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250116Z NOV 25
@@ -1214,22 +1220,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181303Z NOV 25
-HYDROPAC 2984/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 21 THRU 29 NOV 
-   BY M/V SAMBHAVYA IN AREA BOUND BY
-   21-36.51N 087-31.49E, 21-35.75N 087-29.32E,
-   21-33.05N 087-30.06E, 21-32.62N 087-33.05E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 300001Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>171434Z NOV 25
@@ -1317,21 +1307,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141350Z NOV 25
-HYDROPAC 2935/25(71).
-SOUTH CHINA SEA.
-SINGAPORE.
-DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-BY CABLESHIP ILE DE RE IN AREA BOUND BY
-02-08.90N 104-48.87E, 02-08.68N 104-49.36E,
-02-07.64N 104-48.70E, 02-08.01N 104-48.30E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
