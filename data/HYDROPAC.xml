@@ -198,20 +198,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281830Z NOV 25
-HYDROPAC 3146/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 300630Z TO 301230Z NOV
-   IN AREA BOUND BY
-   08-08.00N 076-27.00E, 08-08.00N 076-32.00E,
-   08-13.00N 076-32.00E, 08-13.00N 076-27.00E.
-2. CANCEL THIS MSG 301330Z NOV 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281816Z NOV 25
@@ -702,22 +688,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261218Z NOV 25
-HYDROPAC 3106/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 290030Z TO 301430Z NOV
-   IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 301530Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>261142Z NOV 25
@@ -814,27 +784,6 @@ DNC 07.
 1. DART BUOY 4G 35-45.50S 075-14.40W TEMPORARILY
    REMOVED.
 2. CANCEL HYDROPAC 3067/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>260010Z NOV 25
-HYDROPAC 3094/25(81,91).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 12, DNC 23.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   301100Z TO 301700Z NOV IN AREAS BOUND BY:
-   A. 19-43.00N 118-44.00E, 19-38.00N 120-10.00E,
-      19-00.00N 120-08.00E, 19-05.00N 118-42.00E.
-   B. 19-20.00N 123-29.00E, 19-15.00N 124-29.00E,
-      18-43.00N 124-26.00E, 18-47.00N 123-26.00E.
-   C. 17-23.00N 139-05.00E, 16-55.00N 141-46.00E,
-      16-07.00N 141-37.00E, 16-35.00N 138-56.00E.
-2. CANCEL THIS MSG 301800Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -2221,17 +2170,6 @@ CHILE.
 DNC 07.
 ARICA RADIO 18-29.10S 070-19.16W DSC MF 
 SERVICE OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>230007Z MAR 25
-HYDROPAC 746/25(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-SOUTH CARDINAL BUOY 01-03.59N 103-38.86E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

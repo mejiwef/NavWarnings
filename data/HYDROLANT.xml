@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>301553Z NOV 25
+HYDROLANT 2031/25(36, 37).
+ENGLISH CHANNEL.
+NORTH CHANNEL.
+1. NAVTEX STATION NITON (T) 50-35.00N 001-15.00W
+   OFF AIR 010900Z AND 021700Z DEC.
+2. NITON BROADCASTS WILL BE TRANSMITTED
+   FROM NAVTEX STATION PORTPATRICK (O)
+   54-51.00N 005-07.00W. 
+3. CANCEL HYDROLANT 2030/25.
+4. CANCEL THIS MSG 021800Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>291355Z NOV 25
-HYDROLANT 2025/25(23,29).
+        <msgText>301323Z NOV 25
+HYDROLANT 2029/25(23,29).
 SCOTIA SEA.
 SOUTH ATLANTIC.
 SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
 DNC 01.
 1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-26.00S 040-26.00W.
-   B. A74A, 54-44.00S 026-26.00W.
-   C. A77, 53-07.00S 040-59.00W.
-   D. A76C, 59-19.00S 038-39.00W.
-   E. B15AB, 58-06.00S 046-08.00W.
-   F. A23G, 53-25.00S 038-30.00W.
+   A. A23A, 52-23.00S 040-24.00W.
+   B. A74A, 54-49.00S 026-29.00W.
+   C. A77, 52-59.00S 041-35.00W.
+   D. A76C, 59-13.00S 038-44.00W.
+   E. B15AB, 58-03.00S 046-11.00W.
+   F. A23G, 53-27.00S 038-35.00W.
    G. 51-40.00S 034-42.00W.
-   H. 54-55.00S 040-18.00W.
+   H. 54-39.00S 040-25.00W.
    I. 51-24.00S 034-40.00W.
-   J. 52-54.00S 038-59.00W.
-   K. 48-59.00S 022-33.00W.
+   J. 52-53.00S 038-59.00W.
+   K. 47-46.00S 021-33.00W.
    L. 50-53.00S 037-08.00W.
-   M. 52-06.00S 038-42.00W.
+   M. 52-04.00S 038-47.00W.
    N. 52-17.00S 041-39.00W.
    O. 53-25.00S 039-10.00W.
    P. 51-31.00S 036-28.00W.
    Q. 51-14.00S 038-55.00W.
    R. 50-20.00S 023-45.00W.
-   S. 53-00.00S 037-31.00W.
-   T. 52-49.00S 040-24.00W.
+   S. 53-00.00S 037-29.00W.
+   T. 52-39.00S 040-17.00W.
    U. 52-29.00S 041-53.00W.
    V. 49-45.00S 038-15.00W.
    W. 49-44.00S 038-35.00W.
@@ -37,15 +53,33 @@ DNC 01.
    Y. 54-07.00S 039-49.00W.
    Z. 52-21.00S 041-48.00W.
    AA. 52-27.00S 041-54.00W.
-   AB. 50-40.00S 022-01.00W.
-   AC. 49-39.00S 027-46.00W.
+   AB. 50-41.00S 022-02.00W.
+   AC. 49-18.00S 028-07.00W.
    AD. 51-57.00S 040-57.00W.
    AE. 52-11.00S 041-35.00W.
    AF. 55-49.00S 041-31.00W.
-   AG. 50-52.00S 038-39.00W.
+   AG. 50-55.00S 037-56.00W.
    AH. 51-25.00S 036-27.00W.
-   AI. 49-45.00S 038-38.00W.
-2. CANCEL THIS MSG 301400Z NOV 25.</msgText>
+   AI. 49-43.00S 038-40.00W.
+2. CANCEL THIS MSG 011400Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301234Z NOV 25
+HYDROLANT 2028/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-00.60S 057-43.80W.
+   B. A84, 71-52.20S 095-23.40W.
+   C. A85, 67-45.00S 055-08.40W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-12.00S 056-48.60W.
+   F. D33C, 65-45.60S 057-58.80W.
+2. CANCEL THIS MSG 011400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -59,24 +93,6 @@ DNC 01.
    IN AREA WITHIN FIVE MILES OF
    26-57.08S 047-04.60W.
 2. CANCEL THIS MSG 080100Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291112Z NOV 25
-HYDROLANT 2023/25(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-06.00S 057-48.60W.
-   B. A84, 71-52.20S 095-23.40W.
-   C. A85, 68-03.60S 055-02.40W.
-   D. B29, 73-49.80S 110-31.80W.
-   E. D33A, 65-16.80S 056-56.40W.
-   F. D33C, 65-52.80S 058-04.20W.
-2. CANCEL THIS MSG 301400Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -225,19 +241,6 @@ DNC 01.
    B. 22-27.05S 040-24.71W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 022100Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>271536Z NOV 25
-HYDROLANT 2008/25(51).
-NORTH ATLANTIC.
-PORTUGAL.
-DNC 08.
-1. DEBRIS ADRIFT IN VICINITY 39-21.00N 010-04.00W
-   AT 271130Z NOV.
-2. CANCEL THIS MSG 301539Z NOV 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
