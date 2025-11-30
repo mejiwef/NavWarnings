@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>222325Z OCT 25
+NAVAREA XII 777/25(19).
+NORTH PACIFIC.
+HAWAII.
+1. HAZARDOUS OPERATIONS 052130Z TO
+   060200Z DEC, ALTERNATE 062130Z TO
+   070200Z DEC IN AREA BOUND BY
+   22-02.00N 159-48.00W, 22-03.00N 159-46.00W,
+   22-07.00N 159-44.00W, 22-29.00N 159-53.00W,
+   28-56.00N 164-02.00W, 29-15.00N 163-44.00W,
+   29-58.00N 163-35.00W, 30-24.00N 164-07.00W,
+   30-21.00N 165-12.00W, 29-13.00N 166-53.00W,
+   28-20.00N 167-14.00W, 27-48.00N 166-52.00W,
+   27-42.00N 166-22.00W, 27-53.00N 165-45.00W,
+   23-20.00N 161-12.00W, 22-14.00N 160-06.00W,
+   22-11.00N 160-00.00W.
+2. CANCEL THIS MSG 070300Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>300003Z NOV 25

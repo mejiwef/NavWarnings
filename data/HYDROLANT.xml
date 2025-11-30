@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>DISTRESS SIGNAL</category>
-        <status>INFORCE</status>
-        <msgText>292259Z NOV 25
-HYDROLANT 2026/25(12).
-NORTH ATLANTIC.
-DNC 17.
-DISTRESS SIGNAL RECEIVED ON 406 MHZ
-FROM AIRCRAFT IN 38-00.00N 072-45.00W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO RCC NORFOLK,
-PHONE: 757 398 6231,
-EMAIL: RCCNORFOLK@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>291355Z NOV 25
