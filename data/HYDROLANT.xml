@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011501Z DEC 25
+HYDROLANT 2036/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-26.00S 040-21.00W.
+   B. A74A, 54-57.00S 026-24.00W.
+   C. A77, 52-57.00S 041-56.00W.
+   D. A76C, 59-10.00S 038-46.00W.
+   E. B15AB, 58-01.00S 046-14.00W.
+   F. A23G, 53-28.00S 038-37.00W.
+   G. 51-40.00S 034-42.00W.
+   H. 54-40.00S 040-23.00W.
+   I. 51-24.00S 034-40.00W.
+   J. 52-53.00S 039-00.00W.
+   K. 47-31.00S 021-19.00W.
+   L. 50-53.00S 037-08.00W.
+   M. 52-04.00S 038-47.00W.
+   N. 52-03.00S 041-26.00W.
+   O. 53-25.00S 039-10.00W.
+   P. 51-23.00S 036-32.00W.
+   Q. 51-14.00S 038-55.00W.
+   R. 50-20.00S 023-45.00W.
+   S. 53-05.00S 037-26.00W.
+   T. 52-48.00S 040-12.00W.
+   U. 52-14.00S 041-55.00W.
+   V. 49-42.00S 038-39.00W.
+   W. 49-39.00S 038-28.00W.
+   X. 52-12.00S 041-56.00W.
+   Y. 54-08.00S 039-57.00W.
+   Z. 52-02.00S 041-43.00W.
+   AA. 52-16.00S 041-52.00W.
+   AB. 50-46.00S 022-10.00W.
+   AC. 49-33.00S 027-38.00W.
+   AD. 52-12.00S 040-53.00W.
+   AE. 55-49.00S 041-31.00W.
+   AF. 50-44.00S 037-47.00W.
+   AG. 51-25.00S 036-27.00W.
+   AH. 52-18.00S 040-35.00W.
+   AI. 52-19.00S 040-31.00W.
+2. CANCEL THIS MSG 021509Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011451Z DEC 25
+HYDROLANT 2035/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-06.00S 057-48.60W.
+   B. A84, 71-52.20S 095-23.40W.
+   C. A85, 68-03.60S 055-02.40W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-16.80S 056-56.40W.
+   F. D33C, 65-52.80S 058-04.20W.
+2. CANCEL THIS MSG 021453Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011312Z DEC 25
+HYDROLANT 2034/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 061700Z TO 092100Z DEC
+   IN AREA BOUND BY
+   29-04.25S 049-03.56W, 29-04.25S 049-15.43W,
+   29-39.90S 049-43.23W, 29-39.90S 049-28.94W.
+2. CANCEL THIS MSG 092200Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011106Z DEC 25
@@ -24,7 +106,8 @@ IRISH SEA.
 NORTHERN IRELAND.
 DNC 20.
 ST. JOHNS POINT LIGHT 54-13.60N 005-39.60W
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -43,71 +126,6 @@ NORTH CHANNEL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301323Z NOV 25
-HYDROLANT 2029/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-23.00S 040-24.00W.
-   B. A74A, 54-49.00S 026-29.00W.
-   C. A77, 52-59.00S 041-35.00W.
-   D. A76C, 59-13.00S 038-44.00W.
-   E. B15AB, 58-03.00S 046-11.00W.
-   F. A23G, 53-27.00S 038-35.00W.
-   G. 51-40.00S 034-42.00W.
-   H. 54-39.00S 040-25.00W.
-   I. 51-24.00S 034-40.00W.
-   J. 52-53.00S 038-59.00W.
-   K. 47-46.00S 021-33.00W.
-   L. 50-53.00S 037-08.00W.
-   M. 52-04.00S 038-47.00W.
-   N. 52-17.00S 041-39.00W.
-   O. 53-25.00S 039-10.00W.
-   P. 51-31.00S 036-28.00W.
-   Q. 51-14.00S 038-55.00W.
-   R. 50-20.00S 023-45.00W.
-   S. 53-00.00S 037-29.00W.
-   T. 52-39.00S 040-17.00W.
-   U. 52-29.00S 041-53.00W.
-   V. 49-45.00S 038-15.00W.
-   W. 49-44.00S 038-35.00W.
-   X. 52-30.00S 041-55.00W.
-   Y. 54-07.00S 039-49.00W.
-   Z. 52-21.00S 041-48.00W.
-   AA. 52-27.00S 041-54.00W.
-   AB. 50-41.00S 022-02.00W.
-   AC. 49-18.00S 028-07.00W.
-   AD. 51-57.00S 040-57.00W.
-   AE. 52-11.00S 041-35.00W.
-   AF. 55-49.00S 041-31.00W.
-   AG. 50-55.00S 037-56.00W.
-   AH. 51-25.00S 036-27.00W.
-   AI. 49-43.00S 038-40.00W.
-2. CANCEL THIS MSG 011400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301234Z NOV 25
-HYDROLANT 2028/25(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-00.60S 057-43.80W.
-   B. A84, 71-52.20S 095-23.40W.
-   C. A85, 67-45.00S 055-08.40W.
-   D. B29, 73-49.80S 110-31.80W.
-   E. D33A, 65-12.00S 056-48.60W.
-   F. D33C, 65-45.60S 057-58.80W.
-2. CANCEL THIS MSG 011400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291234Z NOV 25
@@ -118,7 +136,8 @@ DNC 01.
 1. HAZARDOUS OPERATIONS 04 THRU 07 DEC
    IN AREA WITHIN FIVE MILES OF
    26-57.08S 047-04.60W.
-2. CANCEL THIS MSG 080100Z DEC 25.</msgText>
+2. CANCEL THIS MSG 080100Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -767,18 +786,6 @@ DNC 01.
    ESTABLISHED UNTIL 20 OCT 26
    IN 04-53.00S 035-46.01W.
 2. CANCEL THIS MSG 210001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>201902Z OCT 25
-HYDROLANT 1768/25(35).
-NORTH ATLANTIC.
-IRELAND.
-DNC 19.
-NAVTEX STATION VALENTIA (W) 51-56.00N 010-21.00W
-OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

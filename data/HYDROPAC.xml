@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011417Z DEC 25
+HYDROPAC 3174/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. PIPELINE OPERATIONS 02 DEC THRU 15 JAN 26
+   BY DERRICK BARGE 30 IN AREA BOUND BY
+   26-23.52N 052-13.83E, 26-24.67N 052-14.99E,
+   26-25.67N 052-17.14E, 26-22.73N 052-18.90E,
+   26-20.76N 052-17.61E, 26-21.39N 052-13.38E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2875/25(62).
+3. CANCEL THIS MSG 160001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>011249Z DEC 25
+HYDROPAC 3173/25(97).
+WESTERN NORTH PACIFIC.
+EAST CHINA SEA.
+SEA OF JAPAN.
+JAPAN.
+DNC 23.
+1. MOJI NAVTEX STATION (H) 34-00.90N 130-56.10E 
+   OFF AIR 012330Z DEC UNTIL FURTHER NOTICE.
+   MOJI BROADCASTS WILL BE TRANSMITTED FROM
+   NAHA NAVTEX STATION (G) 26-05.50N 127-40.10E
+   AND YOKOHAMA NAVTEX STATION (I) 35-14.55N 139-55.28E.
+2. CANCEL HYDROPAC 2757/25(97).
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011223Z DEC 25
+HYDROPAC 3172/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 03 THRU 30 DEC
+   IN AREA BOUND BY
+   17-43.00N 071-53.00E, 17-43.00N 072-12.00E,
+   17-24.00N 072-12.00E, 17-24.00N 071-53.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011205Z DEC 25
+HYDROPAC 3171/25(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z 
+   04, 11 AND 18 DEC IN AREA BOUND BY
+   13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
+   12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
+2. CANCEL THIS MSG 181130Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>011051Z DEC 25
@@ -39,7 +106,8 @@ CHILE.
 DNC 07.
 1. MAGALLANES RADIO 53-09.92S 070-54.28W 
    OFF AIR.
-2. CANCEL HYDROPAC 2623/25 AND 3114/25.</msgText>
+2. CANCEL HYDROPAC 2623/25 AND 3114/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -48,9 +116,10 @@ DNC 07.
 HYDROPAC 3164/25(63).
 EASTERN INDIAN OCEAN.
 DNC 03.
-1. 122 METER VESSEL ADRIFT IN VICINITY 
+1. DERELICT 122 METER VESSEL ADRIFT IN VICINITY 
    03-02.00N 078-03.00EA AT 291330Z NOV.
-2. CANCEL THIS MSG 031106Z DEC 25.</msgText>
+2. CANCEL THIS MSG 031106Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -193,7 +262,8 @@ UNTIL FURTHER NOTICE BY M/V OFFSHORE SOLUTION
 IN AREA BOUND BY
 19-20.30S 115-00.00E, 19-20.30S 116-41.00E,
 20-10.00S 116-41.00E, 20-10.00S 115-00.00E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -278,18 +348,6 @@ DNC 03.
    16-59.00N 084-36.00E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 290001Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>281644Z NOV 25
-HYDROPAC 3142/25(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. DERELICT VESSEL ADRIFT IN VICINITY
-   07-19.30N 075-49.26E AT 270800Z NOV.
-2. CANCEL THIS MSG 011643Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -1409,20 +1467,6 @@ BY M/V CONSTRUCTOR IN AREA BOUND BY
 26-38.11N 051-58.54E, 26-36.98N 051-58.59E,
 26-36.69N 051-58.20E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>271426Z OCT 25
-HYDROPAC 2757/25(97).
-EAST CHINA SEA.
-JAPAN.
-DNC 23.
-MOJI NAVTEX STATION (H) 34-00.90N 130-56.10E OFF AIR.
-MOJI BROADCASTS WILL BE TRANSMITTED FROM
-NAHA NAVTEX STATION (G) 26-05.50N 127-40.10E
-AND YOKOHAMA NAVTEX STATION (I) 35-14.55N 139-55.28E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
