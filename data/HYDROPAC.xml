@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>011051Z DEC 25
+HYDROPAC 3170/25(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   040800Z TO 041400Z DEC IN AREA BOUND BY
+   11-22.00S 107-04.00E, 18-33.00S 107-56.00E,
+   18-28.00S 108-41.00E, 11-17.00S 107-48.00E.
+2. CANCEL THIS MSG 041500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250952Z NOV 25
+HYDROPAC 3169/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0001Z TO 0400Z 
+   DAILY 06 AND 07 DEC IN AREA WITHIN FIVE 
+   MILES OF 13-29.00N 144-25.00E.
+2. CANCEL THIS MSG 070500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>010721Z DEC 25
+HYDROPAC 3167/25(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. MAGALLANES RADIO 53-09.92S 070-54.28W 
+   OFF AIR.
+2. CANCEL HYDROPAC 2623/25 AND 3114/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>301107Z NOV 25
@@ -447,20 +488,6 @@ DNC 10.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>271520Z NOV 25
-HYDROPAC 3123/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 0830Z
-   DAILY 01 THRU 04 DEC IN AREA BOUND BY
-   17-32.00N 083-52.00E, 17-11.00N 083-41.00E,
-   17-29.00N 083-28.00E, 17-34.00N 083-34.00E.
-2. CANCEL THIS MSG 040930Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>271503Z NOV 25
 HYDROPAC 3122/25(63).
 EASTERN INDIAN OCEAN.
@@ -493,25 +520,6 @@ DNC 03.
    08-53.65N 093-09.52E, 09-55.77N 092-50.38E,
    10-20.77N 092-40.67E, 11-30.00N 092-28.00E.
 2. CANCEL THIS MSG 031330Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271314Z NOV 25
-HYDROPAC 3119/25(GEN).
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 010430Z TO 040830Z DEC
-   IN AREAS BOUND BY:
-   A. 17-21.70N 083-21.76E, 14-46.66N 082-52.23E,
-      02-18.38N 086-30.75E, 03-52.41N 090-58.65E,
-      15-50.35N 085-52.91E, 17-37.75N 083-37.31E.
-   B. 05-12.05S 088-16.53E, 13-35.93S 090-04.20E,
-      10-48.23S 098-05.85E, 03-05.80S 094-10.83E.
-2. CANCEL THIS MSG 040930Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -567,20 +575,6 @@ DNC 12.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 041400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>270736Z NOV 25
-HYDROPAC 3114/25(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. NAVTEX STATION VALPARAISO (B) 32-48.37S 071-29.23W
-   OFF AIR.
-2. VALPARAISO RADIO 33-04.70S 071-36.80W
-   ASSUMES CONTROL AND WILL TRANSMIT VIA SAFETYNET. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1387,22 +1381,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>310303Z OCT 25
-HYDROPAC 2790/25(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY VESSEL SEA1 AMETHYST
-IN AREA BOUND BY
-38-50.00S 142-49.98E, 39-14.25S 142-49.98E,
-39-14.25S 142-58.25E, 38-50.00S 142-58.25E.
-ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>310056Z OCT 25
@@ -1575,18 +1553,6 @@ STRAIT OF HORMUZ.
 GPS, GNSS AND AIS INTERFERENCE REPORTED
 IN VICINITY OF NORTH AND CENTRAL PERSIAN
 GULF, STRAIT OF HORMUZ AND RED SEA.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>130555Z OCT 25
-HYDROPAC 2623/25(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-MAGALLANES RADIO 53-09.92S 070-54.28W DSC 
-SERVICES OFF AIR. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
