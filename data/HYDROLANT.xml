@@ -687,22 +687,6 @@ DNC 01.
 3. CANCEL THIS MSG 010001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>271751Z OCT 25
-HYDROLANT 1805/25(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   010001Z TO 302359Z NOV IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251243Z OCT 25

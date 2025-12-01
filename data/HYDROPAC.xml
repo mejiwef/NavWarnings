@@ -1306,22 +1306,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071406Z NOV 25
-HYDROPAC 2875/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS 08 THRU 30 NOV BY VESSEL
-   DERRICK BARGE 30 IN AREA BOUND BY
-   25-56.58N 051-32.57E, 25-57.84N 051-33.14E,
-   25-57.40N 051-35.54E, 25-55.54N 051-34.74E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010101Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070704Z NOV 25
@@ -1447,40 +1431,6 @@ BY M/V CONSTRUCTOR IN AREA BOUND BY
 26-38.11N 051-58.54E, 26-36.98N 051-58.59E,
 26-36.69N 051-58.20E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>271751Z OCT 25
-HYDROPAC 2762/25(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   010001Z TO 302359Z NOV IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>271716Z OCT 25
-HYDROPAC 2760/25(61,75,76).
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-DNC 03, DNC 04, DNC 05, DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   010001Z TO 302359Z NOV IN AREA BOUND BY
-   48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
-   51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
-   41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
-   49-27.00S 159-48.00E.
-2. CANCEL THIS MSG 010100Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
