@@ -395,18 +395,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>272241Z NOV 25
-HYDROPAC 3130/25(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. DERELICT VESSEL ADRIFT IN VICINITY 
-   06-45.00N 075-52.00E ON 27 NOV.
-2. CANCEL THIS MSG 302240Z NOV 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>271939Z NOV 25
@@ -455,20 +443,6 @@ DNC 10.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271527Z NOV 25
-HYDROPAC 3124/25(63).
-EASTERN INDIAN OCEAN.
-SRI LANKA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 290001Z TO 301830Z NOV
-   IN AREA BOUND BY
-   06-55.00N 079-50.00E, 06-45.00N 079-52.00E,
-   06-45.00N 079-40.00E, 06-55.00N 079-41.00E.
-2. CANCEL THIS MSG 301930Z NOV 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1222,21 +1196,6 @@ UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>161330Z NOV 25
-HYDROPAC 2951/25(91).
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES 17 THRU 30 NOV
-   IN AREA BOUND BY
-   14-39.87N 119-30.07E, 14-39.87N 119-40.07E,
-   14-29.88N 119-40.07E, 14-29.87N 119-30.07E.
-2. CANCEL THIS MSG 010001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>151345Z NOV 25
@@ -1360,26 +1319,6 @@ DNC 10.
    25-57.40N 051-35.54E, 25-55.54N 051-34.74E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 010101Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071257Z NOV 25
-HYDROPAC 2872/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 NOV BY 
-   M/V SAMUDRA SARVEKSHAK ALONG TRACKLINE JOINING
-   20-14.62N 072-05.77E, 21-03.50N 072-24.44E, 
-   18-12.70N 070-43.55E, 18-24.56N 070-39.65E, 
-   18-10.18N 072-22.87E, 20-25.76N 071-57.04E, 
-   20-38.85N 071-40.74E, 18-16.13N 071-54.17E, 
-   19-40.36N 071-39.90E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>301806Z NOV 25
+NAVAREA XII 778/25(18).
+NORTH PACIFIC.
+CALIFORNIA.
+NAVTEX STATION POINT REYES (C) 37-55.53N 122-43.87W,
+OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>222325Z OCT 25
