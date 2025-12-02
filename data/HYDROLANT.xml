@@ -718,24 +718,6 @@ DNC 01.
 3. CANCEL THIS MSG 010001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251243Z OCT 25
-HYDROLANT 1796/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 012300Z DEC 
-   BY M/V SKANDI COMMANDER IN AREA BOUND BY
-   22-20.46S 041-00.00W, 22-12.86S 040-52.68W,
-   22-10.08S 040-01.86W, 22-38.66S 040-04.76W,
-   22-43.03S 040-41.85W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1589/25.
-3. CANCEL THIS MSG 020001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>250350Z OCT 25
