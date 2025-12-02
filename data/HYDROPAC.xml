@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>012301Z DEC 25
+HYDROPAC 3175/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY VESSEL SEA1 AMETHYST
+   IN 38-42.40S 142-57.50E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2813/25(63).</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011417Z DEC 25
@@ -846,22 +860,6 @@ DNC 10.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2899/25.
 3. CANCEL THIS MSG 040001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251224Z NOV 25
-HYDROPAC 3088/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS 300001Z NOV TO 011700Z DEC
-   IN AREA BOUND BY
-   21-41.00N 091-45.00E, 21-57.00N 091-45.00E,
-   22-08.00N 091-31.00E, 21-02.00N 090-28.00E,
-   20-44.00N 090-52.00E.
-2. CANCEL THIS MSG 011800Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
