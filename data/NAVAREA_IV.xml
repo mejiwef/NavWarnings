@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021533Z DEC 25
+NAVAREA IV 1331/25(24).
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   220300Z DEC BY M/V HOLIDAY TOWING 50 METER 
+   LONG CABLES IN AREA BOUND BY
+   09-57.11N 060-31.43W, 09-54.83N 060-29.96W,
+   09-53.37N 060-32.26W, 09-55.66N 060-33.74W.
+   500 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 220400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>020013Z DEC 25
@@ -21,7 +37,8 @@ FLORIDA.
    B. 28-40.89N 080-39.04W, 28-39.00N 080-23.00W,
       28-19.00N 079-45.00W, 28-12.00N 079-48.00W,
       28-28.83N 080-32.24W.
-2. CANCEL THIS MSG 140047Z DEC 25.</msgText>
+2. CANCEL THIS MSG 140047Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -63,7 +80,8 @@ NAVAREA IV 1327/25(GEN).
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/IIP.
-9. CANCEL THIS MSG 030001Z DEC 25.</msgText>
+9. CANCEL THIS MSG 030001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -165,19 +183,6 @@ TRINIDAD AND TOBAGO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271044Z NOV 25
-NAVAREA IV 1316/25(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 021100Z TO 021400Z DEC
-   IN AREA WITHIN THREE MILES OF 
-   04-56.00N 052-05.00W.
-2. CANCEL THIS MSG 021500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>262321Z NOV 25
@@ -209,7 +214,8 @@ FLORIDA.
 NAVAREA IV 1313/25(24).
 CARIBBEAN SEA.
 TRINIDAD AND TOBAGO.
-GALERA POINT LIGHT 10-50.05N 060-54.58W UNLIT.</msgText>
+GALERA POINT LIGHT 10-50.05N 060-54.58W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -262,22 +268,6 @@ DOMINICAN REPUBLIC.
    17-03.00N 071-41.00W, 18-00.00N 074-42.00W.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>142002Z NOV 25
-NAVAREA IV 1298/25(25).
-NORTH ATLANTIC.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   1711Z TO 1751Z DAILY 28 NOV THRU 28 DEC
-   IN AREAS BOUND BY
-   A. 09-29.00N 052-28.00W, 09-29.00N 052-23.00W,
-      08-33.00N 052-23.00W, 08-33.00N 052-28.00W.
-   B. 24-53.00N 053-11.00W, 24-53.00N 052-57.00W,
-      21-50.00N 052-52.00W, 21-49.00N 053-07.00W.
-2. CANCEL THIS MSG 281851Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -449,21 +439,6 @@ CARIBBEAN SEA.
 GUADELOUPE.
 LA DESIRADE LIGHT 16-20.00N 061-00.33W
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>191106Z NOV 25
-NAVAREA IV 1281/25(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1711Z TO 1751Z DAILY 28 NOV THRU 28 DEC 25
-   IN AREA BOUND BY
-   05-50.55N 052-26.40W, 05-48.00N 052-54.00W,
-   05-23.46N 052-53.80W, 05-12.60N 052-40.98W.
-2. CANCEL THIS MSG 281851Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

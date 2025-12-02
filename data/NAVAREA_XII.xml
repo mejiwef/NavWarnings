@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>011330Z DEC 25
-NAVAREA XII 780/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-CANCEL NAVAREA XII 774/25 AND THIS MSG,
-SERVICES RESTORED.
+        <msgText>291824Z NOV 25
+NAVAREA XII 781/25(21,22,83).
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   071749Z TO 072237Z DEC, ALTERNATE
+   081727Z TO 082215Z, 091705Z TO 092153Z, 
+   101643Z TO 102131Z, 111621Z TO 112109Z, 
+   121558Z TO 122046Z, 131536Z TO 132024Z DEC
+   IN AREA BOUND BY
+   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
+   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
+   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
+2. CANCEL THIS MSG 132124Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -30,7 +37,8 @@ HAWAII.
    27-42.00N 166-22.00W, 27-53.00N 165-45.00W,
    23-20.00N 161-12.00W, 22-14.00N 160-06.00W,
    22-11.00N 160-00.00W.
-2. CANCEL THIS MSG 070300Z DEC 25.</msgText>
+2. CANCEL THIS MSG 070300Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -45,18 +53,6 @@ NORTH PACIFIC.
    WIDE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 763/25.
 3. CANCEL THIS MSG 051300Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>290206Z NOV 25
-NAVAREA XII 774/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. NAVTEX STATION CAMBRIA (Q) 
-   35-31.12N 121-03.60W INOPERATIVE.
-2. CANCEL NAVAREA XII 772/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -95,7 +91,8 @@ CALIFORNIA.
    33-52.68N 119-08.73W, 33-59.78N 119-22.45W,
    33-54.43N 119-39.72W, 33-40.10N 120-23.93W,
    33-01.87N 119-52.87W, 33-28.52N 119-07.12W.
-2. CANCEL THIS MSG 050300Z DEC 25.</msgText>
+2. CANCEL THIS MSG 050300Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -204,7 +201,8 @@ CALIFORNIA.
       30-17.00N 117-46.00W, 29-34.00N 117-01.00W,
       29-19.00N 117-01.00W, 29-08.00N 117-13.00W,
       29-08.00N 117-31.00W.
-2.  CANCEL THIS MSG 060656Z DEC 25.</msgText>
+2.  CANCEL THIS MSG 060656Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICES</category>

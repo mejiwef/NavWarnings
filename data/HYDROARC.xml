@@ -36,21 +36,6 @@ HYDROARC 218/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>142002Z NOV 25
-HYDROARC 215/25(GEN).
-ARCTIC.
-DNC 19, DNC 20, DNC 21, DNC 22, DNC 27, DNC 28.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   1730Z TO 1846Z DAILY 28 NOV THRU 28 DEC 
-   IN AREA BOUND BY
-   83-10.00N 133-58.00W, 82-08.00N 135-40.00W,
-   78-36.00N 165-43.00E, 79-18.00N 161-31.00E.
-2. CANCEL THIS MSG 281946Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>312341Z OCT 25
