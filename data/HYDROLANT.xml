@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO BEACON</category>
+        <status>INFORCE</status>
+        <msgText>030113Z DEC 25
+HYDROLANT 2042/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 07.
+1. RIO GRANDE RADIOBEACON 32-08.93S 052-06.20W
+   OFF AIR UNTIL 31 MAY 26.
+2. CANCEL HYDROLANT 2040/25.
+3. CANCEL THIS MSG 010001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030103Z DEC 25
+HYDROLANT 2041/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 04 THRU 09 DEC
+   IN AREA WITHIN FIVE MILES OF 26-57.08S 047-04.60W.
+2. CANCEL HYDROLANT 2024/25.
+3. CANCEL THIS MSG 100001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>021907Z DEC 25
@@ -112,20 +138,6 @@ UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291234Z NOV 25
-HYDROLANT 2024/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 04 THRU 07 DEC
-   IN AREA WITHIN FIVE MILES OF
-   26-57.08S 047-04.60W.
-2. CANCEL THIS MSG 080100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>290634Z NOV 25
@@ -226,22 +238,6 @@ HYDROLANT 2015/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1973/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280812Z NOV 25
-HYDROLANT 2011/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 290001Z NOV TO 022359Z DEC
-   IN AREA BOUND BY
-   24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
-   24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
-2. CANCEL HYDROLANT 1996/25.
-3. CANCEL THIS MSG 030059Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
