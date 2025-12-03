@@ -3,6 +3,103 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>031154Z DEC 25
+HYDROPAC 3198/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 080830Z TO 080930Z DEC 
+   IN AREA BOUND BY
+   17-55.00N 084-25.00E, 17-53.80N 084-02.70E,
+   17-34.60N 084-03.90E, 17-35.50N 084-26.00E.
+2. CANCEL THIS MSG 081030Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031139Z DEC 25
+HYDROPAC 3197/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 05 THRU 10 DEC 
+   BY TUG RAAFI IN AREA BOUND BY
+   18-56.83N 072-30.80E, 19-48.97N 071-41.50E,
+   19-48.92N 071-04.50E, 18-58.33N 071-37.71E,
+   19-10.00N 070-57.00E, 19-04.61N 071-04.00E,
+   18-20.33N 072-05.30E, 18-16.33N 072-22.33E,
+   18-31.27N 072-11.50E, 18-16.33N 072-30.33E.
+   100 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021129Z DEC 25
+HYDROPAC 3196/25(61).
+WESTERN INDIAN OCEAN.
+KENYA.
+DNC 02.
+1. HAZARDOUS OPERATIONS 0400Z TO 0900Z 
+   DAILY 08 AND 09 DEC IN AREA BOUND BY
+   02-07.77S 040-58.38E, 02-07.77S 040-55.50E,
+   02-10.84S 040-55.50E, 02-10.86S 040-58.37E.
+2. CANCEL THIS MSG 091000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>030950Z DEC 25
+HYDROPAC 3195/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   050800Z TO 051400Z DEC IN AREA BOUND BY
+   11-22.00S 107-04.00E, 18-33.00S 107-56.00E,
+   18-28.00S 108-41.00E, 11-17.00S 107-48.00E.
+2. CANCEL THIS MSG 051500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>030654Z DEC 25
+HYDROPAC 3193/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1420Z TO 1705Z DAILY 07 THRU 09 DEC
+   IN AREA BOUND BY
+   32-09.25S 132-59.85E, 32-06.48S 133-25.99E,
+   32-59.83S 133-36.32E, 33-02.93S 133-18.25E.
+2. CANCEL THIS MSG 091805Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030558Z DEC 25
+HYDROPAC 3192/25(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 08 THRU 10 DEC IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 101400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>030512Z DEC 25
 HYDROPAC 3191/25(81).
 NORTH PACIFIC.
@@ -275,20 +372,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>011051Z DEC 25
-HYDROPAC 3170/25(74).
-EASTERN INDIAN OCEAN.
-DNC 04.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   040800Z TO 041400Z DEC IN AREA BOUND BY
-   11-22.00S 107-04.00E, 18-33.00S 107-56.00E,
-   18-28.00S 108-41.00E, 11-17.00S 107-48.00E.
-2. CANCEL THIS MSG 041500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250952Z NOV 25
@@ -314,18 +397,6 @@ DNC 07.
 1. MAGALLANES RADIO 53-09.92S 070-54.28W 
    OFF AIR.
 2. CANCEL HYDROPAC 2623/25 AND 3114/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>301107Z NOV 25
-HYDROPAC 3164/25(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. DERELICT 122 METER VESSEL ADRIFT IN VICINITY 
-   03-02.00N 078-03.00EA AT 291330Z NOV.
-2. CANCEL THIS MSG 031106Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -939,21 +1010,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010059Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>222302Z NOV 25
-HYDROPAC 3101/25(82).
-CORAL SEA.
-NEW CALEDONIA.
-DNC 06.
-1. GUNNERY EXERCISES 012000Z THRU 030800Z DEC
-   IN AREAS WITHIN:
-   A. 20 MILES OF 23-00.00S 165-58.00E.
-   B. TEN MILES OF 22-42.00S 166-00.00E.
-2. CANCEL THIS MSG 030900Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

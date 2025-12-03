@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030917Z DEC 25
+HYDROLANT 2045/25(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0700Z TO 1500Z DAILY
+   08 THRU 13 DEC IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.81E,
+   44-14.56N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.41E.
+2. CANCEL THIS MSG 131600Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>030859Z DEC 25
+HYDROLANT 2044/25(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. OBJECT ADRIFT ALONG TRACKLINE JOINING
+   44-12.00N 029-31.00E, 44-11.54N 029-25.69E 
+   AT 030530 DEC .  
+2. CANCEL THIS MSG 060854Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>030626Z DEC 25
+HYDROLANT 2043/25(57).
+GULF OF GUINEA.
+EQUATORIAL GUINEA.
+DNC 01.
+1. M/V ATTACKED IN 01-43.00N 008-54.00E 
+   AT 030411Z DEC. VESSELS ARE ADVISED TO
+   KEEP CLEAR OF THIS POSITION AND TO EXERCISE
+   EXTREME CAUTION.
+2. CANCEL THIS MSG 060624Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO BEACON</category>
         <status>INFORCE</status>
         <msgText>030113Z DEC 25
@@ -123,18 +169,6 @@ DNC 19.
    A. 26 MILES OF 57-16.70N 008-10.90W.
    B. 28 MILES OF 57-28.50N 008-53.70W.
 2. CANCEL THIS MSG 131930Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>010709Z DEC 25
-HYDROLANT 2032/25(36).
-IRISH SEA.
-NORTHERN IRELAND.
-DNC 20.
-ST. JOHNS POINT LIGHT 54-13.60N 005-39.60W
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
