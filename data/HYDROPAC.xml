@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030003Z DEC 25
+HYDROPAC 3188/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
+IN 21-14.50S 114-36.70E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>022302Z DEC 25
+HYDROPAC 3186/25(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+VUNA POINT LIGHT 16-57.86S 179-51.80E UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>022102Z DEC 25
+HYDROPAC 3185/25(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+GANTHEAUME POINT LIGHT 17-58.45S 122-10.65E
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021242Z DEC 25
@@ -319,19 +354,6 @@ DNC 11.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>291858Z NOV 25
-HYDROPAC 3156/25(61).
-MOZAMBIQUE CHANNEL.
-MOZAMBIQUE.
-DNC 02.
-1. DERELICT VESSEL ADRIFT IN 17-05.00S 040-05.00E.
-2. CANCEL HYDROPAC 3148/25.
-3. CANCEL THIS MSG 021857Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291514Z NOV 25
@@ -362,20 +384,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290408Z NOV 25
-HYDROPAC 3152/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-IN 21-27.00S 113-49.50E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -476,7 +484,8 @@ DNC 03.
    14-57.00N 084-30.00E, 16-59.00N 084-30.00E,
    16-59.00N 084-36.00E.
    FIVE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 290001Z DEC 25.</msgText>
+2. CANCEL THIS MSG 290001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -686,7 +695,8 @@ DNC 03.
    IN AREA BOUND BY
    09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
    09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
-2. CANCEL THIS MSG 291300Z DEC 25.</msgText>
+2. CANCEL THIS MSG 291300Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -706,7 +716,8 @@ DNC 03.
    08-16.87N 093-37.65E, 08-12.73N 093-22.38E,
    08-53.65N 093-09.52E, 09-55.77N 092-50.38E,
    10-20.77N 092-40.67E, 11-30.00N 092-28.00E.
-2. CANCEL THIS MSG 031330Z DEC 25.</msgText>
+2. CANCEL THIS MSG 031330Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -884,7 +895,8 @@ DNC 01, DNC 02, DNC 03.
    08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010059Z JAN 26.</msgText>
+2. CANCEL THIS MSG 010059Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -957,7 +969,8 @@ DNC 06.
    35-24.00S 176-50.00E, 35-29.00S 176-43.00E,
    35-20.00S 176-00.00E, 35-27.00S 175-53.00E.
    TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3063/25.</msgText>
+2. CANCEL HYDROPAC 3063/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -975,24 +988,6 @@ DNC 10.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2899/25.
 3. CANCEL THIS MSG 040001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>210201Z NOV 25
-HYDROPAC 3084/25(22,83).
-SOUTH PACIFIC.
-DNC 06, DNC 07.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   300446Z TO 300924Z NOV, ALTERNATE
-   010411Z TO 010849Z, 020357Z TO 020835Z,
-   030343Z TO 030821Z, 040329Z TO 040807Z,
-   050315Z TO 050753Z AND 
-   060301Z TO 060739Z DEC IN AREA BOUND BY
-   59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
-   27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
-2. CANCEL THIS MSG 060839Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1117,22 +1112,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211454Z NOV 25
-HYDROPAC 3036/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 23 NOV THRU 02 DEC BY 
-   M/V FUGRO MAPPER IN AREA BOUND BY
-   19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
-   19-09.06N 072-16.52E, 19-10.14N 071-02.58E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>211344Z NOV 25
@@ -1228,22 +1207,6 @@ DNC 03.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2888/25.
 3. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191308Z NOV 25
-HYDROPAC 2998/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 02 DEC
-   IN AREA BOUND BY
-   17-43.00N 071-53.00E, 17-43.00N 072-12.00E,
-   17-24.00N 072-12.00E, 17-24.00N 071-53.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

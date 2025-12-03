@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>011406Z DEC 25
-HYDROARC 219/25(43).
-NORWEGIAN SEA.
-NORWAY.
-DNC 22.
-1. GUNNERY EXERCISES 020800Z TO 022200Z DEC
-   IN AREA WITHIN 20 MILES OF 70-44.00N 014-08.00E.
-2. CANCEL THIS MSG 022300Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281418Z NOV 25
