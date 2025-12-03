@@ -14,7 +14,8 @@ CALIFORNIA.
    33-58.00N 121-05.00W, 33-39.00N 122-04.00W,
    32-49.00N 122-03.00W, 32-32.00N 121-03.00W,
    32-40.00N 120-26.00W, 33-12.00N 119-27.00W.
-2. CANCEL THIS MSG 060200Z DEC 25.</msgText>
+2. CANCEL THIS MSG 060200Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>

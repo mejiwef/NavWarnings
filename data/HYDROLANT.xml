@@ -1,6 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031401Z DEC 25
+HYDROLANT 2052/25(23, 29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-26.00S 040-13.00W.
+   B. A74A, 55-08.00S 026-33.00W.
+   C. A77, 52-45.00S 042-36.00W.
+   D. A76C, 59-07.00S 038-45.00W.
+   E. B15AB, 57-51.00S 046-34.00W.
+   F. A23G, 53-30.00S 038-47.00W.
+   G. 54-48.00S 040-06.00W.
+   H. 51-24.00S 034-40.00W.
+   I. 52-55.00S 039-07.00W.
+   J. 50-53.00S 037-08.00W.
+   K. 52-04.00S 038-47.00W.
+   L. 51-44.00S 041-13.00W.
+   M. 53-06.00S 040-18.00W.
+   N. 51-46.00S 036-17.00W.
+   O. 51-21.00S 038-23.00W.
+   P. 53-03.00S 037-11.00W.
+   Q. 52-43.00S 040-13.00W.
+   R. 51-59.00S 041-42.00W.
+   S. 49-37.00S 038-28.00W.
+   T. 49-28.00S 037-16.00W.
+   U. 51-59.00S 041-44.00W.
+   V. 54-02.00S 039-59.00W.
+   W. 51-43.00S 041-24.00W.
+   X. 51-54.00S 041-41.00W.
+   Y. 51-00.00S 021-25.00W.
+   Z. 52-15.00S 040-58.00W.
+   AA. 55-49.00S 041-31.00W.
+   AB. 50-18.00S 038-13.00W.
+   AC. 51-18.00S 036-33.00W.
+   AD. 52-17.00S 040-41.00W.
+   AE. 52-27.00S 040-30.00W.
+   AF. 50-02.00S 029-22.00W.
+   AG. 51-59.00S 039-51.00W.
+   AH. 52-29.00S 039-49.00W.
+   AI. 52-31.00S 039-49.00W.
+   AJ. 52-16.00S 039-41.00W.
+   AK. 52-17.00S 040-03.00W.
+   AL. 52-14.00S 040-05.00W.
+   AM. 52-03.00S 039-54.00W.
+   AN. 51-59.00S 039-55.00W.
+2. CANCEL THIS MSG 041405Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031352Z DEC 25
+HYDROLANT 2051/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-06.00S 057-48.60W.
+   B. A84, 71-52.20S 095-23.40W.
+   C. A85, 68-03.60S 055-02.40W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-16.80S 056-56.40W.
+   F. D33C, 65-52.80S 058-04.20W.
+2. CANCEL THIS MSG 041352Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031254Z DEC 25
+HYDROLANT 2050/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 080000 TO 222359Z DEC
+   IN AREA BOUND BY
+   23-30.03S 043-50.03W, 23-27.03S 043-52.03W,
+   24-08.03S 044-35.03W, 24-45.03S 043-44.03W.
+2. CANCEL THIS MSG 230059Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031245Z DEC 25
+HYDROLANT 2049/25(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS 08 THRU 12 DEC
+   IN AREA BOUND BY
+   24-30.00S 040-03.00W, 24-20.00S 040-32.00W,
+   25-26.00S 041-58.00W, 25-37.00S 041-57.00W,
+   26-50.00S 040-25.00W, 25-34.00S 039-00.00W.
+2. CANCEL THIS MSG 130001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030917Z DEC 25
@@ -57,7 +159,8 @@ DNC 07.
 1. RIO GRANDE RADIOBEACON 32-08.93S 052-06.20W
    OFF AIR UNTIL 31 MAY 26.
 2. CANCEL HYDROLANT 2040/25.
-3. CANCEL THIS MSG 010001Z JUN 26.</msgText>
+3. CANCEL THIS MSG 010001Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -70,7 +173,8 @@ DNC 01.
 1. HAZARDOUS OPERATIONS 04 THRU 09 DEC
    IN AREA WITHIN FIVE MILES OF 26-57.08S 047-04.60W.
 2. CANCEL HYDROLANT 2024/25.
-3. CANCEL THIS MSG 100001Z DEC 25.</msgText>
+3. CANCEL THIS MSG 100001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -89,56 +193,6 @@ DNC 29.
    E. D33A, 65-16.80S 056-56.40W.
    F. D33C, 65-52.80S 058-04.20W.
 2. CANCEL THIS MSG 031907Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021458Z DEC 25
-HYDROLANT 2038/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-24.00S 040-17.00W.
-   B. A74A, 55-02.00S 026-26.00W.
-   C. A77, 52-52.00S 042-16.00W.
-   D. A76C, 59-08.00S 038-48.00W.
-   E. B15AB, 58-01.00S 046-14.00W.
-   F. A23G, 53-29.00S 038-42.00W.
-   G. 54-48.00S 040-06.00W.
-   H. 51-24.00S 034-40.00W.
-   I. 52-54.00S 039-07.00W.
-   J. 47-18.00S 021-07.00W.
-   K. 50-53.00S 037-08.00W.
-   L. 52-04.00S 038-47.00W.
-   M. 51-54.00S 041-20.00W.
-   N. 53-18.00S 039-54.00W.
-   O. 51-46.00S 035-49.00W.
-   P. 51-17.00S 038-27.00W.
-   Q. 53-05.00S 037-18.00W.
-   R. 52-47.00S 040-11.00W.
-   S. 52-07.00S 041-52.00W.
-   T. 49-42.00S 038-39.00W.
-   U. 49-39.00S 038-28.00W.
-   V. 52-06.00S 041-54.00W.
-   W. 54-02.00S 039-59.00W.
-   X. 51-53.00S 041-35.00W.
-   Y. 52-05.00S 041-49.00W.
-   Z. 50-46.00S 022-10.00W.
-   AA. 52-14.00S 040-58.00W.
-   AB. 55-49.00S 041-31.00W.
-   AC. 50-44.00S 037-47.00W.
-   AD. 51-18.00S 036-33.00W.
-   AE. 51-19.00S 040-39.00W.
-   AF. 52-24.00S 040-34.00W.
-   AG. 50-02.00S 029-22.00W.
-   AH. 52-02.00S 039-49.00W.
-   AI. 52-29.00S 039-49.00W.
-   AJ. 52-31.00S 039-49.00W.
-   AK. 52-28.00S 039-58.00W.
-2. CANCEL THIS MSG 031458Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -542,16 +596,6 @@ DNC 01.
    UNTIL 05 MAY 26.
 2. CANCEL HYDROLANT 1197/25, 1720/25.
 3. CANCEL THIS MSG 060001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>051754Z NOV 25
-HYDROLANT 1858/25(51).
-MOROCCO.
-DNC 08.
-EL HANK LIGHT 33-37.00N 007-39.00W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
