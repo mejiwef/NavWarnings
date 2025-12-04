@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>041748Z DEC 25
+HYDROPAC 3214/25(61).
+MOZAMBIQUE CHANNEL.
+MOZAMBIQUE.
+DNC 02.
+1. DERELICT M/V OCEAN PRIDE ADRIFT
+   IN 25-38.59S 035-14.46E.
+2. CANCEL THIS MSG 071748Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041512Z DEC 25
+HYDROPAC 3213/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 060300Z TO 061900Z
+   IN AREAS BOUND BY:
+   A. 24-19.00N 066-58.00E, 24-24.30N 066-42.00E,
+      24-11.00N 066-27.00E, 24-00.00N 066-39.00E.      
+   B. 24-16.30N 066-33.00E, 24-22.00N 066-27.00E,
+      24-16.18N 066-20.50E, 24-10.30N 066-27.00E.   
+2. CANCEL THIS MSG 062000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>041357Z DEC 25
+HYDROPAC 3212/25(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+USCG REMOTE COMMUNICATION FACILITY GUAM 
+13-28.6N 144-50.1E WEATHER MESSAGE 
+SERVICES UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>041237Z DEC 25
+HYDROPAC 3211/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+CANCEL HYDROPAC 3190/25 AND THIS MSG, 
+PERSON LOCATED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>041220Z DEC 25
+HYDROPAC 3210/25(92).
+CELEBES SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES IN PROGRESS 
+   UNTIL 05 DEC IN AREA BOUND BY
+   04-50.72N 119-58.15E, 04-49.22N 119-55.62E,
+   04-47.35N 119-57.07E, 04-48.89N 119-59.64E.
+2. CANCEL THIS MSG 060001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>041212Z DEC 25
+HYDROPAC 3209/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+PUDIMADAKA LIGHT 17-29.27N 083-00.22E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041140Z DEC 25
@@ -190,22 +271,6 @@ DNC 12.
    DAILY 08 THRU 11 DEC IN AREA WITHIN
    FIVE MILES OF 13-29.00N 144-25.00E.
 2. CANCEL THIS MSG 110500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>030420Z DEC 25
-HYDROPAC 3190/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-MAN OVERBOARD FROM F/V BV 94140 TS
-IN 10-44.00N 108-27.00E AT 302100Z NOV.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -710,6 +775,7 @@ HYDROPAC 3139/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 3016/25 AND 3040/25.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -879,23 +945,6 @@ DNC 06, DNC 07, DNC 13.
    00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
    10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
 2. CANCEL THIS MSG 090007Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251002Z NOV 25
-HYDROPAC 3115/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 02 THRU 04 DEC IN AREAS WITHIN 
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 041400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1078,6 +1127,7 @@ DNC 06.
    35-20.00S 176-00.00E, 35-27.00S 175-53.00E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3063/25.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1366,6 +1416,7 @@ REPORTS TO MRCC CHENNAI,
 PHONE: 00 914 425 395 018, 
 EMAIL: MRCC-EAST@INDIANCOASTGUARD.NIC.IN.
 OR MRCCCHENNAI@GMAIL.COM.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1382,6 +1433,7 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1399,6 +1451,7 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO NAVAREA VIII
 E-MAIL: MSIS-INHO@NAVY.GOV.IN
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

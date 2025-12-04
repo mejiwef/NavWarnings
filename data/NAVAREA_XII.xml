@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>041357Z DEC 25
+NAVAREA XII 790/25(GEN).
+NORTH PACIFIC.
+WEATHER MESSAGE SERVICES UNRELIABLE AT
+USCG REMOTE COMMUNICATION FACILITIES:
+   A. ASTORIA 46-12.4N 123-57.4W.
+   B. BERING SEA 57-46.0N 152-34.0W.
+   C. CAMBRIA 35-31.1N 121-03.6W.
+   D. COLD BAY 55-11.0N 162-42.0W.
+   E. HONOLULU 21-26.1N 158-08.7W. 
+   F. KODIAK 57-46.6N 152-31.7W.
+   G. NOME 64-29.0N 165-15.0W.
+   H. PT HIGGINS 55-27.0N 131-49.0W.
+   I. PT REYES 37-55.5N 122-43.9W.
+   J. SHEMYA 52-43.0N 174-07.0E.
+   K. ST PAUL 57-09.0N 170-14.0W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>011711Z DEC 25
@@ -23,7 +44,8 @@ NORTH PACIFIC.
 CALIFORNIA.
 1. UNDERWATER ORDNANCE DETONATION
    081700Z TO 092300Z DEC IN 32-35.82N 117-10.88W.
-2. CANCEL THIS MSG 100001Z DEC 25.</msgText>
+2. CANCEL THIS MSG 100001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -59,7 +81,8 @@ CALIFORNIA.
       30-03.00N 117-10.00W, 30-11.00N 116-57.00W,
       30-11.00N 116-36.00W, 30-05.00N 116-28.00W,
       29-42.00N 116-06.00W, 29-18.00N 115-56.00W.
-2. CANCEL THIS MSG 131942Z DEC 25.</msgText>
+2. CANCEL THIS MSG 131942Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -74,7 +97,8 @@ CALIFORNIA.
    34-01.82N 119-15.88W, 33-56.57N 119-05.85W,
    33-52.05N 119-07.05W, 33-47.83N 119-14.78W,
    33-53.47N 119-25.77W.
-2. CANCEL THIS MSG 120001Z DEC 25.</msgText>
+2. CANCEL THIS MSG 120101Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -169,6 +193,7 @@ NAVAREA XII 771/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 755/25.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

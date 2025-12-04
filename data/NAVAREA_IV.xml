@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041717Z DEC 25
+NAVAREA IV 1341/25(13,14).
+NORTH ATLANTIC.
+CABLE OPERATIONS 062000Z DEC UNTIL FURTHER NOTICE 
+BY M/V MAASVLIET ALONG TRACKLINE JOINING
+40-50.45N 057-19.72W, 40-44.20N 058-21.70W,
+40-40.21N 059-08.69W, 40-37.06N 059-44.75W,
+40-29.58N 060-45.93W, 40-25.00N 061-55.30W,
+40-20.93N 062-52.20W, 40-15.82N 063-50.47W,
+40-07.68N 064-47.27W, 39-47.89N 065-47.63W,
+39-43.62N 066-11.94W.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>041638Z DEC 25
+NAVAREA IV 1340/25(14).
+NORTH ATLANTIC.
+CANCEL NAVAREA IV 1211/25 AND THIS MSG,
+OPERATIONS SUSPENDED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>041525Z DEC 25
+NAVAREA IV 1339/25(24).
+NORTH ATLANTIC.
+SURINAME.
+1. DERELICT VESSEL CAPSIZED AND ADRIFT 
+   IN VICINITY 06-01.90N 055-28.99W.
+2. CANCEL THIS MSG 071525Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>041357Z DEC 25
+NAVAREA IV 1338/25(GEN).
+WESTERN NORTH ATLANTIC.
+WEATHER MESSAGE SERVICES UNRELIABLE AT
+USCG REMOTE COMMUNICATION FACILITIES:
+   A. BOSTON 41-43.00N 070-31.00W.
+   B. CHESAPEAKE 36-44.00N 076-01.00W.
+   C. CHARLESTON 32-08.00N 081-42.00W.
+   D. MIAMI 25-30.00N 080-23.00W.
+   E. NEW ORLEANS 29-53.00N 089-57.00W.
+   F. SAN JUAN 18-27.00N 066-06.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>032135Z DEC 25
@@ -19,7 +74,8 @@ FLORIDA.
    B. 28-39.69N 080-38.17W, 28-52.00N 080-15.00W,
       28-45.00N 080-03.00W, 28-29.00N 080-22.00W,
       28-27.61N 080-31.56W.
-2. CANCEL THIS MSG 151946Z DEC 25.</msgText>
+2. CANCEL THIS MSG 151946Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -64,7 +120,8 @@ NAVAREA IV 1335/25(GEN).
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 050001Z DEC 25.</msgText>
+9. CANCEL THIS MSG 050001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -232,18 +289,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>011740Z DEC 25
-NAVAREA IV 1326/25(25).
-NORTH ATLANTIC.
-1. DERELICT 32 FOOT S/V HOT CHOCOLATE, 
-   BROWN AND WHITE HULL, ADRIFT IN VICINITY 
-   33-59.49N 056-52.36W AT 011535Z DEC.
-2. CANCEL THIS MSG 041740Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281457Z NOV 25
@@ -284,6 +329,7 @@ NAVAREA IV 1322/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA IV COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA IV 1291/25.
+CANCEL THIS MSG 051400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -614,26 +660,6 @@ VIRGINIA.
 USCG REMOTE COMMUNICATION FACILITY 
 CHESAPEAKE 36-44.00N 076-01.00W 
 HF SERVICES UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071507Z NOV 25
-NAVAREA IV 1211/25(14).
-NORTH ATLANTIC.
-CANADA.
-1. CABLE OPERATIONS 090600Z NOV TO 092359Z DEC 
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   39-31.91N 060-57.39W, 39-33.59N 059-51.84W,
-   39-36.45N 058-36.35W, 39-39.29N 057-32.69W,
-   39-41.26N 056-32.98W, 39-42.33N 055-32.84W,
-   39-42.22N 054-32.45W, 39-42.11N 053-39.05W,
-   39-42.11N 052-30.07W, 39-42.20N 051-47.71W,
-   39-50.80N 050-55.50W, 40-20.03N 049-33.10W,
-   40-39.01N 048-33.27W, 40-56.91N 047-36.97W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 100059Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
