@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041010Z DEC 25
+HYDROLANT 2056/25(44).
+BALTIC SEA.
+LITHUANIA.
+DNC 22.
+1. HAZARDOUS OPERATIONS 080800Z TO 121500Z DEC
+   IN AREA BOUND BY
+   55-36.98N 020-45.88E, 55-38.13N 021-09.00E,
+   55-31.40N 021-13.30E, 55-24.98N 020-59.88E,
+   55-21.98N 020-45.88E, 55-24.98N 020-41.88E,
+   55-33.98N 020-41.88E.
+2. CANCEL THIS MSG 121600Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>031401Z DEC 25

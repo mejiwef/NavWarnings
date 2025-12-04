@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>032135Z DEC 25
+NAVAREA IV 1337/25(11,26).
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   091906Z TO 092010Z DEC, ALTERNATE
+   101852Z TO 101956Z, 111838Z TO 111942Z,
+   121824Z TO 121928Z, 131810Z TO 131914Z,
+   141756Z TO 141900Z AND 151742Z TO 151846Z DEC
+   IN AREAS BOUND BY:
+   A. 30-50.00N 078-10.00W, 32-12.00N 077-07.00W,
+      32-27.00N 076-28.00W, 32-03.00N 075-57.00W,
+      31-38.00N 076-07.00W, 30-40.00N 077-57.00W.
+   B. 28-39.69N 080-38.17W, 28-52.00N 080-15.00W,
+      28-45.00N 080-03.00W, 28-29.00N 080-22.00W,
+      28-27.61N 080-31.56W.
+2. CANCEL THIS MSG 151946Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>032013Z DEC 25
