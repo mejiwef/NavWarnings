@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>032109Z DEC 25
+HYDROPAC 3201/25(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 040059Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>031225Z DEC 25
@@ -1046,24 +1058,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251456Z NOV 25
-HYDROPAC 3090/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS 26 NOV THRU 03 DEC BY
-   BARGE MC DERMOTT IN AREA BOUND BY
-   25-59.67N 051-54.24E, 25-59.25N 051-59.01E,
-   25-56.53N 051-58.77E, 25-56.92N 051-53.02E,
-   25-57.27N 051-52.26E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2899/25.
-3. CANCEL THIS MSG 040001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>250731Z NOV 25
@@ -1200,22 +1194,6 @@ REQUESTED TO KEEP A SHARP LOOKOUT,
 ASSIST IF POSSIBLE. REPORTS TO
 MRCC VIETNAM,
 E-MAIL: HPLES-GMDSS@HPLES.COM.VN
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201136Z NOV 25
-HYDROPAC 3013/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 22 NOV THRU 03 DEC 25
-   IN AREA BOUND BY
-   08-27.00N 091-30.00E, 08-27.00N 092-43.00E,
-   07-47.00N 092-43.00E, 07-47.00N 091-30.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1813,26 +1791,6 @@ U.A.E.
 DNC 10.
 1. FUJAYRAH LIGHT ESTABLISHED IN 25-10.61N 056-20.76E.
 2. CANCEL HYDROPAC 3877/24.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131014Z SEP 25
-HYDROPAC 2365/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 03 DEC 
-   BY M/V SEAMEC PRINCESS IN VICINITY OF
-   TRACKLINE JOINING
-   19-20.96N 071-18.09E, 19-31.77N 071-18.07E,
-   19-34.40N 071-21.60E, 20-10.38N 072-29.68E,
-   20-16.76N 071-55.65E, 20-20.13N 072-01.32E,
-   20-36.02N 072-02.23E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

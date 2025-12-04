@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>032109Z DEC 25
+HYDROARC 222/25(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 040059Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>032007Z DEC 25
+HYDROARC 221/25(38,42,43).
+GREENLAND SEA.
+NORWEGIAN SEA.
+NORWAY.
+DNC 19, DNC 20, DNC 21, DNC 22.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   2000Z TO 2050Z DAILY 06 THRU 19 DEC
+   IN AREAS BOUND BY:
+   A. 79-41.46N 011-34.90W, 79-55.85N 010-21.89W,
+      79-11.76N 006-04.26W, 76-50.36N 003-23.82E,
+      74-15.84N 009-52.26E, 71-03.42N 015-12.97E,
+      70-30.12N 011-37.50E, 73-32.12N 007-12.24E,
+      76-01.02N 002-00.04E, 78-03.48N 004-13.39W.
+   B. 70-41.63N 012-51.95E, 70-53.83N 014-10.91E,
+      69-13.37N 015-58.53E, 68-59.34N 015-28.05E.
+2. CANCEL THIS MSG 192150Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281418Z NOV 25
