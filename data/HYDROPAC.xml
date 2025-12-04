@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>032109Z DEC 25
-HYDROPAC 3201/25(GEN).
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 040059Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>031225Z DEC 25
@@ -376,21 +364,6 @@ DNC 03.
    13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
    12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
 2. CANCEL THIS MSG 181130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250952Z NOV 25
-HYDROPAC 3169/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0001Z TO 0400Z 
-   DAILY 06 AND 07 DEC IN AREA WITHIN FIVE 
-   MILES OF 13-29.00N 144-25.00E.
-2. CANCEL THIS MSG 070500Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1258,22 +1231,6 @@ DNC 03.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2888/25.
 3. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>190920Z NOV 25
-HYDROPAC 2994/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-MAN OVERBOARD FROM F/V BV 4594 TS
-IN 10-17.00N 108-21.00E AT 180330Z NOV. 
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
