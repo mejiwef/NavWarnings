@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>050914Z DEC 25
+HYDROLANT 2065/25(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. OBJECT ADRIFT IN VICINITY 44-58.27N 029-51.33E
+   AT 050514Z DEC.
+2. CANCEL THIS MSG 080600Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>040843Z DEC 25
@@ -202,20 +215,6 @@ DNC 10.
    44-14.56N 028-57.93E, 44-13.10N 028-56.33E,
    44-22.08N 028-42.41E.
 2. CANCEL THIS MSG 131600Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>030859Z DEC 25
-HYDROLANT 2044/25(55).
-BLACK SEA.
-ROMANIA.
-DNC 10.
-1. OBJECT ADRIFT ALONG TRACKLINE JOINING
-   44-12.00N 029-31.00E, 44-11.54N 029-25.69E 
-   AT 030530 DEC .  
-2. CANCEL THIS MSG 060854Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
