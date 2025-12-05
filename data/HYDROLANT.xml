@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041917Z DEC 25
+HYDROLANT 2061/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. HAZARDOUS OPERATIONS 050700Z TO 051800Z DEC
+   IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.90W,
+   33-48.60N 008-25.20W, 33-55.20N 008-19.80W,
+   33-59.90N 008-12.20W, 34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 051900Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>041459Z DEC 25
@@ -268,21 +284,6 @@ DNC 01.
 1. PORTO DE PEDRAS LIGHT 09-09.39S 035-17.89W
    UNLIT UNTIL 27 MAY 26.
 2. CANCEL THIS MSG 280001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281837Z NOV 25
-HYDROLANT 2017/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 01.
-1. HAZARDOUS OPERATIONS 03 AND 04 DEC
-   IN AREA BOUND BY
-   29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
-   28-46.50N 010-48.50W, 28-42.80N 010-56.70W.
-2. CANCEL THIS MSG 050001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
