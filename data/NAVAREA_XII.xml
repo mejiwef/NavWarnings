@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050132Z DEC 25
+NAVAREA XII 791/25(19).
+NORTH PACIFIC.
+1. CABLE OPERATIONS 070200Z TO 140100Z DEC
+   BY M/V REBECCA ALONG TRACKLINE JOINING
+   32-06.42N 142-43.15W, 36-36.03N 139-02.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 776/25.
+3. CANCEL THIS MSG 140200Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>041357Z DEC 25
@@ -155,21 +168,6 @@ HAWAII.
    23-20.00N 161-12.00W, 22-14.00N 160-06.00W,
    22-11.00N 160-00.00W.
 2. CANCEL THIS MSG 070300Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300003Z NOV 25
-NAVAREA XII 776/25(19).
-NORTH PACIFIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   051200Z DEC BY M/V REBECCA
-   ALONG TRACKLINE JOINING
-   25-37.81N 149-57.91W, 25-49.50N 148-22.65W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 763/25.
-3. CANCEL THIS MSG 051300Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
