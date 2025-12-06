@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>052114Z DEC 25
+HYDROPAC 3234/25(61).
+EASTERN INDIAN OCEAN.
+DNC 02.
+1. DERELICT VESSEL ADRIFT IN VICINITY 34-20.70S 031-50.50E
+   AT 051921Z DEC.  REPORTS TO MRCC CAPE TOWN, 
+   PHONE: 272 1551 0700.   
+2. CANCEL HYDROPAC 2817/25(62). 
+3. CANCEL THIS MSG 082116Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051530Z DEC 25
@@ -1057,25 +1070,6 @@ DNC 01, DNC 02, DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>242110Z NOV 25
-HYDROPAC 3116/25(21,22,83).
-PACIFIC OCEAN.
-DNC 06, DNC 07, DNC 13.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   022032Z TO 030120Z, 032010Z TO 040058Z,
-   041948Z TO 050036Z, 051925Z TO 060013Z,
-   061903Z TO 062351Z, 071841Z TO 072329Z
-   AND 081819Z TO 082307Z DEC 
-   IN AREA BOUND BY
-   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,
-   00-10.00S 115-17.00W, 11-37.00N 123-13.00W,
-   10-26.00N 124-56.00W, 01-19.00S 116-54.00W.
-2. CANCEL THIS MSG 090007Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270131Z NOV 25
@@ -1378,21 +1372,6 @@ E-MAIL: HPLES-GMDSS@HPLES.COM.VN
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201111Z NOV 25
-HYDROPAC 3011/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. NAVAL OPERATIONS 270230 NOV TO 041830Z DEC
-   IN AREA BOUND BY
-   08-38.25N 076-46.91E, 08-29.61N 076-36.87E,
-   08-15.63N 076-48.38E, 08-23.86N 076-58.76E.
-2. CANCEL THIS MSG 051930Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191349Z NOV 25
@@ -1571,25 +1550,6 @@ INDIA.
 DNC 03.
 NAVTEX STATION VAKALPUDI (Q) 17-00.80N 082-17.10E 
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021401Z NOV 25
-HYDROPAC 2817/25(62).
-GULF OF OMAN.
-OMAN.
-DNC 10.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-BY VESSEL CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
-25-39.58N 056-46.23E, 25-30.70N 056-48.90E,
-25-24.20N 056-52.10E, 25-22.60N 056-51.60E,
-25-20.40N 056-50.30E, 25-18.20N 056-49.10E,
-25-15.40N 056-48.30E, 25-12.50N 056-48.40E,
-25-07.10N 056-45.30E, 25-03.10N 056-42.50E,
-25-00.60N 056-41.40E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
