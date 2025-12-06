@@ -337,21 +337,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>030626Z DEC 25
-HYDROLANT 2043/25(57).
-GULF OF GUINEA.
-EQUATORIAL GUINEA.
-DNC 01.
-1. M/V ATTACKED IN 01-43.00N 008-54.00E 
-   AT 030411Z DEC. VESSELS ARE ADVISED TO
-   KEEP CLEAR OF THIS POSITION AND TO EXERCISE
-   EXTREME CAUTION.
-2. CANCEL THIS MSG 060624Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO BEACON</category>
         <status>INFORCE</status>
         <msgText>030113Z DEC 25
