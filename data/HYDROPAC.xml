@@ -357,21 +357,6 @@ PERSON LOCATED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>041220Z DEC 25
-HYDROPAC 3210/25(92).
-CELEBES SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS 
-   UNTIL 05 DEC IN AREA BOUND BY
-   04-50.72N 119-58.15E, 04-49.22N 119-55.62E,
-   04-47.35N 119-57.07E, 04-48.89N 119-59.64E.
-2. CANCEL THIS MSG 060001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>041212Z DEC 25
@@ -398,21 +383,6 @@ DNC 03.
    07-31.90N 078-26.85E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041131Z DEC 25
-HYDROPAC 3207/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 060045Z TO 060115Z DEC
-   IN AREA BOUND BY
-   17-27.00N 083-33.00E, 17-27.00N 084-00.00E,
-   17-10.00N 084-00.00E, 17-10.00N 083-33.00E.
-2. CANCEL THIS MSG 060215Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

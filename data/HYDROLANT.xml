@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060113Z DEC 25
+HYDROLANT 2074/25(24).
+SOUTH ATLANTIC.
+DNC 01, DNC 07.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 14 DEC 
+   BY VESSEL SW EMPRESS TOWING TEN 10372 METER CABLES
+   IN AREA BOUND BY
+   34-38.20S 051-58.20W, 33-08.40S 050-18.20W,
+   34-29.60S 048-21.10W, 35-51.10S 049-43.10W,
+   35-50.50S 050-05.20W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 150001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>052310Z DEC 25
+HYDROLANT 2073/25(35).
+NORTH SEA.
+ENGLAND.
+SCOTLAND.
+DNC 20.
+1. CGOC GREGNESS 57-07.70N 002-03.20W 
+   MF R/T SERVICE OFF AIR. 
+2. CANCEL HYDROLANT 1795/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>051635Z DEC 25
@@ -702,19 +732,6 @@ DNC 01.
    UNLIT UNTIL 30 APR 26.
 2. CANCEL HYDROLANT 1779/25
 3. CANCEL THIS MSG 010001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>250350Z OCT 25
-HYDROLANT 1795/25(35).
-NORTH SEA.
-SCOTLAND.
-DNC 20.
-1. CGOC GREGNESS 57-07.70N 002-03.20W
-   MF R/T SERVICE OFF AIR.
-2. CANCEL HYDROLANT 1522/25
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
