@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>070806Z DEC 25
+HYDROLANT 2078/25(51).
+NORTH ATLANTIC.
+SPAIN.
+DNC 08.
+1. 46 CONTAINERS, RED, ORANGE, PINK, AND BLUE COLORED 
+   40 FEET LONG ADRIFT IN VICINTY 42-13.30N 010-25.20W AT 
+   061420Z DEC 25.
+2. CANCEL THIS MSG 100730Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>061722Z DEC 25
