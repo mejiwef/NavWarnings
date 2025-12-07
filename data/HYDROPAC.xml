@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>062005Z DEC 25
+HYDROPAC 3238/25(61).
+EASTERN INDIAN OCEAN.
+DNC 02.
+1. DERELICT VESSEL ADRIFT IN VICINITY 34-04.12S 032-08.80E
+   AT 061807Z DEC.  REPORTS TO MRCC CAPE TOWN, 
+   PHONE: 272 1551 0700.
+2. CANCEL HYDROPAC 3234/25.
+3. CANCEL THIS MSG 092004Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061240Z DEC 25
@@ -27,19 +41,6 @@ DNC 12, DNC 13.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3138/25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>052114Z DEC 25
-HYDROPAC 3234/25(61).
-EASTERN INDIAN OCEAN.
-DNC 02.
-1. DERELICT VESSEL ADRIFT IN VICINITY 34-20.70S 031-50.50E
-   AT 051921Z DEC.  REPORTS TO MRCC CAPE TOWN, 
-   PHONE: 272 1551 0700.   
-2. CANCEL HYDROPAC 2817/25(62). 
-3. CANCEL THIS MSG 082116Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -340,23 +341,6 @@ DNC 02.
 1. DERELICT M/V OCEAN PRIDE ADRIFT
    IN 25-38.59S 035-14.46E.
 2. CANCEL THIS MSG 071748Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041512Z DEC 25
-HYDROPAC 3213/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 060300Z TO 061900Z
-   IN AREAS BOUND BY:
-   A. 24-19.00N 066-58.00E, 24-24.30N 066-42.00E,
-      24-11.00N 066-27.00E, 24-00.00N 066-39.00E.      
-   B. 24-16.30N 066-33.00E, 24-22.00N 066-27.00E,
-      24-16.18N 066-20.50E, 24-10.30N 066-27.00E.   
-2. CANCEL THIS MSG 062000Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
