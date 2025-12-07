@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>071746Z DEC 25
+NAVAREA IV 1348/25(GEN).
+1. DUE TO SPACE WEATHER 08 THRU 10 DEC, HF 
+   COMMUNICATIONS AND GNSS POSITIONAL INFORMATION 
+   MAY BE DISRUPTED BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 110100Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271040Z NOV 25
@@ -152,18 +165,6 @@ NAVAREA IV 1340/25(14).
 NORTH ATLANTIC.
 CANCEL NAVAREA IV 1211/25 AND THIS MSG,
 OPERATIONS SUSPENDED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>041525Z DEC 25
-NAVAREA IV 1339/25(24).
-NORTH ATLANTIC.
-SURINAME.
-1. DERELICT VESSEL CAPSIZED AND ADRIFT 
-   IN VICINITY 06-01.90N 055-28.99W.
-2. CANCEL THIS MSG 071525Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
