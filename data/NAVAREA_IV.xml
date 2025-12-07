@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>070318Z DEC 25
+NAVAREA IV 1346/25(26).
+CARIBBEAN SEA.
+PANAMA.
+1. DERELICT VESSEL, GRAY FIBERGLASS BOAT WITH FOUR OUTBOARD
+   MOTORS ADRIFT IN VICINTY 12-06.43N 079-37.30W.
+2. CANCEL THIS MSG 100318Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>061942Z DEC 25

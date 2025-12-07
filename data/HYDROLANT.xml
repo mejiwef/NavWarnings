@@ -525,21 +525,6 @@ DNC 01.
 2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210437Z NOV 25
-HYDROLANT 1969/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 260001Z NOV TO 062359Z DEC
-   IN AREA BOUND BY
-   21-01.52S 040-22.93W, 20-50.34S 040-43.34W,
-   21-18.87S 040-44.02W, 21-22.97S 040-18.45W.
-2. CANCEL THIS MSG 070059Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201048Z NOV 25
