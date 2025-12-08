@@ -691,21 +691,6 @@ SIX MILE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>121016Z NOV 25
-HYDROLANT 1914/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 1200Z TO 2000Z 
-   DAILY 12 NOV THRU 07 DEC BY M/V BIG JOHN VI 
-   AND M/V REI ALBERTO IN 24-07.25S 046-15.99W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 072100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>070917Z NOV 25
 HYDROLANT 1876/25(52, 53).
 WESTERN MEDITERRANEAN SEA.
@@ -1354,21 +1339,6 @@ DNC 09.
    C. IN AREA WITHIN 1000 METERS OF
       35-36.33N 024-10.00E.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090133Z JAN 25
-HYDROLANT 40/25(24).
-WESTERN SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 1000Z TO 2000Z
-   DAILY 09 JAN THRU 07 DEC BY VESSEL
-   POLAR BLUE IN 04-52.42S 036-22.45W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 072100Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
