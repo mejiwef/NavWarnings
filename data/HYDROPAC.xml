@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091144Z DEC 25
+HYDROPAC 3261/25(63).
+ARABIAN SEA.
+DNC 03.
+1. SURVEY OPERATIONS 10 THRU 20 DEC IN AREAS BOUND BY:
+   A. 18-57.00N 070-05.83E, 18-30.00N 070-05.00E,
+       18-30.00N 070-28.00E.
+   B. 18-05.00N 070-37.00E, 18-17.00N 070-37.00E,
+      17-57.00N 070-50.00E, 17-35.00N 070-50.00E,
+      17-35.00N 070-20.00E, 18-05.00N 070-20.00E.
+      WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091032Z DEC 25
+HYDROPAC 3260/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 110400Z TO 110500Z DEC 
+   IN AREA BOUND BY
+   18-36.20N 084-41.27E, 18-03.32N 087-13.15E,
+   07-15.02N 084-58.48E, 08-20.80N 082-04.67E.
+2. CANCEL THIS MSG 110600Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SAR OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>090936Z DEC 25
+HYDROPAC 3259/25(93).
+GULF OF TONKIN.
+VIETNAM.
+DNC 23.
+F/V NA 98687 TS, 8 PERSONS ON BOARD, SUNK IN POSITION 
+IN 18-30.85N 107-04.26E. VESSELS IN VICINITY REQUESTED
+TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM, 
+EMAIL: HPLES-GMDSS@HPLES.COM.VN. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>082110Z DEC 25
@@ -520,21 +566,6 @@ DNC 03.
    18-31.27N 072-11.50E, 18-16.33N 072-30.33E.
    100 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 110001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021129Z DEC 25
-HYDROPAC 3196/25(61).
-WESTERN INDIAN OCEAN.
-KENYA.
-DNC 02.
-1. HAZARDOUS OPERATIONS 0400Z TO 0900Z 
-   DAILY 08 AND 09 DEC IN AREA BOUND BY
-   02-07.77S 040-58.38E, 02-07.77S 040-55.50E,
-   02-10.84S 040-55.50E, 02-10.86S 040-58.37E.
-2. CANCEL THIS MSG 091000Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
