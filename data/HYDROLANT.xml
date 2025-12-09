@@ -528,21 +528,6 @@ DNC 19.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290046Z NOV 25
-HYDROLANT 2019/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 090300Z DEC BY M/V SISTAC VITORIA 
-   IN 22-25.72S 040-01.72W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>290037Z NOV 25
@@ -581,26 +566,6 @@ DNC 01.
    B. 22-27.05S 040-24.71W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 022100Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>242355Z NOV 25
-HYDROLANT 2005/25(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   022213Z TO 030320Z, 032147Z TO 040254Z,
-   042121Z TO 050228Z, 052055Z TO 060202Z,
-   062029Z TO 070136Z, 072003Z TO 080110Z
-   AND 081937Z TO 090044Z DEC 
-   IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 090144Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
