@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>082024Z DEC 25
+HYDROLANT 2088/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. HAZARDOUS OPERATIONS 090700Z TO 091800Z DEC 
+   IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.90W,
+   33-48.60N 008-25.20W, 33-55.20N 008-19.80W,
+   33-59.90N 008-12.20W, 34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 091900Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>081708Z DEC 25
