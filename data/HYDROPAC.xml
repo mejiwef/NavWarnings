@@ -164,19 +164,6 @@ DNC 06, DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>071746Z DEC 25
-HYDROPAC 3244/25(GEN).
-1. DUE TO SPACE WEATHER 08 THRU 10 DEC, HF 
-   COMMUNICATIONS AND GNSS POSITIONAL INFORMATION 
-   MAY BE DISRUPTED BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 110100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>071229Z DEC 25
@@ -222,20 +209,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>062005Z DEC 25
-HYDROPAC 3238/25(61).
-EASTERN INDIAN OCEAN.
-DNC 02.
-1. DERELICT VESSEL ADRIFT IN VICINITY 34-04.12S 032-08.80E
-   AT 061807Z DEC.  REPORTS TO MRCC CAPE TOWN, 
-   PHONE: 272 1551 0700.
-2. CANCEL HYDROPAC 3234/25.
-3. CANCEL THIS MSG 092004Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061240Z DEC 25
@@ -243,11 +216,13 @@ HYDROPAC 3237/25(71).
 SINGAPORE STRAIT.
 INDONESIA.
 DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY
 01-11.04N 103-51.71E, 01-11.50N 103-52.50E,
 01-11.75N 103-52.99E, 01-11.25N 103-53.21E,
 01-11.01N 103-52.73E, 01-10.57N 103-51.99E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

@@ -83,19 +83,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 190953Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>071746Z DEC 25
-NAVAREA XII 799/25(GEN).
-1. DUE TO SPACE WEATHER 08 THRU 10 DEC, HF 
-   COMMUNICATIONS AND GNSS POSITIONAL INFORMATION 
-   MAY BE DISRUPTED BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 110100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>051846Z DEC 25
@@ -189,32 +176,6 @@ USCG REMOTE COMMUNICATION FACILITIES:
    I. PT REYES 37-55.5N 122-43.9W.
    J. SHEMYA 52-43.0N 174-07.0E.
    K. ST PAUL 57-09.0N 170-14.0W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>011711Z DEC 25
-NAVAREA XII 789/25(21,22,83).
-PACIFIC OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1731Z TO 2200Z DAILY 09 THRU 15 DEC
-   IN AREA BOUND BY
-   12-02.00N 112-31.00W, 12-58.00N 114-47.00W,
-   00-49.00S 120-38.00W, 01-46.00S 118-25.00W.
-2. CANCEL THIS MSG 152300Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011944Z DEC 25
-NAVAREA XII 788/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. UNDERWATER ORDNANCE DETONATION
-   081700Z TO 092300Z DEC IN 32-35.82N 117-10.88W.
-2. CANCEL THIS MSG 100001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
