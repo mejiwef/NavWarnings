@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>100150Z DEC 25
+HYDROPAC 3263/25(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   130001Z TO 130600Z DEC IN AREA BOUND BY
+   30-04.00S 146-49.00W, 29-28.00S 123-53.00W,
+   38-37.00S 123-29.00W, 30-04.00S 146-49.00W.
+2. CANCEL THIS MSG 130700Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091144Z DEC 25
@@ -321,22 +334,6 @@ SERVICES OFF AIR.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>051104Z DEC 25
-HYDROPAC 3227/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 100400Z TO 100500Z DEC
-   IN AREA BOUND BY
-   17-48.00N 083-35.00E, 17-42.00N 083-18.00E,
-   17-31.00N 083-32.00E, 17-34.80N 083-34.18E,
-   17-39.30N 083-35.60E, 17-43.70N 083-35.70E.
-2. CANCEL THIS MSG 100600Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>051053Z DEC 25
 HYDROPAC 3226/25(63).
 ANDAMAN SEA.
@@ -575,19 +572,6 @@ DNC 12.
    DAILY 08 THRU 11 DEC IN AREA WITHIN
    FIVE MILES OF 13-29.00N 144-25.00E.
 2. CANCEL THIS MSG 110500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030221Z DEC 25
-HYDROPAC 3189/25(76).
-TASMAN SEA.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS 071900Z TO 100400Z DEC
-   IN AREA WITHIN THREE MILES OF 36-28.65S 174-09.64E.
-2. CANCEL THIS MSG 100500Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1105,23 +1089,6 @@ DNC 03.
       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>261142Z NOV 25
-HYDROPAC 3104/25(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1937Z TO 0320Z DAILY 01 THRU 09 DEC
-   IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 100420Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

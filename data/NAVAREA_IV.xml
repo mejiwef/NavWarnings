@@ -138,18 +138,6 @@ FRENCH GUIANA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>070318Z DEC 25
-NAVAREA IV 1346/25(26).
-CARIBBEAN SEA.
-PANAMA.
-1. DERELICT VESSEL, GRAY FIBERGLASS BOAT WITH FOUR OUTBOARD
-   MOTORS ADRIFT IN VICINTY 12-06.43N 079-37.30W.
-2. CANCEL THIS MSG 100318Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>051433Z DEC 25

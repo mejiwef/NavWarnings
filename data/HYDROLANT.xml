@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100055Z DEC 25
+HYDROLANT 2100/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   201300Z FEB 26 BY M/V FUGRO RESILIENCE
+   IN AREA BOUND BY
+   23-33.93S 041-22.52W, 23-33.93S 041-12.21W,
+   23-33.00S 041-12.21W, 23-33.00S 041-09.40W,
+   23-32.21S 041-09.40W, 23-32.21S 041-09.08W,
+   23-31.28S 041-09.08W, 23-31.28S 041-08.47W,
+   23-38.15S 041-08.47W, 23-38.15S 041-08.30W,
+   23-22.53S 041-08.30W, 23-22.53S 041-11.43W,
+   23-25.03S 041-11.43W, 23-25.03S 041-18.77W,
+   23-27.53S 041-18.77W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 201400Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>100040Z DEC 25
+HYDROLANT 2099/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 07.
+1. SARITA LIGHT 32-37.81S 052-25.76W UNLIT 
+   UNTIL 07 JUN 26.
+2. CANCEL THIS MSG 080001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>100004Z DEC 25
@@ -595,23 +629,6 @@ EMAIL: MRCC.CT@SAMSA.ORG.ZA.
 OR CAPE TOWN RADIO,
 PHONE: 27 21 551 0700,
 EMAIL: MARITIMERADIO@TELKOM.CO.ZA.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>261142Z NOV 25
-HYDROLANT 1999/25(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1937Z TO 0320Z DAILY 01 THRU 09 DEC
-   IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 100420Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

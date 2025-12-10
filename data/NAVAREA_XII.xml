@@ -16,18 +16,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>090004Z DEC 25
-NAVAREA XII 805/25(19).
-NORTH PACIFIC.
-HAWAII.
-1. USCG REMOTE COMMUNICATION FACILITY
-   HONOLULU 21-22.00N 158-09.00W TRANSMIT
-   SERVICES OFF AIR 091830Z TO 100001Z DEC.
-2. CANCEL THIS MSG 100101Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>082128Z DEC 25
