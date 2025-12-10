@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>091857Z DEC 25
+NAVAREA XII 809/25(GEN).
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   151002Z TO 151148Z DEC, 
+   ALTERNATE 160941Z TO 161126Z,
+   170905Z TO 171121Z, 180844Z TO 181100Z, 
+   190822Z TO 191038Z, 200801Z TO 201017Z, 
+   AND 210740Z TO 210956Z DEC IN AREA BOUND BY
+   06-49.00S 132-47.00W, 10-24.00N 120-26.00W,
+   08-56.00N 118-25.00W, 08-16.00S 130-47.00W.
+2. CANCEL THIS MSG 211056Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090018Z DEC 25

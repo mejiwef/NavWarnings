@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101148Z DEC 25
+HYDROPAC 3265/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
+   12 THRU 14 DEC IN AREA BOUND BY
+   17-59.00N 083-56.00E, 17-50.00N 083-44.00E,
+   17-49.00N 083-59.00E, 17-49.50N 084-15.70E,
+   17-58.90N 084-27.30E.
+2. CANCEL THIS MSG 141130Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>091857Z DEC 25
+HYDROPAC 3264/25(GEN).
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   151002Z TO 151148Z DEC, 
+   ALTERNATE 160941Z TO 161126Z,
+   170905Z TO 171121Z, 180844Z TO 181100Z, 
+   190822Z TO 191038Z, 200801Z TO 201017Z, 
+   AND 210740Z TO 210956Z DEC IN AREA BOUND BY
+   06-49.00S 132-47.00W, 10-24.00N 120-26.00W,
+   08-56.00N 118-25.00W, 08-16.00S 130-47.00W.
+2. CANCEL HYDROPAC 3083/25(93).
+3. CANCEL THIS MSG 211056Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>100150Z DEC 25
@@ -363,21 +395,6 @@ DNC 06, DNC 07.
    27-09.00S 120-43.00W, 27-59.00S 122-44.00W,
    59-58.00S 099-05.00W, 59-09.00S 095-34.00W.
 2. CANCEL THIS MSG 161456Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031204Z DEC 25
-HYDROPAC 3224/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 100800Z TO 100930Z DEC 
-   IN AREA BOUND BY
-   19-32.30N 086-33.90E, 19-15.10N 086-07.90E,
-   18-42.00N 086-31.40E, 18-58.90N 086-57.70E.
-2. CANCEL THIS MSG 101030Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

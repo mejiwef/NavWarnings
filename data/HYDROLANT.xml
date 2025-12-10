@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>100718Z DEC 25
+HYDROLANT 2101/25(35).
+SEA OF THE HEBRIDES.
+SCOTLAND.
+DNC 20.
+STATION TOROSAY IN 56-27.50N 005-43.80W VHF R/T 
+AND DSC SERVICES OFF AIR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100055Z DEC 25
@@ -226,20 +238,6 @@ DNC 01.
    M/V MINERAL MAROUANE IN 20-20.68S 040-10.37W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 212200Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>070806Z DEC 25
-HYDROLANT 2078/25(51).
-NORTH ATLANTIC.
-SPAIN.
-DNC 08.
-1. 46 CONTAINERS, RED, ORANGE, PINK, AND BLUE COLORED 
-   40 FEET LONG ADRIFT IN VICINTY 42-13.30N 010-25.20W AT 
-   061420Z DEC 25.
-2. CANCEL THIS MSG 100730Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
