@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>110507Z DEC 25
+HYDROPAC 3276/25(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   130001Z TO 130600Z DEC IN AREA BOUND BY
+   30-04.00S 146-49.00W, 38-37.00S 123-29.00W,
+   39-28.00S 123-53.00W, 30-55.00S 147-10.00W.
+2. CANCEL HYDROPAC 3274/25.
+3. CANCEL THIS MSG 130700Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110238Z DEC 25
+HYDROPAC 3275/25(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 151500Z AND 152100Z DEC
+   IN AREA BOUND BY
+   35-50.00S 073-04.00W, 35-50.00S 073-28.00W,
+   36-10.00S 073-28.00W, 36-10.00S 073-04.00W.
+2. CANCEL THIS MSG 152200Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>102246Z DEC 25
@@ -90,19 +119,6 @@ NORTH PACIFIC.
 3. CANCEL THIS MSG 211056Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>100150Z DEC 25
-HYDROPAC 3263/25(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   130001Z TO 130600Z DEC IN AREA BOUND BY
-   30-04.00S 146-49.00W, 29-28.00S 123-53.00W,
-   38-37.00S 123-29.00W, 30-04.00S 146-49.00W.
-2. CANCEL THIS MSG 130700Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091144Z DEC 25
@@ -117,21 +133,6 @@ DNC 03.
       17-35.00N 070-20.00E, 18-05.00N 070-20.00E.
       WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091032Z DEC 25
-HYDROPAC 3260/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 110400Z TO 110500Z DEC 
-   IN AREA BOUND BY
-   18-36.20N 084-41.27E, 18-03.32N 087-13.15E,
-   07-15.02N 084-58.48E, 08-20.80N 082-04.67E.
-2. CANCEL THIS MSG 110600Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -425,27 +426,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>050105Z DEC 25
-HYDROPAC 3221/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 072300Z TO 080600Z,
-   090001Z TO 090700Z, 100130Z TO 100630Z
-   AND 110001Z TO 110400Z DEC IN AREAS:
-   A. BOUND BY
-      13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-      12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-      11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-      12-49.98N 144-30.00E.
-   B. WITHIN FIVE MILES OF 13-29.00N 144-25.00E.
-2. CANCEL THIS MSG 110508Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>042309Z DEC 25
 HYDROPAC 3218/25(81).
 NORTH PACIFIC.
@@ -563,21 +543,6 @@ DNC 11.
    14-42.63N 120-41.55E, 14-41.53N 120-36.54E,
    14-36.73N 120-38.08E, 14-37.87N 120-43.16E.
 2. CANCEL THIS MSG 190001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030512Z DEC 25
-HYDROPAC 3191/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0001Z TO 0400Z
-   DAILY 08 THRU 11 DEC IN AREA WITHIN
-   FIVE MILES OF 13-29.00N 144-25.00E.
-2. CANCEL THIS MSG 110500Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
