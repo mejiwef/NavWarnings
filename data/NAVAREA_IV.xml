@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111019Z DEC 25
+NAVAREA IV 1367/25(26, 28).
+CARIBBEAN SEA.
+PANAMA.
+1. CABLE OPERATIONS 16 DEC THRU 25 DEC 26
+   BY CABLESHIP IT INTREPID 
+   ALONG TRACKLINES JOINING:
+   A. 09-26.60N 079-45.43W, 09-27.34N 079-45.48W,
+      09-34.19N 079-50.36W, 09-38.63N 079-50.85W,
+      09-41.68N 079-52.36W, 09-45.53N 079-56.13W,
+      09-51.62N 079-58.04W, 10-07.00N 079-59.82W,
+      10-20.30N 080-04.17W, 10-33.89N 080-11.59W.
+   B. 09-56.60N 083-00.61W, 10-02.34N 082-42.08W,
+      10-02.59N 082-03.10W, 10-29.89N 080-43.13W,
+      10-33.93N 080-16.13W, 10-33.92N 080-11.57W,
+      10-43.74N 080-05.64W, 10-46.63N 080-00.94W,
+      10-47.28N 079-54.80W, 10-48.34N 079-27.60W,
+      11-05.92N 079-11.25W, 11-30.10N 078-39.57W,
+      12-43.91N 077-33.26W, 12-46.17N 077-25.96W.
+   5 MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z DEC 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>102153Z DEC 25

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111041Z DEC 25
+HYDROLANT 2106/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 01.
+1. HAZARDOUS OPERATIONS 12 THRU 13 DEC
+   IN AREA BOUND BY
+   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
+   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
+   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
+2. CANCEL THIS MSG 140001Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>101637Z DEC 25
@@ -65,18 +81,6 @@ DNC 29.
    E. D33A, 65-27.00S 057-00.00W.
    F. D33C, 66-00.60S 058-11.40W.
 2. CANCEL THIS MSG 111612Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>100718Z DEC 25
-HYDROLANT 2101/25(35).
-SEA OF THE HEBRIDES.
-SCOTLAND.
-DNC 20.
-STATION TOROSAY IN 56-27.50N 005-43.80W VHF R/T 
-AND DSC SERVICES OFF AIR. 
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -302,17 +306,6 @@ DNC 01, DNC 07.
    35-50.50S 050-05.20W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 150001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>051614Z DEC 25
-HYDROLANT 2070/25(51).
-EASTERN NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-POINTE DOUKACHA LIGHT 33-36.90N 007-33.80W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
