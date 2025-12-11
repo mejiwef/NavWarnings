@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111718Z DEC 25
+HYDROLANT 2112/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A,  52-40.00S 039-58.00W.
+   B. A74A, 56-20.00S 025-16.00W.
+   C. A77, 51-04.00S 041-17.00W.
+   D. A76C, 59-22.00S 037-31.00W.
+   E. B15AB, 57-07.00S 044-30.00W.
+   F. 53-30.00S 040-44.00W.
+   G. 52-58.00S 039-20.00W.
+   H. 52-34.00S 041-15.00W.
+   I. 51-32.00S 034-52.00W.
+   J. 51-31.00S 037-55.00W.
+   K. 52-36.00S 037-04.00W.
+   L. 53-00.00S 039-53.00W.
+   M. 49-49.00S 034-59.00W.
+   N. 50-32.00S 021-56.00W.
+   O. 52-16.00S 041-44.00W.
+   P. 53-48.00S 042-08.00W.
+   Q. 50-31.00S 038-50.00W.
+   R. 51-10.00S 035-26.00W.
+   S. 52-18.00S 040-56.00W.
+   T. 52-37.00S 039-36.00W.
+   U. 49-53.00S 029-05.00W.
+   V. 52-14.00S 040-06.00W.
+   W. 52-33.00S 040-08.00W.
+   X. 52-28.00S 040-01.00W.
+   Y. 52-35.00S 040-16.00W.
+   Z. 52-37.00S 040-13.00W.
+   AA. 52-15.00S 039-59.00W.
+   AB. 53-21.00S 040-14.00W.
+   AC. 52-41.00S 040-13.00W.
+   AD. 52-35.00S 040-33.00W.
+   AE. 50-35.00S 038-50.00W.
+   AF. 50-29.00S 038-55.00W.
+   AG. 52-54.00S 039-53.00W.
+2. CANCEL THIS MSG 121721Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111628Z DEC 25
+HYDROLANT 2111/25(29).
+DNC 29.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-04.80S 057-50.40W.
+   B. A84, 71-51.00S 095-24.60W.
+   C. A85, 68-02.40S 055-13.20W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-27.00S 057-00.00W.
+   F. D33C, 66-00.60S 058-11.40W.
+2. CANCEL THIS MSG 121629Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>111556Z DEC 25
+HYDROLANT 2109/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   161500Z TO 300259Z DEC IN AREA BOUND BY
+   02-16.03S 044-12.87W, 02-11.71S 044-14.47W,
+   02-10.16S 044-17.60W, 02-16.69S 044-22.82W,
+   02-17.87S 044-21.75W, 02-19.72S 044-21.70W,
+   02-21.41S 044-22.13W, 02-20.58S 044-19.76W,
+   02-18.89S 044-18.83W.
+2. CANCEL THIS MSG 300400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>111510Z DEC 25
+HYDROLANT 2108/25(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   161500Z TO 300259Z DEC IN AREA BOUND BY
+   01-59.17N 038-50.49W, 02-41.30N 039-30.92W,
+   00-35.60N 041-44.42W, 00-00.32N 041-09.52W.
+2. CANCEL THIS MSG 300400Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111041Z DEC 25
@@ -15,72 +110,6 @@ DNC 01.
    27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
 2. CANCEL THIS MSG 140001Z DEC 25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101637Z DEC 25
-HYDROLANT 2103/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-39.00S 039-55.00W.
-   B. A74A, 56-08.00S 025-35.00W.
-   C. A77, 51-35.00S 041-37.00W.
-   D. A76C, 59-23.00S 037-31.00W.
-   E. B15AB, 57-08.00S 044-45.00W.
-   F. 53-30.00S 040-44.00W.
-   G. 52-57.00S 039-19.00W.
-   H. 52-34.00S 041-15.00W.
-   I. 51-32.00S 034-52.00W.
-   J. 51-30.00S 037-58.00W.
-   K. 52-38.00S 036-59.00W.
-   L. 52-56.00S 039-50.00W.
-   M. 49-37.00S 035-08.00W.
-   N. 50-32.00S 021-56.00W.
-   O. 52-16.00S 041-44.00W.
-   P. 53-48.00S 042-08.00W.
-   Q. 50-31.00S 038-49.00W.
-   R. 51-18.00S 035-18.00W.
-   S. 52-18.00S 040-56.00W.
-   T. 52-41.00S 039-38.00W.
-   U. 49-42.00S 029-15.00W.
-   V. 52-12.00S 040-05.00W.
-   W. 52-29.00S 040-06.00W.
-   X. 52-27.00S 039-59.00W.
-   Y. 52-06.00S 039-43.00W.
-   Z. 52-35.00S 040-16.00W.
-   AA. 52-37.00S 040-13.00W.
-   AB. 52-11.00S 040-01.00W.
-   AC. 52-15.00S 040-00.00W.
-   AD. 53-21.00S 040-14.00W.
-   AE. 52-49.00S 039-12.00W.
-   AF. 52-41.00S 040-13.00W.
-   AG. 52-35.00S 040-33.00W.
-   AH. 50-36.00S 038-54.00W.
-   AI. 50-27.00S 038-52.00W.
-   AJ. 52-54.00S 039-53.00W.
-2. CANCEL THIS MSG 111640Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101609Z DEC 25
-HYDROLANT 2102/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-04.80S 057-50.40W.
-   B. A84, 71-51.00S 095-24.60W.
-   C. A85, 68-02.40S 055-13.20W.
-   D. B29, 73-49.80S 110-31.80W.
-   E. D33A, 65-27.00S 057-00.00W.
-   F. D33C, 66-00.60S 058-11.40W.
-2. CANCEL THIS MSG 111612Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -102,7 +131,8 @@ DNC 01.
    23-25.03S 041-11.43W, 23-25.03S 041-18.77W,
    23-27.53S 041-18.77W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 201400Z FEB 26.</msgText>
+2. CANCEL THIS MSG 201400Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -114,7 +144,8 @@ BRAZIL.
 DNC 07.
 1. SARITA LIGHT 32-37.81S 052-25.76W UNLIT 
    UNTIL 07 JUN 26.
-2. CANCEL THIS MSG 080001Z JUN 26.</msgText>
+2. CANCEL THIS MSG 080001Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -124,7 +155,8 @@ HYDROLANT 2098/25(35).
 NORTH ATLANTIC.
 SCOTLAND.
 DNC 19.
-GASKER ISLAND LIGHT 57-59.10N 007-17.20W UNLIT.</msgText>
+GASKER ISLAND LIGHT 57-59.10N 007-17.20W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -138,7 +170,8 @@ CGOC MF DSC AND R/T SERVICES OFF AIR AT:
 A. GREGNESS  57-07.70N 002-03.20W.
 B. CULLERCOATS 55-04.40N 001-27.80W.
 C. LANGHAM 52-56.50N 000-57.20E.
-D. BAWDSEY 51-59.60N 001-24.50E. </msgText>
+D. BAWDSEY 51-59.60N 001-24.50E. 
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -150,7 +183,8 @@ DNC 20.
 PIPELINE OPERATIONS IN PROGRESS UNTIL 
 FURTHER NOTICE ALONG TRACKLINE JOINING
 60-06.00N 002-44.00E, 60-02.00N 002-50.00E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
