@@ -1012,21 +1012,6 @@ DANGEROUS WRECK IN 23-01.12S 043-08.12W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>311737Z AUG 25
-HYDROLANT 1455/25(37).
-BAY OF BISCAY.
-FRANCE.
-DNC 20.
-1. NAVTEX STATION CORSEN (A) 48-28.00N 005-03.00W
-   OFF AIR.
-2. CORSEN BROADCASTS WILL BE TRANSMITTED BY
-   NAVAREA II VIA SAFETYNET AND SAFETYCAST.
-3. CANCEL HYDROLANT 2166/24.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>070554Z AUG 25

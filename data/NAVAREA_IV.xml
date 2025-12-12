@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>120950Z DEC 25
+NAVAREA IV 1371/25(24).
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0451Z TO 0612Z DAILY 17 DEC THRU 16 JAN 26
+   IN AREA BOUND BY
+   05-50.00N 052-20.00W, 05-51.00N 052-48.00W,
+   05-23.00N 052-54.00W, 05-13.00N 052-41.00W.
+2. CANCEL THIS MSG 160712Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>081244Z DEC 25
+NAVAREA IV 1370/25(24, 51).
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   DAILY 17 DEC THRU 16 JAN 26:
+   A. 0401Z TO 0612Z IN AREA BOUND BY
+      08-42.00N 050-34.00W, 08-35.00N 050-24.00W,
+      07-28.00N 051-09.00W, 07-34.00N 051-20.00W.
+   B. 0401Z TO 0612Z IN AREA BOUND BY
+      10-35.00N 049-21.00W, 10-22.00N 049-01.00W,
+      08-34.00N 050-16.00W, 08-47.00N 050-36.00W.
+   C. 0458Z TO 0655Z IN AREA BOUND BY
+      26-22.00N 037-21.00W, 25-53.00N 036-41.00W,
+      22-27.00N 039-42.00W, 22-55.00N 040-22.00W.
+2. CANCEL THIS MSG 160755Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>112024Z DEC 25
