@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>112117Z DEC 25
+HYDROPAC 3290/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 120500Z TO 130900Z DEC
+   IN AREA BOUND BY
+   24-18.00N 066-57.00E, 24-24.00N 066-41.00E,
+   24-24.00N 064-13.00E, 23-32.00N 064-13.00E,
+   23-31.00N 066-57.00E.
+2. CANCEL HYDROPAC 3269/25.
+3. CANCEL THIS MSG 131000Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>111538Z DEC 25
 HYDROPAC 3289/25(63).
 ARABIAN SEA.
@@ -261,21 +277,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101811Z DEC 25
-HYDROPAC 3269/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0500Z TO 0900Z DAILY
-   12 AND 13 DEC IN AREA BOUND BY
-   24-18.00N 066-57.00E, 24-24.00N 066-41.00E,
-   24-24.00N 064-13.00E, 23-32.00N 064-13.00E,
-   23-31.00N 066-57.00E.
-2. CANCEL THIS MSG 131000Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>101245Z DEC 25
@@ -285,7 +286,8 @@ DNC 12.
 1. HAZARDOUS OPERATIONS, SPACE DEBRIS
    1200Z TO 1330Z DAILY 15 THRU 18 DEC IN AREA
    WITHIN 216 MILES OF 24-23.00N 161-46.00E.
-2. CANCEL THIS MSG 181430Z DEC 25.</msgText>
+2. CANCEL THIS MSG 181430Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -300,7 +302,8 @@ DNC 03.
    17-59.00N 083-56.00E, 17-50.00N 083-44.00E,
    17-49.00N 083-59.00E, 17-49.50N 084-15.70E,
    17-58.90N 084-27.30E.
-2. CANCEL THIS MSG 141130Z DEC 25.</msgText>
+2. CANCEL THIS MSG 141130Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -352,23 +355,6 @@ SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC VIETNAM, 
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>082110Z DEC 25
-HYDROPAC 3258/25(61).
-MOZAMBIQUE CHANNEL.
-MOZAMBIQUE.
-DNC 02.
-1. DERELICT M/V OCEAN PRIDE ADRIFT 
-   IN 25-50.34S 033-05.10E.
-   REPORTS TO MRCC AND CAPETOWN RADIO. 
-   PHONE: 272 1551 0700,
-   EMAIL: MARITIMERADIO@IXMAIL.CO.ZA,    
-   MARITIMERADIO@TELKOM.CO.ZA.
-2. CANCEL HYDROPAC 3254/25.
-3. CANCEL THIS MSG 112110Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -1647,24 +1633,6 @@ HYDROPAC 2735/25(GEN).
    OLD PHONE NUMBER NO LONGER IN 
    SERVICE.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241351Z OCT 25
-HYDROPAC 2732/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 11 DEC
-   BY CABLESHIP MARAM IN AREA BOUND BY
-   19-12.49N 072-48.30E, 18-15.64N 070-47.76E,
-   17-21.69N 070-05.31E, 17-14.73N 070-23.75E,
-   18-09.95N 071-02.57E, 18-48.14N 072-28.95E,
-   19-05.49N 072-52.09E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 120001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
