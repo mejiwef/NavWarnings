@@ -364,50 +364,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>112117Z DEC 25
-HYDROPAC 3290/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 120500Z TO 130900Z DEC
-   IN AREA BOUND BY
-   24-18.00N 066-57.00E, 24-24.00N 066-41.00E,
-   24-24.00N 064-13.00E, 23-32.00N 064-13.00E,
-   23-31.00N 066-57.00E.
-2. CANCEL HYDROPAC 3269/25.
-3. CANCEL THIS MSG 131000Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111538Z DEC 25
-HYDROPAC 3289/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 130230Z TO 130630Z DEC
-   IN AREA BOUND BY
-   15-50.00N 072-35.00E, 15-50.00N 072-25.00E,
-   15-40.00N 072-30.00E, 15-40.00N 072-40.00E.
-2. CANCEL THIS MSG 130730Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111533Z DEC 25
-HYDROPAC 3288/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 130100Z TO 130830Z DEC
-   IN AREA WITHIN FIVE MILES OF 17-45.00N 083-48.00E.
-2. CANCEL THIS MSG 130930Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>111411Z DEC 25
@@ -556,21 +512,6 @@ DNC 06, DNC 07.
    59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
    27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
 2. CANCEL THIS MSG 222126Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110507Z DEC 25
-HYDROPAC 3276/25(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   130001Z TO 130600Z DEC IN AREA BOUND BY
-   30-04.00S 146-49.00W, 38-37.00S 123-29.00W,
-   39-28.00S 123-53.00W, 30-55.00S 147-10.00W.
-2. CANCEL HYDROPAC 3274/25.
-3. CANCEL THIS MSG 130700Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -922,22 +863,6 @@ SOUTH PACIFIC.
 FIJI.
 DNC 06.
 VUNA POINT LIGHT 16-57.86S 179-51.80E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021200Z DEC 25
-HYDROPAC 3181/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS IN PROGRESS 
-   0200Z TO 1100Z DAILY 02 THRU 13 DEC 
-   IN AREA BOUND BY
-   21-51.00N 091-23.00E, 21-51.00N 091-40.00E,
-   21-25.00N 091-40.00E, 21-25.00N 091-23.00E.
-2. CANCEL THIS MSG 131200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
