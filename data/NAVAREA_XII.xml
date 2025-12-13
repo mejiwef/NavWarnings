@@ -176,23 +176,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>082128Z DEC 25
-NAVAREA XII 804/25(18).
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 131230Z TO 131616Z DEC
-   IN AREA BOUND BY
-   36-51.00N 125-00.00W, 36-53.00N 124-47.00W,
-   36-53.00N 124-45.00W, 35-56.00N 124-10.00W,
-   34-58.00N 123-46.00W, 32-41.00N 122-45.00W,
-   31-08.00N 122-07.00W, 31-03.00N 122-23.00W,
-   31-42.00N 122-45.00W, 33-43.00N 123-50.00W,
-   36-09.00N 124-53.00W, 36-43.00N 125-11.00W.
-2. CANCEL THIS MSG 131716Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>080915Z DEC 25

@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>131741Z DEC 25
+HYDROPAC 3314/25(71).
+EASTERN INDIAN OCEAN.
+INDONESIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   150300Z TO 150900Z DEC IN AREA BOUND BY
+   02-54.00S 090-48.00E, 02-48.00S 090-17.00E,
+   00-44.00N 090-57.00E, 00-38.00N 091-29.00E.
+2. CANCEL THIS MSG 151000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131722Z DEC 25
+HYDROPAC 3313/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 21 DEC
+   BY DERRICK BARGE 30 IN AREA BOUND BY
+   26-23.60N 052-12.90E, 26-21.50N 052-12.90E,
+   26-21.50N 052-09.70E, 26-26.13N 052-01.77E,
+   26-27.85N 052-03.28E, 26-23.60N 052-10.40E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 220001Z DEC 25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100838Z DEC 25
