@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>122231Z DEC 25
+HYDROPAC 3311/25(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+STAGG PATCHES BUOY 17-01.35S 146-07.86E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>122224Z DEC 25
+HYDROPAC 3310/25(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+RACON (O) AT STAGG PATCHES BUOY 17-01.35S 146-07.86E
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>122122Z DEC 25
+HYDROPAC 3309/25(62).
+ARABIAN SEA.
+DNC 10.
+1. DERELICT F/V SHEKARI ADRIFT
+   IN 20-38.40N 062-41.00E.
+2. CANCEL THIS MSG 152122Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121655Z DEC 25
@@ -131,7 +166,6 @@ DNC 03.
    17-36.44N 088-50.52E, 17-40.41N 088-54.93E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 110001Z JAN 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -163,8 +197,6 @@ DNC 02.
    21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
 2. CANCEL HYDROPAC 3298/25.
 3. CANCEL THIS MSG 171600Z DEC 25.
-
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -175,7 +207,7 @@ HYDROPAC 3300/25(97).
 NORTH PACIFIC.
 DNC 12.
 1. GUNNERY EXERCISES 162300Z TO 170800Z DEC,
-   ALTERNATE 2300Z TO 0800Z DAILY 17 AND 18 DEC.
+   ALTERNATE 2300Z TO 0800Z DAILY 17 AND 18 DEC
    IN AREA WITHIN 25 MILES OF 31-14.14N 144-26.48E.
 2. CANCEL THIS MSG 190900Z DEC 25.
 </msgText>
@@ -208,14 +240,13 @@ DNC 03.
    BY M/V VALLIANZ PRELUDE AND M/V AWB RESILIANT
    IN AREAS BOUND BY:
    A. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-       18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
    B. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-       18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
+      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
    C. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
+      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z DEC 25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -232,7 +263,8 @@ DNC 03.
    18-24.17N 088-30.45E, 20-48.77N 087-07.40E,
    20-48.37N 087-02.58E, 18-12.37N 086-07.12E,
    11-40.75S 084-21.65E, 10-47.35S 095-11.22E.
-2. CANCEL THIS MSG 201630Z DEC 25.</msgText>
+2. CANCEL THIS MSG 201630Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -243,13 +275,12 @@ BAY OF BENGAL.
 INDIA.
 DNC 03.
 1. HAZARDOUS OPERATIONS 171230Z TO 171630Z, 
-   180330Z TO 180630Z AND 181230Z TO 181630Z
+   180330Z TO 180630Z AND 181230Z TO 181630Z DEC
    IN AREA BOUND BY
    20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
    21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
    21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
 2. CANCEL THIS MSG 181730Z DEC 25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1339,31 +1370,6 @@ DNC 12.
     <smapsActiveEntity>
         <category>WORKING VESSELS</category>
         <status>INFORCE</status>
-        <msgText>261247Z NOV 25
-HYDROPAC 3108/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. OFFSHORE INSTALLATION OPERATIONS 27 NOV THRU
-   12 DEC BY BARGE DLB KENENNA AND M/V ZD LIBRA
-   IN AREAS BOUND BY:
-   A. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   B. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   C. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   D. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3017/25 AND 3086/25.
-3. CANCEL THIS MSG 130001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WORKING VESSELS</category>
-        <status>INFORCE</status>
         <msgText>261230Z NOV 25
 HYDROPAC 3107/25(63).
 ARABIAN SEA.
@@ -1541,22 +1547,6 @@ DNC 03.
    19-43.35N 088-10.24E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 170001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191349Z NOV 25
-HYDROPAC 3001/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 22 NOV THRU 12 DEC 
-   BY M/V ORION LAXMI IN AREA BOUND BY
-   19-35.00N 071-17.00E, 19-35.00N 071-27.00E,
-   19-13.00N 071-27.00E, 19-13.00N 071-17.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

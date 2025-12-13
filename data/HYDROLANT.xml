@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>122322Z DEC 25
+HYDROLANT 2123/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. DERELICT VESSEL, ORANGE RESCUE BOAT, ADRIFT 
+   IN 21-56.31S 039-47.11W AT 120800Z DEC. REPORTS TO 
+   CAPITANIA DOS PORTOS DE MACAE BY 
+   PHONE: 5522 2772 1889, EMAIL: CPM.SEGMAR@MARINHA.MIL.BR.
+2. CANCEL THIS MSG 152322Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>122316Z DEC 25
+HYDROLANT 2122/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 151800Z TO 152100Z
+   IN AREA BOUND BY
+   23-20.00S 042-12.50W, 23-20.00S 042-45.10W,
+   23-45.00S 042-45.10W, 23-45.00S 042-12.50W.
+2. CANCEL THIS MSG 152200Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121929Z DEC 25
+HYDROLANT 2121/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. HAZARDOUS OPERATIONS 0700Z AND 1800Z 
+   DAILY 15 AND 19 DEC IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.90W,
+   33-48.60N 008-25.20W, 33-55.20N 008-19.80W,
+   33-59.90N 008-12.20W, 34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 191900Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121644Z DEC 25
@@ -118,8 +164,6 @@ DNC 01.
    03-51.29N 009-27.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2069/25.
-
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -143,7 +187,8 @@ DNC 01.
    23-27.53S 041-18.77W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2100/25.
-3. CANCEL THIS MSG 201400Z FEB 26.</msgText>
+3. CANCEL THIS MSG 201400Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -169,7 +214,8 @@ DNC 01.
    25-55.80S 042-49.05W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2068/25.
-3. CANCEL THIS MSG 240001Z DEC 25.</msgText>
+3. CANCEL THIS MSG 240001Z DEC 25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -432,22 +478,6 @@ DNC 01, DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051606Z DEC 25
-HYDROLANT 2069/25(57).
-GULF OF GUINEA.
-CAMEROON.
-DNC 01.
-CABLE OPERATIONS 081600Z DEC UNTIL FURTHER NOTICE
-BY CABLESHIP LEON THEVENIN IN AREA BOUND BY
-03-50.47N 009-26.70E, 03-50.87N 009-26.36E,
-03-50.00N 009-25.40E, 03-49.06N 009-24.89E,
-03-48.63N 009-25.23E, 03-49.72N 009-25.82E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>040843Z DEC 25
@@ -514,21 +544,6 @@ DNC 01.
    23-30.03S 043-50.03W, 23-27.03S 043-52.03W,
    24-08.03S 044-35.03W, 24-45.03S 043-44.03W.
 2. CANCEL THIS MSG 230059Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031245Z DEC 25
-HYDROLANT 2049/25(24).
-SOUTH ATLANTIC.
-DNC 01.
-1. HAZARDOUS OPERATIONS 08 THRU 12 DEC
-   IN AREA BOUND BY
-   24-30.00S 040-03.00W, 24-20.00S 040-32.00W,
-   25-26.00S 041-58.00W, 25-37.00S 041-57.00W,
-   26-50.00S 040-25.00W, 25-34.00S 039-00.00W.
-2. CANCEL THIS MSG 130001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
