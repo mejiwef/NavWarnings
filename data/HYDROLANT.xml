@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141428Z DEC 25
+HYDROLANT 2136/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-46.00S 039-55.00W.
+   B. A74A, 57-08.00S 024-30.00W.
+   C. A77, 50-27.00S 040-34.00W.
+   D. A76C, 59-31.00S 037-25.00W.
+   E. B15AB, 57-14.00S 043-44.00W.
+   F. 53-08.00S 041-39.00W.
+   G. 53-13.00S 039-22.00W.
+   H. 52-30.00S 041-29.00W.
+   I. 51-25.00S 035-10.00W.
+   J. 51-57.00S 037-36.00W.
+   K. 52-40.00S 037-18.00W.
+   L. 53-12.00S 040-08.00W.
+   M. 50-25.00S 034-45.00W.
+   N. 51-04.00S 022-25.00W.
+   O. 52-18.00S 041-14.00W.
+   P. 53-52.00S 041-47.00W.
+   Q. 50-15.00S 038-38.00W.
+   R. 50-41.00S 035-54.00W.
+   S. 52-13.00S 041-01.00W.
+   T. 52-36.00S 039-43.00W.
+   U. 49-53.00S 029-05.00W.
+   V. 52-29.00S 040-14.00W.
+   W. 52-46.00S 040-10.00W.
+   X. 52-30.00S 040-04.00W.
+   Y. 52-58.00S 039-59.00W.
+   Z. 52-58.00S 039-05.50W.
+   AA. 52-17.00S 040-04.00W.
+   AB. 52-58.00S 040-59.00W.
+   AC. 52-57.00S 040-09.00W.
+   AD. 52-28.00S 040-53.00W.
+   AE. 50-11.00S 038-43.00W.
+   AF. 50-22.00S 038-39.00W.
+   AG. 53-03.00S 040-11.00W.
+   AH. 60-48.00S 045-29.00W.
+2. CANCEL THIS MSG 151428Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141239Z DEC 25
+HYDROLANT 2135/25(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-04.20S 057-48.00W.
+   B. A84, 71-51.00S 095-24.60W.
+   C. A85, 68-02.40S 055-13.20W.
+   D. B29, 73-49.80S 110-31.80W.
+   E. D33A, 65-27.00S 057-00.00W.
+   F. D33C, 66-00.60S 058-11.40W.
+2. CANCEL THIS MSG 151239Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140418Z DEC 25
@@ -48,55 +111,6 @@ DNC 20.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131609Z DEC 25
-HYDROLANT 2128/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-43.00S 039-55.00W.
-   B. A74A, 56-52.00S 024-32.00W.
-   C. A77, 50-50.00S 041-03.00W.
-   D. A76C, 59-31.00S 037-25.00W.
-   E. B15AB, 57-14.00S 044-13.00W.
-   F. 53-11.00S 041-17.00W.
-   G. 53-07.00S 039-19.00W.
-   H. 52-32.00S 041-25.00W.
-   I. 51-25.00S 035-10.00W.
-   J. 51-39.00S 037-24.00W.
-   K. 52-34.00S 037-12.00W.
-   L. 53-10.00S 040-01.00W.
-   M. 50-25.00S 034-45.00W.
-   N. 51-04.00S 022-24.00W.
-   O. 52-16.00S 041-15.00W.
-   P. 53-50.00S 041-50.00W.
-   Q. 50-25.00S 038-57.00W.
-   R. 50-49.00S 035-54.00W.
-   S. 52-14.00S 040-51.00W.
-   T. 52-36.00S 039-35.00W.
-   U. 49-53.00S 029-05.00W.
-   V. 52-23.00S 040-11.00W.
-   W. 52-51.00S 040-13.00W.
-   X. 52-35.00S 040-05.00W.
-   Y. 52-53.00S 040-06.00W.
-   Z. 52-53.00S 040-01.00W.
-   AA. 52-16.00S 039-57.00W.
-   AB. 53-05.00S 040-43.00W.
-   AC. 52-59.00S 040-12.00W.
-   AD. 52-34.00S 040-43.00W.
-   AE. 50-28.00S 038-38.00W.
-   AF. 50-37.00S 038-48.00W.
-   AG. 53-05.00S 039-50.00W.
-   AH. 60-48.00S 045-29.00W.
-2. CANCEL THIS MSG 141609Z DEC 25.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PLATFORM</category>
         <status>INFORCE</status>
         <msgText>131444Z DEC 25
@@ -137,24 +151,6 @@ DNC 20.
    50-41.00N 001-04.00W, 50-43.00N 000-47.00W,
    50-35.00N 000-47.00W, 50-33.00N 001-07.00W.
 2. CANCEL THIS MSG 161319Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131231Z DEC 25
-HYDROLANT 2124/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-04.80S 057-50.40W.
-   B. A84, 71-51.00S 095-24.60W.
-   C. A85, 68-02.40S 055-13.20W.
-   D. B29, 73-49.80S 110-31.80W.
-   E. D33A, 65-27.00S 057-00.00W.
-   F. D33C, 66-00.60S 058-11.40W.
-2. CANCEL THIS MSG 141231Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -451,20 +451,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>111411Z DEC 25
-HYDROPAC 3287/25(63).
-EASTERN INDIAN OCEAN
-SRI LANKA
-DNC 03
-1. DERELICT M/V INTEGRITY STAR ADRIFT 
-   IN VICINITY 04-14.00N 077-14.00E AT
-   110230 DEC 25.
-2. CANCEL THIS MSG 141419Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111348Z DEC 25
@@ -744,22 +730,6 @@ NOTICE BY M/V FUGRO ETIVE IN 20-26.10S 116-33.80E.
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030540Z DEC 25
-HYDROPAC 3239/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 1400Z TO 1300Z
-   DAILY 12 AND 13 DEC IN AREA BOUND BY
-   15-20.00N 142-00.00E, 15-20.00N 144-00.00E,
-   13-40.00N 144-00.00E, 13-40.00N 142-00.00E.  
-2. CANCEL THIS MSG 141400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061240Z DEC 25
@@ -789,25 +759,6 @@ DNC 03.
    11-48.00N 092-29.00E, 11-52.00N 092-19.00E,
    11-43.00N 092-16.00E, 11-40.00N 092-27.00E.
 2. CANCEL THIS MSG 240730Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>042309Z DEC 25
-HYDROPAC 3218/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 092200Z TO 101600Z,
-   122200Z TO 131600Z AND 132200Z TO 141359Z DEC
-   IN AREA BOUND BY
-   17-00.00N 145-05.00E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
-   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 141459Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
