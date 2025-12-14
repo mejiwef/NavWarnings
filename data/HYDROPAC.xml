@@ -1022,41 +1022,6 @@ DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>292210Z NOV 25
-HYDROPAC 3160/25(76).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0100Z TO 0400Z DAILY 05 THRU 18 DEC
-   IN AREA BOUND BY
-   52-18.00S 172-18.00E, 52-36.00S 174-30.00E,
-   57-24.00S 172-30.00E, 57-00.00S 169-54.00E.
-2. CANCEL THIS MSG 180500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>COMBINED OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>292129Z NOV 25
-HYDROPAC 3159/25(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS 0100Z TO 0400Z 
-   DAILY 05 THRU 18 DEC:
-   A. ROCKET LAUNCHING IN AREA BOUND BY
-      39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
-      39-15.00S 178-06.00E, 39-24.00S 178-06.00E,
-      39-54.00S 177-45.00E, 39-54.00S 177-36.00E.
-   B. SPACE DEBRIS IN AREA BOUND BY
-      43-12.00S 175-42.00E, 43-24.00S 177-30.00E,
-      46-42.00S 176-36.00E, 46-30.00S 174-48.00E.
-2. CANCEL THIS MSG 180500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>292030Z NOV 25

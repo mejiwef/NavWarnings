@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>LIGHT</category>
+        <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>132306Z DEC 25
-HYDROLANT 2131/25(36).
-NORTHERN IRELAND.
-DNC 20.
-ST. JOHNS POINT LIGHT 54-13.60N 005-39.60W
-UNRELIABLE.
+        <msgText>140418Z DEC 25
+HYDROLANT 2133/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 0700Z TO 1700Z
+   DAILY 15 DEC THRU 02 JAN 26 IN: 
+   A. 20-19.23S 040-09.33W.
+   B. 20-18.43S 040-08.03W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 021800Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>140037Z DEC 25
+HYDROLANT 2132/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. M/V MARCOS DIAS AGROUND IN 04-49.51S 037-01.70W.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO ANY 
+   COASTAL RADIO STATION.
+2. CANCEL THIS MSG 170037Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
