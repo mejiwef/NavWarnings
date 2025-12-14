@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>132306Z DEC 25
+HYDROLANT 2131/25(36).
+NORTHERN IRELAND.
+DNC 20.
+ST. JOHNS POINT LIGHT 54-13.60N 005-39.60W
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131646Z DEC 25
@@ -324,22 +335,6 @@ DNC 01.
    01-59.17N 038-50.49W, 02-41.30N 039-30.92W,
    00-35.60N 041-44.42W, 00-00.32N 041-09.52W.
 2. CANCEL THIS MSG 300400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111041Z DEC 25
-HYDROLANT 2106/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 01.
-1. HAZARDOUS OPERATIONS 12 AND 13 DEC
-   IN AREA BOUND BY
-   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
-   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
-   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
-2. CANCEL THIS MSG 140001Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -846,19 +841,6 @@ IN AREA BOUND BY
 29-54.00S 015-40.00E, 29-19.00S 015-31.00E.
 TWO MILE BERTH REQUESTED.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>011248Z NOV 25
-HYDROLANT 1831/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PONTA DE ITAPAGE LIGHT 02-52.27S 039-56.64W
-   UNLIT UNTIL 30 APR 26.
-2. CANCEL HYDROLANT 1779/25
-3. CANCEL THIS MSG 010001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
