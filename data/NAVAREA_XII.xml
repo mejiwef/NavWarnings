@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140551Z DEC 25
+NAVAREA XII 819/25(19).
+NORTH PACIFIC.
+CABLE OPERATIONS 16 DEC UNTIL FURTHER NOTICE
+BY CABLESHIP ANIEK ALONG TRACKLINE JOINING
+20-07.73N 166-18.67W, 20-07.88N 166-20.11W,
+20-04.16N 166-28.81W, 20-04.81N 166-37.06W,
+20-05.46N 166-40.20W, 20-05.01N 166-47.55W,
+20-05.09N 166-50.80W, 20-06.58N 166-50.90W,
+20-05.57N 166-56.10W, 20-05.37N 167-01.59W,
+20-05.02N 167-05.25W.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121834Z DEC 25
