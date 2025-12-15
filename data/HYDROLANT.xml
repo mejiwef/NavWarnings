@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>151113Z DEC 25
+HYDROLANT 2142/25(51).
+NORTH ATLANTIC.
+DNC 01.
+1. DERELICT SIX METER VESSEL, WHITE HULL, 
+   CAPSIZED AND ADRIFT IN VICINITY
+   25-14.50N 016-34.60W AT 150825Z DEC.
+   REPORTS TO COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 181113Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SHOAL</category>
+        <status>INFORCE</status>
+        <msgText>150810Z DEC 25
+HYDROLANT 2141/25(51).
+NORTH ATLANTIC.
+SENEGAL.
+DNC 01.
+11.2 METER SHOAL REPORTED IN 14-38.93N 017-18.94W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>150317Z DEC 25
@@ -193,20 +217,6 @@ DNC 07.
    32-32.20S 052-06.20W, 32-24.20S 052-04.30W.
 2. CANCEL THIS MSG 192200Z DEC 25.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>131319Z DEC 25
-HYDROLANT 2125/25(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. CONTAINERS ADRIFT IN AREA BOUND BY
-   50-41.00N 001-04.00W, 50-43.00N 000-47.00W,
-   50-35.00N 000-47.00W, 50-33.00N 001-07.00W.
-2. CANCEL THIS MSG 161319Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

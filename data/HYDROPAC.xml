@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150841Z DEC 25
+HYDROPAC 3330/25(76).
+TASMAN SEA.
+NEW ZEALAND.
+DNC 06.
+CABLE OPERATIONS 170200Z DEC UNTIL FURTHER
+NOTICE BY M/V LAYLA IN AREA BOUND BY
+36-50.00S 171-03.00E, 36-54.00S 173-00.00E,
+36-50.00S 173-44.00E, 36-57.00S 173-44.00E,
+37-05.00S 173-00.00E, 36-58.00S 171-03.00E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>150412Z DEC 25
@@ -136,21 +151,6 @@ DNC 04.
    IN 21-28.50S 113-49.50E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3188/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>131741Z DEC 25
-HYDROPAC 3314/25(71).
-EASTERN INDIAN OCEAN.
-INDONESIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   150300Z TO 150900Z DEC IN AREA BOUND BY
-   02-54.00S 090-48.00E, 02-48.00S 090-17.00E,
-   00-44.00N 090-57.00E, 00-38.00N 091-29.00E.
-2. CANCEL THIS MSG 151000Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -487,19 +487,6 @@ DNC 03.
        07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
        07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
 2. CANCEL THIS MSG 170800Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>120608Z DEC 25
-HYDROPAC 3293/25(74).
-TIMOR SEA.
-DNC 04.
-1. DERELICT PARTIALLY SUBMERGED VESSEL ADRIFT
-   IN 11-51.70S 125-18.77E AT 120307Z DEC.
-2. CANCEL HYDROPAC 3277/25.
-3. CANCEL THIS MSG 150607Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
