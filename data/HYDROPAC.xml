@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SHOAL</category>
+        <status>INFORCE</status>
+        <msgText>150412Z DEC 25
+HYDROPAC 3329/25(76).
+TASMAN SEA.
+NEW ZEALAND.
+DNC 06.
+SHOALS REPORTED: 
+A. 7.7 METERS IN 46-36.60S 168-22.72E.
+B. 5.2 METERS IN 46-36.84S 168-22.09E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>150215Z DEC 25
+HYDROPAC 3328/25(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+1. DERELICT SEVEN METER S/V WILD CHILD,
+   BLUE HULL AND LIFERAFT ADRIFT IN VICINITY
+   38-16.60S 149-02.40E AT 140952Z DEC.
+2. CANCEL THIS MSG 180001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>150208Z DEC 25
+HYDROPAC 3327/25(74).
+TORRES STRAIT.
+AUSTRALIA.
+DNC 05.
+1. 15 METER LOG REPORTED ADRIFT
+   IN 10-23.29S 142-39.67E AT 142330Z DEC.
+2. CANCEL THIS MSG 180208Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>150126Z DEC 25
+HYDROPAC 3326/25(71).
+SOUTH CHINA SEA.
+INDONESIA.
+DNC 03.
+1. VESSEL BOARDED BY FOUR ARMED PIRATES
+   IN 01-04.28N 103-40.65E AT 141910Z DEC.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 180126Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>142354Z DEC 25
@@ -449,18 +500,6 @@ DNC 04.
    IN 11-51.70S 125-18.77E AT 120307Z DEC.
 2. CANCEL HYDROPAC 3277/25.
 3. CANCEL THIS MSG 150607Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FISHING NET</category>
-        <status>INFORCE</status>
-        <msgText>120503Z DEC 25
-HYDROPAC 3292/25(74).
-TIMOR SEA.
-DNC 04.
-1. FLOATING FISH HAVEN WITH ROPE ADRIFT 
-   IN 11-43.87S 125-44.45E AT 120253Z DEC.
-2. CANCEL THIS MSG 150502Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -968,24 +1007,6 @@ DNC 07.
 1. MAGALLANES RADIO 53-09.92S 070-54.28W 
    OFF AIR.
 2. CANCEL HYDROPAC 2623/25 AND 3114/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>292030Z NOV 25
-HYDROPAC 3157/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V NT 90329 TS SANK IN 11-47.56N 109-11.35E
-   AT 272230Z NOV.  TWO PERSONS RESCUED,
-   ONE PERSON REMAINS MISSING.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 3135/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
