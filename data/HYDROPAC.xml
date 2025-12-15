@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>142354Z DEC 25
+HYDROPAC 3324/25(76,83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2345Z TO 0800Z DAILY 19 THRU 30 DEC
+   IN AREAS BOUND BY:
+   A. 39-48.00S 176-00.00W, 40-48.00S 171-00.00W,
+      42-00.00S 171-24.00W, 40-54.00S 176-42.00W.
+   B. 41-36.00S 161-24.00W, 41-42.00S 155-48.00W,
+      42-36.00S 155-54.00W, 42-30.00S 161-30.00W.
+2. CANCEL THIS MSG 310900Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>142347Z DEC 25
+HYDROPAC 3323/25(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   2345Z TO 0800Z DAILY 19 THRU 30 DEC
+   IN AREA BOUND BY
+   39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
+   39-15.00S 178-18.00E, 39-24.00S 178-42.00E,
+   39-30.00S 178-36.00E, 39-30.00S 178-12.00E,
+   39-24.00S 177-42.00E.
+2. CANCEL THIS MSG 310900Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140650Z DEC 25
@@ -696,25 +729,6 @@ DNC 03.
    23-23.61N 068-06.02E.
    100 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>050635Z DEC 25
-HYDROPAC 3246/25(22,83).
-SOUTH PACIFIC.
-CHILE.
-DNC 06, DNC 07.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   130721Z TO 131159Z, 140707Z TO 141145Z,
-   150653Z TO 151131Z, 160639Z TO 161117Z, 
-   170625Z TO 171103Z, 180611Z TO 181049Z 
-   AND 190558Z TO 191036Z DEC
-   IN AREA BOUND BY
-   59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
-   27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
-2. CANCEL THIS MSG 191136Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

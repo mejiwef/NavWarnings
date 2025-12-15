@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>141956Z DEC 25
+HYDROLANT 2137/25(51).
+NORTH ATLANTIC.
+STRAIT OF GIBRALTAR.
+MOROCCO.
+DNC 08.
+1. DERELICT 86 METER BARGE ADRIFT
+   IN VICINITY 35-58.00N 005-26.00W.
+2. CANCEL THIS MSG 171956Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>141428Z DEC 25
@@ -530,42 +543,6 @@ DNC 01.
    24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
    24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
 2. CANCEL THIS MSG 200100Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>060113Z DEC 25
-HYDROLANT 2074/25(24).
-SOUTH ATLANTIC.
-DNC 01, DNC 07.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 14 DEC 
-   BY VESSEL SW EMPRESS TOWING TEN 10372 METER CABLES
-   IN AREA BOUND BY
-   34-38.20S 051-58.20W, 33-08.40S 050-18.20W,
-   34-29.60S 048-21.10W, 35-51.10S 049-43.10W,
-   35-50.50S 050-05.20W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041320Z DEC 25
-HYDROLANT 2057/25(24).
-NORTH ATLANTIC.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 14 DEC 
-   BY M/V RAMFORM ATLAS, M/V THOR FRIGG, 
-   TUG LH LABARO AND TUG DRS RETUMBANTE
-   TOWING 12 10000 METER LONG CABLES
-   IN AREA BOUND BY
-   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
-   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
-   SIX MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1991/25.
-3. CANCEL THIS MSG 150001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
