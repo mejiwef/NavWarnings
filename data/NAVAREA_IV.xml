@@ -237,18 +237,6 @@ PANAMA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>102153Z DEC 25
-NAVAREA IV 1366/25(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 151200Z TO 151500Z DEC
-   IN AREA WITHIN THREE MILES OF 04-56.00N 052-05.00W.
-2. CANCEL THIS MSG 151600Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>102135Z DEC 25
@@ -298,19 +286,6 @@ FLORIDA.
    D. 47-26.00N 050-52.00W, 49-38.00N 043-46.00W,
       48-39.00N 043-08.00W, 46-29.00N 050-10.00W.
 2. CANCEL THIS MSG 211056Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>092012Z DEC 25
-NAVAREA IV 1360/25(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 151200Z TO 151300Z DEC
-   IN 05-01.00N 051-58.00W.
-2. CANCEL NAVAREA IV 1347/25.
-3. CANCEL THIS MSG 151400Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

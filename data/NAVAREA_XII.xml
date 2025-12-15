@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151752Z DEC 25
+NAVAREA XII 822/25(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 171300Z TO 171930Z DEC, 
+   ALTERNATE 181300Z TO 181930Z DEC
+   IN AREA BOUND BY
+   33-37.00N 119-19.00W, 33-16.00N 119-37.00W,
+   32-51.00N 119-39.00W, 32-28.00N 120-08.00W,
+   33-45.00N 121-00.00W, 33-51.00N 120-46.00W,
+   33-45.00N 120-08.00W, 33-45.00N 119-26.00W.
+2. CANCEL NAVAREA XII 817/25.
+3. CANCEL THIS MSG 182030Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140551Z DEC 25
@@ -70,23 +88,6 @@ NAVAREA XII 816/25(GEN).
    NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 794/25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120148Z DEC 25
-NAVAREA XII 815/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1230Z TO 1600Z
-   DAILY 15 THRU 17 DEC IN AREA BOUND BY
-   36-43.00N 125-11.00W, 36-51.00N 125-00.00W,
-   36-53.00N 124-46.00W, 34-53.00N 122-28.00W,
-   34-42.00N 121-56.00W, 30-56.00N 121-10.00W,
-   28-01.00N 123-20.00W, 29-40.00N 126-47.00W,
-   31-26.00N 128-27.00W, 33-14.00N 127-03.00W,
-   34-19.00N 124-16.00W.
-2. CANCEL THIS MSG 171700Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPECIAL OPERATIONS</category>
