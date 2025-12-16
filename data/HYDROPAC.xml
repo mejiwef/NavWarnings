@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100842Z DEC 25
+HYDROPAC 3346/25(81).
+NORTH PACIFIC.
+GUAM.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 201000Z TO 211200Z
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 211300Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>160006Z DEC 25
@@ -182,20 +200,6 @@ DNC 03.
    10-20.00N 075-00.00E, 10-50.00N 075-00.00E,
    10-50.00N 075-35.00E, 10-20.00N 075-35.00E.
 2. CANCEL THIS MSG 191130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>151304Z DEC 25
-HYDROPAC 3332/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-F/V BD 98020 TS, 14 PERSONS ON BOARD,
-DISABLED AND ADRIFT IN 12-51.00N 113-37.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

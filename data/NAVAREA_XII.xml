@@ -164,21 +164,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090018Z DEC 25
-NAVAREA XII 806/25(19).
-NORTH PACIFIC.
-1. CABLE OPERATIONS 090200Z TO 160100Z DEC
-   BY M/V REBECCA ALONG TRACKLINES JOINING:
-   A. 29-29.44N 138-17.56W, 29-20.59N 138-36.30W.
-   B. 29-34.00N 138-09.97W, 29-42.35N 137-55.48W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 791/25.
-3. CANCEL THIS MSG 160200Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>051846Z DEC 25

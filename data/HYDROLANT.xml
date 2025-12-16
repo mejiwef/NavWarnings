@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160152Z DEC 25
+HYDROLANT 2150/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 181000Z TO 192100Z DEC
+   IN AREAS BOUND BY:
+   A. 01-03.00S 044-57.00W, 00-48.00S 044-57.00W,
+      00-48.00S 045-13.00W, 01-03.00S 045-13.00W.
+   B. 00-46.00S 045-28.00W, 01-01.00S 045-28.00W,
+      01-01.00S 045-13.00W, 00-46.00S 045-13.00W.
+2. CANCEL THIS MSG 192200Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>151645Z DEC 25
