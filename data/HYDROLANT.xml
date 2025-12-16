@@ -249,22 +249,6 @@ DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121929Z DEC 25
-HYDROLANT 2121/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-1. HAZARDOUS OPERATIONS 0700Z AND 1800Z 
-   DAILY 15 AND 19 DEC IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.00N 008-26.90W,
-   33-48.60N 008-25.20W, 33-55.20N 008-19.80W,
-   33-59.90N 008-12.20W, 34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 191900Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121644Z DEC 25
