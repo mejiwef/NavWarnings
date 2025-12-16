@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161636Z DEC 25
+HYDROLANT 2154/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-49.00S 039-59.00W.
+   B. A74A, 57-47.00S 023-44.00W.
+   C. A77, 50-03.00S 040-15.00W.
+   D. A76C,  59-39.00S 037-17.00W.
+   E. B15AB, 57-02.00S 043-39.00W.
+   F. 53-18.00S 041-43.00W.
+   G. 53-24.00S 039-29.00W.
+   H. 52-27.00S 041-33.00W.
+   I. 51-25.00S 035-32.00W.
+   J. 52-38.00S 037-15.00W.
+   K. 53-13.00S 040-19.00W.
+   L. 50-53.00S 034-39.00W.
+   M. 51-11.00S 021-49.00W.
+   N. 52-14.00S 041-10.00W.
+   O. 53-53.00S 041-28.00W.
+   P. 50-01.00S 038-38.00W.
+   Q. 50-32.00S 035-33.00W.
+   R. 52-37.00S 039-42.00W.
+   S. 49-41.00S 029-43.00W.
+   T. 52-40.00S 040-19.00W.
+   U. 52-55.00S 040-13.00W.
+   V. 52-57.00S 039-43.00W.
+   W. 52-55.00S 039-46.00W.
+   X. 52-25.00S 040-04.00W.
+   Y. 52-49.00S 041-22.00W.
+   Z. 53-01.00S 039-59.00W.
+   AA. 52-19.00S 040-45.00W.
+   AB. 50-16.00S 038-59.00W.
+   AC. 50-07.00S 038-19.00W.
+   AD. 53-06.00S 039-54.00W.
+   AE. 60-48.00S 045-29.00W.
+   AF. 61-36.00S 047-26.00W.
+   AG. 60-57.00S 050-49.00W.
+2. CANCEL THIS MSG 171641Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161503Z DEC 25
+HYDROLANT 2153/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-04.20S 057-48.00W.
+   B. A84, 71-51.00S 095-24.60W.
+   C. A85, 68-03.60S 054-58.20W.
+   D. D33A, 65-39.00S 057-00.60W.
+   E. D33C, 66-00.60S 058-08.40W.
+2. CANCEL THIS MSG 171502Z DEC 25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160152Z DEC 25
@@ -54,68 +119,6 @@ DNC 01.
     25-10.00N 016-38.00W.
    REPORTS TO COORD.NAVAREA2@SHOM.FR.
 2. CANCEL THIS MSG 181628Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151615Z DEC 25
-HYDROLANT 2145/25(23,29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-48.00S 039-58.00W.
-   B. A74A, 57-12.00S 024-28.00W.
-   C. A77, 50-16.00S 040-24.00W.
-   D. A76C, 59-35.00S 037-20.00W.
-   E. B15AB, 57-09.00S 043-41.00W.
-   F. 53-12.00S 041-46.00W.
-   G. 53-19.00S 039-25.00W.
-   H. 52-29.00S 041-34.00W.
-   I. 51-25.00S 035-30.00W.
-   J. 52-40.00S 037-15.00W.
-   K. 53-13.00S 040-15.00W.
-   L. 50-49.00S 034-39.00W.
-   M. 51-04.00S 022-25.00W.
-   N. 52-18.00S 041-12.00W.
-   O. 53-53.00S 041-40.00W.
-   P. 50-06.00S 038-37.00W.
-   Q. 50-36.00S 035-44.00W.
-   R. 52-37.00S 039-46.00W.
-   S. 49-29.00S 029-55.00W.
-   T. 52-34.00S 040-17.00W.
-   U. 52-55.00S 040-13.00W.
-   V. 52-59.00S 039-51.00W.
-   W. 52-56.00S 039-05.00W.
-   X. 52-23.00S 040-09.00W.
-   Y. 52-53.00S 041-12.00W.
-   Z. 53-00.00S 040-05.00W.
-   AA. 52-24.00S 040-53.00W.
-   AB. 50-15.00S 039-03.00W.
-   AC. 50-18.00S 038-26.00W.
-   AD. 53-06.00S 040-03.00W.
-   AE. 60-48.00S 045-29.00W.
-   AF. 61-36.00S 047-27.00W.
-2. CANCEL THIS MSG 161617Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151547Z DEC 25
-HYDROLANT 2143/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-04.20S 057-48.00W.
-   B. A84, 71-51.00S 095-24.60W.
-   C. A85, 68-02.40S 055-13.20W.
-   D. B29, 73-49.80S 110-31.80W.
-   E. D33A, 65-27.00S 057-00.00W.
-   F. D33C, 66-00.60S 058-11.40W.
-2. CANCEL THIS MSG 161551Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -285,25 +288,6 @@ HYDROLANT 2120/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121225Z DEC 25
-HYDROLANT 2117/25(57).
-GULF OF GUINEA.
-CAMEROON.
-DNC 01.
-1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-   BY CABLESHIP LEON THEVENIN IN AREA BOUND BY
-   03-51.66N 009-27.40E, 03-50.84N 009-26.31E,
-   03-50.08N 009-25.40E, 03-49.66N 009-25.75E,
-   03-50.41N 009-26.65E, 03-50.36N 009-26.95E,
-   03-50.58N 009-27.23E, 03-50.92N 009-27.30E,
-   03-51.29N 009-27.71E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 2069/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120137Z DEC 25
@@ -425,22 +409,6 @@ PIPELINE OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE ALONG TRACKLINE JOINING
 60-06.00N 002-44.00E, 60-02.00N 002-50.00E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>091957Z DEC 25
-HYDROLANT 2093/25(35,36).
-ENGLISH CHANNEL.
-NORTH CHANNEL.
-ENGLAND.
-DNC 20.
-1. NAVTEX STATION PORTPATRICK (O)
-   54-51.00N 005-07.00W OFF AIR.
-2. PORTPATRICK BROADCASTS WILL BE
-   TRANSMITTED FROM NAVTEX STATION
-   CULLERCOATS (G) 55-04.00N 001-28.00W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

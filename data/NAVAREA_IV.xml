@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>161528Z DEC 25
+NAVAREA IV 1384/25(24).
+NORTH ATLANTIC.
+1. DERELICT F/V PARTIALLY SUBMERGED AND
+   ADRIFT IN 14-47.06N 051-46.65W.
+2. CANCEL THIS MSG 191522Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>160211Z DEC 25
@@ -273,32 +284,6 @@ FLORIDA.
       28-29.35N 080-32.49W.
 2. CANCEL NAVAREA IV 1354/25.
 3. CANCEL THIS MSG 211618Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>091857Z DEC 25
-NAVAREA IV 1361/25(GEN).
-NORTH ATLANTIC.
-FLORIDA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   150849Z TO 151020Z DEC, 
-   ALTERNATE 160828Z TO 160958Z,
-   170752Z TO 170953Z, 180731Z TO 180932Z, 
-   190709Z TO 190910Z, 200648Z TO 200849Z, 
-   AND 210627Z TO 210828Z DEC IN AREAS BOUND BY:
-   A. 28-38.98N 080-37.67W, 29-14.00N 080-14.00W,
-      29-28.00N 079-44.00W, 29-22.00N 079-36.00W,
-      28-56.00N 079-48.00W, 28-38.00N 080-10.00W,
-      28-32.00N 080-31.00W, 28-31.99N 080-33.71W.
-   B. 30-01.00N 079-20.00W, 31-00.00N 078-19.00W,
-      30-46.00N 077-59.00W, 29-48.00N 079-04.00W.
-   C. 34-13.00N 074-56.00W, 36-26.00N 072-02.00W,
-      35-48.00N 071-18.00W, 33-36.00N 074-09.00W.
-   D. 47-26.00N 050-52.00W, 49-38.00N 043-46.00W,
-      48-39.00N 043-08.00W, 46-29.00N 050-10.00W.
-2. CANCEL THIS MSG 211056Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
