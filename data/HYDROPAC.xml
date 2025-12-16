@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>160006Z DEC 25
+HYDROPAC 3344/25(81,91).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+SOUTH CHINA SEA.
+PHILIPPINES.
+DNC 12, DNC 23.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   201100Z TO 201700Z DEC IN AREAS BOUND BY:
+   A. 19-36.00N 118-31.00E, 19-33.00N 119-34.00E,
+      19-06.00N 119-33.00E, 19-09.00N 118-30.00E.
+   B. 19-11.00N 124-18.00E, 19-05.00N 125-15.00E,
+      18-39.00N 125-12.00E, 18-44.00N 124-16.00E.
+   C. 15-16.00N 149-10.00E, 14-46.00N 151-20.00E,
+      13-54.00N 151-07.00E, 14-24.00N 148-57.00E.
+2. CANCEL THIS MSG 201800Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151522Z DEC 25
@@ -401,18 +421,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>122122Z DEC 25
-HYDROPAC 3309/25(62).
-ARABIAN SEA.
-DNC 10.
-1. DERELICT F/V SHEKARI ADRIFT
-   IN 20-38.40N 062-41.00E.
-2. CANCEL THIS MSG 152122Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121655Z DEC 25
@@ -803,21 +811,6 @@ DNC 06, DNC 07.
    59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
    27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
 2. CANCEL THIS MSG 222126Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110238Z DEC 25
-HYDROPAC 3275/25(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 151500Z TO 152100Z DEC
-   IN AREA BOUND BY
-   35-50.00S 073-04.00W, 35-50.00S 073-28.00W,
-   36-10.00S 073-28.00W, 36-10.00S 073-04.00W.
-2. CANCEL THIS MSG 152200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -2014,23 +2007,6 @@ JAPAN.
 DNC 12.
 VOLCANIC ACTIVITY REPORTED AT IO-TO
 IN VICINTY OF 24-45.00N 141-17.3E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011605Z SEP 25
-HYDROPAC 2234/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1.  PIPELINE OPERATIONS IN PROGRESS UNTIL 15 DEC
-    BY MULTIPLE VESSELS IN AREA BOUND BY
-    26-22.70N 051-33.50E, 26-27.30N 052-27.80E,
-    25-46.90N 052-27.30E, 25-46.30N 051-42.90E,
-    25-57.70N 051-24.40E.
-    TWO MILE BERTH REQUESTED.
-2.  CANCEL THIS MSG 160001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

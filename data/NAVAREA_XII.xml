@@ -51,20 +51,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 190130Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121843Z DEC 25
-NAVAREA XII 817/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 171300Z TO 171930Z,
-   ALTERNATE 181300Z TO 181930Z DEC 25
-   IN AREA BOUND BY
-   33-19.00N 119-46.00W, 33-43.00N 119-12.00W,
-   33-49.00N 119-22.00W, 33-26.00N 119-55.00W.
-2. CANCEL THIS MSG 182030Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121724Z DEC 25

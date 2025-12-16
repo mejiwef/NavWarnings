@@ -233,36 +233,6 @@ DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>122322Z DEC 25
-HYDROLANT 2123/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. DERELICT VESSEL, ORANGE RESCUE BOAT, ADRIFT 
-   IN 21-56.31S 039-47.11W AT 120800Z DEC. REPORTS TO 
-   CAPITANIA DOS PORTOS DE MACAE BY 
-   PHONE: 5522 2772 1889, EMAIL: CPM.SEGMAR@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 152322Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>122316Z DEC 25
-HYDROLANT 2122/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 151800Z TO 152100Z
-   IN AREA BOUND BY
-   23-20.00S 042-12.50W, 23-20.00S 042-45.10W,
-   23-45.00S 042-45.10W, 23-45.00S 042-12.50W.
-2. CANCEL THIS MSG 152200Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121929Z DEC 25
