@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>171640Z DEC 25
+HYDROPAC 3375/25(63).
+GULF OF MANNAR.
+INDIA.
+DNC 03.
+1. DERELICT VESSEL PARTIALLY SUBMERGED AND ADRIFT 
+   IN VICINITY 08-06.00N 078-39.00E AT 171230Z DEC.
+2. CANCEL THIS MSG 201646Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171443Z DEC 25
+HYDROPAC 3374/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 181500Z THRU 200300Z DEC
+   IN AREA BOUND BY
+   23-47.00N 064-00.00E, 23-05.00N 064-00.00E,
+   23-05.00N 064-50.00E, 23-47.00N 064-50.00E
+2. CANCEL THIS MSG 200400Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>171200Z DEC 25
+HYDROPAC 3370/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V PY 96185 TS, FIVE PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
+   IN 11-14.00N 109-29.00E AT 170930Z DEC.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 3364/25.
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>171038Z DEC 25
@@ -83,23 +130,6 @@ DNC 12.
    A. 12.00 MILES OF 13-26.60N 145-07.60E.
    B. 12.00 MILES OF 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 231400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>170148Z DEC 25
-HYDROPAC 3364/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-F/V PY 96185 TS, FIVE PERSONS ON BOARD,
-DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
-IN 11-46.00N 109-36.00E AT 170015Z DEC.
-VESSELS IN VICINITY REQUESTED TO KEEP
-A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SAR</category>
@@ -581,30 +611,6 @@ IN AREA BOUND BY
 500 METER BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>140003Z DEC 25
-HYDROPAC 3317/25(81,97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 12.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
-   A. 17212Z TO 170325Z DEC, ALTERNATE 0144Z TO 0328Z 
-      DAILY 18 THRU 24 DEC IN AREAS BOUND BY
-      29-23.87N 144-19.18E, 29-30.94N 144-07.20E,
-      30-05.96N 140-15.58E, 29-57.64N 139-47.08E,
-      29-11.23N 139-39.95E, 29-03.05N 139-52.20E,
-      28-29.12N 143-41.98E, 28-35.87N 144-11.68E.
-   B. 17216Z TO 170332Z DEC, ALTERNATE 0144Z TO 0328Z 
-      DAILY 18 THRU 24 DEC IN AREAS BOUND BY
-      26-42.00N 161-26.00E, 24-47.00N 160-46.00E,
-      22-22.00N 167-40.00E, 24-16.00N 168-20.00E.
-2. CANCEL HYDROPAC 3315/25.
-3. CANCEL THIS MSG 240428Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131916Z DEC 25
@@ -650,29 +656,6 @@ DNC 12.
    13-45.00N 144-19.98E, 13-45.00N 144-36.00E,
    13-30.00N 144-36.00E, 13-30.00N 144-19.98E.
 2. CANCEL THIS MSG 180400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>122231Z DEC 25
-HYDROPAC 3311/25(74).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-STAGG PATCHES BUOY 17-01.35S 146-07.86E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>122224Z DEC 25
-HYDROPAC 3310/25(74).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-RACON (O) AT STAGG PATCHES BUOY 17-01.35S 146-07.86E
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -934,22 +917,6 @@ DNC 03.
    19-05.49N 072-52.09E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111229Z DEC 25
-HYDROPAC 3283/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY 
-   16 AND 17 DEC IN AREA BOUND BY
-   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
-   21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
-   21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
-2. CANCEL THIS MSG 171230Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
