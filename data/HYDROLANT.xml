@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170045Z DEC 25
+HYDROLANT 2157/25(24).
+NORTH ATLANTIC.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 29 DEC
+   BY M/V RAMFORM ATLAS, M/V THOR FRIGG,
+   TUG LH LABARO AND TUG DRS RETUMBANTE
+   TOWING 12 10000 METER LONG CABLES
+   IN AREA BOUND BY
+   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
+   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
+   SIX MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 300001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170039Z DEC 25
+HYDROLANT 2156/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   260300Z DEC BY M/V SKANDI CARLA
+   IN 22-38.32S 040-05.63W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260400Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>161636Z DEC 25
@@ -202,21 +233,6 @@ DNC 01.
    B. 20-18.43S 040-08.03W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 021800Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>140037Z DEC 25
-HYDROLANT 2132/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. M/V MARCOS DIAS AGROUND IN 04-49.51S 037-01.70W.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO ANY 
-   COASTAL RADIO STATION.
-2. CANCEL THIS MSG 170037Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
