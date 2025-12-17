@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>171038Z DEC 25
+HYDROPAC 3369/25(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. F/V BD 98020 TS, 14 PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
+   IN 13-00.00N 112-00.00E AT 170800Z DEC.
+   VESSELS IN VICINITY REQUESTED TO KEEP
+   A SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC HYDROPAC 3363/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>171014Z DEC 25
+HYDROPAC 3368/25(GEN).
+BAY OF BENGAL.
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0430Z TO 0830Z DAILY 22 THRU 24 DEC
+   IN AREAS BOUND BY:
+   A. 05-12.05S 088-16.53E, 11-20.90S 090-21.43E,
+      08-31.63S 097-13.73E, 02-46.15S 095-00.40E.
+   B. 17-21.70N 083-21.77E, 14-46.67N 082-52.23E,
+      02-18.38N 086-30.75E, 03-52.41N 090-58.65E,
+      15-50.35N 085-52.92E, 17-37.75N 083-37.32E.
+2. CANCEL THIS MSG 240930Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>170901Z DEC 25
+HYDROPAC 3367/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 23.
+F/V QB 98048 TS, EIGHT PERSONS ON BOARD,
+DISABLED AND ADRIFT IN VICINITY 
+16-32.00N 108-57.00E AT 170654Z DEC.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170456Z DEC 25
@@ -47,22 +100,6 @@ A SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>170106Z DEC 25
-HYDROPAC 3363/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V BD 98020 TS, 14 PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
-   IN 13-02.00N 112-53.00E AT 162300Z DEC.
-   VESSELS IN VICINITY REQUESTED TO KEEP
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 3351/25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SAR</category>
@@ -755,21 +792,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121412Z DEC 25
-HYDROPAC 3302/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 
-   15 THRU 17 DEC IN AREA BOUND BY
-   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
-   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
-2. CANCEL THIS MSG 171130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>121403Z DEC 25
@@ -835,26 +857,6 @@ DNC 03.
    21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
    21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
 2. CANCEL THIS MSG 181730Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121106Z DEC 25
-HYDROPAC 3294/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   170530Z TO 170700Z DEC IN AREAS BOUND BY:
-   A. 08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-       08-32.20N 076-47.00E, 08-29.87N 076-47.47E,
-       08-28.02N 076-48.98E, 08-27.07N 076-51.17E.
-   B. 08-09.47N 076-12.70E, 08-24.13N 076-07.28E,
-       08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-       07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-       07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
-2. CANCEL THIS MSG 170800Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
