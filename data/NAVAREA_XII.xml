@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>161759Z DEC 25
+NAVAREA XII 824/25(19).
+NORTH PACIFIC.
+HAWAII.
+1. USCG REMOTE COMMUNICATION FACILITY
+   HONOLULU 21-22.00N 158-09.00W TRANSMIT
+   SERVICES OFF AIR 171830Z TO 180001Z DEC
+2. CANCEL THIS MSG 180101Z DEC 25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151752Z DEC 25
