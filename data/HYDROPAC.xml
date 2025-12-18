@@ -524,19 +524,6 @@ A. 7.7 METERS IN 46-36.60S 168-22.72E.
 B. 5.2 METERS IN 46-36.84S 168-22.09E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>150215Z DEC 25
-HYDROPAC 3328/25(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-1. DERELICT SEVEN METER S/V WILD CHILD,
-   BLUE HULL AND LIFERAFT ADRIFT IN VICINITY
-   38-16.60S 149-02.40E AT 140952Z DEC.
-2. CANCEL THIS MSG 180001Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>150208Z DEC 25
@@ -948,24 +935,6 @@ DNC 12.
    A. 15.00 MILES OF 13-27.00N 145-08.00E.
    B. 15.00 MILES OF 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 181400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>081939Z DEC 25
-HYDROPAC 3278/25(22,83).
-SOUTH PACIFIC.
-DNC 06, DNC 07.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   161711Z TO 162149Z, 171657Z TO 172135Z,
-   181643Z TO 182121Z, 191629Z TO 192107Z,
-   201615Z TO 202053Z, 211602Z TO 212040Z
-   AND 221548Z TO 222026Z DEC 
-   IN AREA BOUND BY
-   59-58.00S 099-05.00W, 59-09.00S 095-34.00W,
-   27-09.00S 120-43.00W, 27-59.00S 122-44.00W.
-2. CANCEL THIS MSG 222126Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
