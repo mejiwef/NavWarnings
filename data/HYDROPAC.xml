@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181104Z DEC 25
+HYDROPAC 3383/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 230330Z TO 230730Z,
+   240330Z TO 240530Z, AND 240830Z TO 241030Z DEC
+   IN AREA BOUND BY
+   20-48.36N 087-02.58E, 20-35.73N 086-55.12E,
+   16-23.28N 085-52.66E, 16-39.03N 089-04.03E,
+   20-37.55N 087-17.08E, 20-48.76N 087-07.40E.
+2. CANCEL THIS MSG 241130Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181039Z DEC 25
+HYDROPAC 3382/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V ANDREAS VIKING IN
+38-47.63S 142-37.77E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SAR OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181021Z DEC 25
+HYDROPAC 3381/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V BTH 84732 TS, 11 PERSONS ON BOARD, SANK.
+ONE PERSON REMAINS MISSING. SEARCH AND
+RESCUE OPERATIONS IN PROGRESS IN VICINITY
+10-59.83N 108-33.51E AT 180500Z DEC.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181012Z DEC 25
+HYDROPAC 3380/25(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0115Z TO 0215Z AND
+   0830Z TO 0930Z DAILY 23 AND 24 DEC
+   IN AREA BOUND BY
+   11-15.00N 092-30.00E, 11-20.00N 092-55.00E,
+   11-05.00N 092-55.00E, 11-00.00N 092-30.00E.
+2. CANCEL THIS MSG 241030Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>180030Z DEC 25
@@ -80,23 +141,6 @@ DNC 03.
       02-18.38N 086-30.75E, 03-52.41N 090-58.65E,
       15-50.35N 085-52.92E, 17-37.75N 083-37.32E.
 2. CANCEL THIS MSG 240930Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>170901Z DEC 25
-HYDROPAC 3367/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 23.
-F/V QB 98048 TS, EIGHT PERSONS ON BOARD,
-DISABLED AND ADRIFT IN VICINITY 
-16-32.00N 108-57.00E AT 170654Z DEC.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -363,39 +407,6 @@ DNC 12, DNC 23.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>151522Z DEC 25
-HYDROPAC 3343/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 180330Z TO 180630Z DEC
-   IN AREA BOUND BY
-   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
-   21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
-   21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
-2. CANCEL HYDROPAC 3295/25.
-3. CANCEL THIS MSG 180730Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151513Z DEC 25
-HYDROPAC 3342/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 180030Z TO 181030Z DEC
-   IN AREA BOUND BY
-   17-58.90N 084-11.70E, 17-49.50N 083-59.60E,
-   17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
-2. CANCEL THIS MSG 181130Z DEC 25.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>151451Z DEC 25
 HYDROPAC 3341/25(63).
 BAY OF BENGAL.
@@ -461,23 +472,6 @@ DNC 03.
    11-40.23N 092-45.75E, 11-37.33N 092-47.93E,
    11-40.30N 092-50.00E, 11-40.77N 092-45.97E.
 2. CANCEL THIS MSG 191530Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151331Z DEC 25
-HYDROPAC 3334/25(63).
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 180430Z TO 180730Z
-   IN AREA BOUND BY
-   22-35.12N 069-16.12E, 22-40.00N 069-09.11E,
-   22-42.11N 068-55.34E, 22-28.75N 068-51.12E,
-   22-28.30N 069-17.10E.
-2. CANCEL THIS MSG 180830Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1168,21 +1162,6 @@ DNC 03.
    17-24.00N 072-12.00E, 17-24.00N 071-53.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 310001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011205Z DEC 25
-HYDROPAC 3171/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0830Z TO 1030Z 
-   04, 11 AND 18 DEC IN AREA BOUND BY
-   13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
-   12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
-2. CANCEL THIS MSG 181130Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

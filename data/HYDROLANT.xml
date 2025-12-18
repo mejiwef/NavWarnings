@@ -214,20 +214,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>151113Z DEC 25
-HYDROLANT 2142/25(51).
-NORTH ATLANTIC.
-DNC 01.
-1. DERELICT SIX METER VESSEL, WHITE HULL, 
-   CAPSIZED AND ADRIFT IN VICINITY
-   25-14.50N 016-34.60W AT 150825Z DEC.
-   REPORTS TO COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 181113Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>150810Z DEC 25
