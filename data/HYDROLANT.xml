@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>180316Z DEC 25
+HYDROLANT 2165/25(52,53).
+EASTERN MEDITERRANEAN SEA.
+DNC 08, DNC 09.
+NAVTEX STATIONS UNRELIABLE:
+A. MALTA (O) 35-51.30N 014-29.30E.
+B. TUNISIA (T) 36-48.08N 011-02.29E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>180212Z DEC 25
+HYDROLANT 2164/25(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+FOG SIGNAL AT NAB LIGHT 50-40.10N 000-57.20W
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>180100Z DEC 25
+HYDROLANT 2162/25(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+A. DEPTHS LESS THAN CHARTED IN AREA BOUND BY
+   01-00.72N 049-40.52W, 01-04.66N 049-38.49W,
+   01-05.00N 049-39.28W, 01-00.97N 049-41.30W.
+B. SIX METER DEPTH REPORTED IN 01-01.04N 049-40.47W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180051Z DEC 25
+HYDROLANT 2161/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01, DNC 07.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 23 DEC
+   BY M/V LINDE G AND M/V THOR FREYJA
+   TOWING 12 11500 METER LONG CABLES
+   IN AREA BOUND BY
+   35-44.87S 050-08.40W, 34-38.48S 051-57.67W,
+   34-37.45S 051-59.33W, 34-17.50S 051-37.54W,
+   34-11.12S 051-36.78W, 33-39.62S 051-03.56W,
+   33-36.66S 050-50.74W, 33-21.16S 050-33.95W,
+   33-06.57S 050-28.96W, 32-20.55S 050-13.69W,
+   31-31.38S 049-50.22W, 31-17.96S 049-36.59W,
+   30-58.95S 049-17.44W, 30-54.78S 049-13.44W,
+   32-30.79S 046-56.58W, 33-16.66S 047-35.41W,
+   34-35.98S 048-55.78W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>171808Z DEC 25
@@ -725,19 +785,6 @@ WESTERN SAHARA.
 DNC 01.
 ARCIPRES GRANDE LIGHT 23-43.59N 015-57.25W 
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>050100Z NOV 25
-HYDROLANT 1853/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. TAMANDARE LIGHT 08-45.57S 035-06.08W UNLIT
-   UNTIL 03 MAY 26.
-2. CANCEL THIS MSG 040001Z MAY 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

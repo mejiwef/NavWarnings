@@ -712,17 +712,6 @@ UNTIL FURTHER NOTICE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>270312Z OCT 25
-NAVAREA IV 1151/25(24).
-CARIBBEAN SEA.
-COLOMBIA.
-CABO DE LA VELA LIGHT 12-12.58N 072-10.75W
-UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>222009Z OCT 25
