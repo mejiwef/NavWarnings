@@ -3,6 +3,58 @@
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>191036Z DEC 25
+HYDROPAC 3392/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. CABLE OPERATIONS 20 THRU 26 DEC
+   BY CABLESHIP ATHBA IN AREAS BOUND BY:
+   A. 19-07.30N 072-47.78E, 19-06.38N 072-48.40E,
+      18-58.31N 072-34.50E, 18-59.27N 072-34.11E.
+   B. 18-56.86N 072-29.93E, 18-56.22N 072-30.75E,
+      18-51.17N 072-15.66E, 18-52.27N 072-15.45E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 270001Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191030Z DEC 25
+HYDROPAC 3391/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 23 THRU 31 DEC
+   BY M/V ACOMS 11 IN AREAS BOUND BY:
+   A. 19-37.04N 071-57.40E, 19-01.43N 072-24.97E,
+      18-27.85N 072-32.57E, 18-25.10N 072-07.27E,
+      18-54.86N 071-47.67E, 19-22.05N 071-46.95E.
+   B. 20-35.61N 071-59.55E, 20-43.45N 072-01.14E,
+      21-08.80N 072-24.79E, 21-04.32N 072-30.68E,
+      20-36.57N 072-08.05E.
+   150 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191025Z DEC 25
+HYDROPAC 3390/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 230830Z TO 231100Z
+   AND 240300Z TO 240600Z DEC
+   IN AREA BOUND BY
+   17-57.80N 084-29.10E, 17-57.80N 085-00.90E,
+   17-29.00N 084-50.00E, 17-29.00N 084-18.10E.
+2. CANCEL THIS MSG 240700Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>190305Z DEC 25
 HYDROPAC 3387/25(73).
 SOLOMON SEA.
@@ -462,21 +514,6 @@ DNC 03.
 2. CANCEL THIS MSG 191530Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151320Z DEC 25
-HYDROPAC 3333/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 1030Z 
-   DAILY 18 AND 19 DEC IN AREA BOUND BY
-   10-20.00N 075-00.00E, 10-50.00N 075-00.00E,
-   10-50.00N 075-35.00E, 10-20.00N 075-35.00E.
-2. CANCEL THIS MSG 191130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150841Z DEC 25
@@ -715,19 +752,6 @@ DNC 02.
    21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
 2. CANCEL HYDROPAC 3298/25.
 3. CANCEL THIS MSG 171600Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>121322Z DEC 25
-HYDROPAC 3300/25(97).
-NORTH PACIFIC.
-DNC 12.
-1. GUNNERY EXERCISES 162300Z TO 170800Z DEC,
-   ALTERNATE 2300Z TO 0800Z DAILY 17 AND 18 DEC
-   IN AREA WITHIN 25 MILES OF 31-14.14N 144-26.48E.
-2. CANCEL THIS MSG 190900Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1280,20 +1304,6 @@ DNC 03.
    09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
    09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
 2. CANCEL THIS MSG 291300Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270131Z NOV 25
-HYDROPAC 3111/25(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-BY CABLESHIP ILE DYEU
-IN AREA WITHIN 20 MILES OF 36-49.36S 135-18.70E.
-THREE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
