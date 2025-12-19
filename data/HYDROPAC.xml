@@ -756,26 +756,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120028Z DEC 25
-HYDROPAC 3291/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 141400Z TO 141600Z,
-   142200Z TO 151600Z, 152200Z TO 161730Z,
-   162200Z TO 171600Z AND 181100Z TO 181730Z
-   IN AREA BOUND BY
-   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
-   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 181830Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111348Z DEC 25
@@ -996,21 +976,6 @@ BAY OF BENGAL.
 INDIA.
 DNC 03.
 PUDIMADAKA LIGHT 17-29.27N 083-00.22E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>031225Z DEC 25
-HYDROPAC 3200/25(91).
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES 08 THRU 18 DEC
-   IN AREA BOUND BY
-   14-42.63N 120-41.55E, 14-41.53N 120-36.54E,
-   14-36.73N 120-38.08E, 14-37.87N 120-43.16E.
-2. CANCEL THIS MSG 190001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
