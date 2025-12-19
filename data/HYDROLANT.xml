@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>190130Z DEC 25
+HYDROLANT 2172/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. DERELICT LIFERAFT ADRIFT IN VICINITY
+   22-26.38S 040-25.51W AT 181832Z DEC.
+2. CANCEL THIS MSG 220130Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>190102Z DEC 25
+HYDROLANT 2171/25(51).
+NORTH ATLANTIC.
+SENEGAL.
+DNC 01.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   13-08.00N 017-26.00W AT 190015Z DEC .
+2. CANCEL THIS MSG 220102Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>182305Z DEC 25

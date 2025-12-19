@@ -31,23 +31,6 @@ BY CABLESHIP ANIEK ALONG TRACKLINE JOINING
 TWO MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121834Z DEC 25
-NAVAREA XII 818/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 171830Z TO 180030Z,
-   ALTERNATE 181830Z TO 190030Z DEC 25
-   IN AREA BOUND BY
-   33-11.00N 119-15.00W, 33-23.00N 119-11.00W,
-   33-36.00N 119-34.00W, 33-35.00N 119-45.00W,
-   33-27.00N 119-56.00W, 33-19.00N 119-51.00W,
-   33-08.00N 120-00.00W, 33-03.00N 119-58.00W.
-2. CANCEL THIS MSG 190130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>121724Z DEC 25
