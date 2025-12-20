@@ -3,6 +3,23 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>191916Z DEC 25
+HYDROPAC 3400/25(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 200500Z TO 201300Z DEC
+   IN AREAS BOUND BY:
+   A. 24-19.00N 066-58.00E, 24-00.00N 066-39.00E,
+      24-11.00N 066-27.00E, 24-24.30N 066-42.00E.
+   B. 24-16.18N 066-20.50E, 24-22.00N 066-27.00E,
+      24-16.30N 066-33.00E, 24-10.30N 066-27.00E.
+2. CANCEL THIS MSG 201400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>191722Z DEC 25
 HYDROPAC 3399/25(63).
 BAY OF BENGAL.
@@ -404,20 +421,6 @@ DNC 07.
    12-50.00S 078-40.00W, 12-50.00S 077-40.00W,
    13-50.00S 077-40.00W, 13-50.00S 078-40.00W.
 2. CANCEL THIS MSG 240600Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>161931Z DEC 25
-HYDROPAC 3360/25(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-1. VESSEL BOARDED BY THREE PIRATES
-   IN 01-03.19N 103-37.23E AT 161710Z DEC.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 191931Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

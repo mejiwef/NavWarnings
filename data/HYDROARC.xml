@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>191836Z DEC 25
+HYDROARC 230/25(42,43).
+BARENTS SEA.
+SVALBARD.
+DNC 22.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   1400Z TO 1500Z DAILY 23 THRU 28 DEC
+   IN AREA BOUND BY
+   76-22.00N 021-55.00E, 75-24.00N 024-43.00E,
+   74-51.00N 021-45.00E, 75-50.00N 018-50.00E.
+2. CANCEL THIS MSG 281600Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>191500Z DEC 25.

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>192058Z DEC 25
+HYDROLANT 2180/25(24).
+NORTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   161500Z TO 300259Z DEC IN AREAS BOUND BY:
+   A. 00-10.11N 042-24.61W, 00-35.10N 041-44.43W,
+      00-00.32N 041-09.50W, 00-38.65N 041-41.95W.
+   B. 04-48.60N 037-10.80W, 06-48.00N 034-46.66W,
+      06-48.00N 033-19.80W, 03-58.20N 036-21.60W.
+2. CANCEL THIS MSG 300359Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191634Z DEC 25
@@ -302,22 +318,6 @@ DNC 01.
 2. CANCEL THIS MSG 260400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160152Z DEC 25
-HYDROLANT 2150/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 181000Z TO 192100Z DEC
-   IN AREAS BOUND BY:
-   A. 01-03.00S 044-57.00W, 00-48.00S 044-57.00W,
-      00-48.00S 045-13.00W, 01-03.00S 045-13.00W.
-   B. 00-46.00S 045-28.00W, 01-01.00S 045-28.00W,
-      01-01.00S 045-13.00W, 00-46.00S 045-13.00W.
-2. CANCEL THIS MSG 192200Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>151645Z DEC 25
@@ -383,22 +383,6 @@ DNC 01.
    B. 20-18.43S 040-08.03W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 021800Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131342Z DEC 25
-HYDROLANT 2126/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 07.
-1. HAZARDOUS OPERATIONS 181100Z TO 192100Z DEC
-   IN AREA BOUND BY
-   32-22.40S 052-12.40W, 32-30.40S 052-14.10W,
-   32-32.20S 052-06.20W, 32-24.20S 052-04.30W.
-2. CANCEL THIS MSG 192200Z DEC 25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
