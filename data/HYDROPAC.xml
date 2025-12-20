@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200136Z DEC 25
+HYDROPAC 3401/25(74).
+TIMOR SEA.
+INDONESIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V SKANDI HERCULES IN 10-36.90S 125-59.10E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191916Z DEC 25
@@ -308,20 +320,6 @@ DNC 03.
    IN VICINITY 08-06.00N 078-39.00E AT 171230Z DEC.
 2. CANCEL THIS MSG 201646Z DEC 25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171443Z DEC 25
-HYDROPAC 3374/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 181500Z THRU 200300Z DEC
-   IN AREA BOUND BY
-   23-47.00N 064-00.00E, 23-05.00N 064-00.00E,
-   23-05.00N 064-50.00E, 23-47.00N 064-50.00E
-2. CANCEL THIS MSG 200400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>

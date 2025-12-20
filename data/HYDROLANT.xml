@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
+        <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
-        <msgText>192058Z DEC 25
-HYDROLANT 2180/25(24).
+        <msgText>200112Z DEC 25
+HYDROLANT 2182/25(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. LIFEBOAT REPORTED ADRIFT IN
+   50-23.00N 002-43.00W AT 191535Z DEC.
+2. CANCEL HYDROLANT 2169/25.
+3. CANCEL THIS MSG 230112Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200040Z DEC 25
+HYDROLANT 2181/25(24).
 NORTH ATLANTIC.
 DNC 01.
 1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
@@ -13,7 +27,8 @@ DNC 01.
       00-00.32N 041-09.50W, 00-38.65N 041-41.95W.
    B. 04-48.60N 037-10.80W, 06-48.00N 034-46.66W,
       06-48.00N 033-19.80W, 03-58.20N 036-21.60W.
-2. CANCEL THIS MSG 300359Z DEC 25.
+2. CANCEL HYDROLANT 2180/25.
+3. CANCEL THIS MSG 300359Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -183,18 +198,6 @@ ENGLAND.
 DNC 20.
 EAST GOODWIN LIGHT 51-13.30N 001-36.40E,
 UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>182251Z DEC 25
-HYDROLANT 2169/25(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. LIFEBOAT REPORTED ADRIFT IN
-   49-58.00N 003-05.00W AT 181615Z DEC.
-2. CANCEL THIS MSG 212251Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
@@ -585,21 +588,6 @@ DNC 01.
    AG. 50-20.00S 039-51.00W.
    AH. 52-47.00S 038-53.00W.
 2. CANCEL THIS MSG 071731Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061305Z DEC 25
-HYDROLANT 2075/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 09 THRU 19 DEC
-   IN AREA BOUND BY
-   24-07.75S 043-36.05W, 23-55.50S 043-12.82W,
-   24-16.69S 042-59.18W, 24-28.97S 043-22.46W.
-2. CANCEL THIS MSG 200100Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
