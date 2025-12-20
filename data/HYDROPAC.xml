@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>200629Z DEC 25
+HYDROPAC 3402/25(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+12 YELLOW LIGHT BUOYS, FL W 3 SEC, 6 METERS IN HEIGHT 
+ESTABLISHED IN AREA WITHIN ONE MILE OF 
+38-47.62S 142-37.77E.
+THREE MILE BERTH REQUESTED. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200136Z DEC 25
