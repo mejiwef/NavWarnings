@@ -1,6 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201729Z DEC 25
+HYDROLANT 2187/25(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 01.
+1. HAZARDOUS OPERATIONS 230001Z TO 240001Z DEC
+   IN AREA BOUND BY
+   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
+   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
+   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
+2. CANCEL THIS MSG 240101Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>201458Z DEC 25
+HYDROLANT 2186/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-57.00S 040-07.00W.
+   B. A74A, 59-00.00S 023-11.00W.
+   C. A77, 49-20.00S 039-36.00W.
+   D. A76C, 59-43.00S 037-17.00W.
+   E. B15AB, 57-16.00S 043-05.00W.
+   F. 53-19.00S 041-26.00W.
+   G. 53-31.00S 039-21.00W.
+   H. 52-10.00S 041-27.00W.
+   I. 51-38.00S 035-21.00W.
+   J. 52-46.00S 037-26.00W.
+   K. 53-05.00S 040-27.00W.
+   L. 50-55.00S 034-43.00W.
+   M. 52-14.00S 040-44.00W.
+   N. 53-51.00S 041-22.00W.
+   O. 50-01.00S 039-12.00W.
+   P. 50-10.00S 034-57.00W.
+   Q. 52-34.00S 039-39.00W.
+   R. 49-56.00S 029-43.00W.
+   S. 53-05.00S 040-23.00W.
+   T. 52-40.00S 040-07.00W.
+   U. 52-52.00S 039-34.00W.
+   V. 52-54.00S 039-48.00W.
+   W. 52-32.00S 039-49.00W.
+   X. 52-28.00S 041-58.00W.
+   Y. 53-01.00S 039-49.00W.
+   Z. 52-15.00S 040-26.00W.
+   AA. 49-54.00S 037-31.00W.
+   AB. 52-54.00S 039-38.00W.
+   AC. 60-48.00S 045-29.00W.
+   AD. 61-37.00S 047-27.00W.
+   AE. 61-02.00S 051-36.00W.
+   AF. 49-44.00S 039-23.00W.
+   AG. 49-38.00S 038-17.00W.
+   AH. 50-01.00S 038-54.00W.
+   AI. 53-05.00S 039-45.00W.
+2. CANCEL THIS MSG 211500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>201451Z DEC 25
+HYDROLANT 2185/25(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-01.20S 058-00.00W.
+   B. A84, 71-49.20S 095-26.40W.
+   C. A85, 68-26.40S 055-41.40W.
+   D. D33A, 65-49.20S 057-28.80W.
+   E. D33C, 66-04.80S 058-21.60W.
+2. CANCEL THIS MSG 211500Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201303Z DEC 25
+HYDROLANT 2183/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL 02 JAN 26 BY M/V DRAKKAR III IN 
+   23-04.00S 043-02.30W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>200112Z DEC 25
@@ -45,69 +142,6 @@ DNC 01.
    23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
    23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 250101Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191611Z DEC 25
-HYDROLANT 2178/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-36.00S 040-06.00W.
-   B. A74A, 58-04.00S 023-30.00W.
-   C. A77, 49-27.00S 040-13.00W.
-   D. A76C, 59-42.00S 037-13.00W.
-   E. B15AB, 57-01.00S 043-04.00W.
-   F. 53-23.00S 041-27.00W.
-   G. 53-30.00S 039-28.00W.
-   H. 52-25.00S 041-34.00W.
-   I. 51-36.00S 035-34.00W.
-   J. 52-42.00S 037-28.00W.
-   K. 53-05.00S 040-29.00W.
-   L. 50-58.00S 034-43.00W.
-   M. 52-12.00S 040-50.00W.
-   N. 53-51.00S 041-21.00W.
-   O. 49-57.00S 039-03.00W.
-   P. 50-13.00S 035-05.00W.
-   Q. 52-35.00S 039-44.00W.
-   R. 49-54.00S 029-43.00W.
-   S. 52-46.00S 040-22.00W.
-   T. 52-55.00S 040-13.00W.
-   U. 52-53.00S 039-36.00W.
-   V. 52-52.00S 039-48.00W.
-   W. 52-29.00S 039-56.00W.
-   X. 52-46.00S 041-30.00W.
-   Y. 52-59.00S 039-49.00W.
-   Z. 52-16.00S 040-28.00W.
-   AA. 49-54.00S 037-52.00W.
-   AB. 52-58.00S 039-40.00W.
-   AC. 61-36.00S 047-26.00W.
-   AD. 61-37.00S 047-28.00W.
-   AE. 61-02.00S 051-21.00W.
-   AF. 49-48.00S 038-27.00W.
-2. CANCEL THIS MSG 201500Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191554Z DEC 25
-HYDROLANT 2177/25(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-04.20S 057-48.00W.
-   B. A84, 71-51.00S 095-24.60W.
-   C. A85, 68-03.60S 054-58.20W.
-   D. D33A, 65-39.00S 057-00.60W.
-   E. D33C, 66-00.60S 058-08.40W.
-2. CANCEL THIS MSG 201500Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -187,17 +221,6 @@ DNC 01.
 1. DERELICT VESSEL ADRIFT IN VICINITY
    13-08.00N 017-26.00W AT 190015Z DEC .
 2. CANCEL THIS MSG 220102Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>182305Z DEC 25
-HYDROLANT 2170/25(37).
-DOVER STRAIT.
-ENGLAND.
-DNC 20.
-EAST GOODWIN LIGHT 51-13.30N 001-36.40E,
-UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>

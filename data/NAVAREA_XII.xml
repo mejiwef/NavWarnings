@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>201639Z DEC 25
+NAVAREA XII 829/25(GEN).
+NORTH PACIFIC.
+HF AND DSC SERVICES UNRELIABLE AT
+USCG REMOTE COMMUNICATION FACILITIES:
+A. PT REYES 37-55.00N 122-24.00W.
+B. HONOLULU 21-22.00N 158-09.00W.
+C. KODIAK 57-46.00N 152-34.00W. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>191500Z DEC 25.

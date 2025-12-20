@@ -29,23 +29,6 @@ WIDE BERTH REQUESTED.</msgText>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>191916Z DEC 25
-HYDROPAC 3400/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 200500Z TO 201300Z DEC
-   IN AREAS BOUND BY:
-   A. 24-19.00N 066-58.00E, 24-00.00N 066-39.00E,
-      24-11.00N 066-27.00E, 24-24.30N 066-42.00E.
-   B. 24-16.18N 066-20.50E, 24-22.00N 066-27.00E,
-      24-16.30N 066-33.00E, 24-10.30N 066-27.00E.
-2. CANCEL THIS MSG 201400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>191722Z DEC 25
 HYDROPAC 3399/25(63).
 BAY OF BENGAL.
@@ -323,36 +306,6 @@ DNC 03.
 2. CANCEL THIS MSG 241030Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>171640Z DEC 25
-HYDROPAC 3375/25(63).
-GULF OF MANNAR.
-INDIA.
-DNC 03.
-1. DERELICT VESSEL PARTIALLY SUBMERGED AND ADRIFT 
-   IN VICINITY 08-06.00N 078-39.00E AT 171230Z DEC.
-2. CANCEL THIS MSG 201646Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>171038Z DEC 25
-HYDROPAC 3369/25(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V BD 98020 TS, 14 PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
-   IN 13-00.00N 112-00.00E AT 170800Z DEC.
-   VESSELS IN VICINITY REQUESTED TO KEEP
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC HYDROPAC 3363/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>171014Z DEC 25
@@ -433,22 +386,6 @@ DNC 07.
    12-50.00S 078-40.00W, 12-50.00S 077-40.00W,
    13-50.00S 077-40.00W, 13-50.00S 078-40.00W.
 2. CANCEL THIS MSG 240600Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161609Z DEC 25
-HYDROPAC 3358/25(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0200Z TO 1400Z DAILY
-   18 THRU 20 DEC IN AREA BOUND BY
-   25-11.00N 066-45.00E, 25-05.68N 066-40.02E,
-   25-07.15N 066-38.55E, 25-10.59N 066-37.27E,
-   25-13.94N 066-37.95E, 25-15.52N 066-39.07E.
-2. CANCEL THIS MSG 201500Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -569,26 +506,6 @@ DNC 12.
    12-49.98N 144-30.00E.
 2. CANCEL THIS MSG 211300Z DEC 25.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>160006Z DEC 25
-HYDROPAC 3344/25(81,91).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 12, DNC 23.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   201100Z TO 201700Z DEC IN AREAS BOUND BY:
-   A. 19-36.00N 118-31.00E, 19-33.00N 119-34.00E,
-      19-06.00N 119-33.00E, 19-09.00N 118-30.00E.
-   B. 19-11.00N 124-18.00E, 19-05.00N 125-15.00E,
-      18-39.00N 125-12.00E, 18-44.00N 124-16.00E.
-   C. 15-16.00N 149-10.00E, 14-46.00N 151-20.00E,
-      13-54.00N 151-07.00E, 14-24.00N 148-57.00E.
-2. CANCEL THIS MSG 201800Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
