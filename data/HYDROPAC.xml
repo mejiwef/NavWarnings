@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>211452Z DEC 25
+HYDROPAC 3412/25(71).
+SINGAPORE STRAIT.
+MALAYSIA.
+DNC 03.
+1. BARGE BOARDED IN 01-18.51N 104-15.07E 
+   AT 210945Z DEC. VESSELS ARE ADVISED TO 
+   KEEP CLEAR OF THIS POSITION AND TO 
+   EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 241451Z DEC 25
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211019Z DEC 25
@@ -528,24 +543,6 @@ DNC 03.
        18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
        WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100842Z DEC 25
-HYDROPAC 3346/25(81).
-NORTH PACIFIC.
-GUAM.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 201000Z TO 211200Z
-   IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 211300Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1305,22 +1302,6 @@ BY CABLESHIP RENE DESCARTES IN AREA BOUND BY
 02-43.00N 101-22.50E, 01-59.40N 102-18.10E,
 01-38.10N 103-02.20E, 01-15.90N 103-25.70E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221311Z NOV 25
-HYDROPAC 3046/25(97).
-NORTH PACIFIC.
-JAPAN.
-DNC 12.
-1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE BY 
-   CABLESHIP KDDI CABLE INFINITY IN AREA BOUND BY
-   27-10.00N 143-10.00E, 27-10.00N 143-50.00E,
-   28-40.00N 143-50.00E, 28-40.00N 143-10.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2988/25(94).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
