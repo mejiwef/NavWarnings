@@ -65,20 +65,6 @@ BY CABLESHIP ANIEK ALONG TRACKLINE JOINING
 TWO MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271710Z NOV 25
-NAVAREA XII 793/25(21).
-NORTH PACIFIC.
-MEXICO.
-1. CABLE OPERATIONS 10 THRU 20 DEC BY CABLESHIP
-   IT INTEGRITY ALONG TRACKLINE JOINING
-   31-56.99N 117-21.33W, 32-16.45N 117-08.53W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 210001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>041357Z DEC 25
