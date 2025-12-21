@@ -127,20 +127,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>200112Z DEC 25
-HYDROLANT 2182/25(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. LIFEBOAT REPORTED ADRIFT IN
-   50-23.00N 002-43.00W AT 191535Z DEC.
-2. CANCEL HYDROLANT 2169/25.
-3. CANCEL THIS MSG 230112Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191634Z DEC 25
