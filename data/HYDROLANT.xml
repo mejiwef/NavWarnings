@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>210108Z DEC 25
+HYDROLANT 2189/25(24).
+NORTH ATLANTIC.
+SOUTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   IN PROGRESS UNTIL 300259Z DEC IN AREAS BOUND BY:
+   A. 00-10.11N 042-24.61W, 00-35.61N 041-44.43W,
+      00-00.32N 041-09.50W, 00-12.00S 042-00.00W.
+   B. 06-48.00N 033-19.80W, 06-48.00N 034-46.66W,
+      04-48.60N 037-10.80W, 03-58.20N 036-21.60W.
+2. CANCEL HYDROLANT 2181/25.
+3. CANCEL THIS MSG 300359Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>202111Z DEC 25
@@ -120,23 +138,6 @@ DNC 20.
    50-23.00N 002-43.00W AT 191535Z DEC.
 2. CANCEL HYDROLANT 2169/25.
 3. CANCEL THIS MSG 230112Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200040Z DEC 25
-HYDROLANT 2181/25(24).
-NORTH ATLANTIC.
-DNC 01.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   161500Z TO 300259Z DEC IN AREAS BOUND BY:
-   A. 00-10.11N 042-24.61W, 00-35.10N 041-44.43W,
-      00-00.32N 041-09.50W, 00-38.65N 041-41.95W.
-   B. 04-48.60N 037-10.80W, 06-48.00N 034-46.66W,
-      06-48.00N 033-19.80W, 03-58.20N 036-21.60W.
-2. CANCEL HYDROLANT 2180/25.
-3. CANCEL THIS MSG 300359Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -516,19 +517,6 @@ A. GREGNESS  57-07.70N 002-03.20W.
 B. CULLERCOATS 55-04.40N 001-27.80W.
 C. LANGHAM 52-56.50N 000-57.20E.
 D. BAWDSEY 51-59.60N 001-24.50E. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>092310Z DEC 25
-HYDROLANT 2096/25(43).
-NORTH SEA.
-DNC 20.
-PIPELINE OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE ALONG TRACKLINE JOINING
-60-06.00N 002-44.00E, 60-02.00N 002-50.00E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
