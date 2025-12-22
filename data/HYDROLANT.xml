@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221010Z DEC 25
+HYDROLANT 2199/25(37).
+ENGLISH CHANNEL.
+FRANCE.
+DNC 20.
+1. CABLE OPERATIONS 240600Z TO 310001Z DEC 
+   BY CABLESHIP CABLE VIGILANCE IN 
+   48-56.00N 002-49.30W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 310101Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>220212Z DEC 25
