@@ -1092,22 +1092,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280002Z NOV 25
-HYDROPAC 3131/25(76).
-COOK STRAIT.
-NEW ZEALAND.
-DNC 06.
-SURVEY OPERATIONS IN PROGRESS 
-UNTIL FURTHER NOTICE BY M/V SEAWORKER
-IN AREA BOUND BY
-41-18.40S 174-14.30E, 41-15.90S 174-35.80E,
-41-20.10S 174-39.20E, 41-22.50S 174-10.00E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>271939Z NOV 25

@@ -330,22 +330,6 @@ NAVAREA IV 1333/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021533Z DEC 25
-NAVAREA IV 1331/25(24).
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   220300Z DEC BY M/V HOLIDAY TOWING 50 METER 
-   LONG CABLES IN AREA BOUND BY
-   09-57.11N 060-31.43W, 09-54.83N 060-29.96W,
-   09-53.37N 060-32.26W, 09-55.66N 060-33.74W.
-   500 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 220400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>262155Z NOV 25
