@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220012Z DEC 25
+HYDROPAC 3415/25(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 261600Z TO 261730Z DEC
+   IN AREA BOUND BY
+   41-58.00S 073-13.00W, 41-58.00S 072-59.00W,
+   42-07.00S 072-59.00W, 42-07.00S 073-13.00W.
+2. CANCEL THIS MSG 261830Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>212359Z DEC 25
+HYDROPAC 3414/25(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+PUNTA CONCON LIGHT 32-55.70S 071-33.10W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>211452Z DEC 25
@@ -446,24 +470,6 @@ DNC 12.
 2. CANCEL THIS MSG 231400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SAR</category>
-        <status>INFORCE</status>
-        <msgText>170055Z DEC 25
-HYDROPAC 3362/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V PY 90990 TS, NINE PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
-   IN 11-37.00N 110-43.00E AT 162203Z DEC.
-   VESSELS IN VICINITY REQUESTED TO KEEP
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 3349/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>162033Z DEC 25
@@ -623,23 +629,6 @@ DNC 04.
    IN 21-28.50S 113-49.50E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3188/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131722Z DEC 25
-HYDROPAC 3313/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 21 DEC
-   BY DERRICK BARGE 30 IN AREA BOUND BY
-   26-23.60N 052-12.90E, 26-21.50N 052-12.90E,
-   26-21.50N 052-09.70E, 26-26.13N 052-01.77E,
-   26-27.85N 052-03.28E, 26-23.60N 052-10.40E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

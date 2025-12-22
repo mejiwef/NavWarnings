@@ -505,21 +505,6 @@ D. BAWDSEY 51-59.60N 001-24.50E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071310Z DEC 25
-HYDROLANT 2079/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
-    07 THRU 21 DEC BY M/V COMANDO B AND 
-   M/V MINERAL MAROUANE IN 20-20.68S 040-10.37W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 212200Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>061722Z DEC 25
