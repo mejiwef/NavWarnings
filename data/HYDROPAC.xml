@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221609Z DEC 25
+HYDROPAC 3421/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. PIPELINE OPERATIONS 23 THRU 30 DEC
+   BY BARGE MC DERMOTT IN AREA BOUND BY
+   25-59.53N 051-36.05E, 26-00.32N 051-39.76E,
+   25-58.99N 051-41.23E, 25-58.07N 051-39.53E,
+   25-57.77N 051-38.81E, 25-57.92N 051-35.95E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z DEC 25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>221116Z DEC 25
@@ -260,19 +278,6 @@ HYDROPAC 3397/25(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>191338Z DEC 25
-HYDROPAC 3396/25(63).
-EASTERN INDIAN OCEAN.
-MALDIVES.
-DNC 03.
-1. DERELICT M/V INTEGRITY STAR ADRIFT 
-   IN VICINITY 01-58.00N 074-21.00E AT 190230Z DEC.
-2. CANCEL THIS MSG 221338Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191314Z DEC 25
@@ -295,30 +300,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 230001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>191233Z DEC 25
-HYDROPAC 3394/25(81,97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 12.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
-   A. 220142Z TO 220255Z DEC, ALTERNATE 0055Z TO 0302Z
-      DAILY 23 THRU 31 DEC IN AREA BOUND BY
-      29-03.05N 139-52.20E, 29-11.23N 139-39.95E,
-      29-57.64N 139-47.08E, 30-05.96N 140-15.58E,
-      29-30.94N 144-07.20E, 29-23.87N 144-19.18E,
-      28-35.87N 144-11.68E, 28-29.12N 143-41.98E.
-   B. 220146Z TO 220302Z DEC, ALTERNATE 0055Z TO 0302Z 
-      DAILY 23 THRU 31 DEC IN AREA BOUND BY
-      24-47.00N 160-46.00E, 26-42.00N 161-26.00E,
-      24-16.00N 168-20.00E, 22-22.00N 167-40.00E.
-2. CANCEL HYDROPAC 3317/25.
-3. CANCEL THIS MSG 310402Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -497,22 +478,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>170456Z DEC 25
-HYDROPAC 3366/25(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 220800Z TO 221200Z DEC
-   IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.59E,
-   12-49.59N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.59N 144-30.00E.
-2. CANCEL THIS MSG 221300Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>170432Z DEC 25
 HYDROPAC 3365/25(81).
 NORTH PACIFIC.
@@ -670,7 +635,8 @@ IN AREA BOUND BY
 20-00.00S 113-03.00E, 20-00.00S 113-24.00E,
 19-39.70S 113-24.00E, 19-39.70S 113-03.00E,
 20-00.00S 113-03.00E.
-500 METER BERTH REQUESTED.</msgText>
+500 METER BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

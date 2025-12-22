@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221450Z DEC 25
+NAVAREA IV 1405/25(24).
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 310300Z DEC
+   BY M/V HOLIDAY TOWING 50 METER LONG CABLES
+   IN AREA BOUND BY
+   09-57.11N 060-31.43W, 09-54.83N 060-29.96W,
+   09-53.37N 060-32.26W, 09-55.66N 060-33.74W.
+   500 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 310400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>221408Z DEC 25
+NAVAREA IV 1404/25(24).
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+1. TAPARO POINT LIGHT, FL (3) W 15 SEC TEN MILES,
+   ESTABLISHED IN 10-03.53N 061-37.55W.
+2. CANCEL NAVAREA IV 1022/25.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>212043Z DEC 25
@@ -623,17 +652,6 @@ GUYANA.
    07-45.07N 056-04.37W, 07-42.71N 057-06.21W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>241531Z SEP 25
-NAVAREA IV 1022/25(24).
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-1. TAPARO POINT LIGHT IN 10-03.53N 061-37.55W UNLIT.
-2. CANCEL NAVAREA IV 827/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
