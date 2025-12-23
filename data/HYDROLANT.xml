@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221809Z DEC 25
+HYDROLANT 2203/25(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 53-01.00S 040-09.00W.
+   B. A74A, 59-14.00S 022-57.00W.
+   C. A77, 49-18.00S 038-21.00W.
+   D. A76C, 59-45.00S 037-13.00W.
+   E. B15AB, 57-24.00S 043-04.00W.
+   F. 52-49.00S 041-34.00W.
+   G. 53-30.00S 039-09.00W.
+   H. 52-05.00S 041-14.00W.
+   I. 51-39.00S 035-14.00W.
+   J. 52-48.00S 037-10.00W.
+   K. 53-08.00S 040-30.00W.
+   L. 50-50.00S 034-43.00W.
+   M. 52-20.00S 040-33.00W.
+   N. 53-51.00S 041-21.00W.
+   O. 50-10.00S 039-20.00W.
+   P. 50-09.00S 034-53.00W.
+   Q. 52-31.00S 039-31.00W.
+   R. 49-52.00S 029-45.00W.
+   S. 53-08.00S 040-26.00W.
+   T. 52-42.00S 040-14.00W.
+   U. 52-52.00S 039-31.00W.
+   V. 52-56.00S 039-52.00W.
+   W. 52-33.00S 039-38.00W.
+   X. 52-19.00S 042-11.00W.
+   Y. 53-02.00S 039-45.00W.
+   Z. 52-12.00S 040-25.00W.
+   AA. 49-44.00S 037-22.00W.
+   AB. 52-51.00S 039-42.00W.
+   AC. 60-47.00S 045-29.00W.
+   AD. 61-38.00S 047-21.00W.
+   AE. 61-03.00S 051-52.00W.
+   AF. 49-39.00S 038-26.00W.
+   AG. 49-37.00S 038-07.00W.
+   AH. 49-57.00S 039-08.00W.
+   AI. 53-05.00S 039-45.00W.
+2. CANCEL HYDROLANT 2201/25.
+3. CANCEL THIS MSG 231815Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221531Z DEC 25
@@ -14,54 +63,6 @@ DNC 20.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2199/25.
 3. CANCEL THIS MSG 010001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221519Z DEC 25
-HYDROLANT 2201/25(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 53-01.00S 040-09.00W.
-   B. A74A, 59-11.00S 023-06.00W.
-   C. A77, 49-18.00S 038-21.00W.
-   D. A76C, 59-43.00S 037-14.00W.
-   E. B15AB, 57-24.00S 043-04.00W.
-   F. 53-08.00S 041-29.00W.
-   G. 53-30.00S 039-12.00W.
-   H. 52-06.00S 041-18.00W.
-   I. 51-39.00S 035-14.00W.
-   J. 52-47.00S 037-20.00W.
-   K. 53-08.00S 040-30.00W.
-   L. 50-50.00S 034-43.00W.
-   M. 52-21.00S 040-35.00W.
-   N. 53-51.00S 041-22.00W.
-   O. 50-10.00S 039-20.00W.
-   P. 50-09.00S 034-53.00W.
-   Q. 52-31.00S 039-31.00W.
-   R. 49-52.00S 029-45.00W.
-   S. 53-08.00S 040-26.00W.
-   T. 52-42.00S 040-14.00W.
-   U. 52-52.00S 039-31.00W.
-   V. 52-56.00S 039-52.00W.
-   W. 52-33.00S 039-38.00W.
-   X. 52-21.00S 042-08.00W.
-   Y. 53-02.00S 039-45.00W.
-   Z. 52-12.00S 040-27.00W.
-   AA. 49-44.00S 037-22.00W.
-   AB. 52-51.00S 039-42.00W.
-   AC. 60-48.00S 045-29.00W.
-   AD. 61-37.00S 047-24.00W.
-   AE. 61-03.00S 051-43.00W.
-   AF. 49-39.00S 038-26.00W.
-   AG. 49-37.00S 038-07.00W.
-   AH. 50-01.00S 038-54.00W.
-   AI. 50-17.00S 037-07.00W.
-2. CANCEL THIS MSG 231525Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -178,17 +179,6 @@ DNC 01.
 3. CANCEL THIS MSG 300001Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>202111Z DEC 25
-HYDROLANT 2188/25(35).
-NORTH ATLANTIC.
-SCOTLAND.
-DNC 19.
-FLANNAN ISLES LIGHT 58-17.30N 007-35.30W UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201729Z DEC 25
@@ -302,17 +292,6 @@ DNC 01.
    00-54.59N 049-45.13W, 00-54.99N 049-45.70W.
 2. 7.5 METER DEPTH REPORTED IN 00-54.89N 049-45.00W.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>180316Z DEC 25
-HYDROLANT 2165/25(52,53).
-EASTERN MEDITERRANEAN SEA.
-DNC 08, DNC 09.
-NAVTEX STATIONS UNRELIABLE:
-A. MALTA (O) 35-51.30N 014-29.30E.
-B. TUNISIA (T) 36-48.08N 011-02.29E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SOUND SIGNAL</category>
