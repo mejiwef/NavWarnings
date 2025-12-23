@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>231634Z DEC 25
+HYDROPAC 3436/25(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+KUKRA ISLAND LIGHT 14-42.62N 074-14.36E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>231545Z DEC 25
+HYDROPAC 3435/25(71).
+JAVA SEA.
+INDONESIA.
+DNC 04.
+1. VESSEL BOARDED BY FOUR PIRATES
+   IN 05-31.20S 105-17.30E AT 222108Z DEC.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 261545Z DEC 25
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>231120Z DEC 25
@@ -370,6 +396,7 @@ HYDROPAC 3397/25(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 3153/25, 3174/25, 3308/25.
+CANCEL THIS MSG 261300Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -537,40 +564,6 @@ DNC 03.
    11-15.00N 092-30.00E, 11-20.00N 092-55.00E,
    11-05.00N 092-55.00E, 11-00.00N 092-30.00E.
 2. CANCEL THIS MSG 241030Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>171014Z DEC 25
-HYDROPAC 3368/25(GEN).
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0430Z TO 0830Z DAILY 22 THRU 24 DEC
-   IN AREAS BOUND BY:
-   A. 05-12.05S 088-16.53E, 11-20.90S 090-21.43E,
-      08-31.63S 097-13.73E, 02-46.15S 095-00.40E.
-   B. 17-21.70N 083-21.77E, 14-46.67N 082-52.23E,
-      02-18.38N 086-30.75E, 03-52.41N 090-58.65E,
-      15-50.35N 085-52.92E, 17-37.75N 083-37.32E.
-2. CANCEL THIS MSG 240930Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170432Z DEC 25
-HYDROPAC 3365/25(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 22 AND 23 DEC IN AREAS WITHIN:
-   A. 12.00 MILES OF 13-26.60N 145-07.60E.
-   B. 12.00 MILES OF 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 231400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -2004,18 +1997,6 @@ IN 25-07.69N 052-53.09E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>311045Z JAN 25
-HYDROPAC 252/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-RACON AT SURATAKAL POINT 13-00.30N 074-47.40E
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>290955Z JAN 25
@@ -2120,37 +2101,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>131108Z SEP 24
-HYDROPAC 3033/24(63).
-INDIA.
-DNC 03.
-RACON (K) 15-02.70N 080-02.97E INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>031140Z SEP 24
-HYDROPAC 2910/24(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-COX BAZAR LIGHT 21-25.87N 091-58.74E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>281036Z MAY 24
-HYDROPAC 1823/24(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-RACON (D) 15-53.37N 073-27.75E INOPERATIVE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>301232Z APR 24
@@ -2210,20 +2160,6 @@ U.A.E.
 DNC 10.
 PARTIALLY SUBMERGED WRECK 
 IN VICINITY 25-11.64N 054-10.12E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>141045Z FEB 24
-HYDROPAC 522/24(63).
-ARABIAN SEA.
-LAKSHADWEEP.
-DNC 03.
-1. RACONS INOPERATIVE AT: 
-   A. KADMAT ISLAND LIGHT RACON (G) 11-15.20N 072-47.40E.
-   B. AGATTI ISLAND LIGHT RACON (B) 10-52.50N 072-12.40E.
-2. CANCEL HYDROPAC 1642/22.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
