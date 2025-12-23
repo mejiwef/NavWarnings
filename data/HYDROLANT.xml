@@ -549,21 +549,6 @@ DNC 22.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031254Z DEC 25
-HYDROLANT 2050/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 080000 TO 222359Z DEC
-   IN AREA BOUND BY
-   23-30.03S 043-50.03W, 23-27.03S 043-52.03W,
-   24-08.03S 044-35.03W, 24-45.03S 043-44.03W.
-2. CANCEL THIS MSG 230059Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO BEACON</category>
         <status>INFORCE</status>
         <msgText>030113Z DEC 25
