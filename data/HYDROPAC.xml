@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>231120Z DEC 25
+HYDROPAC 3433/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V BD 95854 TS, FOUR PERSONS ON BOARD,
+DISABLED AND ADRIFT IN 13-32.00N 109-33.00E
+AT 230800Z DEC. VESSELS IN VICINITY REQUESTED
+TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231038Z DEC 25
+HYDROPAC 3432/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z 
+   DAILY 28 THRU 30 DEC IN AREA BOUND BY
+   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
+   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
+2. CANCEL THIS MSG 301130Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>231016Z DEC 25
+HYDROPAC 3431/25(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2000Z TO 2200Z DAILY 28 THRU 30 DEC
+   IN AREA BOUND BY
+   28-07.20S 148-24.00W, 28-10.80S 147-48.00W,
+   40-00.00S 148-36.00W, 39-54.00S 149-09.00W.
+2. CANCEL THIS MSG 302300Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>230025Z DEC 25
@@ -278,23 +325,6 @@ DNC 04.
 UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER
 NOTICE BY M/V SKANDI HERCULES IN 10-36.90S 125-59.10E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191722Z DEC 25
-HYDROPAC 3399/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z
-   DAILY 22 THRU 23 DEC IN AREAS BOUND BY:
-   A. 17-17.00N 083-07.00E, 17-12.00N 083-07.00E,
-      17-12.00N 083-12.50E, 17-17.00N 083-12.50E.
-   B. 17-25.50N 083-06.50E, 17-18.00N 083-06.50E,
-      17-21.00N 083-12.50E, 17-28.50N 083-12.50E.
-2. CANCEL THIS MSG 231130Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>231025Z DEC 25
+HYDROLANT 2206/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+VESSEL, THREE PERSONS ON BOARD, ADRIFT 
+IN 02-42.47S 039-57.38W ON 23 DEC.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>221809Z DEC 25
@@ -703,26 +717,6 @@ IN AREA BOUND BY
 05-05.23S 010-22.20E, 04-38.82S 010-48.66E,
 04-10.03S 011-06.76E.
 SIX MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070917Z NOV 25
-HYDROLANT 1876/25(52, 53).
-WESTERN MEDITERRANEAN SEA.
-BALEARIC ISLANDS.
-DNC 08.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 231100Z DEC BY GLIDER 
-   IN AREA BOUND BY
-   39-11.37N 003-03.76E, 39-10.21N 003-11.24E,
-   39-26.46N 003-37.83E, 39-39.33N 004-25.20E,
-   39-48.66N 004-41.72E, 39-48.66N 005-48.74E,
-   39-48.66N 006-54.54E, 39-48.66N 007-59.02E,
-   39-04.77N 003-06.55E, 39-03.35N 002-50.42E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 231200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
