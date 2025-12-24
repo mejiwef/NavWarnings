@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>241551Z DEC 25
+HYDROPAC 3443/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+SOUTH SENTINEL LIGHT 10-58.83N 092-13.53E UNLIT. 
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241242Z DEC 25
+HYDROPAC 3441/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. UNDERWATER OPERATIONS 25 DEC THRU 
+   22 JAN 26 BY M/V DSV SEAMEC III AND TUG SHIVALI II
+   IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 230001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WORKING VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>241225Z DEC 25
+HYDROPAC 3440/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE INSTALLATION OPERATIONS 27 DEC THRU
+   25 JAN 26 BY M/V AHT RAWABI OPAL IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+       19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+       20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+       18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+       18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+2. CANCEL THIS MSG 260001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240438Z DEC 25
@@ -211,21 +273,6 @@ EASTERN SOUTH PACIFIC.
 CHILE.
 DNC 07.
 PUNTA CONCON LIGHT 32-55.70S 071-33.10W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>211452Z DEC 25
-HYDROPAC 3412/25(71).
-SINGAPORE STRAIT.
-MALAYSIA.
-DNC 03.
-1. BARGE BOARDED IN 01-18.51N 104-15.07E 
-   AT 210945Z DEC. VESSELS ARE ADVISED TO 
-   KEEP CLEAR OF THIS POSITION AND TO 
-   EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 241451Z DEC 25
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -564,27 +611,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151426Z DEC 25
-HYDROPAC 3339/25(63).
-ARABIAN SEA.
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 200001Z TO 241530Z DEC
-   IN AREA BOUND BY
-   14-49.15N 073-20.39E, 13-54.93N 073-46.07E,
-   13-44.00N 073-18.00E, 14-00.00N 072-26.00E,
-   14-33.00N 071-26.00E, 15-15.00N 070-18.00E,
-   16-15.00N 068-37.00E, 16-48.00N 069-33.00E,
-   17-23.00N 070-35.00E, 16-52.00N 071-33.00E,
-   16-24.00N 072-09.00E, 15-48.19N 072-48.21E,
-   14-56.00N 073-07.19E.
-2. CANCEL THIS MSG 241630Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>150412Z DEC 25
@@ -824,17 +850,6 @@ PERSON LOCATED.
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>041212Z DEC 25
-HYDROPAC 3209/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-PUDIMADAKA LIGHT 17-29.27N 083-00.22E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
         <msgText>022302Z DEC 25
 HYDROPAC 3186/25(83).
 SOUTH PACIFIC.
@@ -906,22 +921,6 @@ DNC 07.
 1. MAGALLANES RADIO 53-09.92S 070-54.28W 
    OFF AIR.
 2. CANCEL HYDROPAC 2623/25 AND 3114/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291514Z NOV 25
-HYDROPAC 3154/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 30 NOV TO 30 DEC
-   BY M/V SAMBHAVYA IN AREA BOUND BY
-   16-15.94N 081-16.99E, 16-13.50N 081-23.56E,
-   16-10.70N 081-20.58E, 16-14.62N 081-15.85E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 310001Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1263,23 +1262,6 @@ UNLIT.
         <msgText>111251Z NOV 25
 HYDROPAC 2898/25.
 CANCEL HYDROPAC 2591/25 AND THIS MSG.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111130Z NOV 25
-HYDROPAC 2896/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 12 NOV THRU 31 DEC BY 
-   M/V RAMFORM SOVEREIGN IN AREA BOUND BY
-   18-47.52N 086-41.34E, 19-20.04N 086-41.34E,
-   19-19.86N 086-14.10E, 18-03.57N 084-34.43E,
-   16-59.16N 084-49.26E, 16-56.57N 085-38.41E.
-   SEVEN MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
