@@ -155,28 +155,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>221116Z DEC 25
-HYDROPAC 3419/25(61, 63).
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   240250Z TO 240650Z DEC. 
-   A. IN AREA WITHIN TEN MILES OF 13-43.20N 080-13.80E.
-   B. IN AREAS BOUND BY:
-   A. 11-40.00N 081-50.00E, 12-10.00N 082-25.00E,
-       11-00.00N 083-25.00E, 09-00.00N 084-15.00E,
-       08-45.00N 083-30.00E, 10-35.00N 082-45.00E.
-   B. 00-05.00N 085-00.00E, 00-30.00N 086-50.00E,
-       04-35.00S 088-00.00E, 05-00.00S 086-10.00E.
-2. CANCEL THIS MSG 240750Z DEC 25.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221033Z DEC 25
@@ -479,21 +457,6 @@ DNC 03.
 2. CANCEL THIS MSG 010001Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191025Z DEC 25
-HYDROPAC 3390/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 230830Z TO 231100Z
-   AND 240300Z TO 240600Z DEC
-   IN AREA BOUND BY
-   17-57.80N 084-29.10E, 17-57.80N 085-00.90E,
-   17-29.00N 084-50.00E, 17-29.00N 084-18.10E.
-2. CANCEL THIS MSG 240700Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190305Z DEC 25
@@ -531,37 +494,6 @@ DNC 10.
    K. 26-34.44N 051-48.97E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181104Z DEC 25
-HYDROPAC 3383/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 230330Z TO 230730Z,
-   240330Z TO 240530Z, AND 240830Z TO 241030Z DEC
-   IN AREA BOUND BY
-   20-48.36N 087-02.58E, 20-35.73N 086-55.12E,
-   16-23.28N 085-52.66E, 16-39.03N 089-04.03E,
-   20-37.55N 087-17.08E, 20-48.76N 087-07.40E.
-2. CANCEL THIS MSG 241130Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181012Z DEC 25
-HYDROPAC 3380/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0115Z TO 0215Z AND
-   0830Z TO 0930Z DAILY 23 AND 24 DEC
-   IN AREA BOUND BY
-   11-15.00N 092-30.00E, 11-20.00N 092-55.00E,
-   11-05.00N 092-55.00E, 11-00.00N 092-30.00E.
-2. CANCEL THIS MSG 241030Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -650,23 +582,6 @@ DNC 03.
    16-24.00N 072-09.00E, 15-48.19N 072-48.21E,
    14-56.00N 073-07.19E.
 2. CANCEL THIS MSG 241630Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151350Z DEC 25
-HYDROPAC 3336/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0500Z TO 0700Z AND
-   0900Z TO 1100Z DAILY 18 THRU 20 AND 
-   22 THRU 24 DEC IN AREA BOUND BY
-   21-12.60N 086-50.33E, 20-40.50N 087-23.05E,
-   21-26.15N 088-04.01E, 21-36.48N 087-28.95E,
-   21-31.20N 087-07.20E.
-2. CANCEL THIS MSG 241200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -879,22 +794,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A
 SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC VIETNAM, 
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051053Z DEC 25
-HYDROPAC 3226/25(63).
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z DAILY 
-   10, 17 AND 24 DEC IN AREA BOUND BY
-   11-48.00N 092-29.00E, 11-52.00N 092-19.00E,
-   11-43.00N 092-16.00E, 11-40.00N 092-27.00E.
-2. CANCEL THIS MSG 240730Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
