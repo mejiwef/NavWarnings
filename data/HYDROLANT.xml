@@ -267,22 +267,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191634Z DEC 25
-HYDROLANT 2179/25(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. HAZARDOUS OPERATIONS 240001Z TO 250001Z DEC
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 250101Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>191500Z DEC 25.
