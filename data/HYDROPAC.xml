@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>250932Z DEC 25
+HYDROPAC 3451/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+BARGE EVERGAIN AND TUG GLORY 03, 
+TEN PERSONS ON BOARD, TAKING ON WATER 
+IN 10-16.13N 107-46.60E AT 250731Z DEC.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>250829Z DEC 25
+HYDROPAC 3449/25(71).
+SINGAPORE STRAIT.
+INDONESIA.
+DNC 03.
+1. VESSEL BOARDED IN 01-12.22N 103-54.52E 
+   AT 250530Z DEC.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 280831Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>250452Z DEC 25
@@ -258,21 +289,6 @@ EIGHT BUOYS, YELLOW, FL W 7 SEC, FOUR METERS
 IN HEIGHT, ESTABLISHED IN AREA WITHIN ONE MILE
 OF 19-57.09S 115-13.91E.
 THREE MILE BERTH REQUESTED.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>221831Z DEC 25
-HYDROPAC 3422/25(74).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   260500Z TO 261100Z DEC IN AREA BOUND BY
-   33-20.00S 102-24.00E, 30-40.00S 102-54.00E,
-   30-46.00S 103-43.00E, 33-27.00S 103-15.00E.
-2. CANCEL THIS MSG 261200Z DEC 25.
 
 </msgText>
     </smapsActiveEntity>
