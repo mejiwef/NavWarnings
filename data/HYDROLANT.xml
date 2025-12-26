@@ -303,23 +303,6 @@ CANCEL THIS MSG 261300Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191345Z DEC 25
-HYDROLANT 2174/25(24).
-SOUTH ATLANTIC.
-DNC 01, DNC 07.
-1. SURVEY OPERATIONS 20 THRU 25 DEC 
-   BY M/V SW EMPRESS TOWING TEN 11000 METER
-   LONG CABLES IN AREA BOUND BY
-   34-38.20S 051-58.20W, 33-08.40S 050-18.20W,
-   33-08.60S 050-18.20W, 34-29.60S 048-21.10W,
-   35-51.10S 049-43.10W, 35-50.50S 050-05.20W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>181247Z DEC 25
