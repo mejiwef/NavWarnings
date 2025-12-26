@@ -1,6 +1,134 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>261116Z DEC 25
+HYDROPAC 3462/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE INSTALLATION OPERATIONS
+   27 DEC 25 THRU 25 JAN 26 
+   BY TUG TRITON ENERGY AND M/V AHT RAWABI OPAL
+   IN AREAS BOUND BY:
+   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
+   19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
+   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
+   20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
+   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
+   18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
+   18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
+   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
+   18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3440/25 AND THIS MSG 251830Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>261055Z DEC 25
+HYDROPAC 3461/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V BV 98791 TS, NINE PERSONS ON BOARD, 
+SANK IN 07-31.33N 107-11.60E AT 260700Z DEC.
+EIGHT PERSONS RESCUED, ONE PERSON REMAIN 
+MISSING. VESSELS IN VICINITY REQUESTED TO 
+KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261047Z DEC 25
+HYDROPAC 3460/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0500Z TO 0700Z 
+   AND 0900Z TO 1100Z DAILY 29 DEC, 
+   01 THRU 03 JAN 26 IN AREA BOUND BY
+   21-12.30N 086-49.97E, 20-42.00N 087-10.43E,
+   19-12.60N 085-14.82E, 18-04.22N 086-22.48E,
+   21-02.72N 088-52.75E, 21-28.55N 087-59.30E,
+   21-33.53N 087-24.67E.
+2. CANCEL THIS MSG 031200Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261040Z DEC 25
+HYDROPAC 3459/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0500Z TO 0700Z 
+   AND 0900Z TO 1100Z DAILY 30 AND 31 DEC
+   IN AREA BOUND BY
+   21-12.30N 086-49.97E, 20-48.37N 087-02.58E,
+   20-35.73N 086-55.12E, 19-12.60N 085-14.82E,
+   16-23.28N 085-52.67E, 16-39.03N 089-04.03E,
+   21-02.72N 088-52.75E, 21-28.55N 087-59.30E,
+   21-33.53N 087-24.67E.
+2. CANCEL THIS MSG 311200Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261028Z DEC 25
+HYDROPAC 3458/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 300830Z TO 300930Z DEC
+   IN AREA BOUND BY
+   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
+   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
+   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
+2. CANCEL THIS MSG 301030Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>261010Z DEC 25
+HYDROPAC 3457/25(63).
+BAY OF BENGAL.
+BURMA.
+DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   300300Z TO 300900Z DEC 
+   IN AREA BOUND BY
+   18-13.00N 093-12.00E, 18-06.00N 093-45.00E,
+   17-13.00N 093-33.00E, 17-20.00N 093-00.00E.
+2. CANCEL THIS MSG 301000Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISTRESS SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>260943Z DEC 25
+HYDROPAC 3456/25(71).
+SOUTH CHINA SEA.
+DNC 11.
+DISTRESS SIGNAL RECEIVED ON 406 MHZ 
+FROM VESSEL IN 07-00.36N 111-46.34E.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC SINGAPORE,
+PHONE: 656 226 5539,
+EMAIL: POCC@MPA.GOV.SG.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>260008Z DEC 25
@@ -187,21 +315,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240438Z DEC 25
-HYDROPAC 3439/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 260030Z TO 261030Z DEC
-   IN AREA BOUND BY
-   17-25.50N 083-06.50E, 17-18.00N 083-06.50E,
-   17-21.00N 083-12.50E, 17-28.50N 083-12.50E.
-2. CANCEL THIS MSG 261130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>231634Z DEC 25
@@ -291,21 +404,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221033Z DEC 25
-HYDROPAC 3418/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 260330Z TO 260730Z DEC
-   IN AREA BOUND BY
-   15-15.50N 073-37.00E, 15-25.00N 073-37.00E,
-   15-25.00N 073-47.33E, 15-15.50N 073-47.33E.
-2. CANCEL THIS MSG 260830Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>220827Z DEC 25
@@ -347,21 +445,6 @@ EASTERN SOUTH PACIFIC.
 CHILE.
 DNC 07.
 PUNTA CONCON LIGHT 32-55.70S 071-33.10W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211019Z DEC 25
-HYDROPAC 3410/25(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 1030Z DAILY
-   23, 24 AND 26 DEC IN AREA BOUND BY
-   10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
-   10-50.00N 075-35.00E, 10-50.00N 075-00.00E.
-2. CANCEL THIS MSG 261130Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CANCEL MSG</category>
@@ -870,18 +953,6 @@ DNC 12.
 USCG REMOTE COMMUNICATION FACILITY GUAM 
 13-28.6N 144-50.1E WEATHER MESSAGE 
 SERVICES UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>041237Z DEC 25
-HYDROPAC 3211/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-CANCEL HYDROPAC 3190/25 AND THIS MSG, 
-PERSON LOCATED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
