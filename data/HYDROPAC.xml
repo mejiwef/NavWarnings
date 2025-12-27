@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>270340Z DEC 25
+HYDROPAC 3472/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 23.
+1. VESSEL F/V QB 98048 TS, SIX PERSONS ON BOARD,
+   DISABLED AND ADRIFT, UNREPAIRABLE
+   IN 16-57.00N 108-48.00E AT 270100Z DEC.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL THIS MSG 300340Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>262139Z DEC 25

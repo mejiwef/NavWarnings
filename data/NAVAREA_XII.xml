@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270035Z DEC 25
+NAVAREA XII 834/25(18).
+NORTH PACIFIC.
+1. CABLE OPERATIONS 270900Z DEC THRU 030100Z JAN
+   BY M/V REBECCA ALONG TRACKLINE JOINING
+   34-10.35N 124-56.70W, 33-41.59N 126-48.37W.
+   WIDE BERTH REQUESTED.
+2. NAVAREA XII 825/25.
+3. CANCEL THIS MSG 030200Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>261653Z DEC 25.
@@ -74,20 +87,6 @@ NORTH PACIFIC.
    51-56.00N 138-30.00W, 52-27.00N 141-52.00W,
    36-52.00N 146-44.00W, 36-21.00N 144-10.00W.
 2. CANCEL THIS MSG 030526Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161833Z DEC 25
-NAVAREA XII 825/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. CABLE OPERATIONS 220600Z THRU 270100Z DEC
-   BY M/V REBECCA ALONG TRACKLINE JOINING
-   34-49.91N 122-24.68W, 35-16.76N 121-15.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 270200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
