@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271249Z DEC 25
+HYDROPAC 3473/25(97).
+NORTH PACIFIC.
+DNC 12.
+1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
+   31 DEC 2025 THRU 30 JAN 2026
+   IN AREA BOUND BY
+   28-15.15N 146-29.47E, 27-55.15N 144-57.48E,
+   25-00.16N 145-35.48E, 25-25.16N 147-37.47E.
+2. CANCEL THIS MSG 311000Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>270340Z DEC 25
