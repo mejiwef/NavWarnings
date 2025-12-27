@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>271108Z DEC 25
+HYDROLANT 2224/25(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-01.20S 058-00.00W.
+   B. A84, 71-49.20S 095-26.40W.
+   C. A85, 68-26.40S 055-41.40W.
+   D. D33A, 65-49.20S 057-28.80W.
+   E. D33C, 66-04.80S 058-21.60W.
+2. CANCEL THIS MSG 281058Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>270844Z DEC 25
+HYDROLANT 2223/25(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+HASKEIR ISLAND LIGHT 57-42.00N 007-41.30W UNRELIABLE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>261604Z DEC  25.
@@ -98,23 +125,6 @@ DNC 01.
    AT 251945Z DEC 25.
    INFORM SALVAMAR SUESTE TEL: +55 21 99358-9035.
 2. CANCEL THIS MSG 291200Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261138Z DEC 25
-HYDROLANT 2219/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-01.20S 058-00.00W.
-   B. A84, 71-49.20S 095-26.40W.
-   C. A85, 68-26.40S 055-41.40W.
-   D. D33A, 65-49.20S 057-28.80W.
-   E. D33C, 66-04.80S 058-21.60W.
-2. CANCEL THIS MSG 271134Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

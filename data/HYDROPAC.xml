@@ -93,21 +93,6 @@ CANCEL THIS MSG 021300Z JAN 26.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>261329Z DEC 25
-HYDROPAC 3467/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0930Z TO 1030Z 27 DEC   
-   IN AREA BOUND BY
-   16-00.00N 072-40.00E, 16-00.00N 072-50.00E,
-   15-50.00N 072-50.00E, 15-50.00N 072-40.00E.
-2. CANCEL THIS MSG 271130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>261318Z DEC 25
 HYDROPAC 3466/25(63).
 ANDAMAN SEA.
