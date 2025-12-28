@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>281727Z DEC 25
+HYDROPAC 3478/25(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. DERELICT VESSEL MV INTEGRITY STAR ADRIFT 
+   IN 05-00.00N 077-00.00E.
+   AT 25 DEC 25. MARINERS ARE REQUESTED TO KEEP A
+   SHARP LOOKOUT AND UPDATE POSITION OF THE DERELICT
+   VESSEL. REPORT TO MRCC MUMBAI.
+   PHONE: +91 22 24388065/24383592
+   FAX:  +91 22 24316558
+   EMAIL: MRCC-WEST@INDIANCOASTGUARD.NIC.IN
+2. CANCEL THIS MSG 311727Z DEC 25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>182052Z DEC 25
