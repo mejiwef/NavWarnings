@@ -381,20 +381,6 @@ DNC 03.
 2. CANCEL THIS MSG 281908Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>250829Z DEC 25
-HYDROPAC 3449/25(71).
-SINGAPORE STRAIT.
-INDONESIA.
-DNC 03.
-1. VESSEL BOARDED IN 01-12.22N 103-54.52E 
-   AT 250530Z DEC.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 280831Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>250452Z DEC 25

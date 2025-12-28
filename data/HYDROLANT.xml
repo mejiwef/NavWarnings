@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>281117Z DEC 25
+HYDROLANT 2228/25(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 65-01.20S 058-00.00W.
+   B. A84, 71-49.20S 095-26.40W.
+   C. A85, 68-26.40S 055-41.40W.
+   D. D33A, 65-49.20S 057-28.80W.
+   E. D33C, 66-04.80S 058-21.60W.
+2. CANCEL THIS MSG 291113Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>182052Z DEC 25
@@ -78,23 +95,6 @@ DNC 01, DNC 07.
    35-51.10S 049-43.10W, 35-50.50S 050-05.20W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 120001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>271108Z DEC 25
-HYDROLANT 2224/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-01.20S 058-00.00W.
-   B. A84, 71-49.20S 095-26.40W.
-   C. A85, 68-26.40S 055-41.40W.
-   D. D33A, 65-49.20S 057-28.80W.
-   E. D33C, 66-04.80S 058-21.60W.
-2. CANCEL THIS MSG 281058Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
