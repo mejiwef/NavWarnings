@@ -145,18 +145,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>241840Z DEC 25
-HYDROLANT 2215/25(24).
-NORTH ATLANTIC.
-DNC 01.
-1. DERELICT M/V THE FRIENDS ADRIFT IN
-   06-03.30N 032-14.90W.
-2. CANCEL THIS MSG 271844Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241025Z DEC 25
