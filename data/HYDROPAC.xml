@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291149Z DEC 25
+HYDROPAC 3485/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 31 DEC THRU 15 JAN 26
+   IN AREA BOUND BY
+   17-24.00N 071-53.00E, 17-24.00N 072-12.00E,
+   17-43.00N 072-12.00E, 17-43.00N 071-53.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291143Z DEC 25
+HYDROPAC 3484/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. CABLE OPERATIONS 01 THRU 15 JAN 26 
+   BY CABLESHIP MARAM IN AREA BOUND BY
+   19-12.49N 072-48.30E, 18-15.64N 070-47.76E,
+   17-21.69N 070-05.31E, 17-14.73N 070-23.75E,
+   18-09.95N 071-02.57E, 18-48.14N 072-28.95E,
+   19-05.49N 072-52.09E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291115Z DEC 25
+HYDROPAC 3483/25(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0900Z TO 1430Z DAILY 
+   02, 09, 16, 23, AND 30 JAN 26, AND 0900Z TO 1200Z 
+   DAILY 05, 12, AND 19 JAN 26 IN AREA BOUND BY
+   09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
+   09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
+2. CANCEL THIS MSG 301530Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>291030Z DEC 25
+HYDROPAC 3482/25(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0530Z TO 0700Z DAILY 02, 05 AND 06 JAN 26
+   IN AREAS BOUND BY:
+   A. 08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
+      08-32.20N 076-47.00E, 08-29.87N 076-47.47E,
+      08-28.02N 076-48.98E, 08-27.07N 076-51.17E.
+   B. 08-09.47N 076-12.70E, 08-24.13N 076-07.28E,
+      08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
+      07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
+      07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
+2. CANCEL THIS MSG 060800Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>282106Z DEC 25
@@ -190,21 +261,6 @@ DNC 03.
    11-38.13N 093-00.70E, 11-40.80N 092-45.90E,
    11-26.33N 092-50.27E, 11-30.65N 092-56.90E.
 2. CANCEL THIS MSG 311330Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261310Z DEC 25
-HYDROPAC 3465/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 
-   28 AND 29 DEC 25 IN AREA BOUND BY
-   17-58.00N 084-11.00E, 17-59.00N 083-56.00E,
-   17-50.00N 083-44.00E, 17-49.00N 083-59.00E.
-2. CANCEL THIS MSG 291130Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

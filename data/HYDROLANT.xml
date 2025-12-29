@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291156Z DEC 25
+HYDROLANT 2233/25(51).
+NORTH ATLANTIC.
+WESTERN SAHARA.
+DNC 01.
+1. HAZARDOUS OPERATIONS 300001Z THRU 310100Z DEC
+   IN AREA BOUND BY
+   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
+   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
+   23-55.07N 017-00.00W.
+2. CANCEL THIS MSG 310200Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291105Z DEC 25
+HYDROLANT 2232/25(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-58.80S 057-58.80W.
+   B. A84, 71-44.40S 095-33.60W.
+   C. A85, 68-24.60S 055-47.40W.
+   D. D33A, 65-45.60S 057-27.60W.
+   E. D33C, 66-01.80S 058-19.20W.
+2. CANCEL THIS MSG 301400Z DEC 25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>281357Z DEC 25
@@ -61,23 +94,6 @@ DNC 01.
    IN 20-24.10S 040-10.93W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 122100Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281117Z DEC 25
-HYDROLANT 2228/25(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 65-01.20S 058-00.00W.
-   B. A84, 71-49.20S 095-26.40W.
-   C. A85, 68-26.40S 055-41.40W.
-   D. D33A, 65-49.20S 057-28.80W.
-   E. D33C, 66-04.80S 058-21.60W.
-2. CANCEL THIS MSG 291113Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -147,21 +163,6 @@ HYDROLANT
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 2176/25.
 CANCEL THIS MSG 021300Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>261358Z DEC 25
-HYDROLANT 2220/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. DERELICT AUTONOMOUS UNDERWATER VESSEL ADRIFT 
-   IN 26-20.33S 046-23.42W.
-   AT 251945Z DEC 25.
-   INFORM SALVAMAR SUESTE TEL: +55 21 99358-9035.
-2. CANCEL THIS MSG 291200Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
