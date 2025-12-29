@@ -3,20 +3,14 @@
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
-        <msgText>281727Z DEC 25
-HYDROPAC 3478/25(63).
+        <msgText>282106Z DEC 25
+HYDROPAC 3480/25(63).
 EASTERN INDIAN OCEAN.
-INDIA.
 DNC 03.
-1. DERELICT VESSEL MV INTEGRITY STAR ADRIFT 
-   IN 05-00.00N 077-00.00E.
-   AT 25 DEC 25. MARINERS ARE REQUESTED TO KEEP A
-   SHARP LOOKOUT AND UPDATE POSITION OF THE DERELICT
-   VESSEL. REPORT TO MRCC MUMBAI.
-   PHONE: +91 22 24388065/24383592
-   FAX:  +91 22 24316558
-   EMAIL: MRCC-WEST@INDIANCOASTGUARD.NIC.IN
-2. CANCEL THIS MSG 311727Z DEC 25.</msgText>
+1. DERELICT M/V INTEGRITY STAR ADRIFT 
+   IN VICINITY 05-31.75N 076-59.53 ON 25 DEC.
+2. CANCEL HYDROPAC 3478/25.
+3. CANCEL THIS MSG 310001Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -387,18 +381,6 @@ DNC 12, DNC 23.
 2. CANCEL THIS MSG 310400Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>251908Z DEC 25
-HYDROPAC 3453/25(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. DERELICT M/V INTEGRITY STAR ADRIFT 
-   IN VICINITY  05-28.00N 077-01.00E
-   AT 241100Z DEC.
-2. CANCEL THIS MSG 281908Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>250452Z DEC 25
@@ -538,21 +520,6 @@ DNC 03.
    17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
    17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
 2. CANCEL THIS MSG 301130Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>231016Z DEC 25
-HYDROPAC 3431/25(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2000Z TO 2200Z DAILY 28 THRU 30 DEC
-   IN AREA BOUND BY
-   28-07.20S 148-24.00W, 28-10.80S 147-48.00W,
-   40-00.00S 148-36.00W, 39-54.00S 149-09.00W.
-2. CANCEL THIS MSG 302300Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -766,21 +733,6 @@ DNC 03.
       20-36.57N 072-08.05E.
    150 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190305Z DEC 25
-HYDROPAC 3387/25(73).
-SOLOMON SEA.
-PAPUA NEW GUINEA.
-DNC 05.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 28 DEC
-   BY CABLESHIP LODBROG 
-   ALONG TRACKLINE JOINING
-   07-16.00S 148-38.16E, 07-25.30S 148-50.36E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 290001Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

@@ -730,24 +730,6 @@ EASTERN NORTH ATLANTIC.
 CANCEL HYDROLANT 1842/25 AND THIS MSG.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011616Z NOV 25
-HYDROLANT 1834/25(57).
-GULF OF GUINEA.
-GHANA.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 28 DEC
-   BY M/V SW TASMAN AND SW GALLIEN IN AREA BOUND BY
-   04-52.70N 003-09.40W, 04-51.10N 002-32.80W.
-   04-32.90N 002-33.20W, 04-30.10N 002-37.50W.
-   04-24.00N 002-37.50W, 04-24.00N 002-32.80W.
-   04-05.70N 002-32.80W, 04-05.70N 003-18.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 290001Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011522Z NOV 25
