@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SALVAGE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301512Z DEC 25
+NAVAREA IV 1427/25(24).
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+1. SALVAGE OPERATIONS IN PROGRESS UNTIL 
+   132200Z JAN 26 BY BARGE RMG 1000, BARGE HLB 9000, 
+   TUG FINN FALGOUT, AND TUG EL ZORRO GRANDE II
+   IN VICINITY 10-10.48N 061-46.09W.
+   500 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 132300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>292002Z DEC 25
@@ -206,7 +221,6 @@ TRINIDAD AND TOBAGO.
 1. TAPARO POINT LIGHT, FL (3) W 15 SEC TEN MILES,
    ESTABLISHED IN 10-03.53N 061-37.55W.
 2. CANCEL NAVAREA IV 1022/25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
