@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301043Z DEC 25
+HYDROPAC 3492/25(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z 
+   DAILY 03 AND 04 JAN 26 IN AREA BOUND BY
+   08-30.00N 075-15.00E, 08-45.00N 075-15.00E,
+   08-45.00N 075-30.00E, 08-30.00N 075-30.00E.
+2. CANCEL THIS MSG 041230Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301037Z DEC 25
+HYDROPAC 3491/25(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0830Z 
+   DAILY 03 THRU 05 JAN 26 IN AREA BOUND BY
+   17-49.87N 083-33.57E, 17-27.28N 083-39.80E,
+   17-35.00N 084-08.87E, 18-00.68N 083-56.25E.
+2. CANCEL THIS MSG 050930Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>301029Z DEC 25
+HYDROPAC 3490/25(63).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. DERELICT M/V INTEGRITY STAR ADRIFT 
+   IN VICINITY 05-23.00N 076-42.00E AT 
+   290630Z DEC.
+2. CANCEL HYDROPAC 3480/25.
+3. CANCEL THIS MSG 021028Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>292230Z DEC 25
@@ -127,18 +171,6 @@ DNC 03.
       07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
 2. CANCEL THIS MSG 060800Z JAN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>282106Z DEC 25
-HYDROPAC 3480/25(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. DERELICT M/V INTEGRITY STAR ADRIFT 
-   IN VICINITY 05-31.75N 076-59.53 ON 25 DEC.
-2. CANCEL HYDROPAC 3478/25.
-3. CANCEL THIS MSG 310001Z DEC 25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -391,38 +423,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261028Z DEC 25
-HYDROPAC 3458/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 300830Z TO 300930Z DEC
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 301030Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>261010Z DEC 25
-HYDROPAC 3457/25(63).
-BAY OF BENGAL.
-BURMA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   300300Z TO 300900Z DEC 
-   IN AREA BOUND BY
-   18-13.00N 093-12.00E, 18-06.00N 093-45.00E,
-   17-13.00N 093-33.00E, 17-20.00N 093-00.00E.
-2. CANCEL THIS MSG 301000Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>260943Z DEC 25
@@ -457,21 +457,6 @@ DNC 12, DNC 23.
    C. 17-29.00N 138-24.00E, 17-02.00N 141-05.00E,
       16-14.00N 140-56.00E, 16-41.00N 138-15.00E.
 2. CANCEL THIS MSG 310400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNREPORTED</category>
-        <status>INFORCE</status>
-        <msgText>250452Z DEC 25
-HYDROPAC 3448/25(62).
-GULF OF OMAN.
-IRAN.
-DNC 10.
-F/V, EIGHT PERSONS ON BOARD, UNREPORTED. 
-LAST KNOWN POSITION IN VICINITY 
-(PASABANDAR) 25-04.02N 061-24.73E.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -583,21 +568,6 @@ EASTERN INDIAN OCEAN.
 INDIA.
 DNC 03.
 KUKRA ISLAND LIGHT 14-42.62N 074-14.36E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231038Z DEC 25
-HYDROPAC 3432/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z 
-   DAILY 28 THRU 30 DEC IN AREA BOUND BY
-   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
-   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
-2. CANCEL THIS MSG 301130Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -763,26 +733,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 230001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191212Z DEC 25
-HYDROPAC 3393/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 20 DEC THRU 20 JAN 26 
-   BY TUG RAAFI IN AREA BOUND BY
-   19-48.92N 071-04.50E, 19-48.97N 071-41.50E,
-   18-56.83N 072-30.00E, 18-16.33N 072-30.00E,
-   18-16.33N 072-22.80E, 18-20.00N 072-05.33E,
-   18-31.33N 072-11.33E, 18-58.27N 071-37.30E,
-   19-04.33N 071-04.50E, 19-10.61N 070-57.71E.
-   100 METER BERTH REQUESTED.
-2. CANCEL HYDROPAC 3249/25.
-3. CANCEL THIS MSG 210001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
