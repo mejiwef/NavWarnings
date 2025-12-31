@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>311110Z DEC 25
+HYDROLANT 2251/25(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-58.80S 057-58.80W.
+   B. A84, 71-44.40S 095-33.60W.
+   C. A85, 68-24.60S 055-47.40W.
+   D. D33A, 65-45.60S 057-27.60W.
+   E. D33C, 66-01.80S 058-19.20W.
+2. CANCEL THIS MSG 011400Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SEAMOUNT</category>
+        <status>INFORCE</status>
+        <msgText>311008Z DEC 25
+HYDROLANT 2250/25(57).
+SOUTH ATLANTIC.
+DNC 01.
+UNDERWATER SEAMOUNTS REPORTED IN: 
+A. 05-43.20S 015-55.03W, LEAST DEPTH 37 METERS.
+B. 05-37.70S 015-57.79W, LEAST DEPTH 48 METERS.
+C. 05-44.51S 016-05.46W, LEAST DEPTH 74 METERS.
+D. 06-02.03S 012-52.64W, LEAST DEPTH 74 METERS.
+E. 05-42.95S 012-56.29W, LEAST DEPTH 141 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OVERDUE</category>
+        <status>INFORCE</status>
+        <msgText>310852Z DEC 25
+HYDROLANT 2249/25(52,53).
+TYRRHENIAN SEA.
+WESTERN MEDITERRANEAN SEA.
+ALGERIA TO SARDINIA.
+DNC 08.
+F/V, WHITE HULL, 14 PERSONS ON BOARD, 
+OVERDUE ANNABA (36-54.00N 007-46.00E) 
+TO CAGLIARI (39-13.67N 009-06.67E)
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC ROME,
+PHONE: 390 6592 4145, 3906 5908 4409,
+EMAIL: ITMRCC@MIT.GOV.IT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>310047Z DEC 25
