@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>302311Z DEC 25
+NAVAREA XII 843/25(17,19).
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   IN PROGRESS 0329Z TO 0432Z DAILY
+   UNTIL 08 JAN 26 IN AREA BOUND BY
+   35-44.00N 146-52.00W, 35-26.00N 145-19.00W,
+   36-15.00N 144-10.00W, 47-12.00N 140-36.00W,
+   47-41.00N 143-30.00W.
+2. CANCEL NAVAREA XII 840/25.
+3. CANCEL THIS MSG 080532Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>300057Z DEC 25
@@ -20,20 +35,6 @@ NORTH PACIFIC.
    24-15.62N 165-11.33W.
    TWO MILE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 819/25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>300022Z DEC 25
-NAVAREA XII 840/25(17,19).
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   IN PROGRESS 0332Z TO 0426Z DAILY UNTIL 08 JAN
-   IN AREA BOUND BY
-   36-52.00N 146-44.00W, 36-21.00N 144-10.00W,
-   51-56.00N 138-30.00W, 52-27.00N 141-52.00W.
-2. CANCEL NAVAREA XII 830/25.
-3. CANCEL THIS MSG 080526Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -71,17 +72,6 @@ CALIFORNIA.
       31-16.00N 122-43.00W, 31-43.00N 122-37.00W.
 2. CANCEL NAVAREA XII 831/25.
 3. CANCEL THIS MSG 080404Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>292126Z DEC 25
-NAVAREA XII 838/25(18).
-NORTH PACIFIC.
-CALIFORNIA.
-USCG REMOTE COMMUNICATION FACILITY
-POINT REYES 37-55.53N 122-43.87W
-VOBRA SERVICES INOPERATIVE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -138,7 +128,8 @@ NORTH PACIFIC.
    34-10.35N 124-56.70W, 33-41.59N 126-48.37W.
    WIDE BERTH REQUESTED.
 2. NAVAREA XII 825/25.
-3. CANCEL THIS MSG 030200Z JAN 26.</msgText>
+3. CANCEL THIS MSG 030200Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

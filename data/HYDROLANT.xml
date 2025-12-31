@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>302331Z DEC 25
+HYDROLANT 2246/25(35).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+CGOC CULLERCOATS 55-04.40N 001-27.80W
+MF DSC AND R/T SERVICE OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>302331Z DEC 25
+HYDROLANT 2245/25(35).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+CGOC GREGNESS 57-07.70N 002-03.20W
+MF R/T SERVICE OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301843Z DEC 25
+HYDROLANT 2243/25(55).
+BLACK SEA.
+TURKEY.
+DNC 10.
+1. SURVEY OPERATIONS 01 JAN THRU 08 SEP 26 
+   BY M/V KARADENIZ ARASTIRMA, 
+   M/V BARBAROS HAYREDDIN PASA, 
+   AND M/V TANUX-1 IN AREA BOUND BY
+   42-20.65N 031-59.85E, 42-20.73N 033-14.63E,
+   42-42.03N 033-14.72E, 43-16.32N 032-46.77E,
+   43-20.30N 031-59.70E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 090001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>301456Z DEC 25
@@ -417,21 +458,6 @@ DNC 07.
 1. SARITA LIGHT 32-37.81S 052-25.76W UNLIT 
    UNTIL 07 JUN 26.
 2. CANCEL THIS MSG 080001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>092324Z DEC 25
-HYDROLANT 2097/25(35,37).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-CGOC MF DSC AND R/T SERVICES OFF AIR AT:
-A. GREGNESS  57-07.70N 002-03.20W.
-B. CULLERCOATS 55-04.40N 001-27.80W.
-C. LANGHAM 52-56.50N 000-57.20E.
-D. BAWDSEY 51-59.60N 001-24.50E. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
