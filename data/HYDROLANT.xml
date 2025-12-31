@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310047Z DEC 25
+HYDROLANT 2248/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   060259Z JAN 26 BY M/V SISTAC VITORIA
+   IN 22-33.48S 040-07.41W.
+   WIDE BERTH REQUESTED.
+2. HYDROLANT 2236/25.
+3. CANCEL THIS MSG 060359Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310042Z DEC 25
+HYDROLANT 2247/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   080259Z JAN 26 BY M/V SKANDI CARLA
+   IN 22-33.05S 040-15.62W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 2235/25.
+3. CANCEL THIS MSG 080359Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>302331Z DEC 25
@@ -174,50 +204,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2195/25.
 3. CANCEL THIS MSG 130001Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300112Z DEC 25
-HYDROLANT 2236/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   050300Z JAN BY M/V SISTAC VITORIA
-   IN 22-33.48S 040-07.41W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 050400Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300106Z DEC 25
-HYDROLANT 2235/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   TO 070300Z JAN BY M/V SKANDI CARLA
-   IN 22-33.05S 040-15.62W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 070400Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291156Z DEC 25
-HYDROLANT 2233/25(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. HAZARDOUS OPERATIONS 300001Z THRU 310100Z DEC
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 310200Z DEC 25.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

@@ -433,26 +433,6 @@ EMAIL: POCC@MPA.GOV.SG.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>260008Z DEC 25
-HYDROPAC 3454/25(81,91).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 12, DNC 23.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   302100Z TO 310300Z DEC IN AREAS BOUND BY:
-   A. 19-43.00N 118-38.00E, 19-38.00N 120-04.00E,
-      19-00.00N 120-02.00E, 19-05.00N 118-36.00E.
-   B. 19-20.00N 123-23.00E, 19-15.00N 124-23.00E,
-      18-43.00N 124-20.00E, 18-47.00N 123-20.00E.
-   C. 17-29.00N 138-24.00E, 17-02.00N 141-05.00E,
-      16-14.00N 140-56.00E, 16-41.00N 138-15.00E.
-2. CANCEL THIS MSG 310400Z DEC 25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250440Z DEC 25
