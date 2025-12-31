@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311645Z DEC 25
+NAVAREA IV 1430/25(24).
+NORTH ATLANTIC.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 31 DEC 26
+   BY OSV SHEPERD TIDE, OSV SKANDI NOMAD,
+   OSV GERARD TIDE, AHT O ROURKE TIDE, 
+   OSV SKANDI CONSTRUCTOR, 
+   AND OSV ALDEMIR SOUZA TIDE IN AREA BOUND BY
+   08-15.96N 057-02.23W, 08-15.96N 056-54.25W,
+   07-58.60N 056-54.25W, 07-58.60N 057-02.23W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z DEC 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>302024Z DEC 25

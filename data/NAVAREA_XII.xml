@@ -85,7 +85,8 @@ CALIFORNIA.
    32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
    32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
    32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z FEB 26.</msgText>
+2. CANCEL THIS MSG 010900Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -99,7 +100,8 @@ CALIFORNIA.
    32-33.00N 118-25.00W, 32-35.00N 118-16.00W,
    32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
    31-55.00N 118-25.00W.
-2. CANCEL THIS MSG 010900Z FEB 26.</msgText>
+2. CANCEL THIS MSG 010900Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -115,7 +117,8 @@ CALIFORNIA.
    33-02.53N 118-43.55W, 32-58.88N 118-43.52W,
    32-47.66N 118-32.35W, 32-36.92N 118-45.00W,
    32-36.92N 118-56.95W.
-2. CANCEL THIS MSG 010900Z FEB 26.</msgText>
+2. CANCEL THIS MSG 010900Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

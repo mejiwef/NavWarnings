@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>311436Z DEC 25
+HYDROPAC 3504/25(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE INSTALLATION WORK 01 THRU 24 JAN 26
+   BY M/V AWB RESILIANT AND TUG VALLIANZ PRELUDE
+   IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 250001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311347Z DEC 25
+HYDROPAC 3503/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 01 THRU 31 JAN 26 
+   BY M/V VANESSA 6 IN AREA BOUND BY
+   19-01.11N 072-26.91E, 18-47.43N 072-42.76E,
+   18-52.22N 072-51.33E, 18-51.71N 072-51.51E,
+   18-46.91N 072-42.59E, 19-00.64N 072-26.62E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3447/25(71).
+3. CANCEL THIS MSG 010001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311152Z DEC 25
+HYDROPAC 3502/25(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. CABLE OPERATIONS 01 THRU 05 JAN 26 
+   BY VESSEL M/V ATHBA IN AREAS BOUND BY:
+   A. 19-07.30N 072-47.78E, 19-06.38N 072-48.40E,
+      18-58.31N 072-34.50E, 18-59.27N 072-34.11E.
+   B. 18-56.86N 072-29.93E, 18-56.22N 072-30.75E,
+      18-51.17N 072-15.66E, 18-52.27N 072-15.45E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 060001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>311120Z DEC 25
@@ -86,21 +148,6 @@ DNC 03.
    11-20.00N 092-55.00E, 11-15.00N 092-30.00E,
    11-00.00N 092-30.00E, 11-05.00N 092-55.00E.
 2. CANCEL THIS MSG 061030Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301616Z DEC 25
-HYDROPAC 3493/25(62).
-RED SEA.
-SAUDI ARABIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS 310400Z TO 
-   311500Z DEC IN AREA BOUND BY
-   24-00.10N 038-00.09E, 24-01.48N 037-56.45E,
-   23-58.00N 037-54.41E, 23-55.39N 037-56.46E.
-2. CANCEL THIS MSG 311600Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -313,7 +360,6 @@ DNC 03.
    04-31.70N 099-09.10E, 05-22.90N 098-27.40E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3055/25.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -405,21 +451,6 @@ HYDROPAC
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>261318Z DEC 25
-HYDROPAC 3466/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 1030Z TO 1230Z 31 DEC
-   IN AREA BOUND BY
-   11-38.13N 093-00.70E, 11-40.80N 092-45.90E,
-   11-26.33N 092-50.27E, 11-30.65N 092-56.90E.
-2. CANCEL THIS MSG 311330Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>261250Z DEC 25
 HYDROPAC 3464/25(63).
 BAY OF BENGAL.
@@ -500,22 +531,6 @@ REPORTS TO MRCC SINGAPORE,
 PHONE: 656 226 5539,
 EMAIL: POCC@MPA.GOV.SG.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250440Z DEC 25
-HYDROPAC 3447/25(71).
-SINGAPORE STRAIT.
-INDONESIA.
-DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY CABLESHIP ILE DE RE
-IN AREA BOUND BY
-01-11.73N 103-53.44E, 01-11.30N 103-53.63E,
-01-11.25N 103-53.17E, 01-10.57N 103-51.99E,
-01-11.04N 103-51.71E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
