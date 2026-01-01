@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>011610Z JAN 26
+NAVAREA XII 3/26(GEN).
+NORTH PACIFIC.
+WEATHER MESSAGE SERVICES UNRELIABLE AT
+USCG REMOTE COMMUNICATION FACILITIES:
+   A. ASTORIA 46-12.4N 123-57.4W.
+   B. BERING SEA 57-46.0N 152-34.0W.
+   C. CAMBRIA 35-31.1N 121-03.6W.
+   D. COLD BAY 55-11.0N 162-42.0W.
+   E. HONOLULU 21-26.1N 158-08.7W. 
+   F. KODIAK 57-46.6N 152-31.7W.
+   G. NOME 64-29.0N 165-15.0W.
+   H. PT HIGGINS 55-27.0N 131-49.0W.
+   I. PT REYES 37-55.5N 122-43.9W.
+   J. SHEMYA 52-43.0N 174-07.0E.
+   K. ST PAUL 57-09.0N 170-14.0W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>302311Z DEC 25
@@ -98,20 +119,6 @@ CALIFORNIA.
    32-47.66N 118-32.35W, 32-36.92N 118-45.00W,
    32-36.92N 118-56.95W.
 2. CANCEL THIS MSG 010900Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270035Z DEC 25
-NAVAREA XII 834/25(18).
-NORTH PACIFIC.
-1. CABLE OPERATIONS 270900Z DEC THRU 030100Z JAN
-   BY M/V REBECCA ALONG TRACKLINE JOINING
-   34-10.35N 124-56.70W, 33-41.59N 126-48.37W.
-   WIDE BERTH REQUESTED.
-2. NAVAREA XII 825/25.
-3. CANCEL THIS MSG 030200Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

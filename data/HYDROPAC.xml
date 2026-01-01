@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>011610Z JAN 26
+HYDROPAC 11/26(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+USCG REMOTE COMMUNICATION FACILITY GUAM 
+13-28.6N 144-50.1E WEATHER MESSAGE 
+SERVICES UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>011502Z JAN 26
+HYDROPAC 10/26(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+WRECK BUOY 24-46.45N 066-57.09E MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>011302Z JAN 26
+HYDROPAC 9/26(61).
+EASTERN INDIAN OCEAN.
+SOMALIA.
+DNC 10.
+1. F/V INVOLVED IN AN ARMED ROBBERY
+   IN 09-09.00N 050-43.00E AT 010530Z JAN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 041302Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011041Z JAN 26
@@ -38,21 +77,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010732Z JAN 26
-HYDROPAC 4/26(71).
-SOUTH CHINA SEA.
-MALAYSIA.
-DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY CABLESHIP ILE DE RE
-IN AREA BOUND BY
-01-38.08N 104-31.35E, 01-38.90N 104-32.12E,
-01-38.53N 104-32.52E, 01-37.70N 104-31.77E.
-WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>010332Z JAN 26
@@ -67,21 +91,6 @@ A SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010008Z JAN 26
-HYDROPAC 1/26(97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 12, DNC 23.
-CABLE OPERATIONS 011500Z JAN UNTIL FURTHER
-NOTICE BY CABLESHIP FU HAI IN AREA BOUND BY
-24-59.70N 131-02.34E, 26-29.77N 133-18.38E,
-26-17.81N 133-29.90E, 24-48.73N 131-10.36E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>WORKING VESSELS</category>
