@@ -13,7 +13,8 @@ NORTH PACIFIC.
    36-15.00N 144-10.00W, 47-12.00N 140-36.00W,
    47-41.00N 143-30.00W.
 2. CANCEL NAVAREA XII 840/25.
-3. CANCEL THIS MSG 080532Z JAN 26.</msgText>
+3. CANCEL THIS MSG 080532Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -231,19 +232,6 @@ FISH FARM ESTABLISHED IN AREA BOUND BY
 06-10.59N 077-31.38W, 06-17.90N 077-33.61W,
 06-31.64N 077-28.82W, 06-49.13N 077-44.24W.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ADMIN</category>
-        <status>INFORCE</status>
-        <msgText>251006Z OCT 25
-NAVAREA XII 670/25(GEN).
-1. COAST GUARD OCEANIA DISTRICT 
-   COMMAND CENTER/JRCC HONOLULU 
-   NEW PHONE NUMBER 1-800-331-6176.
-   OLD PHONE NUMBER NO LONGER IN 
-   SERVICE. 
-2. CANCEL THIS MSG 010001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
