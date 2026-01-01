@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011130Z JAN 26
+HYDROLANT 5/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-58.80S 057-58.80W.
+   B. A84, 71-44.40S 095-33.60W.
+   C. A85, 68-24.60S 055-47.40W.
+   D. D33A, 65-45.60S 057-27.60W.
+   E. D33C, 66-01.80S 058-19.20W.
+2. CANCEL THIS MSG 021400Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>010419Z JAN 26
