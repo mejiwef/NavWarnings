@@ -660,24 +660,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261047Z DEC 25
-HYDROPAC 3460/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0500Z TO 0700Z 
-   AND 0900Z TO 1100Z DAILY 29 DEC, 
-   01 THRU 03 JAN 26 IN AREA BOUND BY
-   21-12.30N 086-49.97E, 20-42.00N 087-10.43E,
-   19-12.60N 085-14.82E, 18-04.22N 086-22.48E,
-   21-02.72N 088-52.75E, 21-28.55N 087-59.30E,
-   21-33.53N 087-24.67E.
-2. CANCEL THIS MSG 031200Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>260943Z DEC 25
