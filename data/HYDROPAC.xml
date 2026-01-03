@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
+        <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>022339Z JAN 26
-HYDROPAC 22/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE 
-   BY M/V DEEP ORIENT
-   IN 21-13.50S 114-38.60E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3316/25.</msgText>
+        <msgText>031208Z JAN 26
+HYDROPAC 23/26(97).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 12, DNC 23.
+CABLE OPERATIONS 031500Z JAN UNTIL FURTHER
+NOTICE BY CABLESHIP FU HAI IN AREA BOUND BY
+26-17.81N 133-29.90E, 26-29.77N 133-18.38E,
+24-59.70N 131-02.34E, 24-48.73N 131-10.36E.
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
