@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OVERDUE</category>
+        <status>INFORCE</status>
+        <msgText>022305Z JAN 26
+HYDROLANT 12/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. AIRCRAFT, PR-OFB, UNREPORTED.
+   LAST KNOWN POSITION 23-37.42S 042-08.00W.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO NAVAREA V,
+   EMAIL: AVRADIO@MARINHA.MIL.BR, RAFAELA.CASTRO@MARINHA.MIL.BR
+2. CANCEL THIS MSG 032100Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021610Z JAN 26
@@ -191,20 +208,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SEAMOUNT</category>
-        <status>INFORCE</status>
-        <msgText>311008Z DEC 25
-HYDROLANT 2250/25(57).
-SOUTH ATLANTIC.
-DNC 01.
-UNDERWATER SEAMOUNTS REPORTED IN: 
-A. 05-43.20S 015-55.03W, LEAST DEPTH 37 METERS.
-B. 05-37.70S 015-57.79W, LEAST DEPTH 48 METERS.
-C. 05-44.51S 016-05.46W, LEAST DEPTH 74 METERS.
-D. 06-02.03S 012-52.64W, LEAST DEPTH 74 METERS.
-E. 05-42.95S 012-56.29W, LEAST DEPTH 141 METERS.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>310047Z DEC 25
@@ -233,7 +236,8 @@ DNC 01.
    IN 22-33.05S 040-15.62W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2235/25.
-3. CANCEL THIS MSG 080359Z JAN 26.</msgText>
+3. CANCEL THIS MSG 080359Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -372,7 +376,8 @@ DNC 01, DNC 02, DNC 03.
    08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010100Z FEB 26.</msgText>
+2. CANCEL THIS MSG 010100Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -404,21 +409,6 @@ DNC 01.
    19-53.87S 039-59.68W, 19-54.15S 039-59.27W,
    19-53.08S 039-58.45W, 19-52.80S 039-58.88W.
 2. CANCEL THIS MSG 220001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201303Z DEC 25
-HYDROLANT 2183/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 02 JAN 26 BY M/V DRAKKAR III IN 
-   23-04.00S 043-02.30W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -469,7 +459,8 @@ HYDROLANT 2141/25(51).
 NORTH ATLANTIC.
 SENEGAL.
 DNC 01.
-11.2 METER SHOAL REPORTED IN 14-38.93N 017-18.94W.</msgText>
+11.2 METER SHOAL REPORTED IN 14-38.93N 017-18.94W.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

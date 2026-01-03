@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>022339Z JAN 26
+HYDROPAC 22/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL FURTHER NOTICE 
+   BY M/V DEEP ORIENT
+   IN 21-13.50S 114-38.60E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3316/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>021705Z JAN 26
@@ -418,7 +433,8 @@ NOTICE BY M/V OFFSHORE SURVEYOR
 ALONG TRACKLINE JOINING
 12-21.15S 130-02.32E, 12-30.16S 129-29.55E,
 12-31.03S 128-26.06E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -507,7 +523,8 @@ DNC 01, DNC 02, DNC 03.
    08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010100Z FEB 26.</msgText>
+2. CANCEL THIS MSG 010100Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -538,9 +555,7 @@ DNC 03.
         <msgText>280033Z DEC 25
 HYDROPAC 3474/25(71).
 STRAIT OF MALACCA.
-INDONESIA.
 MALAYSIA.
-THAILAND.
 DNC 03.
 1. CABLE OPERATIONS 29 DEC UNTIL FURTHER 
    NOTICE BY CABLESHIP RENE DESCARTES IN 
@@ -947,21 +962,6 @@ IN AREA BOUND BY
 19-39.70S 113-24.00E, 19-39.70S 113-03.00E,
 20-00.00S 113-03.00E.
 500 METER BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131916Z DEC 25
-HYDROPAC 3316/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL FURTHER NOTICE BY M/V DEEP ORIENT
-   IN 21-28.50S 113-49.50E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3188/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

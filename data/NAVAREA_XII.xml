@@ -95,7 +95,8 @@ CALIFORNIA.
       31-15.00N 121-56.00W, 30-58.00N 122-17.00W,
       31-16.00N 122-43.00W, 31-43.00N 122-37.00W.
 2. CANCEL NAVAREA XII 831/25.
-3. CANCEL THIS MSG 080404Z JAN 26.</msgText>
+3. CANCEL THIS MSG 080404Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
