@@ -70,23 +70,6 @@ DNC 29.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OVERDUE</category>
-        <status>INFORCE</status>
-        <msgText>022305Z JAN 26
-HYDROLANT 12/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. AIRCRAFT, PR-OFB, UNREPORTED.
-   LAST KNOWN POSITION 23-37.42S 042-08.00W.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO NAVAREA V,
-   EMAIL: AVRADIO@MARINHA.MIL.BR, RAFAELA.CASTRO@MARINHA.MIL.BR
-2. CANCEL THIS MSG 032100Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021610Z JAN 26
