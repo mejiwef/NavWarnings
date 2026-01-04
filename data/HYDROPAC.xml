@@ -189,21 +189,6 @@ WRECK BUOY 24-46.45N 066-57.09E MISSING.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>011302Z JAN 26
-HYDROPAC 9/26(61).
-EASTERN INDIAN OCEAN.
-SOMALIA.
-DNC 10.
-1. F/V INVOLVED IN AN ARMED ROBBERY
-   IN 09-09.00N 050-43.00E AT 010530Z JAN.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 041302Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011041Z JAN 26
@@ -404,21 +389,6 @@ DNC 03.
    11-20.00N 092-55.00E, 11-15.00N 092-30.00E,
    11-00.00N 092-30.00E, 11-05.00N 092-55.00E.
 2. CANCEL THIS MSG 061030Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301043Z DEC 25
-HYDROPAC 3492/25(63).
-INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 1130Z 
-   DAILY 03 AND 04 JAN 26 IN AREA BOUND BY
-   08-30.00N 075-15.00E, 08-45.00N 075-15.00E,
-   08-45.00N 075-30.00E, 08-30.00N 075-30.00E.
-2. CANCEL THIS MSG 041230Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
