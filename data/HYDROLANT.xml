@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040933Z JAN 26
+HYDROLANT 15/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SURVEY OPERATIONS 05 THRU 12 JAN BY TUG C ITAJAI,
+   M/V OCEAN MERMAID, M/V RAMFORM TITAN, AND 
+   M/V DRS IPANEMA TOWING 12 8025 METER LONG CABLES
+   IN AREA BOUND BY
+   30-18.35S 046-56.28W, 30-03.20S 046-26.36W,
+   29-18.28S 045-26.16W, 27-53.32S 045-26.37W,
+   27-53.39S 047-19.68W, 28-53.93S 047-52.17W,
+   29-15.16S 048-06.49W, 30-17.95S 048-28.19W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>031428Z JAN 26
