@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>050540Z JAN 26
+HYDROPAC 26/26(22).
+SOUTH PACIFIC.
+DNC 07.
+1. DART BUOY 4G ESTABLISHED IN 
+   35-45.78S 075-17.38W.
+2. CANCEL HYDROPAC 3095/25.
+3. CANCEL THIS MSG 090001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>042122Z JAN 26
@@ -1133,18 +1146,6 @@ DNC 12, DNC 13.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3098/25.
 3. CANCEL THIS MSG 250001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>260155Z NOV 25
-HYDROPAC 3095/25(22).
-SOUTH PACIFIC.
-DNC 07.
-1. DART BUOY 4G 35-45.50S 075-14.40W TEMPORARILY
-   REMOVED.
-2. CANCEL HYDROPAC 3067/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
