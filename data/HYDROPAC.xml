@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>042122Z JAN 26
+HYDROPAC 25/26(62).
+RED SEA.
+SAUDI ARABIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0300Z TO 0900Z DAILY
+   05 THRU 08 JAN, IN AREA BOUND BY
+   21-13.60N 038-58.50E, 21-13.50N 039-06.20E,
+   21-05.58N 039-07.00E, 21-06.00N 038-58.50E.
+2. CANCEL THIS MSG 081000Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031208Z JAN 26
