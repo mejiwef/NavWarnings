@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>050754Z JAN 26
+NAVAREA XII 6/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+USCG REMOTE COMMUNICATION FACILITY 
+POINT REYES 37-56.00N 122-44.00W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021650Z JAN 26

@@ -1,6 +1,126 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051122Z JAN 26
+HYDROPAC 33/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 10 THRU 31 JAN BY
+   M/V ACOMS 11 IN AREAS BOUND BY:
+   A. 19-41.83N 071-15.64E, 19-42.84N 071-20.08E,
+      19-34.37N 071-26.99E, 19-30.11N 071-21.91E,
+      19-27.31N 071-11.96E, 19-27.70N 071-10.34E.
+   B. 19-25.58N 071-14.29E, 19-21.15N 071-26.69E,
+      19-16.74N 071-33.35E, 19-17.23N 071-15.08E.
+   C. 19-37.40N 071-32.27E, 19-28.59N 071-52.10E,
+      19-25.34N 071-29.00E.
+   D. 19-04.59N 071-37.46E, 18-55.67N 071-40.88E,
+      18-54.93N 071-21.40E, 19-03.56N 071-18.02E.
+   E. 19-37.04N 071-57.40E, 19-01.43N 072-24.97E,
+      18-27.85N 072-32.57E, 18-25.10N 072-07.27E,
+      18-54.86N 071-47.67E, 19-22.05N 071-46.95E.
+   F. 20-35.61N 071-59.55E, 20-43.45N 072-01.14E,
+      21-08.80N 072-24.79E, 21-04.32N 072-30.68E,
+      20-36.57N 072-08.05E.
+   150 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>051042Z JAN 26
+HYDROPAC 32/26(61).
+EASTERN INDIAN OCEAN.
+REUNION.
+DNC 02.
+1. GUNNERY EXERCISES 090900Z TO 092000Z JAN
+   IN AREA BOUND BY
+   21-12.00S 054-57.00E, 21-26.00S 055-02.30E,
+   21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
+2. CANCEL THIS MSG 092100Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051035Z JAN 26
+HYDROPAC 31/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 081200Z TO 081600Z 
+   AND 090030Z TO 090330Z JAN
+   IN AREA BOUND BY
+   17-00.20N 084-06.80E, 17-22.80N 083-33.30E,
+   16-50.30N 083-08.90E, 16-28.00N 083-42.40E.
+2. CANCEL THIS MSG 090430Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>051030Z JAN 26
+HYDROPAC 30/26(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. DERELICT M/V SEA BRIGHT ADRIFT IN 
+   VICNITY 13-39.00N 073-50.00E.
+2. CANCEL THIS MSG 081029Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051024Z JAN 26
+HYDROPAC 29/26(63).
+ANDAMAN SEA.
+BURMA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z 
+   DAILY 08, 15, 22 AND 29 JAN 
+   IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 291130Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>042138Z JAN 26
+HYDROPAC 28/26(22,29,83).
+SOUTH PACIFIC.
+DNC 06, DNC 29.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0615Z TO 1015Z DAILY 10 THRU 23 JAN 
+   IN AREA BOUND BY
+   37-00.00S 128-00.00W, 37-00.00S 124-00.00W,
+   60-00.00S 114-00.00W, 60-00.00S 120-00.00W.
+2. CANCEL THIS MSG 231115Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>050952Z JAN 26
+HYDROPAC 27/26(71).
+SINGAPORE STRAIT.
+INDONESIA.
+MALAYSIA.
+DNC 03.
+1. VESSEL BOARDED AND ROBBED BY PIRATES
+   IN 01-15.64N 104-04.73E AT 050541Z JAN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 080952Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>050540Z JAN 26
