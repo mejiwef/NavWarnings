@@ -226,22 +226,6 @@ DNC 01.
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>310047Z DEC 25
-HYDROLANT 2248/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   060259Z JAN 26 BY M/V SISTAC VITORIA
-   IN 22-33.48S 040-07.41W.
-   WIDE BERTH REQUESTED.
-2. HYDROLANT 2236/25.
-3. CANCEL THIS MSG 060359Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>310042Z DEC 25
 HYDROLANT 2247/25(24).
 SOUTH ATLANTIC.

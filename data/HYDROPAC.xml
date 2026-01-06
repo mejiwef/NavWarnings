@@ -213,20 +213,6 @@ DNC 04.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>021705Z JAN 26
-HYDROPAC 21/26(93).
-SOUTH CHINA SEA.
-DNC 23.
-F/V QNG 96868 TS, SIX PERSONS ON BOARD, DISABLED AND
-ADRIFT DUE TO ENGINE FAILURE IN 16-23.00N 111-41.00E
-AT 021230Z JAN. VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO MRCC
-VIETNAM, EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021620Z JAN 26
@@ -1297,17 +1283,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3061/25.
 3. CANCEL THIS MSG 010001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>190033Z NOV 25
-HYDROPAC 2989/25(22).
-SOUTH PACIFIC.
-PERU.
-DNC 07.
-DANGEROUS WRECK IN VICINITY 11-59.28S 077-08.77W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
