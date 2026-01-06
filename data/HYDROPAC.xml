@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061045Z JAN 26
+HYDROPAC 43/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   24 JAN IN AREA BOUND BY
+   11-34.59N 079-53.55E, 11-34.29N 079-54.04E,
+   11-25.56N 079-55.40E, 11-14.97N 079-57.77E,
+   11-14.95N 080-38.60E, 11-30.00N 080-38.60E,
+   11-30.00N 080-30.00E, 11-59.58N 080-30.00E,
+   11-59.58N 080-38.60E, 12-31.55N 080-38.60E,
+   12-31.55N 080-19.15E, 12-24.02N 080-13.20E,
+   11-48.17N 079-53.25E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 250001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061016Z JAN 26
+HYDROPAC 41/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 110001Z TO 161530Z JAN
+   IN AREA BOUND BY
+   15-48.19N 072-48.21E, 16-24.00N 072-09.00E,
+   16-52.00N 071-33.00E, 17-23.00N 070-35.00E,
+   16-48.00N 069-33.00E, 16-15.00N 068-37.00E,
+   15-15.00N 070-18.00E, 14-33.00N 071-26.00E,
+   14-00.00N 072-26.00E, 13-44.00N 073-18.00E,
+   13-54.93N 073-46.07E, 14-49.15N 073-20.39E,
+   14-56.00N 073-07.19E.
+2. CANCEL THIS MSG 161630Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051631Z JAN 26
@@ -282,21 +323,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>021041Z JAN 26
-HYDROPAC 15/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 060030Z TO 061030Z JAN
-   IN AREA BOUND BY
-   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
-   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
-2. CANCEL THIS MSG 061130Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>021038Z JAN 26
 HYDROPAC 14/26(63).
 ANDAMAN SEA.
@@ -537,22 +563,6 @@ DNC 03.
    18-05.83N 089-07.13E, 21-20.10N 089-03.05E,
    21-33.53N 087-24.67E.
 2. CANCEL THIS MSG 091200Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311024Z DEC 25
-HYDROPAC 3497/25(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0115Z TO 0215Z 
-   AND 0830Z TO 0930Z DAILY 05 AND 06 JAN 26
-   IN AREA BOUND BY
-   11-20.00N 092-55.00E, 11-15.00N 092-30.00E,
-   11-00.00N 092-30.00E, 11-05.00N 092-55.00E.
-2. CANCEL THIS MSG 061030Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1030,22 +1040,6 @@ DNC 06.
 SHOALS REPORTED: 
 A. 7.7 METERS IN 46-36.60S 168-22.72E.
 B. 5.2 METERS IN 46-36.84S 168-22.09E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140650Z DEC 25
-HYDROPAC 3321/25(74).
-EASTERN INDIAN OCEAN.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE M/V REACH REMOTE 2
-IN AREA BOUND BY
-20-00.00S 113-03.00E, 20-00.00S 113-24.00E,
-19-39.70S 113-24.00E, 19-39.70S 113-03.00E,
-20-00.00S 113-03.00E.
-500 METER BERTH REQUESTED.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
