@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>051920Z JAN 26
+HYDROLANT 22/26(53).
+EASTERN MEDITERRANEAN SEA.
+MALTA.
+DNC 09.
+1. NAVTEX STATION MALTA (O)
+   35-51.30N 014-29.30E IS OFFLINE. 
+2. CANCEL HYDROLANT 1730/25(24) AND 2/26(24).
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>051558Z JAN 26
@@ -59,7 +72,8 @@ DNC 29.
    C. A85, 68-13.80S 056-05.40W.
    D. D33A, 65-37.20S 057-33.00W.
    E. D33C, 65-54.60S 058-20.40W.
-2. CANCEL THIS MSG 061400Z JAN 26.</msgText>
+2. CANCEL THIS MSG 061400Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -207,27 +221,6 @@ DNC 01.
    02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
    SIX MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 130001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010115Z JAN 26
-HYDROLANT 2/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 05 JAN
-   BY M/V RAMFORM TITAN, TUG C ITAJAI,
-   M/V OCEAN MERMAID, AND M/V DRS IPANEMA
-   IN AREA BOUND BY
-   30-18.35S 046-56.28W, 30-03.20S 046-26.36W,
-   29-18.28S 045-26.16W, 27-53.32S 045-26.37W,
-   27-53.39S 047-19.68W, 28-53.93S 047-52.17W,
-   29-15.16S 048-06.49W, 30-17.95S 048-28.19W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1/26.
-3. CANCEL THIS MSG 060001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -732,31 +725,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>142241Z OCT 25
-HYDROLANT 1730/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   31 MAR 26 BY M/V RAMFORM TETHYS,
-   M/V LINDE G, M/V NV AVEIRO AND
-   M/V THOR FREYJA TOWING 12 10050 METER
-   LONG CABLES IN AREA BOUND BY
-   00-15.11S 040-17.30W, 00-15.42S 043-43.45W,
-   00-32.09S 043-43.46W, 01-14.12S 043-20.22W,
-   01-14.11S 042-53.46W, 01-44.59S 042-40.34W,
-   02-03.48S 041-39.09W, 01-45.01S 041-39.09W,
-   02-02.24S 041-03.57W, 02-00.05S 040-54.48W,
-   02-02.31S 040-40.04W, 02-00.00S 040-30.00W,
-   01-54.07S 040-17.24W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1727/25.
-3. CANCEL THIS MSG 010001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>120045Z OCT 25
@@ -1029,35 +997,6 @@ DNC 01.
 1. PAU A PINO LIGHT 23-05.92S 044-07.12W
    UNLIT UNTIL 11 JAN 26.
 2. CANCEL THIS MSG 120001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>101120Z JUL 25
-HYDROLANT 1160/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. ODAS BUOY BRAVO RN-O TEMPORARILY
-   ESTABLISHED UNTIL 05 JAN 26
-   IN 04-49.21S 037-02.50W.
-2. CANCEL HYDROLANT 1158/25.
-3. CANCEL THIS MSG 060001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>100051Z JUL 25
-HYDROLANT 1157/25(24).
-WESTERN SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. ODAS BUOY BRAVO RN-PI TEMPORARILY
-   ESTABLISHED UNTIL 05 JAN 26
-   IN 04-49.14S 037-02.47W.
-2. CANCEL THIS MSG 060001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
