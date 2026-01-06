@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061324Z JAN 26
+HYDROPAC 44/26(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0300Z TO 1200Z
+   DAILY 08 AND 09 JAN IN AREA BOUND BY
+   24-48.41N 066-57.36E, 24-42.80N 066-51.26E,
+   24-44.37N 066-49.70E, 24-45.80N 066-48.96E,
+   24-48.26N 066-48.55E.
+2. CANCEL THIS MSG 091300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061045Z JAN 26

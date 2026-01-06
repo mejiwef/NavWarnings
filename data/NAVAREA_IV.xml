@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>061619Z JAN 26
+NAVAREA IV 13/26(26).
+CARIBBEAN SEA.
+JAMAICA.
+CANCEL NAVAREA IV 1155/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>052033Z JAN 26
@@ -638,31 +647,6 @@ NAVAREA IV 1158/25(24).
 CARIBBEAN SEA.
 VENEZUELA.
 DANGEROUS WRECK IN 10-13.39N 064-42.22W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>271944Z OCT 25
-NAVAREA IV 1155/25(26).
-CARIBBEAN SEA.
-JAMAICA.
-DUE TO HURRICANE MELISSA ALL PORTS
-AND HARBOURS IN JAMAICA ARE CLOSED
-UNTIL FURTHER NOTICE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>222009Z OCT 25
-NAVAREA IV 1138/25(13).
-NORTH ATLANTIC.
-MASSACHUSETTS.
-1. USCG REMOTE COMMUNICATION FACILITY
-   BOSTON 41-43.00N 070-31.00W MF/HF
-   RECEIVE SERVICES UNRELIABLE.
-2. CANCEL NAVAREA IV 938/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
