@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>062113Z JAN 26
+HYDROPAC 45/26(22,29,83).
+SOUTH PACIFIC.
+DNC 06, DNC 29.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0615Z TO 1015Z DAILY 11 THRU 13 JAN
+   IN AREA BOUND BY
+   37-00.00S 128-00.00W, 37-00.00S 124-00.00W,
+   60-00.00S 114-00.00W, 60-00.00S 120-00.00W.
+2. CANCEL HYDROPAC 28/26.
+3. CANCEL THIS MSG 131115Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061324Z JAN 26
@@ -176,21 +192,6 @@ DNC 03.
    12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
    13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
 2. CANCEL THIS MSG 291130Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>042138Z JAN 26
-HYDROPAC 28/26(22,29,83).
-SOUTH PACIFIC.
-DNC 06, DNC 29.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0615Z TO 1015Z DAILY 10 THRU 23 JAN 
-   IN AREA BOUND BY
-   37-00.00S 128-00.00W, 37-00.00S 124-00.00W,
-   60-00.00S 114-00.00W, 60-00.00S 120-00.00W.
-2. CANCEL THIS MSG 231115Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1430,29 +1431,6 @@ DNC 03.
    20-20.13N 072-01.32E, 20-13.31N 071-54.79E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 190001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WORKING VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>091448Z OCT 25
-HYDROPAC 2597/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 06 JAN 26
-   FURTHER NOTICE BY  BARGE LTB 300, TUG AHT 
-   BRITOIL 71 AND M/V BRITOIL 81
-   IN AREA BOUND BY
-   20-10.38N 072-29.68E, 20-36.02N 072-02.23E,
-   20-17.38N 071-58.19E, 20-16.76N 071-55.65E,
-   19-20.73N 071-58.58E, 19-20.04N 072-01.20E,
-   19-07.39N 072-06.43E, 19-05.34N 072-06.88E,
-   18-45.28N 072-17.98E, 18-42.56N 072-20.41E,
-   18-47.21N 072-19.54E, 18-48.41N 072-20.03E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 070001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

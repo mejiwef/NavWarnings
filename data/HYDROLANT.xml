@@ -664,18 +664,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>051740Z NOV 25
-HYDROLANT 1857/25(51).
-NORTH ATLANTIC OCEAN.
-WESTERN SAHARA.
-DNC 01.
-ARCIPRES GRANDE LIGHT 23-43.59N 015-57.25W 
-UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>031944Z NOV 25
