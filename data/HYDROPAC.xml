@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071119Z JAN 26
+HYDROPAC 50/26(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V NORMAND SCORPION IN AREA WITHIN
+THREE MILES OF 19-54.75S 113-15.45E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071025Z JAN 26
+HYDROPAC 49/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 080900Z TO 081230Z JAN
+   IN AREA BOUND BY
+   17-42.00N 084-04.00E, 17-44.00N 083-38.00E,
+   17-22.00N 083-28.00E, 17-20.00N 083-55.00E.
+2. CANCEL HYDROPAC 31/26.
+3. CANCEL THIS MSG 081330Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071012Z JAN 26
+HYDROPAC 47/26(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+MALPE LIGHT 13-20.70N 074-41.00E UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071004Z JAN 26
+HYDROPAC 46/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 110100Z TO 131200Z JAN
+   IN AREA BOUND BY
+   17-06.20N 083-55.70E, 16-27.20N 083-13.90E,
+   13-16.40N 086-30.10E, 13-54.50N 087-10.80E.
+2. CANCEL THIS MSG 131300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>062113Z JAN 26
@@ -147,35 +200,6 @@ DNC 02.
    21-12.00S 054-57.00E, 21-26.00S 055-02.30E,
    21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
 2. CANCEL THIS MSG 092100Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051035Z JAN 26
-HYDROPAC 31/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 081200Z TO 081600Z 
-   AND 090030Z TO 090330Z JAN
-   IN AREA BOUND BY
-   17-00.20N 084-06.80E, 17-22.80N 083-33.30E,
-   16-50.30N 083-08.90E, 16-28.00N 083-42.40E.
-2. CANCEL THIS MSG 090430Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>051030Z JAN 26
-HYDROPAC 30/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. DERELICT M/V SEA BRIGHT ADRIFT IN 
-   VICNITY 13-39.00N 073-50.00E.
-2. CANCEL THIS MSG 081029Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

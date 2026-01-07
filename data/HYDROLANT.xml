@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070843Z JAN 26
+HYDROLANT 33/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 121500Z TO 122230Z JAN
+   IN AREA BOUND BY
+   23-15.00S 042-15.00W, 23-15.00S 042-45.00W,
+   23-30.00S 042-45.00W, 23-30.00S 042-15.00W.
+2. CANCEL THIS MSG 122330Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>070205Z JAN 26
