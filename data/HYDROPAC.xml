@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081138Z JAN 26
+HYDROPAC 57/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 13 JAN THRU 12 FEB 26
+   BY M/V ORION LAXMI IN AREAS BOUND BY:
+   A. 20-53.22N 071-57.95E, 20-40.48N 072-30.54E,
+      20-00.87N 072-27.20E, 20-01.40N 071-37.99E,
+      20-28.44N 071-39.02E.
+   B. 19-41.07N 071-06.85E, 19-40.69N 071-36.43E,
+      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
+   C. 19-24.29N 071-55.82E, 19-23.94N 072-16.01E,
+      19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 13 FEB 26. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080957Z JAN 26
+HYDROPAC 56/26(61).
+INDIAN OCEAN.
+REUNION.
+DNC 02.
+1. UNDERWATER OPERATIONS 09 AND 10 JAN 
+   BY M/V MARION DUFRESNE IN: 
+   A. 21-00.00S 055-14.00E.
+   B. 20-58.00S 055-15.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>080049Z JAN 26
@@ -306,22 +344,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>050952Z JAN 26
-HYDROPAC 27/26(71).
-SINGAPORE STRAIT.
-INDONESIA.
-MALAYSIA.
-DNC 03.
-1. VESSEL BOARDED BY PIRATES
-   IN 01-15.64N 104-04.73E AT 050541Z JAN.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 080952Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>050540Z JAN 26
@@ -332,21 +354,6 @@ DNC 07.
    35-45.78S 075-17.38W UNTIL 08 MAY.
 2. CANCEL HYDROPAC 3095/25.
 3. CANCEL THIS MSG 090001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>042122Z JAN 26
-HYDROPAC 25/26(62).
-RED SEA.
-SAUDI ARABIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0300Z TO 0900Z DAILY
-   05 THRU 08 JAN, IN AREA BOUND BY
-   21-13.60N 038-58.50E, 21-13.50N 039-06.20E,
-   21-05.58N 039-07.00E, 21-06.00N 038-58.50E.
-2. CANCEL THIS MSG 081000Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

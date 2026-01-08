@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071615Z JAN 26
+NAVAREA XII 10/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 131900Z TO 140200Z JAN
+   IN AREA BOUND BY
+   33-13.73N 119-31.20W, 33-13.73N 119-37.75W,
+   33-34.00N 119-37.75W, 33-34.00N 119-30.83W.
+2. CANCEL THIS MSG 140300Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>031500Z JAN 26
@@ -12,17 +25,6 @@ NORTH PACIFIC.
    45-05.00N 164-09.00W, 45-30.00N 166-57.00W,
    32-07.00N 170-27.00W, 31-42.00N 168-08.00W.
 2. CANCEL THIS MSG 171903Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>050754Z JAN 26
-NAVAREA XII 6/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-USCG REMOTE COMMUNICATION FACILITY 
-POINT REYES 37-56.00N 122-44.00W OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
