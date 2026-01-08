@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081531Z JAN 26
+HYDROPAC 62/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 081831Z TO 101829Z JAN
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 101929Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>081256Z JAN 26
+HYDROPAC 60/26(61).
+EASTERN INDIAN OCEAN.
+REUNION.
+DNC 02.
+1. GUNNERY EXERCISES 130500Z TO 131500Z JAN
+   IN AREA BOUND BY
+   21-12.00S 054-57.00E, 21-26.00S 055-02.30E,
+   21-39.00S 054-30.30E, 21-19.00S 054-25.54E.
+2. CANCEL THIS MSG 131600Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081246Z JAN 26
+HYDROPAC 59/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. CABLE OPERATIONS 09 THRU 31 JAN
+   BY CABLESHIP ATHBA IN AREA BOUND BY
+   19-03.39N 072-40.33E, 19-02.48N 072-40.89E,
+   19-05.50N 072-47.75E, 19-07.24N 072-49.48E,
+   19-07.87N 072-48.79E, 19-06.39N 072-47.13E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081159Z JAN 26
+HYDROPAC 58/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 11 JAN THRU 10 FEB
+   BY M/V ALBATROSS 37 IN AREAS BOUND BY:
+   A. 14-39.10N 082-33.23E, 14-05.53N 082-51.12E,
+      11-53.93N 083-26.60E, 12-09.17N 083-29.40E,
+      12-29.32N 083-28.67E, 14-07.38N 082-56.79E,
+      14-42.25N 082-40.26E.
+   B. 15-42.20N 081-43.06E, 15-45.48N 081-46.76E,
+      15-03.28N 082-29.31E, 14-42.25N 082-40.26E,
+      14-39.10N 082-33.23E, 14-58.11N 082-22.49E.
+   C. 15-42.88N 081-43.83E, 15-45.48N 081-46.76E,
+      16-13.99N 081-23.59E, 16-09.93N 081-19.49E,
+      15-58.52N 081-26.17E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 11 FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081138Z JAN 26
@@ -51,7 +123,8 @@ DNC 24.
    IN AREA BOUND BY
    42-00.00N 132-20.00E, 42-20.00N 132-20.00E,
    42-20.00N 133-10.00E, 42-00.00N 133-10.00E.
-2. CANCEL THIS MSG 311600Z JAN 26.</msgText>
+2. CANCEL THIS MSG 311600Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -61,7 +134,8 @@ HYDROPAC 54/26(76).
 TASMAN BAY.
 NEW ZEALAND.
 DNC 06.
-BUSH END POINT LIGHT 40-32.70S 173-00.54E UNRELIABLE.</msgText>
+BUSH END POINT LIGHT 40-32.70S 173-00.54E UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -134,22 +208,6 @@ FURTHER NOTICE BY M/V NORMAND SCORPION
 IN AREA WITHIN THREE MILES OF
 19-54.75S 113-15.45E.
 TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071025Z JAN 26
-HYDROPAC 49/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 080900Z TO 081230Z JAN
-   IN AREA BOUND BY
-   17-42.00N 084-04.00E, 17-44.00N 083-38.00E,
-   17-22.00N 083-28.00E, 17-20.00N 083-55.00E.
-2. CANCEL HYDROPAC 31/26.
-3. CANCEL THIS MSG 081330Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1628,18 +1686,6 @@ DANGEROUS WRECK IN 10-22.31N 107-46.96E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>151153Z SEP 25
-HYDROPAC 2375/25(62).
-GULF OF OMAN.
-U.A.E.
-DNC 10.
-1. FUJAYRAH LIGHT ESTABLISHED IN 25-10.61N 056-20.76E.
-2. CANCEL HYDROPAC 3877/24.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VOLCANIC ACTIVITY</category>
         <status>INFORCE</status>
         <msgText>021024Z SEP 25
@@ -1973,23 +2019,6 @@ DNC 10.
 NAVIGATION PROHIBITED UNTIL FURTHER 
 NOTICE IN AREA WITHIN 600 METERS OF 
 28-52.49N 048-21.63E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300838Z DEC 25
-HYDROPAC 3/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 06 THRU 08 JAN IN AREAS WITHIN 
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 081400Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
