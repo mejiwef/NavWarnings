@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>072145Z JAN 26
+HYDROPAC 54/26(76).
+TASMAN BAY.
+NEW ZEALAND.
+DNC 06.
+BUSH END POINT LIGHT 40-32.70S 173-00.54E UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071422Z JAN 26

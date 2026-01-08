@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071809Z JAN 26
+HYDROLANT 37/26(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+HASKEIR ISLAND LIGHT 57-41.90N 007-41.30W UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>071717Z JAN 26
@@ -51,7 +62,8 @@ DNC 01, DNC 29.
    AA. 58-33.00S 037-55.00W.
    AB. 52-27.00S 039-42.00W.
    AC. 52-20.00S 039-38.00W.
-2. CANCEL THIS MSG 081400Z JAN 26.</msgText>
+2. CANCEL THIS MSG 081400Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -68,7 +80,8 @@ DNC 29.
    C. A85, 68-13.80S 056-05.40W.
    D. D33A, 65-37.20S 057-33.00W.
    E. D33C, 65-54.60S 058-20.40W.
-2. CANCEL THIS MSG 081400Z JAN 26.</msgText>
+2. CANCEL THIS MSG 081400Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
