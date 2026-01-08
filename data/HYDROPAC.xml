@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080049Z JAN 26
+HYDROPAC 55/26(96).
+SEA OF JAPAN.
+RUSSIA.
+DNC 24.
+1. MISSILE OPERATIONS 2300Z TO 1500Z
+   DAILY 11 THRU 16 AND 18 THRU 30 JAN
+   IN AREA BOUND BY
+   42-00.00N 132-20.00E, 42-20.00N 132-20.00E,
+   42-20.00N 133-10.00E, 42-00.00N 133-10.00E.
+2. CANCEL THIS MSG 311600Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>072145Z JAN 26

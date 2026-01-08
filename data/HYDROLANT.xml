@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>080537Z JAN 26
+HYDROLANT 40/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+FOG SIGNAL AT NAB LIGHT 50-40.10N 000-57.20W
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080144Z JAN 26
+HYDROLANT 39/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 121500Z TO 122230Z JAN
+   IN AREA BOUND BY
+   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
+   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
+2. CANCEL THIS MSG 122330Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080100Z JAN 26
+HYDROLANT 38/26(51).
+NORTH ATLANTIC.
+CANARY ISLANDS.
+DNC 01.
+1. CABLE OPERATIONS 030001Z TO 112359Z JAN 
+   BY M/V MAASVLIET ALONG TRACKLINE JOINING
+   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
+   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 7/26.
+3. CANCEL THIS MSG 120059Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>071809Z JAN 26
@@ -255,38 +296,6 @@ DNC 08.
    PHONE: 390 6592 4145, 3906 5908 4409,
    EMAIL: ITMRCC@MIT.GOV.IT.
 2. CANCEL HYDROLANT 2249/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011634Z JAN 26
-HYDROLANT 7/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-1. CABLE OPERATIONS 041000Z TO 082359Z JAN 
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
-   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090100Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>310042Z DEC 25
-HYDROLANT 2247/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   080259Z JAN 26 BY M/V SKANDI CARLA
-   IN 22-33.05S 040-15.62W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 2235/25.
-3. CANCEL THIS MSG 080359Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
