@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>081821Z JAN 26
+HYDROPAC 63/26(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+M/V DON CARLOS I SANK IN 36-31.00S 073-54.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081531Z JAN 26
@@ -399,19 +410,6 @@ DNC 03.
    12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
    13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
 2. CANCEL THIS MSG 291130Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>050540Z JAN 26
-HYDROPAC 26/26(22).
-SOUTH PACIFIC.
-DNC 07.
-1. DART BUOY 4G ESTABLISHED IN 
-   35-45.78S 075-17.38W UNTIL 08 MAY.
-2. CANCEL HYDROPAC 3095/25.
-3. CANCEL THIS MSG 090001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
