@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100005Z JAN 26
+HYDROPAC 76/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS
+BY M/V SIEM TOPAZ/LAYN7 IN AREA BOUND BY
+19-56.00S 113-13.20E, 19-53.5S 113-13.2E,
+19-53.5S 113-17.7E, 19-56.0S 113-17.7E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091820Z JAN 26
+HYDROPAC 74/26(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY USV REACH REMOTE 2 
+IN AREA BOUND BY
+19-39.70S 113-03.00E, 19-39.70S 113-24.00E,
+20-00.00S 113-24.00E, 20-00.00S 113-03.00E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>091620Z JAN 26
@@ -311,17 +340,6 @@ DNC 24.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>072145Z JAN 26
-HYDROPAC 54/26(76).
-TASMAN BAY.
-NEW ZEALAND.
-DNC 06.
-BUSH END POINT LIGHT 40-32.70S 173-00.54E UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071422Z JAN 26
@@ -521,21 +539,6 @@ DNC 03.
       20-36.57N 072-08.05E.
    150 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>051042Z JAN 26
-HYDROPAC 32/26(61).
-EASTERN INDIAN OCEAN.
-REUNION.
-DNC 02.
-1. GUNNERY EXERCISES 090900Z TO 092000Z JAN
-   IN AREA BOUND BY
-   21-12.00S 054-57.00E, 21-26.00S 055-02.30E,
-   21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
-2. CANCEL THIS MSG 092100Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

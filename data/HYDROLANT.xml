@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>092145Z JAN 26
+HYDROLANT 55/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS 09 JAN THRU 21 FEB
+   BY M/V OCEANIC CHAMPION TOWING SIX CABLES 300 METERS
+   LONG IN AREA BOUND BY
+   24-41.42S 042-36.10W, 24-39.27S 042-37.90W,
+   24-37.62S 042-41.13W, 24-37.68S 042-45.15W,
+   24-41.25S 042-47.33W, 24-52.35S 042-47.13W,
+   24-55.17S 042-43.42W, 24-55.10S 042-39.23W,
+   24-49.68S 042-35.93W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091734Z JAN 26
