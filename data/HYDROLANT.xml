@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>101019Z JAN 26
+HYDROLANT 59/26(57).
+SOUTH ATLANTIC.
+DNC 01.
+WHITE, SEVEN METER, ROWING BOAT CLAYTON
+CAPSIZED IN 47-01.60S 009-32.00W.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO NAVAREA VII,
+EMAIL:MARITIMERADIO@TELKOM.CO.ZA .
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100411Z JAN 26
