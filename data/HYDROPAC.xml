@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091022Z JAN 26
+HYDROPAC 79/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 151831Z TO 251829Z JAN
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 251929Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>090121Z JAN 26
+HYDROPAC 78/26(81).
+NORTH PACIFIC.
+GUAM.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 150100Z TO 151300Z JAN
+   IN AREA WITHIN THREE MILES OF 13-26.60N 145-07.60E.
+2. CANCEL THIS MSG 151400Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100005Z JAN 26
@@ -1034,23 +1063,6 @@ AT 261120Z DEC. VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO MRCC
 VIETNAM, EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>261055Z DEC 25
-HYDROPAC 3461/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-F/V BV 98791 TS, NINE PERSONS ON BOARD, 
-SANK IN 07-31.33N 107-11.60E AT 260700Z DEC.
-EIGHT PERSONS RESCUED, ONE PERSON REMAIN 
-MISSING. VESSELS IN VICINITY REQUESTED TO 
-KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

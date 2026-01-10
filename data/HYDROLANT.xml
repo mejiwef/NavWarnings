@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100411Z JAN 26
+HYDROLANT 58/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 152200Z TO 160200Z JAN
+   IN AREA BOUND BY
+   10-40.00S 035-15.00W, 10-52.00S 034-56.50W,
+   11-13.00S 035-11.00W, 11-00.00S 035-30.00W.
+2. CANCEL THIS MSG 160300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100353Z JAN 26
+HYDROLANT 57/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
+   10 THRU 24 JAN, BY M/V COMANDO B 
+   IN 20-22.67S 040-08.37W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 242200Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100344Z JAN 26
+HYDROLANT 56/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 151600Z TO 152200Z JAN
+   IN AREA WITHIN 25 MILES OF 11-20.00S 035-30.00W.
+2. CANCEL THIS MSG 152300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>092145Z JAN 26

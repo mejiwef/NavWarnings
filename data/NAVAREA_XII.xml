@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>100442Z JAN 26
+NAVAREA XII 13/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. UNDERWATER ORDNANCE DETONATION
+   151700Z TO 162300Z JAN 26
+   IN 32-35.87N 117-10.87W.
+2. CANCEL THIS MSG 170001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>091657Z JAN 26
@@ -277,6 +290,18 @@ COLOMBIA.
 PUNTA SOLDADO LIGHT 03-48.50N 077-10.80W 
 DISCONTINUED.
 </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>030044Z DEC 25
+NAVAREA XII 12/26(19).
+NORTH PACIFIC.
+HAWAII.
+1. UNDERWATER ORDNANCE DETONATION
+   151700Z TO 161700Z JAN 26
+   IN VICINITY OF 21-17.98N 158-00.12W.
+2. CANCEL THIS MSG 161800Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
