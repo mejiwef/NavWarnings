@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>102335Z JAN 26
+HYDROLANT 63/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. CONTAINERS ADRIFT 
+   IN AREA WITHIN EIGHT MILES OF 50-20.99N 000-34.00W.
+   AT 101330Z JAN.
+2. CANCEL HYDROLANT 50/26.
+3. CANCEL THIS MSG 131330Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>101359Z JAN 26
@@ -215,19 +230,6 @@ DNC 20.
 1. SEVEN CONTAINERS ADRIFT IN 50-21.00N 001-35.00W.
    AT 082347Z JAN.
 2. CANCEL THIS MSG 121526Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>091515Z JAN 26
-HYDROLANT 50/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. CONTAINERS ADRIFT IN 50-38.00N 001-00.00W
-   AT 082300Z JAN.
-2. CANCEL THIS MSG 121520Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

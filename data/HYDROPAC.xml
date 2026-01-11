@@ -257,22 +257,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081531Z JAN 26
-HYDROPAC 62/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 081831Z TO 101829Z JAN
-   IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 101929Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>081256Z JAN 26
@@ -348,22 +332,6 @@ DNC 03.
       19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 13 FEB 26. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080957Z JAN 26
-HYDROPAC 56/26(61).
-INDIAN OCEAN.
-REUNION.
-DNC 02.
-1. UNDERWATER OPERATIONS 09 AND 10 JAN 
-   BY M/V MARION DUFRESNE IN: 
-   A. 21-00.00S 055-14.00E.
-   B. 20-58.00S 055-15.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1284,24 +1252,6 @@ DNC 03.
        18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 150001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121448Z DEC 25
-HYDROPAC 3303/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 17 DEC THRU 10 JAN 26 BY 
-   M/V ALBATROSS 37 IN AREA BOUND BY
-   19-21.40N 088-26.73E, 19-45.48N 088-15.50E,
-   20-06.14N 088-04.18E, 20-03.91N 087-59.09E,
-   18-25.98N 088-14.48E, 17-59.38N 088-24.53E,
-   17-36.44N 088-50.52E, 17-40.41N 088-54.93E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
