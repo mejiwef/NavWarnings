@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110804Z JAN 26
+HYDROPAC 81/26(63).
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+SRI LANKA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0100Z TO 1100Z DAILY,
+   12 AND 13 JAN IN AREAS BOUND BY:
+   A. 04-38.00N 078-52.00E, 05-09.00N 078-52.00E,
+      05-09.00N 079-22.00E, 04-38.00N 079-22.00E.
+   B. 09-16.00N 071-44.00E, 08-45.00N 071-44.00E,
+      08-45.00N 072-14.00E, 09-16.00N 072-14.00E.
+2. CANCEL THIS MSG 131200Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100921Z JAN 26
