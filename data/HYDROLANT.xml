@@ -1,6 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111351Z JAN 26
+HYDROLANT 71/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-56.00S 041-05.00W.
+   B. A74A, 58-19.00S 020-47.00W.
+   C. A77, 49-20.00S 030-19.00W.
+   D. A76C, 60-29.00S 038-06.00W.
+   E. B15AB, 57-31.00S 038-56.00W.
+   F. 49-25.00S 040-55.00W.
+   G. 52-52.00S 039-38.00W.
+   H. 51-48.00S 038-20.00W.
+   I. 52-43.00S 039-33.00W.
+   J. 53-52.00S 041-20.00W.
+   K. 50-42.00S 038-43.00W.
+   L. 51-01.00S 030-26.00W.
+   M. 50-13.00S 029-29.00W.
+   N. 52-29.00S 041-01.00W.
+   O. 51-03.00S 036-46.00W.
+   P. 52-14.00S 040-06.00W.
+   Q. 60-44.00S 045-28.00W.
+   R. 61-20.00S 047-14.00W.
+   S. 59-49.00S 050-27.00W.
+   T. 50-41.00S 038-56.00W.
+   U. 51-35.00S 040-50.00W.
+   V. 52-35.00S 039-33.00W.
+   W. 52-13.00S 039-51.00W.
+   X. 51-39.00S 038-01.00W.
+   Y. 58-33.00S 037-55.00W.
+   Z. 52-38.00S 039-40.00W.
+   AA. 52-18.00S 040-04.00W.
+   AB. 52-15.00S 040-06.00W.
+   AC. 49-43.00S 039-29.00W.
+   AD. 52-30.00S 041-24.00W.
+2. CANCEL THIS MSG 121358Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111343Z JAN 26
+HYDROLANT 70/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-52.20S 058-19.20W.
+   B. A84, 71-33.00S 096-26.40W.
+   C. A85, 68-13.80S 056-06.60W.
+   D. D33A, 65-37.20S 057-33.00W.
+   E. D33C, 65-57.00S 058-22.80W.
+2. CANCEL THIS MSG 121351Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>111152Z JAN 26
+HYDROLANT 69/26(57).
+SOUTH ATLANTIC.
+DNC 01.
+1. DERELICT SEVEN METER ROWBOAT CLAYTON,
+   WHITE HULL, ADRIFT IN 47-04.70S 009-16.90W.
+2. CANCEL HYDROLANT 59/26. 
+3. CANCEL THIS MSG 141102Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110516Z JAN 26
@@ -124,83 +198,6 @@ DNC 20.
    AT 101330Z JAN.
 2. CANCEL HYDROLANT 50/26.
 3. CANCEL THIS MSG 131330Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101359Z JAN 26
-HYDROLANT 62/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-56.00S 040-59.00W.
-   B. A74A, 58-20.00S 020-52.00W.
-   C. A77, 49-22.00S 030-38.00W.
-   D. A76C, 60-30.00S 037-59.00W.
-   E. B15AB, 57-36.00S 038-40.00W.
-   F. 49-47.00S 040-25.00W.
-   G. 52-51.00S 039-44.00W.
-   H. 51-48.00S 038-20.00W.
-   I. 52-45.00S 039-35.00W.
-   J. 53-52.00S 041-21.00W.
-   K. 50-29.00S 038-47.00W.
-   L. 51-01.00S 030-26.00W.
-   M. 50-13.00S 029-29.00W.
-   N. 52-48.00S 040-43.00W.
-   O. 52-28.00S 041-00.00W.
-   P. 51-04.00S 037-10.00W.
-   Q. 52-14.00S 039-52.00W.
-   R. 60-44.00S 045-27.00W.
-   S. 61-19.00S 047-15.00W.
-   T. 59-57.00S 050-39.00W.
-   U. 50-33.00S 038-49.00W.
-   V. 51-42.00S 041-03.00W.
-   W. 52-36.00S 039-37.00W.
-   X. 52-13.00S 039-51.00W.
-   Y. 51-51.00S 038-07.00W.
-   Z. 58-33.00S 037-55.00W.
-   AA. 52-35.00S 039-45.00W.
-   AB. 52-19.00S 039-56.00W.
-   AC. 52-15.00S 040-06.00W.
-   AD. 49-39.00S 039-40.00W.
-   AE. 52-36.00S 041-13.00W.
-2. CANCEL THIS MSG 111406Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101349Z JAN 26
-HYDROLANT 61/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.80S 058-10.20W.
-   B. A84, 71-38.40S 096-16.20W.
-   C. A85, 68-13.80S 056-05.40W.
-   D. D33A, 65-37.20S 057-33.00W.
-   E. D33C, 65-54.60S 058-20.40W.
-2. CANCEL THIS MSG 111358Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>101019Z JAN 26
-HYDROLANT 59/26(57).
-SOUTH ATLANTIC.
-DNC 01.
-WHITE, SEVEN METER, ROWING BOAT CLAYTON
-CAPSIZED IN 47-01.60S 009-32.00W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO NAVAREA VII,
-EMAIL:MARITIMERADIO@TELKOM.CO.ZA .
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -371,19 +368,6 @@ DNC 01.
    24-41.25S 042-47.33W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>081706Z JAN 26
-HYDROLANT 44/26(51).
-NORTH ATLANTIC.
-SENEGAL.
-DNC 01.
-1. DANGEROUS OBJECT ADRIFT IN VICINITY 
-   13-43.91N 017-01.74W AT 081205Z JAN.
-2. CANCEL THIS MSG 111707Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

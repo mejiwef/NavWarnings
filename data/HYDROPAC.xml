@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111210Z JAN 26
+HYDROPAC 82/26(19).
+NORTH PACIFIC.
+DNC 12, DNC 13.
+CABLE OPERATIONS 12 JAN UNTIL FURTHER NOTICE
+BY M/V ANIEK ALONG TRACKLINE JOINING
+25-37.90N 179-24.95E, 25-50.19N 178-52.50E,
+26-07.42N 178-24.76E, 26-48.42N 176-40.50E,
+27-04.45N 176-06.89E, 27-19.93N 175-33.82E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110804Z JAN 26
