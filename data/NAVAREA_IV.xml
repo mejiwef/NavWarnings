@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>121558Z JAN 26
+NAVAREA IV 28/26(27).
+GULF OF AMERICA.
+CUBA.
+PUNTA GOBERNADORA LIGHT 22-59.70N 083-13.00W
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>121342Z JAN 26
+NAVAREA IV 27/26(24).
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+SCARBOROUGH LIGHT 11-10.62N 060-43.62W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>112051Z JAN 26
@@ -103,7 +122,7 @@ NAVAREA IV 22/26(GEN).
     MSI.NGA.MIL/NAVWARNINGS.
     ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
     FROM THE NAVAREA IV COORDINATOR AT NAVSAFETY@NGA.MIL.
-3. CANCEL 1371/25, 5/26.
+3. CANCEL NAVAREA IV 1371/25, 5/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
