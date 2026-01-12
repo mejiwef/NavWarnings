@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>120227Z JAN 26
+HYDROPAC 86/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V KH 90026 TS, EIGHT PERSONS ON BOARD,
+UNREPORTED. LAST KNOWN POSITION IN
+VICINITY 11-58.00N 109-48.00E AT 100700Z JAN.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>120217Z JAN 26
+HYDROPAC 85/26(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1100Z TO 1500Z DAILY 17 THRU 21 JAN
+   IN AREA BOUND BY
+   32-02.50S 132-55.00E, 32-11.00S 133-26.00E,
+   32-53.50S 133-34.50E, 32-58.00S 133-10.50E.
+2. CANCEL THIS MSG 211600Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>112051Z JAN 26
@@ -550,22 +581,6 @@ DNC 03.
    13-54.93N 073-46.07E, 14-49.15N 073-20.39E,
    14-56.00N 073-07.19E.
 2. CANCEL THIS MSG 161630Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051631Z JAN 26
-HYDROPAC 36/26(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP PETER FABER
-ALONG TRACKLINE JOINING
-39-36.57S 146-50.27E, 39-36.58S 146-33.22E,
-39-18.20S 146-16.55E, 39-11.89S 146-01.33E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -399,23 +399,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080100Z JAN 26
-HYDROLANT 38/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 112359Z JAN 
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
-   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 7/26.
-3. CANCEL THIS MSG 120059Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070843Z JAN 26
