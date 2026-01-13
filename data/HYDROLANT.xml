@@ -215,21 +215,6 @@ DNC 01, DNC 07.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>102335Z JAN 26
-HYDROLANT 63/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. CONTAINERS ADRIFT IN AREA WITHIN
-   EIGHT MILES OF 50-20.99N 000-34.00W.
-   AT 101330Z JAN.
-2. CANCEL HYDROLANT 50/26.
-3. CANCEL THIS MSG 131330Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100411Z JAN 26

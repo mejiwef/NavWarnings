@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>130525Z JAN 26
+HYDROPAC 98/26(82,83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   151900Z TO 160100Z JAN IN AREA WITHIN 
+   18 MILES OF TRACKLINE JOINING
+   05-47.00S 165-31.00E, 08-26.00S 167-58.00E.
+2. CANCEL THIS MSG 160200Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121609Z JAN 26
