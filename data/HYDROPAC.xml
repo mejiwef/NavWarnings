@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131102Z JAN 26
+HYDROPAC 101/26(63).
+EASTERN INDIAN OCEAN.
+GULF OF MANNAR.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 10 FEB 
+   BY M/V COASTAL TRIUMPH IN AREA BOUND BY
+   07-55.50N 077-38.00E, 08-04.50N 077-38.00E,
+   08-04.50N 077-43.00E, 07-55.50N 077-43.00E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3179/25.
+3. CANCEL THIS MSG 110001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>130750Z JAN 26
+HYDROPAC 99/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+MAN OVERBOARD FROM F/V BD 99146 TS
+IN 09-09.00N 114-32.00E AT 130315Z JAN.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>130525Z JAN 26
@@ -215,24 +248,6 @@ BY M/V ANIEK ALONG TRACKLINE JOINING
 26-07.42N 178-24.76E, 26-48.42N 176-40.50E,
 27-04.45N 176-06.89E, 27-19.93N 175-33.82E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110804Z JAN 26
-HYDROPAC 81/26(63).
-ARABIAN SEA.
-EASTERN INDIAN OCEAN.
-SRI LANKA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0100Z TO 1100Z DAILY,
-   12 AND 13 JAN IN AREAS BOUND BY:
-   A. 04-38.00N 078-52.00E, 05-09.00N 078-52.00E,
-      05-09.00N 079-22.00E, 04-38.00N 079-22.00E.
-   B. 09-16.00N 071-44.00E, 08-45.00N 071-44.00E,
-      08-45.00N 072-14.00E, 09-16.00N 072-14.00E.
-2. CANCEL THIS MSG 131200Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -966,24 +981,6 @@ DNC 03, DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291143Z DEC 25
-HYDROPAC 3484/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. CABLE OPERATIONS 01 THRU 15 JAN 26 
-   BY CABLESHIP MARAM IN AREA BOUND BY
-   19-12.49N 072-48.30E, 18-15.64N 070-47.76E,
-   17-21.69N 070-05.31E, 17-14.73N 070-23.75E,
-   18-09.95N 071-02.57E, 18-48.14N 072-28.95E,
-   19-05.49N 072-52.09E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291115Z DEC 25
@@ -1347,23 +1344,6 @@ SOUTH PACIFIC.
 FIJI.
 DNC 06.
 VUNA POINT LIGHT 16-57.86S 179-51.80E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021057Z DEC 25
-HYDROPAC 3179/25(63).
-EASTERN INDIAN OCEAN.
-GULF OF MANNAR.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 03 DEC THRU 15 JAN 26 BY 
-   BY M/V COASTAL TRIUMPH IN AREA BOUND BY
-   08-04.50N 077-43.00E, 08-04.50N 077-38.00E,
-   07-55.50N 077-38.00E, 07-55.50N 077-43.00E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

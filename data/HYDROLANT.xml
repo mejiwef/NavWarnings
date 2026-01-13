@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>STRUCTURE</category>
+        <status>INFORCE</status>
+        <msgText>131004Z JAN 26
+HYDROLANT 76/26(57).
+GULF OF GUINEA.
+NIGERIA.
+DNC 01.
+NAVIGATIONAL AIDS AT OFFSHORE STRUCTURE 
+04-11.40N 007-39.40E INOPERATIVE.
+CAUTION ADVISED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>130007Z JAN 26
