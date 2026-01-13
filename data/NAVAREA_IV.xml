@@ -22,7 +22,8 @@ FLORIDA.
       28-30.00N 080-10.00W, 28-24.00N 080-09.00W,
       28-21.00N 080-11.00W, 28-23.00N 080-19.00W,
       28-29.35N 080-32.49W.
-2. CANCEL THIS MSG 250110Z JAN 26.</msgText>
+2. CANCEL THIS MSG 250110Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -50,7 +51,8 @@ GUYANA.
    07-50.05N 056-19.95W, 07-44.99N 056-14.01W,
    07-39.86N 056-15.03W, 07-30.00N 056-19.25W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z MAR 26.</msgText>
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -97,7 +99,8 @@ NAVAREA IV 29/26(GEN).
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO
    WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 140001Z JAN 26.</msgText>
+9. CANCEL THIS MSG 140001Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -107,7 +110,8 @@ NAVAREA IV 28/26(27).
 GULF OF AMERICA.
 CUBA.
 PUNTA GOBERNADORA LIGHT 22-59.70N 083-13.00W
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -116,7 +120,8 @@ UNRELIABLE.</msgText>
 NAVAREA IV 27/26(24).
 CARIBBEAN SEA.
 TRINIDAD AND TOBAGO.
-SCARBOROUGH LIGHT 11-10.62N 060-43.62W UNLIT.</msgText>
+SCARBOROUGH LIGHT 11-10.62N 060-43.62W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>

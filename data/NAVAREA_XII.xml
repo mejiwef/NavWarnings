@@ -97,7 +97,7 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MINING EXERCISES</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100442Z JAN 26
 NAVAREA XII 13/26(18).
@@ -332,7 +332,7 @@ DISCONTINUED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MINING EXERCISES</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030044Z DEC 25
 NAVAREA XII 12/26(19).
@@ -340,8 +340,9 @@ NORTH PACIFIC.
 HAWAII.
 1. UNDERWATER ORDNANCE DETONATION
    151700Z TO 161700Z JAN 26
-   IN VICINITY OF 21-17.98N 158-00.12W.
-2. CANCEL THIS MSG 161800Z JAN 26.</msgText>
+   IN VICINITY 21-17.98N 158-00.12W.
+2. CANCEL THIS MSG 161800Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
