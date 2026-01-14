@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>140633Z JAN 26
+HYDROPAC 105/26(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. DERELICT SEVEN METER VESSEL, WHITE HULL, 
+   CAPSIZED AND ADRIFT IN VICINITY 
+   38-17.93S 178-22.76E AT 140234Z JAN.
+2. CANCEL THIS MSG 170632Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>131732Z JAN 26

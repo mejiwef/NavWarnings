@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>140749Z JAN 26
+HYDROLANT 81/26(51).
+NORTH ATLANTIC.
+SIERRA LEONE.
+DNC 01.
+SUBMERGED OBSTRUCTION REPORTED
+IN VICINITY 08-27.15N 013-21.85W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140727Z JAN 26
+HYDROLANT 80/26(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+1. HAZARDOUS OPERATIONS 0800Z TO 1800Z 
+   DAILY 19 THRU 30 JAN IN AREA WITHIN 
+   38 MILES OF 57-15.00N 008-48.00W.
+2. CANCEL THIS MSG 301900Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>131549Z JAN 26
@@ -119,19 +144,6 @@ LITHUANIA.
 DNC 22.
 KLAIPEDA ENTRANCE RANGE LIGHT, REAR
 55-43.66N 021-05.74E UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>111152Z JAN 26
-HYDROLANT 69/26(57).
-SOUTH ATLANTIC.
-DNC 01.
-1. DERELICT SEVEN METER ROWBOAT CLAYTON,
-   WHITE HULL, ADRIFT IN 47-04.70S 009-16.90W.
-2. CANCEL HYDROLANT 59/26. 
-3. CANCEL THIS MSG 141102Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
