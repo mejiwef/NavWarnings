@@ -135,20 +135,6 @@ NAVAREA XII 11/26(GEN).
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>071615Z JAN 26
-NAVAREA XII 10/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 131900Z TO 140200Z JAN
-   IN AREA BOUND BY
-   33-13.73N 119-31.20W, 33-13.73N 119-37.75W,
-   33-34.00N 119-37.75W, 33-34.00N 119-30.83W.
-2. CANCEL THIS MSG 140300Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>222128Z DEC 25
 NAVAREA XII 837/25(18).
 NORTH PACIFIC.

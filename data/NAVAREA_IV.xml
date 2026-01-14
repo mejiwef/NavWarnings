@@ -85,17 +85,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>130115Z JAN 26
-NAVAREA IV 31/26(12).
-WESTERN NORTH ATLANTIC.
-VIRGINIA.
-NAVTEX STATION CHESAPEAKE (N)
-36-44.00N 076-01.00W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>122217Z JAN 26
