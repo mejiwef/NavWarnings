@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>141325Z JAN 26
+HYDROPAC 109/26(63).
+GULF OF KACHCHH.
+INDIA.
+DNC 03.
+KARUMBHAR ISLAND LIGHT 22-26.32N 069-35.23E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>141317Z JAN 26
+HYDROPAC 108/26(63).
+INDIA.
+DNC 03.
+RACON AT PONDICHERRY LIGHT 11-54.99N 079-49.85E
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141248Z JAN 26
+HYDROPAC 107/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 13 FEB BY 
+   M/V WILCHIEF 1 IN AREAS BOUND BY:
+   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
+      19-09.06N 072-16.51E, 19-10.13N 071-02.57E.
+   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
+      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 140001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141211Z JAN 26
+HYDROPAC 106/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0330Z TO 0830Z AND 
+   1330Z TO 1630Z DAILY 19 THRU 24, 27 THRU 30 JAN
+   AND 02 THRU 06 FEB IN AREA BOUND BY
+   22-12.00N 068-36.33E, 21-15.50N 069-04.00E,
+   21-09.00N 069-40.00E, 21-15.50N 069-42.50E,
+   22-05.75N 068-49.00E.
+2. CANCEL THIS MSG 061730Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>140633Z JAN 26
@@ -25,7 +85,8 @@ DNC 03.
 1. RACON AT MUTTUM POINT 08-07.00N 077-19.00E
    INOPERATIVE.
 2. NAVTEX STATION MUTTUM POINT (L) 
-   08-07.00N 077-19.00E OFF AIR.</msgText>
+   08-07.00N 077-19.00E OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
@@ -459,23 +520,6 @@ COOK STRAIT.
 NEW ZEALAND.
 DNC 06.
 11.8 METER DEPTH REPORTED IN 41-21.36S 174-08.20E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090116Z JAN 26
-HYDROPAC 64/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 13 AND 14 JAN IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 141400Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

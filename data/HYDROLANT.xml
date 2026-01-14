@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141337Z JAN 26
+HYDROLANT 83/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-52.20S 058-19.20W.
+   B. A84, 71-33.00S 096-26.40W.
+   C. A85, 68-13.80S 056-06.60W.
+   D. D33A, 65-37.20S 057-33.00W.
+   E. D33C, 65-57.00S 058-22.80W.
+2. CANCEL THIS MSG 151340Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141337Z JAN 26
+HYDROLANT 82/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-52.00S 041-19.00W.
+   B. A74A, 58-18.00S 020-34.00W.
+   C. A77, 49-54.00S 028-58.00W.
+   D. A76C, 60-34.00S 038-05.00W.
+   E. B15AB, 57-01.00S 038-13.00W.
+   F. 49-16.00S 039-40.00W.
+   G. 52-47.00S 039-22.00W.
+   H. 51-35.00S 038-16.00W.
+   I. 52-39.00S 039-26.00W.
+   J. 53-52.00S 041-21.00W.
+   K. 51-00.00S 037-58.00W.
+   L. 50-48.00S 030-11.00W.
+   M. 50-15.00S 029-31.00W.
+   N. 52-20.00S 041-19.00W.
+   O. 50-46.00S 036-32.00W.
+   P. 52-21.00S 040-23.00W.
+   Q. 60-45.00S 045-27.00W.
+   R. 61-26.00S 047-05.00W.
+   S. 59-38.00S 050-01.00W.
+   T. 51-00.00S 038-05.00W.
+   U. 51-16.00S 040-29.00W.
+   V. 52-38.00S 039-35.00W.
+   W. 52-25.00S 040-26.00W.
+   X. 51-43.00S 037-07.00W.
+   Y. 57-38.00S 036-17.00W.
+   Z. 52-30.00S 039-22.00W.
+   AA. 52-20.00S 040-18.00W.
+   AB. 52-19.00S 040-30.00W.
+   AC. 50-23.00S 039-19.00W.
+   AD. 52-00.00S 041-31.00W.
+   AE. 59-57.00S 033-59.00W.
+   AF. 52-15.00S 041-30.00W.
+2. CANCEL THIS MSG 151338Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>140749Z JAN 26
@@ -9,7 +71,8 @@ NORTH ATLANTIC.
 SIERRA LEONE.
 DNC 01.
 SUBMERGED OBSTRUCTION REPORTED
-IN VICINITY 08-27.15N 013-21.85W.</msgText>
+IN VICINITY 08-27.15N 013-21.85W.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -23,66 +86,6 @@ DNC 19.
    DAILY 19 THRU 30 JAN IN AREA WITHIN 
    38 MILES OF 57-15.00N 008-48.00W.
 2. CANCEL THIS MSG 301900Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131549Z JAN 26
-HYDROLANT 79/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-54.00S 041-11.00W.
-   B. A74A, 58-19.00S 020-38.00W.
-   C. A77, 49-42.00S 029-17.00W.
-   D. A76C, 60-32.00S 038-28.00W.
-   E. B15AB, 57-08.00S 038-33.00W.
-   F. 48-56.00S 040-28.00W.
-   G. 52-48.00S 039-31.00W.
-   H. 51-36.00S 038-25.00W.
-   I. 52-41.00S 039-32.00W.
-   J. 53-52.00S 041-21.00W.
-   K. 50-50.00S 038-19.00W.
-   L. 50-48.00S 030-11.00W.
-   M. 50-15.00S 029-31.00W.
-   N. 52-27.00S 041-13.00W.
-   O. 50-52.00S 036-33.00W.
-   P. 52-16.00S 040-10.00W.
-   Q. 60-44.00S 045-28.00W.
-   R. 61-26.00S 047-08.00W.
-   S. 59-41.00S 050-09.00W.
-   T. 50-49.00S 038-28.00W.
-   U. 51-25.00S 040-37.00W.
-   V. 52-36.00S 039-38.00W.
-   W. 52-19.00S 040-16.00W.
-   X. 51-39.00S 037-29.00W.
-   Y. 57-38.00S 036-17.00W.
-   Z. 52-37.00S 039-31.00W.
-   AA. 52-19.00S 040-14.00W.
-   AB. 52-17.00S 040-22.00W.
-   AC. 49-53.00S 039-23.00W.
-   AD. 52-21.00S 041-33.00W.
-2. CANCEL THIS MSG 141600Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131546Z JAN 26
-HYDROLANT 78/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.20S 058-19.20W.
-   B. A84, 71-33.00S 096-26.40W.
-   C. A85, 68-13.80S 056-06.60W.
-   D. D33A, 65-37.20S 057-33.00W.
-   E. D33C, 65-57.00S 058-22.80W.
-2. CANCEL THIS MSG 141600Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -388,18 +391,6 @@ DNC 20.
    51-39.00N 005-01.00W.
 2. CANCEL HYDROLANT 39/26.
 3. CANCEL THIS MSG 151700Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SOUND SIGNAL</category>
-        <status>INFORCE</status>
-        <msgText>080537Z JAN 26
-HYDROLANT 40/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-FOG SIGNAL AT NAB LIGHT 50-40.10N 000-57.20W
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
