@@ -411,27 +411,6 @@ HYDROPAC 73/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>091206Z JAN 26
-HYDROPAC 71/26(92,93).
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-DNC 11.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   131300Z TO 131900Z JAN IN AREAS BOUND BY:
-   A. 13-31.00N 116-20.00E, 12-40.00N 117-02.00E,
-      12-19.00N 116-35.00E, 13-11.00N 115-54.00E.
-   B. 08-08.00N 120-33.00E, 07-16.00N 121-13.00E,
-      06-56.00N 120-46.00E, 07-48.00N 120-07.00E.
-   C. 08-19.00N 120-31.00E, 07-27.00N 121-11.00E,
-      07-01.00N 120-36.00E, 07-53.00N 119-56.00E.
-2. CANCEL THIS MSG 132000Z JAN 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091117Z JAN 26
