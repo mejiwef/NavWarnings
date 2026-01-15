@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SHOAL</category>
+        <status>INFORCE</status>
+        <msgText>142350Z JAN 26
+HYDROARC 4/26(15).
+AMUNDSEN GULF.
+CANADA.
+DNC 27.
+SHOALS REPORTED IN:
+A. 69-56.01N 123-51.03W.
+B. 69-54.01N 123-59.02W.
+C. 69-48.59N 124-07.42W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>101154Z JAN 26

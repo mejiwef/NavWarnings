@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>142253Z JAN 26
+HYDROPAC 111/26(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V NORMAND SCORPION
+   IN AREA WITHIN THREE MILES OF 19-54.75S 113-15.45E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 50/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141958Z JAN 26
+HYDROPAC 110/26(76).
+COOK STRAIT.
+NEW ZEALAND.
+DNC 06.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V SEASURVEYOR
+IN AREA BOUND BY
+41-18.40S 174-14.30E, 41-15.90S 174-35.80E,
+41-20.10S 174-39.20E, 41-22.50S 174-10.00E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>141325Z JAN 26
@@ -658,20 +686,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 310001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071119Z JAN 26
-HYDROPAC 50/26(74).
-EASTERN INDIAN OCEAN.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V NORMAND SCORPION
-IN AREA WITHIN THREE MILES OF
-19-54.75S 113-15.45E.
-TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1369,31 +1383,6 @@ DNC 06.
 SHOALS REPORTED: 
 A. 7.7 METERS IN 46-36.60S 168-22.72E.
 B. 5.2 METERS IN 46-36.84S 168-22.09E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121424Z DEC 25
-HYDROPAC 3304/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 16 DEC THRU 14 JAN 26
-   BY M/V AHT MARIGOLD AND 
-   BARGE IN AREAS BOUND BY:
-   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
-       19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
-   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-       20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-       18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-       18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z JAN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
