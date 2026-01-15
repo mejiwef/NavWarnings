@@ -47,7 +47,7 @@ ARABIAN SEA.
 GULF OF KHAMBHAT.
 INDIA.
 DNC 03.
-1. PIPELINE OPERATIONS 20 JAN TO 18 FEB BY 
+1. PIPELINE OPERATIONS 20 JAN THRU 18 FEB BY 
    M/V NAND SARATHI AND M/V DHP SHIVALIK
    IN AREAS BOUND BY:
    A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
@@ -103,20 +103,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>150257Z JAN 26
-HYDROPAC 112/26(62).
-RED SEA.
-SAUDI ARABIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL
-   151500Z JAN IN AREA BOUND BY
-   19-20.70N 040-53.80E, 19-16.70N 040-57.90E,
-   19-12.75N 040-53.80E, 19-16.70N 040-48.58E.
-2. CANCEL THIS MSG 151600Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>142253Z JAN 26
@@ -127,7 +113,8 @@ DNC 04.
    FURTHER NOTICE BY M/V NORMAND SCORPION
    IN AREA WITHIN THREE MILES OF 19-54.75S 113-15.45E.
    TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 50/26.</msgText>
+2. CANCEL HYDROPAC 50/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -408,7 +395,8 @@ DNC 03.
       19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3485/25.
-3. CANCEL THIS MSG 130001Z FEB 26.</msgText>
+3. CANCEL THIS MSG 130001Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -537,20 +525,6 @@ DNC 03.
    18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
    18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
 2. CANCEL THIS MSG 251929Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090121Z JAN 26
-HYDROPAC 78/26(81).
-NORTH PACIFIC.
-GUAM.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 150100Z TO 151300Z JAN
-   IN AREA WITHIN THREE MILES OF 13-26.60N 145-07.60E.
-2. CANCEL THIS MSG 151400Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

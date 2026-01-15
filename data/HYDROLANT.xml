@@ -3,18 +3,68 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>151455Z JAN 26
+HYDROLANT 87/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+     A. A23A, 52-44.00S 041-22.00W.
+     B. A74A, 58-15.00S 020-30.00W.
+     C. A77, 49-58.00S 028-43.00W.
+     D. A76C, 60-32.00S 038-02.00W.
+     E. B15AB, 58-46.00S 038-08.00W.
+     F. 49-28.00S 039-12.00W.
+     G. 52-42.00S 039-19.00W.
+     H. 51-32.00S 038-08.00W.
+     I. 52-34.00S 039-20.00W.
+     J. 53-52.00S 041-21.00W.
+     K. 51-01.00S 037-41.00W.
+     L. 50-37.00S 030-15.00W.
+     M. 50-17.00S 029-33.00W.
+     N. 52-16.00S 041-20.00W.
+     O. 50-36.00S 036-30.00W.
+     P. 52-22.00S 040-25.00W.
+     Q. 60-45.00S 045-27.00W.
+     R. 61-25.00S 047-01.00W.
+     S. 59-31.00S 050-02.00W.
+     T. 51-03.00S 037-52.00W.
+     U. 51-12.00S 040-22.00W.
+     V. 52-37.00S 039-27.00W.
+     W. 52-26.00S 040-24.00W.
+     X. 51-43.00S 036-41.00W.
+     Y. 57-42.00S 034-22.00W.
+     Z. 52-27.00S 039-20.00W.
+     AA. 52-18.00S 040-21.00W.
+     AB. 52-20.00S 040-28.00W.
+     AC. 50-33.00S 039-13.00W.
+     AD. 51-53.00S 041-26.00W.
+     AE. 59-55.00S 033-58.00W.
+     AF. 52-08.00S 041-26.00W.
+     AG. 52-47.00S 041-34.00W.
+     AH. 52-52.00S 041-42.00W.
+     AI. 52-57.00S 041-34.00W.
+     AJ. 49-53.00S 028-45.00W.
+2. CANCEL THIS MSG 161500Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>151156Z JAN 26
 HYDROLANT 86/26(29).
 SOUTH ATLANTIC.
 ANTARCTICA.
 DNC 29.
 1. ICEBERG REPORTED IN: 
-   A. 64-52.20S 058-19.20W.
-   B. 71-33.00S 096-26.40W.
-   C. 68-13.80S 056-06.60W.
-   D. 65-37.20S 057-33.00W.
-   E. 65-57.00S 058-22.80W.
-2. CANCEL THIS MSG 161200Z JAN 26.</msgText>
+   A. A81, 64-52.20S 058-19.20W.
+   B. A84, 71-33.00S 096-26.40W.
+   C. A85, 68-13.80S 056-06.60W.
+   D. D33A, 65-37.20S 057-33.00W.
+   E. D33C, 65-57.00S 058-22.80W.
+2. CANCEL THIS MSG 161200Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -29,68 +79,7 @@ DNC 01.
    IN 20-23.12S 040-07.82W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 57/26.
-3. CANCEL THIS MSG 310001Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141337Z JAN 26
-HYDROLANT 83/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.20S 058-19.20W.
-   B. A84, 71-33.00S 096-26.40W.
-   C. A85, 68-13.80S 056-06.60W.
-   D. D33A, 65-37.20S 057-33.00W.
-   E. D33C, 65-57.00S 058-22.80W.
-2. CANCEL THIS MSG 151340Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141337Z JAN 26
-HYDROLANT 82/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-52.00S 041-19.00W.
-   B. A74A, 58-18.00S 020-34.00W.
-   C. A77, 49-54.00S 028-58.00W.
-   D. A76C, 60-34.00S 038-05.00W.
-   E. B15AB, 57-01.00S 038-13.00W.
-   F. 49-16.00S 039-40.00W.
-   G. 52-47.00S 039-22.00W.
-   H. 51-35.00S 038-16.00W.
-   I. 52-39.00S 039-26.00W.
-   J. 53-52.00S 041-21.00W.
-   K. 51-00.00S 037-58.00W.
-   L. 50-48.00S 030-11.00W.
-   M. 50-15.00S 029-31.00W.
-   N. 52-20.00S 041-19.00W.
-   O. 50-46.00S 036-32.00W.
-   P. 52-21.00S 040-23.00W.
-   Q. 60-45.00S 045-27.00W.
-   R. 61-26.00S 047-05.00W.
-   S. 59-38.00S 050-01.00W.
-   T. 51-00.00S 038-05.00W.
-   U. 51-16.00S 040-29.00W.
-   V. 52-38.00S 039-35.00W.
-   W. 52-25.00S 040-26.00W.
-   X. 51-43.00S 037-07.00W.
-   Y. 57-38.00S 036-17.00W.
-   Z. 52-30.00S 039-22.00W.
-   AA. 52-20.00S 040-18.00W.
-   AB. 52-19.00S 040-30.00W.
-   AC. 50-23.00S 039-19.00W.
-   AD. 52-00.00S 041-31.00W.
-   AE. 59-57.00S 033-59.00W.
-   AF. 52-15.00S 041-30.00W.
-2. CANCEL THIS MSG 151338Z JAN 26.
+3. CANCEL THIS MSG 310001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -328,19 +317,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091734Z JAN 26
-HYDROLANT 54/26(51).
-NORTH ATLANTIC.
-SENEGAL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 150900Z TO 151500Z JAN
-   IN AREA WITHIN 20 MILES OF 14-28.00N 017-52.00W.
-2. CANCEL THIS MSG 151600Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>091620Z JAN 26
@@ -391,22 +367,6 @@ DNC 01.
    24-41.25S 042-47.33W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GPS JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>081411Z JAN 26
-HYDROLANT 41/26(36).
-CELTIC SEA.
-SAINT GEORGES CHANNEL.
-WALES.
-DNC 20.
-1. GPS JAMMING EXERCISES 0800Z TO 1600Z DAILY
-   13 THRU 15 JAN IN AREA WITHIN 20 MILES OF 
-   51-39.00N 005-01.00W.
-2. CANCEL HYDROLANT 39/26.
-3. CANCEL THIS MSG 151700Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
