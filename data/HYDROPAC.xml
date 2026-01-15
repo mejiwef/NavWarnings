@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150257Z JAN 26
+HYDROPAC 112/26(62).
+RED SEA.
+SAUDI ARABIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL
+   151500Z JAN IN AREA BOUND BY
+   19-20.70N 040-53.80E, 19-16.70N 040-57.90E,
+   19-12.75N 040-53.80E, 19-16.70N 040-48.58E.
+2. CANCEL THIS MSG 151600Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>142253Z JAN 26
@@ -26,7 +40,8 @@ FURTHER NOTICE BY M/V SEASURVEYOR
 IN AREA BOUND BY
 41-18.40S 174-14.30E, 41-15.90S 174-35.80E,
 41-20.10S 174-39.20E, 41-22.50S 174-10.00E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

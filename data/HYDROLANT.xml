@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150249Z JAN 26
+HYDROLANT 85/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
+   16 THRU 30 JAN BY M/V COMANDO B 
+   IN 20-23.12S 040-07.82W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 57/26.
+3. CANCEL THIS MSG 310001Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>141337Z JAN 26
@@ -261,21 +276,6 @@ DNC 01.
    10-40.00S 035-15.00W, 10-52.00S 034-56.50W,
    11-13.00S 035-11.00W, 11-00.00S 035-30.00W.
 2. CANCEL THIS MSG 160300Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100353Z JAN 26
-HYDROLANT 57/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
-   10 THRU 24 JAN, BY M/V COMANDO B 
-   IN 20-22.67S 040-08.37W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 242200Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
