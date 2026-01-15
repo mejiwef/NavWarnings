@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>151156Z JAN 26
+HYDROLANT 86/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERG REPORTED IN: 
+   A. 64-52.20S 058-19.20W.
+   B. 71-33.00S 096-26.40W.
+   C. 68-13.80S 056-06.60W.
+   D. 65-37.20S 057-33.00W.
+   E. 65-57.00S 058-22.80W.
+2. CANCEL THIS MSG 161200Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150249Z JAN 26
