@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>160944Z JAN 26
+HYDROPAC 125/26(71).
+SINGAPORE STRAIT.
+INDONESIA.
+MALAYSIA.
+DNC 03.
+1. VESSEL BOARDED BY PIRATES IN 
+   01-15.38N 104-06.11E AT 160539Z JAN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 190948Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140623Z JAN 26
+HYDROPAC 124/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 212200Z TO 220700Z JAN
+   IN AREA WITHIN THREE MILES OF 
+   13-30.39N 144-34.22E.
+2. CANCEL THIS MSG 220800Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160412Z JAN 26
@@ -425,23 +455,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3485/25.
 3. CANCEL THIS MSG 130001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121207Z JAN 26
-HYDROPAC 93/26(63).
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 160430Z TO 160730Z JAN
-   IN AREA BOUND BY
-   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
-   22-28.30N 069-17.10E, 22-28.75N 068-51.12E,
-   22-42.11N 068-55.34E.
-2. CANCEL THIS MSG 160830Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

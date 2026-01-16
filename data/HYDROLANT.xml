@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>LIGHT</category>
+        <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>160004Z JAN 26
-HYDROLANT 92/26(24).
+        <msgText>161138Z JAN 26
+HYDROLANT 97/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-52.20 S 58-19.20 W.
+   B. A84, 71-33.00 S 96-26.40 W.
+   C. A85, 68-13.80 S 56-06.60 W.
+   D. D33A, 65-37.20 S 57-33.00 W.
+   E. D33C, 65-57.00 S 58-22.80 W.
+2. CANCEL THIS MSG 171200Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160753Z JAN 26
+HYDROLANT 95/26(24).
 SOUTH ATLANTIC.
 BRAZIL.
 DNC 01.
-1. ILHA DO BOI LIGHT 20-18.64S 040-16.90W UNLIT
-   UNTIL 14 JUL.
-2. CANCEL THIS MSG 150001Z JUL 26.</msgText>
+1. HAZARDOUS OPERATIONS 212200Z TO 220200Z JAN
+   IN AREA BOUND BY
+   10-12.00S 035-04.00W, 10-24.00S 034-47.50W,
+   10-37.00S 034-58.00W, 10-24.00S 035-14.00W.
+2. CANCEL THIS MSG 220300Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160739Z JAN 26
+HYDROLANT 94/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 211500Z TO 212100Z JAN
+   IN AREA WITHIN 25 MILES OF 10-00.00S 034-40.00W.
+2. CANCEL THIS MSG 212200Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -113,23 +144,6 @@ DNC 01, DNC 29.
      AI. 52-57.00S 041-34.00W.
      AJ. 49-53.00S 028-45.00W.
 2. CANCEL THIS MSG 161500Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151156Z JAN 26
-HYDROLANT 86/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERG REPORTED IN: 
-   A. A81, 64-52.20S 058-19.20W.
-   B. A84, 71-33.00S 096-26.40W.
-   C. A85, 68-13.80S 056-06.60W.
-   D. D33A, 65-37.20S 057-33.00W.
-   E. D33C, 65-57.00S 058-22.80W.
-2. CANCEL THIS MSG 161200Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
