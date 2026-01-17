@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>171452Z JAN 26
+HYDROPAC 144/26(62).
+PERSIAN GULF.
+U.A.E..
+DNC 10.
+1. OFFSHORE INSTALLATION OPERATION 18 THRU 20 JAN 26
+   BY TUG RED SNAPPER 2 AND B-SABER 1
+   IN 25-57.16N 056-01.35E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 220001Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170845Z JAN 26

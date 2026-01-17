@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>171612Z JAN 26
+HYDROLANT 109/26(36).
+CELTIC SEA.
+IRELAND.
+DNC 20.
+SMALLS LIGHT WHITE LIGHT
+51-43.3N 005-40.2W
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>171138Z JAN 26
