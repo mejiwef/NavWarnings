@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
+        <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>170546Z JAN 26
-HYDROLANT 106/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-CABLE OPERATIONS IN PROGRESS UNTIL 200100Z JAN
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
-   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200200Z JAN 26.
-</msgText>
+        <msgText>171138Z JAN 26
+HYDROLANT 108/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-52.20S 058-19.20W.
+   B. A84, 71-33.00S 096-26.40W.
+   C. A85, 68-13.80S 056-06.60W.
+   D. D33A, 65-37.20S 057-33.00W.
+   E. D33C, 65-57.00S 058-22.80W.
+2. CANCEL THIS MSG 181200Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -142,23 +142,6 @@ HYDROLANT 99/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 8/26, 23/26, 53/26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161138Z JAN 26
-HYDROLANT 97/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.20 S 58-19.20 W.
-   B. A84, 71-33.00 S 96-26.40 W.
-   C. A85, 68-13.80 S 56-06.60 W.
-   D. D33A, 65-37.20 S 57-33.00 W.
-   E. D33C, 65-57.00 S 58-22.80 W.
-2. CANCEL THIS MSG 171200Z JAN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

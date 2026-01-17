@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170845Z JAN 26
+HYDROPAC 143/26(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
+28-54.04N 049-19.08E, 28-37.02N 049-29.15E,
+28-35.06N 049-30.71E, 28-33.01N 049-31.37E,
+28-32.46N 049-31.10E, 28-29.99N 049-31.17E,
+28-26.15N 049-29.61E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>170625Z JAN 26
+HYDROPAC 142/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 0426Z TO 0901Z 
+   DAILY 22 THRU 28 JAN IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
+   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 281001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170615Z JAN 26
+HYDROPAC 141/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 1030Z 
+   DAILY 22 THRU 24 JAN IN AREA BOUND BY
+   17-49.87N 083-33.57E, 17-33.42N 083-38.12E,
+   17-38.82N 084-00.47E, 17-57.38N 083-49.33E.
+2. CANCEL THIS MSG 241130Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>170035Z JAN 26
@@ -430,20 +475,6 @@ DNC 03.
    21-09.00N 069-40.00E, 21-15.50N 069-42.50E,
    22-05.75N 068-49.00E.
 2. CANCEL THIS MSG 061730Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>140633Z JAN 26
-HYDROPAC 105/26(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. DERELICT SEVEN METER VESSEL, WHITE HULL, 
-   CAPSIZED AND ADRIFT IN VICINITY 
-   38-17.93S 178-22.76E AT 140234Z JAN.
-2. CANCEL THIS MSG 170632Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
