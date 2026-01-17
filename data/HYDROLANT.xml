@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>162317Z JAN 26
+HYDROLANT 103/26(57).
+GULF OF GUINEA.
+NIGERIA.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 08 MAR 
+   BY M/V SW DUCHESS TOWING EIGHT 8100 METER LONG
+   CABLES IN AREA BOUND BY
+   05-58.90N 004-40.30E, 06-09.00N 004-27.80E,
+   05-55.40N 004-00.10E, 05-24.30N 004-19.80E,
+   04-51.60N 004-48.00E, 05-09.10N 005-12.40E,
+   05-58.90N 004-40.30E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 080001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>162310Z JAN 26
+HYDROLANT 102/26(35).
+NORTH SEA.
+SHETLAND ISLANDS.
+DNC 20.
+MUCKLE SKERRY LIGHT 60-26.40N 000-51.80W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>161612Z JAN 26
@@ -34,17 +64,6 @@ HYDROLANT 99/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 8/26, 23/26, 53/26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>161345Z JAN 26
-HYDROLANT 98/26(GEN).
-NGA NAVSAFETY WATCH E-MAIL UNUSABLE. FOR
-URGENT SERVICE, CONTACT NGA NAVSAFETY VIA E-MAIL
-AT NGA.NAVSAFETY@GMAIL.COM OR VIA PHONE AT
-571 557 5455, 800 362 6289.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -636,18 +655,6 @@ DNC 01.
 1. PORTO DE PEDRAS LIGHT 09-09.39S 035-17.89W
    UNLIT UNTIL 27 MAY 26.
 2. CANCEL THIS MSG 280001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>281747Z NOV 25
-HYDROLANT 2016/25(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-1. CAP SPARTEL LIGHT 35-47.50N 005-55.40W UNLIT.
-2. CANCEL HYDROLANT 1774/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

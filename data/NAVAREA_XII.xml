@@ -26,17 +26,6 @@ NAVAREA XII 25/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>161345Z JAN 26
-NAVAREA XII 24/26(GEN).
-NGA NAVSAFETY WATCH E-MAIL UNUSABLE. FOR
-URGENT SERVICE, CONTACT NGA NAVSAFETY VIA E-MAIL
-AT NGA.NAVSAFETY@GMAIL.COM OR VIA PHONE AT
-571 557 5455, 800 362 6289.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>101154Z JAN 26
@@ -138,19 +127,6 @@ NORTH PACIFIC.
    J. SHEMYA 52-43.0N 174-07.0E.
    K. ST PAUL 57-09.0N 170-14.0W.
 2. CANCEL NAVAREA XII 790/25, 3/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100442Z JAN 26
-NAVAREA XII 13/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. UNDERWATER ORDNANCE DETONATION
-   151700Z TO 162300Z JAN 26
-   IN 32-35.87N 117-10.87W.
-2. CANCEL THIS MSG 170001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
