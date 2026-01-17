@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170546Z JAN 26
+HYDROLANT 106/26(51).
+NORTH ATLANTIC.
+CANARY ISLANDS.
+DNC 01.
+CABLE OPERATIONS IN PROGRESS UNTIL 200100Z JAN
+   BY M/V MAASVLIET ALONG TRACKLINE JOINING
+   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
+   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 200200Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>170049Z JAN 26
+HYDROLANT 105/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 52-43.00S 041-25.00W.
+   B. A74A, 58-14.00S 020-26.00W.
+   C. A77, 50-01.00S 028-25.00W.
+   D. A76C, 60-32.00S 038-02.00W.
+   E. B15AB, 58-46.00S 038-08.00W.
+   F. 49-27.00S 038-33.00W.
+   G. 52-39.00S 039-16.00W.
+   H. 51-31.00S 037-51.00W.
+   I. 52-27.00S 039-12.00W.
+   J. 53-52.00S 041-21.00W.
+   K. 51-00.00S 037-14.00W.
+   L. 50-29.00S 030-21.00W.
+   M. 50-22.00S 029-30.00W.
+   N. 52-10.00S 041-17.00W.
+   O. 50-30.00S 036-18.00W.
+   P. 52-26.00S 040-29.00W.
+   Q. 60-45.00S 045-28.00W.
+   R. 61-24.00S 046-53.00W.
+   S. 59-29.00S 050-07.00W.
+   T. 51-05.00S 037-23.00W.
+   U. 51-01.00S 040-06.00W.
+   V. 52-26.00S 040-19.00W.
+   W. 51-43.00S 036-13.00W.
+   X. 57-42.00S 034-22.00W.
+   Y. 52-22.00S 039-16.00W.
+   Z. 52-18.00S 040-25.00W.
+   AA. 52-21.00S 040-30.00W.
+   AB. 50-49.00S 038-46.00W.
+   AC. 51-37.00S 041-15.00W.
+   AD. 59-54.00S 034-01.00W.
+   AE. 51-54.00S 041-14.00W.
+   AF. 52-46.00S 041-37.00W.
+   AG. 52-50.00S 041-44.00W.
+   AH. 52-54.00S 041-34.00W.
+   AI. 49-53.00S 028-24.00W.
+   AJ. 52-58.00S 041-46.00W.
+   AK. 52-43.00S 041-43.00W.
+2. CANCEL THIS MSG 181400Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>170023Z JAN 26
+HYDROLANT 104/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+CANCEL HYDROLANT 25/26 AND THIS MSG,
+AID RESTORED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>162317Z JAN 26
@@ -404,20 +482,6 @@ DNC 09.
 1. NAVTEX STATION MALTA (O)
    35-51.30N 014-29.30E IS OFFLINE. 
 2. CANCEL HYDROLANT 22/26(53).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>060805Z JAN 26
-HYDROLANT 25/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PONTA DO CATALAO LIGHT 28-12.60S 048-39.80W 
-   UNLIT UNTIL 05 JUL.
-2. CANCEL HYDROLANT 1730/25 AND 2/26.
-3. CANCEL THIS MSG 060001Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

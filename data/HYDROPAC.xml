@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>170035Z JAN 26
+HYDROPAC 140/26(71).
+SOUTH CHINA SEA.
+MALAYSIA.
+DNC 03.
+1. BULK CARRIER POSSIBLY BOARDED BY SIX ARMED PIRATES 
+   IN 01-04.28N 103-40.65E AT 161954Z JAN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 200035Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>162215Z JAN 26
