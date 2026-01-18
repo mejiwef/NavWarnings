@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>181334Z JAN 26
+HYDROLANT 114/26(37).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+FOG SIGNALS AT PLATFORMS: 
+A. 49/19-BG, 53-24.1N 002-39.3E,
+B. 49/19-BR, 53-26.5N 002-41.8E, 
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>181125Z JAN 26
@@ -61,56 +75,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>172047Z JAN 26
-HYDROLANT 110/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-40.00S 041-29.00W.
-   B. A74A, 58-13.00S 020-25.00W.
-   C. A77, 49-56.00S 028-02.00W.
-   D. A76C, 60-30.00S 038-01.00W.
-   E. B15AB, 58-46.00S 038-08.00W.
-   F. 49-27.00S 038-33.00W.
-   G. 52-39.00S 039-16.00W.
-   H. 51-31.00S 037-51.00W.
-   I. 52-27.00S 039-12.00W.
-   J. 53-52.00S 041-21.00W.
-   K. 51-00.00S 037-14.00W.
-   L. 50-29.00S 030-21.00W.
-   M. 50-22.00S 029-30.00W.
-   N. 52-10.00S 041-17.00W.
-   O. 50-30.00S 036-18.00W.
-   P. 52-26.00S 040-29.00W.
-   Q. 60-45.00S 045-28.00W.
-   R. 61-24.00S 046-53.00W.
-   S. 59-26.00S 050-10.00W.
-   T. 51-05.00S 037-23.00W.
-   U. 51-13.00S 039-55.00W.
-   V. 52-26.00S 040-19.00W.
-   W. 51-43.00S 036-13.00W.
-   X. 57-23.00S 033-47.00W.
-   Y. 52-22.00S 039-16.00W.
-   Z. 52-15.00S 040-28.00W.
-   AA. 52-21.00S 040-30.00W.
-   AB. 50-49.00S 038-46.00W.
-   AC. 51-37.00S 041-15.00W.
-   AD. 59-54.00S 034-01.00W.
-   AE. 51-54.00S 041-14.00W.
-   AF. 52-44.00S 041-40.00W.
-   AG. 52-48.00S 041-46.00W.
-   AH. 52-54.00S 041-34.00W.
-   AI. 49-53.00S 028-24.00W.
-   AJ. 52-58.00S 041-46.00W.
-   AK. 52-43.00S 041-43.00W.
-2. CANCEL THIS MSG 181400Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>171612Z JAN 26
@@ -121,56 +85,6 @@ DNC 20.
 SMALLS LIGHT WHITE LIGHT
 51-43.3N 005-40.2W
 UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>170049Z JAN 26
-HYDROLANT 105/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-43.00S 041-25.00W.
-   B. A74A, 58-14.00S 020-26.00W.
-   C. A77, 50-01.00S 028-25.00W.
-   D. A76C, 60-32.00S 038-02.00W.
-   E. B15AB, 58-46.00S 038-08.00W.
-   F. 49-27.00S 038-33.00W.
-   G. 52-39.00S 039-16.00W.
-   H. 51-31.00S 037-51.00W.
-   I. 52-27.00S 039-12.00W.
-   J. 53-52.00S 041-21.00W.
-   K. 51-00.00S 037-14.00W.
-   L. 50-29.00S 030-21.00W.
-   M. 50-22.00S 029-30.00W.
-   N. 52-10.00S 041-17.00W.
-   O. 50-30.00S 036-18.00W.
-   P. 52-26.00S 040-29.00W.
-   Q. 60-45.00S 045-28.00W.
-   R. 61-24.00S 046-53.00W.
-   S. 59-29.00S 050-07.00W.
-   T. 51-05.00S 037-23.00W.
-   U. 51-01.00S 040-06.00W.
-   V. 52-26.00S 040-19.00W.
-   W. 51-43.00S 036-13.00W.
-   X. 57-42.00S 034-22.00W.
-   Y. 52-22.00S 039-16.00W.
-   Z. 52-18.00S 040-25.00W.
-   AA. 52-21.00S 040-30.00W.
-   AB. 50-49.00S 038-46.00W.
-   AC. 51-37.00S 041-15.00W.
-   AD. 59-54.00S 034-01.00W.
-   AE. 51-54.00S 041-14.00W.
-   AF. 52-46.00S 041-37.00W.
-   AG. 52-50.00S 041-44.00W.
-   AH. 52-54.00S 041-34.00W.
-   AI. 49-53.00S 028-24.00W.
-   AJ. 52-58.00S 041-46.00W.
-   AK. 52-43.00S 041-43.00W.
-2. CANCEL THIS MSG 181400Z JAN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CANCEL MSG</category>
@@ -201,17 +115,6 @@ DNC 01.
    05-58.90N 004-40.30E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>162310Z JAN 26
-HYDROLANT 102/26(35).
-NORTH SEA.
-SHETLAND ISLANDS.
-DNC 20.
-MUCKLE SKERRY LIGHT 60-26.40N 000-51.80W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
