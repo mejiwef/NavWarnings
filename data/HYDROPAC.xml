@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>180316Z JAN 26
+HYDROPAC 146/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+F/V KH 92259 TS, EIGHT PERSONS ON BOARD,
+DISABLED AND ADRIFT DUE TO DISABLED GEAR BOX 
+IN 10-11.00N 111-44.00E AT 180210Z JAN. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM, 
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FISHING NET</category>
+        <status>INFORCE</status>
+        <msgText>180044Z JAN 26
+HYDROPAC 145/26(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. FISHING NET ADRIFT IN 42-28.33S 173-44.22E.
+   AT 180030Z JAN.
+2. CANCEL THIS MSG 210044Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>WORKING VESSELS</category>
         <status>INFORCE</status>
         <msgText>171452Z JAN 26
