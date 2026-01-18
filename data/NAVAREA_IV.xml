@@ -491,19 +491,6 @@ NORTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270205Z DEC 25
-NAVAREA IV 1420/25(24).
-CARIBBEAN SEA.
-1. HAZARDOUS OPERATIONS 280100Z TO 281300Z DEC
-   IN AREA BOUND BY
-   12-37.00N 065-24.00W, 12-37.00N 066-00.00W,
-   12-05.00N 066-00.00W, 12-05.00N 065-24.00W.
-2. CANCEL THIS MSG 281400Z DEC 25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>241815Z DEC 25
@@ -535,17 +522,6 @@ CARIBBEAN SEA.
 VENEZUELA.
 1. CAYO NOROESTE LIGHT 11-13.31N 068-26.28W UNLIT.
 2. CANCEL NAVAREA IV 1387/25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>171508Z DEC 25
-NAVAREA IV 1387/25(24).
-CARIBBEAN SEA.
-VENEZUELA.
-CAYO NOROESTE LIGHT 11-13.31N 068-26.28W RANGE 
-REDUCED TO 11 MILES. 
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
