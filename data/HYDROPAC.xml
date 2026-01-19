@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>190210Z JAN 26
+HYDROPAC 152/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+FURTHER NOTICE BY CABLESHIP PETER FABER
+IN AREA BOUND BY
+31-48.50S 115-36.00E, 31-46.50S 115-35.00E,
+31-48.50S 115-20.00E, 31-57.00S 115-21.00E,
+31-48.50S 115-36.00E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>190118Z JAN 26
+HYDROPAC 151/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. F/V KH 92259 TS, EIGHT PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO DISABLED GEAR
+   BOX IN 09-48.00N 111-36.00E AT 182330Z JAN.
+   VESSELS IN VICINITY REQUESTED TO KEEP A
+   SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 149/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181958Z JAN 26
@@ -12,23 +45,6 @@ DNC 04.
    IN 12-04.65S 124-17.53E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3408/25.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>181044Z JAN 26
-HYDROPAC 149/26(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V KH 92259 TS, EIGHT PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO DISABLED 
-   GEAR BOX IN 10-03.00N 111-42.00E AT 180828Z JAN.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP 
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 146/26 AND 148/26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>FISHING NET</category>
