@@ -157,23 +157,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181125Z JAN 26
-HYDROLANT 113/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.20S 058-24.60W.
-   B. A84, 71-34.20S 096-26.40W.
-   C. A85, 68-15.60S 055-53.40W.
-   D. D33A, 65-43.80S 057-39.00W.
-   E. D33C, 66-01.80S 058-21.60W.
-2. CANCEL THIS MSG 191130Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181022Z JAN 26
