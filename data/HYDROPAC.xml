@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181958Z JAN 26
+HYDROPAC 150/26(74).
+EASTERN INDIAN OCEAN.
+DNC 04.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V SAFE BOREAS
+   IN 12-04.65S 124-17.53E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3408/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>181044Z JAN 26
@@ -1529,29 +1542,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161320Z DEC 25
-HYDROPAC 3352/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 20 DEC THRU 18 JAN 26
-   BY M/V OCEANIC SIRIUS AND M/V SW BLY
-   IN AREA BOUND BY
-   16-54.00N 084-37.00E, 16-47.00N 084-43.00E,
-   16-44.00N 085-46.00E, 16-59.00N 085-54.00E,
-   16-59.00N 087-01.00E, 15-59.00N 087-01.00E,
-   15-27.00N 086-28.00E, 15-28.00N 085-16.00E,
-   14-57.00N 085-16.00E, 14-57.00N 084-03.00E,
-   16-59.00N 084-03.00E, 16-59.00N 084-36.00E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3144/25, 3000/25.
-3. CANCEL THIS MSG 190001Z JAN 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>150412Z DEC 25
@@ -1772,22 +1762,6 @@ B. 29-06.85N 048-08.34E.
 C. 29-07.34N 048-08.76E.
 D. 29-07.01N 048-08.88E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160158Z OCT 25
-HYDROPAC 2649/25(63).
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   18 JAN 26 BY VESSEL JD ODYSSEY AND
-   TUG CREATIVE 1 IN VICINITY TRACKLINE JOINING
-   20-20.13N 072-01.32E, 20-13.31N 071-54.79E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 190001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

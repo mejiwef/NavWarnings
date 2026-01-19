@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>181814Z JAN 26
+HYDROLANT 116/26(37).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+EAST CARDINAL BUOY 
+54-30.90N 002-36.30E 
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PLATFORM</category>
         <status>INFORCE</status>
         <msgText>181334Z JAN 26
@@ -376,24 +389,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2237/25.
 3. CANCEL THIS MSG 210001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110052Z JAN 26
-HYDROLANT 64/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01, DNC 07.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 18 JAN 
-   BY M/V SW EMPRESS TOWING TEN 11000 METER
-   LONG CABLES IN AREA BOUND BY
-   34-29.60S 048-21.10W, 33-08.40S 050-18.20W,
-   33-08.60S 050-18.20W, 34-38.20S 051-58.20W,
-   35-50.50S 050-05.20W, 35-51.10S 049-43.10W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 190001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
