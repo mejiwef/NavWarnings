@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>200629Z JAN 26
+HYDROPAC 185/26(76).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2245Z TO 0200Z DAILY 26 JAN THRU 09 FEB
+   IN AREA BOUND BY
+   53-18.00S 171-48.00E, 53-36.00S 174-06.00E,
+   58-48.00S 172-36.00E, 58-30.00S 169-54.00E.
+2. CANCEL THIS MSG 100300Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>200638Z JAN 26
+HYDROPAC 184/26(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   2245Z TO 0200Z DAILY 26 JAN THRU 09 FEB
+   IN AREAS BOUND BY:
+   A. 39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
+      39-15.00S 178-06.00E, 39-54.00S 177-48.00E,
+      39-54.00S 177-36.00E, 39-18.00S 177-42.00E.
+   B. 43-24.00S 175-42.00E, 43-36.00S 177-30.00E,
+      47-42.00S 176-30.00E, 47-24.00S 174-30.00E.
+2. CANCEL THIS MSG 100300Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>210338Z JAN 26
+HYDROPAC 183/26(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 211300Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>202305Z JAN 26
@@ -13,19 +60,6 @@ DNC 04.
    IN 13-12.20S 125-14.30E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 3408/25, 150/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>202230Z JAN 26
-HYDROPAC 180/26(GEN).
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL HYDROPAC 179/26.
-4. CANCEL THIS MSG 210400Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -59,22 +93,6 @@ DNC 02.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 310001Z JAN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>200928Z JAN 26
-HYDROPAC 174/26(93).
-SOUTH CHINA SEA.
-DNC 11.
-1. F/V KH 92259 TS, EIGHT PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO DISABLED GEAR
-   BOX IN 09-18.00N 111-22.00E AT 200820Z JAN.
-   VESSELS IN VICINITY REQUESTED TO KEEP A
-   SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 168/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -179,22 +197,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z MAR 26.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191332Z JAN 26
-HYDROPAC 162/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 210400Z TO 210500Z JAN
-   IN AREA BOUND BY
-   17-48.00N 083-35.00E, 17-42.00N 083-18.00E,
-   17-31.00N 083-32.00E, 17-34.80N 083-34.18E,
-   17-39.30N 083-35.60E, 17-43.70N 083-35.70E.
-2. CANCEL THIS MSG 210600Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -353,19 +355,6 @@ IN AREA BOUND BY
 31-48.50S 115-20.00E, 31-57.00S 115-21.00E,
 31-48.50S 115-36.00E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FISHING NET</category>
-        <status>INFORCE</status>
-        <msgText>180044Z JAN 26
-HYDROPAC 145/26(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. FISHING NET ADRIFT IN 42-28.33S 173-44.22E.
-   AT 180030Z JAN.
-2. CANCEL THIS MSG 210044Z JAN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>WORKING VESSELS</category>
