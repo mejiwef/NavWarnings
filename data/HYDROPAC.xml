@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>202305Z JAN 26
+HYDROPAC 181/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V SAFE BOREAS
+   IN 13-12.20S 125-14.30E.
+   THREE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 3408/25, 150/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>202230Z JAN 26
+HYDROPAC 180/26(GEN).
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL HYDROPAC 179/26.
+4. CANCEL THIS MSG 210400Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201622Z JAN 26
@@ -326,19 +353,6 @@ IN AREA BOUND BY
 31-48.50S 115-20.00E, 31-57.00S 115-21.00E,
 31-48.50S 115-36.00E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181958Z JAN 26
-HYDROPAC 150/26(74).
-EASTERN INDIAN OCEAN.
-DNC 04.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V SAFE BOREAS
-   IN 12-04.65S 124-17.53E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3408/25.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>FISHING NET</category>
@@ -1398,23 +1412,6 @@ WRECK BUOY 24-46.45N 066-57.09E MISSING.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>011041Z JAN 26
-HYDROPAC 7/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 05 THRU 20 JAN 
-   BY VESSEL IN AREA BOUND BY
-   14-35.00N 073-58.20E, 14-40.60N 073-58.20E,
-   14-40.60N 074-06.80E, 14-38.70N 074-06.80E,
-   14-38.70N 074-18.00E, 14-35.00N 074-18.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 210001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>011035Z JAN 26
 HYDROPAC 6/26(63).
 ANDAMAN SEA.
@@ -1677,19 +1674,6 @@ IN HEIGHT, ESTABLISHED IN AREA WITHIN ONE MILE
 OF 19-57.09S 115-13.91E.
 THREE MILE BERTH REQUESTED.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210857Z DEC 25
-HYDROPAC 3408/25(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY M/V SAFE BOREAS IN 13-12.20S 125-14.30E.
-THREE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
