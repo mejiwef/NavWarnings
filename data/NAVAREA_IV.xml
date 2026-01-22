@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210852Z JAN 26
+NAVAREA IV 66/26(24).
+CARIBBEAN SEA.
+ARUBA.
+1. CABLE OPERATIONS 27 AND 28 JAN 
+   BY CABLESHIP IT INFINITY 
+   IN AREA BOUND BY
+   12-43.70N 070-18.90W, 12-43.70N 070-16.15W,
+   12-41.00N 070-16.15W, 12-41.00N 070-18.90W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 290001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220915Z JAN 26
+NAVAREA IV 65/26(24).
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 231100Z TO 231700Z JAN
+   IN AREA BOUND BY
+   10-23.18N 075-33.82W, 10-22.35N 075-33.82W,
+   10-22.35N 075-32.68W, 10-23.18N 075-32.68W.
+2. CANCEL THIS MSG 231800Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>212005Z JAN 26

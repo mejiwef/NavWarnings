@@ -45,26 +45,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>170636Z JAN 26
-NAVAREA XII 28/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   220243Z TO 220726Z JAN, ALTERNATE 0243Z TO 0726Z 
-   DAILY 23 THRU 28 JAN IN AREAS BOUND BY:
-   A. 31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
-      34-40.00N 120-39.00W, 34-40.00N 120-37.00W,
-      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
-   B. 28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
-      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
-      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
-      28-48.00N 121-25.00W.
-2. CANCEL THIS MSG 280826Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170416Z JAN 26
