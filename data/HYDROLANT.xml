@@ -353,19 +353,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160739Z JAN 26
-HYDROLANT 94/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 211500Z TO 212100Z JAN
-   IN AREA WITHIN 25 MILES OF 10-00.00S 034-40.00W.
-2. CANCEL THIS MSG 212200Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>152345Z JAN 26

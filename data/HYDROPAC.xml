@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>211958Z JAN 26
+HYDROPAC 195/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+F/V BD 93429 TS, 17 PERSONS ONBOARD,
+FLOODING IN 09-05.00N 106-51.00E ON 22 JAN.
+VESSELS IN VICINITY REQUESTED TO KEEP
+A SHARP LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>211352Z JAN 26
@@ -19,9 +35,6 @@ DNC 03.
       07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
       07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
 2. CANCEL THIS MSG 250800Z JAN 26.
-
-
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -270,22 +283,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>191713Z JAN 26
-HYDROPAC 165/26(61).
-EASTERN INDIAN OCEAN.
-REUNION.
-DNC 02.
-1. GUNNERY EXERCISES 190500Z TO 212000Z JAN
-   IN AREA BOUND BY
-   21-12.00S 054-57.00E, 21-26.00S 055-02.30E,
-   21-39.02S 054-30.30E, 21-19.30S 054-25.54E.
-2. CANCEL THIS MSG 212100Z JAN 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>191555Z JAN 26
@@ -439,20 +436,6 @@ IN AREA BOUND BY
 31-48.50S 115-20.00E, 31-57.00S 115-21.00E.
 ONE MILE BERTH REQUESTED.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WORKING VESSELS</category>
-        <status>INFORCE</status>
-        <msgText>171452Z JAN 26
-HYDROPAC 144/26(62).
-PERSIAN GULF.
-U.A.E..
-DNC 10.
-1. OFFSHORE INSTALLATION OPERATION 18 THRU 20 JAN 26
-   BY TUG RED SNAPPER 2 AND B-SABER 1
-   IN 25-57.16N 056-01.35E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
