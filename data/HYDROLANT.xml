@@ -338,21 +338,6 @@ HYDROLANT 99/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160753Z JAN 26
-HYDROLANT 95/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 212200Z TO 220200Z JAN
-   IN AREA BOUND BY
-   10-12.00S 035-04.00W, 10-24.00S 034-47.50W,
-   10-37.00S 034-58.00W, 10-24.00S 035-14.00W.
-2. CANCEL THIS MSG 220300Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>152345Z JAN 26
