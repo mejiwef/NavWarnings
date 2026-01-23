@@ -59,18 +59,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170416Z JAN 26
-NAVAREA XII 27/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 221700Z TO 230001Z JAN 
-   IN AREA WITHIN TWO MILES OF 32-35.87N 117-10.87W.
-2. CANCEL THIS MSG 230100Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>161522Z JAN 26

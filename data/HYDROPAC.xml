@@ -350,19 +350,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>200257Z JAN 26
-HYDROPAC 170/26(73).
-CORAL SEA.
-PAPUA NEW GUINEA.
-DNC 05.
-1. DERELICT F/V WITH NET, PARTIALLY SUBMERGED
-   AND ADRIFT IN 09-30.51S 143-17.47E AT 190514Z JAN.
-2. CANCEL THIS MSG 230257Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>200124Z JAN 26
@@ -1133,17 +1120,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 070001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>090928Z JAN 26
-HYDROPAC 66/26(76).
-COOK STRAIT.
-NEW ZEALAND.
-DNC 06.
-11.8 METER DEPTH REPORTED IN 41-21.36S 174-08.20E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
