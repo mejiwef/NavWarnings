@@ -429,18 +429,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>140749Z JAN 26
-HYDROLANT 81/26(51).
-NORTH ATLANTIC.
-SIERRA LEONE.
-DNC 01.
-SUBMERGED OBSTRUCTION REPORTED
-IN VICINITY 08-27.15N 013-21.85W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140727Z JAN 26

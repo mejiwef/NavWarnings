@@ -169,21 +169,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211033Z JAN 26
-HYDROPAC 192/26(63).
-INDIAN OCEAN.
-LAKSHADWEEP.
-DNC 03.
-1. HAZARDOUS OPERATIONS 230130Z TO 230900Z JAN
-   IN AREA BOUND BY
-   08-15.36N 073-04.50E, 08-14.89N 073-03.32E,
-   08-16.53N 073-03.30E, 08-16.57N 073-03.43E.
-2. CANCEL THIS MSG 231000Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211021Z JAN 26
@@ -347,21 +332,6 @@ DNC 06.
    59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
    25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
 2. CANCEL THIS MSG 312235Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>200124Z JAN 26
-HYDROPAC 169/26(82).
-CORAL SEA.
-NEW CALEDONIA.
-DNC 06.
-1. GUNNERY EXERCISES 212000Z TO 230600Z JAN
-   IN AREAS WITHIN:
-   A. 20 MILES OF 23-00.00S 165-58.00E.
-   B. TEN MILES OF 22-42.00S 166-00.00E.
-2. CANCEL THIS MSG 230700Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
