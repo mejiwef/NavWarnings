@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>232133Z JAN 26
+HYDROPAC 221/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1700Z TO 2135Z DAILY 29 JAN THRU 04 FEB
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 25-50.00S 154-33.00W,
+   59-40.00S 164-45.00W, 59-13.00S 168-58.00W.
+2. CANCEL HYDROPAC 199/26(74).
+3. CANCEL THIS MSG 042235Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>231619Z JAN 26
@@ -276,18 +292,6 @@ DNC 03.
    13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
    13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
 2. CANCEL THIS MSG 271030Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PLATFORM</category>
-        <status>INFORCE</status>
-        <msgText>221026Z JAN 26
-HYDROPAC 199/26(74).
-INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-ALL NAVIGATIONAL AIDS AT PLATFORM WANDOO
-20-08.31S 116-25.28E INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

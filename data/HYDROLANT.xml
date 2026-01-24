@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>232155Z JAN 26
+HYDROLANT 154/26(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+CAP SPARTEL LIGHT 35-47.46N 005-55.43W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>231720Z JAN 26
@@ -9,7 +20,8 @@ NORTH ATLANTIC.
 SIERRA LEONE.
 DNC 01.
 OBSTRUCTION REPORTED IN VICINITY
-08-27.15N 013-21.85W.</msgText>
+08-27.15N 013-21.85W.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -42,7 +54,8 @@ HYDROLANT 151/26(GEN).
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROLANT 99/26, 139/26.</msgText>
+3. CANCEL HYDROLANT 99/26, 139/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
