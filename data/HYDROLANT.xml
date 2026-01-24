@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241404Z JAN 26
+HYDROLANT 158/26(23,29,57).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 51-58.00S 041-24.00W.
+   B. A23J, 52-36.00S 041-29.00W.
+   C. A74A, 58-11.00S 020-00.00W.
+   D. A77, 49-51.00S 027-03.00W.
+   E. A76C, 60-02.00S 038-06.00W.
+   F. B15AB, 56-54.00S 036-02.00W.
+   G. 50-31.00S 038-31.00W.
+   H. 52-20.00S 039-26.00W.
+   I. 53-52.00S 041-21.00W.
+   J. 50-28.00S 035-46.00W.
+   K. 49-54.00S 031-04.00W.
+   L. 61-06.00S 045-20.00W.
+   M. 51-43.00S 039-38.00W.
+   N. 52-15.00S 040-16.00W.
+   O. 51-55.00S 036-06.00W.
+   P. 56-23.00S 032-11.00W.
+   Q. 51-59.00S 040-26.00W.
+   R. 50-21.00S 037-13.00W.
+   S. 51-08.00S 039-51.00W.
+   T. 59-48.00S 034-18.00W.
+   U. 52-41.00S 041-21.00W.
+   V. 49-05.00S 026-26.00W.
+   W. 49-14.00S 026-34.00W.
+   X. 52-43.00S 041-27.00W.
+   Y. 51-29.00S 041-12.00W.
+   Z. 52-32.00S 041-17.00W.
+   AA. 50-25.00S 037-20.00W.
+   AB. 50-29.00S 038-48.00W.
+   AC. 51-55.00S 040-35.00W.
+2. CANCEL THIS MSG 251404Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241358Z JAN 26
+HYDROLANT 157/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-52.20S 058-24.60W.
+   B. A84, 71-34.20S 096-26.40W.
+   C. A85, 68-15.60S 055-53.40W.
+   D. D33A, 65-43.80S 057-39.00W.
+   E. D33C, 66-01.80S 058-21.60W.
+2. CANCEL THIS MSG 251358Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241245Z JAN 26
+HYDROLANT 156/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 27 JAN
+   BY M/V W TUPAN II IN AREA BOUND BY
+   23-03.53S 042-27.92W, 23-02.77S 042-20.93W,
+   23-05.07S 042-20.65W, 23-05.83S 042-27.65W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 280001Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>241238Z JAN 26
+HYDROLANT 155/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PONTA DO RETIRO LIGHT 21-21.58S 040-57.76W UNLIT
+   UNTIL 22 JUL.
+2. CANCEL HYDROLANT 1278/25.
+3. CANCEL THIS MSG 230001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>232155Z JAN 26
@@ -55,64 +145,6 @@ HYDROLANT 151/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 99/26, 139/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231530Z JAN 26
-HYDROLANT 150/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 52-11.00S 041-27.00W.
-   B. A23J, 52-36.00S 041-32.00W.
-   C. A74A, 58-10.00S 020-05.00W.
-   D. A77, 49-47.00S 027-03.00W.
-   E. A76C, 60-08.00S 037-56.00W.
-   F. B15AB, 56-47.00S 036-05.00W.
-   G. 50-12.00S 038-34.00W.
-   H. 52-21.00S 039-24.00W.
-   I. 53-52.00S 041-21.00W.
-   J. 50-31.00S 035-56.00W.
-   K. 49-50.00S 031-48.00W.
-   L. 61-13.00S 045-33.00W.
-   M. 51-44.00S 039-44.00W.
-   N. 52-18.00S 040-17.00W.
-   O. 51-57.00S 036-11.00W.
-   P. 56-23.00S 032-11.00W.
-   Q. 52-05.00S 040-35.00W.
-   R. 50-32.00S 037-19.00W.
-   S. 51-09.00S 040-00.00W.
-   T. 59-48.00S 034-18.00W.
-   U. 52-44.00S 041-26.00W.
-   V. 52-38.00S 041-19.00W.
-   W. 49-14.00S 026-34.00W.
-   X. 52-43.00S 041-27.00W.
-   Y. 51-44.00S 041-29.00W.
-   Z. 52-32.00S 041-17.00W.
-   AA. 50-32.00S 037-21.00W.
-2. CANCEL THIS MSG 241529Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231413Z JAN 26
-HYDROLANT 148/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-52.20S 058-24.60W.
-   B. A84, 71-34.20S 096-26.40W.
-   C. A85, 68-15.60S 055-53.40W.
-   D. D33A, 65-43.80S 057-39.00W.
-   E. D33C, 66-01.80S 058-21.60W.
-2. CANCEL THIS MSG 241412Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -965,19 +997,6 @@ DNC 01.
 1. ICAPARA LIGHT 24-41.00S 047-27.20W UNLIT 
    UNTIL 03 FEB 26.
 2. CANCEL THIS MSG 040001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>010025Z AUG 25
-HYDROLANT 1278/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PONTA DO RETIRO LIGHT 21-21.58S 040-57.76W UNLIT
-   UNTIL 27 JAN 26.
-2. CANCEL THIS MSG 280001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

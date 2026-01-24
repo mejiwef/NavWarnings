@@ -399,23 +399,6 @@ DNC 01, DNC 02.
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>210813Z JAN 26
-HYDROPAC 186/26(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1100Z TO 1500Z DAILY 24 AND 25 JAN
-   IN AREA BOUND BY
-   32-02.50S 132-55.00E, 32-11.00S 133-26.00E,
-   32-53.50S 133-34.50E, 32-58.00S 133-10.50E.
-2. CANCEL HYDROPAC 171/26.
-3. CANCEL THIS MSG 251600Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
         <msgText>200629Z JAN 26
 HYDROPAC 185/26(76).
 SOUTH PACIFIC.
@@ -507,21 +490,6 @@ DNC 03.
    20-08.39N 071-53.13E, 20-02.96N 071-45.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191048Z JAN 26
-HYDROPAC 159/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 221230Z TO 241530Z JAN
-   IN AREA BOUND BY
-   14-30.00N 072-37.00E, 14-45.00N 072-37.00E,
-   14-45.00N 072-52.00E, 14-30.00N 072-52.00E.
-2. CANCEL THIS MSG 241630Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -719,27 +687,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 190001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141229Z JAN 26
-HYDROPAC 114/26(63).
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0230Z TO 1230Z DAILY 
-   20 THRU 24 JAN IN AREAS BOUND BY:
-   A. 08-17.73N 092-56.16E, 07-28.93N 093-46.58E,
-      07-26.37N 093-43.39E, 07-27.15N 093-42.62E,
-      07-26.32N 093-41.56E, 07-25.40N 093-42.24E,
-      07-21.58N 093-37.53E, 08-02.58N 092-38.20E.
-   B. 09-23.58N 093-19.40E, 08-29.42N 094-02.57E,
-      08-07.90N 093-39.83E, 08-15.40N 093-32.42E,
-      08-57.12N 092-44.78E.
-2. CANCEL THIS MSG 241330Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
