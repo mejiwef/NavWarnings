@@ -653,22 +653,6 @@ DNC 03.
 2. CANCEL THIS MSG 011830Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161251Z JAN 26
-HYDROPAC 127/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 
-   21 THRU 24 JAN IN AREA BOUND BY:
-   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
-   17-49.50N 083-59.60E, 17-49.50N 084-15.70E,
-   17-58.90N 084-27.30E.
-2. CANCEL THIS MSG 241130Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161209Z JAN 26
