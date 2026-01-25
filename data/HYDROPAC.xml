@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>250659Z JAN 26
+HYDROPAC 225/26(71).
+SOUTH CHINA SEA.
+DNC 11.
+MAN OVERBOARD FROM M/V C GRACE IN
+06-00.00N 106-55.40E AT 250510Z JAN. VESSELS IN
+VICINITY REQUESTED TO KEEP A SHARP LOOKOUT,
+ASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231403Z JAN 26
@@ -992,21 +1006,6 @@ DNC 12.
    13-28.6N 144-50.1E WEATHER MESSAGE 
    SERVICES UNRELIABLE.
 2. CANCEL HYDROPAC 3212/25, 11/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111210Z JAN 26
-HYDROPAC 82/26(19).
-NORTH PACIFIC.
-DNC 12, DNC 13.
-CABLE OPERATIONS 12 JAN UNTIL FURTHER NOTICE
-BY M/V ANIEK ALONG TRACKLINE JOINING
-25-37.90N 179-24.95E, 25-50.19N 178-52.50E,
-26-07.42N 178-24.76E, 26-48.42N 176-40.50E,
-27-04.45N 176-06.89E, 27-19.93N 175-33.82E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
