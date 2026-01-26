@@ -1024,22 +1024,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091022Z JAN 26
-HYDROPAC 79/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 151831Z TO 251829Z JAN
-   IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.00E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 251929Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100005Z JAN 26
@@ -1464,34 +1448,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>262139Z DEC 25
-HYDROPAC 3471/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 27 DEC THRU 25 JAN 26 BY 
-   AHT RAWABI OPAL, TUG TRITON ENERGY, TUG VISTA 9, 
-   AND TUG VICTORIA 251 IN AREAS BOUND BY:
-   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
-      19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
-   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3462/25.
-3. CANCEL THIS MSG 260001Z JAN 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>241551Z DEC 25
@@ -1500,20 +1456,6 @@ BAY OF BENGAL.
 INDIA.
 DNC 03.
 SOUTH SENTINEL LIGHT 10-58.83N 092-13.53E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>200629Z DEC 25
-HYDROPAC 3402/25(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-12 YELLOW LIGHT BUOYS, FL W 3 SEC, 6 METERS IN HEIGHT 
-ESTABLISHED IN AREA WITHIN ONE MILE OF 
-38-47.62S 142-37.77E.
-THREE MILE BERTH REQUESTED. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
