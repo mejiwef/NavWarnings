@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261707Z JAN 26
+NAVAREA IV 77/26(24).
+NORTH ATLANTIC.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 202200Z FEB 
+   BY M/V AMAZON WARRIOR TOWING 10,500 METER LONG CABLES
+   ALONG TRACKLINE JOINING
+   11-25.35N 058-38.44W, 11-03.42N 057-58.82W,
+   10-59.29N 057-17.23W, 10-54.54N 057-17.23W,
+   10-18.83N 058-42.89W, 10-22.99N 058-43.73W,
+   11-16.06N 058-43.76W.
+   SIX MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 202300Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>251918Z JAN 26
@@ -327,17 +344,6 @@ NAVAREA IV 40/26(GEN).
    CONTACT NAVSAFETY@NGA.MIL SUBJ: MODU REPORT.
 3. CANCEL NAVAREA IV 1333/25.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>131940Z JAN 26
-NAVAREA IV 33/26(11).
-WESTERN NORTH ATLANTIC.
-SOUTH CAROLINA.
-NAVTEX STATION CHARLESTON (E)
-32-08.00N 081-42.00W INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

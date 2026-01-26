@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>261755Z JAN 26
+NAVAREA XII 52/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+CANCEL NAVAREA XII 35/26 AND THIS MSG,
+OPERATIONS COMPLETED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250325Z JAN 26
@@ -88,29 +99,6 @@ CALIFORNIA.
    33-13.73N 119-31.20W, 33-13.73N 119-37.75W,
    33-34.00N 119-37.75W, 33-34.00N 119-30.83W.
 2. CANCEL THIS MSG 290300Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>141938Z JAN 26
-NAVAREA XII 35/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
-   A. 251517Z TO 251941Z JAN, ALTERNATE
-      1517Z TO 1941Z DAILY 26 THRU 31 JAN
-      IN AREA BOUND BY
-      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
-      34-40.00N 120-39.00W, 34-40.00N 120-37.00W,
-      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
-   B. 251517Z JAN TO 252000Z JAN, ALTERNATE
-      1517Z TO 2000Z DAILY 26 THRU 31 JAN
-      IN AREA BOUND BY
-      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
-      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
-      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
-      28-48.00N 121-25.00W .
-2. CANCEL THIS MSG 312100Z JAN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

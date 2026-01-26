@@ -1,6 +1,131 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>261644Z JAN 26
+HYDROLANT 177/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+RANNEYS BUOY 50-19.90N 004-26.40W OFF STATION
+IN 50-20.30N 004-26.60W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>261450Z JAN 26
+HYDROLANT 175/26(51).
+CANARY ISLANDS.
+DNC 01.
+1. NAVTEX STATION LAS PALMAS (I) 
+   28-26.00N 016-20.00W OFF AIR.
+2. LAS PALMAS BROADCASTS WILL BE TRANSMITTED BY 
+   LAS PALMAS RADIO STATION VIA MF.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>261431Z JAN 26
+HYDROLANT 174/26(51).
+NORTH ATLANTIC.
+THE GAMBIA.
+DNC 01.
+SAFE WATER MARK N2 13-31.71N 016-49.21W 
+UNLIT AND SAFE WATER MARK N3 OFF STATION 
+IN 13-34.40N 016-44.40W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>261355Z JAN 26
+HYDROLANT 173/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 51-38.00S 041-24.00W.
+   B. A23J, 52-35.00S 041-26.00W.
+   C. A77, 50-00.00S 027-03.00W.
+   D. A76C, 59-53.00S 038-05.00W.
+   E. B15AB, 57-05.00S 036-03.00W.
+   F. 50-29.00S 037-52.00W.
+   G. 52-25.00S 039-28.00W.
+   H. 49-38.00S 030-11.00W.
+   I. 61-03.00S 045-11.00W.
+   J. 51-44.00S 039-38.00W.
+   K. 52-20.00S 040-15.00W.
+   L. 51-53.00S 036-04.00W.
+   M. 55-46.00S 032-06.00W.
+   N. 51-57.00S 040-26.00W.
+   O. 50-13.00S 037-04.00W.
+   P. 51-07.00S 039-43.00W.
+   Q. 59-36.00S 034-18.00W.
+   R. 52-31.00S 041-18.00W.
+   S. 52-28.00S 041-26.00W.
+   T. 48-39.00S 026-14.00W.
+   U. 52-27.00S 041-28.00W.
+   V. 50-52.00S 040-35.00W.
+   W. 52-17.00S 041-12.00W.
+   X. 50-16.00S 037-00.00W.
+   Y. 50-37.00S 037-56.00W.
+   Z. 51-54.00S 040-30.00W.
+   AA. 48-44.00S 026-11.00W.
+2. CANCEL THIS MSG 271355Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>261333Z JAN 26
+HYDROLANT 172/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-28.20W.
+   B. A84, 71-34.80S 097-37.20W.
+   C. A85, 68-16.20S 056-33.00W.
+   D. D33A, 65-33.00S 057-48.00W.
+   E. D33C, 65-53.40S 058-28.20W.
+2. CANCEL THIS MSG 271333Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261321Z JAN 26
+HYDROLANT 171/26(44).
+BALTIC SEA.
+LITHUANIA.
+DNC 22.
+1. HAZARDOUS OPERATIONS 010800 TO 271500Z FEB
+IN AREA BOUND BY
+55-31.40N 021-13.30E, 55-38.13N 021-09.00E,
+55-36.98N 020-45.88E, 55-33.98N 020-41.88E,
+55-24.98N 020-41.88E, 55-21.98N 020-45.88E,
+55-24.98N 020-59.88E.
+2. CANCEL HYDROLANT 2056/25.
+3. CANCEL THIS MSG 271600Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>261309Z JAN 26
+HYDROLANT 170/26(37).
+NORTH SEA.
+DNC 20.
+EAST CARDINAL BUOY 54-30.9N 002-36.3E
+PERMANENTLY REMOVED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>260951Z JAN 26
@@ -104,48 +229,6 @@ IRELAND.
 DNC 19.
 NAVTEX STATION MALIN HEAD (Q)(A)
 55-21.80N 007-20.40W OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>251423Z JAN 26
-HYDROLANT 163/26(23,29,57).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 07, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 51-46.00S 041-24.00W.
-   B. A23J, 52-36.00S 041-29.00W.
-   C. A77, 49-54.00S 027-04.00W.
-   D. A76C, 59-58.00S 038-06.00W.
-   E. B15AB, 57-05.00S 036-03.00W.
-   F. 50-36.00S 038-06.00W.
-   G. 52-22.00S 039-25.00W.
-   H. 53-52.00S 041-20.00W.
-   I. 50-26.00S 035-42.00W.
-   J. 49-54.00S 031-04.00W.
-   K. 61-06.00S 045-20.00W.
-   L. 51-43.00S 039-37.00W.
-   M. 52-17.00S 040-16.00W.
-   N. 51-55.00S 036-06.00W.
-   O. 55-51.00S 032-00.00W.
-   P. 51-57.00S 040-25.00W.
-   Q. 50-17.00S 037-10.00W.
-   R. 51-08.00S 039-45.00W.
-   S. 59-48.00S 034-18.00W.
-   T. 52-36.00S 041-17.00W.
-   U. 52-29.00S 041-21.00W.
-   V. 48-53.00S 026-21.00W.
-   W. 52-43.00S 041-27.00W.
-   X. 51-11.00S 040-51.00W.
-   Y. 52-21.00S 041-15.00W.
-   Z. 50-19.00S 037-13.00W.
-   AA. 50-40.00S 038-20.00W.
-   AB. 51-55.00S 040-35.00W.
-   AC. 48-56.00S 026-16.00W.
-2. CANCEL THIS MSG 261421Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -406,20 +489,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140727Z JAN 26
-HYDROLANT 80/26(35).
-NORTH ATLANTIC.
-SCOTLAND.
-DNC 19.
-1. HAZARDOUS OPERATIONS 0800Z TO 1800Z 
-   DAILY 19 THRU 30 JAN IN AREA WITHIN 
-   38 MILES OF 57-15.00N 008-48.00W.
-2. CANCEL THIS MSG 301900Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131400Z JAN 26
@@ -664,23 +733,6 @@ DNC 07.
 1. SARITA LIGHT 32-37.81S 052-25.76W UNLIT 
    UNTIL 07 JUN 26.
 2. CANCEL THIS MSG 080001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041010Z DEC 25
-HYDROLANT 2056/25(44).
-BALTIC SEA.
-LITHUANIA.
-DNC 22.
-1. HAZARDOUS OPERATIONS 080800Z TO 121500Z DEC
-   IN AREA BOUND BY
-   55-36.98N 020-45.88E, 55-38.13N 021-09.00E,
-   55-31.40N 021-13.30E, 55-24.98N 020-59.88E,
-   55-21.98N 020-45.88E, 55-24.98N 020-41.88E,
-   55-33.98N 020-41.88E.
-2. CANCEL THIS MSG 121600Z DEC 25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
