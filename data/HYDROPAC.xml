@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>260507Z JAN 26
+HYDROPAC 231/26(82).
+CORAL SEA.
+NEW CALEDONIA.
+DNC 06.
+1. GUNNERY EXERCISES 262100Z TO 290700Z JAN
+   IN AREAS WITHIN:
+   A. 20 MILES OF 23-00.00S 165-58.00E.
+   B. TEN MILES OF 22-42.00S 166-00.00E.
+2. CANCEL THIS MSG 290800Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260031Z JAN 26
+HYDROPAC 230/26(74,75).
+BASS STRAIT.
+TASMAN SEA.
+AUSTRALIA.
+DNC 05.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY CABLESHIP ILE DYEU ALONG TRACKLINE JOINING
+33-57.00S 151-16.00E, 33-59.00S 151-21.00E,
+34-22.00S 151-44.00E, 35-00.00S 152-00.00E,
+38-20.00S 150-59.00E, 39-12.00S 149-54.00E,
+39-15.00S 148-54.00E, 39-25.00S 148-36.00E,
+39-28.00S 148-08.00E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>251508Z JAN 26
