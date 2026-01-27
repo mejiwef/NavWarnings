@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271152Z JAN 26
+HYDROPAC 243/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0830Z
+   DAILY 30 JAN THRU 01 FEB IN AREA BOUND BY
+   17-29.33N 083-36.92E, 17-30.23N 083-34.87E,
+   17-28.28N 083-33.90E, 17-27.37N 083-35.95E.
+2. CANCEL THIS MSG 010930Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271129Z JAN 26
+HYDROPAC 242/26(63).
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+DNC 03.
+1. HAZARDOUS OPERATIONS 300130Z TO 300730Z JAN
+   IN AREA BOUND BY
+   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
+   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
+2. CANCEL THIS MSG 300830Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271037Z JAN 26
+HYDROPAC 241/26(72).
+MAKASSAR STRAIT.
+INDONESIA.
+DNC 04, DNC 11.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V RAMFORM SOVEREIGN
+TOWING 12 10050 METER LONG CABLES
+IN AREA BOUND BY
+00-10.30S 117-49.00E, 00-10.30S 117-50.20E,
+00-52.50S 117-50.20E, 01-30.60S 117-26.90E,
+01-33.70S 117-31.80E, 01-44.20S 117-25.40E,
+01-50.30S 117-36.30E, 01-55.30S 117-45.70E,
+01-23.40S 118-03.70E, 01-20.80S 117-59.40E,
+01-16.50S 118-00.70E, 01-16.50S 118-08.60E,
+01-33.60S 118-08.60E, 01-33.60S 118-33.50E,
+00-47.90S 118-33.70E, 00-48.00S 118-27.70E,
+00-14.00N 118-28.00E, 00-14.00N 118-10.10E,
+00-31.90N 118-10.10E, 00-32.00N 117-47.80E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>270918Z JAN 26
+HYDROPAC 240/26(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+MBENGGA LIGHT 18-24.30S 178-09.90E
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>211732Z JAN 26
+HYDROPAC 239/26(57,61,71).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   01 THRU 28 FEB IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>270414Z JAN 26
@@ -41,7 +122,8 @@ DNC 07.
    IN AREA BOUND BY
    11-31.00S 078-15.00W, 11-31.00S 077-50.00W,
    11-55.00S 077-50.00W, 11-55.00S 078-15.00W.
-2. CANCEL THIS MSG 020100Z FEB 26.</msgText>
+2. CANCEL THIS MSG 020100Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -474,22 +556,6 @@ DNC 03.
    13-10.00N 080-36.00E, 13-26.50N 080-22.00E,
    13-26.50N 080-18.00E.
 2. CANCEL THIS MSG 150600Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221034Z JAN 26
-HYDROPAC 200/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 270830Z TO 270930Z JAN
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 271030Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
