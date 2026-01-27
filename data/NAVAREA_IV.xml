@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>270540Z JAN 26
+NAVAREA IV 80/26(11,26).
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   012304Z TO 020347Z FEB, ALTERNATE 
+   022238Z TO 030321Z, 032212Z TO 040255Z,
+   042146Z TO 050229Z, 052120Z TO 060203Z,
+   062054Z TO 070137Z AND 072027Z TO 080110Z FEB.
+   IN AREAS BOUND BY:
+   A. 26-12.00N 075-07.00W, 26-29.00N 075-54.00W,
+      26-31.00N 076-00.00W, 25-56.00N 076-00.00W,
+      25-43.00N 075-40.00W, 25-17.00N 074-58.00W,
+      25-06.00N 074-13.00W, 25-11.00N 074-02.00W,
+      25-44.00N 074-19.00W.
+   B. 28-30.00N 080-10.00W, 28-39.00N 080-28.00W,
+      28-39.00N 080-37.68W, 28-29.35N 080-32.49W,
+      28-23.00N 080-19.00W, 28-21.00N 080-11.00W,
+      28-24.00N 080-09.00W.
+2. CANCEL THIS MSG 080210Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>270107Z JAN 26
+NAVAREA IV 79/26(24).
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+GRAN CHEMIN LIGHT 10-05.27N 061-16.77W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>262028Z JAN 26

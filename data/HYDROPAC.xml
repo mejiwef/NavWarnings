@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>270414Z JAN 26
+HYDROPAC 238/26(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1100Z TO 1430Z DAILY 29 AND 30 JAN
+   IN AREA BOUND BY
+   32-02.50S 132-55.00E, 32-11.00S 133-26.00E,
+   32-53.50S 133-34.50E, 32-58.00S 133-10.50E.
+2. CANCEL THIS MSG 301530Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270010Z JAN 26
