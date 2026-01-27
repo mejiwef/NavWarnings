@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270010Z JAN 26
+HYDROPAC 237/26(76).
+TASMAN SEA.
+DNC 06.
+CABLE OPERATIONS 291900Z JAN UNTIL FURTHER
+NOTICE BY M/V LAYLA ALONG TRACKLINE JOINING
+36-21.10S 166-27.05E, 36-32.00S 168-50.23E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>262258Z JAN 26
+HYDROPAC 236/26(22).
+SOUTH PACIFIC.
+PERU.
+DNC 07.
+1. GUNNERY EXERCISES 011000Z TO 020000Z FEB
+   IN AREA BOUND BY
+   11-31.00S 078-15.00W, 11-31.00S 077-50.00W,
+   11-55.00S 077-50.00W, 11-55.00S 078-15.00W.
+2. CANCEL THIS MSG 020100Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261416Z JAN 26

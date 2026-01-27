@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>261755Z JAN 26
-NAVAREA XII 52/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-CANCEL NAVAREA XII 35/26 AND THIS MSG,
-OPERATIONS COMPLETED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250325Z JAN 26
