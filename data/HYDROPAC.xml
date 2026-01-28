@@ -3,6 +3,36 @@
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
+        <msgText>280520Z JAN 26
+HYDROPAC 251/26(91).
+SOUTH CHINA SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES IN PROGRESS UNTIL 31 JAN
+   IN AREA BOUND BY
+   14-34.76N 119-50.06E, 14-34.87N 119-40.07E,
+   14-24.87N 119-40.03E, 14-24.85N 119-50.34E.
+2. CANCEL THIS MSG 010001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>251730Z JAN 26
+HYDROPAC 249/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1700Z TO 2135Z DAILY 02 THRU 08 FEB
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
+   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 082235Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
         <msgText>271259Z JAN 26
 HYDROPAC 248/26(97).
 NORTH PACIFIC.
@@ -1721,17 +1751,6 @@ A. 7.7 METERS IN 46-36.60S 168-22.72E.
 B. 5.2 METERS IN 46-36.84S 168-22.09E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>022302Z DEC 25
-HYDROPAC 3186/25(83).
-SOUTH PACIFIC.
-FIJI.
-DNC 06.
-VUNA POINT LIGHT 16-57.86S 179-51.80E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>010721Z DEC 25
@@ -1967,20 +1986,6 @@ IN AREA BOUND BY
 26-01.87N 052-05.17E, 26-00.42N 052-05.27E,
 25-57.33N 051-35.80E, 25-56.13N 051-35.33E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OIL SPILL RESPONSE</category>
-        <status>INFORCE</status>
-        <msgText>230051Z JUL 25
-HYDROPAC 1864/25(83).
-WESTERN SOUTH PACIFIC.
-FIJI.
-DNC 06.
-1. OIL SPILL RESPONSE OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE IN VICINITY 18-07.52S 178-25.57E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1741/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

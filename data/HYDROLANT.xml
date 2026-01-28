@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280416Z JAN 26
+HYDROLANT 185/26(44).
+BALTIC SEA.
+LITHUANIA.
+DNC 22.
+1. HAZARDOUS OPERATIONS 010800Z TO 271500Z FEB
+   IN AREA BOUND BY
+   55-36.98N 020-45.88E, 55-38.13N 021-09.00E,
+   55-31.40N 021-13.30E, 55-24.98N 020-59.88E,
+   55-21.98N 020-45.88E, 55-24.98N 020-41.88E,
+   55-33.98N 020-41.88E.
+2. CANCEL THIS MSG 271700Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>280037Z JAN 26
+HYDROLANT 184/26(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. ILHA DO PARA LIGHT 00-52.80N 049-59.27W
+   UNLIT, RACON INOPERATIVE UNTIL 26 JUL.
+2. CANCEL HYDROLANT 178/26, 179/26.
+3. CANCEL THIS MSG 270001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>271442Z JAN 26
@@ -37,7 +67,8 @@ DNC 01, DNC 29.
    Y. 50-26.00S 037-46.00W.
    Z. 51-54.00S 040-30.00W.
    AA. 48-44.00S 026-11.00W.
-2. CANCEL THIS MSG 281400Z JAN 26.</msgText>
+2. CANCEL THIS MSG 281400Z JAN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -54,18 +85,7 @@ DNC 29.
    C. A85, 68-16.20S 056-33.00W.
    D. D33A, 65-33.00S 057-48.00W.
    E. D33C, 65-53.40S 058-28.20W.
-2. CANCEL THIS MSG 281400Z JAN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>270815Z JAN 26
-HYDROLANT 181/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-CANCEL HYDROLANT 175/26 AND THIS MSG,
-STATION RESTORED.
+2. CANCEL THIS MSG 281400Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -82,30 +102,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>270450Z JAN 26
-HYDROLANT 179/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-RACON (M) AT ILHA DO PARA LIGHT 
-00-52.80N 049-59.20W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>270431Z JAN 26
-HYDROLANT 178/26(24).
-NORTH ATLANTIC.
-BRAZIL.
-DNC 01.
-ILHA DO PARA LIGHT 00-52.80N 049-59.20W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -390,22 +386,6 @@ FURTHER NOTICE BY CABLESHIP RELIANCE
 ALONG TRACKLINE JOINING
 36-43.04S 029-23.25E, 44-06.50S 002-18.80E.
 TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221614Z JAN 26
-HYDROLANT 143/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-1. CABLE OPERATIONS 241000Z TO 272359Z JAN 
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   27-49.78N 016-49.64W, 27-50.05N 016-47.50W,
-   27-52.60N 016-39.89W, 27-56.87N 016-32.93W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280059Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
