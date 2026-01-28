@@ -524,21 +524,6 @@ TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221716Z JAN 26
-HYDROPAC 208/26(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 271000Z TO 271900Z JAN
-   IN AREA BOUND BY
-   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
-   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
-2. CANCEL THIS MSG 272000Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221203Z JAN 26
