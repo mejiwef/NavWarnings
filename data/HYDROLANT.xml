@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>281152Z JAN 26
+HYDROLANT 189/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-28.20W.
+   B. A84, 71-34.80S 097-37.20W.
+   C. A85, 68-16.20S 056-33.00W.
+   D. D33A, 65-33.00S 057-48.00W.
+   E. D33C, 65-53.40S 058-28.20W.
+2. CANCEL THIS MSG 291400Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280416Z JAN 26
@@ -503,18 +521,6 @@ DNC 01.
 NAVIGATIONAL AIDS AT OFFSHORE STRUCTURE 
 04-11.40N 007-39.40E INOPERATIVE.
 CAUTION ADVISED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>121620Z JAN 26
-HYDROLANT 72/26(44).
-BALTIC SEA.
-LITHUANIA.
-DNC 22.
-KLAIPEDA ENTRANCE RANGE LIGHT, REAR
-55-43.66N 021-05.74E UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
