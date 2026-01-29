@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>282154Z JAN 26
+HYDROLANT 195/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. CONTAINERS ADRIFT IN AREA BOUND BY
+   50-41.00N 001-04.00W, 50-43.00N 000-47.00W,
+   50-35.00N 000-47.00W, 50-33.00N 001-07.00W.
+2. CANCEL THIS MSG 312154Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>282142Z JAN 26
+HYDROLANT 194/26(57).
+GULF OF GUINEA.
+GHANA.
+DNC 01.
+1. VESSEL AT ANCHOR BOARDED AND ROBBED BY TWO 
+   PIRATES IN 04-53.10N 001-39.70W AT 272140Z JAN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 312142Z JAN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>282059Z JAN 26
+HYDROLANT 193/26(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+1. HAZARDOUS OPERATIONS 0730Z TO 1830Z DAILY
+   02 THRU 07 FEB IN AREAS WITHIN:
+   A. 26 MILES OF 57-16.70N 008-10.90W.
+   B. 28 MILES OF 57-28.50N 008-53.70W.
+2. CANCEL THIS MSG 071930Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>281647Z JAN 26
@@ -278,23 +319,6 @@ NAVTEX STATION MALIN HEAD (Q)(A)
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>251321Z JAN 26
-HYDROLANT 162/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS 24 THRU 28 JAN BY
-   USV TUPAN II IN AREA BOUND BY
-   23-04.87S 042-40.30W, 23-06.30S 042-45.37W,
-   23-09.33S 042-44.21W, 23-07.83S 042-39.11W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 156/26.
-3. CANCEL THIS MSG 290001Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>251309Z JAN 26
 HYDROLANT 161/26(24).
 SOUTH ATLANTIC.
@@ -316,19 +340,6 @@ DNC 01, DNC 07.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 112/26.
 3. CANCEL THIS MSG 030001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230123Z JAN 26
-HYDROLANT 159/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 281000Z TO 281900Z JAN
-   IN AREA WITHIN 25 MILES OF 19-00.00S 038-15.00W.
-2. CANCEL THIS MSG 282000Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
