@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291207Z JAN 26
+HYDROPAC 275/26(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY
+   01 THRU 02 FEB IN AREA BOUND BY
+   09-50.22N 075-32.30E, 09-50.22N 075-43.40E,
+   09-40.22N 075-43.40E, 09-40.22N 075-32.30E.
+2. CANCEL THIS MSG 021230Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291042Z JAN 26
+HYDROPAC 274/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z 
+   AND 0900Z TO 1100Z DAILY 03 AND 04 FEB
+   IN AREA BOUND BY
+   21-17.20N 086-49.40E, 19-58.43N 087-39.18E,
+   20-27.60N 088-15.60E, 21-27.65N 087-02.68E.
+2. CANCEL THIS MSG 041200Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201804Z JAN 26
+HYDROPAC 273/26(19,81).
+NORTH PACIFIC.
+WAKE ISLAND.
+DNC 12.
+1. HAZARDOUS OPERATIONS 030710Z TO 030830Z FEB, 
+   ALTERNATE 0710Z TO 0830Z DAILY 04 THRU 21 FEB
+   IN AREA BOUND BY
+   19-19.00N 166-38.00E, 20-45.00N 170-02.00E,
+   20-26.00N 173-51.00E, 18-35.00N 175-04.00E,
+   17-55.00N 174-58.00E, 16-29.00N 173-15.00E,
+   17-07.00N 169-34.00E, 19-14.00N 166-37.00E.
+2. CANCEL THIS MSG 210930Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281255Z JAN 26
+HYDROPAC 272/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 03 THRU 05 FEB IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 051400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290553Z JAN 26
@@ -514,21 +580,6 @@ B. 23-25.96N 123-23.77E, 23-19.82N 123-21.02E,
    23-18.82N 123-19.44E, 23-10.00N 123-18.87E,
    23-04.34N 123-17.01E, 22-40.98N 123-15.37E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>260507Z JAN 26
-HYDROPAC 231/26(82).
-CORAL SEA.
-NEW CALEDONIA.
-DNC 06.
-1. GUNNERY EXERCISES 262100Z TO 290700Z JAN
-   IN AREAS WITHIN:
-   A. 20 MILES OF 23-00.00S 165-58.00E.
-   B. TEN MILES OF 22-42.00S 166-00.00E.
-2. CANCEL THIS MSG 290800Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1631,22 +1682,6 @@ DNC 03.
       20-36.57N 072-08.05E.
    150 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051024Z JAN 26
-HYDROPAC 29/26(63).
-ANDAMAN SEA.
-BURMA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0830Z TO 1030Z 
-   DAILY 08, 15, 22 AND 29 JAN 
-   IN AREA BOUND BY
-   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
-   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
-2. CANCEL THIS MSG 291130Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

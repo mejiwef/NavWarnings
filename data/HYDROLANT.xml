@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291034Z JAN 26
+HYDROLANT 200/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 30 JAN THRU 30 MAY 
+   BY VESSEL SAGAMORIM II AND M/V VOX AMALIA
+   IN AREA BOUND BY
+   21-50.13S 040-47.78W, 21-49.70S 040-51.15W,
+   21-49.65S 040-51.44W, 21-47.85S 040-58.28W,
+   21-47.44S 040-58.95W, 21-47.51S 040-59.29W,
+   21-47.79S 040-59.43W, 21-48.03S 040-59.36W,
+   21-48.15S 040-59.20W, 21-48.61S 040-59.07W,
+   21-48.56S 040-58.86W, 21-48.56S 040-58.84W,
+   21-48.66S 040-58.82W, 21-48.60S 040-58.68W,
+   21-48.02S 040-58.84W, 21-47.88S 040-58.85W,
+   21-47.87S 040-58.82W, 21-47.99S 040-58.32W,
+   21-49.83S 040-51.33W, 21-50.28S 040-47.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>290256Z JAN 26
@@ -223,19 +248,6 @@ NORTH SEA.
 DNC 20.
 EAST CARDINAL BUOY 54-30.9N 002-36.3E
 PERMANENTLY REMOVED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>260951Z JAN 26
-HYDROLANT 169/26(36).
-NORTH ATLANTIC.
-DNC 08.
-1. FOUR CONTAINERS ADRIFT IN VICINITY
-   47-34.19N 008-54.13W AT 260339Z JAN.
-   REPORTS TO: COORD.NAVAREA2@SHOM.FR
-2. CANCEL THIS MSG 290951Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
