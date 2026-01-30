@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>292026Z JAN 26
+HYDROPAC 281/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1848Z TO 2323Z DAILY 06 THRU 12 FEB
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
+   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 130023Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291824Z JAN 26
+HYDROPAC 280/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 021230Z TO 041530Z
+   AND 051230Z TO 071530Z FEB
+   IN AREA BOUND BY
+   14-30.00N 072-37.00E, 14-30.00N 072-52.00E,
+   14-45.00N 072-52.00E, 14-45.00N 072-37.00E.
+2. CANCEL THIS MSG 071630Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291819Z JAN 26
+HYDROPAC 279/26(63).
+ARABIAN SEA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 310030Z JAN TO 011230Z FEB
+   IN AREA BOUND BY
+   17-35.00N 070-20.00E, 18-05.00N 070-20.00E,
+   18-05.00N 070-50.00E, 17-35.00N 070-50.00E.
+2. CANCEL THIS MSG 011330Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291514Z JAN 26
@@ -174,7 +218,8 @@ DNC 12.
    16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
    14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 060715Z FEB 26.</msgText>
+2. CANCEL THIS MSG 060715Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -288,18 +333,6 @@ DNC 03.
    09-57.60N 076-14.50E, 09-50.00N 076-07.60E,
    09-46.80N 076-11.60E, 09-47.40N 076-16.60E.
 2. CANCEL THIS MSG 271530Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>280942Z JAN 26
-HYDROPAC 253/26(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-EAST CAPE LIGHT 37-41.30S 178-32.90E
-RANGE REDUCED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -626,22 +659,6 @@ DNC 06.
    IN AREA BOUND BY
    59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
    25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
-3. CANCEL THIS MSG 042235Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>232133Z JAN 26
-HYDROPAC 221/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1700Z TO 2135Z DAILY 29 JAN THRU 04 FEB
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 25-50.00S 154-33.00W,
-   59-40.00S 164-45.00W, 59-13.00S 168-58.00W.
-2. CANCEL HYDROPAC 199/26(74).
 3. CANCEL THIS MSG 042235Z FEB 26.
 </msgText>
     </smapsActiveEntity>
@@ -1038,28 +1055,6 @@ DNC 03.
       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 190001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190657Z JAN 26
-HYDROPAC 153/26(19).
-NORTH PACIFIC.
-DNC 13.
-1. CABLE OPERATIONS BY M/V GRACE:
-   A. IN PROGRESS UNTIL 21 JAN 
-      ALONG TRACKLINE JOINING 
-      21-01.00N 173-01.00W, 21-10.00N 172-15.00W,
-      21-20.98N 171-31.39W.
-   B. 22 THRU 29 JAN ALONG TRACKLINE JOINING 
-      21-20.20N 172-06.40W, 21-14.70N 171-56.00W,
-      21-10.90N 171-39.00W, 21-10.90N 171-28.10W,
-      21-08.50N 171-17.20W, 21-07.90N 170-46.20W,
-      21-06.69N 170-30.63W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3099/25.
-3. CANCEL THIS MSG 300001Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

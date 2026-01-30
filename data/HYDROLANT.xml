@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300002Z JAN 26
+HYDROLANT 204/26(55).
+BLACK SEA.
+TURKEY.
+DNC 10.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 01 MAR
+   BY M/V ORUC RE??S, M/V ZAGANOS PASA
+   AND M/V ATAMAN IN AREA BOUND BY
+   42-20.70N 038-07.52E, 41-55.58N 039-03.11E,
+   42-04.30N 039-10.42E, 42-17.39N 039-10.65E,
+   42-20.06N 038-59.97E, 42-25.23N 038-32.22E,
+   42-27.83N 038-26.52E, 42-32.30N 038-16.67E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 020001Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291843Z JAN 26
+HYDROLANT 202/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 51-06.00S 041-04.00W.
+   B. A23J, 52-29.00S 041-27.00W.
+   C. A77, 50-22.00S 026-51.00W.
+   D. A76C, 59-47.00S 038-06.00W.
+   E. B15AB, 57-37.00S 035-07.00W.
+   F. 50-13.00S 037-58.00W.
+   G. 52-30.00S 039-26.00W.
+   H. 51-48.00S 039-32.00W.
+   I. 52-22.00S 040-14.00W.
+   J. 51-54.00S 036-07.00W.
+   K. 55-46.00S 032-06.00W.
+   L. 52-00.00S 040-27.00W.
+   M. 50-14.00S 036-59.00W.
+   N. 51-06.00S 034-39.00W.
+   O. 59-27.00S 034-39.00W.
+   P. 52-27.00S 041-21.00W.
+   Q. 52-34.00S 041-21.00W.
+   R. 48-26.00S 026-01.00W.
+   S. 52-27.00S 041-28.00W.
+   T. 50-32.00S 040-26.00W.
+   U. 52-17.00S 041-12.00W.
+   V. 50-16.00S 037-00.00W.
+   W. 50-26.00S 037-46.00W.
+   X. 51-54.00S 040-30.00W.
+   Y. 48-32.00S 026-01.00W.
+   Z. 60-52.00S 052-22.00W.
+2. CANCEL THIS MSG 301400Z JAN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>291241Z JAN 26
@@ -295,18 +351,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 118/26.
 3. CANCEL THIS MSG 030001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>252359Z JAN 26
-HYDROLANT 165/26(35).
-NORTH CHANNEL.
-IRELAND.
-DNC 19.
-NAVTEX STATION MALIN HEAD (Q)(A)
-55-21.80N 007-20.40W OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
