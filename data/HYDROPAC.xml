@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301044Z JAN 26
+HYDROPAC 288/26(63).
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z 
+   DAILY 04, 11, 18 AND 25 FEB 
+   IN AREA BOUND BY
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
+2. CANCEL THIS MSG 250730Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301025Z JAN 26
+HYDROPAC 287/26(63).
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS IN PRGORESS UNTIL 
+   28 FEB BY TUG AHT BRITOIL 71 AND 
+   BARGE LTB 300 ALONG TRACKLINE JOINING
+   20-36.02N 072-02.23E, 20-10.38N 072-29.69E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>300132Z JAN 26
@@ -440,21 +473,6 @@ DNC 03.
 2. CANCEL THIS MSG 010930Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271129Z JAN 26
-HYDROPAC 242/26(63).
-EASTERN INDIAN OCEAN.
-LAKSHADWEEP.
-DNC 03.
-1. HAZARDOUS OPERATIONS 300130Z TO 300730Z JAN
-   IN AREA BOUND BY
-   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
-   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
-2. CANCEL THIS MSG 300830Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271037Z JAN 26
@@ -536,22 +554,6 @@ DNC 07.
    11-31.00S 078-15.00W, 11-31.00S 077-50.00W,
    11-55.00S 077-50.00W, 11-55.00S 078-15.00W.
 2. CANCEL THIS MSG 020100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261416Z JAN 26
-HYDROPAC 234/26(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS IN PROGRESS 0300Z TO 0900Z DAILY
-   26 THRU 30 JAN IN AREA BOUND BY
-   25-18.16N 066-51.91E, 25-17.46N 066-18.76E,
-   24-51.71N 066-18.71E, 24-51.18N 066-43.33E,
-   24-56.20N 066-43.42E.
-2. CANCEL THIS MSG 301000Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
