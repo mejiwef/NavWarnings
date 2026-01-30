@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>300508Z JAN 26
+HYDROARC 20/26(42,43).
+BARENTS SEA.
+NORWAY.
+DNC 22.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1500Z TO 2200Z DAILY 02 THRU 12 FEB
+   IN AREAS BOUND BY:
+   A. 76-22.00N 021-55.00E, 75-24.00N 024-43.00E,
+      74-51.00N 021-45.00E, 75-50.00N 018-50.00E.
+   B. 70-56.00N 032-04.58E, 70-10.00N 033-40.00E,
+      69-54.00N 032-40.00E, 70-08.00N 032-04.58E,
+      70-15.00N 031-50.00E, 70-30.07N 031-50.00E,
+      70-36.22N 031-43.18E.
+2. CANCEL THIS MSG 122300Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>300502Z JAN 26
+HYDROARC 19/26(43).
+NORWEGIAN SEA.
+DNC 21, DNC 22.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0900Z TO 1515Z DAILY 02 THRU 09 FEB
+   IN AREA BOUND BY
+   71-43.00N 008-19.00E, 70-59.00N 010-11.00E,
+   71-14.00N 012-02.00E, 72-00.00N 010-06.00E.
+2. CANCEL THIS MSG 091615Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>231603Z JAN 26

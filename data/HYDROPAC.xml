@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>300132Z JAN 26
+HYDROPAC 283/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V QB 98014 TS, EIGHT PERSONS ON BOARD,
+   DISABLED AND ANCHORED DUE TO ENGINE FAILURE
+   IN 10-20.00N 108-40.00E AT 280300Z JAN.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 252/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>292026Z JAN 26
@@ -336,23 +353,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>280708Z JAN 26
-HYDROPAC 252/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-F/V QB 98014 TS, EIGHT PERSONS ON BOARD,
-DISABLED AND ANCHORED DUE TO ENGINE FAILURE
-IN 10-09.95N 108-43.43E AT 280300Z JAN.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>280520Z JAN 26
@@ -648,21 +648,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>211655Z JAN 26
-HYDROPAC 222/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1700Z TO 2135Z DAILY 29 JAN THRU 04 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
-   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
-3. CANCEL THIS MSG 042235Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>231619Z JAN 26
@@ -931,40 +916,6 @@ CHILE.
 DNC 07.
 VALPARAISO RADIO 33-04.70S 071-36.80W
 DSC SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>200629Z JAN 26
-HYDROPAC 185/26(76).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2245Z TO 0200Z DAILY 26 JAN THRU 09 FEB
-   IN AREA BOUND BY
-   53-18.00S 171-48.00E, 53-36.00S 174-06.00E,
-   58-48.00S 172-36.00E, 58-30.00S 169-54.00E.
-2. CANCEL THIS MSG 100300Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>200638Z JAN 26
-HYDROPAC 184/26(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   2245Z TO 0200Z DAILY 26 JAN THRU 09 FEB
-   IN AREAS BOUND BY:
-   A. 39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
-      39-15.00S 178-06.00E, 39-54.00S 177-48.00E,
-      39-54.00S 177-36.00E, 39-18.00S 177-42.00E.
-   B. 43-24.00S 175-42.00E, 43-36.00S 177-30.00E,
-      47-42.00S 176-30.00E, 47-24.00S 174-30.00E.
-2. CANCEL THIS MSG 100300Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
