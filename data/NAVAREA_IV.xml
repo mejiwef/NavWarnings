@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310522Z JAN 26
+NAVAREA IV 91/26(26).
+CARIBBEAN SEA.
+NORTH ATLANTIC.
+HAITI.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 01 MAR BY
+   CABLESHIP IT INFINITY ALONG TRACKLINE JOINING
+   16-28.18N 075-36.49W, 22-56.24N 071-37.46W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 020001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>302303Z JAN 26

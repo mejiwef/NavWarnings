@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310035Z JAN 26
+HYDROLANT 212/26(55).
+BLACK SEA.
+TURKEY.
+DNC 10.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 15 FEB 
+   BY VESSEL M/V ABDULHAMID HAN
+   IN AREA BOUND BY
+   42-53.53N 031-20.59E, 42-53.57N 031-23.31E,
+   42-51.57N 031-23.37E, 42-51.53N 031-20.65E.
+   TEN MILE BERTH REQUESTED.
+2. CANCEL NAVAREA III 0173/25
+3. CANCEL THIS MSG 160001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>302041Z JAN 26

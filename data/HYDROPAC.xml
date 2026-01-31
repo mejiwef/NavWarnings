@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310203Z JAN 26
+HYDROPAC 301/26(94).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 23.
+CABLE OPERATIONS 311500Z JAN
+UNTIL FURTHER NOTICE
+BY VESSEL CABLESHIP LODBROG
+ALONG TRACKLINE JOINING
+22-51.35N 122-09.47E, 22-58.10N 122-16.83E,
+23-01.70N 122-31.26E, 23-09.12N 122-42.88E,
+23-13.13N 122-52.98E, 23-22.58N 123-00.54E,
+23-23.51N 123-04.66E, 23-36.58N 123-09.11E,
+23-41.35N 123-14.70E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
         <status>INFORCE</status>
         <msgText>302109Z JAN 26
@@ -262,24 +282,6 @@ DNC 03.
    20-36.02N 072-02.23E, 20-10.38N 072-29.69E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>300132Z JAN 26
-HYDROPAC 283/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QB 98014 TS, EIGHT PERSONS ON BOARD,
-   DISABLED AND ANCHORED DUE TO ENGINE FAILURE
-   IN 10-20.00N 108-40.00E AT 280300Z JAN.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 252/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

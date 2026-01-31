@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>310439Z JAN 26
+NAVAREA XII 68/26(83).
+NORTH PACIFIC.
+1. BLUE PIPE ADRIFT IN 14-54.50N 128-35.60W.
+   VESSELS IN VICINITY REQUESTED TO KEEP A 
+   SHARP LOOKOUT. REPORTS TO
+   JRCC HONOLULU, PHONE: 808 535 3333.
+   EMAIL: JRCCHONOLULU@USCG.MIL.
+2. CANCEL THIS MSG 030439Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>301851Z JAN 26
@@ -40,25 +54,6 @@ CALIFORNIA.
    33-45.00N 121-00.00W, 33-51.00N 120-46.00W,
    33-45.00N 120-08.00W, 33-45.00N 119-26.00W.
 2. CANCEL THIS MSG 070200Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300049Z JAN 26
-NAVAREA XII 65/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 302100Z TO 310100Z JAN
-   IN AREA BOUND BY
-   33-23.00N 119-08.00W, 33-09.00N 119-15.00W,
-   33-13.00N 119-24.00W, 33-11.00N 119-32.00W,
-   33-03.00N 119-34.00W, 32-56.00N 119-52.00W,
-   32-57.00N 119-56.00W, 33-09.00N 120-01.00W,
-   33-18.00N 119-53.00W, 33-27.00N 119-58.00W,
-   33-37.00N 119-46.00W, 33-37.00N 119-35.00W.
-2. CANCEL NAVAREA XII 51/26.
-3. CANCEL THIS MSG 310200Z JAN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
