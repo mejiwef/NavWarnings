@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>311549Z JAN 26
+HYDROLANT 215/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-28.20W.
+   B. A84, 71-34.80S 097-37.20W.
+   C. A85, 68-16.20S 056-33.00W.
+   D. D33A, 65-33.00S 057-48.00W.
+   E. D33C, 65-53.40S 058-28.20W.
+2. CANCEL THIS MSG 011500Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291611Z JAN 26
@@ -70,40 +88,6 @@ HYDROLANT 210/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 151/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301656Z JAN 26
-HYDROLANT 209/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 50-54.00S 040-37.00W.
-   B. A23J, 52-21.00S 041-22.00W.
-   C. A77, 50-36.00S 026-36.00W.
-   D. A76C, 59-45.00S 038-04.00W.
-   E. B15AB, 57-33.00S 034-25.00W.
-   F. 50-14.00S 037-56.00W.
-   G. 52-26.00S 039-35.00W.
-   H. 51-54.00S 036-07.00W.
-   I. 55-46.00S 032-06.00W.
-   J. 51-57.00S 040-45.00W.
-   K. 51-03.00S 039-34.00W.
-   L. 59-24.00S 034-57.00W.
-   M. 52-24.00S 041-31.00W.
-   N. 52-24.00S 041-16.00W.
-   O. 48-26.00S 026-01.00W.
-   P. 49-33.00S 040-41.00W.
-   Q. 50-16.00S 037-00.00W.
-   R. 49-55.00S 037-41.00W.
-   S. 51-54.00S 040-30.00W.
-   T. 48-32.00S 026-01.00W.
-   U. 60-52.00S 052-22.00W.
-2. CANCEL THIS MSG 311500Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1154,20 +1138,6 @@ NGA IS CONSULTING WITH THE USER COMMUNITY TO
 ASSESS POSSIBLE CHANGES TO THE CANCELLED CHART 
 DISSEMINATION PROCESS TO MITIGATE THIS POTENTIAL
 UNINTENDED ECDIS BEHAVIOR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GPS JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>021507Z JUL 25
-HYDROLANT 1114/25(44).
-BALTIC SEA.
-GULF OF FINLAND.
-GULF OF RIGA.
-DNC 21, DNC 22.
-GPS, GNSS, AIS, AND RADAR INTERFERENCE REPORTED IN 
-VICINITY OF BALTIC SEA, GULF OF FINLAND, GULF OF RIGA 
-AND SEA OF AALAND. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

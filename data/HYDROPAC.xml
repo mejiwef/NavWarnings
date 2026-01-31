@@ -1708,22 +1708,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080049Z JAN 26
-HYDROPAC 55/26(96).
-SEA OF JAPAN.
-RUSSIA.
-DNC 24.
-1. MISSILE OPERATIONS 2300Z TO 1500Z
-   DAILY 11 THRU 16 AND 18 THRU 30 JAN
-   IN AREA BOUND BY
-   42-00.00N 132-20.00E, 42-20.00N 132-20.00E,
-   42-20.00N 133-10.00E, 42-00.00N 133-10.00E.
-2. CANCEL THIS MSG 311600Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>071012Z JAN 26
@@ -1762,22 +1746,6 @@ DNC 03.
       20-36.57N 072-08.05E.
    150 METER BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031208Z JAN 26
-HYDROPAC 23/26(97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 12, DNC 23.
-CABLE OPERATIONS 031500Z JAN UNTIL FURTHER
-NOTICE BY CABLESHIP FU HAI IN AREA BOUND BY
-26-17.81N 133-29.90E, 26-29.77N 133-18.38E,
-24-59.70N 131-02.34E, 24-48.73N 131-10.36E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1865,29 +1833,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261022Z DEC 25
-HYDROPAC 3475/25(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0001Z TO 1600Z 
-   DAILY 01 THRU 31 JAN 26 IN AREAS BOUND BY:
-   A. 21-20.83N 091-28.00E, 21-41.00N 091-14.00E,
-      21-20.83N 090-34.00E, 21-00.00N 090-47.83E.
-   B. 20-22.00N 091-06.00E, 20-07.00N 090-52.00E,
-      19-44.00N 091-21.00E, 20-00.00N 091-36.00E.
-   C. 20-24.00N 091-59.00E, 20-46.50N 091-31.00E,
-      20-22.00N 091-06.00E, 20-00.00N 091-36.00E.
-   D. 21-18.00N 089-50.00E, 21-18.00N 089-31.00E,
-      21-04.00N 089-34.00E, 21-04.00N 089-54.00E.
-   E. 20-58.00N 089-54.00E, 20-58.00N 089-34.00E,
-      20-34.00N 089-34.00E, 20-34.00N 089-54.00E.
-2. CANCEL THIS MSG 311700Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
