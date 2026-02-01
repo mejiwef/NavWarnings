@@ -707,21 +707,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>280520Z JAN 26
-HYDROPAC 251/26(91).
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL 31 JAN
-   IN AREA BOUND BY
-   14-34.76N 119-50.06E, 14-34.87N 119-40.07E,
-   14-24.87N 119-40.03E, 14-24.85N 119-50.34E.
-2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>251730Z JAN 26
@@ -1669,23 +1654,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081246Z JAN 26
-HYDROPAC 59/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. CABLE OPERATIONS 09 THRU 31 JAN
-   BY CABLESHIP ATHBA IN AREA BOUND BY
-   19-03.39N 072-40.33E, 19-02.48N 072-40.89E,
-   19-05.50N 072-47.75E, 19-07.24N 072-49.48E,
-   19-07.87N 072-48.79E, 19-06.39N 072-47.13E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081138Z JAN 26
@@ -1719,36 +1687,6 @@ MALPE LIGHT 13-20.70N 074-41.00E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051122Z JAN 26
-HYDROPAC 33/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 10 THRU 31 JAN BY
-   M/V ACOMS 11 IN AREAS BOUND BY:
-   A. 19-41.83N 071-15.64E, 19-42.84N 071-20.08E,
-      19-34.37N 071-26.99E, 19-30.11N 071-21.91E,
-      19-27.31N 071-11.96E, 19-27.70N 071-10.34E.
-   B. 19-25.58N 071-14.29E, 19-21.15N 071-26.69E,
-      19-16.74N 071-33.35E, 19-17.23N 071-15.08E.
-   C. 19-37.40N 071-32.27E, 19-28.59N 071-52.10E,
-      19-25.34N 071-29.00E.
-   D. 19-04.59N 071-37.46E, 18-55.67N 071-40.88E,
-      18-54.93N 071-21.40E, 19-03.56N 071-18.02E.
-   E. 19-37.04N 071-57.40E, 19-01.43N 072-24.97E,
-      18-27.85N 072-32.57E, 18-25.10N 072-07.27E,
-      18-54.86N 071-47.67E, 19-22.05N 071-46.95E.
-   F. 20-35.61N 071-59.55E, 20-43.45N 072-01.14E,
-      21-08.80N 072-24.79E, 21-04.32N 072-30.68E,
-      20-36.57N 072-08.05E.
-   150 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>011502Z JAN 26
@@ -1757,65 +1695,6 @@ ARABIAN SEA.
 PAKISTAN.
 DNC 03.
 WRECK BUOY 24-46.45N 066-57.09E MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011035Z JAN 26
-HYDROPAC 6/26(63).
-ANDAMAN SEA.
-BURMA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 31 JAN BY M/V HAI DOUNG 86
-   IN VICINITY OF TRACKLINE JOINING
-   15-23.35N 095-14.68E, 15-16.84N 095-09.39E,
-   15-07.75N 094-09.80E, 14-26.44N 095-35.30E,
-   14-19.92N 095-39.40E, 14-23.55N 095-37.81E,
-   14-21.93N 095-45.41E, 14-24.68N 095-52.32E,
-   14-18.10N 095-53.91E, 14-15.40N 095-56.85E.
-   THREE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311347Z DEC 25
-HYDROPAC 3503/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 01 THRU 31 JAN 26 
-   BY M/V VANESSA 6 IN AREA BOUND BY
-   19-01.11N 072-26.91E, 18-47.43N 072-42.76E,
-   18-52.22N 072-51.33E, 18-51.71N 072-51.51E,
-   18-46.91N 072-42.59E, 19-00.64N 072-26.62E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3447/25(71).
-3. CANCEL THIS MSG 010001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311046Z DEC 25
-HYDROPAC 3500/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 01 THRU 31 JAN 26 
-   BY M/V VANESSA 7 IN AREA BOUND BY
-   19-09.59N 072-08.78E, 20-56.30N 072-19.76E,
-   19-27.54N 071-22.82E, 19-19.83N 071-15.33E,
-   19-13.91N 071-25.13E, 19-01.60N 071-21.90E,
-   18-35.99N 071-00.22E, 18-08.49N 072-22.07E,
-   18-39.66N 072-13.33E, 18-55.47N 072-01.39E,
-   18-45.23N 072-18.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

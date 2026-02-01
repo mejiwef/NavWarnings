@@ -3,6 +3,38 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>311814Z JAN 26
+HYDROLANT 217/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 50-45.00S 040-21.00W.
+   B. A23J, 52-16.00S 041-19.00W.
+   C. A77,50-43.00S 026-29.00W.
+   D. A76C, 59-43.00S 037-58.00W.
+   E. B15AB57-33.00S 034-25.00W.
+   F. 50-14.00S 037-54.00W.
+   G. 52-26.00S 039-38.00W.
+   H. 51-54.00S 036-07.00W.
+   I. 55-46.00S 032-06.00W.
+   J. 51-55.00S 040-41.00W.
+   K. 51-01.00S 039-33.00W.
+   L. 59-17.00S 035-04.00W.
+   M. 52-23.00S 041-26.00W.
+   N. 52-17.00S 041-10.00W.
+   O. 48-26.00S 026-01.00W.
+   P. 49-24.00S 041-06.00W.
+   Q. 49-46.00S 037-35.00W.
+   R. 51-43.00S 040-01.00W.
+   S. 48-32.00S 026-01.00W.
+   T. 60-40.00S 051-58.00W.
+2. CANCEL THIS MSG 011500Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>311549Z JAN 26
 HYDROLANT 215/26(29).
 SOUTH ATLANTIC.
@@ -34,24 +66,6 @@ DNC 10.
    44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
    44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 071500Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>302041Z JAN 26
-HYDROLANT 211/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 058-28.20W.
-   B. A84, 71-34.80S 097-37.20W.
-   C. A85, 68-16.20S 056-33.00W.
-   D. D33A, 65-33.00S 057-48.00W.
-   E. D33C, 65-53.40S 058-28.20W.
-2. CANCEL THIS MSG 312100Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -205,35 +219,6 @@ DNC 01.
    UNTIL 05 FEB.
 2. CANCEL HYDROLANT 191/26.
 3. CANCEL THIS MSG 060001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>282154Z JAN 26
-HYDROLANT 195/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. CONTAINERS ADRIFT IN AREA BOUND BY
-   50-41.00N 001-04.00W, 50-43.00N 000-47.00W,
-   50-35.00N 000-47.00W, 50-33.00N 001-07.00W.
-2. CANCEL THIS MSG 312154Z JAN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>282142Z JAN 26
-HYDROLANT 194/26(57).
-GULF OF GUINEA.
-GHANA.
-DNC 01.
-1. VESSEL AT ANCHOR BOARDED AND ROBBED BY TWO 
-   PIRATES IN 04-53.10N 001-39.70W AT 272140Z JAN.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 312142Z JAN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1002,22 +987,6 @@ DNC 01.
    UNLIT UNTIL 15 MAR 26.
 2. CANCEL HYDROLANT 544/25.
 3. CANCEL THIS MSG 160001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121020Z SEP 25
-HYDROLANT 1518/25(24).
-SOUTH ATLANTIC.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 31 JAN 26
-   BY M/V GUARA I IN AREA BOUND BY
-   24-36.50S 042-33.55W, 24-37.85S 042-33.55W,
-   24-42.90S 042-25.73W, 24-42.20S 042-25.75W,
-   24-32.00S 042-31.38W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
