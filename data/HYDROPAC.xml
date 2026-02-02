@@ -244,21 +244,6 @@ HYDROPAC 297/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>301732Z JAN 26
-HYDROPAC 296/26(22).
-SOUTH PACIFIC.
-PERU.
-DNC 07.
-1. GUNNERY EXERCISES 011000Z T0 020001Z FEB
-   IN AREA BOUND BY
-   11-31.00S 078-15.00W, 11-31.00S 077-50.00W,
-   11-55.00S 077-50.00W, 11-55.00S 078-15.00W.
-2. CANCEL THIS MSG 020100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301723Z JAN 26
@@ -834,21 +819,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>262258Z JAN 26
-HYDROPAC 236/26(22).
-SOUTH PACIFIC.
-PERU.
-DNC 07.
-1. GUNNERY EXERCISES 011000Z TO 020000Z FEB
-   IN AREA BOUND BY
-   11-31.00S 078-15.00W, 11-31.00S 077-50.00W,
-   11-55.00S 077-50.00W, 11-55.00S 078-15.00W.
-2. CANCEL THIS MSG 020100Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
