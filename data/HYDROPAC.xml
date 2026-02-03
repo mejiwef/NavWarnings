@@ -281,34 +281,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>302109Z JAN 26
-HYDROPAC 300/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. DATA BUOY BD 14 ADRIFT IN 05-39.25N 086-18.80E.
-2. CANCEL THIS MSG 022200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301939Z JAN 26
-HYDROPAC 298/26(62).
-STRAIT OF HORMUZ.
-IRAN.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0230Z TO 2030Z DAILY
-   01 AND 02 FEB IN AREA BOUND BY
-   26-57.00N 056-28.00E, 26-45.00N 056-24.00E,
-   26-26.00N 056-45.00E, 26-15.00N 056-44.00E,
-   26-15.00N 057-06.00E, 26-44.00N 057-03.00E.
-2. CANCEL THIS MSG 022130Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>301909Z JAN 26
@@ -804,21 +776,6 @@ DNC 03.
    09-57.60N 076-14.50E, 09-50.00N 076-07.60E,
    09-46.80N 076-11.60E, 09-47.40N 076-16.60E.
 2. CANCEL THIS MSG 271530Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>251730Z JAN 26
-HYDROPAC 249/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1700Z TO 2135Z DAILY 02 THRU 08 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
-   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 082235Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
