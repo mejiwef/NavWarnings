@@ -32,20 +32,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>310439Z JAN 26
-NAVAREA XII 68/26(83).
-NORTH PACIFIC.
-1. BLUE PIPE ADRIFT IN 14-54.50N 128-35.60W.
-   VESSELS IN VICINITY REQUESTED TO KEEP A 
-   SHARP LOOKOUT. REPORTS TO
-   JRCC HONOLULU, PHONE: 808 535 3333.
-   EMAIL: JRCCHONOLULU@USCG.MIL.
-2. CANCEL THIS MSG 030439Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>301851Z JAN 26

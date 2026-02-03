@@ -1548,21 +1548,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100005Z JAN 26
-HYDROPAC 76/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS
-BY M/V SIEM TOPAZ/LAYN7 IN AREA BOUND BY
-19-56.00S 113-13.20E, 19-53.5S 113-13.20E,
-19-53.50S 113-17.70E, 19-56.0S 113-17.70E.
-TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091117Z JAN 26

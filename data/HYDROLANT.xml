@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MEDEVAC</category>
+        <status>INFORCE</status>
+        <msgText>030148Z FEB 26
+HYDROLANT 230/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+VESSEL REI DO PEIXE ADRIFT AND REPORTS THREE
+CREWMAN REQUIRING MEDICAL ASSISTANCE
+IN 23-09.00S 042-56.00W ON 02 FEB.
+VESSELS IN VICINITY REQUESTED TO KEEP A
+SHARP LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO ANY COASTAL RADIO STATION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>022156Z FEB 26
@@ -344,23 +360,6 @@ DNC 19.
    A. 26 MILES OF 57-16.70N 008-10.90W.
    B. 28 MILES OF 57-28.50N 008-53.70W.
 2. CANCEL THIS MSG 071930Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281211Z JAN 26
-HYDROLANT 190/26(57).
-GULF OF GUINEA.
-NORTH ATLANTIC.
-GHANA.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 030000Z FEB
-   BY M/V SW GALLIEN IN AREA BOUND BY
-   04-38.61N 002-47.70W, 04-38.61N 001-16.07E,
-   02-26.46N 001-16.07E, 02-26.46N 002-47.70W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030100Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
