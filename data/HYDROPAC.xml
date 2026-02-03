@@ -3,6 +3,36 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>031236Z FEB 26
+HYDROPAC 333/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
+   06 THRU 08 FEB IN AREA BOUND BY
+   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
+   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
+2. CANCEL THIS MSG 081130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031230Z FEB 26
+HYDROPAC 332/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 040230Z THRU
+   041030Z FEB IN AREA BOUND BY
+   17-47.00N 084-29.00E, 17-47.00N 084-49.00E,
+   17-26.00N 084-49.00E, 17-26.00N 084-29.00E.
+2. CANCEL THIS MSG 041130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>031138Z FEB 26
 HYDROPAC 330/26(63).
 BAY OF BENGAL.
