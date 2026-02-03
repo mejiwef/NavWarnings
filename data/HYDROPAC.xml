@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031138Z FEB 26
+HYDROPAC 330/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 050030Z TO 051100Z FEB
+   IN AREAS BOUND BY:
+   A. 17-40.00N 084-19.00E, 17-40.00N 083-47.00E,
+      17-15.00N 084-05.00E, 17-15.00N 084-36.00E,
+      17-40.00N 084-19.00E.
+   B. 17-59.00N 084-43.25E, 17-59.00N 084-11.67E,
+      17-40.00N 083-48.00E, 17-40.00N 084-19.00E,
+      17-59.00N 084-43.25E.
+2. CANCEL THIS MSG 051200Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>031131Z FEB 26
+HYDROPAC 329/26(63).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. BUOY ADRIFT IN 05-17.41N 085-18.13E.
+   AT 030600Z FEB. MARINERS ADVISED TO KEEP SHARP LOOKOUT.
+2. CANCEL THIS MSG 060600Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031116Z FEB 26
+HYDROPAC 328/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 04 FEB THRU 01 MAR
+   BY M/V OCEANIC VEGA, AND M/V OCEANIC SIRIUS
+   IN AREA BOUND BY:
+   16-59.00N 087-10.00E, 16-59.00N 084-32.00E,
+   16-59.00N 084-30.00E, 14-57.00N 084-30.00E,
+   15-32.00N 085-16.00E, 14-57.00N 085-16.00E,
+   15-32.00N 086-33.00E, 15-59.00N 087-10.00E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 129/26.
+3. CANCEL THIS MSG 011830Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>031101Z FEB 26
+HYDROPAC 327/26(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. DEMOBILIZATION AND SUPPORT FOR LIDAR BUOY
+    04 THRU 10 FEB
+    BY M/V SAMBHAVYA IN 07-54.16N 077-39.84E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>021534Z FEB 26
@@ -536,22 +602,6 @@ WIDE BERTH REQUESTED.</msgText>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>291042Z JAN 26
-HYDROPAC 274/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z 
-   AND 0900Z TO 1100Z DAILY 03 AND 04 FEB
-   IN AREA BOUND BY
-   21-17.20N 086-49.40E, 19-58.43N 087-39.18E,
-   20-27.60N 088-15.60E, 21-27.65N 087-02.68E.
-2. CANCEL THIS MSG 041200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>201804Z JAN 26
 HYDROPAC 273/26(19,81).
 NORTH PACIFIC.
@@ -1063,32 +1113,6 @@ TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221147Z JAN 26
-HYDROPAC 204/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 23 JAN THRU 15 FEB 
-   BY M/V ALBATROSS 37 IN AREAS BOUND BY:
-   A. 14-17.49N 082-39.67E, 14-05.53N 082-51.12E,
-      11-50.38N 083-27.16E, 11-53.12N 083-29.87E,
-      12-28.53N 083-28.67E, 13-03.54N 083-18.40E,
-      14-08.76N 082-56.63E, 14-22.68N 082-47.00E.
-   B. 15-42.88N 081-43.83E, 15-45.51N 081-46.87E,
-      15-03.47N 082-07.75E, 14-22.68N 082-47.00E,
-      14-17.49N 082-39.67E, 14-28.32N 082-27.73E,
-      14-52.92N 082-01.65E, 15-02.15N 081-55.20E.
-   C. 15-42.88N 081-43.83E, 15-44.80N 081-46.00E,
-      16-13.99N 081-23.59E, 16-09.93N 081-19.49E,
-      15-58.52N 081-26.17E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 58/26.
-3. CANCEL THIS MSG 160001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211021Z JAN 26
@@ -1261,25 +1285,6 @@ NOTICE BY M/V MARION DUFRESNE IN AREA BOUND BY
 28-00.00S 054-19.00E, 30-00.00S 054-06.00E,
 30-00.00S 066-25.00E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161401Z JAN 26
-HYDROPAC 129/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 19 JAN THRU 01 MAR 
-   BY M/V SW BLY AND OCEANIC SIRIUS 
-   IN AREA BOUND BY
-   16-59N 084-32E, 16-59N 087-10E, 
-   15-59N 087-10E, 15-32N 086-33E, 
-   15-32N 085-16E, 14-57N 085-16E, 
-   14-57N 084-30E, 16-59N 084-30E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 011830Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>030849Z FEB 26
+HYDROLANT 232/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. 11 CONTAINERS ADRIFT IN VICINITY 
+   37-08.10N 011-21.60W AT 021620Z FEB.
+2. CANCEL THIS MSG 060847Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MEDEVAC</category>
         <status>INFORCE</status>
         <msgText>030148Z FEB 26
@@ -93,25 +105,6 @@ DNC 01, DNC 07, DNC 29.
    S. 60-25.00S 051-17.00W.
 2. CANCEL HYDROLANT 167/26.
 3. CANCEL THIS MSG 031422Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021241Z FEB 26
-HYDROLANT 225/26(55).
-BLACK SEA.
-RUSSIA.
-DNC 10.
-1. SURVEY OPERATIONS IN PROGRESS 30 JAN THRU 01 MAR
-   BY VESSEL M/V ZAGANOS PASA, M/V ATAMAN, M/V ORUC REIS 
-   ALONG TRACKLINE JOINING
-   42-20.70N 038-07.52E, 41-55.58N 039-03.11E,
-   42-04.30N 039-10.42E, 42-17.39N 039-10.65E,
-   42-20.06N 038-59.97E, 42-25.23N 038-32.22E,
-   42-27.83N 038-26.52E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 012059Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
