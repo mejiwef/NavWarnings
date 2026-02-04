@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>040540Z FEB 26
+HYDROPAC 339/26(75).
+TASMAN SEA.
+AUSTRALIA.
+DNC 05.
+GREEN CAPE LIGHT 37-15.72S 150-03.00E
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270606Z JAN 26
+HYDROPAC 338/26(81).
+NORTH PACIFIC.
+DNC 12.
+CABLE OPERATIONS 09 FEB UNTIL FURTHER NOTICE
+BY  M/V GRACE IN AREA WITHIN THREE MILES OF
+TRACKLINE JOINING
+16-20.76N 168-02.21E, 16-10.96N 166-40.53E,
+16-09.83N 166-15.50E, 16-00.70N 165-50.00E,
+16-45.90N 163-18.80E, 16-18.97N 159-55.33E,
+15-55.90N 158-57.60E, 15-56.70N 158-40.00E,
+15-20.00N 156-30.00E, 14-59.84N 155-49.83E,
+14-05.00N 154-50.00E, 13-55.00N 154-00.00E,
+14-33.73N 151-29.93E, 14-50.76N 150-54.70E,
+15-00.00N 150-10.00E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301037Z JAN 26
+HYDROPAC 337/26(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 1130Z TO 1430Z 
+   DAILY 09 THRU 12, 16 THRU 19, 24, 25, 27 FEB, 
+   08 AND 09 MAR IN AREA BOUND BY
+   11-40.23N 092-45.75E, 11-37.33N 092-47.93E,
+   11-40.30N 092-50.00E, 11-40.77N 092-45.97E.
+2. CANCEL THIS MSG 091530Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040223Z FEB 26
+HYDROPAC 336/26(92).
+PHILIPPINE SEA.
+PHILIPPINES.
+DNC 11.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 12 FEB
+   BY CABLESHIP PRIMA NUSANTARA X
+   IN VICINITY OF TRACKLINE JOINING
+   06-18.60N 125-58.57E, 06-12.05N 125-59.26E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>032027Z FEB 26
