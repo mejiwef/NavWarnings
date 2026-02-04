@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>041111Z FEB 26
+HYDROLANT 244/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-24.60W.
+   B. A84, 71-36.60S 100-15.00W.
+   C. A85, 68-33.00S 056-27.60W.
+   D. D33A, 65-31.20S 057-48.00W.
+   E. D33C, 65-54.00S 058-30.00W.
+2. CANCEL THIS MSG 051100Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>041019Z FEB 26
+HYDROLANT 243/26(51).
+STRAIT OF GIBRALTAR.
+GIBRALTAR.
+DNC 08.
+NAVTEX STATION TARIFA (G) (T)
+36-02N 005-33W OFF AIR.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>040215Z FEB 26
