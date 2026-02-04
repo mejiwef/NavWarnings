@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NGA TECHNICAL ALERT</category>
+        <status>INFORCE</status>
+        <msgText>041752Z FEB 26
+NAVAREA XII 72/26(GEN).
+NGA NAVSAFETY WATCH PRIMARY E-MAIL
+INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
+NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210034Z JAN 26
@@ -10,7 +21,8 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 091700Z TO 100001Z FEB
    IN AREA WITHIN ONE MILE OF
     32-35.86N 117-10.85W.
-2. CANCEL THIS MSG 100101Z FEB 26.</msgText>
+2. CANCEL THIS MSG 100101Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

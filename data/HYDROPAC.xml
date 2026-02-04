@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NGA TECHNICAL ALERT</category>
+        <status>INFORCE</status>
+        <msgText>041752Z FEB 26
+HYDROPAC 342/26(GEN).
+NGA NAVSAFETY WATCH PRIMARY E-MAIL
+INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
+NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041310Z FEB 26
+HYDROPAC 341/26(71).
+SOUTH CHINA SEA.
+INDONESIA.
+DNC 11.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+   NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY:
+   03-46.27N 106-20.21E, 03-46.86N 106-19.91E,
+   03-45.89N 106-17.89E, 03-45.28N 106-18.17E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 135/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>040540Z FEB 26
@@ -62,7 +89,8 @@ DNC 11.
    IN VICINITY OF TRACKLINE JOINING
    06-18.60N 125-58.57E, 06-12.05N 125-59.26E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130001Z FEB 26.</msgText>
+2. CANCEL THIS MSG 130001Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -78,7 +106,8 @@ DNC 05.
    37-58.15S 148-30.49E, 38-07.16S 148-30.49E,
    38-07.16S 148-14.11E, 37-58.15S 148-14.11E.
    ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 327/26(63).</msgText>
+2. CANCEL HYDROPAC 327/26(63).
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1300,21 +1329,6 @@ IN AREA BOUND BY
 31-48.50S 115-36.00E, 31-46.50S 115-35.00E,
 31-48.50S 115-20.00E, 31-57.00S 115-21.00E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>162203Z JAN 26
-HYDROPAC 135/26(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 11.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY
-03-48.60N 106-23.10E, 03-49.10N 106-22.70E,
-03-48.07N 106-21.65E, 03-47.60N 106-22.15E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
