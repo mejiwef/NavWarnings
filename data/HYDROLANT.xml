@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031928Z FEB 26
+HYDROLANT 239/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-24.60W.
+   B. A84, 71-36.60S 100-15.00W.
+   C. A85, 68-33.00S 056-27.60W.
+   D. D33A, 65-31.20S 057-48.00W.
+   E. D33C, 65-54.00S 058-30.00W.
+2. CANCEL THIS MSG 041928Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031741Z FEB 26
@@ -159,23 +175,6 @@ DNC 01.
    09-23.75N 022-23.25W, 08-56.94N 022-11.63W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 072100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021901Z FEB 26
-HYDROLANT 228/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 058-24.60W.
-   B. A84, 71-36.60S 100-15.00W.
-   C. A85, 68-33.00S 056-27.60W.
-   D. D33A, 65-31.20S 057-48.00W.
-   E. D33C, 65-54.00S 058-30.00W.
-2. CANCEL THIS MSG 031900Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1026,32 +1025,6 @@ SOUTH ATLANTIC.
 BRAZIL.
 DNC 01.
 DANGEROUS WRECK IN 23-01.12S 043-08.12W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>070554Z AUG 25
-HYDROLANT 1313/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. ILHA DO BOM ABRIGO LIGHT 25-07.40S 047-51.80W
-   UNLIT UNTIL 03 FEB 26.
-2. CANCEL THIS MSG 040001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>070541Z AUG 25
-HYDROLANT 1312/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. ICAPARA LIGHT 24-41.00S 047-27.20W UNLIT 
-   UNTIL 03 FEB 26.
-2. CANCEL THIS MSG 040001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

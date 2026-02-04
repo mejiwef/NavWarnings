@@ -53,21 +53,6 @@ DNC 22.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>300502Z JAN 26
-HYDROARC 19/26(43).
-NORWEGIAN SEA.
-DNC 21, DNC 22.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0900Z TO 1515Z DAILY 02 THRU 09 FEB
-   IN AREA BOUND BY
-   71-43.00N 008-19.00E, 70-59.00N 010-11.00E,
-   71-14.00N 012-02.00E, 72-00.00N 010-06.00E.
-2. CANCEL THIS MSG 091615Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>142350Z JAN 26
