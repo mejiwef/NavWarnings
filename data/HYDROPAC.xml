@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>042126Z FEB 26
+HYDROPAC 343/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z DAILY
+    10 THRU 12 FEB IN AREAS WITHIN THREE MILES OF:
+   A. 13-26.60N 145-07.60E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 121400Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
         <status>INFORCE</status>
         <msgText>041752Z FEB 26
@@ -8,7 +23,6 @@ HYDROPAC 342/26(GEN).
 NGA NAVSAFETY WATCH PRIMARY E-MAIL
 INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
 NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -236,21 +250,6 @@ DNC 03.
    10-50.00N 075-00.00E, 10-50.00N 075-35.00E,
    10-20.00N 075-35.00E, 10-20.00N 075-00.00E.
 2. CANCEL THIS MSG 061130Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021208Z FEB 26
-HYDROPAC 318/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 041630Z THRU 041831Z 
-   IN AREA BOUND BY:
-   15-25.00N 072-50.00E, 15-25.00N 072-36.00E,
-   15-12.00N 072-40.00E, 15-12.00N 072-56.00E.
-2. CANCEL THIS MSG 041931Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1313,22 +1312,6 @@ DNC 03.
       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 190001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190210Z JAN 26
-HYDROPAC 152/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-FURTHER NOTICE BY CABLESHIP PETER FABER
-IN AREA BOUND BY
-31-48.50S 115-36.00E, 31-46.50S 115-35.00E,
-31-48.50S 115-20.00E, 31-57.00S 115-21.00E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

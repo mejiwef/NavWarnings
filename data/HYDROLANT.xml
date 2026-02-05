@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>042116Z FEB 26
+HYDROLANT 248/26(36).
+CELTIC SEA.
+IRELAND.
+DNC 19.
+1. DERELICT NINE METER S/V ADRIFT
+   IN 52-05.00N 006-03.00W AT 041640Z FEB.
+2. CANCEL HYDROLANT 241/26.
+3. CANCEL THIS MSG 072116Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
         <status>INFORCE</status>
         <msgText>041752Z FEB 26
@@ -8,7 +21,6 @@ HYDROLANT 247/26(GEN).
 NGA NAVSAFETY WATCH PRIMARY E-MAIL
 INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
 NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -102,36 +114,6 @@ DNC 01.
    02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 170001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>040207Z FEB 26
-HYDROLANT 241/26(36).
-CELTIC SEA.
-ENGLAND.
-DNC 20.
-1. DERELICT NINE METER S/V ADRIFT 
-   IN 51-40.00N 005-35.00W AT 031855Z FEB.
-2. CANCEL THIS MSG 070207Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031928Z FEB 26
-HYDROLANT 239/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 058-24.60W.
-   B. A84, 71-36.60S 100-15.00W.
-   C. A85, 68-33.00S 056-27.60W.
-   D. D33A, 65-31.20S 057-48.00W.
-   E. D33C, 65-54.00S 058-30.00W.
-2. CANCEL THIS MSG 041928Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
