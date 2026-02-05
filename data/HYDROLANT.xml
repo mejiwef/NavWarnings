@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291627Z JAN 26
+HYDROLANT 250/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0600Z TO 1400Z DAILY
+   08 THRU 10 FEB IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-29.55N 029-31.12E, 44-24.20N 029-31.93E,
+   44-09.02N 029-26.73E, 44-04.45N 029-22.32E,
+   44-13.55N 028-51.50E, 44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 101500Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050116Z FEB 26
+HYDROLANT 249/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+   NOTICE BY CABLESHIP PIERRE DE FERMAT
+   IN AREA BOUND BY
+   50-34.00N 000-20.00E, 50-34.00N 000-23.00E,
+   50-33.00N 000-23.00E, 50-33.00N 000-20.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 233/26(24).</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>042116Z FEB 26
@@ -166,25 +199,6 @@ DNC 09.
    37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
    38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031314Z FEB 26
-HYDROLANT 233/26(24).
-NORTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS 26 JAN THRU 16 FEB
-   BY TUG LH LABARO, M/V RAMFORM ATLAS,
-   TUG DRS RETUMBANTE, M/V THOR FRIGG
-   TOWING 12 10000 METER LONG CABLES
-   ALONG TRACKLINE JOINING:
-   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
-   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
