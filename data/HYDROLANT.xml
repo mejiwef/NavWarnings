@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051055Z FEB 26
+HYDROLANT 254/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 058-24.60W.
+   B. A84, 71-36.60S 100-15.00W.
+   C. A85, 68-33.00S 056-27.60W.
+   D. D33A, 65-31.20S 057-48.00W.
+   E. D33C, 65-54.00S 058-30.00W.
+2. CANCEL THIS MSG 061400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051020Z FEB 26
+HYDROLANT 253/26(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
+   DAILY 10 FEB THRU 12 FEB IN AREA WITHIN 
+   TEN MILES OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 122200Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>050714Z FEB 26
+HYDROLANT 251/26(35).
+NORTH MINCH.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+DNC 19.
+CGOC STORNOWAY MF R/T SERVICES 
+OFF AIR AT:
+A. TIREE 56-30.20N 006-57.80W.
+B. BUTT OF LEWIS 58-27.70N 006-13.90W. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291627Z JAN 26
@@ -100,23 +144,6 @@ DNC 01, DNC 29.
    Q. 52-10.00S 039-58.00W.
    R. 52-11.00S 040-45.00W.
 2. CANCEL THIS MSG 051447Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041111Z FEB 26
-HYDROLANT 244/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 058-24.60W.
-   B. A84, 71-36.60S 100-15.00W.
-   C. A85, 68-33.00S 056-27.60W.
-   D. D33A, 65-31.20S 057-48.00W.
-   E. D33C, 65-54.00S 058-30.00W.
-2. CANCEL THIS MSG 051100Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -711,18 +738,6 @@ DNC 09.
 1. NAVTEX STATION MALTA (O)
    35-51.30N 014-29.30E IS OFFLINE. 
 2. CANCEL HYDROLANT 22/26(53).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>302331Z DEC 25
-HYDROLANT 2246/25(35).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-CGOC CULLERCOATS 55-04.40N 001-27.80W
-MF DSC AND R/T SERVICE OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

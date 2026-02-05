@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051128Z FEB 26
+HYDROPAC 348/26(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. CABLE OPERATIONS 06 FEB THRU 03 APR BY 
+   CABLESHIP BLUE NAVIGATOR ALONG TRACKLINE JOINING
+   25-59.00N 051-31.35E, 26-00.84N 051-32.42E,
+   26-06.58N 051-32.02E, 26-12.25N 051-33.00E,
+   26-30.25N 051-45.37E, 26-34.54N 051-49.45E,
+   26-36.33N 051-51.16E, 26-36.66N 051-53.71E,
+   26-38.00N 051-57.57E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 040001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>051118Z FEB 26
+HYDROPAC 347/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. OFFSHORE CONTRUCTION ACTIVITIES 
+   06 FEB THRU 20 MAR BY M/V BRITOIL 81 AND 
+   M/V LTS 3000 ALONG TRACKLINE JOINING
+   20-36.01N 072-02.13E, 20-02.96N 071-45.71E,
+   19-31.78N 071-18.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021928Z FEB 26
@@ -166,25 +203,6 @@ DNC 03.
    17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
    17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
 2. CANCEL THIS MSG 081130Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031138Z FEB 26
-HYDROPAC 330/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 050030Z TO 051100Z FEB
-   IN AREAS BOUND BY:
-   A. 17-40.00N 084-19.00E, 17-40.00N 083-47.00E,
-      17-15.00N 084-05.00E, 17-15.00N 084-36.00E,
-      17-40.00N 084-19.00E.
-   B. 17-59.00N 084-43.25E, 17-59.00N 084-11.67E,
-      17-40.00N 083-48.00E, 17-40.00N 084-19.00E,
-      17-59.00N 084-43.25E.
-2. CANCEL THIS MSG 051200Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
