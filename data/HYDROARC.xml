@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>041752Z FEB 26
-HYDROARC 24/26(GEN).
-NGA NAVSAFETY WATCH PRIMARY E-MAIL
-INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
-NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>301809Z JAN 26

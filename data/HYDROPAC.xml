@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051540Z FEB 26
-HYDROPAC 349/26(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL
-   052300Z FEB IN AREA BOUND BY
-   33-05.26S 072-43.88W, 33-05.26S 072-32.10W,
-   33-14.78S 072-32.10W, 33-14.78S 072-43.88W.
-2. CANCEL THIS MSG 060001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051128Z FEB 26
@@ -96,16 +81,6 @@ DNC 12.
    A. 13-26.60N 145-07.60E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 121400Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>041752Z FEB 26
-HYDROPAC 342/26(GEN).
-NGA NAVSAFETY WATCH PRIMARY E-MAIL
-INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
-NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -458,24 +433,6 @@ DNC 02.
    20-54.24S 058-59.21E, 23-38.50S 052-47.30E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 072100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>300300Z JAN 26
-HYDROPAC 303/26(22,83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   050300Z TO 050530Z FEB, ALTERNATE
-   060230Z TO 060430Z, 070200Z TO 070400Z,
-   080130Z TO 080330Z AND 090100Z TO 090300Z FEB
-   IN AREA BOUND BY
-   31-09.87S 131-42.99W, 41-11.39S 133-02.94W,
-   36-55.05S 121-55.43W, 32-27.28S 114-22.39W,
-   20-31.55S 115-25.84W, 25-25.96S 123-30.61W.
-2. CANCEL THIS MSG 090400Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

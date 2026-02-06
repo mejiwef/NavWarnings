@@ -68,16 +68,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>041752Z FEB 26
-NAVAREA XII 72/26(GEN).
-NGA NAVSAFETY WATCH PRIMARY E-MAIL
-INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
-NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210034Z JAN 26

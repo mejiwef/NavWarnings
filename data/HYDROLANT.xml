@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>052024Z FEB 26
+HYDROLANT 258/26(37).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
+53-11.00N 002-05.80E INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>051642Z FEB 26
@@ -132,16 +143,6 @@ DNC 19.
    IN 52-05.00N 006-03.00W AT 041640Z FEB.
 2. CANCEL HYDROLANT 241/26.
 3. CANCEL THIS MSG 072116Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>041752Z FEB 26
-HYDROLANT 247/26(GEN).
-NGA NAVSAFETY WATCH PRIMARY E-MAIL
-INOPERATIVE. FOR URGENT SERVICE, CONTACT NGA
-NAVSAFETY VIA PHONE AT 571 557 5455, 800 362 6289.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -471,20 +472,6 @@ DNC 01.
    UNLIT, RACON INOPERATIVE UNTIL 27 JUL.
 2. CANCEL HYDROLANT 184/26.
 3. CANCEL THIS MSG 280001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>290043Z JAN 26
-HYDROLANT 196/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PEBA LIGHT 10-29.30S 036-23.26W UNLIT
-   UNTIL 05 FEB.
-2. CANCEL HYDROLANT 191/26.
-3. CANCEL THIS MSG 060001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
