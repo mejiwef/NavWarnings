@@ -123,20 +123,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>280846Z JAN 26
-NAVAREA XII 63/26(18).
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1500Z TO 2200Z DAILY 02 THRU 12 FEB
-   IN AREA BOUND BY
-   26-43.00N 130-22.00W, 30-40.00N 129-29.00W,
-   30-53.00N 130-46.00W, 26-57.00N 131-39.00W.
-2. CANCEL THIS MSG 122300Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280310Z JAN 26

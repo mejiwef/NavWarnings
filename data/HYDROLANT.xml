@@ -243,18 +243,6 @@ DNC 09.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>030849Z FEB 26
-HYDROLANT 232/26(51).
-NORTH ATLANTIC.
-DNC 08.
-1. 11 CONTAINERS ADRIFT IN VICINITY 
-   37-08.10N 011-21.60W AT 021620Z FEB.
-2. CANCEL THIS MSG 060847Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>022156Z FEB 26
