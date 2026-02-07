@@ -449,21 +449,6 @@ REPORTS TO ANY COASTAL RADIO STATION.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>282059Z JAN 26
-HYDROLANT 193/26(35).
-NORTH ATLANTIC.
-SCOTLAND.
-DNC 19.
-1. HAZARDOUS OPERATIONS 0730Z TO 1830Z DAILY
-   02 THRU 07 FEB IN AREAS WITHIN:
-   A. 26 MILES OF 57-16.70N 008-10.90W.
-   B. 28 MILES OF 57-28.50N 008-53.70W.
-2. CANCEL THIS MSG 071930Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>280416Z JAN 26
 HYDROLANT 185/26(44).
 BALTIC SEA.

@@ -584,23 +584,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>301206Z JAN 26
-HYDROPAC 306/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 051530Z TO 051730Z,
-   060330Z TO 060530Z AND 061530Z TO 06730Z FEB
-   IN AREA BOUND BY
-   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
-   21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
-   21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
-2. CANCEL THIS MSG 061830Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>301059Z JAN 26
 HYDROPAC 305/26(63).
 ANDAMAN SEA.
