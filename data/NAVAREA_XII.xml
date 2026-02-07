@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>221838Z JAN 26
+NAVAREA XII 81/26(22).
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   1440Z TO 1626Z AND 1740Z TO 1926Z DAILY 
+   12 FEB THRU 14 MAR IN AREA BOUND BY
+   00-11.00S 103-42.00W, 00-59.00S 102-33.00W,
+   12-20.00S 110-42.00W, 11-30.00S 111-52.00W.
+2. CANCEL THIS MSG 142026Z MAR 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>061722Z FEB 26
@@ -130,62 +145,6 @@ CALIFORNIA.
    IN AREA WITHIN ONE MILE OF
     32-35.86N 117-10.85W.
 2. CANCEL THIS MSG 100101Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300108Z JAN 26
-NAVAREA XII 66/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 032100Z TO
-   040100Z FEB, ALTERNATE 2100Z TO 0100Z
-   DAILY 04 THRU 06 FEB IN AREA BOUND BY
-   33-37.00N 119-19.00W, 33-16.00N 119-37.00W,
-   32-51.00N 119-39.00W, 32-28.00N 120-08.00W,
-   33-45.00N 121-00.00W, 33-51.00N 120-46.00W,
-   33-45.00N 120-08.00W, 33-45.00N 119-26.00W.
-2. CANCEL THIS MSG 070200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280310Z JAN 26
-NAVAREA XII 60/26(18,21).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 021500Z TO 070100Z FEB
-   IN AREA WITHIN TWO MILES OF
-   32-32.93N 117-11.75W.
-2. CANCEL THIS MSG 070200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280259Z JAN 26
-NAVAREA XII 59/26(18,21).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 021500Z TO 70100Z FEB
-   IN AREA WITHIN TWO MILES OF
-   32-32.92N 117-14.65W.
-2. CANCEL THIS MSG 070200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280246Z JAN 26
-NAVAREA XII 57/26(18,21).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 021500Z TO 070100Z FEB
-   IN AREA WITHIN TWO MILES OF
-   32-32.92N 117-12.85W.
-2. CANCEL THIS MSG 070200Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

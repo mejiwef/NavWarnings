@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>221838Z JAN 26
+HYDROPAC 368/26(22).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   1440Z TO 1626Z AND 1740Z TO 1926Z DAILY 
+   12 FEB THRU 14 MAR IN AREA BOUND BY
+   00-11.00S 103-42.00W, 00-59.00S 102-33.00W,
+   12-20.00S 110-42.00W, 11-30.00S 111-52.00W.
+2. CANCEL THIS MSG 142026Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>070438Z FEB 26
+HYDROPAC 367/26(83).
+SOUTH PACIFIC.
+AMERICAN SAMOA.
+DNC 06.
+1. DERELICT 27 FOOT VESSEL, GREEN AND WHITE HULL, ADRIFT 
+   IN VICINITY 14-31.88S 172-11.70W AT 070340Z FEB.
+2. CANCEL THIS MSG 100436Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>070045Z FEB 26
+HYDROPAC 366/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   110500Z TO 111100Z FEB, IN AREAS BOUND BY:
+   A. 09-41.00N 109-26.00E, 09-33.00N 110-09.00E,
+      08-08.00N 109-53.00E, 08-15.00N 109-10.00E.
+   B. 09-15.00N 109-22.00E, 09-07.00N 110-05.00E,
+      07-42.00N 109-49.00E, 07-50.00N 109-06.00E.
+2. CANCEL THIS MSG 111200Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061753Z FEB 26

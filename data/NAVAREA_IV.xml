@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>221838Z JAN 26
+NAVAREA IV 115/26(24,51).
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   12 FEB THRU 14 MAR:
+   A. 1050Z TO 1250Z AND 1350Z TO 1550Z 
+      IN AREA BOUND BY
+      11-11.00N 048-21.00W, 11-02.00N 048-08.00W,
+      09-46.00N 049-08.00W, 09-56.00N 049-21.00W.
+   B. 1050Z TO 1250Z AND 1350Z TO 1550Z 
+      IN AREA BOUND BY
+      12-19.00N 047-23.00W, 12-07.00N 047-07.00W,
+      10-27.00N 048-26.00W, 10-38.00N 048-42.00W.
+   C. 1148Z TO 1334Z AND 1448Z TO 1648Z 
+      IN AREA BOUND BY
+      29-30.00N 032-39.00W, 29-00.00N 032-02.00W,
+      25-54.00N 035-15.00W, 26-22.00N 035-52.00W.
+2. CANCEL THIS MSG 141748Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>062037Z FEB 26
