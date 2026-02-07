@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071634Z FEB 26
+HYDROPAC 372/26(62).
+PERSIAN GULF.
+SAUDI ARABIA.
+DNC 10.
+1. CABLE OPERATIONS 08 THRU 14 FEB
+   BY CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
+   28-25.86N 049-29.49E, 28-13.16N 049-22.95E,
+   27-56.72N 049-52.43E, 27-48.48N 050-03.80E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 233/26.
+3. CANCEL THIS MSG 150001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>071217Z FEB 26
+HYDROPAC 371/26(81,97).
+NORTH PACIFIC.
+DNC 12.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0830Z TO 1030Z DAILY 12 THRU 15 FEB
+   IN AREA WITHIN 216 MILES OF 24-23.00N 161-46.00E.
+2. CANCEL THIS MSG 151130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>261123Z JAN 26
@@ -683,24 +713,6 @@ IN AREA BOUND BY
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301613Z JAN 26
-HYDROPAC 293/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 1230Z AND
-   1330Z TO 1630Z DAILY 31 JAN AND 02 THRU 07 FEB
-   IN AREA BOUND BY
-   22-12.00N 068-36.33E, 21-15.50N 069-04.00E,
-   21-09.00N 069-40.00E, 21-15.50N 069-42.50E,
-   22-05.75N 068-49.00E.
-2. CANCEL HYDROPAC 106/26
-3. CANCEL THIS MSG 071730Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301519Z JAN 26
@@ -802,22 +814,6 @@ DNC 06.
    59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
    25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
 2. CANCEL THIS MSG 130023Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291824Z JAN 26
-HYDROPAC 280/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 021230Z TO 041530Z
-   AND 051230Z TO 071530Z FEB
-   IN AREA BOUND BY
-   14-30.00N 072-37.00E, 14-30.00N 072-52.00E,
-   14-45.00N 072-52.00E, 14-45.00N 072-37.00E.
-2. CANCEL THIS MSG 071630Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1084,28 +1080,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261406Z JAN 26
-HYDROPAC 233/26(62).
-PERSIAN GULF.
-SAUDI ARABIA.
-DNC 10.
-CABLE OPERATIONS 28 JAN UNTIL FURTHER NOTICE 
-BY CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
-26-27.01N 050-19.26E, 26-29.67N 050-17.59E,
-26-30.36N 050-17.75E, 26-31.03N 050-18.13E,
-26-32.10N 050-18.44E, 26-35.34N 050-18.57E,
-26-36.38N 050-21.42E, 26-39.09N 050-21.42E,
-26-40.05N 050-21.86E, 26-42.06N 050-22.17E,
-26-44.42N 050-23.46E, 26-46.17N 050-26.01E,
-26-47.48N 050-31.52E, 26-51.04N 050-36.84E,
-26-52.53N 050-36.66E, 27-00.24N 050-43.22E,
-27-09.35N 050-45.45E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

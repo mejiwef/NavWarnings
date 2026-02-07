@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071411Z FEB 26
+HYDROLANT 268/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-48.60S 058-19.80W.
+   B. A84, 71-41.40S 101-00.60W.
+   C. A85, 68-27.00S 056-22.80W.
+   D. D33A, 65-34.20S 057-45.60W.
+   E. D33C, 65-56.40S 058-19.80W.
+2. CANCEL THIS MSG 081412Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071406Z FEB 26
+HYDROLANT 267/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 49-36.00S 040-46.00W.
+   B. A23J, 51-32.00S 040-54.00W.
+   C. A77, 51-03.00S 024-42.00W.
+   D. A76C, 59-35.00S 037-56.00W.
+   E. B15AB, 55-54.00S 033-20.00W.
+   F. 52-24.00S 039-29.00W.
+   G. 51-21.00S 034-37.00W.
+   H. 51-25.00S 040-09.00W.
+   I. 58-45.00S 035-28.00W.
+   J. 51-45.00S 040-49.00W.
+   K. 51-11.00S 040-20.00W.
+   L. 49-43.00S 039-07.00W.
+   M. 50-08.00S 036-21.00W.
+   N. 51-26.00S 040-03.00W.
+   O. 60-09.00S 049-19.00W.
+   P. 52-03.00S 039-29.00W.
+   Q. 52-05.00S 039-48.00W.
+   R. 52-15.00S 040-26.00W.
+   S. 60-16.00S 049-14.00W.
+2. CANCEL THIS MSG 081405Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071234Z FEB 26
+HYDROLANT 265/26(57).
+GULF OF GUINEA.
+NIGERIA.
+DNC 01.
+SURVEY OPERATIONS 09 FEB UNTIL FURTHER NOTICE
+BY M/V RAMFORM HYPERION TOWING 12 
+SIX MILE LONG CABLES IN AREA BOUND BY
+03-41.30N 005-04.10E, 03-41.00N 007-22.10E,
+02-53.80N 007-21.80E, 02-39.20N 006-28.00E,
+02-37.80N 005-04.20E.
+SEVEN MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>261123Z JAN 26
@@ -71,48 +136,6 @@ HYDROLANT 260/26(GEN).
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1769/25, 197/26, 210/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>061556Z FEB 26
-HYDROLANT 259/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 49-46.00S 040-16.00W.
-   B. A23J, 51-52.00S 041-03.00W.
-   C. A77, 51-03.00S 024-42.00W.
-   D. A76C, 59-35.00S 037-57.00W.
-   E. B15AB, 55-54.00S 033-20.00W.
-   F. 52-30.00S 039-33.00W.
-   G. 51-28.00S 034-46.00W.
-   H. 51-30.00S 040-34.00W.
-   I. 58-52.00S 035-29.00W.
-   J. 51-57.00S 040-55.00W.
-   K. 51-27.00S 040-46.00W.
-   L. 49-14.00S 040-09.00W.
-   M. 49-51.00S 036-54.00W.
-   N. 51-32.00S 040-20.00W.
-   O. 60-18.00S 049-52.00W.
-   P. 52-06.00S 039-40.00W.
-   Q. 52-10.00S 039-58.00W.
-   R. 52-11.00S 040-45.00W.
-   S. 60-20.00S 049-46.00W.
-2. CANCEL THIS MSG 071556Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PLATFORM</category>
-        <status>INFORCE</status>
-        <msgText>052024Z FEB 26
-HYDROLANT 258/26(37).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
-53-11.00N 002-05.80E INOPERATIVE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -371,24 +394,6 @@ DNC 01.
    29-18.40S 046-11.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 100001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291611Z JAN 26
-HYDROLANT 213/26(55).
-BLACK SEA.
-ROMANIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0700Z TO 1400Z
-   04 AND 05 FEB AND 0600Z TO 1400Z 
-   06 AND 07 FEB IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
-   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
-   44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 071500Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

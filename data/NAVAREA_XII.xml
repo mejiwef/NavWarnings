@@ -21,17 +21,6 @@ ECUADOR
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>061722Z FEB 26
-NAVAREA XII 80/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-NAVTEX STATION CAMBRIA (Q) 35-31.12N 121-03.60W 
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061631Z FEB 26
