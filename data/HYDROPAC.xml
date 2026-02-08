@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>081733Z FEB 26
+HYDROPAC 382/26(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+ALBANY ROCK LIGHT 10-43.12S 142-37.77E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>081645Z FEB 26
+HYDROPAC 381/26(63).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. BUOY ADRIFT IN VICINITY 05-17.58N 084-24.75E
+   AT 081200Z FEB.
+2. CANCEL THIS MSG 111644Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>081616Z FEB 26
+HYDROPAC 380/26(63).
+GULF OF KACHCHH.
+INDIA.
+DNC 03.
+JODIYA BANDAR LIGHT 22-43.54N 070-16.79E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>081406Z FEB 26
+HYDROPAC 379/26(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081110Z FEB 26
