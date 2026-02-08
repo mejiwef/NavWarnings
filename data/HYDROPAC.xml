@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081110Z FEB 26
+HYDROPAC 378/26(75,76).
+TASMAN SEA.
+DNC 06.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V LAYLA
+ALONG TRACKLINE JOINING
+36-02.07S 163-22.14E, 36-16.50S 165-44.02E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>080352Z FEB 26
@@ -568,21 +581,6 @@ DNC 05.
    38-07.16S 148-14.11E, 37-58.15S 148-14.11E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 327/26(63).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031236Z FEB 26
-HYDROPAC 333/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
-   06 THRU 08 FEB IN AREA BOUND BY
-   17-58.90N 084-27.30E, 17-58.90N 084-11.70E,
-   17-49.50N 083-59.60E, 17-49.50N 084-15.70E.
-2. CANCEL THIS MSG 081130Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
