@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071808Z FEB 26
+HYDROLANT 269/26(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+1. HAZARDOUS OPERATIONS 0730Z TO 1830Z DAILY
+   12 THRU 21 FEB IN AREAS WITHIN:
+   A. 23 MILES OF 57-22.70N 008-06.20W.
+   B. 22 MILES OF 57-37.90N 009-00.00W.
+2. CANCEL THIS MSG 211930Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>071411Z FEB 26
@@ -210,19 +225,6 @@ DNC 20.
 2. CANCEL HYDROLANT 233/26(24).</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>042116Z FEB 26
-HYDROLANT 248/26(36).
-CELTIC SEA.
-IRELAND.
-DNC 19.
-1. DERELICT NINE METER S/V ADRIFT
-   IN 52-05.00N 006-03.00W AT 041640Z FEB.
-2. CANCEL HYDROLANT 241/26.
-3. CANCEL THIS MSG 072116Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041642Z FEB 26
@@ -318,24 +320,6 @@ DNC 09.
    37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
    38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022156Z FEB 26
-HYDROLANT 229/26(51).
-NORTH ATLANTIC.
-CAPE VERDE.
-DNC 01.
-1. CABLE OPERATIONS 030800Z TO 072000Z FEB 
-   BY M/V MAASVLIET ALONG TRACKLINE JOINING
-   13-34.71N 024-27.98W, 13-19.50N 024-21.00W,
-   12-09.00N 023-58.75W, 11-43.25N 023-37.00W,
-   10-58.25N 023-12.50W, 10-09.00N 022-45.00W,
-   09-23.75N 022-23.25W, 08-56.94N 022-11.63W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 072100Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
