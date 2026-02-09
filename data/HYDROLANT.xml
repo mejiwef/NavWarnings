@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>091111Z FEB 26
+HYDROLANT 278/26(37).
+ENGLISH CHANNEL.
+FRANCE.
+DNC 20.
+SW MINQUIERS BUOY 48-54.30N 002-19.40W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090533Z FEB 26

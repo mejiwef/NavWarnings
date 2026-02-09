@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091155Z FEB 26
+HYDROPAC 390/26(81).
+NORTH PACIFIC.
+DNC 12.
+1. CABLE OPERATIONS 10 FEB UNTIL FURTHER NOTICE 
+   BY M/V GRACE IN VICINITY OF TRACKLINE JOINING
+   16-20.20N 167-57.10E, 16-00.70N 165-50.00E,
+   16-46.00N 163-19.00E, 16-18.00N 159-31.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 338/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>091058Z FEB 26
+HYDROPAC 389/26(62).
+ARABIAN SEA.
+OMAN.
+DNC 10.
+M/V WARBA SANK IN 19-25.56N 058-44.54E.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091043Z FEB 26
+HYDROPAC 388/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 0830Z 
+   DAILY 13 THRU 20, 240900Z TO 241800Z, 
+   AND 250030Z TO 251230Z FEB
+   IN AREA BOUND BY
+   17-45.00N 083-26.90E, 17-45.00N 083-21.33E,
+   17-43.44N 083-20.82E, 17-42.24N 083-18.56E,
+   17-40.00N 083-17.53E, 17-40.00N 083-26.90E.
+2. CANCEL THIS MSG 251330Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091037Z FEB 26
+HYDROPAC 387/26(63).
+ARABIAN SEA.
+DNC 03.
+1. CABLE OPERATIONS 12 THRU 28 FEB 
+   BY M/V ATHBA IN AREA BOUND BY
+   18-42.99N 070-19.83E, 18-41.17N 070-21.04E,
+   18-46.35N 070-37.25E, 18-48.16N 070-28.55E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091031Z FEB 26
+HYDROPAC 386/26(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0330Z TO 1030Z 
+   12, 13, 19, 20, 26 AND 27 FEB
+   IN AREA BOUND BY
+   10-20.00N 075-00.00E, 10-50.00N 075-00.00E,
+   10-50.00N 075-35.00E, 10-20.00N 075-35.00E.
+2. CANCEL THIS MSG 271130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>090926Z FEB 26
+HYDROPAC 385/26(74).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   120500Z TO 121200Z FEB
+   IN AREA BOUND BY
+   33-20.00S 102-24.00E, 30-40.00S 102-54.00E,
+   30-46.00S 103-43.00E, 33-27.00S 103-15.00E.
+2. CANCEL THIS MSG 121300Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>081733Z FEB 26
@@ -87,20 +178,6 @@ DNC 03.
    01-37.30N 103-01.10E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 244/26, 257/26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>071950Z FEB 26
-HYDROPAC 374/26(74).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   110500Z TO 111100Z FEB, IN AREA BOUND BY
-   33-20.00S 102-24.00E, 30-40.00S 102-54.00E,
-   30-46.00S 103-43.00E, 33-27.00S 103-15.00E.
-2. CANCEL THIS MSG 111200Z FEB 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -544,27 +621,6 @@ AUSTRALIA.
 DNC 05.
 GREEN CAPE LIGHT 37-15.72S 150-03.00E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270606Z JAN 26
-HYDROPAC 338/26(81).
-NORTH PACIFIC.
-DNC 12.
-CABLE OPERATIONS 09 FEB UNTIL FURTHER NOTICE
-BY  M/V GRACE IN AREA WITHIN THREE MILES OF
-TRACKLINE JOINING
-16-20.76N 168-02.21E, 16-10.96N 166-40.53E,
-16-09.83N 166-15.50E, 16-00.70N 165-50.00E,
-16-45.90N 163-18.80E, 16-18.97N 159-55.33E,
-15-55.90N 158-57.60E, 15-56.70N 158-40.00E,
-15-20.00N 156-30.00E, 14-59.84N 155-49.83E,
-14-05.00N 154-50.00E, 13-55.00N 154-00.00E,
-14-33.73N 151-29.93E, 14-50.76N 150-54.70E,
-15-00.00N 150-10.00E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
