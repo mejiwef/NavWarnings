@@ -704,17 +704,6 @@ UNLIT.
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>171755Z NOV 25
-NAVAREA IV 1270/25(26).
-WESTERN NORTH ATLANTIC.
-CUBA.
-CABO LUCRECIA LIGHT 21-04.31N 075-37.21W
-UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
         <msgText>311939Z OCT 25
 NAVAREA IV 1175/25(24).
 CARIBBEAN SEA.

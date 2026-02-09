@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>091736Z FEB 26
+NAVAREA XII 85/26(22).
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1602Z TO 2119Z DAILY 12 FEB THRU 14 MAR 
+   IN AREA BOUND BY
+   00-11.00S 103-42.00W, 00-59.00S 102-33.00W,
+   12-20.00S 110-42.00W, 11-30.00S 111-52.00W.
+2. CANCEL THIS MSG 142219Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>050245Z FEB 26
