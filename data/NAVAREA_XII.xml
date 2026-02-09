@@ -46,22 +46,6 @@ NAVAREA XII 79/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>061533Z FEB 26
-NAVAREA XII 78/26(21).
-NORTH PACIFIC.
-COSTA RICA.
-1. HAZARDOUS CONDITIONS ARE REPORTED OFF
-   THE PACIFIC COAST OF COSTA RICA UNTIL 08 FEB.
-   SWIMMERS AND VESSELS OF 14 METER LENGTH OR
-   LESS ARE ADVISED TO EXERCISE EXTREME CAUTION.
-2. FURTHER INFORMATION CAN BE FOUND FROM MIO
-   CIMAR AT WWW.MIOCIMAR.UCR.AC.CR.
-3. CANCEL THIS MSG 090001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>022313Z FEB 26

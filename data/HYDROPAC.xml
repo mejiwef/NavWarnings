@@ -58,17 +58,6 @@ ALONG TRACKLINE JOINING
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>080352Z FEB 26
-HYDROPAC 377/26(73).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-RACON AT BRAMBLE CAY 09-08.53S 143-52.56E.
-UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>062341Z FEB 26
@@ -909,23 +898,6 @@ DNC 06.
    59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
    25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
 2. CANCEL THIS MSG 130023Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291514Z JAN 26
-HYDROPAC 278/26(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS BY 
-   DERRICK BARGE 32 AND MULTIPLE VESSELS
-   IN AREA BOUND BY
-   26-01.29N 051-33.07E, 26-01.24N 051-32.62E,
-   25-57.71N 051-32.55E, 25-57.60N 051-35.58E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
