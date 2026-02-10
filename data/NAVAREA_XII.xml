@@ -140,19 +140,6 @@ CALIFORNIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>210034Z JAN 26
-NAVAREA XII 71/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 091700Z TO 100001Z FEB
-   IN AREA WITHIN ONE MILE OF
-    32-35.86N 117-10.85W.
-2. CANCEL THIS MSG 100101Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>231817Z JAN 26
 NAVAREA XII 56/26(18).
 NORTH PACIFIC.

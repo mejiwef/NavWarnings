@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>100207Z FEB 26
+HYDROLANT 283/26(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+VESSEL MAR-32 WRECKED IN 00-24.50N 047-50.70W
+ON 09 FEB. ONE PERSON MISSING.
+VESSELS IN VICINITY REQUESTED TO KEEP A
+SHARP LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100150Z FEB 26
+HYDROLANT 282/26(24).
+NORTH ATLANTIC.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 16 FEB
+   BY M/V RAMFORM ATLAS, M/V THOR FRIGG AND
+   TUG DRS RETUMBANTE TOWING 12 10000 METER
+   LONG CABLES IN AREA BOUND BY
+   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
+   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 242/26.
+3. CANCEL THIS MSG 170001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>100131Z FEB 26
+HYDROLANT 281/26(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. DERELICT VESSEL LENA RAE ADRIFT 
+   IN 08-47.63S 020-51.43W.
+2. CANCEL THIS MSG 130131Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091506Z FEB 26
@@ -288,22 +330,6 @@ DNC 20.
 2. CANCEL HYDROLANT 233/26(24).</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041642Z FEB 26
-HYDROLANT 246/26(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. HAZARDOUS OPERATIONS 090001Z TO 100001Z FEB
-   IN AREA BOUND BY:
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 100101Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>041019Z FEB 26
@@ -313,24 +339,6 @@ GIBRALTAR.
 DNC 08.
 NAVTEX STATION TARIFA (G) (T)
 36-02N 005-33W OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040215Z FEB 26
-HYDROLANT 242/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 16 FEB
-   BY M/V RAMFORM ATLAS, TUG DRS RETUMBANTE,
-   M/V THOR FRIGG, TUG LH LABARO
-   TOWING 12 10000 METER LONG CABLES
-   IN AREA BOUND BY
-   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
-   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -697,18 +705,6 @@ DNC 09.
 1. NAVTEX STATION MALTA (O)
    35-51.30N 014-29.30E IS OFFLINE. 
 2. CANCEL HYDROLANT 22/26(53).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>302331Z DEC 25
-HYDROLANT 2245/25(35).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-CGOC GREGNESS 57-07.70N 002-03.20W
-MF R/T SERVICE OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
