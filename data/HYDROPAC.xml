@@ -262,17 +262,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>081616Z FEB 26
-HYDROPAC 380/26(63).
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-JODIYA BANDAR LIGHT 22-43.54N 070-16.79E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>081406Z FEB 26
@@ -1950,18 +1939,6 @@ CHILE.
 DNC 07.
 ISLA CENTINELA LIGHT 53-05.10S 073-35.10W
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>031512Z NOV 25
-HYDROPAC 2828/25(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-NAVTEX STATION VAKALPUDI (Q) 17-00.80N 082-17.10E 
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

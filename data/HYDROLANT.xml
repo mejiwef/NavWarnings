@@ -455,21 +455,6 @@ DNC 10.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>290256Z JAN 26
-HYDROLANT 199/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-MAN OVERBOARD FROM VESSEL 
-IN 02-32.00S 039-48.00W ON 27 JAN.
-VESSELS IN VICINITY REQUESTED TO KEEP A
-SHARP LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280416Z JAN 26
