@@ -187,18 +187,6 @@ NAVAREA IV 112/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061502Z FEB 26
-NAVAREA IV 110/26(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 101100Z TO 101600Z FEB
-   IN 05-01.00N 051-58.00W.
-2. CANCEL THIS MSG 101700Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>051919Z FEB 26
@@ -232,18 +220,6 @@ COLOMBIA.
    10-20.37N 075-45.25W, 10-20.37N 075-38.00W,
    10-17.80N 075-38.00W, 10-17.80N 075-45.25W.
 2. CANCEL THIS MSG 102200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>032316Z FEB 26
-NAVAREA IV 105/26(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 101200Z TO 101500Z FEB
-   IN AREA WITHIN THREE MILES OF 04-56.00N 052-05.00W.
-2. CANCEL THIS MSG 101600Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

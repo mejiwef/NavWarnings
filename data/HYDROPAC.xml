@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101500Z FEB 26
+HYDROPAC 410/26(61).
+MOZAMBIQUE CHANNEL.
+COMOROS.
+MAYOTTE.
+DNC 02.
+1. HAZARDOUS OPERATIONS 110500Z TO 110900Z FEB
+   IN AREAS WITHIN:
+   A. THREE MILES OF 12-48.00S 045-23.00E.
+   B. THREE MILES OF 12-35.00S 044-53.00E.
+2. CANCEL THIS MSG 111000Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>101255Z FEB 26
+HYDROPAC 408/26(74).
+GULF OF CARPENTARIA.
+AUSTRALIA.
+DNC 05.
+DUYFKEN POINT LIGHT 12-34.15S 141-35.98E UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>100453Z FEB 26
@@ -334,23 +359,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071634Z FEB 26
-HYDROPAC 372/26(62).
-PERSIAN GULF.
-SAUDI ARABIA.
-DNC 10.
-1. CABLE OPERATIONS 08 THRU 14 FEB
-   BY CABLESHIP ILE DE BATZ ALONG TRACKLINE JOINING
-   28-25.86N 049-29.49E, 28-13.16N 049-22.95E,
-   27-56.72N 049-52.43E, 27-48.48N 050-03.80E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 233/26.
-3. CANCEL THIS MSG 150001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>071217Z FEB 26
@@ -462,20 +470,6 @@ PERSONS ON BOARD, IN 12-50.00N 109-33.00E AT
 KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061207Z FEB 26
-HYDROPAC 361/26(97).
-NORTH PACIFIC.
-DNC 12.
-CABLE OPERATIONS 07 FEB UNTIL FURTHER NOTICE
-BY CABLESHIP ANIEK ALONG TRACKLINE JOINING
-34-53.27N 150-04.30E, 34-48.05N 150-36.28E,
-34-48.24N 150-35.33E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

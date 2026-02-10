@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>101706Z FEB 26
+HYDROLANT 289/26(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+DANGEROUS WRECK IN 00-24.48N 047-50.68W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>101628Z FEB 26
+HYDROLANT 288/26(36,37).
+ENGLISH CHANNEL.
+NORTH CHANNEL.
+ENGLAND.
+DNC 20.
+1. NAVTEX STATION NITON (E) (K)
+   50-35.00N 001-15.00W OFF AIR.
+2. NITON BROADCASTS WILL BE TRANSMITTED
+   FROM NAVTEX STATION PORTPATRICK (O)
+   54-51.00N 005-07.00W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>101332Z FEB 26
+HYDROLANT 287/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01, DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 49-07.00S 041-41.00W.
+   B. A23J, 51-00.00S 040-20.00W.
+   C. A23K, 51-16.00S 040-30.00W.
+   D. A76C, 59-33.00S 038-06.00W.
+   E. B15AB, 55-15.00S 033-29.00W.
+   F. 51-28.00S 021-12.00W.
+   G. 51-09.00S 034-35.00W.
+   H. 51-31.00S 039-54.00W.
+   I. 58-31.00S 035-56.00W.
+   J. 50-46.00S 040-02.00W.
+   K. 50-18.00S 038-40.00W.
+   L. 50-09.00S 035-55.00W.
+   M. 51-24.00S 039-54.00W.
+   N. 59-51.00S 049-27.00W.
+   O. 52-00.00S 039-21.00W.
+   P. 52-10.00S 039-46.00W.
+   Q. 60-12.00S 048-57.00W.
+2. CANCEL THIS MSG 111400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>101305Z FEB 26
+HYDROLANT 286/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-48.60S 058-19.80W.
+   B. A84, 71-41.40S 101-00.60W.
+   C. A85, 68-27.00S 056-22.80W.
+   D. D33A, 65-34.20S 057-45.60W.
+   E. D33C, 65-56.40S 058-19.80W.
+2. CANCEL THIS MSG 111400Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>100207Z FEB 26
@@ -41,54 +112,6 @@ DNC 01.
 1. DERELICT VESSEL LENA RAE ADRIFT 
    IN 08-47.63S 020-51.43W.
 2. CANCEL THIS MSG 130131Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091506Z FEB 26
-HYDROLANT 280/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 49-26.00S 041-30.00W.
-   B. A23J, 51-07.00S 040-03.00W.
-   C. A77, 51-39.00S 021-38.00W.
-   D. A76C, 59-33.00S 038-06.00W.
-   E. B15AB, 55-27.00S 033-12.00W.
-   F. 51-16.00S 034-31.00W.
-   G. 51-25.00S 040-09.00W.
-   H. 58-35.00S 035-51.00W.
-   I. 51-27.00S 040-40.00W.
-   J. 51-03.00S 040-14.00W.
-   K. 50-05.00S 038-52.00W.
-   L. 50-09.00S 035-55.00W.
-   M. 51-26.00S 040-03.00W.
-   N. 59-52.00S 049-38.00W.
-   O. 52-00.00S 039-23.00W.
-   P. 52-09.00S 039-50.00W.
-   Q. 52-13.00S 040-18.00W.
-   R. 60-11.00S 049-04.00W.
-2. CANCEL THIS MSG 101506Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091347Z FEB 26
-HYDROLANT 279/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-48.60S 058-19.80W.
-   B. A84, 71-41.40S 101-00.60W.
-   C. A85, 68-27.00S 056-22.80W.
-   D. D33A, 65-34.20S 057-45.60W.
-   E. D33C, 65-56.40S 058-19.80W.
-2. CANCEL THIS MSG 101347Z FEB 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -294,23 +317,6 @@ DNC 01.
    DAILY 10 THRU 12 FEB IN AREA WITHIN 
    TEN MILES OF 25-06.00S 041-13.00W.
 2. CANCEL THIS MSG 122200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291627Z JAN 26
-HYDROLANT 250/26(55).
-BLACK SEA.
-ROMANIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0600Z TO 1400Z DAILY
-   08 THRU 10 FEB IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-29.55N 029-31.12E, 44-24.20N 029-31.93E,
-   44-09.02N 029-26.73E, 44-04.45N 029-22.32E,
-   44-13.55N 028-51.50E, 44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 101500Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
