@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111423Z FEB 26
+HYDROPAC 418/26(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 22 FEB
+   BY M/V HALUL-80 IN AREA BOUND BY
+   25-47.01N 051-54.65E, 25-47.01N 051-58.99E,
+   25-43.22N 051-58.99E, 25-43.22N 051-54.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 230001Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111151Z FEB 26
@@ -110,7 +126,8 @@ BASS STRAIT.
 AUSTRALIA.
 DNC 05.
 SOUTH WEST ISLAND LIGHT 39-31.27S 147-07.60E
-UNLIT.</msgText>
+UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -125,7 +142,8 @@ FURTHER NOTICE BY M/V OFFSHORE SOLUTION
 IN AREA BOUND BY
 13-46.00S 123-01.00E, 14-04.00S 123-01.00E,
 14-04.00S 123-23.00E, 13-46.00S 123-23.00E.
-TWO MILE BERTH REQUESTED.</msgText>
+TWO MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -141,7 +159,8 @@ DNC 06.
    PHONE: 808 535 3333, 
    E-MAIL: JRCCHONOLULU@USCG.MIL.
 2. CANCEL HYDROPAC 367/26.
-3. CANCEL THIS MSG 130243Z FEB 26.</msgText>
+3. CANCEL THIS MSG 130243Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -155,7 +174,8 @@ DNC 11.
    IN AREA BOUND BY
    14-39.87N 119-40.07E, 14-39.97N 119-30.07E,
    14-29.87N 119-30.07E, 14-29.87N 119-40.07E.
-2. CANCEL THIS MSG 150001Z FEB 26.</msgText>
+2. CANCEL THIS MSG 150001Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -170,7 +190,8 @@ FURTHER NOTICE BY M/V OFFSHORE SURVEYOR
 IN AREA BOUND BY
 12-55.80S 128-41.75E, 12-55.80S 129-30.50E,
 12-29.00S 129-30.50E, 12-29.00S 128-41.75E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -457,23 +478,6 @@ DNC 07, DNC 14.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061753Z FEB 26
-HYDROPAC 365/26(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0300Z TO 1300Z DAILY
-   10 AND 11 FEB IN AREA BOUND BY
-   25-05.88N 062-22.27E, 24-59.70N 062-30.59E,
-   24-58.15N 062-29.27E, 24-56.77N 062-26.86E,
-   24-55.84N 062-22.97E, 24-56.55N 062-18.40E,
-   24-58.58N 062-15.10E.
-2. CANCEL THIS MSG 111400Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061618Z FEB 26
@@ -534,19 +538,6 @@ PERSONS ON BOARD, IN 12-50.00N 109-33.00E AT
 KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061138Z FEB 26
-HYDROPAC 360/26(61).
-MOZAMBIQUE CHANNEL.
-MAYOTTE.
-DNC 02.
-1. HAZARDOUS OPERATIONS 110800Z TO 111200Z FEB
-   IN AREA WITHIN ONE MILES OF 12-48.00S 045-23.00E.
-2. CANCEL THIS MSG 111300Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
