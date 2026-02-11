@@ -3,6 +3,79 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>111151Z FEB 26
+HYDROPAC 417/26(19,81).
+NORTH PACIFIC.
+WAKE ISLAND.
+DNC 12.
+1. HAZARDOUS OPERATIONS  0630Z TO 0830Z DAILY 
+   UNTIL 21 FEB IN AREA BOUND BY
+   20-26.00N 173-51.00E, 20-45.00N 170-02.00E,
+   19-19.00N 166-38.00E, 19-14.00N 166-37.00E,
+   17-07.00N 169-34.00E, 16-29.00N 173-15.00E,
+   17-55.00N 174-58.00E, 18-35.00N 175-04.00E.
+ 2. CANCEL THIS MSG 210930Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111044Z FEB 26
+HYDROPAC 416/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 12 MAR 
+   BY TUG SHAKTI, M/V AWB URJA, BARGE DLB KENENNA 
+   AND M/V ZD LIBRA IN AREAS BOUND BY:
+   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
+      19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
+   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
+      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
+   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
+      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
+   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
+      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
+   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
+      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>111033Z FEB 26
+HYDROPAC 415/26(63).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. BUOY BD 14 ADRIFT IN 04-20.81N 084-30.70E
+   AT 110300Z FEB.
+2. CANCEL HYDROPAC 381/26.
+3. CANCEL THIS MSG 141032Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110917Z FEB 26
+HYDROPAC 413/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 130001Z TO 130600Z FEB
+   IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
+   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
+   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+2. CANCEL THIS MSG 130700Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>110347Z FEB 26
 HYDROPAC 411/26(19,81).
 NORTH PACIFIC.
@@ -17,21 +90,6 @@ DNC 12.
 2. CANCEL HYDROPAC 273/26.
 3. CANCEL THIS MSG 210930Z FEB 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101500Z FEB 26
-HYDROPAC 410/26(61).
-MOZAMBIQUE CHANNEL.
-COMOROS.
-MAYOTTE.
-DNC 02.
-1. HAZARDOUS OPERATIONS 110500Z TO 110900Z FEB
-   IN AREAS WITHIN:
-   A. THREE MILES OF 12-48.00S 045-23.00E.
-   B. THREE MILES OF 12-35.00S 044-53.00E.
-2. CANCEL THIS MSG 111000Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -290,18 +348,6 @@ CORAL SEA.
 AUSTRALIA.
 DNC 05.
 ALBANY ROCK LIGHT 10-43.12S 142-37.77E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>081645Z FEB 26
-HYDROPAC 381/26(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. BUOY ADRIFT IN VICINITY 05-17.58N 084-24.75E
-   AT 081200Z FEB.
-2. CANCEL THIS MSG 111644Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -750,23 +796,6 @@ DNC 11.
    06-18.60N 125-58.57E, 06-12.05N 125-59.26E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 130001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>032027Z FEB 26
-HYDROPAC 335/26(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL FURTHER NOTICE BY M/V FUGRO ETIVE
-   IN AREA BOUND BY
-   37-58.15S 148-30.49E, 38-07.16S 148-30.49E,
-   38-07.16S 148-14.11E, 37-58.15S 148-14.11E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 327/26(63).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1859,18 +1888,6 @@ ANDAMAN SEA.
 INDIA.
 DNC 03.
 ROSS ISLAND LIGHT 11-40.90N 092-45.99E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>170743Z NOV 25
-HYDROPAC 2958/25(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-ISLA CENTINELA LIGHT 53-05.10S 073-35.10W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
