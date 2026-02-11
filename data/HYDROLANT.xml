@@ -320,22 +320,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>050116Z FEB 26
-HYDROLANT 249/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE BY CABLESHIP PIERRE DE FERMAT
-   IN AREA BOUND BY
-   50-34.00N 000-20.00E, 50-34.00N 000-23.00E,
-   50-33.00N 000-23.00E, 50-33.00N 000-20.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 233/26(24).</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>041019Z FEB 26

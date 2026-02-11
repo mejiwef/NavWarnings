@@ -94,25 +94,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>050059Z FEB 26
-NAVAREA XII 74/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 101400Z TO
-   110100Z FEB, ALTERNATE 121400Z TO
-   130100Z FEB IN AREA BOUND BY
-   34-06.15N 119-07.23W, 34-02.92N 119-13.55W,
-   33-55.97N 119-20.90W, 33-50.75N 119-59.75W,
-   33-26.08N 120-18.83W, 33-04.47N 120-05.75W,
-   33-11.47N 119-39.85W, 33-19.12N 119-34.70W,
-   33-22.03N 119-07.05W, 33-52.22N 119-07.08W,
-   33-54.22N 119-06.80W, 34-00.07N 119-05.95W.
-2. CANCEL THIS MSG 130200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>041929Z FEB 26
