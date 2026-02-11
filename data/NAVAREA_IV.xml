@@ -519,23 +519,6 @@ NORTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011210Z JAN 26
-NAVAREA IV 1/26(24).
-CARIBBEAN SEA.
-COLOMBIA.
-CABLE OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY CABLESHIP ILE DE SEIN
-ALONG TRACKLINE JOINING
-11-31.21N 075-26.33W, 11-12.64N 075-11.94W,
-11-11.04N 075-13.52W, 11-08.32N 075-08.74W,
-11-06.88N 075-09.72W, 11-02.19N 074-57.37W,
-11-00.81N 074-58.83W.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>311805Z DEC 25
