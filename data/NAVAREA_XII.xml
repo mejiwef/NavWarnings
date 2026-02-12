@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>112030Z FEB 26
+NAVAREA XII 88/26(GEN).
+EASTERN NORTH PACIFIC.
+DSC SERVICES UNAVAILABLE AT USCG
+REMOTE COMMUNICATION FACILITIES:
+A. HONOLULU (O) 21-26.00N 158-09.00W.
+B. PT REYES (C) 37-56.00N 122-44.00W.
+C. KODIAK (J) 57-46.00N 152-34.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>050245Z FEB 26
