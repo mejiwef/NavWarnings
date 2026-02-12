@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110557Z FEB 26
+HYDROPAC 422/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 17 THRU 19 FEB IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 191400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120347Z FEB 26
+HYDROPAC 420/26(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V SEA1 AQUAMARINE
+IN AREA BOUND BY
+38-36.40S 142-36.89E, 38-48.50S 142-36.89E,
+38-48.50S 142-58.30E, 38-36.40S 142-58.30E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>120140Z FEB 26
+HYDROPAC 419/26(75).
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+DNC 05.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+ESTABLISHED IN AREA WITHIN TWO MILES
+OF 39-13.33S 142-50.33E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111423Z FEB 26
@@ -1105,21 +1150,6 @@ IN AREA BOUND BY
 37-49.10S 149-06.93E, 38-07.50S 149-07.28E,
 38-07.94S 148-19.26E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>290131Z JAN 26
-HYDROPAC 268/26(93).
-SOUTH CHINA SEA.
-DNC 11.
-F/V KH 90044 TS, FIVE PERSONS ON BOARD,
-ONE PERSON OVERBOARD IN 11-04.00N 113-33.00E
-AT 281630Z JAN. VESSELS IN VICINITY REQUESTED
-TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
