@@ -1,6 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>121213Z FEB 26
+HYDROPAC 432/26(19).
+NORTH PACIFIC.
+DNC 12.
+CANCEL HYDROPAC 417/26 AND THIS MSG.
+OPERATION COMPLETED. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>121147Z FEB 26
+HYDROPAC 431/26(74).
+GULF OF CARPENTARIA.
+AUSTRALIA.
+DNC 05.
+RACON AT DUYFKEN POINT 12-34.15S 141-35.98E
+INOPERATIVE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121041Z FEB 26
+HYDROPAC 429/26(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 170830Z TO 171130Z FEB
+   IN AREA WITHIN THREE MILES OF 
+   11-38.73N 092-59.68E.
+2. CANCEL THIS MSG 171230Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121036Z FEB 26
+HYDROPAC 428/26(63).
+ARABIAN SEA.
+GULF OF KACHCHH.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 170430Z TO 170730Z FEB
+   IN AREA BOUND BY
+   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
+   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
+   22-42.11N 068-55.34E.
+2. CANCEL THIS MSG 170830Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>092318Z FEB 26
+HYDROPAC 427/26(GEN).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2351Z TO 0429Z DAILY 17 THRU 23 FEB
+   IN AREA BOUND BY
+   35-31.00S 049-22.00W, 48-29.00S 023-13.00W,
+   48-05.00S 032-27.00E, 49-52.00S 033-58.00E,
+   51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
+   37-17.00S 051-07.00W.
+2. CANCEL THIS MSG 240529Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120851Z FEB 26
+HYDROPAC 426/26(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 130830Z TO 131030Z FEB
+   IN AREA BOUND BY
+   11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
+   11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
+2. CANCEL THIS MSG 131130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110557Z FEB 26
@@ -135,46 +218,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110347Z FEB 26
-HYDROPAC 411/26(19,81).
-NORTH PACIFIC.
-WAKE ISLAND.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0630Z TO 0830Z 
-   DAILY 11 THRU 21 FEB IN AREA BOUND BY
-   19-19.00N 166-38.00E, 20-45.00N 170-02.00E,
-   20-26.00N 173-51.00E, 18-35.00N 175-04.00E,
-   17-55.00N 174-58.00E, 16-29.00N 173-15.00E,
-   17-07.00N 169-34.00E, 19-14.00N 166-37.00E.
-2. CANCEL HYDROPAC 273/26.
-3. CANCEL THIS MSG 210930Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>101255Z FEB 26
-HYDROPAC 408/26(74).
-GULF OF CARPENTARIA.
-AUSTRALIA.
-DNC 05.
-DUYFKEN POINT LIGHT 12-34.15S 141-35.98E UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>100453Z FEB 26
-HYDROPAC 405/26(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-SOUTH WEST ISLAND LIGHT 39-31.27S 147-07.60E
-UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100441Z FEB 26
@@ -265,24 +308,6 @@ AUSTRALIA.
 DNC 05.
 SOUTH BARROW ISLET LIGHT 14-20.79S 144-39.16E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>091428Z FEB 26
-HYDROPAC 393/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   120500Z TO 121100Z FEB IN AREAS BOUND BY:
-   A. 09-33.00N 110-09.00E, 09-41.00N 109-26.00E,
-      08-15.00N 109-10.00E, 08-08.00N 109-53.00E.  
-   B. 09-07.00N 110-05.00E, 09-15.00N 109-22.00E,
-      07-50.00N 109-06.00E, 07-42.00N 109-49.00E.
-2. CANCEL HYDROPAC 366/26.
-3. CANCEL THIS MSG 121200Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -651,21 +676,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061011Z FEB 26
-HYDROPAC 356/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 120330Z TO 120630Z FEB
-   IN AREA BOUND BY
-   09-57.60N 076-14.30E, 09-50.50N 076-07.60E,
-   09-46.48N 076-11.60E, 09-47.40N 076-16.60E.
-2. CANCEL THIS MSG 120730Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>060929Z FEB 26
@@ -698,24 +708,6 @@ DNC 06.
    28-26.00S 148-11.00W, 27-46.00S 148-45.00W,
    43-13.00S 171-10.00W, 43-53.00S 170-28.00W.
 2. CANCEL THIS MSG 191045Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>042337Z FEB 26
-HYDROPAC 352/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1000Z
-   DAILY 11 AND 12 FEB IN AREA BOUND BY
-   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 14-04.00N 148-00.00E,
-   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 121100Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -753,21 +745,6 @@ DNC 03.
    19-31.78N 071-18.15E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>021928Z FEB 26
-HYDROPAC 346/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1550Z TO 2036Z DAILY 10 THRU 16 FEB 
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 162136Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

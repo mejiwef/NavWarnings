@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>092318Z FEB 26
+HYDROLANT 300/26(GEN).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2351Z TO 0429Z DAILY 17 THRU 23 FEB
+   IN AREA BOUND BY
+   35-31.00S 049-22.00W, 48-29.00S 023-13.00W,
+   48-05.00S 032-27.00E, 49-52.00S 033-58.00E,
+   51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
+   37-17.00S 051-07.00W.
+2. CANCEL THIS MSG 240529Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120042Z FEB 26
