@@ -416,19 +416,6 @@ HYDROLANT 260/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051020Z FEB 26
-HYDROLANT 253/26(24).
-SOUTH ATLANTIC.
-DNC 01.
-1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
-   DAILY 10 THRU 12 FEB IN AREA WITHIN 
-   TEN MILES OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 122200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>041019Z FEB 26

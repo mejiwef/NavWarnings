@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121916Z FEB 26
+NAVAREA XII 91/26(22).
+SOUTH PACIFIC.
+ECUADOR.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY CABLESHIP ILE DE SEIN
+IN AREA BOUND BY
+02-15.48S 081-15.22W, 02-22.35S 081-15.36W,
+02-22.56S 080-55.14W, 02-15.48S 081-15.22W.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>120947Z FEB 26

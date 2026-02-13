@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>122041Z FEB 26
+HYDROPAC 437/26(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V PMG EMERALD
+IN AREA BOUND BY
+39-01.29S 147-07.22E, 38-27.07S 147-07.22E,
+38-27.07S 147-59.78E, 39-01.29S 147-59.78E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121648Z FEB 26
@@ -521,19 +536,6 @@ ONE MILE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>071217Z FEB 26
-HYDROPAC 371/26(81,97).
-NORTH PACIFIC.
-DNC 12.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0830Z TO 1030Z DAILY 12 THRU 15 FEB
-   IN AREA WITHIN 216 MILES OF 24-23.00N 161-46.00E.
-2. CANCEL THIS MSG 151130Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
         <msgText>261123Z JAN 26
 HYDROPAC 369/26(GEN).
 SOUTH PACIFIC.
@@ -681,23 +683,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>060929Z FEB 26
-HYDROPAC 355/26(61).
-EASTERN INDIAN OCEAN.
-REUNION.
-DNC 02.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 122000Z FEB BY M/V FUGRO GAUSS
-   ALONG TRACKLINE JOINING
-   20-54.24S 058-59.21E, 23-38.50S 052-47.30E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 304/26.
-3. CANCEL THIS MSG 122100Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>031654Z FEB 26
@@ -782,22 +767,6 @@ DNC 03.
    11-40.23N 092-45.75E, 11-37.33N 092-47.93E,
    11-40.30N 092-50.00E, 11-40.77N 092-45.97E.
 2. CANCEL THIS MSG 091530Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040223Z FEB 26
-HYDROPAC 336/26(92).
-PHILIPPINE SEA.
-PHILIPPINES.
-DNC 11.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 12 FEB
-   BY CABLESHIP PRIMA NUSANTARA X
-   IN VICINITY OF TRACKLINE JOINING
-   06-18.60N 125-58.57E, 06-12.05N 125-59.26E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1067,21 +1036,6 @@ DNC 03.
    20-36.02N 072-02.23E, 20-10.38N 072-29.69E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>292026Z JAN 26
-HYDROPAC 281/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1848Z TO 2323Z DAILY 06 THRU 12 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-40.00S 164-45.00W,
-   25-50.00S 154-33.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 130023Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1723,29 +1677,6 @@ DNC 03.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 140001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121319Z JAN 26
-HYDROPAC 94/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 13 JAN THRU 12 FEB BY 
-   M/V FUGRO MAPPER IN AREAS BOUND BY:
-   A. 20-53.22N 071-57.95E, 20-40.48N 072-30.54E,
-      20-00.87N 072-27.20E, 20-01.40N 071-37.99E,
-      20-28.44N 071-39.02E.
-   B. 19-41.07N 071-06.85E, 19-40.69N 071-36.43E,
-      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
-   C. 19-24.29N 071-55.82E, 19-23.94N 072-16.01E,
-      19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 3485/25.
-3. CANCEL THIS MSG 130001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
