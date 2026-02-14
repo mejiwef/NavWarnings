@@ -509,21 +509,6 @@ UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091417Z FEB 26
-HYDROPAC 392/26(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0300Z TO 1100Z 
-   DAILY 13 AND 14 FEB IN AREA BOUND BY
-   25-12.00N 064-49.00E, 25-12.00N 064-27.83E,
-   25-03.83N 064-27.83E, 25-03.83N 064-49.00E.
-2. CANCEL THIS MSG 141200Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>091321Z FEB 26
