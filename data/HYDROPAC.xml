@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>132001Z FEB 26
+HYDROPAC 456/26(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V FUGRO ETIVE
+IN AREA BOUND BY
+37-48.10S 148-24.30E, 38-07.70S 148-24.30E,
+38-07.70S 149-04.20E, 37-48.10S 149-04.20E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131917Z FEB 26
+HYDROPAC 455/26(63).
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z 
+   DAILY 18 AND 25 FEB IN AREA BOUND BY
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
+2. CANCEL THIS MSG 250730Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>131837Z FEB 26
+HYDROPAC 454/26(83).
+SOUTH PACIFIC.
+DNC 06.
+CANCEL HYDROPAC 353/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>131654Z FEB 26
@@ -683,24 +724,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>031654Z FEB 26
-HYDROPAC 353/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   111157Z TO 111252Z, 121134Z TO 121229Z,  
-   131112Z TO 131207Z, 151023Z TO 151118Z, 
-   161001Z TO 161056Z, 170938Z TO 171033Z  
-   AND 190850Z TO 190945Z FEB
-   IN AREA BOUND BY
-   28-26.00S 148-11.00W, 27-46.00S 148-45.00W,
-   43-13.00S 171-10.00W, 43-53.00S 170-28.00W.
-2. CANCEL THIS MSG 191045Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051128Z FEB 26
@@ -1228,21 +1251,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNREPORTED</category>
-        <status>INFORCE</status>
-        <msgText>251508Z JAN 26
-HYDROPAC 228/26(62).
-GULF OF OMAN.
-IRAN.
-DNC 10.
-F/V, THREE PERSONS ON BOARD, UNREPORTED 
-IN VICINITY 25-12.34N 060-37.94E.
-VESSELS IN VICINITY REQUESTED TO KEEP
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231302Z JAN 26
@@ -1559,27 +1567,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141248Z JAN 26
-HYDROPAC 107/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 13 FEB BY 
-   M/V WILCHIEF 1 IN AREAS BOUND BY:
-   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
-      19-09.06N 072-16.51E, 19-10.13N 071-02.57E.
-   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
-      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 140001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>131732Z JAN 26
@@ -1603,31 +1590,6 @@ INDIA.
 DNC 03.
 DRILL RIG DEEP SEA MATDRILL AGROUND IN VICINITY
 20-12.18N 072-01.83E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131219Z JAN 26
-HYDROPAC 102/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 15 JAN THRU 13 FEB BY 
-   TUG MARIGOLD IN AREAS BOUND BY:
-   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
-      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
-   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
-      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
-   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
-      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
-   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
-      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
-   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
-      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 140001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
