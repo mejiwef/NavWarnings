@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141605Z FEB 26
+NAVAREA IV 138/26(26).
+NORTH ATLANTIC.
+BAHAMAS.
+1. CABLE OPERATIONS 16 THRU 28 FEB
+   BY CABLESHIP IT INTREPID
+   ALONG TRACKLINE JOINING
+   27-02.46N 076-07.72W, 26-54.85N 076-00.30W,
+   26-46.99N 075-51.44W, 26-38.71N 075-42.50W,
+   26-30.22N 075-33.49W, 26-21.64N 075-24.33W,
+   26-12.96N 075-15.14W, 26-04.25N 075-05.97W,
+   25-55.51N 074-56.75W, 25-46.75N 074-47.50W,
+   25-37.93N 074-38.23W, 25-29.12N 074-28.95W,
+   25-20.31N 074-19.68W.
+   THREE WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>132151Z FEB 26
