@@ -47,18 +47,6 @@ DNC 20.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>141905Z FEB 26
-HYDROLANT 318/26(35).
-NORTH ATLANTIC.
-SHETLAND ISLANDS.
-DNC 20.
-CGOC SHETLAND MF DSC AND R/T SERVICES AT
-COLLAFIRTH HILL 60-32.00N 001-23.50W OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>141624Z FEB 26
