@@ -1221,26 +1221,6 @@ DNC 01, DNC 02, DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260031Z JAN 26
-HYDROPAC 230/26(74,75).
-BASS STRAIT.
-TASMAN SEA.
-AUSTRALIA.
-DNC 05.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP ILE DYEU
-ALONG TRACKLINE JOINING
-33-57.00S 151-16.00E, 33-59.00S 151-21.00E,
-34-22.00S 151-44.00E, 35-00.00S 152-00.00E,
-38-20.00S 150-59.00E, 39-12.00S 149-54.00E,
-39-15.00S 148-54.00E, 39-25.00S 148-36.00E,
-39-28.00S 148-08.00E.
-ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231302Z JAN 26

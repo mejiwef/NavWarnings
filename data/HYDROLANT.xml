@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150052Z FEB 26
+HYDROLANT 321/26(24).
+SOUTH ATLANTIC.
+DNC 01, DNC 07.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 28 FEB 
+   BY M/V SW EMPRESS TOWING TEN 11000 METER LONG
+   CABLES IN AREA BOUND BY
+   34-38.20S 051-58.20W, 33-08.40S 050-18.20W,
+   34-29.60S 048-21.10W, 35-51.10S 049-43.10W,
+   35-50.50S 050-05.20W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAR 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150035Z FEB 26
+HYDROLANT 320/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   16 FEB THRU 02 MAR BY M/V COMANDO B AND 
+   M/V PORTO DOLICHA IN 20-24.07S 040-07.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 021900Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>141918Z FEB 26
