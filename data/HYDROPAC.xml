@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
+        <category>BUOY</category>
         <status>INFORCE</status>
-        <msgText>141713Z FEB 26
-HYDROPAC 458/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP PETER FABER IN VICINITY 
-31-49.00S 115-21.00E.
-ONE MILE BERTH REQUESTED.</msgText>
+        <msgText>150009Z FEB 26
+HYDROPAC 461/26(76).
+COOK STRAIT.
+NEW ZEALAND.
+DNC 06.
+BARRETT REEF BUOY 41-21.15S 174-50.11E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>142208Z FEB 26
+HYDROPAC 460/26(76).
+COOK STRAIT.
+NEW ZEALAND.
+DNC 06.
+1. WAVE BUOY ADRIFT IN VICINITY 41-24.37S 174-50.42E
+   AT 142040Z FEB.
+2. CANCEL THIS MSG 172213Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -477,21 +488,6 @@ IN AREA BOUND BY
 13-46.00S 123-01.00E, 14-04.00S 123-01.00E,
 14-04.00S 123-23.00E, 13-46.00S 123-23.00E.
 TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>100044Z FEB 26
-HYDROPAC 401/26(91).
-SOUTH CHINA SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES 12 THRU 14 FEB
-   IN AREA BOUND BY
-   14-39.87N 119-40.07E, 14-39.97N 119-30.07E,
-   14-29.87N 119-30.07E, 14-29.87N 119-40.07E.
-2. CANCEL THIS MSG 150001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

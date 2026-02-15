@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>141918Z FEB 26
+HYDROLANT 319/26(35).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+1. DSC STATION GREG NESS 57-07.70N 002-03.20W MF
+   R/T AND DSC SERVICES OFF AIR. 
+2. CANCEL HYDROLANT 284/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>141905Z FEB 26
+HYDROLANT 318/26(35).
+NORTH ATLANTIC.
+SHETLAND ISLANDS.
+DNC 20.
+CGOC SHETLAND MF DSC AND R/T SERVICES AT
+COLLAFIRTH HILL 60-32.00N 001-23.50W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>141624Z FEB 26
@@ -280,19 +305,6 @@ DNC 20.
 2. NITON BROADCASTS WILL BE TRANSMITTED
    FROM NAVTEX STATION PORTPATRICK (O)
    54-51.00N 005-07.00W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>100226Z FEB 26
-HYDROLANT 284/26(35).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-1. DSC STATION GREG NESS 57-07.70N 002-03.20W
-    MF R/T SERVICES OFF AIR.
-2. CANCEL HYDROLANT 2245/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
