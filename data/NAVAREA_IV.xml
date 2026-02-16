@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161736Z FEB 26
+NAVAREA IV 142/26(24).
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS 191600Z TO 192000Z FEB
+   IN AREA BOUND BY
+   05-15.00N 052-00.00W, 05-15.00N 051-45.00W,
+   05-00.00N 051-45.00W, 05-00.00N 052-00.00W.
+2. CANCEL THIS MSG 192100Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>152007Z FEB 26

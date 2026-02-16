@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>161504Z FEB 26
+HYDROLANT 333/26(35).
+NORTH ATLANTIC.
+SHETLAND ISLANDS.
+DNC 20.
+CGOC SHETLAND MF DSC AND R/T SERVICES AT
+COLLAFIRTH HILL 60-32.00N 001-23.50W OFF AIR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161345Z FEB 26
+HYDROLANT 332/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 48-33.00S 036-49.00W.
+   B. A23J, 50-41.00S 039-23.00W.
+   C. A23K, 51-09.00S 039-39.00W.
+   D. A76C, 59-30.00S 038-22.00W.
+   E. B15AB, 54-04.00S 034-19.00W.
+   F. 51-06.00S 021-59.00W.
+   G. 58-08.00S 036-08.00W.
+   H. 50-32.00S 039-12.00W.
+   I. 51-55.00S 039-59.00W.
+   J. 59-36.00S 048-49.00W.
+   K. 51-49.00S 039-02.00W.
+   L. 51-10.00S 022-35.00W.
+   M. 50-33.00S 035-45.00W.
+2. CANCEL THIS MSG 171400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161340Z FEB 26
+HYDROLANT 331/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-48.00S 058-23.40W.
+   B. A84, 71-42.00S 101-16.20W.
+   C. A85, 68-20.40S 056-36.00W.
+   D. D33A, 65-36.60S 058-00.60W.
+   E. D33C, 65-57.60S 058-33.00W.
+2. CANCEL THIS MSG 171400Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>161316Z FEB 26
+HYDROLANT 330/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. DERELICT VESSEL ADRIFT IN 35-56.18N 006-52.14W
+   AT 161130Z FEB. REPORTS TO 
+   COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 191325Z FEB 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>161202Z FEB 26
@@ -41,49 +110,6 @@ DNC 01.
 1. DERELICT VESSEL ADRIFT IN VICINITY
    21-57.00N 017-23.00W AT 151800Z FEB.
 2. CANCEL THIS MSG 181807Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151402Z FEB 26
-HYDROLANT 325/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 49-05.00S 038-01.00W.
-   B. A23J, 50-39.00S 039-27.00W.
-   C. A23K, 51-08.00S 039-41.00W.
-   D. A76C, 59-31.00S 038-14.00W.
-   E. B15AB, 54-18.00S 034-11.00W.
-   F. 51-06.00S 021-59.00W.
-   G. 50-50.00S 034-31.00W.
-   H. 58-11.00S 036-10.00W.
-   I. 50-24.00S 039-22.00W.
-   J. 51-57.00S 040-01.00W.
-   K. 59-36.00S 048-48.00W.
-   L. 52-55.00S 038-59.00W.
-   M. 59-39.00S 048-42.00W.
-   N. 51-10.00S 022-35.00W.
-2. CANCEL THIS MSG 161400Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151350Z FEB 26
-HYDROLANT 324/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-48.00S 058-23.40W.
-   B. A84, 71-42.00S 101-16.20W.
-   C. A85, 68-20.40S 056-36.00W.
-   D. D33A, 65-36.60S 058-00.60W.
-   E. D33C, 65-57.60S 058-33.00W.
-2. CANCEL THIS MSG 161400Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -277,22 +303,6 @@ DNC 10.
    44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 261400Z FEB 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>092318Z FEB 26
-HYDROLANT 300/26(GEN).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2351Z TO 0429Z DAILY 17 THRU 23 FEB
-   IN AREA BOUND BY
-   35-31.00S 049-22.00W, 48-29.00S 023-13.00W,
-   48-05.00S 032-27.00E, 49-52.00S 033-58.00E,
-   51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
-   37-17.00S 051-07.00W.
-2. CANCEL THIS MSG 240529Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
