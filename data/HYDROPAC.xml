@@ -1,6 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>161202Z FEB 26
+HYDROPAC 471/26(GEN).
+EASTERN INDIAN OCEAN.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2351Z TO 0429Z DAILY 16 THRU 25 FEB
+   IN AREA BOUND BY
+   35-31.00S 049-22.00W, 48-29.00S 023-13.00W,
+   48-05.00S 032-27.00E, 49-52.00S 033-58.00E,
+   51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
+   37-17.00S 051-07.00W.
+2. CANCEL HYDROPAC 427/26.
+3. CANCEL THIS MSG 250529Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>161125Z FEB 26
+HYDROPAC 470/26(63).
+EASTERN INDIAN OCEAN.
+DNC 03.
+1. BUOY BD 14 ADRIFT IN VICINITY 04-05.63N 083-08.06E
+   AT 160600Z.
+2. CANCEL THIS MSG 191135Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161118Z FEB 26
+HYDROPAC 469/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 192000Z TO 200900Z FEB
+   IN AREA BOUND BY
+   15-12.00N 072-40.00E, 15-12.00N 072-56.00E,
+   15-25.00N 072-50.00E, 15-25.00N 072-36.00E.
+2. CANCEL THIS MSG 201000Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161035Z FEB 26
+HYDROPAC 468/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 210830Z TO 211130Z FEB
+   IN AREAS BOUND BY:
+   A. 17-04.40N 083-26.70E, 16-51.60N 083-10.70E,
+      16-37.00N 083-23.50E, 16-49.40N 083-39.80E.
+   B. 17-45.20N 084-40.70E, 17-34.60N 084-23.00E,
+      17-19.20N 084-36.80E, 17-29.90N 084-54.10E.
+2. CANCEL THIS MSG 211230Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161031Z FEB 26
+HYDROPAC 467/26(63).
+INDIAN OCEAN.
+LAKSHADWEEP.
+DNC 03.
+1. HAZARDOUS OPERATIONS 200200Z TO 200730Z FEB
+   IN AREA BOUND BY
+   10-46.42N 073-42.00E, 10-49.18N 073-42.00E,
+   10-49.18N 073-44.48E, 10-46.42N 073-44.48E.
+2. CANCEL THIS MSG 200830Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161023Z FEB 26
+HYDROPAC 466/26(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z 
+   DAILY 18 AND 19 FEB IN AREA BOUND BY
+   08-30.00N 075-15.00E, 08-45.00N 075-15.00E,
+   08-45.00N 075-30.00E, 08-30.00N 075-30.00E.
+2. CANCEL THIS MSG 191230Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>160744Z FEB 26
+HYDROPAC 465/26(76).
+COOK STRAIT.
+NEW ZEALAND.
+DNC 06.
+1. BARRETT REEF BUOY 41-21.15S 174-50.11E
+   MISSING. 
+2. CANCEL HYDROPAC 461/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160207Z FEB 26
@@ -27,17 +130,6 @@ IN AREA BOUND BY
 19-39.70S 113-03.00E, 19-39.70S 113-24.00E,
 20-00.00S 113-24.00E, 20-00.00S 113-03.00E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>150009Z FEB 26
-HYDROPAC 461/26(76).
-COOK STRAIT.
-NEW ZEALAND.
-DNC 06.
-BARRETT REEF BUOY 41-21.15S 174-50.11E UNLIT.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -171,19 +263,6 @@ DNC 03.
    07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
    07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
 2. CANCEL THIS MSG 180800Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>131051Z FEB 26
-HYDROPAC 448/26(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. BUOY BD 14 ADRIFT IN 04-14.29N 083-45.08E
-   AT 130300Z FEB.
-2. CANCEL HYDROPAC 415/26.
-3. CANCEL THIS MSG 161051Z FEB 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
