@@ -887,23 +887,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011519Z FEB 26
-HYDROPAC 313/26(62).
-PERSIAN GULF.
-BAHRAIN.
-QATAR.
-DNC 10.
-1. CABLE OPERATIONS IN PROGRESS THRU 15 FEB 
-   BY M/V HALUL 53 ALONG TRACKLINE JOINING
-   25-57.80N 051-30.54E, 25-57.98N 051-30.66E,
-   26-00.00N 051-31.94E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>010648Z FEB 26
@@ -1703,21 +1686,6 @@ ANDAMAN SEA.
 INDIA.
 DNC 03.
 ROSS ISLAND LIGHT 11-40.90N 092-45.99E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170930Z OCT 25
-HYDROPAC 2665/25(62).
-PERSIAN GULF.
-U.A.E.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS 
-   UNTIL 15 FEB 26 ALONG TRACKLINE JOINING
-   24-30.82N 054-01.29E, 24-53.45N 053-03.62E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

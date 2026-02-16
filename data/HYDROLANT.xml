@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>151807Z FEB 26
+HYDROLANT 326/26(51).
+NORTH ATLANTIC.
+WESTERN SAHARA.
+DNC 01.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   21-57.00N 017-23.00W AT 151800Z FEB.
+2. CANCEL THIS MSG 181807Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>151402Z FEB 26
@@ -305,20 +317,6 @@ DNC 01.
 1. SOLIDAO LIGHT 30-42.08S 050-28.85W
    UNLIT UNTIL 10 AUG.
 2. CANCEL THIS MSG 110001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110112Z FEB 26
-HYDROLANT 291/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 15 FEB
-   BY CABLESHIP IT INTEGRITY IN 03-40.90S 038-18.50W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
