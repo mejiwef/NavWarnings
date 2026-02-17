@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>171653Z FEB 26
+NAVAREA XII 99/26(16).
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY
+COLD BAY 55-11.00N 162-42.00W. 
+HF TRANSMIT AND RECEIVE SERVICES 
+INOPERABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>171634Z FEB 26
+NAVAREA XII 98/26(16).
+BERING SEA.
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY
+SHEMYA 52-43.00N 174-07.00E 
+HF TRANSMIT AND RECEIVE SERVICES
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>120022Z FEB 26

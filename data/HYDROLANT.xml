@@ -1,47 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
+        <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
-        <msgText>161345Z FEB 26
-HYDROLANT 332/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 48-33.00S 036-49.00W.
-   B. A23J, 50-41.00S 039-23.00W.
-   C. A23K, 51-09.00S 039-39.00W.
-   D. A76C, 59-30.00S 038-22.00W.
-   E. B15AB, 54-04.00S 034-19.00W.
-   F. 51-06.00S 021-59.00W.
-   G. 58-08.00S 036-08.00W.
-   H. 50-32.00S 039-12.00W.
-   I. 51-55.00S 039-59.00W.
-   J. 59-36.00S 048-49.00W.
-   K. 51-49.00S 039-02.00W.
-   L. 51-10.00S 022-35.00W.
-   M. 50-33.00S 035-45.00W.
-2. CANCEL THIS MSG 171400Z FEB 26.
+        <msgText>171621Z FEB 26
+HYDROLANT 336/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. DERELICT VESSEL ADRIFT IN 33-56.00N 032-11.00W
+   AT 170917Z FEB.
+2. CANCEL THIS MSG 201623Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>161340Z FEB 26
-HYDROLANT 331/26(29).
+        <msgText>171351Z FEB 26
+HYDROLANT 335/26(23,29).
+SCOTIA SEA.
 SOUTH ATLANTIC.
-SOUTH PACIFIC.
 ANTARCTICA.
-DNC 29.
+DNC 01, DNC 29.
 1. ICEBERGS REPORTED IN: 
-   A. A81, 64-48.00S 058-23.40W.
-   B. A84, 71-42.00S 101-16.20W.
-   C. A85, 68-20.40S 056-36.00W.
-   D. D33A, 65-36.60S 058-00.60W.
-   E. D33C, 65-57.60S 058-33.00W.
-2. CANCEL THIS MSG 171400Z FEB 26.
-</msgText>
+   A. A23A, 48-19.00S 035-50.00W.
+   B. A23J, 50-46.00S 039-17.00W.
+   C. A23K, 51-13.00S 039-39.00W.
+   D. A76C, 59-29.00S 038-25.00W.
+   E. B15AB, 53-58.00S 034-34.00W.
+   F. 51-06.00S 021-59.00W.
+   G. 58-04.00S 036-09.00W.
+   H. 50-46.00S 038-51.00W.
+   I. 51-53.00S 040-01.00W.
+   J. 59-36.00S 048-50.00W.
+   K. 51-45.00S 039-01.00W.
+   L. 51-10.00S 022-35.00W.
+   M. 50-29.00S 035-33.00W.
+2.CANCEL THIS MSG 181400Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -72,7 +66,8 @@ SOUTH ATLANTIC.
    51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
    37-17.00S 051-07.00W.
 2. CANCEL HYDROLANT 300/26.
-3. CANCEL THIS MSG 250529Z FEB 26.</msgText>
+3. CANCEL THIS MSG 250529Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -136,7 +131,6 @@ DNC 01, DNC 07.
    35-50.50S 050-05.20W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAR 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -168,28 +162,6 @@ DNC 20.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>141624Z FEB 26
-HYDROLANT 317/26(51).
-NORTH ATLANTIC.
-DNC 08.
-1. DERELICT SUBSURFACE VESSEL ADRIFT IN
-   VICINITY 33-45.00N 032-16.00W AT 140840Z FEB.
-2. CANCEL THIS MSG 171630Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>131754Z FEB 26
-HYDROLANT 313/26(51).
-MOROCCO.
-DNC 08.
-MEHDIYA LIGHT 34-15.00N 006-40.00W 
-REDUCED RANGE TO SIX MILES.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>131746Z FEB 26
@@ -197,7 +169,8 @@ HYDROLANT 312/26(57).
 GULF OF GUINEA.
 GHANA.
 DNC 01.
-DANGEROUS WRECK IN 05-35.74N 000-01.62E.</msgText>
+DANGEROUS WRECK IN 05-35.74N 000-01.62E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -231,7 +204,8 @@ HYDROLANT 311/26(GEN).
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROLANT 260/26.</msgText>
+3. CANCEL HYDROLANT 260/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
@@ -247,7 +221,8 @@ DNC 01.
    REPORTS TO NAVAREA V SAR,
    PHONE: 55 919 8266 0196,
    EMAIL: CPAOR.CNTM@GMAIL.COM.
-2. CANCEL HYDROLANT 283/26.</msgText>
+2. CANCEL HYDROLANT 283/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -536,18 +511,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>261644Z JAN 26
-HYDROLANT 177/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-RANNEYS BUOY 50-19.90N 004-26.40W OFF STATION
-IN 50-20.30N 004-26.60W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

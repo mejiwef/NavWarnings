@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>171323Z FEB 26
+HYDROPAC 480/26(62).
+GULF OF ADEN.
+DNC 10.
+1. M/V ATTACKED IN 12-18.00N 043-51.00E AT 170942Z FEB
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 201330Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171218Z FEB 26
+HYDROPAC 479/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 20 FEB THRU 30 APR 
+   BY M/V DSV SEAMEC PRINCESS
+   IN AREA BOUND BY
+   20-36.02N 072-02.23E, 19-12.75N 072-06.69E,
+   18-45.27N 072-18.04E, 19-31.77N 071-18.08E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171111Z FEB 26
@@ -35,7 +66,7 @@ ONE MILE BERTH REQUESTED.</msgText>
         <status>INFORCE</status>
         <msgText>161643Z FEB 26
 HYDROPAC 473/26(62).
-U.A.E..
+U.A.E.
 DNC 10.
 12.9 METER DEPTHS REPORTED IN BOROUGE CHANNEL
 24-09.00N 052-45.20E.
@@ -68,7 +99,8 @@ SOUTH ATLANTIC.
    51-50.00S 008-01.00E, 50-47.00S 023-51.00W,
    37-17.00S 051-07.00W.
 2. CANCEL HYDROPAC 427/26.
-3. CANCEL THIS MSG 250529Z FEB 26.</msgText>
+3. CANCEL THIS MSG 250529Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -315,7 +347,8 @@ DNC 03.
    08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
    07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
    07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL THIS MSG 180800Z FEB 26.</msgText>
+2. CANCEL THIS MSG 180800Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -400,7 +433,8 @@ GULF OF CARPENTARIA.
 AUSTRALIA.
 DNC 05.
 DUYFKEN POINT LIGHT 12-34.15S 141-35.98E
-UNLIT.</msgText>
+UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -450,21 +484,6 @@ IN AREA BOUND BY
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121648Z FEB 26
-HYDROPAC 436/26(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0300Z TO 1200Z DAILY 
-   16 AND 17 FEB IN AREA BOUND BY
-   24-47.43N 066-58.77E, 24-42.91N 066-52.88E,
-   24-43.92N 066-52.11E, 24-45.03N 066-51.54E,
-   24-46.21N 066-51.19E, 24-47.43N 066-51.08E.
-2. CANCEL THIS MSG 171300Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121430Z FEB 26
@@ -484,7 +503,8 @@ DNC 03.
    C. 19-23.94N 072-16.01E, 19-24.29N 071-55.82E,
       19-08.86N 071-55.54E, 19-08.52N 072-15.71E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130000Z MAR 26.</msgText>
+2. CANCEL THIS MSG 130000Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -496,20 +516,6 @@ AUSTRALIA.
 DNC 05.
 RACON AT DUYFKEN POINT 12-34.15S 141-35.98E
 INOPERATIVE. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121041Z FEB 26
-HYDROPAC 429/26(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 170830Z TO 171130Z FEB
-   IN AREA WITHIN THREE MILES OF 
-   11-38.73N 092-59.68E.
-2. CANCEL THIS MSG 171230Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1655,28 +1661,6 @@ INDIA.
 DNC 03.
 DRILL RIG DEEP SEA MATDRILL AGROUND IN VICINITY
 20-12.18N 072-01.83E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081138Z JAN 26
-HYDROPAC 57/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 13 JAN THRU 12 FEB 26
-   BY M/V ORION LAXMI IN AREAS BOUND BY:
-   A. 20-53.22N 071-57.95E, 20-40.48N 072-30.54E,
-      20-00.87N 072-27.20E, 20-01.40N 071-37.99E,
-      20-28.44N 071-39.02E.
-   B. 19-41.07N 071-06.85E, 19-40.69N 071-36.43E,
-      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
-   C. 19-24.29N 071-55.82E, 19-23.94N 072-16.01E,
-      19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 13 FEB 26. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
