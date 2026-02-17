@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>161504Z FEB 26
-HYDROLANT 333/26(35).
-NORTH ATLANTIC.
-SHETLAND ISLANDS.
-DNC 20.
-CGOC SHETLAND MF DSC AND R/T SERVICES AT
-COLLAFIRTH HILL 60-32.00N 001-23.50W OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>161345Z FEB 26
