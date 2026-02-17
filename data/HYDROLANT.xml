@@ -246,20 +246,6 @@ HYDROLANT 311/26(GEN).
 3. CANCEL HYDROLANT 260/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130409Z FEB 26
-HYDROLANT 307/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 170300Z FEB IN 20-52.27S 040-07.87W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170400Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>121606Z FEB 26
