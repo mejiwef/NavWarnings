@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>162100Z FEB 26
+HYDROPAC 474/26(75).
+TASMAN SEA.
+DNC 06.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V LAYLA
+ALONG TRACKLINE JOINING
+36-25.12S 162-48.25E, 36-45.00S 164-29.90E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>161643Z FEB 26
@@ -737,21 +750,6 @@ PERSIAN GULF.
 KUWAIT.
 DNC 10.
 BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>062341Z FEB 26
-HYDROPAC 376/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2343Z TO 1429Z DAILY, 13 THRU 22 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 221529Z FEB 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
