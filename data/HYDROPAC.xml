@@ -59,7 +59,8 @@ UNDERWATER OPERATIONS IN PROGRESS
 UNTIL FURTHER NOTICE BY M/V LAYLA
 ALONG TRACKLINE JOINING
 36-25.12S 162-48.25E, 36-45.00S 164-29.90E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
@@ -186,7 +187,8 @@ NEW ZEALAND.
 DNC 06.
 1. BARRETT REEF BUOY 41-21.15S 174-50.11E
    MISSING. 
-2. CANCEL HYDROPAC 461/26.</msgText>
+2. CANCEL HYDROPAC 461/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -200,7 +202,8 @@ DNC 07.
    DAILY 19 AND 20 FEB IN AREA BOUND BY
    32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
    33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
-2. CANCEL THIS MSG 201800Z FEB 26.</msgText>
+2. CANCEL THIS MSG 201800Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -214,19 +217,7 @@ FURTHER NOTICE BY M/V REACH REMOTE 2
 IN AREA BOUND BY
 19-39.70S 113-03.00E, 19-39.70S 113-24.00E,
 20-00.00S 113-24.00E, 20-00.00S 113-03.00E.
-ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>142208Z FEB 26
-HYDROPAC 460/26(76).
-COOK STRAIT.
-NEW ZEALAND.
-DNC 06.
-1. WAVE BUOY ADRIFT IN VICINITY 41-24.37S 174-50.42E
-   AT 142040Z FEB.
-2. CANCEL THIS MSG 172213Z FEB 26.
+ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -245,7 +236,8 @@ DNC 23.
    23-18.82N 123-19.44E, 23-10.00N 123-18.87E,
    23-04.34N 123-17.01E, 22-40.98N 123-15.37E.
    WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 232/26(94,97).</msgText>
+2. CANCEL HYDROPAC 232/26(94,97).
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -277,16 +269,6 @@ DNC 03.
    11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
    11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
 2. CANCEL THIS MSG 250730Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>131837Z FEB 26
-HYDROPAC 454/26(83).
-SOUTH PACIFIC.
-DNC 06.
-CANCEL HYDROPAC 353/26 AND THIS MSG,
-OPERATIONS COMPLETED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -1768,24 +1750,6 @@ ANDAMAN SEA.
 INDIA.
 DNC 03.
 ROSS ISLAND LIGHT 11-40.90N 092-45.99E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170901Z OCT 25
-HYDROPAC 2664/25(62).
-PERSIAN GULF.
-KUWAIT.
-DNC 10.
-SURVEY OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY VESSEL SEALINE-8
-IN: 
-A. 29-07.20N 048-08.23E.
-B. 29-06.85N 048-08.34E.
-C. 29-07.34N 048-08.76E.
-D. 29-07.01N 048-08.88E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
