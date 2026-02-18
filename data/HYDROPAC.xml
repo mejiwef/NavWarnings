@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181123Z FEB 26
+HYDROPAC 489/26(63).
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0230Z TO 0630Z AND
+   0730Z TO 1130Z DAILY 23 THRU 27 FEB 
+   IN AREA BOUND BY
+   09-26.12N 094-23.68E, 09-54.03N 094-09.88E,
+   09-49.34N 093-27.10E, 08-58.39N 092-38.20E,
+   08-30.30N 093-08.21E, 08-12.28N 093-47.22E,
+   08-51.46N 094-24.91E.
+2. CANCEL THIS MSG 271230Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180942Z FEB 26
+HYDROPAC 487/26(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 0800Z 
+   DAILY 23 AND 24 FEB, 252300Z TO 260600Z FEB
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 260700Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>180911Z FEB 26
+HYDROPAC 486/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. DERELICT 38 FOOT VESSEL ADRIFT 
+   IN VICINITY 23-22.00S 175-05.00W 
+   AT 180800Z FEB.
+2. CANCEL THIS MSG 210911Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>132110Z FEB 26
@@ -330,24 +379,6 @@ HYDROPAC 453/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>131146Z FEB 26
-HYDROPAC 449/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   180530Z TO 180700Z FEB 
-   IN AREA BOUND BY
-   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL THIS MSG 180800Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131043Z FEB 26
@@ -434,23 +465,6 @@ DNC 06.
    59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
    26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
 2. CANCEL THIS MSG 241529Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130440Z FEB 26
-HYDROPAC 439/26(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 0800Z 
-   DAILY 17 AND 18 FEB IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 180900Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1394,21 +1408,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 161/26.
 3. CANCEL THIS MSG 220001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>210953Z JAN 26
-HYDROPAC 189/26(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. NAVTEX STATION ANTOFAGASTA (A) 
-   23-29.47S 070-25.39W OFF AIR.
-2. VALPARAISO RADIO 33-04.70S 071-36.80W 
-   ASSUMES CONTROL WILL TRANSMIT 
-   VIA SAFETYNET.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

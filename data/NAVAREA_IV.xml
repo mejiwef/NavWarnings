@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>310758Z JAN 26
+NAVAREA IV 147/26(12,13).
+NORTH ATLANTIC.
+VIRGINIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
+   232000Z TO 240045Z FEB, ALTERNATE 
+   2000Z TO 0045Z DAILY 24 THRU 28 FEB 
+   IN AREAS BOUND BY:
+   A. 37-54.0N 075-30.0W, 37-56.0N 075-18.0W,
+      37-34.0N 074-38.0W, 37-33.0N 074-54.0W,
+      37-44.0N 075-34.0W.
+   B. 37-55.0N 073-50.0W, 37-20.0N 072-10.0W,
+      36-30.0N 072-10.0W, 37-08.0N 074-08.0W.
+   C. 37-20.0N 072-10.0W, 37-00.0N 071-20.0W,
+      36-20.0N 067-30.0W, 36-50.0N 064-35.0W,
+      35-45.0N 064-20.0W, 35-09.0N 067-10.0W,
+      36-30.0N 072-10.0W.
+2. CANCEL THIS MSG 010145Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>172139Z FEB 26

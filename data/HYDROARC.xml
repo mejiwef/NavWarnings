@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>MOORING ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>161837Z FEB 26
-HYDROARC 30/26(42).
-GREENLAND SEA.
-SVALBARD.
-DNC 22.
-1. SCIENTIFIC MOORING, ADRIFT IN
-   76-23.13N 014-10.71E AT 171315Z FEB.
-2. CANCEL THIS MSG 191843Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>131624Z FEB 26
