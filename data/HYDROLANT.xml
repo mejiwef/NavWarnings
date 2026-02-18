@@ -110,18 +110,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>151807Z FEB 26
-HYDROLANT 326/26(51).
-NORTH ATLANTIC.
-WESTERN SAHARA.
-DNC 01.
-1. DERELICT VESSEL ADRIFT IN VICINITY
-   21-57.00N 017-23.00W AT 151800Z FEB.
-2. CANCEL THIS MSG 181807Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151318Z FEB 26

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>132110Z FEB 26
+HYDROPAC 483/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 23 THRU 27 FEB
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
+   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 272129Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>171323Z FEB 26
@@ -407,18 +422,6 @@ IN AREA BOUND BY
 WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>130856Z FEB 26
-HYDROPAC 443/26(74).
-GULF OF CARPENTARIA.
-AUSTRALIA.
-DNC 05.
-DUYFKEN POINT LIGHT 12-34.15S 141-35.98E
-UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>100952Z FEB 26
@@ -486,18 +489,6 @@ DNC 03.
       19-08.86N 071-55.54E, 19-08.52N 072-15.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 130000Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>121147Z FEB 26
-HYDROPAC 431/26(74).
-GULF OF CARPENTARIA.
-AUSTRALIA.
-DNC 05.
-RACON AT DUYFKEN POINT 12-34.15S 141-35.98E
-INOPERATIVE. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1139,23 +1130,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAR 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291318Z JAN 26
-HYDROPAC 277/26(97).
-NORTH PACIFIC.
-JAPAN.
-DNC 12.
-CABLE OPERATIONS 291500Z JAN UNTIL FURTHER
-NOTICE BY CABLESHIP KDDI CABLE INFINITY
-IN AREAS BOUND BY:
-A. 28-01.73N 143-10.54E, 28-02.66N 143-35.06E,
-   27-09.10N 143-38.01E, 27-08.02N 143-13.78E.
-B. 25-40.00N 145-10.00E, 24-50.00N 145-10.00E,
-   24-50.00N 146-10.00E, 25-40.00N 146-10.00E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
