@@ -104,31 +104,6 @@ DNC 08.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171351Z FEB 26
-HYDROLANT 335/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 01, DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 48-19.00S 035-50.00W.
-   B. A23J, 50-46.00S 039-17.00W.
-   C. A23K, 51-13.00S 039-39.00W.
-   D. A76C, 59-29.00S 038-25.00W.
-   E. B15AB, 53-58.00S 034-34.00W.
-   F. 51-06.00S 021-59.00W.
-   G. 58-04.00S 036-09.00W.
-   H. 50-46.00S 038-51.00W.
-   I. 51-53.00S 040-01.00W.
-   J. 59-36.00S 048-50.00W.
-   K. 51-45.00S 039-01.00W.
-   L. 51-10.00S 022-35.00W.
-   M. 50-29.00S 035-33.00W.
-2.CANCEL THIS MSG 181400Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>161316Z FEB 26
