@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>191602Z Feb 26
+NAVAREA IV 151/26(26).
+NORTH ATLANTIC.
+BAHAMAS.
+1. BUOY WITH RADAR REFLECTOR AND LIGHT 
+   TEMPORARILY ESTABLISHED UNTIL 22 FEB IN
+    26-55.88N 075-55.40W.
+2. CANCEL THIS MSG 230001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
-        <msgText>190107Z Feb 26
+        <msgText>190107Z FEB 26
 NAVAREA IV 150/26(11,26).
 NORTH ATLANTIC.
 FLORIDA.
@@ -27,7 +39,7 @@ FLORIDA.
     <smapsActiveEntity>
         <category>NAVAREA IV RIG LIST</category>
         <status>INFORCE</status>
-        <msgText>182028Z Feb 26
+        <msgText>182028Z FEB 26
 NAVAREA IV 149/26(GEN).
 1. NAVAREA IV MOBILE OFFSHORE DRILLING UNITS
    POSITIONS AT 181900Z FEB:
@@ -134,7 +146,7 @@ NAVAREA IV 149/26(GEN).
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
-        <msgText>182004Z Feb 26
+        <msgText>182004Z FEB 26
 NAVAREA IV 148/26(GEN).
 1. NORTH AMERICAN ICE SERVICE (NAIS)
    ICEBERG BULLETIN 190001Z FEB.
