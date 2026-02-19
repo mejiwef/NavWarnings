@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>190611Z Feb 26
-HYDROPAC 502/26(GEN).
-NORTH PACIFIC.
-CANCEL HYDROPAC 499/26, 500/26 AND THIS MSG,
-MSGS NOT PROMULGATED.</msgText>
+        <msgText>191156Z Feb 26
+HYDROPAC 504/26(63).
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 22 FEB THRU 20 MAR 
+   BY VESSEL AWB JD ODYSSEY AND TUG CREATIVE 1 
+   ALONG TRACKLINE JOINING
+   20-08.99N 071-48.24E, 20-08.39N 071-53.14E. 
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>190933Z Feb 26
+HYDROPAC 503/26(61).
+INDIAN OCEAN.
+BRITISH INDIAN OCEAN TERRITORY.
+DNC 03.
+1. DERELICT 40 FOOT VESSEL, PARTIALLY 
+   SUBMERGED AND ADRIFT IN VICINITY 
+   07-10.00S 072-25.00E ON 14 FEB.
+2. CANCEL THIS MSG 220931Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -328,18 +347,6 @@ SOUTH ATLANTIC.
    37-17.00S 051-07.00W.
 2. CANCEL HYDROPAC 427/26.
 3. CANCEL THIS MSG 250529Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>161125Z FEB 26
-HYDROPAC 470/26(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. BUOY BD 14 ADRIFT IN VICINITY 04-05.63N 083-08.06E
-   AT 160600Z.
-2. CANCEL THIS MSG 191135Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

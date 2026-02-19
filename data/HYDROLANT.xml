@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>191119Z Feb 26
+HYDROLANT 348/26(36).
+IRISH SEA.
+IRELAND.
+DNC 19.
+HELLYHUNTER BUOY 54-00.30N 006-02.20W OFF STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191010Z Feb 26
+HYDROLANT 347/26(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
+   DAILY 24 THRU 26 FEB IN AREA WITHIN 
+   TEN MILES OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 262200Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>182047Z Feb 26
