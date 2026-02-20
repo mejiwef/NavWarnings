@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>192032Z FEB 26
-NAVAREA IV 156/26(26).
-NORTH ATLANTIC.
-HAITI.
-CABLE BUOY WITH RADAR REFLECTOR AND
-WHITE STROBE LIGHT TEMPORARILY ESTABLISHED
-IN 20-29.40N 073-20.80W.
-WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>192023Z FEB 26
