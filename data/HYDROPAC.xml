@@ -456,21 +456,6 @@ SOUTH ATLANTIC.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>161118Z FEB 26
-HYDROPAC 469/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 192000Z TO 200900Z FEB
-   IN AREA BOUND BY
-   15-12.00N 072-40.00E, 15-12.00N 072-56.00E,
-   15-25.00N 072-50.00E, 15-25.00N 072-36.00E.
-2. CANCEL THIS MSG 201000Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>161035Z FEB 26
 HYDROPAC 468/26(63).
 BAY OF BENGAL.
@@ -483,21 +468,6 @@ DNC 03.
    B. 17-45.20N 084-40.70E, 17-34.60N 084-23.00E,
       17-19.20N 084-36.80E, 17-29.90N 084-54.10E.
 2. CANCEL THIS MSG 211230Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161031Z FEB 26
-HYDROPAC 467/26(63).
-INDIAN OCEAN.
-LAKSHADWEEP.
-DNC 03.
-1. HAZARDOUS OPERATIONS 200200Z TO 200730Z FEB
-   IN AREA BOUND BY
-   10-46.42N 073-42.00E, 10-49.18N 073-42.00E,
-   10-49.18N 073-44.48E, 10-46.42N 073-44.48E.
-2. CANCEL THIS MSG 200830Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

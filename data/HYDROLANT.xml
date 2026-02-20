@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>201037Z Feb 26
+HYDROLANT 353/26(37).
+BAY OF BISCAY.
+FRANCE.
+DNC 08.
+1. ODAS BUOY ADRIFT IN VICINITY 
+   43-30.12N 002-09.60W AT 200800Z FEB.
+2. CANCEL THIS MSG 231036Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191738Z Feb 26
