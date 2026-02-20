@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>192234Z FEB 26
+HYDROPAC 511/26(75).
+TASMAN SEA.
+DNC 06.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL FURTHER NOTICE BY M/V LAYLA
+   ALONG TRACKLINE JOINING
+   36-21.88S 162-30.27E, 35-54.18S 158-58.80E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 474/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191529Z FEB 26
@@ -1752,25 +1766,6 @@ BAY OF BENGAL.
 INDIA.
 DNC 03.
 SOUTH SENTINEL LIGHT 10-58.83N 092-13.53E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161341Z DEC 25
-HYDROPAC 3353/25(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 20 DEC THRU 19 FEB 26 BY
-   M/V SEAMEC PRINCESS ALONG TRACKLINE JOINING
-   20-36.02N 072-02.23E, 20-10.38N 072-29.68E,
-   20-16.76N 071-55.65E, 18-34.48N 072-16.76E,
-   18-48.36N 072-20.05E, 19-11.90N 072-11.00E,
-   19-20.05N 072-01.20E, 19-07.40N 072-06.45E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

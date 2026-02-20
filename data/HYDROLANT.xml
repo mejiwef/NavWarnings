@@ -1090,25 +1090,6 @@ ODAS BUOY ESTABLISHED IN 25-33.58S 044-03.17W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260100Z JUL 25
-HYDROLANT 1246/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 19 FEB 26
-   BY M/V SW DUCHESS TOWING 12 6000 METER LONG 
-   CABLES IN AREA BOUND BY
-   22-56.80S 039-58.80W, 23-34.30S 040-36.60W,
-   23-04.80S 041-05.90W, 22-49.40S 040-55.10W,
-   22-40.20S 040-38.70W, 22-34.80S 040-35.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1072/25.
-3. CANCEL THIS MSG 200001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>190115Z JUL 25
