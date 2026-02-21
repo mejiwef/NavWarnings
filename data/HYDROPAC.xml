@@ -538,19 +538,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>180911Z FEB 26
-HYDROPAC 486/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. DERELICT 38 FOOT VESSEL ADRIFT 
-   IN VICINITY 23-22.00S 175-05.00W 
-   AT 180800Z FEB.
-2. CANCEL THIS MSG 210911Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>132110Z FEB 26
