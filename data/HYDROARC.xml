@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>null</category>
+        <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>201808Z FEB 26
 HYDROARC 32/26.
-1. HYDROARC WARNINGS IN FORCE AS OF 1800Z FEB 26. 
+1. HYDROARC WARNINGS IN FORCE AS OF 201800Z FEB 26. 
    ALL THE INFORCE WARNINGS ARE LISTED HERE.
    4/2026.
    200/2025, 199/2025, 198/2025, 197/2025, 180/2025,
@@ -19,7 +19,8 @@ HYDROARC 32/26.
    MSI.NGA.MIL/NAVWARNINGS.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 29/26.</msgText>
+3. CANCEL HYDROARC 29/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SHOAL</category>
