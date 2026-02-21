@@ -611,23 +611,6 @@ MANORA POINT LIGHT 24-46.75N 066-58.98E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161035Z FEB 26
-HYDROPAC 468/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 210830Z TO 211130Z FEB
-   IN AREAS BOUND BY:
-   A. 17-04.40N 083-26.70E, 16-51.60N 083-10.70E,
-      16-37.00N 083-23.50E, 16-49.40N 083-39.80E.
-   B. 17-45.20N 084-40.70E, 17-34.60N 084-23.00E,
-      17-19.20N 084-36.80E, 17-29.90N 084-54.10E.
-2. CANCEL THIS MSG 211230Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>160744Z FEB 26
