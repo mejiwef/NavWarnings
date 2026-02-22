@@ -408,25 +408,6 @@ BAHAMAS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>131233Z FEB 26
-NAVAREA IV 134/26(24).
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   131613Z TO 131722Z, 141552Z TO 141701Z, 
-   161509Z TO 161618Z, 171448Z TO 171557Z, 
-   181427Z TO 181536Z, 191405Z TO 191514Z, 
-   201344Z TO 201453Z, 211323Z TO 211432Z, 
-   AND 221302Z TO 221410Z FEB
-   IN AREA BOUND BY
-   05-50.00N 052-20.00W, 05-51.00N 052-48.00W,
-   05-23.00N 052-54.00W, 05-13.00N 052-41.00W.
-2. CANCEL THIS MSG 221510Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130913Z FEB 26

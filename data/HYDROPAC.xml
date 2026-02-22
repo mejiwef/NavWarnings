@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221240Z FEB 26
+HYDROPAC 530/26(94).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 23.
+CABLE OPERATIONS 231500Z FEB UNTIL FURTHER NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY
+24-09.17N 122-17.08E, 24-13.18N 122-25.54E,
+24-10.17N 122-27.58E, 24-06.84N 122-27.19E,
+23-57.25N 122-37.22E, 23-52.09N 122-44.67E,
+23-45.56N 122-39.79E, 23-51.50N 122-31.28E,
+24-00.72N 122-21.00E, 24-07.18N 122-17.76E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>221024Z FEB 26
@@ -312,17 +330,6 @@ DNC 03.
 2. CANCEL THIS MSG 241030Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>191205Z FEB 26
-HYDROPAC 505/26(63).
-EASTERN INDIAN OCEAN.
-DNC 03.
-1. BUOY BD 14 ADRIFT IN 03-30.47N 082-11.75E
-   AT 190300Z FEB.
-2. CANCEL THIS MSG 221205Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191156Z FEB 26
@@ -529,23 +536,6 @@ DNC 03.
    18-45.27N 072-18.04E, 19-31.77N 071-18.08E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171111Z FEB 26
-HYDROPAC 477/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 220730Z TO 221130Z FEB
-   IN AREAS BOUND BY:
-   A. 16-15.90N 084-36.20E, 16-03.30N 084-20.10E,
-      15-47.80N 084-33.10E, 16-00.40N 084-49.20E.
-   B. 18-16.70N 084-59.70E, 18-16.70N 084-43.80E,
-      18-02.10N 084-43.50E, 18-01.90N 084-59.70E.
-2. CANCEL THIS MSG 221230Z FEB 26. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
