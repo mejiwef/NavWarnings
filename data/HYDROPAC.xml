@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>220144Z FEB 26
+HYDROPAC 527/26(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+MAGALLANES RADIO 53-09.92S 070-54.28W
+MF AND HF DSC OFF AIR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>202147Z FEB 26
@@ -342,18 +354,6 @@ DNC 12.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 261400Z FEB 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FAD</category>
-        <status>INFORCE</status>
-        <msgText>190512Z Feb 26
-HYDROPAC 497/26(74).
-INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-1. YELLOW FAD WITH ROPE ADRIFT IN 
-   28-38.89S 113-31.29E AT 180302Z FEB.
-2. CANCEL THIS MSG 220508Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

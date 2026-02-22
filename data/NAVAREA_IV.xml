@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>211704Z FEB 26
+NAVAREA IV 165/26(11,26).
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   270952Z TO 271435Z FEB, ALTERNATE
+   280926Z TO 281409Z FEB, 010900Z TO 011343Z,
+   020834Z TO 021317Z, 030808Z TO 031251Z,
+   040742Z TO 041225Z AND 051716Z TO 051159Z MAR
+   IN AREAS BOUND BY:
+   A. 26-20.00N 076-15.00W, 26-27.00N 076-12.00W,
+      26-20.00N 075-46.00W, 26-12.00N 075-07.00W,
+      25-44.00N 074-19.00W, 25-16.00N 074-05.00W,
+      25-07.00N 074-17.00W, 25-17.00N 074-58.00W,
+      25-43.00N 075-40.00W, 26-08.00N 076-04.00W.
+   B. 28-40.89N 080-39.04W, 28-39.00N 080-23.00W,
+      28-19.00N 079-45.00W, 28-12.00N 079-48.00W,
+      28-28.83N 080-32.24W.
+2. CANCEL THIS MSG 051259Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>211955Z FEB 26

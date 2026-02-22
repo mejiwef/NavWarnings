@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220049Z FEB 26
+HYDROLANT 368/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   22 THRU 25 FEB BY M/V ZHONG CHANG, 
+   M/V ZHOU SHAN, M/V OBRIGADO SENHOR III
+   AND M/V PS BARCELONA IN 20-22.57S 040-09.25W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 251900Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>211552Z FEB 26
@@ -195,19 +211,6 @@ DNC 20.
    C. CULLERCOATS 55-04.40N 001-27.80W.
    D. BAWDSEY 51-59.60N 001-24.50E.
 2. CANCEL HYDROLANT 319/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>161013Z FEB 26
-HYDROLANT 327/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PONTA NEGRA LIGHT 22-57.64S 042-41.56W 
-   UNLIT UNTIL 15 AUG.
-2. CANCEL THIS MSG 160001Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
