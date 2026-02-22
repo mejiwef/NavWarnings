@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211840Z FEB 26
+NAVAREA XII 118/26(22).
+SOUTH PACIFIC.
+ECUADOR.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+   BY CABLESHIP ILE DE SEIN ALONG TRACKLINE JOINING
+   02-23.04S 081-00.48W, 02-17.51S 081-18.05W,
+   02-14.35S 081-16.80W, 02-19.63S 081-00.39W.
+   WIDE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 91/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>201838Z FEB 26
@@ -162,17 +177,6 @@ ALASKA.
 USCG REMOTE COMMUNICATION FACILITY ST PAUL
 57-10.00N 170-16.00W TRANSMIT AND RECEIVE
 SERVICES INOPERATIVE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>180009Z FEB 26
-NAVAREA XII 100/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-NAVTEX STATION POINT REYES (C)
-37-55.00N 122-44.00W INOPERATIVE.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
