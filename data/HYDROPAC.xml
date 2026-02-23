@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
+        <category>RACON</category>
         <status>INFORCE</status>
-        <msgText>221240Z FEB 26
-HYDROPAC 530/26(94).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 23.
-CABLE OPERATIONS 231500Z FEB UNTIL FURTHER NOTICE BY CABLESHIP ILE DE RE IN AREA BOUND BY
-24-09.17N 122-17.08E, 24-13.18N 122-25.54E,
-24-10.17N 122-27.58E, 24-06.84N 122-27.19E,
-23-57.25N 122-37.22E, 23-52.09N 122-44.67E,
-23-45.56N 122-39.79E, 23-51.50N 122-31.28E,
-24-00.72N 122-21.00E, 24-07.18N 122-17.76E.
-WIDE BERTH REQUESTED.
-</msgText>
+        <msgText>222009Z FEB 26
+HYDROPAC 531/26(73).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+RACON AT BRAMBLE CAY 09-08.53S 143-52.56E.
+UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -782,22 +775,6 @@ THREE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111423Z FEB 26
-HYDROPAC 418/26(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 22 FEB
-   BY M/V HALUL-80 IN AREA BOUND BY
-   25-47.01N 051-54.65E, 25-47.01N 051-58.99E,
-   25-43.22N 051-58.99E, 25-43.22N 051-54.65E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 230001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111044Z FEB 26
@@ -853,23 +830,6 @@ IN AREA BOUND BY
 12-55.80S 128-41.75E, 12-55.80S 129-30.50E,
 12-29.00S 129-30.50E, 12-29.00S 128-41.75E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091634Z FEB 26
-HYDROPAC 395/26(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 23 FEB
-   BY DERRICK BARGE 32 IN AREA BOUND BY
-   26-01.29N 051-33.07E, 26-01.24N 051-32.62E,
-   25-57.71N 051-32.55E, 25-57.60N 051-35.58E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 230001Z FEB 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
