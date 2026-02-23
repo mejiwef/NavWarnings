@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>231217Z FEB 26
+NAVAREA IV 168/26(13).
+NORTH ATLANTIC.
+MASSACHUSETTS.
+USCG REMOTE COMMUNICATION FACILITY
+BOSTON 41-43.00N 070-31.00W MF/HF
+TRANSMIT AND RECEIVE SERVICES UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>222126Z FEB 26
@@ -14,7 +26,8 @@ GULF OF AMERICA.
    26-18.75N 089-52.79W, 25-47.36N 090-28.97W,
    25-40.26N 091-29.15W, 25-40.19N 092-06.57W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 270001Z JUL 26.</msgText>
+2. CANCEL THIS MSG 270001Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -96,11 +109,10 @@ NAVAREA IV 163/26(24).
 NORTH ATLANTIC.
 SURINAME.
 1. SURVEY OPERATIONS 23 FEB THRU 07 MAR
-   BY M/V PACIFIC DUCHESS
-   IN AREA BOUND BY
+   BY M/V PACIFIC DUCHESS IN AREA BOUND BY
    07-19.50N 056-00.16W, 07-19.50N 055-57.17W,
    07-15.70N 055-57.17W, 07-15.70N 056-00.16W.
-   MILE BERTH REQUESTED.
+   ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
@@ -112,7 +124,7 @@ NAVAREA IV 162/26(25).
 CARIBBEAN SEA.
 MARTINIQUE.
 1. HAZARDOUS OPERATIONS 241000Z TO 242200Z FEB
-IN AREA WITHIN 12 MILES OF 14-35.00N 061-47.36W.
+   IN AREA WITHIN 12 MILES OF 14-35.00N 061-47.36W.
 2. CANCEL THIS MSG 242300Z FEB 26.
 </msgText>
     </smapsActiveEntity>
@@ -125,7 +137,8 @@ CARIBBEAN SEA.
 TRINIDAD AND TOBAGO.
 1. CHUPARA POINT LIGHT, 10-48.72N 061-21.86W.
    UNLIT.
-2. CANCEL NAVAREA IV 1008/25(24).</msgText>
+2. CANCEL NAVAREA IV 1008/25(24).
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -349,7 +362,8 @@ VIRGINIA.
       36-20.0N 067-30.0W, 36-50.0N 064-35.0W,
       35-45.0N 064-20.0W, 35-09.0N 067-10.0W,
       36-30.0N 072-10.0W.
-2. CANCEL THIS MSG 010145Z MAR 26.</msgText>
+2. CANCEL THIS MSG 010145Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

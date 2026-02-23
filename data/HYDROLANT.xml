@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>FIXED HAZARD</category>
+        <status>INFORCE</status>
+        <msgText>231720Z FEB 26
+HYDROLANT 377/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. SUBMERGED VESSEL IN VICINITY 34-13N 031-16W 
+   AT 231400Z FEB.
+2. CANCEL HYDROLANT 358/26
+3. CANCEL THIS MSG 261720Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231523Z FEB 26
+HYDROLANT 376/26(35).
+NORTH ATLANTIC.
+SCOTLAND.
+DNC 19.
+1. HAZARDOUS OPERATIONS 0800Z TO 1800Z DAILY
+   26 FEB THRU 07 MAR IN AREAS WITHIN:
+   A. 27 MILES OF 57-27.50N 008-20.50W.
+   B. 20 MILES OF 57-43.50N 008-58.80W.
+2. CANCEL THIS MSG 071900Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>231123Z FEB 26
@@ -14,7 +41,8 @@ DNC 29.
    C. A85, 68-27.00S 056-34.20W.
    D. D33A, 65-38.40S 057-58.20W.
    E. D33C, 65-58.80S 058-31.80W.
-2. CANCEL THIS MSG 241123Z FEB 26.</msgText>
+2. CANCEL THIS MSG 241123Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -32,47 +60,6 @@ DNC 01, DNC 02, DNC 03.
    30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
    42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
 2. CANCEL THIS MSG 030834Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221452Z FEB 26
-HYDROLANT 372/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 46-55.00S 033-20.00W.
-   B. A23K, 51-12.00S 038-17.00W.
-   C. A76C, 59-31.00S 038-27.00W.
-   D. B15AB, 59-39.00S 034-36.00W.
-   E. 50-39.00S 022-16.00W.
-   F. 57-49.00S 035-46.00W.
-   G. 50-41.00S 035-55.00W.
-   H. 51-53.00S 040-17.00W.
-   I. 59-36.00S 049-23.00W.
-   J. 51-38.00S 038-37.00W.
-   K. 51-21.00S 039-56.00W.
-   L. 51-23.00S 040-03.00W.
-2. CANCEL THIS MSG 231454Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221348Z FEB 26
-HYDROLANT 371/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-46.20S 058-22.80W.
-   B. A84, 71-42.00S 101-16.80W.
-   C. A85, 68-27.00S 056-34.20W.
-   D. D33A, 65-38.40S 057-58.20W.
-   E. D33C, 65-58.80S 058-31.80W.
-2. CANCEL THIS MSG 231348Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -128,7 +115,8 @@ HYDROLANT 365/26(24).
 SOUTH ATLANTIC.
 BRAZIL.
 DNC 01.
-JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT.</msgText>
+JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -174,18 +162,6 @@ HYDROLANT 359/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 311/26, 348/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>201747Z FEB 26
-HYDROLANT 358/26(51).
-NORTH ATLANTIC.
-DNC 08.
-1. DERELICT VESSEL ADRIFT IN 34-11.00N 032-14.00W.
-   AT 201327Z FEB.
-2. CANCEL THIS MSG 231747Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

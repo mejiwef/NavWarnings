@@ -20,7 +20,8 @@ CALIFORNIA.
       31-29.00N 124-30.00W.
    C. 27-56.00N 129-12.00W, 29-03.00N 128-07.00W,
       28-33.00N 127-10.00W, 27-19.00N 128-22.00W.
-2. CANCEL THIS MSG 060446Z MAR 26.</msgText>
+2. CANCEL THIS MSG 060446Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -51,7 +52,8 @@ CALIFORNIA.
       29-00.00N 121-35.99W, 29-30.00N 122-24.00W.
    D. 28-36.00N 121-30.00W, 29-00.00N 122-24.00W,
       23-11.99N 128-00.00W, 22-48.00N 127-05.99W.
-3. CANCEL THIS MSG 100455Z MAR 26.</msgText>
+3. CANCEL THIS MSG 100455Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -234,17 +236,6 @@ SERVICES INOPERATIVE.</msgText>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>171653Z FEB 26
-NAVAREA XII 99/26(16).
-ALASKA.
-USCG REMOTE COMMUNICATION FACILITY
-COLD BAY 55-11.00N 162-42.00W. 
-HF TRANSMIT AND RECEIVE SERVICES 
-INOPERABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
         <msgText>171634Z FEB 26
 NAVAREA XII 98/26(16).
 BERING SEA.
@@ -252,20 +243,6 @@ ALASKA.
 USCG REMOTE COMMUNICATION FACILITY SHEMYA
 52-43.00N 174-07.00E HF TRANSMIT AND RECEIVE
 SERVICES INOPERATIVE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121916Z FEB 26
-NAVAREA XII 91/26(22).
-SOUTH PACIFIC.
-ECUADOR.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP ILE DE SEIN
-IN AREA BOUND BY
-02-15.48S 081-15.22W, 02-22.35S 081-15.36W,
-02-22.56S 080-55.14W, 02-15.48S 081-15.22W.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICES</category>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>231645Z FEB 26
+HYDROPAC 540/26(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+WAVE RIDER BUOY, FL 5 Y 10 SEC, TEMPORARILY
+ESTABLISHED IN 26-39.57N 051-57.22E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231033Z FEB 26
@@ -62,7 +74,8 @@ DNC 06.
    IN AREA BOUND BY
    59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
    26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 071529Z MAR 26.</msgText>
+2. CANCEL THIS MSG 071529Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -73,7 +86,8 @@ CORAL SEA.
 AUSTRALIA.
 DNC 05.
 RACON AT BRAMBLE CAY 09-08.53S 143-52.56E.
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -98,7 +112,8 @@ DNC 04.
 UNDERWATER OPERATIONS IN PROGRESS 
 BY M/V NORMAND SARACEN
 IN 19-31.30S 116-35.22E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -438,19 +453,6 @@ DNC 06.
    26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
 2. CANCEL HYDROPAC 483/26.
 3. CANCEL THIS MSG 022129Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190016Z FEB 26
-HYDROPAC 494/26(71).
-SOUTH CHINA SEA.
-MALAYSIA.
-DNC 03.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP TENEO IN VICINITY
-02-09.55N 104-49.36E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
