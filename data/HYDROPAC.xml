@@ -919,22 +919,6 @@ DNC 10.
 BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>061324Z FEB 26
-HYDROPAC 363/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-MAN OVERBOARD FROM F/V PY 50165 TS, FIVE
-PERSONS ON BOARD, IN 12-50.00N 109-33.00E AT
-040030Z FEB. VESSELS IN VICINITY REQUESTED TO
-KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061104Z FEB 26
