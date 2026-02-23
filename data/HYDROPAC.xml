@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231033Z FEB 26
+HYDROPAC 538/26(63).
+ARABIAN SEA.
+LAKSHADWEEP.
+DNC 03.
+1. HAZARDOUS OPERATIONS 270130Z TO 271030Z FEB
+   IN AREA BOUND BY
+   08-16.70N 073-00.60E, 08-16.64N 073-00.70E,
+   08-15.18N 072-59.88E, 08-16.20N 072-59.00E.
+2. CANCEL THIS MSG 271130Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231024Z FEB 26
+HYDROPAC 537/26(63).
+INDIAN OCEAN.
+LAKSHADWEEP.
+DNC 03.
+1. HAZARDOUS OPERATIONS 270130Z TO 270730Z FEB
+   IN AREA BOUND BY
+   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
+   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
+2. CANCEL THIS MSG 270830Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>230836Z FEB 26
+HYDROPAC 536/26(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   282357Z FEB TO 010504Z MAR, 
+   020427Z TO 020934Z AND 
+   030227Z TO 030734Z MAR IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 030834Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>200919Z FEB 26
+HYDROPAC 535/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   280943Z TO 281429Z FEB, 0943Z TO 1429Z 
+   DAILY 01 THRU 03 AND 07 MAR, 
+   2143Z TO 0229Z DAILY 04 AND 05 MAR 
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
+   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 071529Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>222009Z FEB 26
@@ -10,18 +74,6 @@ AUSTRALIA.
 DNC 05.
 RACON AT BRAMBLE CAY 09-08.53S 143-52.56E.
 UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>221024Z FEB 26
-HYDROPAC 529/26(61).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. DERELICT VESSEL M/V INTEGRITY STAR WITH ONE CREW ADRIFT 
-   IN VICINITY 02-03.14S 069-04.99E AT 20 FEB 26.
-2. CANCEL THIS MSG 231026Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>

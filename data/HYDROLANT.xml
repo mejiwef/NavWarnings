@@ -3,6 +3,40 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>231123Z FEB 26
+HYDROLANT 375/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-46.20S 058-22.80W.
+   B. A84, 71-42.00S 101-16.80W.
+   C. A85, 68-27.00S 056-34.20W.
+   D. D33A, 65-38.40S 057-58.20W.
+   E. D33C, 65-58.80S 058-31.80W.
+2. CANCEL THIS MSG 241123Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>230836Z FEB 26
+HYDROLANT 373/26(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   282357Z FEB TO 010504Z MAR, 
+   020427Z TO 020934Z AND 
+   030227Z TO 030734Z MAR IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 030834Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>221452Z FEB 26
 HYDROLANT 372/26(23,29).
 SCOTIA SEA.
@@ -167,19 +201,6 @@ DNC 07.
    32-22.40S 052-12.40W, 32-30.40S 052-14.10W,
    32-32.20S 052-06.20W, 32-22.40S 052-12.40W.
 2. CANCEL THIS MSG 260001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>201037Z Feb 26
-HYDROLANT 353/26(37).
-BAY OF BISCAY.
-FRANCE.
-DNC 08.
-1. ODAS BUOY ADRIFT IN VICINITY 
-   43-30.12N 002-09.60W AT 200800Z FEB.
-2. CANCEL THIS MSG 231036Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -369,19 +390,6 @@ DNC 01.
    SIX MILE WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 282/26.
 3. CANCEL THIS MSG 240001Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>111024Z FEB 26
-HYDROLANT 293/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SOLIDAO LIGHT 30-42.08S 050-28.85W
-   UNLIT UNTIL 10 AUG.
-2. CANCEL THIS MSG 110001Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
