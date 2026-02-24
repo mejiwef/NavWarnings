@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241108Z FEB 26
+HYDROLANT 383/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-46.20S 058-22.80W.
+   B. A84, 71-42.00S 101-16.80W.
+   C. A85, 68-27.00S 056-34.20W.
+   D. D33A, 65-38.40S 057-58.20W.
+   E. D33C, 65-58.80S 058-31.80W.
+2.CANCEL THIS MSG 251108Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>240757Z FEB 26
+HYDROLANT 382/26(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   011057Z TO 011604Z, 021031Z TO 021538Z,
+   031005Z TO 031512Z, 040939Z TO 041446Z
+   AND 050913Z TO 051420Z MAR
+   IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 051520Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240051Z FEB 26
@@ -81,23 +116,6 @@ DNC 19.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231123Z FEB 26
-HYDROLANT 375/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-46.20S 058-22.80W.
-   B. A84, 71-42.00S 101-16.80W.
-   C. A85, 68-27.00S 056-34.20W.
-   D. D33A, 65-38.40S 057-58.20W.
-   E. D33C, 65-58.80S 058-31.80W.
-2. CANCEL THIS MSG 241123Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>230836Z FEB 26
@@ -158,19 +176,6 @@ DNC 01.
    AND M/V PS BARCELONA IN 20-22.57S 040-09.25W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 251900Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>211152Z FEB 26
-HYDROLANT 363/26(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-1. DERELICT VESSEL ADRIFT IN VICNITY 
-   35-33.00N 006-49.00W AT 201430Z FEB 26.
-2. CANCEL THIS MSG 241153Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

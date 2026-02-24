@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>241022Z FEB 26
+HYDROPAC 548/26(63).
+INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   280530Z TO 280700Z FEB IN AREAS BOUND BY:
+   A. 08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
+      08-32.20N 076-47.00E, 08-29.87N 076-47.47E,
+      08-28.02N 076-48.98E, 08-27.07N 076-51.17E.
+   B. 08-09.47N 076-12.70E, 08-24.13N 076-07.28E,
+      08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
+      07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
+      07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
+2. CANCEL HYDROPAC 519/26.
+3. CANCEL THIS MSG 280800Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>240853Z FEB 26
+HYDROPAC 547/26(61,75,76).
+INDIAN OCEAN.
+SOUTH PACIFIC.
+DNC 03, DNC 04, DNC 05, DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   01 THRU 31 MAR IN AREA BOUND BY
+   48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
+   51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
+   41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
+   49-27.00S 159-48.00E.
+2. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>240757Z FEB 26
+HYDROPAC 546/26(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   011057Z TO 011604Z, 021031Z TO 021538Z,
+   031005Z TO 031512Z, 040939Z TO 041446Z
+   AND 050913Z TO 051420Z MAR
+   IN AREA BOUND BY
+   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
+   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
+   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
+2. CANCEL THIS MSG 051520Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>240336Z FEB 26
@@ -181,27 +238,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>201444Z FEB 26
-HYDROPAC 519/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0530Z TO 0700Z DAILY 25 AND 28 FEB
-   IN AREAS BOUND BY:
-   A. 08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-      08-32.20N 076-47.00E, 08-29.87N 076-47.47E,
-      08-28.02N 076-48.98E, 08-27.07N 076-51.17E.
-   B. 08-09.47N 076-12.70E, 08-24.13N 076-07.28E,
-      08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-      07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-      07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
- 2. CANCEL THIS MSG 280800Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180958Z FEB 26
@@ -331,26 +367,6 @@ DNC 06.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>191529Z FEB 26
-HYDROPAC 510/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS:
-   A. 230730Z TO 231130Z FEB IN AREA BOUND BY
-      16-39.50N 086-11.60E, 16-49.30N 086-29.80E,
-      16-33.90N 086-43.00E, 16-24.20N 086-24.90E.
-   B. 230730Z TO 231130Z FEB IN AREA BOUND BY
-      18-29.20N 086-00.90E, 18-28.80N 086-22.10E,
-      18-15.60N 086-08.00E, 18-15.10N 085-46.40E.
-   C. 240230Z TO 240830Z FEB IN AREA BOUND BY
-      17-56.80N 084-16.40E, 17-37.70N 084-27.80E,
-      17-14.60N 083-48.00E, 17-33.40N 083-35.60E.
-2. CANCEL THIS MSG 240930Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>191645Z FEB 26
 HYDROPAC 509/26(63).
 BAY OF BENGAL.
@@ -377,21 +393,6 @@ DNC 03.
    21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
    21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
 2. CANCEL THIS MSG 281530Z FEB 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191439Z FEB 26
-HYDROPAC 507/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 240830Z TO 240930Z FEB
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 241030Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
