@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>240051Z FEB 26
+HYDROLANT 380/26(24).
+NORTH ATLANTIC.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 27 FEB
+   BY M/V RAMFORM ATLAS, M/V THOR FRIGG AND
+   TUG DRS RETUMBANTE TOWING 12 10000 METER
+   LONG CABLES IN AREA BOUND BY
+   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
+   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 280001Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>240040Z FEB 26
+HYDROLANT 379/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT
+   UNTIL 22 AUG.
+2. CANCEL HYDROLANT 365/26.
+3. CANCEL THIS MSG 230001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>232123Z FEB 26
@@ -129,17 +158,6 @@ DNC 01.
    AND M/V PS BARCELONA IN 20-22.57S 040-09.25W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 251900Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>211514Z FEB 26
-HYDROLANT 365/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

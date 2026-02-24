@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>240336Z FEB 26
+HYDROPAC 543/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+MAN OVERBOARD FROM F/V BD 98957 TS 
+IN 11-22.00N 110-02.00E AT 232100Z FEB.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>231645Z FEB 26
