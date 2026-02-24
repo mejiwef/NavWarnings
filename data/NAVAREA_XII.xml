@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>241703Z FEB 26
+NAVAREA XII 123/26(19).
+NORTH PACIFIC.
+HAWAII.
+1. USCG REMOTE COMMUNICATION FACILITY
+   HONOLULU 21-22.0 N 158-09.0 W,
+   MF/HF TRANSMIT AND RECEIVE SERVICES OUTAGE,
+   251830Z THRU 260000Z FEB 26.
+2. CANCEL THIS MSG 260100Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>180058Z FEB 26
@@ -119,7 +132,8 @@ CALIFORNIA
       28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
-2. CANCEL THIS MSG 071343Z MAR 26.</msgText>
+2. CANCEL THIS MSG 071343Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -131,7 +145,8 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 241500Z TO
    260400Z FEB IN AREA WITHIN TWO
    MILES OF 33-48.63N 118-24.84W.
-2. CANCEL THIS MSG 260500Z FEB 26.</msgText>
+2. CANCEL THIS MSG 260500Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -179,7 +194,8 @@ CALIFORNIA.
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
 2. CANCEL NAVAREA XII 92/26.
-3. CANCEL THIS MSG 271343Z FEB 26.</msgText>
+3. CANCEL THIS MSG 271343Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -203,7 +219,8 @@ CALIFORNIA.
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
 2. CANCEL NAVAREA XII 102/26.
-3. CANCEL THIS MSG 021943Z MAR 26.</msgText>
+3. CANCEL THIS MSG 021943Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -231,7 +248,8 @@ BERING SEA.
 ALASKA.
 USCG REMOTE COMMUNICATION FACILITY ST PAUL
 57-10.00N 170-16.00W TRANSMIT AND RECEIVE
-SERVICES INOPERATIVE.</msgText>
+SERVICES INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -242,7 +260,8 @@ BERING SEA.
 ALASKA.
 USCG REMOTE COMMUNICATION FACILITY SHEMYA
 52-43.00N 174-07.00E HF TRANSMIT AND RECEIVE
-SERVICES INOPERATIVE.</msgText>
+SERVICES INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICES</category>

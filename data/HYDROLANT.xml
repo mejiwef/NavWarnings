@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>241326Z FEB 26
+HYDROLANT 384/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+ALPHA STAR ESTABLISHED IN 19-52.13S 039-37.35W.
+CANCEL THIS MSG 081330Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>241108Z FEB 26
@@ -14,7 +25,8 @@ DNC 29.
    C. A85, 68-27.00S 056-34.20W.
    D. D33A, 65-38.40S 057-58.20W.
    E. D33C, 65-58.80S 058-31.80W.
-2.CANCEL THIS MSG 251108Z FEB 26.</msgText>
+2.CANCEL THIS MSG 251108Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -49,7 +61,8 @@ DNC 01.
    02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
    02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280001Z FEB 26.</msgText>
+2. CANCEL THIS MSG 280001Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -62,7 +75,8 @@ DNC 01.
 1. JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT
    UNTIL 22 AUG.
 2. CANCEL HYDROLANT 365/26.
-3. CANCEL THIS MSG 230001Z AUG 26.</msgText>
+3. CANCEL THIS MSG 230001Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -89,16 +103,17 @@ DNC 01, DNC 29.
 2. CANCEL THIS MSG 242123Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FIXED HAZARD</category>
+        <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>231720Z FEB 26
 HYDROLANT 377/26(51).
 NORTH ATLANTIC.
 DNC 08.
-1. SUBMERGED VESSEL IN VICINITY 34-13N 031-16W 
-   AT 231400Z FEB.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   34-13N 031-16W AT 231400Z FEB.
 2. CANCEL HYDROLANT 358/26
-3. CANCEL THIS MSG 261720Z FEB 26.</msgText>
+3. CANCEL THIS MSG 261720Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
