@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>232123Z FEB 26
+HYDROLANT 378/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 01, DNC 29.
+1. ICEBERG REPORTED IN:
+   A. A23A, 46-55.00S 032-43.00W.
+   B. A23K, 51-12.00S 038-17.00W.
+   C. A76C, 59-32.00S 038-24.00W.
+   D. B15AB, 53-34.00S 034-29.00W.
+   E. 50-17.00S 022-51.00W.
+   F. 57-51.00S 035-44.00W.
+   G. 50-11.00S 035-34.00W.
+   H. 51-53.00S 040-17.00W.
+   I. 59-36.00S 049-29.00W.
+   J. 51-38.00S 038-37.00W.
+   K. 51-21.00S 039-56.00W.
+   L. 51-23.00S 040-03.00W.
+2. CANCEL THIS MSG 242123Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>FIXED HAZARD</category>
         <status>INFORCE</status>
         <msgText>231720Z FEB 26
@@ -242,28 +266,6 @@ DNC 20.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>151318Z FEB 26
-HYDROLANT 323/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SURVEY OPERATIONS 16 THRU 23 FEB BY
-   M/V RAMFORM TITAN, M/V DRS IPANEMA,
-   M/V OCEAN MERMAID AND TUG C ITAJAI
-   TOWING 12 9000 METER CABLES
-   IN AREA BOUND BY
-   29-30.21S 046-11.38W, 30-03.20S 046-26.36W,
-   30-18.35S 046-56.28W, 30-17.95S 048-28.19W,
-   29-15.16S 048-06.49W, 27-53.39S 047-19.68W,
-   27-53.32S 045-26.37W, 29-18.40S 045-26.16W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 276/26.
-3. CANCEL THIS MSG 240001Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>150052Z FEB 26
 HYDROLANT 321/26(24).
 SOUTH ATLANTIC.
@@ -349,23 +351,6 @@ DNC 10.
    44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 261400Z FEB 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111458Z FEB 26
-HYDROLANT 297/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 23 FEB
-   BY M/V RAMFORM ATLAS, M/V THOR FRIGG, AND
-   TUG DRS RETUMBANTE TOWING 12 10000 METER
-   LONG CABLES IN AREA BOUND BY
-   02-28.00N 045-06.00W, 02-56.00N 046-42.00W,
-   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
-   SIX MILE WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 282/26.
-3. CANCEL THIS MSG 240001Z FEB 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>

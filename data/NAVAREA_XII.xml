@@ -325,17 +325,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>231430Z JAN 26
-NAVAREA XII 46/26(19).
-NORTH PACIFIC.
-HAWAII.
-USCG REMOTE COMMUNICATION FACILITY HONOLULU
-21-26.00N 158-09.00W TRANSMIT SERVICES OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICES</category>
         <status>INFORCE</status>
         <msgText>132105Z NOV 25

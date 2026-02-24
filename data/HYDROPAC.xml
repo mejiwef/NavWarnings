@@ -78,18 +78,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>222009Z FEB 26
-HYDROPAC 531/26(73).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-RACON AT BRAMBLE CAY 09-08.53S 143-52.56E.
-UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>220144Z FEB 26
@@ -422,23 +410,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190258Z FEB 26
-HYDROPAC 496/26(75).
-BASS STRAIT.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER 
-   NOTICE BY CABLESHIP PETER FABER
-   IN AREA BOUND BY
-   38-26.00S 143-25.00E, 39-23.00S 143-25.00E,
-   39-23.00S 144-30.00E, 38-26.00S 144-30.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 373/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>190132Z Feb 26
@@ -550,21 +521,6 @@ DNC 12.
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
 2. CANCEL THIS MSG 260700Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>132110Z FEB 26
-HYDROPAC 483/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 23 THRU 27 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 272129Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -743,21 +699,6 @@ DNC 03.
    20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
    20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
 2. CANCEL THIS MSG 251230Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>100952Z FEB 26
-HYDROPAC 440/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0943Z TO 1429Z DAILY 18 THRU 24 FEB
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 241529Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
