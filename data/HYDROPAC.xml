@@ -404,7 +404,8 @@ DNC 03.
    IN AREA BOUND BY
    13-09.00N 080-18.00E, 13-02.00N 080-23.00E,
    13-09.00N 080-23.00E, 13-09.00N 080-18.00E.
-2. CANCEL THIS MSG 010001Z MAR 26.</msgText>
+2. CANCEL THIS MSG 010001Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -420,7 +421,8 @@ DNC 03.
    20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
    21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
    21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
-2. CANCEL THIS MSG 281530Z FEB 26.</msgText>
+2. CANCEL THIS MSG 281530Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -435,7 +437,8 @@ DNC 03.
    ALONG TRACKLINE JOINING
    20-08.99N 071-48.24E, 20-08.39N 071-53.14E. 
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 210001Z MAR 26.</msgText>
+2. CANCEL THIS MSG 210001Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -468,7 +471,8 @@ DNC 06.
    59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
    26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
 2. CANCEL HYDROPAC 483/26.
-3. CANCEL THIS MSG 022129Z MAR 26.</msgText>
+3. CANCEL THIS MSG 022129Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -486,7 +490,8 @@ FURTHER NOTICE ALONG TRACKLINE JOINING
 26-06.05N 052-04.78E, 26-06.77N 052-05.58E,
 26-06.69N 052-06.38E, 26-06.85N 052-07.91E,
 26-06.42N 052-08.48E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -530,7 +535,8 @@ DNC 03.
    E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
       18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 210001Z MAR 26.</msgText>
+2. CANCEL THIS MSG 210001Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -548,7 +554,8 @@ DNC 03.
    09-49.34N 093-27.10E, 08-58.39N 092-38.20E,
    08-30.30N 093-08.21E, 08-12.28N 093-47.22E,
    08-51.46N 094-24.91E.
-2. CANCEL THIS MSG 271230Z FEB 26.</msgText>
+2. CANCEL THIS MSG 271230Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -595,7 +602,6 @@ U.A.E.
 DNC 10.
 12.9 METER DEPTHS REPORTED IN BOROUGE CHANNEL
 24-09.00N 052-45.20E.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -685,7 +691,8 @@ DNC 03.
    DAILY 18 AND 25 FEB IN AREA BOUND BY
    11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
    11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 250730Z FEB 26.</msgText>
+2. CANCEL THIS MSG 250730Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -956,7 +963,8 @@ HYDROPAC 379/26(62).
 PERSIAN GULF.
 KUWAIT.
 DNC 10.
-BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.</msgText>
+BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
