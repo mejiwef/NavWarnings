@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>250223Z FEB 26
+HYDROPAC 551/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V SKANDI INVENTOR
+   IN 19-48.50S 114-36.44E.
+   THREE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 456/26(75).</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>241406Z FEB 26
 HYDROPAC 550/26(75).
 BASS STRAIT.
@@ -441,23 +455,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180900Z FEB 26
-HYDROPAC 498/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 24 THRU 26 FEB IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 261400Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>190132Z Feb 26
@@ -660,22 +657,6 @@ DNC 23.
    23-04.34N 123-17.01E, 22-40.98N 123-15.37E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 232/26(94,97).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>132001Z FEB 26
-HYDROPAC 456/26(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V FUGRO ETIVE
-IN AREA BOUND BY
-37-48.10S 148-24.30E, 38-07.70S 148-24.30E,
-38-07.70S 149-04.20E, 37-48.10S 149-04.20E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
