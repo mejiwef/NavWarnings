@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>251444Z FEB 26
+NAVAREA IV 181/26(13).
+NORTH ATLANTIC.
+MASSACHUSETTS.
+USCG REMOTE COMMUNICATION FACILITY BOSTON,
+41-43.00N 070-31.00W,
+TRANSMIT AND RECEIVE SERVICES INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251344Z FEB 26
+NAVAREA IV 180/26(28).
+GULF OF HONDURAS.
+GUATEMALA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 13 MAR,
+IN AREAS BOUND BY
+A. 15-47.14N 088-36.26W, 15-47.19N 088-36.40W,
+   15-42.27N 088-37.71W, 15-42.26N 088-37.05W,
+   15-47.14N 088-36.26W.
+B. 15-51.60N 088-38.10W, 15-51.35N 088-38.80W,
+   15-48.90N 088-35.85W, 15-49.45N 088-35.23W,
+   15-51.60N 088-38.10W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130800Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>240120Z FEB 26
@@ -19,7 +48,8 @@ FLORIDA.
       31-51.00N 076-13.00W, 31-41.00N 076-43.00W.
    B. 28-39.69N 080-38.17W, 28-55.00N 080-20.00W,
       28-46.00N 080-09.00W, 28-28.66N 080-32.15W.
-2. CANCEL THIS MSG 081107Z MAR 26.</msgText>
+2. CANCEL THIS MSG 081107Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVAL OPERATIONS</category>
@@ -82,7 +112,8 @@ NAVAREA IV 175/26(GEN).
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
 9. CANCEL NAVAREA IV 174/26.
-10. CANCEL THIS MSG 260001Z FEB 26.</msgText>
+10. CANCEL THIS MSG 260001Z FEB 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

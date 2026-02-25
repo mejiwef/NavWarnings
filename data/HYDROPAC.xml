@@ -367,21 +367,6 @@ HYDROPAC 523/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>COMBINED OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201705Z FEB 26
-HYDROPAC 521/26(62,63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-1. MISSILE AND GUNNERY OPERATIONS 0300Z TO 1300Z 
-   DAILY 24 AND 25 FEB IN AREA BOUND BY
-   25-12.00N 063-02.00E, 25-12.00N 066-14.00E,
-   23-32.00N 066-14.00E, 23-32.00N 063-02.00E.
-2. CANCEL THIS MSG 251400Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201320Z FEB 26
@@ -792,21 +777,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131032Z FEB 26
-HYDROPAC 445/26(63).
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0230Z TO 1130Z 
-   DAILY 18 THRU 25 FEB IN AREA BOUND BY
-   20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
-   20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
-2. CANCEL THIS MSG 251230Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>122041Z FEB 26
@@ -973,24 +943,6 @@ DNC 12.
    16-46.00N 163-19.00E, 16-18.00N 159-31.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 338/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091043Z FEB 26
-HYDROPAC 388/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 0830Z 
-   DAILY 13 THRU 20, 240900Z TO 241800Z, 
-   AND 250030Z TO 251230Z FEB
-   IN AREA BOUND BY
-   17-45.00N 083-26.90E, 17-45.00N 083-21.33E,
-   17-43.44N 083-20.82E, 17-42.24N 083-18.56E,
-   17-40.00N 083-17.53E, 17-40.00N 083-26.90E.
-2. CANCEL THIS MSG 251330Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
