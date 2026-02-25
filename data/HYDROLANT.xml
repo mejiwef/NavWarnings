@@ -3,6 +3,47 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>251122Z FEB 26
+HYDROLANT 387/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-46.20S 058-22.80W.
+   B. A84, 71-42.00S 101-16.80W.
+   C. A85, 68-27.00S 056-34.20W.
+   D. D33A, 65-38.40S 057-58.20W.
+   E. D33C, 65-58.80S 058-31.80W.
+2. CANCEL THIS MSG 261122Z FEB 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250916Z FEB 26
+HYDROLANT 386/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01, DNC 07.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   02 MAR BY TUG M AVEIRO, M/V LINDE G, 
+   M/V RAMFORM TETHYS AND M/V THOR FREYJA
+   IN AREA BOUND BY
+   35-44.87S 050-08.40W, 34-38.48S 051-57.67W,
+   34-37.45S 051-59.33W, 34-17.50S 051-37.52W,
+   34-11.12S 051-36.78W, 33-39.62S 051-03.57W,
+   33-36.67S 050-50.75W, 33-21.15S 050-33.95W,
+   33-06.57S 050-28.97W, 32-20.55S 050-13.68W,
+   31-31.38S 049-50.21W, 31-17.97S 049-36.60W,
+   30-58.95S 049-17.43W, 30-54.78S 049-13.43W,
+   32-30.78S 046-56.58W, 33-16.67S 047-35.42W,
+   34-35.98S 048-55.78W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>242355Z FEB 26
 HYDROLANT 385/26(23,29).
 SCOTIA SEA.
@@ -33,23 +74,6 @@ BRAZIL.
 DNC 01.
 ALPHA STAR ESTABLISHED IN 19-52.13S 039-37.35W.
 CANCEL THIS MSG 081330Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241108Z FEB 26
-HYDROLANT 383/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-46.20S 058-22.80W.
-   B. A84, 71-42.00S 101-16.80W.
-   C. A85, 68-27.00S 056-34.20W.
-   D. D33A, 65-38.40S 057-58.20W.
-   E. D33C, 65-58.80S 058-31.80W.
-2.CANCEL THIS MSG 251108Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
