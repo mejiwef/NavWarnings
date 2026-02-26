@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>092011Z FEB 26
+NAVAREA XII 128/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 032230Z TO 040100Z MAR
+   IN AREA WITHIN ONE MILE OF 33-01.73N 118-35.32W.
+2. CANCEL THIS MSG 040200Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>201716Z FEB 26
+NAVAREA XII 127/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 031058Z TO 031522Z MAR, ALTERNATE 
+      1530Z TO 1954Z DAILY 04 AND 05 MAR 
+      AND 1058Z TO 1522Z DAILY 06 THRU 09 MAR 
+      IN AREA BOUND BY
+      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
+      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
+      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
+   B. 031058Z TO 031541Z MAR, ALTERNATE 
+      1530Z TO 2013Z DAILY 04 AND 05 MAR 
+      AND 1058Z TO 1541Z DAILY 06 THRU 09 MAR 
+      IN AREA BOUND BY
+      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
+      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
+      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
+      28-48.00N 121-25.00W.
+2. CANCEL THIS MSG 091641Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>252329Z FEB 26
