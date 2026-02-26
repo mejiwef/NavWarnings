@@ -666,25 +666,6 @@ TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>162317Z JAN 26
-HYDROLANT 103/26(57).
-GULF OF GUINEA.
-NIGERIA.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 08 MAR 
-   BY M/V SW DUCHESS TOWING EIGHT 8100 METER LONG
-   CABLES IN AREA BOUND BY
-   05-58.90N 004-40.30E, 06-09.00N 004-27.80E,
-   05-55.40N 004-00.10E, 05-24.30N 004-19.80E,
-   04-51.60N 004-48.00E, 05-09.10N 005-12.40E,
-   05-58.90N 004-40.30E.
-   EIGHT MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 080001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>152345Z JAN 26

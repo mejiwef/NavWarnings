@@ -27,20 +27,6 @@ COLD BAY 55-11.00N 162-42.00W. HF TRANSMIT
 AND RECEIVE SERVICES OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>250432Z FEB 26
-NAVAREA XII 124/26(19).
-NORTH PACIFIC.
-HAWAII.
-1. USCG REMOTE COMMUNICATION FACILITY 
-   HONOLULU 21-26.00N 158-09.00W TRANSMIT 
-   SERVICES UNRELIABLE 251830Z TO 260001Z FEB.
-2. CANCEL NAVAREA XII 123/26.
-3. CANCEL THIS MSG 260101Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>180058Z FEB 26
@@ -145,43 +131,6 @@ CALIFORNIA
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
 2. CANCEL THIS MSG 071343Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>192006Z FEB 26
-NAVAREA XII 114/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 241500Z TO
-   260400Z FEB IN AREA WITHIN TWO
-   MILES OF 33-48.63N 118-24.84W.
-2. CANCEL THIS MSG 260500Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210025Z JAN 26
-NAVAREA XII 113/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 241500Z TO 260400Z FEB
-   IN 33-01.85N 118-34.76W.
-2. CANCEL THIS MSG 260500Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130259Z FEB 26
-NAVAREA XII 112/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 241500Z TO 260400Z FEB
-   IN AREA WITHIN ONE MILE OF 32-48.63N 118-24.84W.
-2. CANCEL THIS MSG 260500Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
