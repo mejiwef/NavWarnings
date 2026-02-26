@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>252329Z FEB 26
+NAVAREA XII 126/26(22).
+SOUTH PACIFIC.
+ECUADOR.
+1. CABLE OPERATIONS IN PROGRESS 26 FEB UNTIL
+   FURTHER NOTICE BY CABLESHIP ILE DE SEIN
+   IN AREA BOUND BY
+   02-10.90S 081-12.90W, 02-24.10S 081-22.80W,
+   01-06.50S 081-35.70W, 01-06.00S 082-12.00W,
+   01-34.50N 080-37.70W, 01-33.40N 080-08.10W.
+   WIDE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 118/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>252035Z FEB 26
+NAVAREA XII 125/26(16).
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY
+COLD BAY 55-11.00N 162-42.00W. HF TRANSMIT
+AND RECEIVE SERVICES OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>250432Z FEB 26
@@ -67,21 +93,6 @@ CALIFORNIA.
    D. 28-36.00N 121-30.00W, 29-00.00N 122-24.00W,
       23-11.99N 128-00.00W, 22-48.00N 127-05.99W.
 3. CANCEL THIS MSG 100455Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211840Z FEB 26
-NAVAREA XII 118/26(22).
-SOUTH PACIFIC.
-ECUADOR.
-1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-   BY CABLESHIP ILE DE SEIN ALONG TRACKLINE JOINING
-   02-23.04S 081-00.48W, 02-17.51S 081-18.05W,
-   02-14.35S 081-16.80W, 02-19.63S 081-00.39W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 91/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

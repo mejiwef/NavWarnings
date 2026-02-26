@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251935Z FEB 26
+HYDROLANT 391/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN:
+   A. A23A, 47-02.00S 032-04.00W.
+   B. A23K, 51-21.00S 037-20.00W.
+   C. A76C, 59-30.00S 038-12.00W.
+   D. B15AB, 53-36.00S 034-17.00W.
+   E. 50-11.00S 023-11.00W.
+   F. 57-52.00S 035-23.00W.
+   G. 49-56.00S 035-47.00W.
+   H. 51-53.00S 040-21.00W.
+   I. 59-26.00S 049-42.00W.
+   J. 51-36.00S 038-07.00W.
+   K. 51-02.00S 040-05.00W.
+   L. 51-09.00S 040-03.00W.
+2. CANCEL THIS MSG 261935Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>251813Z FEB 26
+HYDROLANT 390/26(37).
+ENGLISH CHANNEL.
+FRANCE.
+DNC 20.
+CASQUETS LIGHT RACON 49-43.3N 002-22.6W, 
+INOPERATIVE. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251645Z FEB 26
@@ -13,7 +49,8 @@ DNC 19.
    A. 27 MILES OF 57-27.50N 008-20.50W.
    B. 20 MILES OF 57-43.50N 008-58.80W.
 2. CANCEL HYDROLANT 376/26
-3. CANCEL THIS MSG 071900Z MAR 26.</msgText>
+3. CANCEL THIS MSG 071900Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -68,30 +105,6 @@ DNC 01, DNC 07.
    34-35.98S 048-55.78W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>242355Z FEB 26
-HYDROLANT 385/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERG REPORTED IN:
-   A. A23A, 46-55.00S 032-43.00W.
-   B. A23K, 51-17.00S 037-44.00W.
-   C. A76C, 59-33.00S 038-19.00W.
-   D. B15AB, 53-36.00S 034-17.00W.
-   E. 50-13.00S 023-06.00W.
-   F. 57-49.00S 035-36.00W.
-   G. 49-59.00S 035-40.00W.
-   H. 51-53.00S 040-21.00W.
-   I. 59-32.00S 049-36.00W.
-   J. 51-36.00S 038-07.00W.
-   K. 51-09.00S 039-58.00W.
-   L. 51-16.00S 040-06.00W.
-2. CANCEL THIS MSG 252355Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -217,22 +230,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>220049Z FEB 26
-HYDROLANT 368/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   22 THRU 25 FEB BY M/V ZHONG CHANG, 
-   M/V ZHOU SHAN, M/V OBRIGADO SENHOR III
-   AND M/V PS BARCELONA IN 20-22.57S 040-09.25W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 251900Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>201814Z FEB 26
@@ -263,21 +260,6 @@ HYDROLANT 359/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 311/26, 348/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201658Z FEB 26
-HYDROLANT 356/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 07.
-1. HAZARDOUS OPERATIONS 232300Z THRU 252300Z FEB
-   IN AREA BOUND BY
-   32-22.40S 052-12.40W, 32-30.40S 052-14.10W,
-   32-32.20S 052-06.20W, 32-22.40S 052-12.40W.
-2. CANCEL THIS MSG 260001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
