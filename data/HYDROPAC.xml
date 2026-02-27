@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271027Z FEB 26
+HYDROPAC 585/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. SURVEY OPERATIONS 01 THRU 31 MAR 
+   BY M/V VANESSA 7 IN AREA BOUND BY
+   19-24.65N 071-13.07E, 19-29.83N 071-19.49E,
+   19-38.00N 071-21.73E, 20-08.99N 071-48.25E,
+   20-14.62N 072-05.77E, 19-11.99N 072-11.00E,
+   19-07.79N 071-59.92E, 19-00.48N 072-09.07E,
+   18-45.23N 072-18.00E, 18-24.56N 070-39.65E,
+   19-18.55N 071-27.53E, 19-18.85N 071-24.94E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271015Z FEB 26
+HYDROPAC 583/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 01 THRU 31 MAR 
+   BY TUG AHT BRITOIL 71 
+   ALONG TRACKLINE JOINING
+   20-02.96N 071-45.71E, 19-31.78N 071-18.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201018Z FEB 26
+HYDROPAC 582/26(81).
+NORTH PACIFIC.
+MARSHALL ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 040700Z TO 041434Z MAR, 
+   ALTERNATE 050700Z TO 051434Z MAR
+   IN AREAS BOUND BY:
+   A. 09-23.00N 167-33.00E, 09-33.00N 167-28.00E,
+      09-45.00N 167-33.00E, 10-07.00N 168-01.00E,
+      10-35.00N 168-47.00E, 10-17.00N 168-58.00E,
+      09-35.00N 168-51.00E, 09-22.00N 168-29.00E,
+      09-07.00N 167-56.00E, 08-57.00N 167-33.00E,
+      09-16.00N 167-20.00E.
+   B. 08-51.00N 164-15.00E, 09-12.00N 165-06.00E,
+      08-19.00N 166-08.00E, 07-08.00N 166-31.00E,
+      06-42.00N 165-35.00E, 07-40.00N 164-43.00E.
+2. CANCEL THIS MSG 051534Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270428Z FEB 26
@@ -373,27 +432,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>241022Z FEB 26
-HYDROPAC 548/26(63).
-INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   280530Z TO 280700Z FEB IN AREAS BOUND BY:
-   A. 08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-      08-32.20N 076-47.00E, 08-29.87N 076-47.47E,
-      08-28.02N 076-48.98E, 08-27.07N 076-51.17E.
-   B. 08-09.47N 076-12.70E, 08-24.13N 076-07.28E,
-      08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-      07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-      07-34.50N 076-03.45E, 07-57.52N 076-22.87E.
-2. CANCEL HYDROPAC 519/26.
-3. CANCEL THIS MSG 280800Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>240853Z FEB 26
@@ -455,36 +493,6 @@ QATAR.
 DNC 10.
 WAVE RIDER BUOY, FL 5 Y 10 SEC, TEMPORARILY
 ESTABLISHED IN 26-39.57N 051-57.22E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231033Z FEB 26
-HYDROPAC 538/26(63).
-ARABIAN SEA.
-LAKSHADWEEP.
-DNC 03.
-1. HAZARDOUS OPERATIONS 270130Z TO 271030Z FEB
-   IN AREA BOUND BY
-   08-16.70N 073-00.60E, 08-16.64N 073-00.70E,
-   08-15.18N 072-59.88E, 08-16.20N 072-59.00E.
-2. CANCEL THIS MSG 271130Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231024Z FEB 26
-HYDROPAC 537/26(63).
-INDIAN OCEAN.
-LAKSHADWEEP.
-DNC 03.
-1. HAZARDOUS OPERATIONS 270130Z TO 270730Z FEB
-   IN AREA BOUND BY
-   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
-   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
-2. CANCEL THIS MSG 270830Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1109,21 +1117,6 @@ DNC 12.
    16-46.00N 163-19.00E, 16-18.00N 159-31.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 338/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091031Z FEB 26
-HYDROPAC 386/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0330Z TO 1030Z DAILY
-   12, 13, 19, 20, 26 AND 27 FEB IN AREA BOUND BY
-   10-20.00N 075-00.00E, 10-50.00N 075-00.00E,
-   10-50.00N 075-35.00E, 10-20.00N 075-35.00E.
-2. CANCEL THIS MSG 271130Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
