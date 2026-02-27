@@ -3,6 +3,81 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>270428Z FEB 26
+HYDROPAC 581/26(76).
+TASMAN SEA.
+NEW ZEALAND.
+DNC 06.
+1. HAZARDOUS OPERATIONS 281800Z FEB TO 270400Z MAR
+   IN AREA WITHIN THREE MILES OF 36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 270500Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>270410Z FEB 26
+HYDROPAC 580/26(92).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES IN PROGRESS 
+   UNTIL 281600Z FEB IN AREA BOUND BY
+   06-40.24N 125-45.29E, 06-40.30N 125-50.39E,
+   06-35.26N 125-50.60E, 06-35.18N 125-45.50E.
+2. CANCEL THIS MSG 281700Z FEB 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>262111Z FEB 26
+HYDROPAC 579/26(76).
+SOUTH PACIFIC.
+NEW ZEALAND.
+DNC 06.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   04 THRU 22 MAR IN AREA BOUND BY
+   39-18.00S 177-42.00E, 39-12.00S 177-49.00E,
+   39-12.00S 177-57.00E, 39-12.00S 178-12.00E,
+   39-24.00S 178-42.00E, 39-30.00S 178-36.00E,
+   39-24.00S 177-54.00E.
+2. CANCEL THIS MSG 230001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>262041Z FEB 26
+HYDROPAC 578/26(76,83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   04 THRU 22 MAR IN AREAS BOUND BY:
+   A. 39-42.00S 176-18.00W, 40-36.00S 172-00.00W,
+      41-48.00S 172-24.00W, 40-54.00S 176-54.00W.
+   B. 41-24.00S 164-00.00W, 41-30.00S 157-48.00W,
+      42-36.00S 157-42.00W, 42-30.00S 164-06.00W.
+2. CANCEL THIS MSG 230001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY</category>
+        <status>INFORCE</status>
+        <msgText>270040Z FEB 26
+HYDROPAC 577/26(71).
+SOUTH CHINA SEA.
+INDONESIA.
+DNC 03.
+1. M/V BOARDED BY FIVE PIRATES IN
+   01-02.04N 103-39.65E AT 261834Z FEB.
+2. CANCEL THIS MSG 020040Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>261947Z FEB 26
 HYDROPAC 574/26(63).
 BAY OF BENGAL.

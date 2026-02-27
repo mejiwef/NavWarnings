@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>270025Z FEB 26
-NAVAREA XII 131/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-CANCEL NAVAREA XII 105/26 AND THIS MSG,
-OPERATIONS COMPLETED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>262336Z FEB 26
@@ -247,23 +236,6 @@ CALIFORNIA.
       28-48.00N 121-25.00W.
 2. CANCEL NAVAREA XII 102/26.
 3. CANCEL THIS MSG 021943Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181749Z FEB 26
-NAVAREA XII 105/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1400Z TO 0200Z DAILY
-   23 THRU 28 FEB, ALTERNATE 281400Z TO 010200Z MAR
-   IN AREA BOUND BY
-   32-56.56N 119-57.08W, 33-28.35N 120-40.31W,
-   33-43.59N 120-29.36W, 33-55.30N 119-38.52W,
-   33-51.04N 119-11.58W, 33-28.48N 119-08.17W,
-   33-02.01N 119-18.58W. 
-2. CANCEL THIS MSG 010300Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

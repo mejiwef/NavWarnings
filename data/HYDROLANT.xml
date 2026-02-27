@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>270057Z FEB 26
+HYDROLANT 397/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SCIENTIFIC BOUY, YELLOW, FL Y 20 SEC
+   ESTABLISHED IN 27-24.38S 047-15.92W.
+   UNTIL 25 AUG.
+2. CANCEL THIS MSG 260001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>261730Z FEB 26
