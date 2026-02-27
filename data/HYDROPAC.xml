@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>261757Z FEB 26
-HYDROPAC 573/26(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-USCG STATION GUAM (V) 13-29.00N 144-50.00E
-NAVTEX AND VOBRA HF SERVICES INOPERATIVE.
-
-
+        <msgText>261947Z FEB 26
+HYDROPAC 574/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
+   28 FEB THRU 04 MAR IN AREA BOUND BY
+   17-58.90N 084-11.70E, 17-49.50N 083-59.60E,
+   17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
+2. CANCEL THIS MSG 041130Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -585,21 +586,6 @@ ALONG TRACKLINE JOINING
 39-25.00S 148-37.20E, 39-36.60S 146-32.80E,
 38-26.60S 144-29.00E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>192234Z FEB 26
-HYDROPAC 511/26(75).
-TASMAN SEA.
-DNC 06.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL FURTHER NOTICE BY M/V LAYLA
-   ALONG TRACKLINE JOINING
-   36-21.88S 162-30.27E, 35-54.18S 158-58.80E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 474/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

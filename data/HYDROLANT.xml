@@ -62,42 +62,6 @@ DNC 29.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>251935Z FEB 26
-HYDROLANT 391/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 47-02.00S 032-04.00W.
-   B. A23K, 51-21.00S 037-20.00W.
-   C. A76C, 59-30.00S 038-12.00W.
-   D. B15AB, 53-36.00S 034-17.00W.
-   E. 50-11.00S 023-11.00W.
-   F. 57-52.00S 035-23.00W.
-   G. 49-56.00S 035-47.00W.
-   H. 51-53.00S 040-21.00W.
-   I. 59-26.00S 049-42.00W.
-   J. 51-36.00S 038-07.00W.
-   K. 51-02.00S 040-05.00W.
-   L. 51-09.00S 040-03.00W.
-2. CANCEL THIS MSG 261935Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>251813Z FEB 26
-HYDROLANT 390/26(37).
-ENGLISH CHANNEL.
-FRANCE.
-DNC 20.
-CASQUETS LIGHT RACON 49-43.3N 002-22.6W, 
-INOPERATIVE. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251645Z FEB 26
@@ -314,19 +278,6 @@ DNC 08, DNC 09.
    37-00.00N 020-45.00E, 36-00.00N 022-30.00E,
    35-00.00N 023-00.00E.
 2. CANCEL THIS MSG 070001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191010Z FEB 26
-HYDROLANT 347/26(24).
-SOUTH ATLANTIC.
-DNC 01.
-1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
-   DAILY 24 THRU 26 FEB IN AREA WITHIN 
-   TEN MILES OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 262200Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
