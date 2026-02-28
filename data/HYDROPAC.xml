@@ -1,15 +1,130 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>280000Z FEB 26
-HYDROPAC 594/26(57,61,71).
-INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-CANCEL HYDROPAC 546/26 AND THIS MSG,
-OPEATIONS COMPLETED.</msgText>
+        <msgText>280516Z FEB 26
+HYDROPAC 602/26(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+DOUBLE ISLAND POINT LIGHT 25-55.91S 153-11.45E 
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280422Z FEB 26
+HYDROPAC 601/26(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 041300Z TO 042300Z MAR
+   IN AREA BOUND BY
+   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
+   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
+2. CANCEL THIS MSG 050001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>280412Z FEB 26
+HYDROPAC 600/26(22).
+SOUTH PACIFIC.
+DNC 07.
+1. IQUIQUE DART BUOY II ADRIFT 
+   IN 20-41.74S 073-16.23W.
+2. CANCEL THIS MSG 030412Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280405Z FEB 26
+HYDROPAC 599/26(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0300Z TO 1200Z DAILY
+   03 AND 04 MAR IN AREA BOUND BY
+   24-48.41N 066-57.36E, 24-42.80N 066-51.26E,
+   24-44.37N 066-49.70E, 24-45.80N 066-48.96E,
+   24-48.26N 066-48.55E.
+2. CANCEL THIS MSG 041300Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>280355Z FEB 26
+HYDROPAC 598/26(62).
+PERSIAN GULF.
+IRAN.
+DNC 10.
+ODAS BUOY RELOCATED TO 28-49.63N 050-42.93E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280341Z FEB 26
+HYDROPAC 597/26(62,63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03, DNC 10.
+1. HAZARDOUS OPERATIONS 0300Z TO 1900Z DAILY
+   02 THRU 06, 09 THRU 13, 16 THRU 20, 23 THRU 27
+   AND 30 THRU 31 MAR IN AREAS BOUND BY:
+   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
+      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
+   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
+      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
+   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
+      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
+   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
+      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
+2. CANCEL THIS MSG 312000Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271009Z FEB 26
+HYDROPAC 596/26(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0400Z TO 0600Z 
+   AND 0830Z TO 1030Z DAILY 05, 12 AND 
+   19 MAR IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 191130Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280040Z FEB 26
+HYDROPAC 595/26(81).
+NORTH PACIFIC.
+MARSHALL ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 040700Z TO 041434Z MAR,
+   ALTERNATE 050700Z TO 051434Z MAR
+   IN AREAS BOUND BY:
+   A. 09-23.00N 167-33.00E, 09-33.00N 167-28.00E,
+      09-45.00N 167-33.00E, 10-07.00N 168-01.00E,
+      10-35.00N 168-47.00E, 10-17.00N 168-58.00E,
+      09-35.00N 168-51.00E, 09-22.00N 168-29.00E,
+      09-07.00N 167-56.00E, 08-57.00N 167-33.00E,
+      09-16.00N 167-20.00E.
+   B. 08-51.00N 164-15.00E, 09-12.00N 165-06.00E,
+      08-19.00N 166-08.00E, 07-08.00N 166-31.00E,
+      06-42.00N 165-35.00E, 07-40.00N 164-43.00E.
+2. CANCEL THIS MSG 051534Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
