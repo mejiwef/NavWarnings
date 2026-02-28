@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>281617Z FEB 26
+HYDROLANT 407/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN:
+   A. A23A, 47-11.00S 031-50.00W.
+   B. A23K, 51-24.00S 036-36.00W.
+   C. A76C, 59-27.00S 037-57.00W.
+   D. B15AB, 53-37.00S 033-58.00W.
+   E. 50-07.00S 023-16.00W.
+   F. 58-05.00S 035-45.00W.
+   G. 51-53.00S 040-21.00W.
+   H. 59-11.00S 049-38.00W.
+   I. 51-35.00S 037-42.00W.
+   J. 51-02.00S 040-05.00W.
+   K. 51-09.00S 040-03.00W.
+   L. 58-04.00S 035-49.00W.
+   M. 48-05.00S 032-42.00W.
+2. CANCEL THIS MSG 011617Z MAR 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>281217Z FEB 26
+HYDROLANT 406/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-45.00S 058-16.80W.
+   B. A84, 72-21.00S 103-46.80W.
+   C. A85, 68-33.00S 056-36.00W.
+   D. D33A, 65-44.40S 057-52.80W.
+   E. D33C, 66-02.40S 058-31.20W.
+2. CANCEL THIS MSG 011217Z MAR 26.
+
+
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>271904Z FEB 26
@@ -55,30 +102,6 @@ EMAIL: TUNISIANAVY@DEFENSE.TN,
 MRCCTUNIS@DEFENSE.TN, TUNISMOC@DEFENSE.TN
 OR MRCC ROME, PHONE: 390 6592 4145, 3906 5908 4409,
 EMAIL: ITMRCC@MIT.GOV.IT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>271529Z FEB 26
-HYDROLANT 401/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 47-11.00S 031-50.00W.
-   B. A23K, 51-22.00S 037-08.00W.
-   C. A76C, 59-28.00S 038-03.00W.
-   D. B15AB, 53-38.00S 034-03.00W.
-   E. 50-07.00S 023-16.00W.
-   F. 57-53.00S 035-23.00W.
-   G. 49-55.00S 035-49.00W.
-   H. 51-53.00S 040-21.00W.
-   I. 59-19.00S 049-44.00W.
-   J. 51-35.00S 037-42.00W.
-   K. 51-02.00S 040-05.00W.
-   L. 51-09.00S 040-03.00W.
-2. CANCEL THIS MSG 281529Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

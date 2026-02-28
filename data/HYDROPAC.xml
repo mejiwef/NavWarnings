@@ -347,22 +347,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>270410Z FEB 26
-HYDROPAC 580/26(92).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS 
-   UNTIL 281600Z FEB IN AREA BOUND BY
-   06-40.24N 125-45.29E, 06-40.30N 125-50.39E,
-   06-35.26N 125-50.60E, 06-35.18N 125-45.50E.
-2. CANCEL THIS MSG 281700Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>262111Z FEB 26
@@ -477,21 +461,6 @@ DNC 03.
    15-30.00N 072-15.00E, 16-00.00N 072-15.00E,
    16-00.00N 072-45.00E, 15-30.00N 072-45.00E.
 2. CANCEL THIS MSG 011630Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261038Z FEB 26
-HYDROPAC 567/26(63).
-INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 280430Z TO 281130Z FEB
-   IN AREA BOUND BY
-   08-30.00N 075-05.00E, 09-00.00N 075-05.00E,
-   09-00.00N 075-35.00E, 08-30.00N 075-35.00E.
-2. CANCEL THIS MSG 281230Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -898,23 +867,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191517Z FEB 26
-HYDROPAC 508/26(63).
-BAY OF BENGAL.
-BANGLADESH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 240330Z TO 281430Z FEB
-   IN AREA BOUND BY
-   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
-   21-31.00N 087-42.00E, 21-41.00N 087-45.00E,
-   21-31.20N 087-07.20E, 21-11.40N 086-49.20E.
-2. CANCEL THIS MSG 281530Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191156Z FEB 26
@@ -1281,21 +1233,6 @@ UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091155Z FEB 26
-HYDROPAC 390/26(81).
-NORTH PACIFIC.
-DNC 12.
-1. CABLE OPERATIONS 10 FEB UNTIL FURTHER NOTICE 
-   BY M/V GRACE IN VICINITY OF TRACKLINE JOINING
-   16-20.20N 167-57.10E, 16-00.70N 165-50.00E,
-   16-46.00N 163-19.00E, 16-18.00N 159-31.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 338/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>081406Z FEB 26
@@ -1559,30 +1496,6 @@ DNC 03.
    20-36.02N 072-02.23E, 20-10.38N 072-29.69E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281013Z JAN 26
-HYDROPAC 255/26(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0001Z TO 1600Z DAILY
-   01 THRU 28 FEB EXCEPT FRIDAYS AND SATURDAYS
-   IN AREAS BOUND BY:
-   A. 21-20.83N 091-28.00E, 21-41.00N 091-14.00E,
-      21-20.83N 090-34.00E, 21-00.00N 090-47.83E.
-   B. 20-22.00N 091-06.00E, 20-07.00N 090-52.00E,
-      19-44.00N 091-21.00E, 20-00.00N 091-36.00E.
-   C. 20-24.00N 091-59.00E, 20-46.50N 091-31.00E,
-      20-22.00N 091-06.00E, 20-00.00N 091-36.00E.
-   D. 21-18.00N 089-50.00E, 21-18.00N 089-31.00E,
-      21-04.00N 089-34.00E, 21-04.00N 089-54.00E.
-   E. 20-58.00N 089-54.00E, 20-58.00N 089-34.00E,
-      20-34.00N 089-34.00E, 20-34.00N 089-54.00E.
-2. CANCEL THIS MSG 281700Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
