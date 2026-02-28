@@ -1521,23 +1521,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>301454Z JAN 26
-HYDROPAC 291/26(96).
-SEA OF JAPAN.
-RUSSIA.
-DNC 23, DNC 24.
-1. GUNNERY EXERCISES 2200Z TO 0900Z DAILY
-   01 THUR 06, 08 THRU 13, 15 THRU 20 AND
-   22 THRU 27 FEB IN AREA BOUND BY
-   42-40.00N 131-41.00E, 42-40.00N 131-57.00E,
-   42-38.50N 132-15.00E, 42-15.00N 132-15.00E,
-   42-15.00N 131-41.00E.
-2. CANCEL THIS MSG 281000Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301336Z JAN 26
@@ -1600,20 +1583,6 @@ DNC 03.
    E. 20-58.00N 089-54.00E, 20-58.00N 089-34.00E,
       20-34.00N 089-34.00E, 20-34.00N 089-54.00E.
 2. CANCEL THIS MSG 281700Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>271259Z JAN 26
-HYDROPAC 248/26(97).
-NORTH PACIFIC.
-DNC 12.
-1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
-   31 JAN THRU 27 FEB IN AREA BOUND BY
-   28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
-   25-00.26N 145-35.80E, 27-55.25N 144-57.80E.
-2. CANCEL THIS MSG 281000Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

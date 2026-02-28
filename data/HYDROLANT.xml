@@ -82,23 +82,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>271150Z FEB 26
-HYDROLANT 399/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-46.20S 058-22.80W.
-   B. A84, 71-42.00S 101-16.80W.
-   C. A85, 68-27.00S 056-34.20W.
-   D. D33A, 65-38.40S 057-58.20W.
-   E. D33C, 65-58.80S 058-31.80W.
-2. CANCEL THIS MSG 281150Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271115Z FEB 26
