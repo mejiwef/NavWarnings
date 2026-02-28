@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>280000Z FEB 26
+HYDROLANT 405/26(57,61,71).
+INDIAN OCEAN.
+SOUTH ATLANTIC.
+DNC 01, DNC 02, DNC 03.
+CANCEL HYDROLANT 382/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>271904Z FEB 26
+HYDROLANT 404/26(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+OUKACHA LIGHT 33-36.90N 007-33.70W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>271734Z FEB 26
@@ -167,42 +188,6 @@ BRAZIL.
 DNC 01.
 ALPHA STAR ESTABLISHED IN 19-52.13S 039-37.35W.
 CANCEL THIS MSG 081330Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>240757Z FEB 26
-HYDROLANT 382/26(57,61,71).
-INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   011057Z TO 011604Z, 021031Z TO 021538Z,
-   031005Z TO 031512Z, 040939Z TO 041446Z
-   AND 050913Z TO 051420Z MAR
-   IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 051520Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240051Z FEB 26
-HYDROLANT 380/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 27 FEB
-   BY M/V RAMFORM ATLAS, M/V THOR FRIGG AND
-   TUG DRS RETUMBANTE TOWING 12 10000 METER
-   LONG CABLES IN AREA BOUND BY
-   02-36.00N 047-42.00W, 01-13.00N 046-27.00W,
-   02-28.00N 045-06.00W, 02-56.00N 046-42.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280001Z FEB 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
