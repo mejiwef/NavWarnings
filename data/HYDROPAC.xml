@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OVERDUE</category>
+        <status>INFORCE</status>
+        <msgText>010548Z MAR 26
+HYDROPAC 605/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+TUG FALCON 18, SIX PERSONS ON BOARD, TOWING 
+M/V PHUC ANH 145, TWO PERSONS ON BOARD, UNREPORTED. 
+LAST KNOWN POSITION IN VICINITY 10-12.00N 113-00.00E 
+AT 280017Z FEB. VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>281933Z FEB 26

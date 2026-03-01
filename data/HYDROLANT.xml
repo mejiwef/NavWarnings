@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010336Z MAR 26
+HYDROLANT 408/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 060001Z TO 072359Z MAR
+   IN AREA BOUND BY
+   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
+   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
+2. CANCEL THIS MSG 080100Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>281617Z FEB 26
