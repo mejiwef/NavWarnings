@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011114Z MAR 26
+HYDROLANT 409/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN:
+   A. A81, 64-45.00S 058-16.80W.
+   B. A84, 72-21.00S 103-46.80W.
+   C. A85, 68-33.00S 056-36.00W.
+   D. D33A, 65-44.40S 057-52.80W.
+   E. D33C, 66-02.40S 058-31.20W.
+2. CANCEL THIS MSG 021124Z MAR 26.
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>010336Z MAR 26
