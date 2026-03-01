@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>011755Z MAR 26
+HYDROLANT 411/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   32-39.00N 031-33.00W AT 010319Z MAR.
+2. CANCEL HYDROLANT 395/26.
+3. CANCEL THIS MSG 041755Z MAR 26.
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011717Z MAR 26
+HYDROLANT 410/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN:
+   A. A23A, 47-48.00S 032-04.00W.
+   B. A23K, 51-21.00S 036-17.00W.
+   C. A76C, 59-26.00S 037-50.00W.
+   D. B15AB, 53-38.00S 033-50.00W.
+   E. 49-57.00S 023-15.00W.
+   F. 58-06.00S 035-44.00W.
+   G. 51-49.00S 040-35.00W.
+   H. 59-05.00S 049-30.00W.
+   I. 50-22.00S 039-34.00W.
+   J. 58-05.00S 035-46.00W.
+   K. 48-23.00S 033-18.00W.
+2. CANCEL THIS MSG 021717Z MAR 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>011114Z MAR 26
@@ -32,53 +71,6 @@ DNC 01.
    23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
    23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
 2. CANCEL THIS MSG 080100Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281617Z FEB 26
-HYDROLANT 407/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 47-11.00S 031-50.00W.
-   B. A23K, 51-24.00S 036-36.00W.
-   C. A76C, 59-27.00S 037-57.00W.
-   D. B15AB, 53-37.00S 033-58.00W.
-   E. 50-07.00S 023-16.00W.
-   F. 58-05.00S 035-45.00W.
-   G. 51-53.00S 040-21.00W.
-   H. 59-11.00S 049-38.00W.
-   I. 51-35.00S 037-42.00W.
-   J. 51-02.00S 040-05.00W.
-   K. 51-09.00S 040-03.00W.
-   L. 58-04.00S 035-49.00W.
-   M. 48-05.00S 032-42.00W.
-2. CANCEL THIS MSG 011617Z MAR 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281217Z FEB 26
-HYDROLANT 406/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-45.00S 058-16.80W.
-   B. A84, 72-21.00S 103-46.80W.
-   C. A85, 68-33.00S 056-36.00W.
-   D. D33A, 65-44.40S 057-52.80W.
-   E. D33C, 66-02.40S 058-31.20W.
-2. CANCEL THIS MSG 011217Z MAR 26.
-
-
-
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -166,19 +158,6 @@ DNC 01.
    ESTABLISHED IN 27-24.38S 047-15.92W.
    UNTIL 25 AUG.
 2. CANCEL THIS MSG 260001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>261730Z FEB 26
-HYDROLANT 395/26(51).
-NORTH ATLANTIC.
-DNC 08.
-1. DERELICT VESSEL ADRIFT IN VICINITY
-   33-08.67N 031-06.00W AT 261437Z FEB.
-2. CANCEL HYDROLANT 377/26.
-3. CANCEL THIS MSG 011730Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
