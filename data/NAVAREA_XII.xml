@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>281933Z FEB 26
+NAVAREA XII 141/26(GEN).
+NORTH PACIFIC.
+1. USCG REMOTE COMMUNICATION FACILITIES
+   A. PT REYES 37-55.00N 122-44.00W.
+   B. HONOLULU 21-22.00N 158-09.00W.
+   C. KODIAK 57-46.00N 152-34.00W.
+   D. BERING SEA 57-46.00N 152-34.00W.
+   E. ASTORIA 46-10.00N 123-49.00W.
+   F. CAMBRIA 35-31.00N 121-04.00W.
+   BROADCAST SERVICES OFF AIR
+   031200Z TO 031330Z MAR.
+2. CANCEL NAVAREA XII 134/26.
+3. CANCEL THIS MSG 031430Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>280435Z FEB 26
@@ -68,23 +87,6 @@ CALIFORNIA.
    32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
    31-55.00N 118-25.00W.
 2. CANCEL THIS MSG 010900Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>271924Z FEB 26
-NAVAREA XII 134/26(GEN).
-NORTH PACIFIC.
-1. USCG REMOTE COMMUNICATION FACILITIES
-   PT REYES (C) 37-55N 122-44W,
-   HONOLULU (O) 21-22N 158-09W,
-   KODIAK (J) 57-46N 152-34W,
-   BERING SEA (X) 57-46N 152-34W,
-   ASTORIA (W) 46-10N 123-49W,
-   CAMBRIA (Q) 35-31N 121-04W,
-   BROADCAST SERVICES OFF AIR
-   030700Z TO 030830Z MAR.
-2. CANCEL THIS MSG 030930Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

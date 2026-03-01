@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>281933Z FEB 26
+HYDROPAC 604/26(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+1. USCG REMOTE COMMUNICATION FACILITY 
+   GUAM 13-29.00N 144-50.00E BROADCAST
+   SERVICES OFF AIR 031200Z TO 031330Z MAR.
+2. CANCEL HYDROPAC 592/26.
+3. CANCEL THIS MSG 031430Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>280516Z FEB 26
@@ -148,20 +162,6 @@ DNC 12.
       20-24.90N 134-00.00E, 18-22.00N 133-47.50E,
       18-27.50N 132-53.40E, 21-29.60N 133-11.90E.
 2. CANCEL THIS MSG 250350Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>271924Z FEB 26
-HYDROPAC 592/26(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. USCG REMOTE COMMUNICATION FACILITY 
-   GUAM (V) 13-29N 144-50E BROADCAST
-   SERVICES OFF AIR 030700Z TO 030830Z MAR.
-2. CANCEL THIS MSG 030930Z MAR 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -576,24 +576,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251048Z FEB 26
-HYDROPAC 557/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   281830Z FEB IN AREA BOUND BY
-   14-58.00N 080-02.00E, 14-59.00N 080-02.00E,
-   14-59.00N 080-05.60E, 15-04.07N 080-05.60E,
-   15-04.07N 080-02.00E, 15-06.80N 080-02.00E,
-   15-06.80N 080-16.00E, 14-58.00N 080-16.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 281930Z FEB 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251040Z FEB 26
@@ -849,21 +831,6 @@ ALONG TRACKLINE JOINING
 39-25.00S 148-37.20E, 39-36.60S 146-32.80E,
 38-26.60S 144-29.00E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191645Z FEB 26
-HYDROPAC 509/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 24 THRU 28 FEB
-   IN AREA BOUND BY
-   13-09.00N 080-18.00E, 13-02.00N 080-23.00E,
-   13-09.00N 080-23.00E, 13-09.00N 080-18.00E.
-2. CANCEL THIS MSG 010001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1364,51 +1331,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010648Z FEB 26
-HYDROPAC 310/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE BY M/V VANESSA 7 TOWING 150 METER LONG CABLE
-   IN VICINITY OF TRACKLINE JOINING
-   20-45.25N 071-46.52E, 21-03.00N 072-23.00E,
-   19-14.74N 072-06.45E, 18-32.28N 072-15.44E,
-   18-34.11N 072-13.45E, 18-08.49N 072-22.07E,
-   18-45.23N 072-18.00E, 19-23.34N 071-12.32E,
-   19-31.78N 071-17.39E, 20-20.03N 072-07.54E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 299/26.
-3. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010035Z FEB 26
-HYDROPAC 309/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 28 FEB
-   BY M/V VANESSA 6 TOWING 150 METER LONG CABLE
-   IN VICINITY OF TRACKLINE JOINING
-   19-26.03N 071-12.95E, 19-21.03N 071-18.18E,
-   19-13.46N 071-28.61E, 19-16.75N 071-25.63E,
-   19-30.97N 071-23.08E, 19-30.05N 071-21.55E,
-   19-34.32N 071-17.75E, 19-34.43N 071-21.64E,
-   19-21.96N 071-19.57E, 19-22.46N 071-21.53E,
-   19-23.51N 071-21.62E, 19-22.46N 071-21.53E,
-   19-24.05N 071-18.90E, 19-22.48N 071-21.59E,
-   19-00.63N 072-11.95E, 19-00.48N 072-09.07E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>310203Z JAN 26
@@ -1483,22 +1405,6 @@ E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301025Z JAN 26
-HYDROPAC 287/26(63).
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS IN PRGORESS UNTIL 
-   28 FEB BY TUG AHT BRITOIL 71 AND 
-   BARGE LTB 300 ALONG TRACKLINE JOINING
-   20-36.02N 072-02.23E, 20-10.38N 072-29.69E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271037Z JAN 26
@@ -1533,22 +1439,6 @@ FIJI.
 DNC 06.
 MBENGGA LIGHT 18-24.30S 178-09.90E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>211732Z JAN 26
-HYDROPAC 239/26(57,61,71).
-EASTERN INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   01 THRU 28 FEB IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 010001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
