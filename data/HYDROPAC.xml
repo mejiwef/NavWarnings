@@ -394,19 +394,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY</category>
-        <status>INFORCE</status>
-        <msgText>270040Z FEB 26
-HYDROPAC 577/26(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-1. M/V BOARDED BY FIVE PIRATES IN
-   01-02.04N 103-39.65E AT 261834Z FEB.
-2. CANCEL THIS MSG 020040Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261947Z FEB 26
