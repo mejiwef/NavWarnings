@@ -1,6 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>021746Z MAR 26
+HYDROLANT 418/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. CONTAINER ADRIFT IN VICINITY 
+    37-35.13N 013-38.48W AT 021500Z MAR. 
+2. CANCEL THIS MSG 051500Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>021438Z MAR 26
+HYDROLANT 417/26(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+EL HANK LIGHT IN 33-36.60N 007-39.28W UNLIT. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>021403Z MAR 26
+HYDROLANT 416/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. BOM ABRIGO LIGHT IN 25-07.41S 047-51.75W
+   UNLIT UNTIL 29 AUG. 
+2. CANCEL THIS MSG 300001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021347Z MAR 26
+HYDROLANT 415/26(23, 29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+A. A23A, 48-06.00S 032-28.00W.
+B. A23K, 51-16.00S 036-04.00W.
+C. A76C, 59-24.00S 037-36.00W.
+D. B15AB, 53-34.00S 033-50.00W.
+E. 49-57.00S 023-15.00W.
+F. 58-03.00S 035-47.00W.
+G. 51-49.00S 040-35.00W.
+H. 59-02.00S 049-25.00W.
+I. 50-23.00S 039-24.00W.
+J. 58-00.00S 035-51.00W.
+K. 48-28.00S 033-33.00W.
+2. CANCEL THIS MSG 031400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021321Z MAR 26
+HYDROLANT 414/26(29).
+SOUTH ATLANTIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-45.00S 058-16.80W.
+   B. A84, 72-21.00S 103-46.80W.
+   C. A85, 68-33.00S 056-36.00W.
+   D. D33A, 65-44.40S 057-52.80W.
+   E. D33C, 66-02.40S 058-31.20W.
+2. CANCEL THIS MSG 031400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>021231Z MAR 26
+HYDROLANT 413/26(52).
+EASTERN MEDITERRANEAN SEA.
+STRAIT OF SICILY.
+TUNISIA.
+DNC 08.
+F/V NASSIM HASSAN 108/NA, SIX PERSONS ON BOARD,
+UNREPORTED.  LAST KNOWN POSITION 
+IN 37-14.00N 011-24.00E AT 241522Z FEB.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC ROME,
+PHONE: 390 6592 4145, 3906 5908 4409,
+EMAIL: ITMRCC@MIT.GOV.IT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>021012Z MAR 26
@@ -9,7 +103,8 @@ NORTH SEA.
 ENGLAND.
 DNC 20.
 WHITBY HIGH LIGHT 54-28.70N 000-34.10W
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -22,32 +117,6 @@ DNC 08.
    32-39.00N 031-33.00W AT 010319Z MAR.
 2. CANCEL HYDROLANT 395/26.
 3. CANCEL THIS MSG 041755Z MAR 26.
-
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011717Z MAR 26
-HYDROLANT 410/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN:
-   A. A23A, 47-48.00S 032-04.00W.
-   B. A23K, 51-21.00S 036-17.00W.
-   C. A76C, 59-26.00S 037-50.00W.
-   D. B15AB, 53-38.00S 033-50.00W.
-   E. 49-57.00S 023-15.00W.
-   F. 58-06.00S 035-44.00W.
-   G. 51-49.00S 040-35.00W.
-   H. 59-05.00S 049-30.00W.
-   I. 50-22.00S 039-34.00W.
-   J. 58-05.00S 035-46.00W.
-   K. 48-23.00S 033-18.00W.
-2. CANCEL THIS MSG 021717Z MAR 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -73,7 +142,8 @@ HYDROLANT 404/26(51).
 NORTH ATLANTIC.
 MOROCCO.
 DNC 08.
-OUKACHA LIGHT 33-36.90N 007-33.70W UNLIT.</msgText>
+OUKACHA LIGHT 33-36.90N 007-33.70W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
