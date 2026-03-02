@@ -484,25 +484,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300002Z JAN 26
-HYDROLANT 204/26(55).
-BLACK SEA.
-TURKEY.
-DNC 10.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 01 MAR
-   BY M/V ORUC RE??S, M/V ZAGANOS PASA
-   AND M/V ATAMAN IN AREA BOUND BY
-   42-20.70N 038-07.52E, 41-55.58N 039-03.11E,
-   42-04.30N 039-10.42E, 42-17.39N 039-10.65E,
-   42-20.06N 038-59.97E, 42-25.23N 038-32.22E,
-   42-27.83N 038-26.52E, 42-32.30N 038-16.67E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 020001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>261309Z JAN 26
