@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>281639Z FEB 26
+HYDROPAC 626/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1241Z TO 1727Z DAILY 08 THRU 14 MAR
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
+   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 141827Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SALVAGE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030638Z MAR 26
+HYDROPAC 625/26(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+SALVAGE OPERATIONS IN PROGRESS UNTIL FURTHER 
+NOTICE BY TUG ARATAKI IN VICINITY 17-45.66S 177-22.95E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>021632Z MAR 26
@@ -800,24 +827,6 @@ QATAR.
 DNC 10.
 WAVE RIDER BUOY, FL 5 Y 10 SEC, TEMPORARILY
 ESTABLISHED IN 26-39.57N 051-57.22E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>230836Z FEB 26
-HYDROPAC 536/26(57,61,71).
-INDIAN OCEAN.
-SOUTH ATLANTIC.
-DNC 01, DNC 02, DNC 03.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   282357Z FEB TO 010504Z MAR, 
-   020427Z TO 020934Z AND 
-   030227Z TO 030734Z MAR IN AREA BOUND BY
-   08-53.00S 092-28.00E, 07-46.00S 089-27.00E,
-   30-12.00S 061-09.00E, 40-45.00S 002-21.00W,
-   42-56.00S 002-24.00W, 32-16.00S 063-10.00E.
-2. CANCEL THIS MSG 030834Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
