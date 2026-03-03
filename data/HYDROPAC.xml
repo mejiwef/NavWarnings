@@ -188,21 +188,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>281933Z FEB 26
-HYDROPAC 604/26(81).
-NORTH PACIFIC.
-GUAM.
-DNC 12.
-1. USCG REMOTE COMMUNICATION FACILITY 
-   GUAM 13-29.00N 144-50.00E BROADCAST
-   SERVICES OFF AIR 031200Z TO 031330Z MAR.
-2. CANCEL HYDROPAC 592/26.
-3. CANCEL THIS MSG 031430Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280422Z FEB 26
@@ -215,18 +200,6 @@ DNC 07.
    33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
    33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
 2. CANCEL THIS MSG 050001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>280412Z FEB 26
-HYDROPAC 600/26(22).
-SOUTH PACIFIC.
-DNC 07.
-1. IQUIQUE DART BUOY II ADRIFT 
-   IN 20-41.74S 073-16.23W.
-2. CANCEL THIS MSG 030412Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
