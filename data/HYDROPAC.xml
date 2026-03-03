@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GPS JAMMING</category>
+        <status>INFORCE</status>
+        <msgText>031647Z MAR 26
+HYDROPAC 627/26(62).
+ARABIAN SEA.
+GULF OF OMAN.
+STRAIT OF HORMUZ.
+U.A.E.
+DNC 10.
+GPS, GNSS, AND AIS INTERFERENCE REPORTED IN 
+VICINITY OF FUJAIRAH (25-07.33N 056-20.05E).
+VESSELS ARE ADVISED TO NAVIGATE WITH EXTREME
+CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>281639Z FEB 26
@@ -25,7 +41,8 @@ FIJI.
 DNC 06.
 SALVAGE OPERATIONS IN PROGRESS UNTIL FURTHER 
 NOTICE BY TUG ARATAKI IN VICINITY 17-45.66S 177-22.95E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

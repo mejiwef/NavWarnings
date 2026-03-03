@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>031526Z MAR 26
+HYDROLANT 427/26(51).
+NORTH ATLANTIC.
+MOROCCO.
+DNC 08.
+1. DERELICT TEN METER VESSEL, WHITE HULL,
+   CAPSIZED AND ADRIFT IN VICINITY 
+   30-42.00N 032-38.00W AT 031349Z MAR
+   REPORTS TO COORD.NAVAREA2@SHOM.FR.  
+2. CANCEL THIS MSG 061503Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031413Z MAR 26
+HYDROLANT 425/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 48-24.00S 033-04.00W.
+   B. A23K, 51-01.00S 035-52.00W.
+   C. A76C, 59-23.00S 037-34.00W.
+   D. B15AB, 53-32.00S 033-52.00W.
+   E. 49-46.00S 023-08.00W.
+   F. 57-59.00S 035-46.00W.
+   G. 51-49.00S 040-35.00W.
+   H. 59-01.00S 049-14.00W.
+   I. 50-35.00S 039-12.00W.
+   J. 58-00.00S 035-51.00W.
+   K. 48-31.00S 033-50.00W.
+2. CANCEL THIS MSG 041400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>030219Z MAR 26
@@ -21,7 +59,8 @@ HYDROLANT 422/26(37).
 ENGLISH CHANNEL.
 ENGLAND.
 DNC 20.
-ST. ANTHONY LIGHT 50-08.5N 005-01.0W UNRELIABLE.</msgText>
+ST. ANTHONY LIGHT 50-08.5N 005-01.0W UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
@@ -31,7 +70,8 @@ HYDROLANT 421/26(57).
 GULF OF GUINEA.
 NIGERIA.
 DNC 01.
-DANGEROUS WRECK IN VICINITY 04-15.22N 006-15.42E.</msgText>
+DANGEROUS WRECK IN VICINITY 04-15.22N 006-15.42E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -44,7 +84,8 @@ DNC 01.
 CABLE OPERATIONS 040800Z MAR UNTIL FURTHER
 NOTICE BY M/V MAASVLIET ALONG TRACKLINE JOINING
 27-45.70N 016-52.50W, 27-46.80N 017-13.00W.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -91,17 +132,6 @@ DNC 08.
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>021438Z MAR 26
-HYDROLANT 417/26(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-EL HANK LIGHT IN 33-36.60N 007-39.28W UNLIT. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
         <msgText>021403Z MAR 26
 HYDROLANT 416/26(24).
 SOUTH ATLANTIC.
@@ -110,46 +140,6 @@ DNC 01.
 1. BOM ABRIGO LIGHT IN 25-07.41S 047-51.75W
    UNLIT UNTIL 29 AUG. 
 2. CANCEL THIS MSG 300001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021347Z MAR 26
-HYDROLANT 415/26(23, 29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-A. A23A, 48-06.00S 032-28.00W.
-B. A23K, 51-16.00S 036-04.00W.
-C. A76C, 59-24.00S 037-36.00W.
-D. B15AB, 53-34.00S 033-50.00W.
-E. 49-57.00S 023-15.00W.
-F. 58-03.00S 035-47.00W.
-G. 51-49.00S 040-35.00W.
-H. 59-02.00S 049-25.00W.
-I. 50-23.00S 039-24.00W.
-J. 58-00.00S 035-51.00W.
-K. 48-28.00S 033-33.00W.
-2. CANCEL THIS MSG 031400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021321Z MAR 26
-HYDROLANT 414/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-45.00S 058-16.80W.
-   B. A84, 72-21.00S 103-46.80W.
-   C. A85, 68-33.00S 056-36.00W.
-   D. D33A, 65-44.40S 057-52.80W.
-   E. D33C, 66-02.40S 058-31.20W.
-2. CANCEL THIS MSG 031400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -374,17 +364,6 @@ DNC 20.
    C. CULLERCOATS 55-04.40N 001-27.80W.
    D. BAWDSEY 51-59.60N 001-24.50E.
 2. CANCEL HYDROLANT 319/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>131746Z FEB 26
-HYDROLANT 312/26(57).
-GULF OF GUINEA.
-GHANA.
-DNC 01.
-DANGEROUS WRECK IN 05-35.74N 000-01.62E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
