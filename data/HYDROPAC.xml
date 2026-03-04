@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>040606Z MAR 26
+HYDROPAC 628/26(62).
+GULF OF OMAN.
+U.A.E.
+DNC 10.
+CANCEL HYDROPAC 3129/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GPS JAMMING</category>
         <status>INFORCE</status>
         <msgText>031647Z MAR 26
