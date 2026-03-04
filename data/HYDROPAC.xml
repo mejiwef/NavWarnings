@@ -1,14 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>040606Z MAR 26
-HYDROPAC 628/26(62).
-GULF OF OMAN.
-U.A.E.
-DNC 10.
-CANCEL HYDROPAC 3129/25 AND THIS MSG.</msgText>
+        <msgText>041144Z MAR 26
+HYDROPAC 634/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. CABLE OPERATIONS 05 THRU 15 MAR
+   BY CABLESHIP ATHBA IN AREA BOUND BY
+   18-55.75N 071-39.41E, 18-53.58N 071-39.51E,
+   18-55.79N 072-01.78E, 18-57.82N 072-02.50E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041020Z MAR 26
+HYDROPAC 633/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0830Z
+   DAILY 08 THRU 10 MAR
+   IN AREA BOUND BY
+   17-49.87N 083-33.57E, 17-57.38N 083-49.33E,
+   17-38.82N 084-00.47E, 17-33.42N 083-38.12E.
+2. CANCEL THIS MSG 100930Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041011Z MAR 26
+HYDROPAC 632/26(63).
+ANDAMAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 090230Z TO 090430Z MAR
+   IN AREA BOUND BY
+   11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
+   11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
+2. CANCEL THIS MSG 090530Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040757Z MAR 26
+HYDROPAC 630/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 2230Z TO 0130Z DAILY
+   09 THRU 13 MAR AND 0430Z TO 0630Z DAILY
+   10 THRU 13 MAR IN AREAS BOUND BY:
+   A. 17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
+      16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
+      14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
+      15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+   B. 13-37.00N 146-12.00E, 14-19.00N 146-12.00E,
+       14-19.00N 147-01.00E, 13-37.00N 147-01.00E.
+2. CANCEL THIS MSG 140230Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040726Z MAR 26
+HYDROPAC 629/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0800Z TO 1000Z
+   DAILY 09 THRU 13 MAR
+   IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
+   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
+   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-40.60N 145-27.77E.
+2. CANCEL THIS MSG 131100Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GPS JAMMING</category>
@@ -322,29 +399,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280040Z FEB 26
-HYDROPAC 595/26(81).
-NORTH PACIFIC.
-MARSHALL ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 040700Z TO 041434Z MAR,
-   ALTERNATE 050700Z TO 051434Z MAR
-   IN AREAS BOUND BY:
-   A. 09-23.00N 167-33.00E, 09-33.00N 167-28.00E,
-      09-45.00N 167-33.00E, 10-07.00N 168-01.00E,
-      10-35.00N 168-47.00E, 10-17.00N 168-58.00E,
-      09-35.00N 168-51.00E, 09-22.00N 168-29.00E,
-      09-07.00N 167-56.00E, 08-57.00N 167-33.00E,
-      09-16.00N 167-20.00E.
-   B. 08-51.00N 164-15.00E, 09-12.00N 165-06.00E,
-      08-19.00N 166-08.00E, 07-08.00N 166-31.00E,
-      06-42.00N 165-35.00E, 07-40.00N 164-43.00E.
-2. CANCEL THIS MSG 051534Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>271743Z FEB 26
@@ -494,29 +548,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>201018Z FEB 26
-HYDROPAC 582/26(81).
-NORTH PACIFIC.
-MARSHALL ISLANDS.
-DNC 12.
-1. HAZARDOUS OPERATIONS 040700Z TO 041434Z MAR, 
-   ALTERNATE 050700Z TO 051434Z MAR
-   IN AREAS BOUND BY:
-   A. 09-23.00N 167-33.00E, 09-33.00N 167-28.00E,
-      09-45.00N 167-33.00E, 10-07.00N 168-01.00E,
-      10-35.00N 168-47.00E, 10-17.00N 168-58.00E,
-      09-35.00N 168-51.00E, 09-22.00N 168-29.00E,
-      09-07.00N 167-56.00E, 08-57.00N 167-33.00E,
-      09-16.00N 167-20.00E.
-   B. 08-51.00N 164-15.00E, 09-12.00N 165-06.00E,
-      08-19.00N 166-08.00E, 07-08.00N 166-31.00E,
-      06-42.00N 165-35.00E, 07-40.00N 164-43.00E.
-2. CANCEL THIS MSG 051534Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>270428Z FEB 26
 HYDROPAC 581/26(76).
 TASMAN SEA.
@@ -558,21 +589,6 @@ DNC 06.
    B. 41-24.00S 164-00.00W, 41-30.00S 157-48.00W,
       42-36.00S 157-42.00W, 42-30.00S 164-06.00W.
 2. CANCEL THIS MSG 230001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261947Z FEB 26
-HYDROPAC 574/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
-   28 FEB THRU 04 MAR IN AREA BOUND BY
-   17-58.90N 084-11.70E, 17-49.50N 083-59.60E,
-   17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
-2. CANCEL THIS MSG 041130Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1642,18 +1658,6 @@ DNC 07.
 1. MAGALLANES RADIO 53-09.92S 070-54.28W 
    OFF AIR.
 2. CANCEL HYDROPAC 2623/25 AND 3114/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>271939Z NOV 25
-HYDROPAC 3129/25(62).
-GULF OF OMAN.
-U.A.E.
-DNC 10.
-DANGEROUS WRECK, LEAST DEPTH 12 METERS,
-IN 25-06.49N 056-24.32E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
