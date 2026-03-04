@@ -36,18 +36,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 040200Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022351Z MAR 26
-NAVAREA XII 145/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 031630Z TO
-   032130Z MAR IN 33-01.73N 118-35.32W.
-2. CANCEL THIS MSG 032230Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>011643Z MAR 26
