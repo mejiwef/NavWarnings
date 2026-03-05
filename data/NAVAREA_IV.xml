@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>040658Z MAR 26
+NAVAREA IV 207/26(11,26).
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   100304Z TO 100636Z MAR, ALTERNATE
+   0304Z TO 0636Z DAILY 11 THRU 16 MAR
+   IN AREAS BOUND BY:
+   A. 29-01.00N 075-00.00W, 29-21.00N 073-51.00W,
+      29-20.00N 072-05.00W, 28-29.00N 072-05.00W,
+      28-28.00N 073-53.00W, 28-42.00N 075-00.00W.
+   B. 28-40.00N 080-38.39W, 28-40.00N 080-11.00W,
+      28-31.00N 080-11.00W, 28-32.00N 080-33.71W.
+2. CANCEL THIS MSG 160736Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>042021Z MAR 26

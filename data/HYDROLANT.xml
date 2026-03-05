@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031211Z MAR 26
+HYDROLANT 439/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0600Z TO 1300Z DAILY
+   10 AND 12 MAR IN AREA BOUND BY
+   44-05.00N 029-08.00E, 44-05.00N 029-30.00E,
+   43-55.00N 029-30.00E, 43-55.00N 029-08.00E. 
+2. CANCEL THIS MSG 121400Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>050151Z MAR 26
