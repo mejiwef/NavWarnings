@@ -337,21 +337,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280422Z FEB 26
-HYDROPAC 601/26(22).
-SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. HAZARDOUS OPERATIONS 041300Z TO 042300Z MAR
-   IN AREA BOUND BY
-   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
-   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
-2. CANCEL THIS MSG 050001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>280355Z FEB 26
