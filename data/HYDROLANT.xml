@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050151Z MAR 26
+HYDROLANT 438/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PONTA DO CATALAO LIGHT 28-12.53S 048-39.75W
+   UNLIT UNTIL 31 AUG.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050107Z MAR 26
+HYDROLANT 437/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 060001Z TO 082359Z MAR
+   IN AREA BOUND BY
+   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
+   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
+2. CANCEL HYDROLANT 408/26.
+3. CANCEL THIS MSG 090100Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050100Z MAR 26
+HYDROLANT 436/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. MOSTARDAS LIGHT 31-14.94S 050-54.48W UNLIT
+   UNTIL 31 AUG.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050056Z MAR 26
+HYDROLANT 435/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SOLIDAO LIGHT 30-42.08S 050-28.85W UNLIT
+   UNTIL 31 AUG.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050048Z MAR 26
+HYDROLANT 434/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
+   UNLIT UNTIL 31 AUG.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>042029Z MAR 26
@@ -226,21 +289,6 @@ ENGLAND.
 DNC 20.
 WHITBY HIGH LIGHT 54-28.70N 000-34.10W
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010336Z MAR 26
-HYDROLANT 408/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 060001Z TO 072359Z MAR
-   IN AREA BOUND BY
-   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
-   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
-2. CANCEL THIS MSG 080100Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
