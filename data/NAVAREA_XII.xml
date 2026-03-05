@@ -21,7 +21,8 @@ CALIFORNIA.
       31-29.00N 124-30.00W.
    C. 27-56.00N 129-12.00W, 29-03.00N 128-07.00W,
       28-33.00N 127-10.00W, 27-19.00N 128-22.00W.
-2. CANCEL THIS MSG 160446Z MAR 26.</msgText>
+2. CANCEL THIS MSG 160446Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -36,7 +37,8 @@ NORTH PACIFIC.
    15-00.00N 110-12.00W, 10-32.00N 100-58.00W,
    05-48.00N 092-00.00W, 04-15.00N 094-12.00W,
    08-43.00N 102-45.00W, 13-00.00N 111-30.00W.
-2. CANCEL THIS MSG 161401Z MAR 26.</msgText>
+2. CANCEL THIS MSG 161401Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

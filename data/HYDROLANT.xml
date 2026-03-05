@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051247Z MAR 26
+HYDROLANT 441/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23A, 48-40.00S 033-40.00W.
+   B. A23K, 51-07.00S 035-43.00W.
+   C. A76C, 59-19.00S 037-19.00W.
+   D. B15AB, 53-51.00S 033-51.00W.
+   E. 57-55.00S 035-37.00W.
+   F. 51-42.00S 040-39.00W.
+   G. 59-08.00S 049-08.00W.
+   H. 50-45.00S 039-07.00W.
+   I. 48-35.00S 034-00.00W.
+2. CANCEL THIS MSG 061400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051108Z MAR 26
+HYDROLANT 440/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-45.00S 058-16.80W.
+   B. A84, 72-21.00S 103-46.80W.
+   C. A85, 68-33.00S 056-36.00W.
+   D. D33A, 65-44.40S 057-52.80W.
+   E. D33C, 66-02.40S 058-31.20W.
+2. CANCEL THIS MSG 061400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031211Z MAR 26
@@ -12,7 +51,8 @@ DNC 10.
    10 AND 12 MAR IN AREA BOUND BY
    44-05.00N 029-08.00E, 44-05.00N 029-30.00E,
    43-55.00N 029-30.00E, 43-55.00N 029-08.00E. 
-2. CANCEL THIS MSG 121400Z MAR 26.</msgText>
+2. CANCEL THIS MSG 121400Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -24,7 +64,8 @@ BRAZIL.
 DNC 01.
 1. PONTA DO CATALAO LIGHT 28-12.53S 048-39.75W
    UNLIT UNTIL 31 AUG.
-2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -39,7 +80,8 @@ DNC 01.
    23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
    23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
 2. CANCEL HYDROLANT 408/26.
-3. CANCEL THIS MSG 090100Z MAR 26.</msgText>
+3. CANCEL THIS MSG 090100Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -51,7 +93,8 @@ BRAZIL.
 DNC 01.
 1. MOSTARDAS LIGHT 31-14.94S 050-54.48W UNLIT
    UNTIL 31 AUG.
-2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -63,7 +106,8 @@ BRAZIL.
 DNC 01.
 1. SOLIDAO LIGHT 30-42.08S 050-28.85W UNLIT
    UNTIL 31 AUG.
-2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -75,10 +119,11 @@ BRAZIL.
 DNC 01.
 1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
    UNLIT UNTIL 31 AUG.
-2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
+        <category>MODU UPDATE</category>
         <status>INFORCE</status>
         <msgText>042029Z MAR 26
 HYDROLANT 433/26(57).
@@ -88,18 +133,8 @@ DNC 01.
 UNDERWATER OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY M/V SS NUJOMA
 IN 28-13.40S 015-46.70E.
-TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>041721Z MAR 26
-HYDROLANT 432/26(37).
-ENGLISH CHANNEL.
-FRANCE.
-DNC 20.
-CASQUETS LIGHT RACON 49-43.3N 002-22.6W,
-INOPERATIVE.</msgText>
+TWO MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -112,47 +147,6 @@ DNC 08.
    32-20.00N 031-50.00W AT 041212Z MAR.
 2. CANCEL HYDROLANT 411/26.
 3. CANCEL THIS MSG 071700Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041446Z MAR 26
-HYDROLANT 430/26(23, 29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23A, 48-30.00S 033-21.00W.
-   B. A23K, 51-07.00S 035-43.00W.
-   C. A76C, 59-21.00S 037-24.00W.
-   D. B15AB, 53-51.00S 033-51.00W.
-   E. 49-46.00S 023-08.00W.
-   F. 57-55.00S 035-40.00W.
-   G. 51-42.00S 040-39.00W.
-   H. 59-05.00S 048-08.00W.
-   I. 50-45.00S 039-07.00W.
-   J. 58-00.00S 035-51.00W.
-   K. 48-33.00S 033-55.00W.
-2. CANCEL THIS MSG 051400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041103Z MAR 26
-HYDROLANT 429/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-45.00S 058-16.80W.
-   B. A84, 72-21.00S 103-46.80W.
-   C. A85, 68-33.00S 056-36.00W.
-   D. D33A, 65-44.40S 057-52.80W.
-   E. D33C, 66-02.40S 058-31.20W.
-2. CANCEL THIS MSG 051400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -181,7 +175,8 @@ M/V NW AIDARA, 11 PERSONS ON BOARD, ADRIFT
 IN VICINITY 04-47.40N 031-24.75W ON 02 MAR.
 VESSELS IN VICINITY REQUESTED TO KEEP A
 SHARP LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+REPORTS TO ANY COASTAL RADIO STATION.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -247,18 +242,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 370/26.
 3. CANCEL THIS MSG 100001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>021746Z MAR 26
-HYDROLANT 418/26(51).
-NORTH ATLANTIC.
-DNC 08.
-1. CONTAINER ADRIFT IN VICINITY 
-   37-35.13N 013-38.48W AT 021500Z MAR. 
-2. CANCEL THIS MSG 051500Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -367,22 +350,6 @@ EMAIL: TUNISIANAVY@DEFENSE.TN,
 MRCCTUNIS@DEFENSE.TN, TUNISMOC@DEFENSE.TN
 OR MRCC ROME, PHONE: 390 6592 4145, 3906 5908 4409,
 EMAIL: ITMRCC@MIT.GOV.IT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271115Z FEB 26
-HYDROLANT 398/26(35).
-NORTH ATLANTIC.
-SCOTLAND.
-DNC 19.
-1. HAZARDOUS OPERATIONS 0800Z TO 1800Z DAILY
-   02 THRU 07 MAR IN AREAS WITHIN:
-   A. 27 MILES OF 57-27.50N 008-20.50W.
-   B. 20 MILES OF 57-43.50N 008-58.80W.
-2. CANCEL HYDROLANT 389/26.
-3. CANCEL THIS MSG 071900Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

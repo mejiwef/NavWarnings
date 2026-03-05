@@ -3,6 +3,38 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>051308Z MAR 26
+HYDROPAC 648/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+DNC 12.
+1. HAZARDOUS OPERATIONS 2230Z TO 0130Z DAILY
+   09 THRU 13 MAR AND 0430Z TO 0630Z DAILY
+   10 THRU 13 MAR IN AREA BOUND BY
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E,
+   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
+   16-09.47N 148-09.77E, 14-04.00N 148-00.00E,
+   14-16.00N 146-25.00E, 15-25.00N 146-25.00E.
+2. CANCEL THIS MSG 130730Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051231Z MAR 26
+HYDROPAC 647/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+CABLE OPERATIONS 06 MAR UNTIL FURTHER NOTICE
+BY CABLESHIP TENEO IN VICINITY 
+09-53.39N 112-25.36E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>051154Z MAR 26
 HYDROPAC 645/26(63).
 GULF OF KHAMBHAT.
@@ -12,7 +44,8 @@ DNC 03.
    DAILY 09, 15 AND 23 MAR IN AREA BOUND BY
    20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
    20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
-2. CANCEL THIS MSG 231230Z MAR 26.</msgText>
+2. CANCEL THIS MSG 231230Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -72,8 +105,7 @@ HYDROPAC 641/26(76).
 SOUTH PACIFIC.
 NEW ZEALAND.
 DNC 06.
-POINT KEAN LIGHT 42-25.4S 173-42.9E
-UNLIT.
+POINT KEAN LIGHT 42-25.4S 173-42.9E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -88,7 +120,8 @@ DNC 04.
    UNTIL FURTHER NOTICE BY M/V DLV 2000
    IN 20-36.10S 115-36.80E.
    ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2452/25.</msgText>
+2. CANCEL HYDROPAC 2452/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -123,31 +156,6 @@ DNC 12.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 121400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>041256Z MAR 26
-HYDROPAC 637/26(81,97).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-DNC 12.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   050218Z TO 050250Z, ALTERNATE 0218Z TO 0250Z
-   DAILY 06 THRU 25 MAR
-   IN AREAS BOUND BY:
-   A. 30-49.60N 135-18.60E, 30-48.30N 135-56.40E,
-      30-44.10N 136-00.10E, 29-55.80N 135-58.40E,
-      29-50.20N 135-52.80E, 29-51.40N 135-16.60E.
-   B. 30-01.20N 135-09.90E, 29-57.50N 135-48.20E,
-      29-47.70N 135-51.60E, 28-25.40N 135-43.70E,
-      28-13.50N 135-36.50E, 28-17.00N 134-59.90E.
-   C. 21-29.60N 133-11.90E, 21-51.10N 133-23.40E,
-      21-47.40N 134-00.00E, 20-24.90N 134-00.00E,
-      18-22.00N 133-47.50E, 18-27.50N 132-53.40E.
-2. CANCEL  HYDROPAC 623/26. 
-3. CANCEL THIS MSG 250350Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -218,7 +226,7 @@ DNC 12.
       15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
    B. 13-37.00N 146-12.00E, 14-19.00N 146-12.00E,
        14-19.00N 147-01.00E, 13-37.00N 147-01.00E.
-2. CANCEL THIS MSG 140230Z MAR 26.
+2. CANCEL THIS MSG 140730Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -585,23 +593,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271311Z FEB 26
-HYDROPAC 587/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 271830Z 
-   MAR BY M/V SAMBHAVYA IN AREA BOUND BY
-   16-22.28N 081-55.47E, 16-22.28N 081-56.88E,
-   16-20.92N 081-56.87E, 16-20.93N 081-55.47E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 271930Z MAR 26.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>271244Z FEB 26
@@ -786,24 +777,6 @@ AUSTRALIA.
 DNC 05.
 MONTAGUE ISLAND LIGHT 36-15.11S 150-13.60E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260458Z FEB 26
-HYDROPAC 562/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 03 THRU 05 MAR IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL HYDROPAC 553/26.
-3. CANCEL THIS MSG 051400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
