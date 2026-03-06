@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061203Z MAR 26
+HYDROPAC 661/26(63).
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z DAILY
+   11,18 AND 25 MAR IN AREA BOUND BY
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
+2. CANCEL THIS MSG 250730Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040811Z MAR 26
+HYDROPAC 660/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 1800Z TO 0600Z 
+   DAILY 11 THRU 14 MAR IN AREA WITHIN
+   FIVE MILES OF 13-29.00N 144-25.00E.
+2. CANCEL THIS MSG 150700Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>060820Z MAR 26
+HYDROPAC 659/26(62).
+STRAIT OF HORMUZ.
+OMAN.
+DNC 10.
+1. DERELICT VESSEL SAFEEN PRESTIGE 
+   ADRIFT IN 26-27.43N 056-25.52E.
+2. CANCEL THIS MSG 090819Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>060710Z MAR 26
+HYDROPAC 658/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 23.
+F/V QB 93827 TS, TWO PERSONS ON BOARD, 
+UNREPORTED. LAST KNOWN POSITION IN 
+16-23.00N 108-32.00E AT 051605Z MAR.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>060559Z MAR 26
@@ -424,21 +484,6 @@ DNC 03.
    14-38.70N 074-18.00E, 14-35.00N 074-18.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021033Z MAR 26
-HYDROPAC 615/26(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 060330Z TO 060530Z MAR
-   IN AREA BOUND BY
-   11-35.00N 092-44.00E, 11-32.00N 092-53.00E,
-   11-27.00N 092-48.00E.
-2. CANCEL THIS MSG 060630Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
