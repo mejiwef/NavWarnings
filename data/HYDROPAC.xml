@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISTRESS SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>060559Z MAR 26
+HYDROPAC 657/26(71).
+SOUTH CHINA SEA.
+DNC 11.
+DISTRESS SIGNAL RECEIVED FROM 
+12 METER VESSEL UMINEKO, WHITE HULL, 
+TWO PERSONS ON BOARD, IN 
+07-01.48N 107-17.40E AT 052110Z MAR. 
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>060447Z MAR 26
+HYDROPAC 656/26(74).
+CORAL SEA.
+AUSTRALIA.
+DNC 05.
+NORTH REEF LIGHT 23-11.10S 151-54.18E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>060323Z MAR 26
+HYDROPAC 654/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+F/V QNG 95157 TS, 34 PERSONS ON BOARD,
+DISABLED AND ADRIFT DUE TO ENGINE FAILURE
+IN 12-47.00N 111-30.00E AT 0522Z MAR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060216Z MAR 26
+HYDROPAC 653/26(22).
+SOUTH PACIFIC.
+CHILE.
+DNC 07.
+1. HAZARDOUS OPERATIONS 1200Z TO 1800Z
+   DAILY 10 AND 11 MAR IN AREA BOUND BY
+   36-25.00S 073-26.50W, 36-25.00S 073-15.00W,
+   36-34.00S 073-15.00W, 36-34.00S 073-26.50W.
+2. CANCEL THIS MSG 111900Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>051846Z MAR 26
@@ -279,19 +337,6 @@ DNC 06.
    59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
    26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
 2. CANCEL THIS MSG 141827Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SALVAGE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030638Z MAR 26
-HYDROPAC 625/26(83).
-SOUTH PACIFIC.
-FIJI.
-DNC 06.
-SALVAGE OPERATIONS IN PROGRESS UNTIL FURTHER 
-NOTICE BY TUG ARATAKI IN VICINITY 17-45.66S 177-22.95E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -661,39 +706,6 @@ DNC 06.
 1. HAZARDOUS OPERATIONS 281800Z FEB TO 270400Z MAR
    IN AREA WITHIN THREE MILES OF 36-28.65S 174-09.63E.
 2. CANCEL THIS MSG 270500Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>262111Z FEB 26
-HYDROPAC 579/26(76).
-SOUTH PACIFIC.
-NEW ZEALAND.
-DNC 06.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   04 THRU 22 MAR IN AREA BOUND BY
-   39-18.00S 177-42.00E, 39-12.00S 177-49.00E,
-   39-12.00S 177-57.00E, 39-12.00S 178-12.00E,
-   39-24.00S 178-42.00E, 39-30.00S 178-36.00E,
-   39-24.00S 177-54.00E.
-2. CANCEL THIS MSG 230001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>262041Z FEB 26
-HYDROPAC 578/26(76,83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   04 THRU 22 MAR IN AREAS BOUND BY:
-   A. 39-42.00S 176-18.00W, 40-36.00S 172-00.00W,
-      41-48.00S 172-24.00W, 40-54.00S 176-54.00W.
-   B. 41-24.00S 164-00.00W, 41-30.00S 157-48.00W,
-      42-36.00S 157-42.00W, 42-30.00S 164-06.00W.
-2. CANCEL THIS MSG 230001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
