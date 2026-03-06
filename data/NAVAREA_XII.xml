@@ -207,23 +207,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>252329Z FEB 26
-NAVAREA XII 126/26(22).
-SOUTH PACIFIC.
-ECUADOR.
-1. CABLE OPERATIONS IN PROGRESS 26 FEB UNTIL
-   FURTHER NOTICE BY CABLESHIP ILE DE SEIN
-   IN AREA BOUND BY
-   02-10.90S 081-12.90W, 02-24.10S 081-22.80W,
-   01-06.50S 081-35.70W, 01-06.00S 082-12.00W,
-   01-34.50N 080-37.70W, 01-33.40N 080-08.10W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 118/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICES</category>
         <status>INFORCE</status>
         <msgText>252035Z FEB 26
