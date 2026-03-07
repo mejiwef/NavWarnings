@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070455Z MAR 26
+HYDROLANT 455/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0700Z TO 1300Z DAILY
+   12 AND 13 MAR IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
+   44-19.00N 028-47.00E, 44-22.08N 028-42.41E.
+2. CANCEL THIS MSG 131400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>070119Z MAR 26
+HYDROLANT 453/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. CAETE LIGHT 00-49.02S 046-36.86W DESTROYED.
+2. CANCEL THIS MSG 030001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070053Z MAR 26
+HYDROLANT 452/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   170259Z MAR BY M/V SISTAC VITORIA IN 
+   22-22.48S 040-25.04W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 170359Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>062100Z MAR 26
@@ -251,20 +292,6 @@ GULF OF GUINEA.
 NIGERIA.
 DNC 01.
 DANGEROUS WRECK IN VICINITY 04-15.22N 006-15.42E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022104Z MAR 26
-HYDROLANT 420/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-CABLE OPERATIONS 040800Z MAR UNTIL FURTHER
-NOTICE BY M/V MAASVLIET ALONG TRACKLINE JOINING
-27-45.70N 016-52.50W, 27-46.80N 017-13.00W.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
