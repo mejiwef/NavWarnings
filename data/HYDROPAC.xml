@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>062109Z MAR 26
+HYDROPAC 672/26(71).
+SOUTH CHINA SEA.
+INDONESIA.
+DNC 03.
+1. VESSEL BOARDED BY PIRATES IN 01-02.18N 103-40.18E
+   AT 061900Z MAR.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 092114Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>062055Z MAR 26
+HYDROPAC 671/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 090230Z TO 090630Z MAR
+   IN AREA BOUND BY
+   17-49.50N 083-59.60E, 17-52.70N 084-03.70E,
+   17-52.80N 084-08.90E, 17-49.50N 084-04.90E,
+   17-49.50N 083-59.60E.
+2. CANCEL HYDROPAC 669/26.
+3. CANCEL THIS MSG 090730Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>062045Z MAR 26
+HYDROPAC 670/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 110400Z TO 111030Z MAR
+   IN AREA BOUND BY
+   21-49.28N 087-56.30E, 21-14.90N 088-14.32E,
+   20-44.65N 087-08.30E, 21-16.18N 086-51.83E,
+   21-27.99N 087-01.99E.
+2. CANCEL HYROPAC 668/26.
+3. CANCEL THIS MSG 111130Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061719Z MAR 26

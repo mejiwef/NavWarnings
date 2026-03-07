@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>062100Z MAR 26
+HYDROLANT 451/26(51).
+NORTH ATLANTIC.
+CANARY ISLANDS.
+DNC 01.
+1. CABLE OPERATIONS 070001 MAR UNTIL FURTHER NOTICE BY 
+   CABLESHIP ILE D OUESSANT IN AREA BOUND BY
+   28-05.46N 017-04.64W, 28-04.14N 017-01.81W,
+   28-02.78N 017-02.81W, 28-03.96N 017-05.35W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 450/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>IN FORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061646Z MAR 26
@@ -394,29 +409,6 @@ DNC 01.
    UNTIL 22 AUG.
 2. CANCEL HYDROLANT 365/26.
 3. CANCEL THIS MSG 230001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191738Z Feb 26
-HYDROLANT 352/26(52,53,54).
-IONIAN SEA.
-GREECE.
-DNC 08, DNC 09.
-1. HAZARDOUS OPERATIONS 220001Z FEB TO 062359Z MAR
-   IN AREA BOUND BY
-   35-00.00N 013-00.00E, 35-30.00N 013-00.00E,
-   35-30.00N 012-30.00E, 36-00.00N 012-30.00E,
-   36-00.00N 012-00.00E, 39-00.00N 012-00.00E,
-   39-00.00N 016-00.00E, 39-45.00N 018-20.00E,
-   40-20.00N 018-20.00E, 40-20.00N 018-20.00E,
-   40-20.00N 018-25.00E, 40-30.00N 018-25.00E,
-   40-30.00N 019-00.00E, 39-47.00N 019-00.00E,
-   39-00.00N 020-00.00E, 38-00.00N 020-00.00E,
-   37-00.00N 020-45.00E, 36-00.00N 022-30.00E,
-   35-00.00N 023-00.00E.
-2. CANCEL THIS MSG 070001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
