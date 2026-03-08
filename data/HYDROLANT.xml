@@ -3,40 +3,40 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>071522Z MAR 26
-HYDROLANT 458/26(23,29).
+        <msgText>081434Z MAR 26
+HYDROLANT 460/26(23, 29).
 SCOTIA SEA.
 SOUTH ATLANTIC.
 DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23K, 51-03.00S 035-16.00W.
+1. ICEBERGS REPORTED IN:
+   A. A23K, 51-05.00S 035-08.00W.
    B. A76C, 59-11.00S 037-07.00W.
-   C. A23A, 48-47.00S 033-40.00W.
-   D. B15AB, 53-20.00S 033-45.00W.
+   C. A23A, 48-57.00S 033-27.00W.
+   D. B15AB, 53-03.00S 033-36.00W.
    E. 57-54.00S 035-36.00W.
    F. 51-37.00S 040-23.00W.
-   G. 59-17.00S 049-20.00W.
-   H. 51-16.00S 038-14.00W.
-   I. 48-37.00S 034-01.00W.
+   G. 59-18.00S 049-27.00W.
+   H. 51-22.00S 038-09.00W.
+   I. 48-38.00S 034-00.00W.
    J. 48-22.00S 034-01.00W.
-2. CANCEL THIS MSG 081500Z MAR 26.
+2. CANCEL THIS MSG 091500Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>071513Z MAR 26
-HYDROLANT 457/26(29).
+        <msgText>081426Z MAR 26
+HYDROLANT 459/26(29).
 SOUTH ATLANTIC.
 ANTARCTICA.
 DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-45.00S 058-16.80W.
-   B. A84, 72-21.00S 103-46.80W.
-   C. A85, 68-33.00S 056-36.00W.
-   D. D33A, 65-44.40S 057-52.80W.
-   E. D33C, 66-02.40S 058-31.20W.
-2. CANCEL THIS MSG 081500Z MAR 26.
+1. ICEBERGS REPORTED IN:
+   A. A81, 64-43.80S 058-08.40W.
+   B. A84, 72-34.20S 103-04.80W.
+   C. A85, 68-22.80S 056-47.40W.
+   D. D33A, 65-36.00S 057-54.60W.
+   E. D33C, 66-54.00S 058-25.80W.
+2. CANCEL THIS MSG 091500Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -397,18 +397,6 @@ DNC 01.
    ESTABLISHED IN 27-24.38S 047-15.92W.
    UNTIL 25 AUG.
 2. CANCEL THIS MSG 260001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>241326Z FEB 26
-HYDROLANT 384/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-ALPHA STAR ESTABLISHED IN 19-52.13S 039-37.35W.
-CANCEL THIS MSG 081330Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
