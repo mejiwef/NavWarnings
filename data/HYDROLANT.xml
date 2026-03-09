@@ -1,6 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091538Z MAR 26
+HYDROLANT 470/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-43.80S 058-08.40W.
+   B. A84, 72-34.20S 103-04.80W.
+   C. A85, 68-22.80S 056-47.40W.
+   D. D33A, 65-36.00S 057-54.60W.
+   E. D33C, 66-54.00S 058-25.80W.
+2. CANCEL HYDROLANT 467/26.
+3. CANCEL THIS MSG 101400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>091518Z MAR 26
+HYDROLANT 469/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+FOG SIGNAL AT DUNGENESS LIGHTHOUSE 
+IN 50-54.80N 000-58.60E INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091434Z MAR 26
+HYDROLANT 468/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23K, 51-05.00S 035-08.00W.
+   B. A76C, 59-10.00S 037-05.00W.
+   C. A23A, 48-57.00S 033-27.00W.
+   D. 57-52.00S 035-50.00W.
+   E. 59-04.00S 049-32.00W.
+   F. 48-38.00S 034-00.00W.
+   G. 53-03.00S 033-36.00W.
+   H. 47-20.00S 033-35.00W.
+2. CANCEL THIS MSG 101434Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091416Z MAR 26
+HYDROLANT 467/26(57).
+SOUTH ATLANTIC.
+NAMIBIA.
+DNC 01.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL FURTHER NOTICE BY M/V MAFUTA,
+   M/V GARIEP, M/V DEBMAR ATLANTIC,
+   M/V SS MUJOMA, M/V BENGUELA GEM IN: 
+   A. 28-42.64S 015-56.70E.
+   B. 28-23.10S 015-46.23E.
+   C. 28-38.21S 016-01.33E.
+   D. 28-43.10S 015-54.50E.
+   E. 28-20.66S 015-49.33E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 433/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>091355Z MAR 26
+HYDROLANT 466/26(37).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+FOG SIGNAL AT FLAMBOROUGH HEAD LIGHTHOUSE 
+54-07.0N 000-05.0W INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>091347Z MAR 26
+HYDROLANT 465/26(37).
+ENGLISH CHANNEL.
+ENGLAND.
+DNC 20.
+1. FOG SIGNAL AT NEEDLES LIGHT 50-39.70N 001-35.50W
+   INOPERATIVE.
+2. CANCEL HYDROLANT 464/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090813Z MAR 26
@@ -10,7 +107,8 @@ LITHUANIA.
 DNC 22.
 1. HAZARDOUS OPERATIONS 120700Z TO 131500Z MAR
    IN VICINITY 55-29.60N 020-51.00E.
-2. CANCEL THIS MSG 131600Z MAR 26.</msgText>
+2. CANCEL THIS MSG 131600Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -44,45 +142,8 @@ DNC 01.
    27-53.39S 047-19.68W, 28-53.93S 047-52.17W,
    29-15.16S 048-06.49W, 30-17.95S 048-28.19W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170001Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081434Z MAR 26
-HYDROLANT 460/26(23, 29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN:
-   A. A23K, 51-05.00S 035-08.00W.
-   B. A76C, 59-11.00S 037-07.00W.
-   C. A23A, 48-57.00S 033-27.00W.
-   D. B15AB, 53-03.00S 033-36.00W.
-   E. 57-54.00S 035-36.00W.
-   F. 51-37.00S 040-23.00W.
-   G. 59-18.00S 049-27.00W.
-   H. 51-22.00S 038-09.00W.
-   I. 48-38.00S 034-00.00W.
-   J. 48-22.00S 034-01.00W.
-2. CANCEL THIS MSG 091500Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081426Z MAR 26
-HYDROLANT 459/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN:
-   A. A81, 64-43.80S 058-08.40W.
-   B. A84, 72-34.20S 103-04.80W.
-   C. A85, 68-22.80S 056-47.40W.
-   D. D33A, 65-36.00S 057-54.60W.
-   E. D33C, 66-54.00S 058-25.80W.
-2. CANCEL THIS MSG 091500Z MAR 26.
+2. CANCEL HYDROLANT 419/26.  
+3. CANCEL THIS MSG 170001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -109,7 +170,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 DNC 01.
 1. CAETE LIGHT 00-49.02S 046-36.86W DESTROYED.
-2. CANCEL THIS MSG 030001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 030001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -134,12 +196,14 @@ HYDROLANT 451/26(51).
 NORTH ATLANTIC.
 CANARY ISLANDS.
 DNC 01.
-1. CABLE OPERATIONS 070001 MAR UNTIL FURTHER NOTICE BY 
-   CABLESHIP ILE D OUESSANT IN AREA BOUND BY
+1. CABLE OPERATIONS 070001 MAR UNTIL FURTHER
+   NOTICE BY CABLESHIP ILE D OUESSANT
+   IN AREA BOUND BY
    28-05.46N 017-04.64W, 28-04.14N 017-01.81W,
    28-02.78N 017-02.81W, 28-03.96N 017-05.35W.
    WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 450/26.</msgText>
+2. CANCEL HYDROLANT 450/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>IN FORCE BULLETIN</category>
@@ -189,9 +253,10 @@ DNC 19.
 1. HAZARDOUS OPERATIONS 0800Z
    TO 1800Z DAILY 09 THRU 14 MAR 
    IN AREAS WITHIN:
-   A. 27.00 MILES OF 57-27.50N 008-20.50W.
-   B. 20.00 MILES OF 57-43.50N 008-58.80W.
-2. CANCEL THIS MSG 141900Z MAR 26.</msgText>
+   A. 27 MILES OF 57-27.50N 008-20.50W.
+   B. 20 MILES OF 57-43.50N 008-58.80W.
+2. CANCEL THIS MSG 141900Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -269,20 +334,6 @@ DNC 01.
 1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
    UNLIT UNTIL 31 AUG.
 2. CANCEL THIS MSG 010001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MODU UPDATE</category>
-        <status>INFORCE</status>
-        <msgText>042029Z MAR 26
-HYDROLANT 433/26(57).
-SOUTH ATLANTIC.
-NAMIBIA.
-DNC 01.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V SS NUJOMA
-IN 28-13.40S 015-46.70E.
-TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -559,17 +610,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 200/26.
 3. CANCEL THIS MSG 310001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>261309Z JAN 26
-HYDROLANT 170/26(37).
-NORTH SEA.
-DNC 20.
-EAST CARDINAL BUOY 54-30.9N 002-36.3E
-PERMANENTLY REMOVED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
