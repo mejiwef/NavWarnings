@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>090558Z MAR 26
+HYDROPAC 694/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V QNG 90459 TS DISABLED AND ADRIFT 
+   IN 13-00.00N 109-56.00E AT 082300Z MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 682/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>090548Z MAR 26
+HYDROPAC 693/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V QNG 95157 TS, 34 PERSONS ONBOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
+   IN 12-30.00N 110-36.00E AT 090244Z MAR. 
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 689/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>090540Z MAR 26
+HYDROPAC 692/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+IFB SEA PRINCESS SANK IN 19-04.90N 072-44.90E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>090500Z MAR 26
+HYDROPAC 691/26(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER 
+   NOTICE BY CABLESHIP ILE DYEU WITHIN 
+   TWO MILES OF TRACKLINE JOINING
+   39-36.60S 146-32.80E, 39-17.60S 146-16.10E,
+   38-44.10S 144-51.00E, 38-26.60S 144-29.00E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 690/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>081301Z MAR 26
@@ -41,23 +100,6 @@ SOUTH PACIFIC.
 DNC 07.
 DART II BUOY 20-41.74S 073-16.23W
 TEMPORARILY REMOVED. </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>080453Z MAR 26
-HYDROPAC 682/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 95157 TS, 34 PERSONS ONBOARD, DISABLED
-   DUE TO ENGINE FAILURE AND ADRIFT
-   IN 12-42.00N 110-53.00E AT 080250Z MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 681/26. </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -250,21 +292,6 @@ DNC 03.
    15-36.00N 085-48.00E, 15-36.00N 086-19.70E,
    15-06.00N 086-19.70E, 15-07.00N 085-48.20E.
 2. CANCEL THIS MSG 100800Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061229Z MAR 26
-HYDROPAC 664/26(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 090230Z TO 090430Z MAR
-   IN AREA BOUND BY
-   11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
-   11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
-2. CANCEL THIS MSG 090530Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
