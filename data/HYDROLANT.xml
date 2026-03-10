@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>100140Z MAR 26
+HYDROLANT 472/26(24).
+NORTH ATLANTIC.
+DNC 01.
+1. M/V NW AIDARA, 11 PERSONS ONBOARD, ADRIFT
+   IN VICINITY 02-43.02N 035-14.43W ON 09 MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO ANY COASTAL RADIO STATION.
+2. CANCEL HYDROLANT 462/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091538Z MAR 26
@@ -108,21 +122,6 @@ DNC 22.
 1. HAZARDOUS OPERATIONS 120700Z TO 131500Z MAR
    IN VICINITY 55-29.60N 020-51.00E.
 2. CANCEL THIS MSG 131600Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>090801Z MAR 26
-HYDROLANT 462/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. M/V NW AIDARA, 11 PERSONS ONBOARD, ADRIFT 
-   IN VICINITY 02-54.72N 034-51.83W ON 08 MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 456/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

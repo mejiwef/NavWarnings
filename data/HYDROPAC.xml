@@ -3,6 +3,38 @@
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
+        <msgText>070533Z MAR 26
+HYDROPAC 714/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   0420Z TO 0906Z DAILY 15 THRU 21 MAR 
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
+   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
+2. CANCEL THIS MSG 211006Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>100033Z MAR 26
+HYDROPAC 713/26(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+1. F/V QNG 90459 TS, 36 PERSONS ONBOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
+   IN 12-25.00N 109-50.00E AT 092335Z MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 697/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
         <msgText>092107Z MAR 26
 HYDROPAC 711/26(83).
 SOUTH PACIFIC.
@@ -90,21 +122,6 @@ DNC 11.
    08-07.00N 117-18.00E, 08-07.00N 117-28.00E,
    07-57.00N 117-28.00E, 07-57.00N 117-18.00E.
 2. CANCEL THIS MSG 181700Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091402Z MAR 26
-HYDROPAC 705/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 100030Z TO 100230Z MAR.
-   IN AREA BOUND BY
-   17-10.00N 083-35.00E, 17-05.00N 083-35.00E,
-   17-05.00N 083-40.00E, 17-10.00N 083-40.00E.
-2. CANCEL THIS MSG 100330Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -208,24 +225,6 @@ DNC 03.
    17-58.90N 084-11.70E, 17-49.50N 083-59.60E,
    17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
 2. CANCEL THIS MSG 110630Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>091030Z MAR 26
-HYDROPAC 697/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 90459 TS DISABLED AND ADRIFT 
-   36 PERSONS ONBOARD
-   IN 12-51.00N 109-56.00E AT 090930Z MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 694/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

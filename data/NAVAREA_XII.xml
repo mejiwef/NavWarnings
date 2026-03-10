@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>100104Z MAR 26
+NAVAREA XII 162/26(17).
+NORTH PACIFIC.
+CANADA.
+ALASKA.
+NAVTEX STATION DIGBY ISLAND (D)
+54-17.85N 130-25.10W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>092357Z MAR 26
