@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>092107Z MAR 26
+HYDROPAC 711/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1241Z TO 1727Z DAILY UNTIL 19 MAR
+   IN AREA BOUND BY
+   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
+   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
+2. CANCEL HYDROPAC 626/26.
+3. CANCEL THIS MSG 191827Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091933Z MAR 26
+HYDROPAC 710/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0430Z TO 0830Z
+   DAILY 11 THRU 13 MAR IN AREA BOUND BY
+   14-58.43N 072-56.67E, 15-08.48N 072-56.67E,
+   15-08.48N 072-46.28E, 14-58.43N 072-46.28E.
+2. CANCEL THIS MSG 130930Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091740Z MAR 26
@@ -229,24 +258,6 @@ DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>090548Z MAR 26
-HYDROPAC 693/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 95157 TS, 34 PERSONS ONBOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-   IN 12-30.00N 110-36.00E AT 090244Z MAR. 
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 689/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>090540Z MAR 26
@@ -387,21 +398,6 @@ MAN OVERBOARD FROM F/V BV 97779 TS IN VICINITY
 VICINITY REQUESTED TO KEEP A SHARP LOOKOUT, 
 ASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM, 
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>062109Z MAR 26
-HYDROPAC 672/26(71).
-SOUTH CHINA SEA.
-INDONESIA.
-DNC 03.
-1. VESSEL BOARDED BY PIRATES IN 01-02.18N 103-40.18E
-   AT 061900Z MAR.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 092114Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -792,21 +788,6 @@ GPS, GNSS, AND AIS INTERFERENCE REPORTED IN
 VICINITY OF FUJAIRAH (25-07.33N 056-20.05E).
 VESSELS ARE ADVISED TO NAVIGATE WITH EXTREME
 CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>281639Z FEB 26
-HYDROPAC 626/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1241Z TO 1727Z DAILY 08 THRU 14 MAR
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 141827Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
