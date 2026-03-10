@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SATELLITE SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>101715Z MAR 26
+NAVAREA XII 164/26(18).
+NORTH PACIFIC.
+CALIFORNIA.
+1. USCG REMOTE COMMUNICATIONS FACILITIES
+   PT REYES 37-55.00N 122-44.00W, INMARSAT-C
+   UNAVAILABLE 120700Z TO 121300Z MAR.
+2. CANCEL THIS MSG 121400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>100104Z MAR 26
 NAVAREA XII 162/26(17).
 NORTH PACIFIC.
 CANADA.
-ALASKA.
 NAVTEX STATION DIGBY ISLAND (D)
 54-17.85N 130-25.10W OFF AIR.
 </msgText>
@@ -33,8 +45,9 @@ CALIFORNIA.
       28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
-2. CANCEL NAVAREAXII 157/26.
-3. CANCEL THIS MSG 230820Z MAR 26.</msgText>
+2. CANCEL NAVAREA XII 157/26.
+3. CANCEL THIS MSG 230820Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -56,7 +69,8 @@ CALIFORNIA.
       29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
       28-48.00N 121-25.00W.
 2. CANCEL NAVAREA XII 148/26.
-3. CANCEL THIS MSG 191641Z MAR 26.</msgText>
+3. CANCEL THIS MSG 191641Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -69,7 +83,8 @@ CALIFORNIA.
    10 AND 11 MAR, ALTERNATE 121500Z TO 122100Z MAR
    IN AREA WITHIN 13 MILES OF 33-46.18N 119-23.18W.
 2. CANCEL NAVAREA XII 155/26.
-3. CANCEL THIS MSG 122200Z MAR 26.</msgText>
+3. CANCEL THIS MSG 122200Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -117,22 +132,6 @@ CALIFORNIA.
    C. 27-56.00N 129-12.00W, 29-03.00N 128-07.00W,
       28-33.00N 127-10.00W, 27-19.00N 128-22.00W.
 2. CANCEL THIS MSG 160446Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>030211Z MAR 26
-NAVAREA XII 150/26(21,22).
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0938Z TO 1302Z DAILY 10 THRU 13 AND
-   0937Z TO 1301Z DAILY 14 THRU 16 MAR
-   IN AREA BOUND BY
-   15-00.00N 110-12.00W, 10-32.00N 100-58.00W,
-   05-48.00N 092-00.00W, 04-15.00N 094-12.00W,
-   08-43.00N 102-45.00W, 13-00.00N 111-30.00W.
-2. CANCEL THIS MSG 161401Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
