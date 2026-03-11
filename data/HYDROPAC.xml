@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111627Z MAR 26
+HYDROPAC 741/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 130630Z TO 130730Z
+   IN AREA BOUND BY
+   17-43.40N 083-52.60E, 17-37.20N 084-03.30E,
+   17-27.00N 083-56.90E, 17-33.10N 083-46.30E.
+2. CANCEL THIS MSG 130830Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111621Z MAR 26
+HYDROPAC 740/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 130830Z TO 131230Z
+   IN AREA BOUND BY
+   17-17.60N 084-02.80E, 17-35.10N 084-13.40E,
+   17-24.50N 084-32.00E, 17-07.30N 084-21.40E.
+2. CANCEL THIS MSG 131330Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111125Z MAR 26
@@ -34,7 +64,8 @@ DNC 03.
    16 THRU 21 MAR IN AREA BOUND BY
    21-18.10N 086-50.77E, 19-51.80N 087-33.15E,
    20-31.48N 088-23.80E, 21-26.15N 087-00.98E.
-2. CANCEL THIS MSG 210730Z MAR 26.</msgText>
+2. CANCEL THIS MSG 210730Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -106,7 +137,8 @@ DNC 06, DNC 07.
    46-03.00S 098-01.00W, 50-13.00S 096-40.00W,
    52-31.00S 115-14.00W, 52-48.00S 126-59.00W,
    46-36.00S 163-10.00W, 43-38.00S 170-48.00W.
-2. CANCEL THIS MSG 171930Z MAR 26.</msgText>
+2. CANCEL THIS MSG 171930Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -127,24 +159,6 @@ DNC 11.
    C. 08-19.00N 120-31.00E, 07-27.00N 121-11.00E,
       07-01.00N 120-36.00E, 07-53.00N 119-56.00E.
 2. CANCEL THIS MSG 130059Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>110713Z MAR 26
-HYDROPAC 729/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-F/V QNG 92972 TS, EIGHT PERSONS ON BOARD, 
-F/V QNG 92823 TS, EIGHT PERSONS ON BOARD, 
-DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-IN 10-21.00N 108-55.00E AT 110310Z MAR.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -364,21 +378,6 @@ DNC 03.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091740Z MAR 26
-HYDROPAC 709/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 110630Z TO 111230Z MAR
-   IN AREA BOUND BY
-   17-10.00N 083-20.00E, 17-10.00N 083-30.00E,
-   17-00.00N 083-30.00E, 17-00.00N 083-20.00E.
-2. CANCEL THIS MSG 111330Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091646Z MAR 26
 HYDROPAC 708/26(63).
 ARABIAN SEA.
@@ -435,24 +434,6 @@ DNC 03.
    08-47.00N 092-33.00E, 08-52.00N 092-33.00E,
    08-52.00N 092-38.00E, 08-47.00N 092-38.00E.
 2. CANCEL THIS MSG 141130Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091121Z MAR 26
-HYDROPAC 700/26(63).
-BAY OF BENGAL.
-BANGLADESH.
-DNC 03.
-1. HAZARDOUS OPERATIONS FROM 
-   110100Z TO 111200Z MAR
-   IN AREAS BOUND BY:
-A. 21-04.00N 090-54.00E, 21-04.00N 091-15.00E,
-   20-48.00N 091-15.00E, 20-48.00N 090-54.00E.
-B. 20-56.50N 090-17.00E, 21-07.50N 090-27.00E,
-   20-54.00N 090-44.00E, 20-43.00N 090-33.00E.
-2. CANCEL THIS MSG 111300Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

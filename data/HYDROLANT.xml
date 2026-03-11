@@ -1,6 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111520Z MAR 26
+HYDROLANT 486/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0700Z TO 1300Z DAILY
+   16 THRU 20 MAR IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 201400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111448Z MAR 26
+HYDROLANT 485/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23K 51-04.00S 035-02.00W.
+   B. A76C 59-08.00S 037-05.00W.
+   C. A23A 49-01.00S 032-46.00W.
+   D. 57-42.00S 035-39.00W.
+   E. 59-01.00S 049-09.00W.
+   F. 48-41.00S 033-55.00W.
+   G. 52-47.00S 033-44.00W.
+   H. 47-13.00S 033-50.00W.
+   I. 48-54.00S 033-29.00W.
+   J. 48-50.00S 033-17.00W.
+   K. 48-54.00S 033-13.00W.
+   L. 49-03.00S 033-03.00W.
+2. CANCEL THIS MSG 121400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>111358Z MAR 26
+HYDROLANT 484/26(51).
+NORTH ATLANTIC.
+DNC 08.
+1. SUBSURFACE GLIDER ADRIFT IN VICINITY
+   32-12.00N 032-07.00W AT 100349Z MAR.
+2. CANCEL THIS MSG 141630Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111315Z MAR 26
+HYDROLANT 483/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 16 MAR THRU 03 APR 
+   DURING DAYLIGHT HOURS
+   IN AREA BOUND BY
+   05-42.53S 034-45.02W, 06-09.83S 034-46.82W,
+   06-03.93S 034-57.22W, 05-47.03S 034-56.32W.
+2. CANCEL THIS MSG 040001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111304Z MAR 26
+HYDROLANT 482/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-43.80S 058-08.40W.
+   B. A84 72-34.20S 103-04.80W.
+   C. A85 68-22.80S 056-47.40W.
+   D. D33A 65-36.00S 057-54.60W.
+   E. D33C 66-54.00S 058-25.80W.
+2. CANCEL THIS MSG 121400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>110145Z MAR 26
@@ -10,48 +97,7 @@ BRAZIL.
 DNC 01.
 1. PONTA VERDE LIGHT 09-39.94S 035-41.54W UNLIT
    UNTIL 06 SEP.
-2. CANCEL THIS MSG 070001Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101543Z MAR 26
-HYDROLANT 479/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23K, 51-04.00S 035-02.00W.
-   B. A76C, 59-08.00S 037-05.00W.
-   C. A23A, 49-01.00S 032-46.00W.
-   D. 57-48.00S 035-59.00W.
-   E. 59-01.00S 049-22.00W.
-   F. 48-41.00S 033-55.00W.
-   G. 52-51.00S 033-44.00W.
-   H. 47-13.00S 033-50.00W.
-   I. 48-54.00S 033-29.00W.
-   J. 48-52.00S 033-23.00W.
-   K. 48-54.00S 033-13.00W.
-   L. 49-03.00S 033-03.00W.
-2. CANCEL THIS MSG 111500Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101456Z MAR 26
-HYDROLANT 477/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 058-08.40W.
-   B. A84, 72-34.20S 103-04.80W.
-   C. A85, 68-22.80S 056-47.40W.
-   D. D33A, 65-36.00S 057-54.60W.
-   E. D33C, 66-54.00S 058-25.80W.
-2. CANCEL THIS MSG 111400Z MAR 26.
+2. CANCEL THIS MSG 070001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
