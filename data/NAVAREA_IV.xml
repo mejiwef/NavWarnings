@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>110835Z MAR 26
+NAVAREA IV 224/26(25).
+CARIBBEAN SEA.
+MARTINIQUE.
+1. DERELICT 13 METER S/V, WHITE HULL, 
+   ADRIFT IN VICINITY 14-10.10N 061-31.15W.
+2. CANCEL THIS MSG 140818Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>102247Z MAR 26

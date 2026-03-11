@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>110140Z MAR 26
-HYDROARC 36/26(43).
-NORWEGIAN SEA.
-NORWAY.
-DNC 21.
-CANCEL HYDROARC 34/26 AND THIS MSG.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061617Z MAR 26
@@ -31,25 +21,6 @@ HYDROARC 35/26(GEN).
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROARC 33/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>020717Z MAR 26
-HYDROARC 34/26(43).
-NORWEGIAN SEA.
-NORWAY.
-DNC 21, DNC 22.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   1930Z TO 0100Z DAILY 06 THRU 15 MAR
-   IN AREAS BOUND BY:
-   A. 71-01.00N 011-54.00E, 69-45.00N 014-19.00E,
-      70-10.00N 016-21.00E, 70-40.00N 016-53.00E,
-      71-21.00N 016-05.00E.
-   B. 69-24.00N 015-47.00E, 69-16.00N 015-56.00E,
-      69-17.00N 016-06.00E, 69-25.00N 016-05.00E.
-2. CANCEL THIS MSG 160200Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
