@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>110145Z MAR 26
+HYDROLANT 481/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PONTA VERDE LIGHT 09-39.94S 035-41.54W UNLIT
+   UNTIL 06 SEP.
+2. CANCEL THIS MSG 070001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>101543Z MAR 26
@@ -682,21 +694,6 @@ DNC 10.
    43-20.30N 031-59.70E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FOUL GROUND</category>
-        <status>INFORCE</status>
-        <msgText>240130Z DEC 25
-HYDROLANT 2210/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. FOUL GROUND UNTIL 21 JUN 26
-   IN AREA BOUND BY
-   19-53.87S 039-59.68W, 19-54.15S 039-59.27W,
-   19-53.08S 039-58.45W, 19-52.80S 039-58.88W.
-2. CANCEL THIS MSG 220001Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

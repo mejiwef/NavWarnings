@@ -166,24 +166,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>100903Z MAR 26
-HYDROPAC 716/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-1. F/V QNG 90459 TS, 36 PERSONS ONBOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE  
-   IN 12-05.00N 109-44.00E AT 100754Z MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP 
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 713/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100819Z MAR 26

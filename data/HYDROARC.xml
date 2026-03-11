@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>110140Z MAR 26
+HYDROARC 36/26(43).
+NORWEGIAN SEA.
+NORWAY.
+DNC 21.
+CANCEL HYDROARC 34/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061617Z MAR 26
