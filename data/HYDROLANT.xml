@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>120120Z MAR 26
+HYDROLANT 487/26(24).
+NORTH ATLANTIC.
+DNC 01.
+1. M/V NW AIDARA, 11 PERSONS ONBOARD, ADRIFT
+   IN VICINITY 02-08.18N 035-57.03W ON 11 MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A
+   SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO ANY COASTAL RADIO STATION.
+2. CANCEL HYDROLANT 472/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111520Z MAR 26
@@ -112,21 +126,6 @@ MAN OVERBOARD FROM VESSEL IN
 VESSELS IN VICINITY REQUESTED TO 
 KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>100140Z MAR 26
-HYDROLANT 472/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. M/V NW AIDARA, 11 PERSONS ONBOARD, ADRIFT
-   IN VICINITY 02-43.02N 035-14.43W ON 09 MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 462/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
