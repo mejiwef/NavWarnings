@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121047Z MAR 26
+HYDROLANT 489/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-43.80S 058-08.40W.
+   B. A84, 72-34.20S 103-04.80W.
+   C. A85, 68-22.80S 056-47.40W.
+   D. D33A, 65-36.00S 057-54.60W.
+   E. D33C, 66-54.00S 058-25.80W.
+2. CANCEL THIS MSG 131047Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120819Z MAR 26
+HYDROLANT 488/26(24,57).
+GULF OF GUINEA.
+ATLANTIC OCEAN.
+DNC 01.
+CABLE OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY CABLESHIP RELIANCE
+ALONG TRACKLINE JOINING
+02-33.30N 002-22.20E, 02-28.27S 028-42.91W.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>120120Z MAR 26
@@ -424,17 +456,6 @@ ENGLAND.
 DNC 20.
 WHITBY HIGH LIGHT 54-28.70N 000-34.10W
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>271904Z FEB 26
-HYDROLANT 404/26(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-OUKACHA LIGHT 33-36.90N 007-33.70W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,117 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121142Z MAR 26
+HYDROPAC 752/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 13 THRU 23 MAR BY
+   M/V FUGRO MAPPER IN AREAS BOUND BY:
+   A. 20-27.62N 072-27.79E, 20-00.87N 072-27.20E,
+      20-02.05N 071-13.58E, 20-28.83N 071-13.97E.
+   B. 19-41.07N 071-06.86E, 19-40.69N 071-36.43E,
+      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
+   C. 19-24.28N 071-55.82E, 19-23.94N 072-16.01E,
+      19-08.52N 072-15.70E, 19-08.86N 071-55.54E.
+   D. 18-36.49N 072-10.51E, 18-36.34N 072-19.25E,
+      18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121127Z MAR 26
+HYDROPAC 751/26(63).
+BAY OF BENGAL.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 17
+   AND 18 MAR IN AREA BOUND BY
+   17-30.00N 084-05.00E, 17-30.00N 084-21.00E,
+   17-15.00N 084-21.00E, 17-15.00N 084-05.00E.
+2. CANCEL THIS MSG 181130Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121103Z MAR 26
+HYDROPAC 750/26(63).
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+DNC 03.
+1. PIPELINE OPERATIONS 13 MAR THRU 11 APR BY 
+   TUG SHAKTI, M/V URJA, BARGE DLB KENENNA AND
+   M/V ZD LIBRA IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110916Z MAR 26
+HYDROPAC 749/26(81).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+DNC 12.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 17 THRU 19 MAR IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 191400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>120835Z MAR 26
+HYDROPAC 748/26(62).
+STRAIT OF HORMUZ.
+IRAN.
+OMAN.
+DNC 10.
+1. DERELICT M/V ON FIRE AND ADRIFT 
+   IN VICINITY 26-33.21N 056-09.71E.
+2. CANCEL THIS MSG 150832Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>120634Z MAR 26
+HYDROPAC 746/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+F/V BD 98796 TS, FIVE PERSONS ON BOARD, 
+SINKING IN 14-37.00N 112-55.00E AT 
+120300Z MAR. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>120052Z MAR 26
@@ -682,18 +793,6 @@ DNC 12.
    DAILY 11 THRU 14 MAR IN AREA WITHIN
    FIVE MILES OF 13-29.00N 144-25.00E.
 2. CANCEL THIS MSG 150700Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>060447Z MAR 26
-HYDROPAC 656/26(74).
-CORAL SEA.
-AUSTRALIA.
-DNC 05.
-NORTH REEF LIGHT 23-11.10S 151-54.18E
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
