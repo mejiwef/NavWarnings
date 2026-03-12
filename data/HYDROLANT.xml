@@ -3,6 +3,30 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>121512Z MAR 26
+HYDROLANT 491/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERGS REPORTED IN: 
+   A. A23K, 50-56.00S 035-07.00W.
+   B. A76C, 59-07.00S 037-00.00W.
+   C. A23A, 49-01.00S 032-46.00W.
+   D. 57-42.00S 035-39.00W.
+   E. 59-01.00S 049-03.00W.
+   F. 48-41.00S 033-55.00W.
+   G. 52-47.00S 033-44.00W.
+   H. 47-13.00S 033-50.00W.
+   I. 48-54.00S 033-29.00W.
+   J. 48-50.00S 033-17.00W.
+   K. 48-54.00S 033-13.00W.
+   L. 49-03.00S 033-03.00W.
+2. CANCEL THIS MSG 131512Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>121047Z MAR 26
 HYDROLANT 489/26(29).
 SOUTH ATLANTIC.
@@ -30,7 +54,8 @@ CABLE OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY CABLESHIP RELIANCE
 ALONG TRACKLINE JOINING
 02-33.30N 002-22.20E, 02-28.27S 028-42.91W.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -44,7 +69,8 @@ DNC 01.
    VESSELS IN VICINITY REQUESTED TO KEEP A
    SHARP LOOKOUT, ASSIST IF POSSIBLE.
    REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 472/26.</msgText>
+2. CANCEL HYDROLANT 472/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -61,30 +87,6 @@ DNC 10.
    44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
    44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 201400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111448Z MAR 26
-HYDROLANT 485/26(23,29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-DNC 01.
-1. ICEBERGS REPORTED IN: 
-   A. A23K, 51-04.00S 035-02.00W.
-   B. A76C, 59-08.00S 037-05.00W.
-   C. A23A, 49-01.00S 032-46.00W.
-   D. 57-42.00S 035-39.00W.
-   E. 59-01.00S 049-09.00W.
-   F. 48-41.00S 033-55.00W.
-   G. 52-47.00S 033-44.00W.
-   H. 47-13.00S 033-50.00W.
-   I. 48-54.00S 033-29.00W.
-   J. 48-50.00S 033-17.00W.
-   K. 48-54.00S 033-13.00W.
-   L. 49-03.00S 033-03.00W.
-2. CANCEL THIS MSG 121400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -112,24 +114,6 @@ DNC 01.
    05-42.53S 034-45.02W, 06-09.83S 034-46.82W,
    06-03.93S 034-57.22W, 05-47.03S 034-56.32W.
 2. CANCEL THIS MSG 040001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111304Z MAR 26
-HYDROLANT 482/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 058-08.40W.
-   B. A84, 72-34.20S 103-04.80W.
-   C. A85, 68-22.80S 056-47.40W.
-   D. D33A, 65-36.00S 057-54.60W.
-   E. D33C, 66-54.00S 058-25.80W.
-2. CANCEL THIS MSG 121400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -334,21 +318,6 @@ HYDROLANT 449/26(GEN).
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 2141/25, 153/26, 305/26,
    403/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031211Z MAR 26
-HYDROLANT 439/26(55).
-BLACK SEA.
-ROMANIA.
-DNC 10.
-1. HAZARDOUS OPERATIONS 0600Z TO 1300Z DAILY
-   10 AND 12 MAR IN AREA BOUND BY
-   44-05.00N 029-08.00E, 44-05.00N 029-30.00E,
-   43-55.00N 029-30.00E, 43-55.00N 029-08.00E. 
-2. CANCEL THIS MSG 121400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121416Z MAR 26
+HYDROPAC 756/26(74).
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+DNC 04.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V OUTER LIMIT
+IN 21-13.32S 114-38.83E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>121235Z MAR 26
+HYDROPAC 754/26(92).
+SULU SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES 151600Z TO 221600Z MAR
+   IN AREA BOUND BY
+   09-35.40N 118-54.97E, 09-35.40N 119-02.00E,
+   09-28.49N 119-02.40E, 09-28.49N 118-54.95E.
+2. CANCEL THIS MSG 221700Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>121224Z MAR 26
+HYDROPAC 753/26(92).
+SOUTH CHINA SEA.
+PHILIPPINES.
+DNC 11.
+1. GUNNERY EXERCISES 141600Z TO 201600Z MAR
+   IN AREA BOUND BY
+   10-23.12N 118-39.91E, 10-23.08N 118-42.98E,
+   10-20.08N 118-43.07E, 10-20.08N 118-39.92E.
+2. CANCEL THIS MSG 201700Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121142Z MAR 26
@@ -818,19 +862,6 @@ DNC 03, DNC 04, DNC 05, DNC 06.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051231Z MAR 26
-HYDROPAC 647/26(93).
-SOUTH CHINA SEA.
-DNC 11.
-CABLE OPERATIONS 06 MAR UNTIL FURTHER NOTICE
-BY CABLESHIP TENEO IN VICINITY 
-09-53.39N 112-25.36E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051154Z MAR 26
@@ -886,23 +917,6 @@ DNC 04.
    IN 20-36.10S 115-36.80E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2452/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040821Z MAR 26
-HYDROPAC 638/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 10 THRU 12 MAR IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 121400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
