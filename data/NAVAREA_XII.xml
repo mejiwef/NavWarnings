@@ -75,20 +75,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>092023Z MAR 26
-NAVAREA XII 159/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1500Z TO 2100Z DAILY
-   10 AND 11 MAR, ALTERNATE 121500Z TO 122100Z MAR
-   IN AREA WITHIN 13 MILES OF 33-46.18N 119-23.18W.
-2. CANCEL NAVAREA XII 155/26.
-3. CANCEL THIS MSG 122200Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>061759Z MAR 26
