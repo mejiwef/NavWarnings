@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>122326Z MAR 26
+HYDROPAC 757/26(83).
+SOUTH PACIFIC.
+DNC 06.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2331Z TO 0417Z DAILY 20 TO 21 MAR,
+   0402Z TO 0848Z DAILY 23 THRU 27 MAR
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 270948Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121416Z MAR 26
@@ -1679,29 +1695,6 @@ IN AREA BOUND BY
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121430Z FEB 26
-HYDROPAC 434/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 13 FEB THRU 12 MAR 
-   BY M/V ORION LAXMI AND M/V FUGRO MAPPER
-   IN AREAS BOUND BY:
-   A. 20-40.48N 072-30.54E, 20-53.22N 071-57.95E,
-      20-28.44N 071-39.02E, 20-01.40N 071-37.99E,
-      20-00.87N 072-27.20E.
-   B. 19-40.69N 071-36.43E, 19-41.07N 071-06.86E,
-      19-12.52N 071-06.49E, 19-12.14N 071-35.97E.
-   C. 19-23.94N 072-16.01E, 19-24.29N 071-55.82E,
-      19-08.86N 071-55.54E, 19-08.52N 072-15.71E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130000Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>120140Z FEB 26
@@ -1713,32 +1706,6 @@ DNC 05.
 ESTABLISHED IN AREA WITHIN TWO MILES
 OF 39-13.33S 142-50.33E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111044Z FEB 26
-HYDROPAC 416/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 12 MAR 
-   BY TUG SHAKTI, M/V AWB URJA, BARGE DLB KENENNA 
-   AND M/V ZD LIBRA IN AREAS BOUND BY:
-   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
-      19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
-   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 130001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
