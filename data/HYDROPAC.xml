@@ -172,19 +172,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>120052Z MAR 26
-HYDROPAC 743/26(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-1. PUERTO MONTT RADIO 41-28.83S 072-57.67W 
-   OFF AIR.
-2. VALPARAISO RADIO 33-04.70S 071-36.80W 
-   WILL TRANSMIT VIA SAFETYNET.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111833Z MAR 26
@@ -336,27 +323,6 @@ DNC 06, DNC 07.
    52-31.00S 115-14.00W, 52-48.00S 126-59.00W,
    46-36.00S 163-10.00W, 43-38.00S 170-48.00W.
 2. CANCEL THIS MSG 171930Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110725Z MAR 26
-HYDROPAC 730/26(92,93).
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-DNC 11.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   121800Z TO 122359Z MAR
-   IN AREAS BOUND BY:
-   A. 13-31.00N 116-20.00E, 12-40.00N 117-02.00E,
-      12-19.00N 116-35.00E, 13-11.00N 115-54.00E.
-   B. 08-08.00N 120-33.00E, 07-16.00N 121-13.00E,
-      06-56.00N 120-46.00E, 07-48.00N 120-07.00E.
-   C. 08-19.00N 120-31.00E, 07-27.00N 121-11.00E,
-      07-01.00N 120-36.00E, 07-53.00N 119-56.00E.
-2. CANCEL THIS MSG 130059Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
