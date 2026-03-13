@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>130925Z MAR 26
+HYDROLANT 495/26(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. M/V NW AIDARA, 11 PERSONS ONBOARD, 
+   DISABLED AND ADRIFT IN VICINITY 
+   01-36.72S 036-14.62W ON 12 MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP 
+   A SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO ANY COASTAL RADIO STATION.
+2. CANCEL HYDROLANT 487/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>130802Z MAR 26
+HYDROLANT 494/26(53).
+WESTERN MEDITERRANEAN SEA.
+DNC 08.
+1. DERELICT 27 FOOT S/V MATYRA II, BLUE HULL, 
+   ADRIFT IN VICINITY 40-08.33N 006-18.65E.
+2. CANCEL THIS MSG 160759Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130443Z MAR 26
@@ -9,8 +37,7 @@ NORTH ATLANTIC.
 SENEGAL.
 DNC 01.
 1. HAZARDOUS OPERATIONS 140800Z TO 141200Z MAR
-   IN AREA WITHIN 30 MILES OF 
-   12-44.00N 017-47.00W.
+   IN AREA WITHIN 30 MILES OF 12-44.00N 017-47.00W.
 2. CANCEL THIS MSG 141300Z MAR 26.
 </msgText>
     </smapsActiveEntity>
@@ -25,7 +52,8 @@ DNC 01.
 1. BARRA DE ITABAPOANA LIGHT 21-18.80S 040-57.90W 
    UNLIT UNTIL 08 SEP 26.
 2. CANCEL HYDROLANT 1547/25.
-3. CANCEL THIS MSG 090001Z SEP 26.</msgText>
+3. CANCEL THIS MSG 090001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -52,24 +80,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121047Z MAR 26
-HYDROLANT 489/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 058-08.40W.
-   B. A84, 72-34.20S 103-04.80W.
-   C. A85, 68-22.80S 056-47.40W.
-   D. D33A, 65-36.00S 057-54.60W.
-   E. D33C, 66-54.00S 058-25.80W.
-2. CANCEL THIS MSG 131047Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120819Z MAR 26
@@ -82,21 +92,6 @@ FURTHER NOTICE BY CABLESHIP RELIANCE
 ALONG TRACKLINE JOINING
 02-33.30N 002-22.20E, 02-28.27S 028-42.91W.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>120120Z MAR 26
-HYDROLANT 487/26(24).
-NORTH ATLANTIC.
-DNC 01.
-1. M/V NW AIDARA, 11 PERSONS ONBOARD, ADRIFT
-   IN VICINITY 02-08.18N 035-57.03W ON 11 MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A
-   SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 472/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
