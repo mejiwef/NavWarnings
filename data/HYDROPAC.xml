@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>141209Z MAR 26
+HYDROPAC 782/26(97).
+NORTH PACIFIC.
+DNC 12.
+1. GUNNERY EXERCISES 182100Z THRU 190900Z MAR
+   ALTERNATE 192100Z THRU 200900Z MAR
+   IN AREA WITHIN 25.00 MILES OF 31-14.14N 144-26.48E.
+2. CANCEL THIS MSG 210001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>141046Z MAR 26
@@ -60,23 +73,6 @@ DNC 07.
    33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
    33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
 2. CANCEL THIS MSG 162100Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>140045Z MAR 26
-HYDROPAC 777/26(92).
-SULU SEA.
-PHILIPPINES.
-DNC 11.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL 
-   141600Z MAR IN AREA BOUND BY
-   08-05.46N 117-24.95E, 08-05.28N 117-35.70E,
-   07-54.53N 117-35.20E, 07-55.54N 117-24.61E.
-2. CANCEL THIS MSG 141700Z MAR 26.
-
-
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -639,21 +635,6 @@ DNC 03.
    08-45.00N 075-15.00E, 08-45.00N 075-30.00E,
    08-30.00N 075-30.00E, 08-30.00N 075-15.00E.
 2. CANCEL THIS MSG 151230Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101203Z MAR 26
-HYDROPAC 722/26(63).
-ANDAMAN SEA.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 140330Z TO 141230Z MAR
-   IN AREA BOUND BY
-   07-31.00N 093-36.00E, 07-31.00N 093-44.00E,
-   07-27.00N 093-44.00E, 07-27.00N 093-36.00E.
-2. CANCEL THIS MSG 141330Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
