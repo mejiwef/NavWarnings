@@ -3,6 +3,26 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>141909Z MAR 26
+HYDROLANT 506/26(29).
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+DNC 29.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-43.80S 058-08.40W.
+   B. A84, 72-34.20S 103-04.80W.
+   C. A85, 68-22.80S 056-47.40W.
+   D. D33A, 65-36.00S 057-54.60W.
+   E. D33C, 65-54.00S 058-25.80W.
+2. CANCEL THIS MSG 151909Z MAR 26.
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>141435Z MAR 26
 HYDROLANT 505/26(23,29).
 SCOTIA SEA.
@@ -61,18 +81,6 @@ REPORTS TO MRCC ROME,
 PHONE: 390 6592 4145, 3906 5908 4409,
 EMAIL: ITMRCC@MIT.GOV.IT.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140707Z MAR 26
-HYDROLANT 502/26(51).
-NORTH ATLANTIC.
-SENEGAL.
-DNC 01.
-1. HAZARDOUS OPERATIONS 141430Z TO 141800Z MAR
-    IN AREA WITHIN 30 MILES OF 12-44.00N 017-47.00W.
-2. CANCEL THIS MSG 142000Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
