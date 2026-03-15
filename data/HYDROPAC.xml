@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>150236Z MAR 26
+HYDROPAC 785/26(81).
+NORTH PACIFIC.
+GUAM.
+DNC 12.
+1. PITI CHANNEL ENTRANCE LIGHT 1,
+   IN 13-27.59N 144-40.41E,
+   UNLIT,  OFF STATION.
+2.CANCEL THIS MSG 290100Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150105Z MAR 26
+HYDROPAC 784/26(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. HAZARDOUS OPERATIONS 170330Z TO 171230Z
+   IN AREA BOUND BY
+   15-12.50N 073-20.00E, 14-54.00N 073-29.00E,
+   14-50.00N 073-19.00E, 15-08.00N 073-10.50E.
+2. CANCEL THIS MSG 171330Z MAR 26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MEDEVAC</category>
         <status>INFORCE</status>
         <msgText>142000Z MAR 26
