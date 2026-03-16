@@ -3,6 +3,31 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>151900Z MAR 26
+HYDROLANT 508/26(23,29).
+SCOTIA SEA.
+SOUTH ATLANTIC.
+DNC 01.
+1. ICEBERG REPORTED IN: 
+   A. A23K, 50-37.00S 035-05.00W.
+   B. A76C, 59-04.00S 036-51.00W.
+   C. A23A, 48-43.00S 030-46.00W.
+   D. 58-08.00S 035-21.00W.
+   E. 59-19.00S 048-50.00W.
+   F. 48-43.00S 033-41.00W.
+   G. 52-32.00S 033-36.00W.
+   H. 47-13.00S 033-50.00W.
+   I. 48-42.00S 033-44.00W.
+   J. 48-48.00S 031-57.00W.
+   K. 48-45.00S 032-08.00W.
+   L. 48-47.00S 032-17.00W.
+   M. 48-48.00S 031-26.00W.
+   N. 48-49.00S 030-50.00W.
+2. CANCEL THIS MSG 161900Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>151025Z MAR 26
 HYDROLANT 507/26(29).
 SOUTH ATLANTIC.
@@ -16,26 +41,6 @@ DNC 29.
    D. D33A, 65-34.80S 057-50.40W.
    E. D33C, 65-54.60S 058-18.60W.
 2. CANCEL THIS MSG 161019Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141909Z MAR 26
-HYDROLANT 506/26(29).
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 058-08.40W.
-   B. A84, 72-34.20S 103-04.80W.
-   C. A85, 68-22.80S 056-47.40W.
-   D. D33A, 65-36.00S 057-54.60W.
-   E. D33C, 65-54.00S 058-25.80W.
-2. CANCEL THIS MSG 151909Z MAR 26.
-
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

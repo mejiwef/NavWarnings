@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>152058Z MAR 26
+HYDROPAC 790/26(76).
+COOK STRAIT.
+NEW ZEALAND.
+DNC 06.
+CANCEL HYDROPAC 110/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151648Z MAR 26
@@ -983,22 +993,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041144Z MAR 26
-HYDROPAC 634/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-1. CABLE OPERATIONS 05 THRU 15 MAR
-   BY CABLESHIP ATHBA IN AREA BOUND BY
-   18-55.75N 071-39.41E, 18-53.58N 071-39.51E,
-   18-55.79N 072-01.78E, 18-57.82N 072-02.50E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GPS JAMMING</category>
         <status>INFORCE</status>
         <msgText>031647Z MAR 26
@@ -1609,32 +1603,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131037Z FEB 26
-HYDROPAC 446/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 14 FEB THRU 15 MAR 
-   BY TUG MARIGOLD AND BARGE AQUA FLOAT
-   IN AREAS BOUND BY:
-   A. 19-41.85N 071-35.72E, 19-42.24N 071-06.01E,
-      19-10.95N 071-05.61E, 19-10.57N 071-35.22E.
-   B. 20-44.92N 072-21.08E, 20-45.60N 071-42.55E,
-      20-01.74N 071-41.78E, 20-01.08N 072-20.14E.
-   C. 19-41.27N 072-09.72E, 19-41.75N 071-41.55E,
-      18-56.97N 071-40.94E, 18-56.33N 072-20.11E.
-   D. 18-47.29N 072-24.17E, 18-47.55N 072-09.45E,
-      18-26.21N 072-09.06E, 18-25.96N 072-23.75E.
-   E. 18-39.27N 071-03.38E, 18-39.32N 070-58.71E,
-      18-34.63N 070-58.65E, 18-34.58N 071-03.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>122041Z FEB 26
@@ -1704,27 +1672,6 @@ PERSIAN GULF.
 KUWAIT.
 DNC 10.
 BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061030Z FEB 26
-HYDROPAC 357/26(63,71).
-ANDAMAN SEA.
-INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. SURVEY OPERATIONS 07 FEB THRU 15 MAR 
-   BY M/V ALBATROSS 37 IN AREAS BOUND BY:
-   A. 05-57.39N 094-03.58E, 05-18.53N 093-22.78E,
-      04-55.35N 093-02.26E, 04-39.28N 092-42.21E,
-      04-02.61N 092-03.32E, 04-06.23N 091-59.83E,
-      05-43.74N 093-42.57E, 06-00.90N 093-52.06E.
-   B. 07-53.54N 095-27.13E, 06-39.54N 094-22.31E,
-      05-57.39N 094-03.58E, 06-13.28N 094-16.40E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1862,24 +1809,6 @@ CHILE.
 DNC 07.
 VALPARAISO RADIO 33-04.70S 071-36.80W
 DSC SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191356Z JAN 26
-HYDROPAC 163/26(63).
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-DNC 03.
-1. PIPELINE OPERATIONS 22 JAN THRU 15 MAR 
-   BY VESSEL M/V EMERALD ALONG TRACKLINE JOINING
-   20-36.02N 072-02.23E, 20-20.13N 072-01.32E,
-   20-16.76N 071-55.65E, 20-13.31N 071-54.79E,
-   20-08.39N 071-53.13E, 20-02.96N 071-45.71E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
