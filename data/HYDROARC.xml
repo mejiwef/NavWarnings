@@ -1,207 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<smaps>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>121635Z MAR 26
-HYDROARC 38/26(38,42,43).
-GREENLAND SEA.
-NORWEGIAN SEA.
-NORWAY.
-DNC 19, DNC 20, DNC 21, DNC 22.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2005Z TO 2050Z DAILY 19 THRU 29 MAR
-   IN AREAS BOUND BY:
-   A. 68-59.33N 015-28.04E, 69-13.36N 015-58.52E,
-      70-53.82N 014-10.90E, 70-41.62N 012-51.94E.
-   B. 71-03.42N 015-12.96E, 74-15.83N 009-52.25E,
-      76-50.35N 003-23.81E, 79-11.75N 006-04.25W,
-      79-55.84N 010-21.88W, 79-41.45N 011-34.89W,
-      78-03.47N 004-13.38W, 76-01.01N 002-00.03E,
-      73-32.11N 007-12.23E, 70-30.11N 011-37.50E,
-      71-03.42N 015-12.96E.
-2. CANCEL THIS MSG 292150Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>131505Z MAR 26
-HYDROARC 37/26(GEN).
-1. HYDROARC WARNINGS IN FORCE AS OF 131503Z MAR.
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   4/2026.
-   180/2025, 178/2025, 175/2025, 148/2025, 145/2025,
-   103/2025.
-   283/2024.
-   163/2023.
-   198/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
-   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-   MARITIME SAFETY INFORMATION WEBSITE AT:
-   MSI.NGA.MIL/NAVWARNINGS.
-   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-   FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 197/25, 198/25, 199/25, 200/25, 35/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SHOAL</category>
-        <status>INFORCE</status>
-        <msgText>142350Z JAN 26
-HYDROARC 4/26(15).
-AMUNDSEN GULF.
-CANADA.
-DNC 27.
-SHOALS REPORTED IN:
-A. 69-56.01N 123-51.03W.
-B. 69-54.01N 123-59.02W.
-C. 69-48.59N 124-07.42W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>030023Z OCT 25
-HYDROARC 180/25(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT TUKTOYAKTUK ISLAND LIGHT
-69-27.35N 132-59.97W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>011116Z OCT 25
-HYDROARC 178/25(15).
-FRANKLIN STRAIT.
-MCCLINTOCK CHANNEL.
-CANADA.
-DNC 28.
-DEPTHS REPORTED: 
-A. 29.3 METERS IN 71-22.82N 096-41.27W.
-B. 26.6 METERS IN 71-22.05N 096-40.73W.
-C. 11.3 METERS IN 71-21.53N 096-45.79W.
-D. 11.3 METERS IN 71-21.20N 096-44.65W.
-E. 28.4 METERS IN 71-20.59N 096-45.34W.
-F. 28.35 METERS IN 71-18.28N 096-49.03W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>292329Z SEP 25
-HYDROARC 175/25(15).
-MCCLINTOCK CHANNEL.
-CANADA.
-DNC 28.
-33.6 METER DEPTH REPORTED IN 76-40.36N 102-16.62W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>310015Z AUG 25
-HYDROARC 148/25(15).
-LANCASTER SOUND.
-CANADA.
-DNC 28.
-13.6 METER DEPTH REPORTED IN 74-38.63N 091-20.54W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>290041Z AUG 25
-HYDROARC 145/25(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT PITT ISLAND 69-09.00N 136-11.00W
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ADMIN</category>
-        <status>INFORCE</status>
-        <msgText>171751Z JUL 25
-HYDROARC 103/25.
-CANCELLED ELECTRONIC NAVIGATIONAL CHART (ENC) 
-ADVISORY.
-USERS OF NGA ENC PRODUCTS ARE ADVISED OF 
-POTENTIAL UNINTENDED ECDIS BEHAVIOR WHEN 
-PROCESSING CANCELLED CHARTS, INCLUDING 
-REINSTALLATION OF RECENTLY CANCELLED CHARTS ON 
-SOME SYSTEMS WITHOUT OBVIOUS ERROR OR 
-WARNING MESSAGES.
-NGA HAS CONFIRMED THIS ISSUE AFFECTS NAVY VMS 9.5 AND
-RAYTHEON ANSCHUTZ SYNAPSIS NX SYSTEMS. THIS ISSUE DOES NOT
-AFFECT NAVY ECDIS. OTHER SYSTEMS ARE CURRENTLY UNASSESSED.
-USERS MAY REFERENCE NGAS ENC CATALOG (GLOBAL 
-OR REGIONAL PRODUCT LISTINGS) FOR A LIST OF 
-CANCELLED CHARTS WHICH SHOULD BE UNINSTALLED 
-FROM ECDIS.
-NGAS GLOBAL ENC CATALOG IS AVAILABLE ON
-HTTPS://MCDP.NGA.MIL, WITH REGIONAL ENC PRODUCT 
-LISTING SPREADSHEETS CONTAINED WITHIN EACH
-REGIONS ZIP ON ESYNC, NGAS WEBSITES, AND 
-WORLDCOVER DVD.
-USERS MAY FILTER PRODUCT LISTINGS FOR EDITION OF 
-CXL AND SORT BY ISSUE DATE TO SEE MOST RECENT 
-CANCELLATIONS.
-CHARTS CANCELLED WITHIN THE LAST 90 DAYS ARE 
-ACTIVELY DISSEMINATED BY NGA AND MOST LIKELY 
-CANDIDATES FOR INADVERTENT REINSTALLATION.
-NGA IS CONSULTING WITH THE USER COMMUNITY TO 
-ASSESS POSSIBLE CHANGES TO THE CANCELLED CHART 
-DISSEMINATION PROCESS TO MITIGATE THIS POTENTIAL
-UNINTENDED ECDIS BEHAVIOR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>170858Z DEC 24
-HYDROARC 283/24(16).
-BEAUFORT SEA.
-CHUKCHI SEA.
-ALASKA.
-DNC 27.
-SCIENTIFIC MOORINGS ESTABLISHED:
-A. BCE-24, IN 71-40.40N 154-59.90W, 
-   AT DEPTH 108 METERS, TOP FLOAT 20 METERS.
-B. BCC-24, IN 71-44.10N 155-09.68W, 
-   AT DEPTH 291 METERS, TOP FLOAT 21 METERS.
-C. BCW-24, IN 71-47.80N 155-20.83W, 
-   AT DEPTH 165 METERS, TOP FLOAT 40 METERS.
-D. NAP-24T, IN 74-31.37N 161-56.19W,
-   AT DEPTH 1680 METERS, TOP FLOAT 28 METERS.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>150429Z AUG 23
-HYDROARC 163/23(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT PULLEN ISLAND LIGHT
-69-46.60N 134-24.40W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>111643Z AUG 22
-HYDROARC 198/22(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT SHINGLE POINT BEACON 
-69-00.00N 137-34.50W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-</smaps>
+<html><head><title>Request Rejected</title>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="vtl5gfixibz4u2nxuwvq-f-65a675c97-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":17,"ak.ipv":4,"ak.proto":"h2","ak.rid":"22adaaa2","ak.r":41550,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"172.215.211.0","ak.cport":28696,"ak.gh":"104.117.66.216","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1773643179","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==yT94vd9V2yTQHBTuKcux0ntlNYPIL6S7rJ41Vo5WD4nLn4Ne9r0o49NF4f+IMENxQNuGHUpWnJnYHgKerq+pvmFPDu8OhNLu+Emd9+7bijGRLvubGsUOm/OUoPcxEqqVNQxhhIcdexcBrg2cuvJ7U8X4HAKG1XkgH1uO5NtAZMY0iF2NxCyaZel9hg9odPTy9SUSGSMyc62+x+7aJHhKHQ3HC2zkdfQ7/ne2I9FTX9Eq/P5AjeEPai6S6CPl9aU/cYo1k4n2rNgPq+141OTACd3J62jlUInIjWEAGFUxy/jI72v9i5xB4adsdvpyRAEsbnHlCXLV9SwRLx65okW8c6yZ0KbRy+2sYAnHihdfxF+Ut2baPc2mOeLJ7PRgjUy7V8VcAjBiaZuuRhRUqid2TTseEAJPSZrPixU3WjB5oQQ=","ak.pv":"97","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
+function addVars() {
+    BOOMR.addVar({
+      "akam.msicookie": "3c4450c2ef1848a2d89aa197f34048f1"
+    });
+}
+if (document.addEventListener) {
+        document.addEventListener("onBoomerangLoaded", addVars);
+    } else if (document.attachEvent) {
+        document.attachEvent("onpropertychange", function(e) {
+            if (!e) {
+                e = window.event;
+            }
+            if (e && e.propertyName === "onBoomerangLoaded") {
+                addVars();
+            }
+        });
+    }
+</script></head><script>
+function addVars() {
+    BOOMR.addVar({
+      "akam.msicookie": "3c4450c2ef1848a2d89aa197f34048f1"
+    });
+}
+if (document.addEventListener) {
+        document.addEventListener("onBoomerangLoaded", addVars);
+    } else if (document.attachEvent) {
+        document.attachEvent("onpropertychange", function(e) {
+            if (!e) {
+                e = window.event;
+            }
+            if (e && e.propertyName === "onBoomerangLoaded") {
+                addVars();
+            }
+        });
+    }
+</script></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <4341651936951034805><br><br><a href='javascript:history.back();'>[Go Back]</body></html>
