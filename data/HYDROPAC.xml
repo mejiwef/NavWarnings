@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>171142Z MAR 26
+HYDROPAC 813/26.
+SOUTH CHINA SEA.
+1. F/V PY 97814 TS, FIVE PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
+   IN 12-42.00N 114-40.00E AT 170949Z MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 806/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171032Z MAR 26
+HYDROPAC 812/26.
+BAY OF BENGAL.
+INDIA.
+1. PIPELINE OPERATIONS 20 THRU 31 MAR
+   BY VESSEL GANESH IN AREA BOUND BY
+   16-20.80N 082-07.14E, 16-26.24N 082-04.20E,
+   16-31.86N 082-09.72E, 16-33.06N 082-14.60E,
+   16-33.50N 082-18.53E, 16-32.68N 082-18.98E,
+   16-26.11N 082-16.18E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171014Z MAR 26
+HYDROPAC 811/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0030Z TO 0500Z
+   DAILY 21 MAR THRU 04 APR IN AREA BOUND BY
+   13-38.17N 080-08.92E, 13-42.00N 080-08.92E,
+   13-42.00N 080-14.50E, 13-52.00N 080-20.00E,
+   13-52.00N 080-50.00E, 13-10.00N 080-50.00E,
+   13-10.00N 080-36.00E, 13-26.50N 080-22.00E,
+   13-26.50N 080-18.00E.
+2. CANCEL THIS MSG 040600Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>170524Z MAR 26
@@ -10,22 +59,6 @@ FIJI.
 DNC 06.
 NORTH OVALAU ISLAND LIGHT 17-33.81S 178-50.92E
 UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>170035Z MAR 26
-HYDROPAC 806/26.
-SOUTH CHINA SEA.
-1. F/V PY 97814 TS, FIVE PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-   IN 12-45.00N 114-55.00E AT 162200Z MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP 
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 792/26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -707,24 +740,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>102206Z MAR 26
-HYDROPAC 731/26(22,83).
-SOUTH PACIFIC.
-DNC 06, DNC 07.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1530Z TO 1830Z DAILY 16 AND 17 MAR
-   IN AREA BOUND BY
-   37-41.00S 169-28.00W, 41-47.00S 162-25.00W,
-   50-32.00S 127-42.00W, 50-06.00S 114-02.00W,
-   46-03.00S 098-01.00W, 50-13.00S 096-40.00W,
-   52-31.00S 115-14.00W, 52-48.00S 126-59.00W,
-   46-36.00S 163-10.00W, 43-38.00S 170-48.00W.
-2. CANCEL THIS MSG 171930Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>101625Z MAR 26
@@ -760,21 +775,6 @@ DNC 03.
    16-52.00N 071-33.00E, 16-24.00N 072-09.00E,
    15-48.19N 072-48.21E, 14-56.00N 073-07.19E.
 2. CANCEL THIS MSG 171630Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>070533Z MAR 26
-HYDROPAC 714/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   0420Z TO 0906Z DAILY 15 THRU 21 MAR 
-   IN AREA BOUND BY
-   59-13.00S 168-58.00W, 59-49.00S 163-34.00W,
-   26-03.00S 153-24.00W, 25-23.00S 156-56.00W.
-2. CANCEL THIS MSG 211006Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

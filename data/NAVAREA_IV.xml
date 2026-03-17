@@ -166,17 +166,6 @@ NAVAREA IV 243/26(GEN).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>141835Z MAR 26
-NAVAREA IV 242/26(25).
-CARIBBEAN SEA.
-PUERTO RICO.
-NAVTEX STATION SAN JUAN (R) 
-18-27.00N 066-06.00W OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MODU UPDATE</category>
         <status>INFORCE</status>
         <msgText>140517Z MAR 26

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171102Z MAR 26
+HYDROLANT 528/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-48.00S 057-54.00W.
+   B. A84, 72-33.60S 103-33.60W.
+   C. A85, 68-31.20S 056-42.00W.
+   D. D33A, 65-34.80S 057-50.40W.
+   E. D33C, 65-54.60S 058-18.60W.
+2. CANCEL THIS MSG 181400Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170050Z MAR 26
