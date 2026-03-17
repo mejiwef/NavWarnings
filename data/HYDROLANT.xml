@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171746Z MAR 26
+HYDROLANT 530/26.
+NORTH SEA.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER 
+NOTICE BY M/V RAMFORM VANGUARD TOWING 
+1200 METER LONG CABLES IN AREA BOUND BY
+56-36.90N 003-08.70E, 56-38.50N 003-25.00E,
+56-36.90N 003-25.00E, 56-36.60N 003-08.70E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171545Z MAR 26
+HYDROLANT 529/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A23K, 50-37.00S 035-05.00W.
+   B. A76C, 59-06.00S 036-29.00W.
+   C. A23A, 48-37.00S 030-38.00W.
+   D.58-01.00S 035-47.00W.
+   E. 59-28.00S 049-00.00W.
+   F. 48-46.00S 033-26.00W.
+   G. 52-34.00S 033-22.00W.
+   H. 47-22.00S 031-17.00W.
+   I. 48-43.00S 031-36.00W.
+   J. 48-52.00S 031-11.00W.
+   K. 48-47.00S 030-54.00W.
+   L. 48-46.00S 030-34.00W.
+2. CANCEL THIS MSG 181400Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>171102Z MAR 26
@@ -67,28 +102,6 @@ SENEGAL.
    IN AREA WITHIN 20 MILES OF 14-28.00N 017-52.00W.
 2. CANCEL THIS MSG 181800Z MAR 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161754Z MAR 26
-HYDROLANT 521/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A23K, 50-37.00S 035-05.00W.
-   B. A76C, 59-06.00S 036-29.00W.
-   C. A23A, 48-40.00S 030-40.00W.
-   D. 58-01.00S 035-47.00W.
-   E. 59-28.00S 049-00.00W.
-   F. 48-46.00S 033-34.00W.
-   G. 52-32.00S 033-30.00W.
-   H. 47-12.00S 033-53.00W.
-   I. 48-44.00S 031-49.00W.
-   J. 48-50.00S 031-32.00W.
-   K. 48-48.00S 031-05.00W.
-   L. 48-47.00S 030-40.00W.
-2. CANCEL THIS MSG 171400Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -161,23 +174,6 @@ DNC 10.
    43-53.37N 029-40.76E, 43-54.49N 029-41.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161036Z MAR 26
-HYDROLANT 515/26(29).
-SOUTH ATLANTIC.
-ANTARCTICA.
-DNC 29.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-48.00S 057-54.00W.
-   B. A84, 72-33.60S 103-33.60W.
-   C. A85, 68-31.20S 056-42.00W.
-   D. D33A, 65-34.80S 057-50.40W.
-   E. D33C, 65-54.60S 058-18.60W.
-2. CANCEL THIS MSG 171400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>171205Z MAR 26
+NAVAREA XII 183/26.
+NORTH PACIFIC.
+WEATHER MESSAGE SERVICES INTERRUPTED AT
+USCG REMOTE COMMUNICATION FACILITIES:
+A. PT REYES 37-55.00N 122-24.00W.
+B. HONOLULU 21-22.00N 158-09.00W.
+C. KODIAK 57-46.00N 152-34.00W.
+D. NOME 64-29.00N 165-15.00W.
+E. COLD BAY 55-11.00N 162-42.00W.
+F. ST PAUL 57-09.00N 170-14.00W.
+G. SHEMYA 52-43.00N 174-07.00E.
+H. PT HIGGINS 55-27.00N 131-49.00W.
+I. ASTORIA 46-10.00N 123-49.00W.
+J. BERING SEA 57-46.00N 152-34.00W.
+K. CAMBRIA 33-44N 118-24W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>161953Z MAR 26
