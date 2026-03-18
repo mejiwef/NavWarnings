@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>180057Z MAR 26
+HYDROLANT 531/26(35).
+NORTH SEA.
+SHETLAND ISLANDS.
+DNC 20.
+PERIE BARD LIGHT 59-59.80N 001-09.50W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171746Z MAR 26

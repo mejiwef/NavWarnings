@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>180353Z MAR 26
+HYDROPAC 826/26(93).
+GULF OF THAILAND.
+VIETNAM.
+DNC 03.
+VESSEL, SEVEN PERSONS ON BOARD, SANK 
+IN 08-15.00N 102-32.00E AT 161000Z MAR.
+THREE PERSONS RESCUED, FOUR PERSONS 
+REMAIN MISSING. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FAD</category>
+        <status>INFORCE</status>
+        <msgText>180135Z MAR 26
+HYDROPAC 824/26(74).
+ARAFURA SEA.
+AUSTRALIA.
+DNC 05.
+1. FAD WITH ROPE ADRIFT IN 10-19.51S 133-31.75E
+   AT 170637Z MAR.
+2. CANCEL THIS MSG 210135Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>180036Z MAR 26
+HYDROPAC 821/26(93).
+SOUTH CHINA SEA.
+DNC 11.
+1. F/V PY 97814 TS, FIVE PERSONS ON BOARD,
+   DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
+   IN 12-39.00N 114-31.00E AT 172200Z MAR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A
+   SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 813/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>180008Z MAR 26
@@ -94,21 +141,6 @@ SERVICES INTERRUPTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>171142Z MAR 26
-HYDROPAC 813/26.
-SOUTH CHINA SEA.
-1. F/V PY 97814 TS, FIVE PERSONS ON BOARD,
-   DISABLED AND ADRIFT DUE TO ENGINE FAILURE
-   IN 12-42.00N 114-40.00E AT 170949Z MAR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 806/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171032Z MAR 26
@@ -182,19 +214,6 @@ INDIA.
       20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>161233Z MAR 26
-HYDROPAC 800/26(GEN).
-WESTERN NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E MF AND HF R/T AND DSC 
-   SERVICES UNRELIABLE 171500Z TO 180200Z MAR.
-2. CANCEL THIS MSG 180300Z MAR 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -496,22 +515,6 @@ DNC 03.
    22-35.12N 069-16.12E, 22-28.30N 069-17.10E,
    22-28.45N 068-51.05E.
 2. CANCEL THIS MSG 180830Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131036Z MAR 26
-HYDROPAC 763/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 180400Z TO 180500Z MAR
-   IN AREA BOUND BY
-   17-48.00N 083-35.00E, 17-42.00N 083-18.00E,
-   17-31.00N 083-32.00E, 17-34.80N 083-34.18E,
-   17-39.30N 083-35.60E, 17-43.70N 083-35.70E.
-2. CANCEL THIS MSG 180600Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -980,25 +983,6 @@ DNC 04.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041232Z MAR 26
-HYDROPAC 636/26(94).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-DNC 23.
-CABLE OPERATIONS 041500Z MAR UNTIL FUTHER 
-NOTICE  BY CABLESHIP ILE DE RE IN AREA BOUND BY
-24-09.17N 122-17.08E, 24-13.18N 122-25.54E,
-24-10.17N 122-27.58E, 24-06.84N 122-27.19E,
-23-57.25N 122-37.22E, 23-52.09N 122-44.67E,
-23-45.56N 122-39.79E, 23-51.50N 122-31.28E,
-24-00.72N 122-21.00E, 24-07.18N 122-17.76E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GPS JAMMING</category>
         <status>INFORCE</status>
         <msgText>031647Z MAR 26
@@ -1082,20 +1066,6 @@ DNC 03.
    14-38.70N 074-18.00E, 14-35.00N 074-18.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>012151Z MAR 26
-HYDROPAC 612/26(75).
-TASMAN SEA.
-DNC 05, DNC 06.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V LAYLA
-ALONG TRACKLINE JOINING
-35-51.41S 158-39.40E, 34-52.70S 154-23.03E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1551,17 +1521,6 @@ U.A.E.
 DNC 10.
 12.9 METER DEPTHS REPORTED IN BOROUGE CHANNEL
 24-09.00N 052-45.20E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>161531Z FEB 26
-HYDROPAC 472/26(63).
-ARABIAN SEA.
-PAKISTAN.
-DNC 03.
-MANORA POINT LIGHT 24-46.75N 066-58.98E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
