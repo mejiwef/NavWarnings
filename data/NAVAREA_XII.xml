@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161930Z MAR 26
+NAVAREA XII 184/26(21).
+NORTH PACIFIC.
+GUATEMALA.
+1. NAVAL OPERATIONS 230001Z TO 240700Z MAR
+   IN AREA BOUND BY
+   13-19.05N 090-51.00W, 13-19.05N 090-39.00W,
+   13-07.05N 090-39.00W, 13-07.05N 090-51.00W.
+2. CANCEL THIS MSG 240800Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>171205Z MAR 26

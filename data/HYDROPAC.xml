@@ -3,6 +3,64 @@
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
+        <msgText>181151Z MAR 26
+HYDROPAC 831/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V ON FIRE IN 26-27.44N 056-25.55E.
+MULTIPLE CONTAINERS REPORTED ADRIFT
+IN VICINITY.  VESSELS ARE ADVISED TO
+KEEP CLEAR OF THIS POSITION
+AND TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181112Z MAR 26
+HYDROPAC 830/26.
+ARABIAN SEA.
+INDIA.
+1. UNDERWATER OPERATIONS 20 THRU 31 MAR
+   BY M/V LTS 3000 AND VESSEL BRITOIL 81
+   IN VICINITY OF TRACKLINE JOINING
+   20-36.01N 072-02.13E, 20-02.96N 071-45.71E,
+   19-31.78N 071-18.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181055Z MAR 26
+HYDROPAC 829/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z
+   DAILY 23 AND 27 MAR IN AREA BOUND BY
+   12-49.00N 080-46.00E, 12-59.00N 080-46.00E,
+   12-59.00N 081-26.00E, 12-49.00N 081-26.00E.
+2. CANCEL THIS MSG 271230Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180807Z MAR 26
+HYDROPAC 827/26(82).
+SOUTH PACIFIC.
+SOLOMON ISLANDS.
+DNC 06.
+SURVEY OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V OCEAN SURVEYOR
+IN AREA BOUND BY
+01-27.00S 159-52.00E, 09-26.00S 159-52.00E,
+09-26.00S 161-45.00E, 01-27.00S 161-45.00E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
         <msgText>180353Z MAR 26
 HYDROPAC 826/26(93).
 GULF OF THAILAND.
@@ -464,24 +522,6 @@ DNC 03.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>131141Z MAR 26
-HYDROPAC 767/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   180530Z TO 180700Z MAR IN AREA BOUND BY
-   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL HYDROPAC 726/26.
-3. CANCEL THIS MSG 180800Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131122Z MAR 26
@@ -498,23 +538,6 @@ DNC 03.
    20-09.65N 071-48.42E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131101Z MAR 26
-HYDROPAC 764/26(63).
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 180430Z TO 180730Z MAR
-   IN AREA BOUND BY
-   22-42.11N 068-55.34E, 22-40.00N 069-09.11E,
-   22-35.12N 069-16.12E, 22-28.30N 069-17.10E,
-   22-28.45N 068-51.05E.
-2. CANCEL THIS MSG 180830Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -635,21 +658,6 @@ DNC 03.
       18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 240001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121127Z MAR 26
-HYDROPAC 751/26(63).
-BAY OF BENGAL.
-INDIA.
-DNC 03.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 17
-   AND 18 MAR IN AREA BOUND BY
-   17-30.00N 084-05.00E, 17-30.00N 084-21.00E,
-   17-15.00N 084-21.00E, 17-15.00N 084-05.00E.
-2. CANCEL THIS MSG 181130Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -965,21 +973,6 @@ DNC 03.
    20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
    20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
 2. CANCEL THIS MSG 231230Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>050737Z MAR 26
-HYDROPAC 640/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL FURTHER NOTICE BY M/V DLV 2000
-   IN 20-36.10S 115-36.80E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2452/25.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

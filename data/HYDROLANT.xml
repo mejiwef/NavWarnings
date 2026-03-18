@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>181028Z MAR 26
+HYDROLANT 536/26.
+BLACK SEA.
+ROMANIA.
+1. M/V ASTANA SINKING WITH FIVE PERSONS 
+   OVERBOARD IN 44-16.25N 028-45.90E 
+   AT 180652Z MAR. VESSELS IN VICINITY REQUESTED 
+   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC CONSTANTA
+   EMAIL:  MRCC@RNA.RO.
+2. CANCEL HYDROLANT 535/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180938Z MAR 26
+HYDROLANT 534/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. HAZARDOUS OPERATIONS 1200Z TO 2000Z DAILY
+   23 AND 24 MAR IN AREA WITHIN ONE MILE 
+   OF 23-02.00S 043-03.00W.
+2. CANCEL THIS MSG 242100Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161221Z MAR 26
+HYDROLANT 533/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 0700Z TO 1300Z DAILY
+   23 THRU 27 MAR IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
+   44-19.00N 028-47.00E, 44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 271400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161505Z MAR 26
+HYDROLANT 532/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. HAZARDOUS OPERATIONS 23 MAR THRU 03 APR
+   IN AREA BOUND BY
+   44-25.00N 028-52.00E, 44-25.00N 030-48.00E,
+   43-05.00N 030-48.00E, 43-05.00N 029-25.00E,
+   43-35.00N 029-25.00E, 43-35.00N 029-10.00E,
+   43-45.00N 029-10.00E, 43-45.00N 028-52.00E.
+2. CANCEL THIS MSG 040001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>180057Z MAR 26
@@ -123,7 +185,8 @@ DNC 08.
 1. SUBSURFACE GLIDER ADRIFT IN VICINITY 
    32-13.00N 032-56.00W AT 160607Z MAR
 2. CANCEL HYDROLANT 500/26. 
-3. CANCEL THIS MSG 191644Z MAR 26.</msgText>
+3. CANCEL THIS MSG 191644Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
