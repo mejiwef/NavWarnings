@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>180008Z MAR 26
+HYDROPAC 820/26(71).
+SOUTH CHINA SEA.
+MALAYSIA.
+DNC 03.
+1. BULK CARRIER BOARDED BY FOUR PIRATES
+   IN 01-04.00N 103-36.00E AT 171730Z MAR.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 210008Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>172130Z MAR 26
+HYDROPAC 819/26(75).
+BASS STRAIT.
+AUSTRALIA.
+DNC 05.
+1. CABLE OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY CABLESHIP PETER FABER
+   IN AREA BOUND BY
+   39-05.00S 145-31.00E, 38-59.00S 145-31.00E,
+   38-59.00S 145-40.00E, 39-05.00S 145-40.00E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 775/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171503Z MAR 26
@@ -310,23 +340,6 @@ DNC 12.
    ALTERNATE 192100Z THRU 200900Z MAR
    IN AREA WITHIN 25 MILES OF 31-14.14N 144-26.48E.
 2. CANCEL THIS MSG 210001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131735Z MAR 26
-HYDROPAC 775/26(75).
-BASS STRAIT.
-AUSTRALIA.
-DNC 05.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   FURTHER NOTICE BY CABLESHIP PETER FABER
-   IN AREA BOUND BY
-   39-11.00S 145-58.00E, 39-11.00S 147-08.00E,
-   39-49.00S 147-08.00E, 39-49.00S 145-58.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 715/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
