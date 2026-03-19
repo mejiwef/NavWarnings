@@ -151,20 +151,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>122211Z MAR 26
-NAVAREA XII 171/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 181600Z TO 190001Z MAR
-   IN AREA BOUND BY
-   32-29.50N 120-47.90W, 33-22.30N 121-50.90W,
-   33-37.80N 120-43.30W, 32-46.60N 120-10.90W.
-2. CANCEL THIS MSG 190100Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120733Z MAR 26

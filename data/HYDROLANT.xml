@@ -282,23 +282,6 @@ DNC 01.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>160348Z MAR 26
-HYDROLANT 510/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. DERELICT VESSEL REI JESUS IV, ADRIFT 
-   IN VICINITY 23-10.00S 042-37.00W.
-   REPORTS TO PORT AUTHORITY OF 
-   RIO DE JANEIRO SOUTH, 
-   PHONE: 5 5219 8203, 
-   E-MAIL: CPRJ.DESPACHO@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 190347Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>160031Z MAR 26
