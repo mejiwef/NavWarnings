@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>181950Z MAR 26
+HYDROPAC 835/26(71).
+SOUTH CHINA SEA.
+INDONESIA.
+MALAYSIA.
+DNC 03.
+1. BULK CARRIER BOARDED BY FOUR ARMED PIRATES
+   IN 01-03.00N 103-37.00E AT 181755Z MAR.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 211950Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>181433Z MAR 26
@@ -258,20 +273,6 @@ FIJI.
 DNC 06.
 NORTH OVALAU ISLAND LIGHT 17-33.81S 178-50.92E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>162121Z MAR 26
-HYDROPAC 805/26.
-SOUTH PACIFIC.
-PERU.
-1. GUNNERY EXERCISES 181000Z TO 181800Z MAR
-   IN AREA BOUND BY
-   11-57.00S 077-22.00W, 11-57.00S 077-18.00W,
-   12-01.00S 077-18.00W, 12-01.00S 077-22.00W.
-2. CANCEL THIS MSG 181900Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

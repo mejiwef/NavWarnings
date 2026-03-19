@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>182227Z MAR 26
+HYDROLANT 540/26(37).
+NORTH SEA.
+ENGLAND.
+DNC 20.
+CGOC HUMBER MF DSC AND R/T SERVICES AT
+LANGHAM SITE 52-56.50N 000-57.20E OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>182048Z MAR 26
+HYDROLANT 539/26(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. M/V ASTANA SANK IN
+   44-16.23N 028-45.90E AT 180652Z MAR. 
+   ONE MILE BERTH REQUESTED.
+   REPORTS TO MRCC CONSTANTA,
+   EMAIL: MRCC@RNA.RO.
+2. CANCEL HYDROLANT 536/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>181551Z MAR 26
@@ -36,22 +62,6 @@ ANTARCTICA.
    D. D33A, 65-34.80S 057-50.40W.
    E. D33C, 65-54.60S 058-18.60W.
 2. CANCEL THIS MSG 191400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>181028Z MAR 26
-HYDROLANT 536/26.
-BLACK SEA.
-ROMANIA.
-1. M/V ASTANA SINKING WITH FIVE PERSONS 
-   OVERBOARD IN 44-16.25N 028-45.90E 
-   AT 180652Z MAR. VESSELS IN VICINITY REQUESTED 
-   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC CONSTANTA
-   EMAIL:  MRCC@RNA.RO.
-2. CANCEL HYDROLANT 535/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
