@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>200010Z MAR 26
+NAVAREA IV 262/26.
+NORTH ATLANTIC.
+1. MF AND HF R/T AND DSC SERVICES
+   UNRELIABLE 201330Z TO 201430Z MAR AT
+   USCG REMOTE COMMUNICATION FACILITIES:
+   A. BOSTON 41-43.00N 070-31.00W.
+   B. CHESAPEAKE 36-44.00N 076-01.00W.
+   C. CHARLESTON 32-08.00N 081-42.00W.
+   D. MIAMI 25-30.00N 080-23.00W.
+   E. NEW ORLEANS 29-53.00N 089-57.00W.
+   F. SAN JUAN 18-27.00N 066-06.00W.
+2. CANCEL THIS MSG 201530Z MAR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>191955Z MAR 26
@@ -174,25 +191,6 @@ NAVAREA IV 243/26(GEN).
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
 9. CANCEL THIS MSG 160001Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>132230Z MAR 26
-NAVAREA IV 240/26(12).
-NORTH ATLANTIC.
-VIRGINIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   172200Z TO 180430Z MAR, ALTERNATE
-   2200Z TO 0430Z DAILY 18 THRU 24 MAR
-   IN AREAS WITHIN:
-      A. 9 MILES OF 37-49.60N 075-19.39W.
-      B  11 MILES OF 37-45.59N 075-00.49W.
-      C. 104 MILES OF 36-08.24N 066-16.02W.
-      D. 61 MILES OF 35-23.95N 062-56.71W.
-2. CANCEL NAVAREA IV 229/26.
-3. CANCEL THIS MSG 240530Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

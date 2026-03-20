@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200147Z MAR 26
+HYDROLANT 556/26(24).
+SOUTH ATLANTIC.
+DNC 01.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z DAILY
+   24 THRU 26 MAR IN AREA WITHIN TEN MILES
+   OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 262200Z MAR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>200142Z MAR 26
+HYDROLANT 555/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. ILHEUS LIGHT 14-48.34S 039-01.54W UNLIT 
+   UNTIL 15 SEP.
+2. CANCEL THIS MSG 160001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>191735Z MAR 26
