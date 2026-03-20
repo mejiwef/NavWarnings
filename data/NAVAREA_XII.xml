@@ -108,20 +108,6 @@ ALL HF/MF AND DSC SERVICES ARE INOPERABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>122317Z MAR 26
-NAVAREA XII 176/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1430Z TO 2200Z
-   DAILY 19 AND 20 MAR IN AREA BOUND BY
-   33-12.50N 119-36.10W, 33-42.90N 119-36.00W,
-   33-42.80N 119-07.20W, 33-12.10N 119-07.10W.
-2. CANCEL THIS MSG 202300Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>121635Z MAR 26

@@ -86,31 +86,6 @@ ANTARCTICA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>190622Z MAR 26
-HYDROLANT 542/26(35).
-NORTH ATLANTIC.
-SHETLAND ISLANDS.
-DNC 20.
-CGOC SHETLAND MF DSC AND R/T SERVICES AT
-COLLAFIRTH HILL 60-32.00N 001-23.50W
-OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>182227Z MAR 26
-HYDROLANT 540/26(37).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-CGOC HUMBER MF DSC AND R/T SERVICES AT
-LANGHAM SITE 52-56.50N 000-57.20E OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>182048Z MAR 26
@@ -617,22 +592,6 @@ DNC 01.
    UNTIL 22 AUG.
 2. CANCEL HYDROLANT 365/26.
 3. CANCEL THIS MSG 230001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>181931Z FEB 26
-HYDROLANT 345/26(35,37).
-NORTH SEA.
-ENGLAND.
-DNC 20.
-1. CGOC MF DSC AND R/T SERVICES OFF AIR AT:
-   A. LERWICK 60-08.90N 001-08.40W.
-   B. GREGNESS 57-07.70N 002-03.20W.
-   C. CULLERCOATS 55-04.40N 001-27.80W.
-   D. BAWDSEY 51-59.60N 001-24.50E.
-2. CANCEL HYDROLANT 319/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
