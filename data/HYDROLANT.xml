@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>200709Z MAR 26
+HYDROLANT 557/26.
+NORTH ATLANTIC.
+CANARY ISLANDS.
+1. TEN 40 FOOT CONTAINERS ADRIFT 
+   IN VICINITY 29-35.68N 013-59.88W 
+   AT 191715Z MAR. 
+   REPORTS TO NAVAREA II, 
+   E-MAIL: COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 230708Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200147Z MAR 26
@@ -10,7 +25,8 @@ DNC 01.
 1. HAZARDOUS OPERATIONS 0800Z TO 2100Z DAILY
    24 THRU 26 MAR IN AREA WITHIN TEN MILES
    OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 262200Z MAR 26.</msgText>
+2. CANCEL THIS MSG 262200Z MAR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -22,7 +38,8 @@ BRAZIL.
 DNC 01.
 1. ILHEUS LIGHT 14-48.34S 039-01.54W UNLIT 
    UNTIL 15 SEP.
-2. CANCEL THIS MSG 160001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 160001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -55,7 +72,6 @@ NORTH SEA.
 SCOTLAND.
 GREGNESS 57-07.70N 002-03.20W
 MF R/T OFF AIR.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
