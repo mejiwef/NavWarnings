@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>220959Z MAR 26
+HYDROPAC 882/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V PY 96878 TS, FIVE PERSONS ONBOARD,
+DISABLED AND ADRIFT DUE TO BROKEN SHAFT
+IN 13-15.00N 110-54.00E AT 220858Z MAR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>220935Z MAR 26
+HYDROPAC 881/26.
+CORAL SEA.
+AUSTRALIA.
+THIRTEEN FIVE SHOAL BUOY 13-46.04S 144-09.50E
+LIGHT UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200750Z MAR 26
@@ -108,16 +134,6 @@ DNC 07.
    36-51.00S 073-25.00W, 36-51.00S 073-38.00W.
 2. CANCEL THIS MSG 261900Z MAR 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>210131Z MAR 26
-HYDROPAC 866/26(74).
-CORAL SEA.
-AUSTRALIA.
-THIRTEEN FIVE SHOAL BUOY IN 13-46.04S 144-09.50E.
-UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -812,23 +828,6 @@ DNC 11.
    REPORTS TO MRCC VIETNAM,
    EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 759/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130817Z MAR 26
-HYDROPAC 760/26(81).
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-DNC 12.
-1. HAZARDOUS OPERATIONS 151800Z TO 160600Z
-   MAR, 2100Z TO 0800Z DAILY 18 THRU 21 MAR
-   IN AREA WITHIN FIVE MILES OF 
-   13-29.00N 144-25.00E.
-2. CANCEL HYDROPAC 733/26.
-3. CANCEL THIS MSG 220900Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
