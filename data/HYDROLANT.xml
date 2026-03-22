@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WEATHER </category>
+        <status>INFORCE</status>
+        <msgText>221627Z MAR 26
+HYDROLANT 578/26.
+1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
+   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
+   BY THE EFFECTS OF SOLAR FLARES.
+2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
+   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
+3. CANCEL THIS MSG 230001Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221548Z MAR 26
+HYDROLANT 577/26.
+NORTH ATLANTIC.
+CANARY ISLANDS.
+1. CABLE OPERATIONS 220001 MAR UNTIL FURTHER 
+   NOTICE BY CABLESHIP ILE DOUESSANT
+   IN AREA BOUND BY
+   27-57.51N 016-40.74W, 27-58.58N 016-37.75W,
+   27-55.88N 016-35.13W, 27-54.54N 016-36.29W,
+   27-53.39N 016-40.53W, 27-55.88N 016-43.11W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 451/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221404Z MAR 26
+HYDROLANT 576/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-49.00S 036-23.00W.
+   B. A23A, 48-31.00S 030-37.00W.
+   C. A23K, 50-08.00S 034-03.00W.
+   D. 58-16.00S 035-29.00W.
+   E. 48-37.00S 033-23.00W.
+   F. 52-18.00S 032-39.00W.
+   G. 47-33.00S 030-53.00W.
+   H. 47-49.00S 031-12.00W.
+   I. 48-29.00S 030-07.00W.
+   J. 48-34.00S 030-07.00W.
+   K. 48-31.00S 030-10.00W.
+   L. 45-28.00S 029-55.00W.
+2. CANCEL THIS MSG 231400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221230Z MAR 26
+HYDROLANT 575/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-50.40S 057-39.00W.
+   B. A84, 72-33.00S 103-47.40W.
+   C. A85, 68-34.20S 056-56.40W.
+   D. D33A, 65-37.80S 057-42.00W.
+   E. D33C, 65-58.80S 058-04.80W.
+2. CANCEL THIS MSG 231400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>220825Z MAR 26
@@ -56,46 +126,6 @@ SCOTLAND.
 2. CANCEL HYDROLANT 549/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>211354Z MAR 26
-HYDROLANT 569/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-51.00S 036-17.00W.
-   B. A23A, 48-32.00S 030-35.00W.
-   C. A23K, 50-02.00S 034-30.00W.
-   D. 58-11.00S 035-26.00W.
-   E. 48-37.00S 033-10.00W.
-   F. 52-18.00S 032-39.00W.
-   G. 47-24.00S 030-49.00W.
-   H. 48-45.00S 030-46.00W.
-   I. 48-39.00S 030-04.00W.
-   J. 48-38.00S 030-15.00W.
-   K. 48-35.00S 030-10.00W.
-   L. 45-28.00S 031-32.00W.
-2. CANCEL THIS MSG 221400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>211324Z MAR 26
-HYDROLANT 568/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN:
-   A. A81, 64-48.00S 057-54.00W.
-   B. A84, 72-33.60S 103-33.60W.
-   C. A85, 68-31.20S 056-42.00W.
-   D. D33A, 65-34.80S 057-50.40W.
-   E. D33C, 65-54.60S 058-18.60W.
-2. CANCEL THIS MSG 221400Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>211114Z MAR 26
@@ -105,18 +135,6 @@ CANARY ISLANDS.
 1. 12 CONTAINERS ADRIFT IN VICINITY
    29-44.00N 013-53.00W AT 201203Z MAR.
 2. CANCEL THIS MSG 241114Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>210300Z MAR 26
-HYDROLANT 565/26.
-NORTH SEA.
-SCOTLAND.
-DNC 20.
-RACON AT BUCHAN NESS LIGHT 
-57-28.20N 001-46.50W INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -547,23 +565,6 @@ BRAZIL.
 DNC 01.
 1. CAETE LIGHT 00-49.02S 046-36.86W DESTROYED.
 2. CANCEL THIS MSG 030001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>062100Z MAR 26
-HYDROLANT 451/26(51).
-NORTH ATLANTIC.
-CANARY ISLANDS.
-DNC 01.
-1. CABLE OPERATIONS 070001 MAR UNTIL FURTHER
-   NOTICE BY CABLESHIP ILE D OUESSANT
-   IN AREA BOUND BY
-   28-05.46N 017-04.64W, 28-04.14N 017-01.81W,
-   28-02.78N 017-02.81W, 28-03.96N 017-05.35W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 450/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
