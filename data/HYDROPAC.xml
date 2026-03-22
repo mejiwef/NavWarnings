@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>200750Z MAR 26
+HYDROPAC 877/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 272200Z TO 281200Z MAR
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 281300Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>212225Z MAR 26
 HYDROPAC 875/26.
 TASMAN SEA.
@@ -816,23 +832,6 @@ DNC 12.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>122326Z MAR 26
-HYDROPAC 757/26(83).
-SOUTH PACIFIC.
-DNC 06.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2331Z TO 0417Z DAILY 20 TO 21 MAR,
-   0402Z TO 0848Z DAILY 23 THRU 27 MAR
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 270948Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>121235Z MAR 26
@@ -1013,21 +1012,6 @@ DNC 05.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>081301Z MAR 26
-HYDROPAC 686/26(93).
-SOUTH CHINA SEA.
-DNC 03.
-MAN OVERBOARD FROM M/V KG 94093 TS
-IN 06-48.00N 104-23.00E AT 060657Z MAR.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>080912Z MAR 26
@@ -1062,21 +1046,6 @@ DNC 03.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 678/26.
 3. CANCEL THIS MSG 080001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>070412Z MAR 26
-HYDROPAC 674/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-MAN OVERBOARD FROM F/V BV 97779 TS IN VICINITY 
-07-50.00N 107-24.00E AT 052100Z MAR. VESSELS IN 
-VICINITY REQUESTED TO KEEP A SHARP LOOKOUT, 
-ASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM, 
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
