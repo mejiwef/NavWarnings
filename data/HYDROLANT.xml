@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241122Z MAR 26
+HYDROLANT 592/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-50.40S 057-39.00W.
+   B. A84, 72-33.00S 103-47.40W.
+   C. A85, 68-34.20S 056-56.40W.
+   D. D33A, 65-37.80S 057-42.00W.
+   E. D33C, 65-58.80S 058-04.80W.
+2. CANCEL THIS MSG 251400Z MAR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>240010Z MAR 26
@@ -192,18 +209,6 @@ SCOTLAND.
 1. GREGNESS 57-07.70N 002-03.20W
    MF R/T AND DSC OFF AIR
 2. CANCEL HYDROLANT 549/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>211114Z MAR 26
-HYDROLANT 567/26.
-NORTH ATLANTIC.
-CANARY ISLANDS.
-1. 12 CONTAINERS ADRIFT IN VICINITY
-   29-44.00N 013-53.00W AT 201203Z MAR.
-2. CANCEL THIS MSG 241114Z MAR 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
