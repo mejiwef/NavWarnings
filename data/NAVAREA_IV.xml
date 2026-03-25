@@ -475,19 +475,6 @@ TRINIDAD AND TOBAGO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>200632Z Feb 26
-NAVAREA IV 158/26(26).
-CARIBBEAN SEA.
-COLOMBIA.
-LIGHTS UNLIT: 
-A. SERRANILLA BANK 15-47.80N 079-50.90W.
-B. S. HEAD PROVIDENCIA ISLAND 13-19.30N 081-23.00W.
-C. QUITA SUENO BANK 14-29.30N 081-08.20W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICES</category>
         <status>INFORCE</status>
         <msgText>112030Z FEB 26

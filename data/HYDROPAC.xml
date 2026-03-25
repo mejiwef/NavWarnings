@@ -301,16 +301,6 @@ CHILE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>201528Z MAR 26
-HYDROPAC 861/26.
-CORAL SEA.
-AUSTRALIA.
-FIRST THREE MILE LIGHT 13-26.21S 143-58.15E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROPAC 860/26.
@@ -919,22 +909,6 @@ DNC 03.
       19-08.52N 072-15.71E, 19-08.86N 071-55.54E.
 2. WIDE BERTH REQUESTED.
 3. CANCEL THIS MSG 130001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>101625Z MAR 26
-HYDROPAC 727/26(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-MAN OVERBOARD FROM F/V KG 95461 TS
-IN 06-59.00N 105-02.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

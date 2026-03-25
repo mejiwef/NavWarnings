@@ -206,21 +206,6 @@ SCOTLAND.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>201624Z MAR 26
-HYDROLANT 563/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 240001 TO 250001 MAR
-   IN AREA BOUND BY
-   27-07.10N 013-59.90W, 27-06.50N 014-12.70W,
-   27-00.40N 014-19.10W, 26-53.20N 014-22.10W,
-   26-50.00N 014-22.40W, 26-50.00N 014-00.00W.
-2. CANCEL THIS MSG 250100Z MAR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>201557Z MAR 26
 HYDROLANT 562/26.
 NORTH ATLANTIC.
