@@ -13,21 +13,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 031600Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>242305Z MAR 26
-NAVAREA XII 204/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 251400Z TO 251900Z MAR,
-   ALTERNATE 261800Z TO 262300Z MAR
-   IN AREA BOUND BY
-   35-15.35N 121-55.78W, 34-29.38N 123-00.95W,
-   33-14.53N 122-22.70W, 34-04.42N 120-52.22W.
-2. CANCEL NAVAREA XII 191/26.
-3. CANCEL THIS MSG 270001Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>211039Z MAR 26
@@ -99,17 +84,6 @@ NORTH PACIFIC.
    32-40.17N 122-31.10W.
 2. CANCEL NAVAREA XII 190/26.
 3. CANCEL THIS MSG 272200Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130255Z FEB 26
-NAVAREA XII 194/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 261600Z TO 262200Z MAR
-   IN AREA WITHIN TWO MILES OF 32-35.62N 117-10.95W.
-2. CANCEL THIS MSG 262300Z MAR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
