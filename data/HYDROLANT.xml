@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>281810Z MAR 26
+HYDROLANT 620/26(55).
+BLACK SEA.
+BULGARIA.
+DNC 10.
+1. OBJECT ADRIFT IN 43-49.40N 028-43.30E.
+   AT 281442Z MAR.
+2. CANCEL THIS MSG 010001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>281418Z MAR 26
