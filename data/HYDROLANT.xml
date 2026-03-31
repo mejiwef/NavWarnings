@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>311736Z MAR 26
+HYDROLANT 645/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. 12 METER VESSEL, DARK BLUE HULL, CAPSIZED
+   AND ADRIFT IN VICINITY 34-18.70N 008-26.90W
+   AT 311300Z MAR. REPORTS TO NAVAREA II,
+   EMAIL: COORD.NAVAREA2@SHOM.FR.
+2. CANCEL HYDROLANT 643/26.
+3. CANCEL THIS MSG 030001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311607Z MAR 26
+HYDROLANT 644/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 
+   010800Z TO 011900Z APR
+   IN 33-41.00N 008-03.00W.
+2. CANCEL THIS MSG 012000Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>311347Z MAR 26
+HYDROLANT 642/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 59-15.00S 036-30.00W.
+   B. 51-24.00S 033-02.00W.
+   C. 48-45.00S 032-44.00W.
+   D. 48-05.00S 029-55.00W.
+   E. 48-24.00S 029-59.00W.
+   F. 47-27.00S 029-18.00W.
+   G. 48-26.00S 030-10.00W.
+   H. 50-02.00S 034-24.00W.
+   I. 50-08.00S 030-02.00W.
+   J. 45-14.00S 034-19.00W.
+2. CANCEL THIS MSG 011400Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>311112Z MAR 26
@@ -40,7 +89,8 @@ BRAZIL.
 1. PONTA DOS MEROS LIGHT 23-13.57S 044-20.83W
    UNLIT UNTIL 26 SEP.
 2. CANCEL HYDROLANT 635/26.
-3. CANCEL THIS MSG 270001Z SEP 26.</msgText>
+3. CANCEL THIS MSG 270001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -51,7 +101,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. MASSAGUACU LIGHT 23-37.72S 045-22.18W UNLIT
    UNTIL 26 SEP.
-2. CANCEL THIS MSG 270001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 270001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -62,7 +113,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. ILHA DO TOQUE-TOQUE LIGHT 23-51.34S 045-31.50W
    UNLIT UNTIL 26 SEP.
-2. CANCEL THIS MSG 270001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 270001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -90,43 +142,6 @@ ROMANIA.
 1. OBJECT ADRIFT IN 44-32.09N 029-22.09E
    AT 301100Z MAR.
 2. CANCEL THIS MSG 021200Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301406Z MAR 26
-HYDROLANT 632/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 59-12.00S 036-33.00W.
-   B. 51-28.00S 032-58.00W.
-   C. 48-45.00S 032-44.00W.
-   D. 48-05.00S 029-55.00W.
-   E. 48-24.00S 029-59.00W.
-   F. 47-27.00S 029-18.00W.
-   G. 48-26.00S 030-16.00W.
-   H. 50-02.00S 034-24.00W.
-   I. 50-08.00S 030-02.00W.
-   J. 45-14.00S 034-19.00W.
-2. CANCEL THIS MSG 311400Z MAR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301304Z MAR 26
-HYDROLANT 631/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-51.60S 057-33.00W.
-   B. A84, 73-06.00S 103-53.40W.
-   C. A85, 68-29.40S 057-04.80W.
-   D. D33A, 65-38.40S 057-37.20W.
-   E. D33C, 66-02.40S 057-57.00W.
-2. CANCEL THIS MSG 311400Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -570,21 +585,6 @@ NIGERIA.
    EIGHT MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 501/26.
 3. CANCEL THIS MSG 060001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161439Z MAR 26
-HYDROLANT 519/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1400Z DAILY
-   24 AND 31 MAR IN AREA BOUND BY
-   44-15.00N 029-30.00E, 44-05.00N 029-30.00E,
-   44-05.00N 029-08.00E, 44-15.00N 029-08.00E.
-2. CANCEL HYDROLANT 77/26.
-3. CANCEL THIS MSG 311500Z MAR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

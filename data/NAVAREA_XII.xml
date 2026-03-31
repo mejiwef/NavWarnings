@@ -220,20 +220,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 031600Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>211039Z MAR 26
-NAVAREA XII 201/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1316Z TO 1502Z DAILY 29 MAR THRU 04 APR
-   IN AREA BOUND BY
-   44-01.00N 166-02.00W, 43-35.00N 163-25.00W,
-   31-59.00N 166-52.00W, 32-24.00N 169-06.00W.
-2. CANCEL THIS MSG 041602Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>181910Z MAR 26

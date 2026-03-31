@@ -146,17 +146,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>272022Z MAR 26
-NAVAREA IV 293/26(24).
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-BRIGAND HILL LIGHT
-IN 10-29.60N 061-04.20W.
-UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>NAVAREA IV 291/26.
