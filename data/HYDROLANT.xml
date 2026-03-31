@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>311112Z MAR 26
+HYDROLANT 641/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-51.60S 057-33.00W.
+   B. A84, 73-06.00S 103-53.40W.
+   C. A85, 68-29.40S 057-04.80W.
+   D. D33A, 65-38.40S 057-37.20W.
+   E. D33C, 66-02.40S 057-57.00W.
+2. CANCEL THIS MSG 011400Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311106Z MAR 26
+HYDROLANT 640/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 01 THRU 02 APR
+   IN AREA WITHIN FIVE MILES OF 
+   44-04.31N 029-58.20E.
+2. CANCEL THIS MSG 030001Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>310105Z MAR 26
@@ -989,28 +1019,6 @@ DNC 01.
 1. ODAS BUOY BRAVO PI ESTABLISHED UNTIL 23 MAY 26
    IN 02-30.81S 041-31.97W.
 2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201048Z NOV 25
-HYDROLANT 1963/25(55).
-BLACK SEA.
-TURKEY.
-DNC 10.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 25 APR 26 BY M/V NEFRIT
-   ALONG TRACKLINE JOINING
-   43-24.72N 036-14.51E, 43-13.57N 034-52.55E,
-   43-06.08N 033-54.67E, 42-59.05N 032-20.78E,
-   42-49.73N 030-47.82E, 42-40.80N 030-30.07E,
-   42-11.10N 029-36.98E, 41-56.07N 029-08.98E,
-   41-45.96N 028-35.76E, 41-39.17N 028-10.55E,
-   41-39.10N 028-09.37E, 41-39.22N 028-08.22E,
-   41-39.60N 028-05.35E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z APR 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
