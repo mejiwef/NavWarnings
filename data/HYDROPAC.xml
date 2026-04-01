@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011152Z APR 26
+HYDROPAC 986/26.
+ANDAMAN SEA.
+THAILAND.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+   BY VESSEL CABLESHIP RENE DESCARTES
+   ALONG TRACKLINE JOINING
+   07-00.30N 097-04.50E, 07-11.90N 096-45.90E,
+   07-21.70N 096-22.00E, 07-34.60N 095-59.20E,
+   07-49.20N 095-36.40E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 964/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011141Z APR 26
+HYDROPAC 985/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 02 APR THRU 01 MAY 
+   BY VESSEL AHT ZD AQUARIUS
+   IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 020001Z MAY 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011133Z APR 26
+HYDROPAC 984/26.
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDONESIA.
+1. HAZARDOUS OPERATIONS 
+   061430Z TO 081430Z IN AREA BOUND BY
+   07-52.30N 090-05.23E, 07-56.23N 094-00.00E,
+   06-30.30N 093-59.42E, 06-25.00N 092-00.00E,
+   06-58.47N 090-06.35E.
+2. CANCEL THIS MSG 081530Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>312215Z MAR 26
@@ -23,22 +80,6 @@ CORAL SEA.
 AUSTRALIA.
 SOUTH BARROW ISLET LIGHT 14-20.79S 144-39.16E
 UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>311742Z MAR 26
-HYDROPAC 980/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V QNG 94985 TS, NINE PERSONS ON BOARD,
-FLOODING DUE TO COLLISION
-IN 15-15.00N 109-47.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -214,19 +255,6 @@ INDIA.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAY 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER CABLE</category>
-        <status>INFORCE</status>
-        <msgText>301334Z MAR 26
-HYDROPAC 964/26.
-ANDAMAN SEA.
-INDIA.
-UNDERWATER CABLE ESTABLISHED
-IN PROGRESS UNTIL FURTHER NOTICE
-ALONG TRACKLINE JOINING
-07-34.60N 095-59.20E, 07-49.20N 095-36.40E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -610,20 +638,6 @@ INDIA.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>251438Z MAR 26
-HYDROPAC 914/26.
-NORTH PACIFIC.
-DNC 12.
-1. GUNNERY EXERCISES 2200Z TO 0800Z DAILY
-   29 AND 30 MAR, ALTERNATE 312200Z MAR 
-   TO 010800Z APR IN AREA WITHIN 
-   25.00 MILES OF 31-14.14N 144-26.48E.
-2. CANCEL THIS MSG 010900Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

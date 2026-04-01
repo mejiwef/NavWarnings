@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010943Z APR 26
+HYDROLANT 651/26.
+SOUTH ATLANTIC.
+1. SURVEY OPERATIONS 011000Z TO 302000Z APR 
+   BY VESSEL USV TUPAN II IN AREA BOUND BY
+   25-26.00S 044-00.80W, 25-26.80S 043-54.30W,
+   25-31.70S 043-54.30W, 25-31.70S 044-00.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 302100Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010936Z APR 26
+HYDROLANT 650/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 060001Z TO 072359Z APR
+   IN AREA BOUND BY
+   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
+   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
+2. CANCEL THIS MSG 080059Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010930Z APR 26
+HYDROLANT 649/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 1700Z TO 1800Z 
+   DAILY 06 THRU 10 APR IN AREA WITHIN 
+   FIVE MILES OF 25-28.00S 040-30.00W.
+2. CANCEL THIS MSG 101900Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>010922Z APR 26
+HYDROLANT 648/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. M/V BP BURRA LEITEIRA, SIX PERSONS ON BOARD,
+   DISABLED AND ADRIFT IN 05-05.73S 035-02.82W
+   ON 30 MAR. VESSELS IN VICINITY REQUESTED 
+   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO SALVAMAR NORDESTE,
+   PHONE: 5584 3216 3018, 55 849 8867 0354,
+   E-MAIL: MRCCNATAL@MARINHA.MIL.BR.
+2. CANCEL HYDROLANT 634/26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>010109Z APR 26
@@ -12,7 +70,8 @@ ATLANTIC OCEAN.
    ALONG TRACKLINE JOINING
    02-33.30N 002-22.20E, 02-28.27S 028-42.91W.
    WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 488/26.</msgText>
+2. CANCEL HYDROLANT 488/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -131,22 +190,6 @@ BRAZIL.
 1. ILHA DO TOQUE-TOQUE LIGHT 23-51.34S 045-31.50W
    UNLIT UNTIL 26 SEP.
 2. CANCEL THIS MSG 270001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>310017Z MAR 26
-HYDROLANT 634/26.
-SOUTH ATLANTIC.
-BRAZIL.
-M/V BURRA LEITEIRA, SIX PERSONS ON BOARD,
-DISABLED AND ADRIFT IN 05-05.73S 035-02.82W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO SALVAMAR NORDESTE,
-PHONE: 5584 3216 3018 ,
-EMAIL: MRCCNATAL@MARINHA.MIL.BR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
