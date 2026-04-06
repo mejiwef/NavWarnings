@@ -1,38 +1,548 @@
-<html><head><title>Request Rejected</title>
-                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="cs63uaiximqs22otuybq-f-b577aeb42-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"h2","ak.rid":"18a589a","ak.r":44793,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"20.189.186.0","ak.cport":34690,"ak.gh":"23.67.78.41","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1775478275","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==5/b/r4B/fwW+xdlKsGZhsE0zIyBllUy7LO5CnNl2BEYBINptWCFLQFpJ/RbMXy8p/AEk5o2FK+Nl7ePad+nEsRGmrW46LZSOxcONYLCo3UEidIYjBMSXu4J3ak4j2d5JoOlfRwG0vyyYuB0cnqWVcT2SGr5QwZe0wFAywUa7M1p744Vlh+SwdeZKpomygk9fF87F8rdnZmnzT8gdjQfLBG+xIZDMMkPOjf0Dz1Hd4W6prUB25KttkP16kvAnhS/nvkhE2TtSm0zaAB+ooVdi13mKPm4Iq12W//k29sKvwH00kW/pI5iELvjZM3tdBmkaOITwFIWgoQ5HRs2rQ7j5VhRQoDmq+3kDquPGDGVUuqz9tMxYPSt2i7fZy3yC5OIr9T7cbwlGsY4By0CvPO4NYq94rRMcIwG3pZxhJzQAPzA=","ak.pv":"97","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "2040f13391f49fa7560b122e6cdb971c"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "2040f13391f49fa7560b122e6cdb971c"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: <908723038728326065><br><br><a href='javascript:history.back();'>[Go Back]</body></html>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<smaps>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>310805Z MAR 26
+NAVAREA XII 233/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: 
+   A. 110200Z TO 110624Z APR, ALTERNATE 
+      0200Z TO 0624Z DAILY 12 THRU 17 APR
+      IN AREA BOUND BY
+      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
+      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
+      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
+   B. 110200Z TO 110643Z APR, ALTERNATE 
+      0200Z TO 0643Z DAILY 12 THRU 17 APR
+      IN AREA BOUND BY
+      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
+      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
+      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
+      28-48.00N 121-25.00W.
+2. CANCEL THIS MSG 170743Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>040115Z APR 26
+NAVAREA XII 232/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   102336Z TO 110238Z APR
+   IN AREAS BOUND BY:
+   A. 29-43.00N 128-00.00W, 22-03.00N 142-14.00W,
+      20-33.00N 141-10.00W, 28-07.00N 127-04.00W.      
+   B. 32-33.00N 118-03.00W, 32-33.00N 117-33.00W,
+      32-07.00N 117-33.00W, 32-07.00N 118-03.00W.     
+2. CANCEL THIS MSG 110338Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040235Z APR 26
+NAVAREA XII 230/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 091230Z TO 100100Z
+   AND 101230Z TO 110100Z APR, ALTERNATE
+   111230Z TO 120100Z APR IN AREA BOUND BY
+   32-57.25N 120-37.92W, 33-35.50N 120-40.82W,
+   33-56.45N 119-34.80W, 33-46.02N 119-14.62W,
+   32-57.07N 119-54.35W.
+2. CANCEL THIS MSG 120200Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>NAVAREA XII 228/26.
+1. NAVAREA XII WARNINGS IN FORCE AS OF 031532Z APR. 
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   227/2026, 226/2026, 225/2026, 224/2026, 
+   221/2026, 219/2026, 216/2026, 211/2026, 
+   209/2026, 207/2026, 206/2026, 205/2026, 
+   177/2026, 162/2026, 125/2026, 98/2026, 
+   88/2026. 
+   718/2025, 678/2025, 422/2025, 392/2025, 
+   354/2025, 344/2025, 338/2025, 259/2025, 
+   208/2025. 
+   862/2024, 441/2024. 
+   93/2023. 
+   721/2022, 720/2022, 244/2022, 243/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE NAVAREA XII
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
+3. CANCEL NAVAREA XII 213/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>030926Z APR 26
+NAVAREA XII 226/26.
+NORTH PACIFIC.
+HAWAII. 
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   2143Z TO 2325Z DAILY 08 THRU 19 APR
+   IN AREA BOUND BY
+   27-28.71N 171-24.34W, 13-38.98N 174-00.45W,
+   01-35.98N 175-48.45W, 00-54.72N 172-43.89W,
+   12-22.59N 170-40.14W, 16-45.76N 170-06.75W,
+   26-43.75N 168-39.09W.
+2. CANCEL THIS MSG 200025Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>021749Z APR 26
+NAVAREA XII 225/26.
+NORTH PACIFIC.
+F/V DON MACA, 22 PERSONS ON BOARD,
+UNREPORTED. LAST KNOWN POSITION IN VICINITY
+02-25.00N 095-20.00W AT 262300Z MAR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO ANY COASTAL RADIO STATION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>012019Z APR 26
+NAVAREA XII 224/26.
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS:
+   A. 1100Z TO 1856Z DAILY 07 AND 08 APR
+      IN AREA BOUND BY
+      34-31.00S 084-52.00W, 34-24.00S 084-38.00W,
+      38-29.00S 081-15.00W, 38-40.00S 081-27.00W.
+   B. 1100Z TO 1708Z DAILY 07 AND 08 APR
+      IN AREA BOUND BY
+      21-22.00N 115-19.00W, 21-13.00N 115-19.00W,
+      21-14.00N 115-25.00W, 22-09.00N 115-44.00W,
+      22-07.00N 115-37.00W.
+   C. 1100Z TO 1737Z DAILY 07 AND 08 APR
+      IN AREA BOUND BY
+      18-34.00N 113-45.00W, 18-41.00N 113-23.00W,
+      16-54.00N 112-47.00W, 16-49.00N 113-03.00W.
+2. CANCEL THIS MSG 081956Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>250922Z MAR 26
+NAVAREA XII 221/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 050239Z TO 050703Z APR, ALTERNATE 
+      0239Z TO 0703Z DAILY 06 THRU 11 APR 
+      IN AREA BOUND BY
+      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
+      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
+      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
+   B. 050239Z TO 050722Z APR, ALTERNATE 
+      0239Z TO 0722Z DAILY 06 THRU 11 APR 
+      IN AREA BOUND BY
+      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
+      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
+      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
+      28-48.00N 121-25.00W.
+2. CANCEL THIS MSG 110822Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>280808Z MAR 26
+NAVAREA XII 216/26.
+NORTH PACIFIC.
+WEATHER MESSAGE SERVICES INTERRUPTED AT
+USCG REMOTE COMMUNICATION FACILITIES:
+   A. PT REYES 37-55.00N 122-24.00W.
+   B. HONOLULU 21-22.00N 158-09.00W.
+   C. KODIAK 57-46.00N 152-34.00W.
+   D. NOME 64-29.00N 165-15.00W.
+   E. COLD BAY 55-11.00N 162-42.00W.
+   F. ST PAUL 57-09.00N 170-14.00W.
+   G. SHEMYA 52-43.00N 174-07.00E.
+   H. PT HIGGINS 55-27.00N 131-49.00W.
+   I. ASTORIA 46-10.00N 123-49.00W.
+   J. BERING SEA 57-46.00N 152-34.00W.
+   K. CAMBRIA 33-44N 118-24W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>242150Z MAR 26
+NAVAREA XII 211/26.
+NORTH PACIFIC.
+HAWAII.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
+   A. 012224Z TO 020312Z APR, ALTERNATE
+      022322Z TO 030410Z, 040001Z TO 040448Z
+      050053Z TO 050541Z, 060140Z TO 060628Z
+      AND 070236Z TO 070724Z APR 
+      IN AREA BOUND BY
+      30-43.00N 150-36.00W, 31-28.00N 131-51.00W,
+      26-58.00N 132-16.00W, 25-38.00N 131-56.00W,
+      21-33.00N 130-41.00W, 19-18.00N 129-41.00W,
+      15-33.00N 126-51.00W, 05-07.00N 140-10.00W,
+      10-17.00N 143-30.00W, 11-47.00N 144-25.00W,
+      20-42.00N 148-15.00W, 23-33.00N 148-56.00W.
+   B. 022319Z TO 030219Z APR IN AREA BOUND BY
+      25-36.00N 121-43.00W, 24-02.00N 121-54.00W,
+      23-36.00N 155-45.00W, 25-10.00N 155-59.00W.
+   C. 040017Z TO 040317Z APR IN AREA BOUND BY
+      26-46.00N 123-00.00W, 24-54.00N 123-15.00W,
+      24-27.00N 157-03.00W, 26-19.00N 157-21.00W.
+   D. 050055Z TO 050355Z APR IN AREA BOUND BY
+      25-22.00N 120-00.00W, 23-54.00N 120-10.00W,
+      23-28.00N 154-01.00W, 24-54.00N 154-14.00W.
+   E. 060148Z TO 060448Z APR IN AREA BOUND BY
+      22-33.00N 120-49.00W, 20-06.00N 121-04.00W,
+      19-46.00N 154-27.00W, 22-12.00N 154-46.00W.
+   F. 070235Z TO 070535Z APR IN AREA BOUND BY
+      19-30.00N 121-25.00W, 14-45.00N 121-46.00W,
+      14-10.00N 154-59.00W, 18-51.00N 155-30.00W.
+   G. 080331Z TO 080631Z APR IN AREA BOUND BY
+      15-44.00N 124-16.00W, 11-33.00N 124-33.00W,
+      11-20.00N 158-32.00W, 15-29.00N 158-52.00W.
+2. CANCEL THIS MSG 080731Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270835Z MAR 26
+NAVAREA XII 207/26.
+GULF OF PANAMA.
+NORTH PACIFIC.
+PANAMA.
+CABLE OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY CABLESHIP ILE DE SEIN
+ALONG TRACKLINE JOINING
+05-32.79N 079-31.24W, 05-40.47N 079-30.76W,
+06-16.99N 079-27.45W, 06-46.26N 079-13.27W,
+07-09.26N 078-43.60W, 07-42.97N 078-50.36W,
+08-10.96N 079-11.60W, 08-46.69N 079-14.41W,
+08-55.85N 079-24.36W.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>180118Z MAR 26
+NAVAREA XII 206/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 012303Z TO 020327Z APR, ALTERNATE
+      2303Z TO 0327Z DAILY 02 THRU 07 APR
+      IN AREA BOUND BY
+      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
+      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
+      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
+   B. 012303Z TO 020346Z APR, ALTERNATE
+      2303Z TO 0346Z DAILY 02 THRU 07 APR
+      IN AREA BOUND BY
+      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
+      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
+      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
+      28-48.00N 121-25.00W.
+2. CANCEL THIS MSG 080446Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>141713Z MAR 26
+NAVAREA XII 177/26(19).
+NORTH PACIFIC.
+UNITED STATES.
+HAWAII.
+USCG REMOTE COMMUNICATION FACILITY HONOLULU (NMO) 
+IN 21-22.00N 158-09.00W. 
+ALL HF/MF AND DSC SERVICES ARE INOPERABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>100104Z MAR 26
+NAVAREA XII 162/26(17).
+NORTH PACIFIC.
+CANADA.
+NAVTEX STATION DIGBY ISLAND (D)
+54-17.85N 130-25.10W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>252035Z FEB 26
+NAVAREA XII 125/26(16).
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY
+COLD BAY 55-11.00N 162-42.00W. HF TRANSMIT
+AND RECEIVE SERVICES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>171634Z FEB 26
+NAVAREA XII 98/26(16).
+BERING SEA.
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY SHEMYA
+52-43.00N 174-07.00E HF TRANSMIT AND RECEIVE
+SERVICES INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>112030Z FEB 26
+NAVAREA XII 88/26(GEN).
+EASTERN NORTH PACIFIC.
+DSC SERVICES UNAVAILABLE AT USCG
+REMOTE COMMUNICATION FACILITIES:
+A. HONOLULU (O) 21-26.00N 158-09.00W.
+B. PT REYES (C) 37-56.00N 122-44.00W.
+C. KODIAK (J) 57-46.00N 152-34.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>132105Z NOV 25
+NAVAREA XII 718/25(16).
+GULF OF ALASKA.
+1. WEATHER FAX SERVICES OFF AIR AT 
+   USCG REMOTE COMMUNICATION FACILITY 
+   KODIAK (J) 57-46.00N 152-34.00W.
+2. CANCEL NAVAREA XII 460/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FISHING GEAR</category>
+        <status>INFORCE</status>
+        <msgText>300805Z OCT 25
+NAVAREA XII 678/25(22).
+NORTH PACIFIC.
+COLOMBIA.
+FISH FARM ESTABLISHED IN AREA BOUND BY
+07-10.96N 077-54.60W, 06-56.19N 078-07.51W,
+06-50.73N 078-04.75W, 06-11.42N 077-51.53W,
+06-03.57N 077-49.63W, 06-03.55N 077-32.02W,
+06-10.59N 077-31.38W, 06-17.90N 077-33.61W,
+06-31.64N 077-28.82W, 06-49.13N 077-44.24W.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>141418Z JUL 25
+NAVAREA XII 422/25(16).
+BERING STRAIT.
+ALASKA.
+SCIENTIFIC MOORINGS, AT DEPTH 15 METERS,
+ESTABLISHED IN: 
+   A. 65-46.86N 168-34.07W.
+   B. 65-44.76N 168-15.75W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>242359Z JUN 25
+NAVAREA XII 392/25(16).
+NORTH PACIFIC.
+M/V MORNING MIDAS SANK IN 45-16.88N 179-14.13W.
+VESSELS IN VICINITY REQUESTED TO NAVIGATE WITH
+CAUTION AND REPORT PRESENCE OF OIL SHEENS OR
+DEBRIS TO USCG SECTOR WESTERN ALASKA AND US ARCTIC,
+PHONE: 907 428 4100, E-MAIL: SOUTHWESTERNAK@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>130011Z JUN 25
+NAVAREA XII 354/25(GEN).
+EASTERN NORTH PACIFIC.
+MESSAGING SERVICES UNRELIABLE AT
+USCG REMOTE COMMUNICATION FACILITIES:
+A. PT REYES (C) 37-55.50N 122-43.90W.
+B. HONOLULU (O) 21-26.00N 158-09.00W.
+C. KODIAK (J) 57-46.00N 152-34.00W.
+D. ASTORIA (W) 46-10.00N 123-49.00W.
+E. CAMBRIA (Q) 33-44.00N 118-24.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>100619Z JUN 25
+NAVAREA XII 344/25(16).
+BERING SEA.
+ALASKA.
+COMMDET KODIAK, AK REMOTE SITE SHEMYA 
+52-43.00N 174-07.00E HF R/T SERVICES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>071202Z JUN 25
+NAVAREA XII 338/25(18).
+OREGON.
+USCG REMOTE COMMUNICATION FACILITY
+ASTORIA (W) 46-10.00N 123-49.00W OFF AIR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>051901Z MAY 25
+NAVAREA XII 259/25(16).
+GULF OF ALASKA.
+ALASKA.
+USCG REMOTE COMMUNICATION FACILITY KODIAK (J)
+57-46.00N 152-34.00W HF AND DSC SERVICES UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>061220Z APR 25
+NAVAREA XII 208/25(22).
+EASTERN NORTH PACIFIC.
+COLOMBIA.
+PUNTA SOLDADO LIGHT 03-48.50N 077-10.80W 
+DISCONTINUED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281257Z OCT 24
+NAVAREA XII 862/24(83).
+EASTERN NORTH PACIFIC.
+KIRIBATI.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE IN VICINITY OF TRACKLINE JOINING
+02-01.46N 157-29.67W, 02-01.45N 157-29.69W,
+02-01.45N 157-29.72W, 02-01.42N 157-29.82W,
+02-01.36N 157-30.04W, 02-01.22N 157-30.29W,
+02-00.20N 157-32.23W.
+100 METER BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>182355Z JUN 24
+NAVAREA XII 441/24(21).
+EASTERN NORTH PACIFIC.
+MEXICO.
+MORRO SANTO DOMINGO LIGHT 28-14.37N 114-06.18W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPECIAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>282248Z FEB 23
+NAVAREA XII 93/23(19).
+NORTH PACIFIC.
+HAWAII.
+1. INTERMITTENT MISSILE FIRING OPERATIONS CONDUCTED
+   BY THE PACIFIC MISSILE RANGE FACILITY (PMRF),
+   BARKING SANDS, KAUAI, HAWAII, IN WHISKEY
+   188 (W-188) OPERATING AREA. OPERATIONS ARE
+   CONDUCTED PERIODICALLY THROUGHOUT EACH WEEK
+   IN AREA BOUND BY
+   22-00.0N 159-51.0W, 22-00.0N 160-00.0W,
+   22-04.0N 160-06.0W, 21-59.5N 160-21.0W,
+   22-05.0N 161-35.0W, 22-45.0N 161-25.0W,
+   22-56.0N 161-49.0W, 23-34.0N 161-18.6W,
+   23-57.0N 160-41.0W, 25-41.0N 161-36.0W,
+   26-00.0N 159-58.0W, 25-47.0N 158-15.0W,
+   23-54.0N 158-15.0W, 22-20.0N 159-09.0W,
+   22-21.0N 159-30.0W, 22-13.0N 159-42.0W,
+   22-00.0N 159-51.0W.
+2. VESSELS MAY BE REQUESTED TO ALTER COURSE DUE TO
+   FIRING OPERATIONS AND ARE REQUESTED TO CONTACT
+   "PACIFIC MISSILE RANGE BARKING SANDS" ON VHF
+   MARINE BAND CHANNEL 16 PRIOR
+   TO ENTERING THE ABOVE BOUNDARIES. IF UNABLE
+   TO CONTACT PMRF PRIOR TO ENTERING OR WHILE IN
+   THE WARNING AREA, RELAY MESSAGES THROUGH
+   U.S. COAST GUARD HONOLULU.
+3. VESSELS INBOUND AND OUTBOUND FOR HAWAIIAN PORTS
+   WILL CREATE THE LEAST INTERFERENCE TO FIRING
+   OPERATIONS AS WELL AS ENHANCE VESSEL SAFETY
+   BY PASSING SOUTH OF THE ISLANDS OF KAUAI
+   AND NIIHAU DURING SPECIFIED TIMES.
+4. CANCEL NAVAREA XII 269/21.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>272221Z SEP 22
+NAVAREA XII 721/22(21).
+EL SALVADOR.
+CHART 21524
+MOORING BUOYS 13-35.23N 089-51.10W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>272211Z SEP 22
+NAVAREA XII 720/22(21).
+EASTERN NORTH PACIFIC.
+EL SALVADOR.
+CHART 12529.
+PUERTO DE LA UNION 16 BUOY 13-20.36N 087-48.99W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//&#13;
+RMKS/&#13;
+NAVAREA XII 244/22(21).&#13;
+GOLFO DE CALIFORNIA.&#13;
+MEXICO.&#13;
+CHART 21120.&#13;
+BOCA DEL TULE LIGHT 23-14.3N 109-26.4W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//
+RMKS/
+NAVAREA XII 243/22(18).
+EASTERN NORTH PACIFIC.
+MEXICO.
+CHART 18740.
+1. CORONADO ISLAND SOUTH LIGHT 32-23.5N 117-14.5W
+   UNLIT.
+2. CANCEL NAVAREA XII 159/21.
+</msgText>
+    </smapsActiveEntity>
+</smaps>
