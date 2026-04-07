@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
-        <msgText>071213Z APR 26
-HYDROPAC 1045/26.
-EAST CHINA SEA.
-CHINA.
-CANCEL HYDROPAC 1012/26 AND THIS MSG.
-OPERATIONS COMPLETED.</msgText>
+        <msgText>071731Z APR 26
+HYDROPAC 1047/26(83).
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0422Z TO 0908Z DAILY 07 THRU 17 APR
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL HYDROPAC 994/26.
+3. CANCEL THIS MSG 171008Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>071723Z APR 26
+HYDROPAC 1046/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+F/V ISWARYAM SANK IN VICINITY
+08-58.00N 076-28.00E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -51,7 +66,8 @@ AUSTRALIA.
 UNDERWATER OPERATIONS IN PROGRESS UNTIL 
 FURTHER NOTICE BY M/V REACH REMOTE 2
 IN 21-26.94S 113-49.50E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -68,7 +84,8 @@ NEW ZEALAND.
    B. 35-20.00S 177-17.50E, 36-20.00S 177-17.50E,
       36-20.00S 176-25.50E, 35-50.00S 176-25.50E,
       35-50.00S 175-50.00E, 35-20.00S 176-25.50E.
-2. CANCEL THIS MSG 090700Z APR 26.</msgText>
+2. CANCEL THIS MSG 090700Z APR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -81,7 +98,8 @@ CHILE.
    DAILY 07 AND 08 APR IN AREA BOUND BY
    32-53.00S 071-58.30W, 32-53.00S 071-50.00W,
    33-00.00S 071-50.00W, 33-00.00S 071-58.30W.
-2. CANCEL THIS MSG 082000Z APR 26.</msgText>
+2. CANCEL THIS MSG 082000Z APR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -96,7 +114,8 @@ INDIA.
    08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
    07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
    07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL THIS MSG 110800Z APR 26.</msgText>
+2. CANCEL THIS MSG 110800Z APR 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -126,7 +145,6 @@ INDIA.
    17-05.00N 083-35.00E, 17-05.00N 083-40.00E,
    17-10.00N 083-40.00E, 17-10.00N 083-35.00E.
 2. CANCEL THIS MSG 080330Z APR 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -141,7 +159,6 @@ INDIA.
    11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
    11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
 2. CANCEL THIS MSG 090730Z APR 26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -310,21 +327,6 @@ PAKISTAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031716Z APR 26
-HYDROPAC 1012/26.
-EAST CHINA SEA.
-CHINA.
-CABLE OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY CABLESHIP ILE DE RE
-ALONG TRACKLINE JOINING
-25-29.77N 121-02.10E, 25-27.39N 121-04.78E,
-25-26.17N 121-06.37E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROPAC 1011/26.
@@ -385,25 +387,6 @@ JAPAN.
    17-35.16N 141-41.47E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 892/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>021306Z APR 26
-HYDROPAC 1003/26.
-SOUTH CHINA SEA.
-VIETNAM.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   071100Z TO 071700Z APR.
-   IN AREAS BOUND BY:
-   A. 11-16.00N 109-34.00E, 11-13.00N 109-56.00E,
-      10-19.00N 109-49.00E, 10-22.00N 109-26.00E.
-   B. 02-25.00N 107-49.00E, 02-20.00N 108-21.00E,
-      01-15.00N 108-11.00E, 01-20.00N 107-38.00E.
-   C. 02-26.00N 107-43.00E, 02-19.00N 108-26.00E,
-      01-26.00N 108-17.00E, 01-32.00N 107-34.00E.
-2. CANCEL THIS MSG 071800Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -500,21 +483,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>021124Z APR 26
-HYDROPAC 997/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   070130Z TO 071130Z APR.
-   IN AREA BOUND BY
-   12-49.00N 080-46.00E, 12-59.00N 080-46.00E,
-   12-59.00N 081-26.00E, 12-49.00N 081-26.00E.
-2. CANCEL THIS MSG 071230Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>021118Z APR 26
 HYDROPAC 996/26.
 GULF OF KHAMBHAT.
@@ -548,21 +516,6 @@ PACIFIC OCEAN.
       18-34.00N 113-45.00W, 18-41.00N 113-23.00W,
       16-54.00N 112-47.00W, 16-49.00N 113-03.00W.
 2. CANCEL THIS MSG 081956Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>301632Z MAR 26
-HYDROPAC 994/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0422Z TO 0908Z DAILY 07 THRU 13 APR
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 131008Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
