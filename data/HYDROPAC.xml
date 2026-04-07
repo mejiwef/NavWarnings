@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070505Z APR 26
+HYDROPAC 1041/26.
+TASMAN SEA.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 1900Z TO 0500Z 
+   DAILY 12 THRU 17 APR IN AREA WITHIN 
+   THREE MILES OF 36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 180600Z APR 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070401Z APR 26
+HYDROPAC 1040/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V REACH REMOTE 2
+IN 21-26.94S 113-49.50E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070130Z APR 26
+HYDROPAC 1038/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS IN PROGRESS
+   UNTIL 070600Z, 071930Z TO 080400Z AND
+   082000Z TO 090600Z APR IN AREAS BOUND BY:
+   A. 35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
+      36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
+   B. 35-20.00S 177-17.50E, 36-20.00S 177-17.50E,
+      36-20.00S 176-25.50E, 35-50.00S 176-25.50E,
+      35-50.00S 175-50.00E, 35-20.00S 176-25.50E.
+2. CANCEL THIS MSG 090700Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070105Z APR 26
+HYDROPAC 1037/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1300Z TO 1900Z
+   DAILY 07 AND 08 APR IN AREA BOUND BY
+   32-53.00S 071-58.30W, 32-53.00S 071-50.00W,
+   33-00.00S 071-50.00W, 33-00.00S 071-58.30W.
+2. CANCEL THIS MSG 082000Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>061839Z APR 26
@@ -509,20 +564,6 @@ CABLE OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY CABLESHIP ILE DE YEU
 IN 38-26.75S 144-29.16E.
 TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020141Z APR 26
-HYDROPAC 990/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 1900Z
-   DAILY 07 AND 08 APR IN AREA BOUND BY
-   32-49.30S 072-08.00W, 32-49.30S 071-53.30W,
-   33-01.30S 071-53.30W, 33-01.30S 072-08.00W.
-2. CANCEL THIS MSG 082000Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

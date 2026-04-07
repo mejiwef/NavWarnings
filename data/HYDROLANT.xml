@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>070615Z APR 26
+HYDROLANT 705/26.
+EASTERN NORTH ATLANTIC.
+FRANCE.
+NAVAREA II E-MAIL UNUSABLE UNTIL FURTHER NOTICE.
+FOR ANY URGENT REQUEST OF NAVIGATIONAL WARNINGS,
+USE THE E-MAIL ADDRESS: COORD.NAVAREA2@GMAIL.COM 
+OR CONTACT THE SERVICE PHONE 33 624 800 892.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>070550Z APR 26
+HYDROLANT 704/26.
+NORTH ATLANTIC.
+SPAIN.
+1. NAVTEX STATION CORUNA (D)
+   43-22.03N 008-27.13W OFF AIR.
+2. CORUNA BROADCASTS WILL BE 
+   TRANSMITTED FROM RADIO STATIONS: 
+   A. FINISTERRE.
+   B. CORUNA.
+   C. MACHICHACO.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>062137Z APR 26
@@ -130,18 +158,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>VESSEL ABANDONED</category>
-        <status>INFORCE</status>
-        <msgText>050106Z APR 26
-HYDROLANT 689/26.
-NORTH ATLANTIC.
-BRAZIL.
-1. DERELICT M/V HINOKI AGROUND 
-   IN 01-01.25N 049-40.34W.
-2. CANCEL THIS MSG 012000Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>042302Z APR 26
@@ -180,21 +196,6 @@ WESTERN SAHARA.
    23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
    23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 080100Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041845Z APR 26
-HYDROLANT 683/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 060001Z TO 062359Z APR
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 070100Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
