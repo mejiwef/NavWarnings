@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>061839Z APR 26
+HYDROPAC 1036/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   110530Z TO 110700Z APR IN AREA BOUND BY
+   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
+   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
+   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
+   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
+2. CANCEL THIS MSG 110800Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061705Z APR 26
