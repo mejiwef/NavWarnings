@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080119Z APR 26
+HYDROLANT 714/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 140259Z APR BY M/V SISTAC VITORIA
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 140359Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>080031Z APR 26
+HYDROLANT 712/26.
+ENGLISH CHANNEL.
+FRANCE.
+RACON AT CASQUETS LIGHT 49-43.30N 002-22.60W
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>071622Z APR 26
@@ -179,21 +202,6 @@ LIBYA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041853Z APR 26
-HYDROLANT 684/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 070001Z TO 072359Z APR
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 080100Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041707Z APR 26
@@ -264,23 +272,6 @@ SOUTH ATLANTIC.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>031254Z APR 26
-HYDROLANT 671/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS
-   070001Z TO 072359Z APR.
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL HYRDROLANT 667/26.
-3. CANCEL THIS MSG 080059Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>020925Z APR 26
 HYDROLANT 659/26.
 SOUTH ATLANTIC.
@@ -341,20 +332,6 @@ SOUTH ATLANTIC.
    25-31.70S 043-54.30W, 25-31.70S 044-00.80W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 302100Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010936Z APR 26
-HYDROLANT 650/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 060001Z TO 072359Z APR
-   IN AREA BOUND BY
-   23-15.00S 042-45.00W, 23-15.00S 042-15.00W,
-   23-30.00S 042-15.00W, 23-30.00S 042-45.00W.
-2. CANCEL THIS MSG 080059Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -457,18 +434,6 @@ BRAZIL.
 1. HAZARDOUS OPERATIONS 010001Z TO 302359Z APR
    IN AREA WITHIN 25 MILES OF 24-35.00S 041-35.00W.
 2. CANCEL THIS MSG 010100Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>270029Z MAR 26
-HYDROLANT 612/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ILHA RATA LIGHT 03-48.76S 032-23.21W UNLIT
-   UNTIL 22 SEP.
-2. CANCEL THIS MSG 230001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

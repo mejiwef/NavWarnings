@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>080153Z APR 26
+HYDROPAC 1050/26.
+TIMOR SEA.
+AUSTRALIA.
+1. 12 METER LOG ADRIFT IN 09-53.13S 129-57.62E
+   AT 071626Z APR.
+2. CANCEL THIS MSG 110153Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>072345Z APR 26
@@ -146,20 +157,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z APR 26.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061653Z APR 26
-HYDROPAC 1034/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 080030Z TO 080230Z APR
-   IN AREA BOUND BY
-   17-05.00N 083-35.00E, 17-05.00N 083-40.00E,
-   17-10.00N 083-40.00E, 17-10.00N 083-35.00E.
-2. CANCEL THIS MSG 080330Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
