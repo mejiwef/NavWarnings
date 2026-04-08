@@ -3,6 +3,27 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>081412Z APR 26
+HYDROLANT 717/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN:
+   A. A76C, 59-28.00S 036-24.00W.
+   B. 51-15.00S 032-56.00W.
+   C. 48-51.00S 033-47.00W.
+   D. 46-47.00S 028-36.00W.
+   E. 47-15.00S 028-52.00W.
+   F. 49-51.00S 033-28.00W.
+   G. 45-06.00S 029-43.00W.
+   H. 45-02.00S 034-56.00W.
+   I. 47-18.00S 029-05.00W.
+   J. 47-10.00S 028-53.00W.
+   K. 59-33.00S 036-11.00W.
+2. CANCEL THIS MSG 091412Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>081002Z APR 26
 HYDROLANT 716/26.
 SOUTH ATLANTIC.
@@ -50,37 +71,6 @@ ENGLISH CHANNEL.
 FRANCE.
 RACON AT CASQUETS LIGHT 49-43.30N 002-22.60W
 INOPERATIVE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>071622Z APR 26
-HYDROLANT 710/26.
-EASTERN NORTH ATLANTIC
-FRANCE.
-CANCEL HYDROLANT 705/26 AND THIS MSG.
-SERVICE RESTORED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>071340Z APR 26
-HYDROLANT 709/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN:
-   A. A76C, 59-26.00S 036-24.00W.
-   B. 51-15.00S 032-56.00W.
-   C. 48-51.00S 033-47.00W.
-   D. 46-56.00S 029-01.00W.
-   E. 47-35.00S 029-24.00W.
-   F. 49-53.00S 033-47.00W.
-   G. 45-06.00S 029-43.00W.
-   H. 45-02.00S 034-56.00W.
-   I. 47-18.00S 029-05.00W.
-   J. 47-24.00S 029-12.00W.
-   K. 59-33.00S 036-11.00W.
-2. CANCEL THIS MSG 081340Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVAL OPERATIONS</category>
