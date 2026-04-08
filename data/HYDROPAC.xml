@@ -1,6 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081058Z APR 26
+HYDROPAC 1057/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 12 APR BY
+   M/V AHT SEA VENTURE AND BARGE SEA PATRIOT
+   IN AREAS BOUND BY:
+   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
+      19-09.06N 072-16.52E, 19-10.14N 071-02.57E.
+   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
+      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130001Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080910Z APR 26
+HYDROPAC 1055/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+1. HAZARDOUS OPERATIONS 1400Z TO 1359Z 
+   DAILY 12 THRU 17 APR IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
+   15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+2.CANCEL THIS MSG 181459Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080828Z APR 26
+HYDROPAC 1054/26.
+ARABIAN SEA.
+INDIA.
+1. PIPELINE OPERATIONS IN PROGRESS 
+   UNTIL 12 APR BY M/V FUGRO MAPPER
+   IN AREAS BOUND BY:
+   A. 19-41.07N 071-06.86E, 19-40.69N 071-36.43E,
+      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
+   B. 19-24.28N 071-55.82E, 19-23.94N 072-16.01E,
+      19-08.52N 072-15.70E, 19-08.86N 071-55.54E.
+   C. 18-36.49N 072-10.51E, 18-36.34N 072-19.25E,
+      18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 130001Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>080758Z APR 26
+HYDROPAC 1053/26.
+SOUTH PACIFIC.
+MOOREA.
+POINTE PAROA LIGHT 17-36.30S 149-49.00W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>080748Z APR 26
+HYDROPAC 1052/26.
+SOUTH PACIFIC.
+MOOREA.
+POINTE AROA LIGHT 17-28.40S 149-46.50W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>080637Z APR 26
+HYDROPAC 1051/26.
+SOUTH CHINA SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   111000Z TO 111600Z APR
+   IN AREAS BOUND BY:
+   A. 07-25.00N 110-41.00E, 07-22.00N 111-24.00E,
+      05-55.00N 111-18.00E, 05-59.00N 110-34.00E.
+   B. 06-45.00N 110-38.00E, 06-42.00N 111-21.00E,
+      05-16.00N 111-15.00E, 05-19.00N 110-32.00E.
+2. CANCEL THIS MSG 111700Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEBRIS</category>
         <status>INFORCE</status>
         <msgText>080153Z APR 26
@@ -190,21 +279,6 @@ SOUTH PACIFIC.
       38-47.00S 103-42.00E, 38-25.00S 104-47.00E,
       50-11.00S 113-09.00E, 50-38.00S 111-53.00E.
 2. CANCEL THIS MSG 091144Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061518Z APR 26
-HYDROPAC 1031/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 072330Z TO 080630Z APR
-   IN AREA BOUND BY
-   11-21.40N 092-24.70E, 11-04.30N 092-24.60E,
-   11-03.90N 092-58.00E, 11-20.10N 092-58.00E.
-2. CANCEL HYDROPAC 1030/26.
-3. CANCEL THIS MSG 080730Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -939,16 +1013,6 @@ PAKISTAN.
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL HYDROPAC 928/26.
 3. CANCEL THIS MSG 302000Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>261248Z MAR 26
-HYDROPAC 925/26.
-BAY OF BENGAL.
-INDIA.
-NAVTEX STATION BALASORE 21-29.18N 086-55.01E OFF AIR. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

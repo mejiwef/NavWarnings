@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081118Z APR 26
+NAVAREA IV 328/26.
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS 131030Z TO 131430Z APR
+   IN AREA WITHIN THREE MILES OF 04-56.00N 052-05.00W.
+2. CANCEL THIS MSG 131530Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>072031Z APR 26
