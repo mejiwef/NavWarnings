@@ -125,29 +125,6 @@ REPORTS TO ANY COASTAL RADIO STATION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>012019Z APR 26
-NAVAREA XII 224/26.
-PACIFIC OCEAN.
-1. HAZARDOUS OPERATIONS:
-   A. 1100Z TO 1856Z DAILY 07 AND 08 APR
-      IN AREA BOUND BY
-      34-31.00S 084-52.00W, 34-24.00S 084-38.00W,
-      38-29.00S 081-15.00W, 38-40.00S 081-27.00W.
-   B. 1100Z TO 1708Z DAILY 07 AND 08 APR
-      IN AREA BOUND BY
-      21-22.00N 115-19.00W, 21-13.00N 115-19.00W,
-      21-14.00N 115-25.00W, 22-09.00N 115-44.00W,
-      22-07.00N 115-37.00W.
-   C. 1100Z TO 1737Z DAILY 07 AND 08 APR
-      IN AREA BOUND BY
-      18-34.00N 113-45.00W, 18-41.00N 113-23.00W,
-      16-54.00N 112-47.00W, 16-49.00N 113-03.00W.
-2. CANCEL THIS MSG 081956Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>250922Z MAR 26

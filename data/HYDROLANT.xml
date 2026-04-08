@@ -279,20 +279,6 @@ MOROCCO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020933Z APR 26
-HYDROLANT 660/26.
-SOUTH ATLANTIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   07 APR BY CABLESHIP RELIANCE
-   ALONG TRACKLINE JOINING
-   02-48.30S 020-00.00W, 02-28.27S 028-42.91W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 080001Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020925Z APR 26
