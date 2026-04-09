@@ -231,20 +231,6 @@ NEW ZEALAND.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070105Z APR 26
-HYDROPAC 1037/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 1900Z
-   DAILY 07 AND 08 APR IN AREA BOUND BY
-   32-53.00S 071-58.30W, 32-53.00S 071-50.00W,
-   33-00.00S 071-50.00W, 33-00.00S 071-58.30W.
-2. CANCEL THIS MSG 082000Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>061839Z APR 26
