@@ -3,6 +3,33 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>091016Z APR 26
+HYDROLANT 719/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-49.20S 057-09.00W.
+   B. A84, 73-06.00S 103-53.40W.
+   C. A85, 68-14.40S 057-12.00W.
+   D. D33A, 65-19.80S 057-48.60W.
+   E. D33C, 65-45.00S 058-08.40W.
+2. CANCEL THIS MSG 101016Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>090835Z APR 26
+HYDROLANT 718/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA DO ARACAGI LIGHT 02-27.03S 044-08.90W
+   UNLIT UNTIL 06 OCT.
+2. CANCEL THIS MSG 070001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>081412Z APR 26
 HYDROLANT 717/26.
 SCOTIA SEA.
@@ -20,22 +47,6 @@ SOUTH ATLANTIC.
    J. 47-10.00S 028-53.00W.
    K. 59-33.00S 036-11.00W.
 2. CANCEL THIS MSG 091412Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081002Z APR 26
-HYDROLANT 716/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 057-09.00W.
-   B. A84, 73-06.00S 103-53.40W.
-   C. A85, 68-14.40S 057-12.00W.
-   D. D33A, 65-19.80S 057-48.60W.
-   E. D33C, 65-45.00S 058-08.40W.
-2. CANCEL THIS MSG 091007Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -184,22 +195,6 @@ HYDROLANT 688/26.
 CELTIC SEA.
 IRELAND.
 CONINGBEG BUOY 52-03.20N 006-38.60W OFF STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>042112Z APR 26
-HYDROLANT 687/26.
-EASTERN MEDITERRANEAN SEA.
-LIBYA.
-1. CABLE OPERATIONS 04 APR THRU 17 MAY 
-   BY M/V MAASVLIET ALONG TRACKLINES JOINING:
-   A. 33-54.44N 022-53.50E, 33-19.94N 025-08.88E.
-   B. 33-16.33N 025-29.28E, 33-12.91N 026-09.48E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 611/26.
-3. CANCEL THIS MSG 170001Z MAY 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

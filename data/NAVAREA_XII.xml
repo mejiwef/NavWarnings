@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>090910Z APR 26
+NAVAREA XII 241/26.
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2100Z TO 1600Z DAILY 13 THRU 29 APR
+   IN AREAS BOUND BY:
+   A. 33-06.05N 128-42.07W, 32-50.48N 127-12.41W,
+      28-19.72N 128-15.70W, 28-36.02N 129-37.43W.
+   B. 38-46.76N 172-48.64W, 38-15.70N 170-15.70W,
+      31-07.28N 172-31.87W, 31-32.10N 174-48.60W.
+2. CANCEL THIS MSG 301700Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>082319Z APR 26

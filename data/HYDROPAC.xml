@@ -3,6 +3,32 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>091207Z APR 26
+HYDROPAC 1064/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 100001Z TO 100400Z APR
+   IN AREA BOUND BY:
+   17-30.00N 083-43.00E, 17-30.00N 083-53.00E,
+   17-42.00N 083-53.00E, 17-42.00N 083-43.00E.
+2. CANCEL THIS MSG 100500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>091125Z APR 26
+HYDROPAC 1063/26.
+EASTERN INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   140300Z TO 140900Z APR.
+   IN AREA BOUND BY:
+   11-18.00S 092-06.00E, 11-22.00S 092-38.00E,
+   16-43.00S 091-55.00E, 16-39.00S 091-21.00E.
+2. CANCEL THIS MSG 141000Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>080850Z APR 26
 HYDROPAC 1062/26.
 NORTH PACIFIC.
@@ -253,24 +279,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070130Z APR 26
-HYDROPAC 1038/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS IN PROGRESS
-   UNTIL 070600Z, 071930Z TO 080400Z AND
-   082000Z TO 090600Z APR IN AREAS BOUND BY:
-   A. 35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
-      36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
-   B. 35-20.00S 177-17.50E, 36-20.00S 177-17.50E,
-      36-20.00S 176-25.50E, 35-50.00S 176-25.50E,
-      35-50.00S 175-50.00E, 35-20.00S 176-25.50E.
-2. CANCEL THIS MSG 090700Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>061839Z APR 26
@@ -300,20 +308,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z APR 26.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061638Z APR 26
-HYDROPAC 1033/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 090430Z TO 090630Z APR
-   IN AREA BOUND BY
-   11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
-   11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
-2. CANCEL THIS MSG 090730Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
