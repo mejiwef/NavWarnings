@@ -3,6 +3,26 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>091959Z APR 26
+HYDROLANT 721/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 59-29.00S 036-24.00W.
+   B. 51-22.00S 031-06.00W.
+   C. 46-42.00S 028-28.00W.
+   D. 47-08.00S 028-21.00W.
+   E. 49-53.00S 032-49.00W.
+   F. 49-56.00S 030-21.00W.
+   G. 47-05.00S 028-42.00W.
+   H. 47-01.00S 028-36.00W.
+   I. 59-05.00S 036-00.00W.
+   J. 44-14.00S 035-58.00W.
+2. CANCEL THIS MSG 101959Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>091016Z APR 26
 HYDROLANT 719/26.
 SOUTH ATLANTIC.
@@ -242,18 +262,6 @@ SOUTH ATLANTIC.
    25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
 2. CANCEL HYDROLANT 599/26.
 3. CANCEL THIS MSG 012359Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020925Z APR 26
-HYDROLANT 659/26.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
-   DAILY 07 THRU 09 APR IN AREA WITHIN 
-   TEN MILES OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 092200Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
