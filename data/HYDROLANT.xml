@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071246Z Apr 26
+HYDROLANT 722/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0300Z TO 1700Z DAILY
+   15 THRU 24 APR IN AREA BOUND BY
+   44-24.00N 028-42.41E, 44-29.50N 028-55.58E,
+   44-29.55N 029-31.11E, 44-24.20N 029-31.93E,
+   44-09.01N 029-26.73E, 44-04.45N 029-22.31E,
+   44-13.55N 028-51.50E, 44-22.08N 028-42.41E.
+2. CANCEL THIS MSG 241800Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091959Z APR 26
@@ -19,22 +34,6 @@ SOUTH ATLANTIC.
    I. 59-05.00S 036-00.00W.
    J. 44-14.00S 035-58.00W.
 2. CANCEL THIS MSG 101959Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091016Z APR 26
-HYDROLANT 719/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 057-09.00W.
-   B. A84, 73-06.00S 103-53.40W.
-   C. A85, 68-14.40S 057-12.00W.
-   D. D33A, 65-19.80S 057-48.60W.
-   E. D33C, 65-45.00S 058-08.40W.
-2. CANCEL THIS MSG 101016Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

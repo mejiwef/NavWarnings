@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>100727Z APR 26
+NAVAREA XII 245/26.
+GULF OF ALASKA.
+ALASKA.
+USCG COMMUNICATION FACILITY KODIAK
+57-46.00N 152-34.00W MF AND HF SERVICES 
+OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>100306Z APR 26
