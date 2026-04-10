@@ -169,21 +169,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>040219Z APR 26
-NAVAREA IV 314/26.
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0425Z TO 0738Z DAILY 09 APR THRU 09 MAY
-   IN AREA BOUND BY
-   05-23.46N 052-53.80W, 05-50.55N 052-47.95W,
-   05-50.55N 052-41.80W, 05-12.60N 052-40.98W.
-2. CANCEL THIS MSG 090838Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031931Z APR 26
