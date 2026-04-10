@@ -43,19 +43,6 @@ SOMALIA.
 2. CANCEL THIS MSG 121416Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091207Z APR 26
-HYDROPAC 1064/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 100001Z TO 100400Z APR
-   IN AREA BOUND BY:
-   17-30.00N 083-43.00E, 17-30.00N 083-53.00E,
-   17-42.00N 083-53.00E, 17-42.00N 083-43.00E.
-2. CANCEL THIS MSG 100500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>091125Z APR 26
