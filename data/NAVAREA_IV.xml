@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>111242Z APR 26
+NAVAREA IV 341/26.
+CARIBBEAN SEA.
+COLOMBIA.
+DANGEROUS WRECK IN 11-10.53N 074-14.46W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>110303Z Apr 26

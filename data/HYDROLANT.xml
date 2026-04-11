@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111706Z APR 26
+HYDROLANT 735/26.
+NORTH ATLANTIC.
+WESTERN SAHARA.
+1. HAZARDOUS OPERATIONS 160001Z TO 162359Z APR
+   IN AREA BOUND BY
+   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
+   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
+   23-55.07N 017-00.00W.
+2. CANCEL THIS MSG 170059Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111605Z APR 26
+HYDROLANT 734/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 0700Z TO 1800Z 
+   DAILY 13 AND 14 APR IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 141900Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111359Z APR 26
+HYDROLANT 733/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 59-28.00S 036-19.00W.
+   B. 51-25.00S 030-45.00W.
+   C. 46-35.00S 028-25.00W.
+   D. 46-53.00S 027-45.00W.
+   E. 50-07.00S 031-28.00W.
+   F. 47-01.00S 028-11.00W.
+   G. 47-03.00S 027-57.00W.
+   H. 58-57.00S 035-59.00W.
+   I. 43-20.00S 035-41.00W.
+2. CANCEL THIS MSG 121400Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111350Z APR 26
+HYDROLANT 732/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-47.40S 056-52.20W.
+   B. A84, 73-51.60S 104-53.40W.
+   C. A85, 68-18.60S 057-17.40W.
+   D. D33A, 65-15.00S 057-46.80W.
+   E. D33C, 65-43.80S 058-09.00W.
+2. CANCEL THIS MSG 121350Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111333Z APR 26
+HYDROLANT 731/26.
+EASTERN MEDITERRANEAN SEA.
+LIBYA.
+CABLE OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V MAASVLIET
+ALONG TRACKLINE JOINING
+32-27.24N 026-29.89E, 32-33.93N 026-07.76E,
+32-35.73N 026-01.66E, 32-38.37N 025-52.72E,
+32-41.54N 025-40.66E, 32-50.34N 025-10.56E,
+33-00.96N 024-34.36E, 33-05.68N 024-20.37E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>111141Z APR 26
@@ -75,40 +154,6 @@ MUCKLE SKERRY LIGHT 58-41.40N 002-55.50W UNLIT.</msgText>
     ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 676/26 AND 692/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101503Z APR 26
-HYDROLANT 725/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-49.20S 057-09.00W.
-   B. A84, 73-06.00S 103-53.40W.
-   C. A85, 68-14.40S 057-12.00W.
-   D. D33A, 65-19.80S 057-48.60W.
-   E. D33C, 65-45.00S 058-08.40W.
-2. CANCEL THIS MSG 111504Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101448Z APR 26
-HYDROLANT 724/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 59-30.00S 036-21.00W.
-   B. 51-25.00S 030-45.00W.
-   C. 46-39.00S 028-25.00W.
-   D. 47-03.00S 027-53.00W.
-   E. 50-04.00S 031-54.00W.
-   F. 47-02.00S 028-25.00W.
-   G. 47-02.00S 028-16.00W.
-   H. 59-00.00S 035-58.00W.
-   I. 44-14.00S 035-58.00W.
-2. CANCEL THIS MSG 111449Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
