@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110605Z APR 26
+HYDROLANT 729/26.
+CARDIGAN BAY.
+SAINT GEORGES CHANNEL.
+WALES.
+1. HAZARDOUS OPERATIONS 0800Z TO 1500Z
+   DAILY 13 THRU 17 APR IN AREA WITHIN 
+   13 MILES OF 52-26.00N 004-44.00W.
+2. CANCEL THIS MSG 171600Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>110043Z APR 26
+HYDROLANT 728/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. BOM ABRIGO LIGHT 25-07.41S 047-51.75W RANGE
+    REDUCED.
+2. CANCEL HYDROLANT 416/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>102128Z APR 26
@@ -603,19 +627,6 @@ DNC 01.
 1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
    UNLIT UNTIL 31 AUG.
 2. CANCEL THIS MSG 010001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>021403Z MAR 26
-HYDROLANT 416/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. BOM ABRIGO LIGHT IN 25-07.41S 047-51.75W
-   UNLIT UNTIL 29 AUG. 
-2. CANCEL THIS MSG 300001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

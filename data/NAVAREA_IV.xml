@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>110303Z Apr 26
+NAVAREA IV 340/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   161045Z TO 161343Z, ALTERNATE 1045Z TO 1343Z
+   DAILY 17 THRU 22 APR IN AREAS BOUND BY:   
+   A. 28-35.12N 080-34.53W, 28-38.00N 080-00.00W,
+      28-13.00N 077-19.00W, 27-37.00N 075-16.00W,
+      26-13.00N 075-45.00W, 27-59.00N 079-31.00W,
+      28-15.94N 080-03.00W, 28-25.44N 080-34.57W.
+   B. 26-15.00N 073-37.00W, 26-29.00N 073-31.00W,
+      25-28.00N 070-59.00W, 22-53.00N 065-29.00W,
+      18-34.00N 058-00.00W, 14-39.00N 052-14.00W,
+      14-27.00N 052-24.00W, 18-23.00N 058-24.00W,
+      22-30.00N 065-28.00W, 25-15.00N 071-09.00W.
+   C. 26-13.00N 075-45.00W, 27-37.00N 075-16.00W,
+      27-31.00N 074-10.00W, 26-57.00N 073-20.00W,
+      25-47.00N 073-50.00W, 25-46.00N 074-48.00W.
+2. CANCEL THIS MSG 221443Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>NAVAREA IV 339/26.

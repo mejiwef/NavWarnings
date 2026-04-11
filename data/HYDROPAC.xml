@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>110532Z APR 26
+HYDROPAC 1084/26.
+SOUTH CHINA SEA.
+VIETNAM.
+VESSEL FENGHUANG, 23 PERSONS ON BOARD, 
+UNREPORTED. LAST KNOWN POSITION IN 
+VICINITY 10-25.00N 111-13.00E ON 10 APR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110356Z APR 26
+HYDROPAC 1083/26.
+CORAL SEA.
+AUSTRALIA.
+CABLE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY C/S RESPONDER
+IN 26-49.70S 153-27.30E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROPAC 1082/26.
@@ -411,17 +438,6 @@ SOUTH CHINA SEA.
    B. 06-45.00N 110-38.00E, 06-42.00N 111-21.00E,
       05-16.00N 111-15.00E, 05-19.00N 110-32.00E.
 2. CANCEL THIS MSG 111700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>080153Z APR 26
-HYDROPAC 1050/26.
-TIMOR SEA.
-AUSTRALIA.
-1. 12 METER LOG ADRIFT IN 09-53.13S 129-57.62E
-   AT 071626Z APR.
-2. CANCEL THIS MSG 110153Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
