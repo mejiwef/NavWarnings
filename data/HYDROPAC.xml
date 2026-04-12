@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>121025Z APR 26
+HYDROPAC 1094/26.
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+DUE TO TROPICAL STORM SINLAKU: 
+1. THE FOLLOWING PORTS ARE CLOSED:
+   A. APRA HARBOR (13-27.20N 144-39.21E).
+   B. ROTA HARBOR (14-08.35N 145-08.09E).
+   C. TINIAN (14-57.95N 145-37.26E).
+   D. SAIPAN (15-13.56N 145-44.25E).
+2. CURRENT PORT INFORMATION CAN BE FOUND 
+   AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.
+3. CANCEL HYDROPAC 1092/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>120128Z APR 26
@@ -15,23 +32,6 @@ VIETNAM.
    REPORTS TO MRCC VIETNAM,
    EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 1084/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>112343Z APR 26
-HYDROPAC 1092/26(81).
-NORTH PACIFIC.
-NORTHERN MARIANA ISLANDS.
-DUE TO TROPICAL STORM SINLAKU:
-1. THE FOLLOWING PORTS ARE CLOSED VESSEL ARRIVALS:
-   A. APRA HARBOR (13-27.20N 144-39.21E).
-   B. ROTA HARBOR (14-08.35N 145-08.09E).
-   C. SAIPAN (15-13.56N 145-44.25E).
-   D. TINIAN (14-57.95N 145-37.26E).
-2. CURRENT PORT INFORMATION CAN BE FOUND 
-   AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.
-3. CANCEL HYDROPAC 1081/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
