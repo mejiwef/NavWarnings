@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>121651Z APR 26
+HYDROPAC 1098/26.
+RED SEA.
+ERITREA.
+1. S/V APPROACHED BY SUSPICIOUS VESSEL, 
+   10-12 PIRATES ON BOARD, IN 
+   14-16.35N 042-10.87E ON 12 APR.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 151647Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>121426Z APR 26
+HYDROPAC 1097/26.
+SOUTH PACIFIC.
+IQUIQUE DART II BUOY ESTABLISHED 
+IN 20-33.91S 073-22.79W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121408Z APR 26
+HYDROPAC 1096/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL FURTHER NOTICE BY M/V REACH REMOTE 2
+   IN 21-26.94S 113-49.50E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1040/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>121302Z APR 26
+HYDROPAC 1095/26.
+SOUTH CHINA SEA.
+1. M/V FENGHUANG, 23 PERSONS ON BOARD,
+   DISABLED AND ADRIFT IN VICINITY
+   11-36.00N 111-49.00E AT 120314Z APR.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 1093/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PORT CLOSURE</category>
         <status>INFORCE</status>
         <msgText>121025Z APR 26
@@ -16,22 +67,6 @@ DUE TO TROPICAL STORM SINLAKU:
 2. CURRENT PORT INFORMATION CAN BE FOUND 
    AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.
 3. CANCEL HYDROPAC 1092/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>120128Z APR 26
-HYDROPAC 1093/26.
-SOUTH CHINA SEA.
-VIETNAM.
-1. M/V FENGHUANG, 23 PERSONS ON BOARD, 
-   DISABLED AND ADRIFT IN
-   VICINITY 11-22.00N 111-39.00E AT 
-   111110Z APR. VESSELS IN VICINITY REQUESTED TO
-   KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 1084/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -87,21 +122,6 @@ CHILE.
    33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
    33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
 2. CANCEL THIS MSG 152200Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNREPORTED</category>
-        <status>INFORCE</status>
-        <msgText>110532Z APR 26
-HYDROPAC 1084/26.
-SOUTH CHINA SEA.
-VIETNAM.
-VESSEL FENGHUANG, 23 PERSONS ON BOARD, 
-UNREPORTED. LAST KNOWN POSITION IN 
-VICINITY 10-25.00N 111-13.00E ON 10 APR.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -348,19 +368,6 @@ INDIA.
 2. CANCEL THIS MSG 071930Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>091416Z APR 26
-HYDROPAC 1065/26.
-ARABIAN SEA.
-SOMALIA.
-1. VESSEL REPORTED HIJACKED BY PIRATES
-   IN VICINITY 12-24.00N 051-24.00E. 
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 121416Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>091125Z APR 26
@@ -540,19 +547,6 @@ NEW ZEALAND.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070401Z APR 26
-HYDROPAC 1040/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V REACH REMOTE 2
-IN 21-26.94S 113-49.50E.
-ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061705Z APR 26
@@ -566,37 +560,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z APR 26.
 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GPS JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>061356Z APR 26
-HYDROPAC 1029/26.
-BAY OF BENGAL.
-1. GNSS JAMMING EXERCISES 110330Z TO 121330Z APR
-   IN AREA BOUND BY
-   A. 14-30.50N 085-54.00E, 13-30.00N 087-16.50E,
-      12-24.00N 085-57.00E, 13-28.00N 084-33.00E.
-   B. 14-01.50N 086-55.00E, 14-55.00N 088-17.00E,
-      13-31.50N 089-46.50E, 12-34.00N 088-21.00E.
-2. CANCEL THIS MSG 121430Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010814Z APR 26
-HYDROPAC 1028/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-1. HAZARDOUS OPERATIONS 111400Z TO 121359Z APR
-   IN AREA BOUND BY
-   17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
-   15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 121459Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
