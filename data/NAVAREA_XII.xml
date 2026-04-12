@@ -143,22 +143,6 @@ CALIFORNIA.
 3. CANCEL THIS MSG 210743Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040235Z APR 26
-NAVAREA XII 230/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 091230Z TO 100100Z
-   AND 101230Z TO 110100Z APR, ALTERNATE
-   111230Z TO 120100Z APR IN AREA BOUND BY
-   32-57.25N 120-37.92W, 33-35.50N 120-40.82W,
-   33-56.45N 119-34.80W, 33-46.02N 119-14.62W,
-   32-57.07N 119-54.35W.
-2. CANCEL THIS MSG 120200Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>030926Z APR 26

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>120128Z APR 26
+HYDROPAC 1093/26.
+SOUTH CHINA SEA.
+VIETNAM.
+1. M/V FENGHUANG, 23 PERSONS ON BOARD, 
+   DISABLED AND ADRIFT IN
+   VICINITY 11-22.00N 111-39.00E AT 
+   111110Z APR. VESSELS IN VICINITY REQUESTED TO
+   KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 1084/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PORT CLOSURE</category>
         <status>INFORCE</status>
         <msgText>112343Z APR 26
@@ -384,17 +400,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 200929Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>090105Z APR 26
-HYDROPAC 1060/26.
-SOUTH PACIFIC.
-FIJI.
-1. DERELICT 15 METER VESSEL, WHITE HULL, ADRIFT 
-   IN VICINITY 17-22.60S 177-06.80E AT 070200Z APR.
-2. CANCEL THIS MSG 120105Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
