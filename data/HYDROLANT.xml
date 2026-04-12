@@ -115,15 +115,6 @@ BRAZIL.
 2. CANCEL HYDROLANT 416/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>102128Z APR 26
-HYDROLANT 727/26.
-NORTH SEA.
-SCOTLAND.
-MUCKLE SKERRY LIGHT 58-41.40N 002-55.50W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROLANT 726/26.

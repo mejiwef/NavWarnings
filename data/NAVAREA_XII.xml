@@ -49,17 +49,6 @@ CALIFORNIA.
 3. CANCEL NAVAREA XII 228/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>100727Z APR 26
-NAVAREA XII 245/26.
-GULF OF ALASKA.
-ALASKA.
-USCG COMMUNICATION FACILITY KODIAK
-57-46.00N 152-34.00W MF AND HF SERVICES 
-OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>092131Z APR 26
@@ -106,19 +95,6 @@ CALIFORNIA.
    32-33.00N 118-25.00W, 31-55.00N 118-25.00W,
    31-55.00N 117-40.00W.
 2. CANCEL THIS MSG 150200Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>082141Z APR 26
-NAVAREA XII 239/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 101900Z TO 102300Z
-   AND 111500Z TO 111930Z APR IN AREA BOUND BY
-   34-17.73N 120-52.53W, 33-58.85N 121-59.07W,
-   34-38.65N 122-26.05W, 35-04.67N 121-20.13W.
-2. CANCEL THIS MSG 112030Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
