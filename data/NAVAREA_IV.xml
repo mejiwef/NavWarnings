@@ -61,16 +61,6 @@ NAVAREA IV 344/26.
 10. CANCEL THIS MSG 140001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>112102Z APR 26
-NAVAREA IV 343/26
-UNITED STATES.
-Florida.
-NAVTEX STATION MIAMI (A) 25-30.00N 080-23.00W
-OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>111242Z APR 26

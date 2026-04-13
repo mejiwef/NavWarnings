@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>WORKING VESSELS</category>
+        <status>INFORCE</status>
+        <msgText>131113Z APR 26
+HYDROPAC 1102/26(63).
+ARABIAN SEA.
+INDIA.
+1. CONSTRUCTION OPERATIONS 15 THRU 30 APR 26 
+   BY LTS 3000, AHT BRITOIL 71, AND AHT BRITOIL 81
+   IN VICINITY OF 19-31.78N 071-18.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>130350Z APR 26
@@ -47,19 +60,6 @@ HYDROPAC 1097/26.
 SOUTH PACIFIC.
 IQUIQUE DART II BUOY ESTABLISHED 
 IN 20-33.91S 073-22.79W.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121408Z APR 26
-HYDROPAC 1096/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE BY M/V REACH REMOTE 2
-   IN 21-26.94S 113-49.50E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1040/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -229,19 +229,6 @@ INDIA.
 3. CANCEL THIS MSG 130001Z MAY 26.//</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101215Z APR 26
-HYDROPAC 1076/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 0630Z DAILY
-   12 AND 13 APR 26 IN AREA BOUND BY
-   17-15.00N 084-00.00E, 17-15.00N 084-15.50E,
-   17-30.00N 084-15.50E, 17-30.00N 084-00.00E.
-2. CANCEL THIS MSG 130730Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101207Z APR 26
@@ -335,17 +322,6 @@ TAHITI.
    17-40.00S 149-25.00W, 17-32.00S 149-50.00W.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 151059Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>100810Z APR 26
-HYDROPAC 1069/26.
-NORTH PACIFIC.
-1. FIVE METER LONG METAL OBJECT 
-   WITH SLING ADRIFT IN VICINITY 
-   02-31.36N 140-01.87E.
-2. CANCEL THIS MSG 130712Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
