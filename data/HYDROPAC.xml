@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>141104Z APR 26
+HYDROPAC 1108/26.
+SPENCER GULF.
+AUSTRALIA.
+PLANK SHOAL LIGHT FL(2) 11 MILES
+33-29.88S 137-28.56E.
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>131826Z APR 26
@@ -26,19 +37,6 @@ PAKISTAN.
    25-21.00N 063-43.00E, 25-18.00N 064-12.00E,
    23-50.00N 067-32.00E, 23-36.00N 067-18.00E.
 2. CANCEL THIS MSG 151400Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131256Z APR 26
-HYDROPAC 1105/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 140030Z TO 141030Z APR
-   IN AREA BOUND BY
-   17-59.00N 083-56.00E, 17-50.00N 083-44.00E,
-   17-49.00N 083-59.00E, 17-58.00N 084-11.00E.
-2. CANCEL THIS MSG 141130Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -390,20 +388,6 @@ TAHITI.
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091528Z APR 26
-HYDROPAC 1067/26.
-BASS STRAIT.
-AUSTRALIA.
-CABLE OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY C/S PETER FABER,
-IN AREA BOUND BY:
-38-25.50S 144-27.84E, 38-25.50S 144-29.89E, 
-38-27.20S 144-29.89E, 38-27.20S 144-27.84E.
-ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091339Z APR 26
 HYDROPAC 1066/26(63).
 ARABIAN SEA.
@@ -415,18 +399,6 @@ INDIA.
    18-37.34N 072-01.31E, 18-21.70N 071-50.98E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 071930Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>091125Z APR 26
-HYDROPAC 1063/26.
-EASTERN INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   140300Z TO 140900Z APR IN AREA BOUND BY
-   11-18.00S 092-06.00E, 11-22.00S 092-38.00E,
-   16-43.00S 091-55.00E, 16-39.00S 091-21.00E.
-2. CANCEL THIS MSG 141000Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
