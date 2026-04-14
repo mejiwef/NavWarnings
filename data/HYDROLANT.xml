@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141650Z APR 26
+HYDROLANT 750/26.
+NORTH SEA.
+NETHERLANDS.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE, BY M/V GEOSURVEYOR XI
+ALONG TRACKLINE JOINING
+53-15.40N 003-34.40E, 52-13.10N 002-44.40E,
+52-04.70N 002-42.10E, 51-58.20N 003-07.20E,
+52-00.40N 003-38.20E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>141615Z APR 26
+HYDROLANT 749/26.
+ENGLISH CHANNEL.
+ENGLAND.
+1. DERELICT  SEVEN METER F/V MACIE LOUIS,
+   ADRIFT IN 50-39.00N 001-50.00W.
+   AT 141116Z APR.
+2. CANCEL THIS MSG 171502Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141429Z APR 26
+HYDROLANT 748/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 59-23.00S 036-09.00W.
+   B. 50-24.00S 030-05.00W.
+   C. 46-40.00S 027-49.00W.
+   D. 49-45.00S 030-41.00W.
+   E. 46-57.00S 027-47.00W.
+   F. 46-56.00S 027-38.00W.
+   G. 58-31.00S 036-09.00W.
+   H. 43-03.00S 034-57.00W.
+2. CANCEL THIS MSG 151430Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141427Z APR 26
+HYDROLANT 747/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-47.40S 056-52.20W.
+   B. A84, 73-51.60S 104-53.40W.
+   C. A85, 68-18.60S 057-17.40W.
+   D. D33A, 65-15.00S 057-46.80W.
+   E. D33C, 65-43.80S 058-09.00W.
+2. CANCEL THIS MSG 151430Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>140928Z APR 26
@@ -23,40 +84,6 @@ SOUTH AFRICA.
    IN 34-21.50S 017-37.50E ON 11 APR.
 2. CANCEL HYDROLANT 730/26.
 3. CANCEL THIS MSG 162135Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131436Z APR 26
-HYDROLANT 744/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 59-27.00S 036-14.00W.
-   B. 51-25.00S 030-45.00W.
-   C. 46-40.00S 027-49.00W.
-   D. 49-50.00S 030-42.00W.
-   E. 46-57.00S 027-47.00W.
-   F. 46-56.00S 027-38.00W.
-   G. 58-57.00S 035-59.00W.
-   H. 43-03.00S 034-57.00W.
-2.CANCEL THIS MSG 141430Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131430Z APR 26
-HYDROLANT 743/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-47.40S 056-52.20W.
-   B. A84, 73-51.60S 104-53.40W.
-   C. A85, 68-18.60S 057-17.40W.
-   D. D33A, 65-15.00S 057-46.80W.
-   E. D33C, 65-43.80S 058-09.00W.
-2. CANCEL THIS MSG 141431Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

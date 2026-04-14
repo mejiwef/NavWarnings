@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>141354Z APR 26
+NAVAREA XII 255/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1630Z TO 2030Z DAILY
+   14 THRU 20, 24, 27 APR THRU 01 MAY,
+   AND 21 AND 22 APR IN AREA BOUND BY
+   32-59.93N 121-00.52W, 33-12.47N 121-07.25W,
+   33-26.73N 120-21.12W, 33-13.98N 120-16.15W.
+2. CANCEL NAVAREA XII 254/26.
+3. CANCEL THIS MSG 012130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>132112Z APR 26
 NAVAREA XII 253/26.
 NORTH PACIFIC.
@@ -14,20 +29,6 @@ CALIFORNIA.
    32-50.72N 119-59.75W, 33-33.00N 120-48.03W,
    33-46.75N 120-27.65W.
 2. CANCEL THIS MSG 190200Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>131742Z APR 26
-NAVAREA XII 252/26.
-NORTH PACIFIC.
-MEXICO.
-1. GUNNERY EXERCISES 141400Z TO 141600Z APR
-   IN AREA BOUND BY
-   32-11.00N 117-17.30W, 31-35.00N 116-59.48W,
-   31-35.00N 117-34.00W, 32-05.00N 117-34.00W,
-   32-13.00N 117-32.00W.
-2. CANCEL THIS MSG 141700Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

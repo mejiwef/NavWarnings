@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>REQUESTING ASSISTANCE</category>
+        <status>INFORCE</status>
+        <msgText>141320Z APR 26
+NAVAREA IV 350/26.
+NORTH ATLANTIC.
+TEN METER S/V NICOLA DEUX, WHITE AND BLUE HULL,
+ONE PERSON ON BOARD, REQUESTING ASSISTANCE 
+IN 42-16.94N 037-59.06W AT 140930Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO MRCC DELGADA,
+PHONE: 3512 9628 1777, 3519 1777 7461 
+EMAIL: MRCC.DELGADA@MARINHA.PT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>132000Z APR 26
@@ -639,16 +654,6 @@ NAVAREA IV 53/26(28).
 GULF OF AMERICA.
 MEXICO.
 DANGEROUS WRECK IN 25-14.24N 097-07.72W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>121342Z JAN 26
-NAVAREA IV 27/26(24).
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-SCARBOROUGH LIGHT 11-10.62N 060-43.62W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
