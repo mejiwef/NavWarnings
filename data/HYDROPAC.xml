@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>131826Z APR 26
+HYDROPAC 1107/26.
+SINGAPORE STRAIT.
+SINGAPORE.
+1. BARGE BOARDED IN 01-15.54N 104-05.38E
+   AT 131330Z APR. VESSELS ARE ADVISED TO
+   KEEP CLEAR OF THIS POSITION AND TO
+   EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 161926Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131443Z APR 26
