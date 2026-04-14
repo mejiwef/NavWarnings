@@ -282,19 +282,6 @@ BRAZIL.
 2. CANCEL THIS MSG 171600Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080119Z APR 26
-HYDROLANT 714/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 140259Z APR BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 140359Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVAL OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071122Z APR 26
