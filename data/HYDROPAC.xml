@@ -1,6 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151206Z APR 26
+HYDROPAC 1117/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z to 0630Z
+   AND 0900 TO 1100 DAILY 20 THRU 24 APR
+   IN AREA BOUND BY
+   21-49.28N 087-56.30E, 20-38.83N 088-33.23E,
+   19-51.80N 087-33.15E, 21-16.05N 086-51.75E.
+2. CANCEL THIS MSG 241200Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151147Z APR 26
+HYDROPAC 1116/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 18 APR THRU 15 MAY
+   BY M/V POSH PANGLIMA, M/V POSH NATUNA
+   AND POSH ARCTURUS IN VICINITY OF: 
+   A. 20-18.97N 071-59.09E.
+   B. 20-10.38N 072-29.68E.
+   C. 19-19.61N 071-14.84E.
+   D. 19-21.01N 071-18.08E.
+   E. 19-31.77N 071-18.09E.
+   F. 19-34.40N 071-21.74E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151129Z APR 26
+HYDROPAC 1115/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 16 APR THRU 15 MAY
+   BY M/V WILCHIEF1 IN AREA BOUND BY
+   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>151105Z APR 26
+HYDROPAC 1114/26.
+BAY OF BENGAL.
+BURMA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   170300Z TO 170900Z APR
+   IN AREA BOUND BY
+   17-59.00N 093-12.00E, 17-51.00N 093-45.00E,
+   16-59.00N 093-32.00E, 17-06.00N 092-59.00E.
+2. CANCEL THIS MSG 171000Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>150835Z APR 26
+HYDROPAC 1113/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V DNA 91009 TS, TWO PERSONS ON BOARD, 
+SANK IN 15-44.00N 108-30.00E AT 150635Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150519Z APR 26
@@ -398,21 +475,6 @@ INDIA.
    20-42.18N 087-08.98E, 20-57.35N 086-54.46E,
    21-14.91N 086-48.63E, 21-35.51N 087-10.70E.
 2. CANCEL THIS MSG 180830Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100931Z APR 26
-HYDROPAC 1070/26.
-SOUTH PACIFIC.
-MOOREA.
-TAHITI.
-1. SURVEY OPERATIONS 112100Z TO 150959Z APR 
-   BY CABLESHIP ENDEAVOUR
-   ALONG TRACKLINE JOINING
-   17-40.00S 149-25.00W, 17-32.00S 149-50.00W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 151059Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
