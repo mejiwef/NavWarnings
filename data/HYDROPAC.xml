@@ -623,22 +623,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021247Z APR 26
-HYDROPAC 1001/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   051831Z TO 141829Z APR.
-   IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.00E.
-2. CANCEL THIS MSG 141929Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>021155Z APR 26
