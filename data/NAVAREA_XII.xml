@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>151648Z APR 26
+NAVAREA XII 262/26.
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   191341Z TO 191619Z APR, ALTERNATE 1341Z TO 1619Z
+   DAILY 20 THRU 22 APR IN AREA BOUND BY
+   46-59.00N 152-58.00W, 48-04.00N 152-45.00W,
+   47-48.00N 150-38.00W, 46-51.00N 144-48.00W,
+   46-16.00N 144-59.00W, 46-42.00N 148-57.00W.
+2. CANCEL NAVAREA XII 256/26.
+3. CANCEL THIS MSG 221719Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181536Z Mar 26
@@ -61,21 +76,6 @@ ALASKA.
    57-46.00N 152-34.00W TRANSMIT AND RECEIVE
    SERVICES UNRELIABLE 171000Z TO 171100Z APR.
 2. CANCEL THIS MSG 171200Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>141948Z APR 26
-NAVAREA XII 256/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   181341Z TO 181619Z APR, ALTERNATE 1341Z TO 1619Z
-   DAILY 19 THRU 22 APR IN AREA BOUND BY
-   46-59.00N 152-58.00W, 48-04.00N 152-45.00W,
-   47-48.00N 150-38.00W, 46-51.00N 144-48.00W,
-   46-16.00N 144-59.00W, 46-42.00N 148-57.00W.
-2. CANCEL NAVAREA XII 251/26.
-3. CANCEL THIS MSG 221443Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
