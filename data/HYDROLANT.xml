@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150047Z APR 26
+HYDROLANT 753/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 260300Z APR BY M/V SISTAC VITORIA
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260400Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150034Z APR 26
