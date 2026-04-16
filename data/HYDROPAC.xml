@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>152343Z APR 26
+HYDROPAC 1123/26.
+TASMAN SEA.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 1900Z TO 0400Z
+   DAILY 19 APR THRU 01 MAY IN AREA WITHIN
+   THREE MILES OF 36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 020500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>151438Z APR 26
@@ -315,19 +327,6 @@ INDIA.
    17-15.00N 084-00.00E, 17-15.00N 084-15.50E,
    17-30.00N 084-15.50E, 17-30.00N 084-00.00E.
 2. CANCEL THIS MSG 171130Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111420Z APR 26
-HYDROPAC 1087/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 151200Z TO 152100Z APR
-   IN AREA BOUND BY
-   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
-   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
-2. CANCEL THIS MSG 152200Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -1099,22 +1098,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251103Z MAR 26
-HYDROPAC 912/26.
-ARABIAN SEA.
-INDIA.
-1. SURVEY OPERATIONS 30 MAR THRU 15 APR 
-   IN AREAS BOUND BY:
-   A. 18-43.00N 071-55.00E, 18-43.00N 072-05.00E,
-      18-35.00N 072-05.00E, 18-35.00N 071-55.00E.
-   B. 18-19.00N 071-20.00E, 18-19.00N 071-40.00E,
-      18-00.00N 071-40.00E, 18-00.00N 071-20.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201226Z MAR 26
@@ -1163,23 +1146,6 @@ FIJI.
 DNC 06.
 NORTH OVALAU ISLAND LIGHT 17-33.81S 178-50.92E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161631Z MAR 26
-HYDROPAC 804/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 17 MAR THRU 15 APR BY
-   M/V WILCHIEF 1 IN AREAS BOUND BY:
-   A. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
-      19-09.06N 072-16.52E, 19-10.14N 071-02.58E.
-   B. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
