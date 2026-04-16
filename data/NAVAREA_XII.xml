@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160122Z APR 26
+NAVAREA XII 263/26.
+NORTH PACIFIC.
+COLOMBIA.
+1. NAVAL OPERATIONS 201200Z TO 202100Z APR
+   IN AREA BOUND BY
+   02-01.72N 079-08.22W, 01-54.60N 079-08.22W,
+   01-54.60N 079-01.19W, 02-01.72N 079-01.19W.
+2. CANCEL THIS MSG 202200Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>151648Z APR 26
