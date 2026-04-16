@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161146Z APR 26
+HYDROPAC 1130/26
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 
+   0300Z TO 1500Z DAILY 20 AND 21 APR 
+   IN AREA BOUND BY
+   25-13.00N 064-18.00E, 25-13.00N 066-17.00E,
+   24-16.00N 066-17.00E, 24-16.00N 064-18.00E.
+2. CANCEL THIS MSG 211600Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>161041Z APR 26
+HYDROPAC 1129/26.
+GULF OF ADEN.
+YEMEN.
+VESSEL, BLUE HULL, TWO PERSONS ON BOARD,
+UNREPORTED IN VICINITY BALHAF (13-56.98N 048-09.49E).
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>131847Z APR 26
+HYDROPAC 1128/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E BROADCAST SERVICES
+   UNRELIABLE 1730Z TO 1930Z DAILY 21 AND 22 APR.
+2. CANCEL THIS MSG 222030Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160615Z APR 26
