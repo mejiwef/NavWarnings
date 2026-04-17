@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>162017Z APR 26
+HYDROLANT 762/26.
+ENGLISH CHANNEL.
+ENGLAND.
+1. DERELICT SEVEN METER F/V MACIE LOUIS
+   ADRIFT IN 50-38.50N 001-50.80W.
+2. CANCEL HYDROLANT 749/26.
+3. CANCEL THIS MSG 192017Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>161451Z APR 26
@@ -32,20 +44,6 @@ SOUTH ATLANTIC.
    F. 58-25.00S 036-11.00W.
    G. 43-19.00S 033-57.00W.
 2. CANCEL THIS MSG 171500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160549Z APR 26
-HYDROLANT 759/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 160700Z TO 161800Z APR
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 161900Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -99,17 +97,6 @@ ALONG TRACKLINE JOINING
 52-04.70N 002-42.10E, 51-58.20N 003-07.20E,
 52-00.40N 003-38.20E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>141615Z APR 26
-HYDROLANT 749/26.
-ENGLISH CHANNEL.
-ENGLAND.
-1. DERELICT SEVEN METER F/V MACIE LOUIS,
-   ADRIFT IN 50-39.00N 001-50.00W AT 141116Z APR.
-2. CANCEL THIS MSG 171502Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -302,7 +289,8 @@ BRAZIL.
    msi.nga.mil/NavWarnings.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROLANT 676/26 AND 692/26.</msgText>
+3. CANCEL HYDROLANT 676/26 AND 692/26.
+CANCEL THIS MSG 171400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -532,7 +520,7 @@ SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC MADRID,
 PHONE: 349 1755 9132, 349 1755 9133,
 EMAIL: CNCS@SASEMAR.ES.
-</msgText>
+CANCEL THIS MSG 171400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
