@@ -206,20 +206,6 @@ BRAZIL.
 2. CANCEL THIS MSG 210001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111706Z APR 26
-HYDROLANT 735/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 160001Z TO 162359Z APR
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 170059Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111333Z APR 26
