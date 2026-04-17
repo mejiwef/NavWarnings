@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>111103Z APR 26
+NAVAREA XII 270/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 220200Z TO 220624Z APR, ALTERNATE
+      0200Z TO 0624Z DAILY 23 THRU 28 APR
+      IN AREA BOUND BY
+      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
+      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
+      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
+   B. 220200Z TO 220643Z APR, ALTERNATE
+      0200Z TO 0643Z DAILY 23 THRU 28 APR
+      IN AREA BOUND BY
+      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
+      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
+      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
+      28-48.00N 121-25.00W.
+2. CANCEL THIS MSG 280743Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170143Z APR 26
@@ -119,18 +142,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 212300Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>142046Z APR 26
-NAVAREA XII 257/26.
-GULF OF ALASKA.
-ALASKA.
-1. USCG COMMUNICATION FACILITY KODIAK
-   57-46.00N 152-34.00W TRANSMIT AND RECEIVE
-   SERVICES UNRELIABLE 171000Z TO 171100Z APR.
-2. CANCEL THIS MSG 171200Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>141354Z APR 26
@@ -245,30 +256,6 @@ NORTH PACIFIC.
    B. 38-46.76N 172-48.64W, 38-15.70N 170-15.70W,
       31-07.28N 172-31.87W, 31-32.10N 174-48.60W.
 2. CANCEL THIS MSG 301700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>081515Z APR 26
-NAVAREA XII 238/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
-   A. 050239Z TO 050703Z APR, ALTERNATE 
-      0239Z TO 0703Z DAILY 06 THRU 17 APR 
-      IN AREA BOUND BY
-      31-45.00N 121-09.00W, 31-43.00N 121-15.00W,
-      34-39.00N 120-40.00W, 34-40.00N 120-37.00W,
-      34-27.00N 120-26.00W, 33-47.00N 120-35.00W.
-   B. 050239Z TO 050722Z APR, ALTERNATE 
-      0239Z TO 0722Z DAILY 06 THRU 17 APR 
-      IN AREA BOUND BY
-      28-26.00N 121-34.00W, 28-19.00N 121-55.00W,
-      28-31.00N 122-13.00W, 28-52.00N 122-13.00W,
-      29-48.00N 121-45.00W, 29-48.00N 121-34.00W,
-      28-48.00N 121-25.00W.
-2. CANCEL NAVAREA XII 221/26.
-3. CANCEL THIS MSG 170822Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

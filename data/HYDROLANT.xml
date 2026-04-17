@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170941Z APR 26
+HYDROLANT 763/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 221100Z TO 242200Z APR
+   IN AREA BOUND BY
+   29-04.25S 049-15.43W, 29-04.25S 049-03.56W,
+   29-39.90S 049-28.94W, 29-39.90S 049-43.23W.
+2. CANCEL THIS MSG 242300Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>162017Z APR 26
