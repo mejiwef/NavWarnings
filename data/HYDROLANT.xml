@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180738Z APR 26
+HYDROLANT 776/26.
+CARDIGAN BAY.
+SAINT GEORGES CHANNEL.
+WALES.
+1. HAZARDOUS OPERATIONS 0800Z TO 1700Z DAILY
+   20 THRU 24 APR IN AREA BOUND BY
+   52-32.40N 005-12.80W, 52-40.80N 004-34.80W,
+   52-32.70N 004-30.00W, 52-24.20N 005-08.00W.
+2. CANCEL THIS MSG 241800Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>180257Z APR 26
