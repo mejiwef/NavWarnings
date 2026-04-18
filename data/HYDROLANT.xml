@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>181455Z APR 26
+HYDROLANT 778/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 59-11.00S 035-50.00W.
+   B. 46-23.00S 028-14.00W.
+   C. 48-48.00S 030-04.00W.
+   D. 46-29.00S 027-36.00W.
+   E. 46-56.00S 027-38.00W.
+   F. 58-25.00S 036-11.00W.
+   G. 43-19.00S 033-57.00W.
+2. CANCEL THIS MSG 191500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>181439Z APR 26
+HYDROLANT 777/26.
+SOUTH ATLANTIC.
+ANTARCTICA. 
+1. ICEBERGS REPORTED IN:
+   A. A81, 64-43.80S 056-30.00W.
+   B. A84, 73-48.00S 106-04.80W.
+   C. A85, 68-14.40S 057-15.60W.
+   D. D33A, 65-07.20S 057-42.00W.
+   E. D33C, 65-37.80S 058-07.80W.
+2. CANCEL THIS MSG 191500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180738Z APR 26
@@ -121,38 +153,6 @@ HYDROLANT 766/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1711/25, 630/26, AND 726/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171507Z APR 26
-HYDROLANT 765/26.
-SOUTH ATLANTIC.
-ANTARCTICA. 
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-47.40S 056-52.20W.
-   B. A84, 73-51.60S 104-53.40W.
-   C. A85, 68-18.60S 057-17.40W.
-   D. D33A, 65-15.00S 057-46.80W.
-   E. D33C, 65-43.80S 058-09.00W.
-2. CANCEL THIS MSG 181500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171459Z APR 26
-HYDROLANT 764/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 59-11.00S 035-50.00W.
-   B. 46-23.00S 027-49.00W.
-   C. 48-48.00S 030-04.00W.
-   D. 46-29.00S 027-36.00W.
-   E. 46-56.00S 027-38.00W.
-   F. 58-25.00S 036-11.00W.
-   G. 43-19.00S 033-57.00W.
-2. CANCEL THIS MSG 181500Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
