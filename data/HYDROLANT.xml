@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>182300Z APR 26
+HYDROLANT 779/26.
+EASTERN MEDITERRANEAN SEA.
+LIBYA.
+CANCEL HYDROLANT 731/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>181455Z APR 26
@@ -194,18 +203,6 @@ BRAZIL.
 3. CANCEL THIS MSG 270400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>151948Z APR 26
-HYDROLANT 757/26.
-SOUTH ATLANTIC.
-SOUTH AFRICA.
-1. DERELICT VESSEL PARTIALLY SUBMERGED AND
-   ADRIFT IN 33-22.17S 017-34.51E AT 151344Z APR.
-2. CANCEL HYDROLANT 751/26.
-3. CANCEL THIS MSG 181948Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151741Z APR 26
@@ -302,22 +299,6 @@ BRAZIL.
    29-18.40S 046-11.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111333Z APR 26
-HYDROLANT 731/26.
-EASTERN MEDITERRANEAN SEA.
-LIBYA.
-CABLE OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V MAASVLIET
-ALONG TRACKLINE JOINING
-32-27.24N 026-29.89E, 32-33.93N 026-07.76E,
-32-35.73N 026-01.66E, 32-38.37N 025-52.72E,
-32-41.54N 025-40.66E, 32-50.34N 025-10.56E,
-33-00.96N 024-34.36E, 33-05.68N 024-20.37E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

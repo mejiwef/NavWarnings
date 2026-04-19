@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>182110Z APR 26
+NAVAREA XII 274/26.
+NORTH PACIFIC.
+HAWAII.
+1. USCG REMOTE COMMUNICATION FACILITY HONOLULU
+    21-22.00N 158-09.00W UNRELIABLE.
+2. HONOLULU BROADCASTS WILL BE TRANSMITTED FROM:
+    USCG REMOTE COMMUNICATION FACILITY
+    GUAM 13-29.00N 144-50.00E.
+3. DSC RESPONSES WILL BE FROM:
+    USCG REMOTE COMMUNICATION FACILITY
+    POINT REYES 37-55.00N 122-24.00W.
+4. CANCEL MSG NAVAREA XII 177/26.
+5. EFFECTIVE UNTIL FURTHER NOTICE.
+6. RESTORAL MESSAGE WILL BE ISSUED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>172139Z APR 26
@@ -234,19 +253,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 241943Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>092131Z APR 26
-NAVAREA XII 243/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1630Z TO 2030Z
-   DAILY 13 THRU 18 APR IN AREA BOUND BY
-   34-17.73N 120-52.53W, 33-58.85N 121-59.07W,
-   34-38.65N 122-26.05W, 35-04.67N 121-20.13W.
-2. CANCEL THIS MSG 182130Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>090910Z APR 26
@@ -297,19 +303,6 @@ USCG REMOTE COMMUNICATION FACILITIES:
    I. ASTORIA 46-10.00N 123-49.00W.
    J. BERING SEA 57-46.00N 152-34.00W.
    K. CAMBRIA 33-44N 118-24W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>141713Z MAR 26
-NAVAREA XII 177/26(19).
-NORTH PACIFIC.
-UNITED STATES.
-HAWAII.
-USCG REMOTE COMMUNICATION FACILITY HONOLULU (NMO) 
-IN 21-22.00N 158-09.00W. 
-ALL HF/MF AND DSC SERVICES ARE INOPERABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
