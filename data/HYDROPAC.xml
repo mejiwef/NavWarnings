@@ -3,6 +3,19 @@
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>190846Z APR 26
+HYDROPAC 1162/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V OFFSHORE SUPPLIER
+ALONG TRACKLINE JOINING
+32-28.59S 115-44.20E, 32-32.57S 115-35.77E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>181330Z APR 26
 HYDROPAC 1159/26.
 NORTH PACIFIC.
