@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>182300Z APR 26
-HYDROLANT 779/26.
-EASTERN MEDITERRANEAN SEA.
-LIBYA.
-CANCEL HYDROLANT 731/26 AND THIS MSG.</msgText>
+        <msgText>190302Z APR 26
+HYDROLANT 780/26.
+NORTH SEA.
+ENGLAND.
+MRCC HUMBER MF R/T SERVICES AT LANGHAM
+52-56.50N 000-57.20E OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>

@@ -67,21 +67,6 @@ SOUTH PACIFIC.
 2. CANCEL THIS MSG 050500Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>180427Z APR 26
-HYDROPAC 1154/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V DNA 90893 TS, TEN PERSONS ON BOARD,
-DISABLED AND ADRIFT DUE TO ENGINE TROUBLE
-IN 15-44.00N 109-20.00E AT 180255Z APR.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180333Z APR 26
@@ -357,19 +342,6 @@ ISLA MAGDALENA LIGHT 52-55.10S 070-30.30W
 MISSING.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>161720Z APR 26
-HYDROPAC 1132/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. GUNNERY EXERCISES 181800Z TO 190300Z APR
-   IN AREA BOUND BY
-   13-10.00S 145-30.00W, 13-10.00S 144-49.00W,
-   13-30.00S 144-49.00W, 13-30.00S 145-30.00W.
-2. CANCEL THIS MSG 190400Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>161305Z APR 26
@@ -617,17 +589,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 242129Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>122209Z APR 26
-HYDROPAC 1099/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. PORT OF NAPIER (37-39.60S 176-10.32E)
-   CLOSED UNTIL FURTHER NOTICE.
-2. CANCEL HYDROPAC 1080/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
