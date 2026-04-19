@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191615Z APR 26
+HYDROPAC 1164/26.
+ANDAMAN SEA.
+BURMA.
+1. SURVEY OPERATIONS 20 APR THRU 20 MAY 
+   BY M/V OCEANIC SIRIUS IN AREA BOUND BY
+   13-27.00N 093-30.00E, 12-08.00N 093-30.00E,
+   12-08.00N 093-08.00E, 12-16.00N 093-08.00E,
+   12-16.00N 092-59.00E, 12-53.00N 092-59.00E,
+   13-00.00N 093-01.00E, 13-04.00N 093-02.00E,
+   13-14.00N 093-04.00E, 13-20.00N 093-06.00E,
+   13-27.00N 093-06.00E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>191457Z APR 26
+HYDROPAC 1163/26.
+GULF OF THAILAND.
+VIETNAM.
+MAN OVERBOARD FROM F/V TG 91159 TS
+IN 08-58.00N 104-29.00E AT 182100Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190846Z APR 26
@@ -210,19 +242,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171054Z APR 26
-HYDROPAC 1145/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 180001Z TO 191300Z APR
-   IN AREA BOUND BY
-   16-15.00N 084-00.00E, 16-55.00N 084-00.00E,
-   16-55.00N 084-40.00E, 16-15.00N 084-40.00E.
-2. CANCEL THIS MSG 191400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
