@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200433Z APR 26
+HYDROPAC 1168/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS 
+UNTIL FURTHER NOTICE BY M/V REACH REMOTE 2
+IN 21-28.87S 113-59.85E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>171619Z APR 26
+HYDROPAC 1166/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   1543Z TO 2029Z DAILY 25 APR THRU 01 MAY 
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 012129Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>192216Z APR 26
@@ -620,20 +646,6 @@ INDIA.
    IN VICINITY 19-31.78N 071-18.15E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>130350Z APR 26
-HYDROPAC 1100/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 18 THRU 24 APR
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 242129Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>

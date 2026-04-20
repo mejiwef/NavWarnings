@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200511Z APR 26
+HYDROLANT 792/26.
+NORTH ATLANTIC.
+SENEGAL.
+1. HAZARDOUS OPERATIONS 200800Z TO 201800Z APR
+   IN AREA WITHIN 30 MILES OF 
+   14-28.00N 017-52.00W.
+2. CANCEL THIS MSG 201900Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>200251Z APR 26
+HYDROLANT 791/26.
+ENGLISH CHANNEL.
+ENGLAND.
+1. FOG SIGNAL AT NEEDLES LIGHT 
+   50-39.70N 001-35.50W INOPERATIVE.
+2. CANCEL HYDROLANT 465/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>191509Z APR 26
@@ -680,19 +703,6 @@ DNC 01.
    UNLIT UNTIL 08 SEP 26.
 2. CANCEL HYDROLANT 1547/25.
 3. CANCEL THIS MSG 090001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SOUND SIGNAL</category>
-        <status>INFORCE</status>
-        <msgText>091347Z MAR 26
-HYDROLANT 465/26(37).
-ENGLISH CHANNEL.
-ENGLAND.
-DNC 20.
-1. FOG SIGNAL AT NEEDLES LIGHT 50-39.70N 001-35.50W
-   INOPERATIVE.
-2. CANCEL HYDROLANT 464/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
