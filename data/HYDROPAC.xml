@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>201220Z APR 26
+HYDROPAC 1174/26(81).
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+DUE TO TYPHOON SINLAKU:
+1. THE FOLLOWING PORTS ARE CLOSED:
+   A. SAIPAN (15-13.56N 145-44.25E).
+2. THE FOLLOWING PORT IS OPEN WITH
+   RESTRICTIONS:
+   A. APRA HARBOR (13-27.20N 144-39.21E).
+   B. ROTA HARBOR (14-08.35N 145-08.09E).
+   C. TINIAN (14-57.95N 145-37.26E).
+3. CURRENT PORT INFORMATION CAN BE FOUND 
+   AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.
+4. CANCEL HYDROPAC 1157/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>200934Z APR 26
+HYDROPAC 1172/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+PLANK SHOAL LIGHT 33-29.88S 137-28.56E
+PERMANENTLY DISCONTINUED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200433Z APR 26
@@ -244,16 +273,6 @@ AUSTRALIA.
 1. SOUTH BARROW ISLET LIGHT 14-20.79S 144-39.16E
    UNLIT.
 2. CANCEL HYDROPAC 981/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>171222Z APR 26
-HYDROPAC 1148/26.
-EASTERN INDIAN OCEAN.
-1. DERELICT FISHING VESSEL CAPSIZE AND ADRIFT 
-   IN VICINITY 02-54.84N 090-03.07E AT 170230Z APR
-2. CANCEL THIS MSG 201222Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -601,16 +620,6 @@ INDIAN OCEAN.
 2. CANCEL THIS MSG 261504Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>141104Z APR 26
-HYDROPAC 1108/26.
-SPENCER GULF.
-AUSTRALIA.
-PLANK SHOAL LIGHT 33-29.88S 137-28.56E
-UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131249Z APR 26
@@ -763,20 +772,6 @@ INDIA.
    18-37.34N 072-01.31E, 18-21.70N 071-50.98E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 071930Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>060358Z Apr 26
-HYDROPAC 1061/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0343Z TO 0829Z DAILY 14 THRU 20 APR
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 200929Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
