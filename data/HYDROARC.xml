@@ -38,27 +38,6 @@ NORWAY.
 2. CANCEL THIS MSG 301700Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>030926Z APR 26
-HYDROARC 44/26.
-GREENLAND SEA.
-NORWEGIAN SEA.
-NORWAY.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   2005Z TO 2050Z DAILY 08 THRU 19 APR
-   IN AREAS BOUND BY:
-   A. 68-59.33N 015-28.05E, 69-13.37N 015-58.52E,
-      70-53.83N 014-10.90E, 70-41.62N 012-51.94E.
-   B. 71-03.42N 015-12.97E, 74-15.83N 009-52.26E,
-      76-50.36N 003-23.81E, 79-11.76N 006-04.25W,
-      79-55.85N 010-21.89W, 79-41.45N 011-34.89W,
-      78-03.47N 004-13.38W, 76-01.02N 002-00.03E,
-      73-32.12N 007-12.24E, 70-30.12N 011-37.50E.
-2. CANCEL THIS MSG 192150Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>142350Z JAN 26

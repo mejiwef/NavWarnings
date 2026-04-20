@@ -262,18 +262,6 @@ BRAZIL.
 2. CANCEL THIS MSG 242300Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>162017Z APR 26
-HYDROLANT 762/26.
-ENGLISH CHANNEL.
-ENGLAND.
-1. DERELICT SEVEN METER F/V MACIE LOUIS
-   ADRIFT IN 50-38.50N 001-50.80W.
-2. CANCEL HYDROLANT 749/26.
-3. CANCEL THIS MSG 192017Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160045Z APR 26

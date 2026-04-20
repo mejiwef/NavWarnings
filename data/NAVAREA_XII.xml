@@ -268,23 +268,6 @@ NORTH PACIFIC.
 2. CANCEL THIS MSG 301700Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>030926Z APR 26
-NAVAREA XII 226/26.
-NORTH PACIFIC.
-HAWAII. 
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   2143Z TO 2325Z DAILY 08 THRU 19 APR
-   IN AREA BOUND BY
-   27-28.71N 171-24.34W, 13-38.98N 174-00.45W,
-   01-35.98N 175-48.45W, 00-54.72N 172-43.89W,
-   12-22.59N 170-40.14W, 16-45.76N 170-06.75W,
-   26-43.75N 168-39.09W.
-2. CANCEL THIS MSG 200025Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>280808Z MAR 26
