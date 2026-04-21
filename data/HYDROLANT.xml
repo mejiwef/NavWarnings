@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>211056Z APR 26
+HYDROLANT 800/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-43.80S 056-30.00W.
+   B. A84, 73-48.00S 106-04.80W.
+   C. A85, 68-14.40S 057-15.60W.
+   D. D33A, 65-07.20S 057-42.00W.
+   E. D33C, 65-37.80S 058-07.80W.
+2. CANCEL THIS MSG 221044Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211028Z APR 26
+HYDROLANT 799/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0700Z TO 0900Z DAILY
+   22 THRU 23 APR IN AREA BOUND BY
+   44-05.00N 029-08.00E, 44-05.00N 029-30.00E,
+   43-55.00N 029-30.00E, 43-55.00N 029-08.00E.
+2. CANCEL THIS MSG 231000Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210642Z APR 26
+HYDROLANT 798/26.
+NORTH SEA.
+SURVEY OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V OCEAN RELIANCE
+TOWING TWO 1200 METER LONG CABLES
+IN AREA BOUND BY
+60-02.30N 001-58.40E, 59-59.40N 002-17.00E,
+59-46.00N 002-08.70E, 59-48.90N 001-50.20E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>202330Z APR 26
