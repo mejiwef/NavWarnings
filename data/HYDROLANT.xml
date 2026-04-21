@@ -3,6 +3,23 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>211423Z APR 26
+HYDROLANT 801/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-50.00S 035-46.00W.
+   B. 46-23.00S 028-14.00W.
+   C. 48-48.00S 030-04.00W.
+   D. 46-29.00S 027-36.00W.
+   E. 46-56.00S 027-38.00W.
+   F. 58-25.00S 036-11.00W.
+   G. 43-19.00S 033-57.00W.
+2. CANCEL THIS MSG 221419Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>211056Z APR 26
 HYDROLANT 800/26.
 SOUTH ATLANTIC.
@@ -81,23 +98,6 @@ ANTARCTICA.
    D. D33A, 65-07.20S 057-42.00W.
    E. D33C, 65-37.80S 058-07.80W.
 2. CANCEL THIS MSG 211915Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201813Z APR 26
-HYDROLANT 794/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 59-11.00S 035-50.00W.
-   B. 46-23.00S 028-14.00W.
-   C. 48-48.00S 030-04.00W.
-   D. 46-29.00S 027-36.00W.
-   E. 46-56.00S 027-38.00W.
-   F. 58-25.00S 036-11.00W.
-   G. 43-19.00S 033-57.00W.
-2. CANCEL THIS MSG 211813Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

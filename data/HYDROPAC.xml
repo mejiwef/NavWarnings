@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISTRESS SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>211719Z APR 26
+HYDROPAC 1195/26.
+SOUTH CHINA SEA.
+DISTRESS SIGNAL RECEIVED FROM F/V KH 92259 TS, 
+SIX PERSONS ON BOARD, IN VICINITY 
+11-29.00N 110-46.00E AT 211459Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL:HPLES-GMDSS@HPLES.COM.VN .</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211226Z APR 26
+HYDROPAC 1193/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 22 APR THRU 15 MAY
+   BY VESSEL SEA VENTURE AND VESSEL SEA PATRIOT
+   IN AREA BOUND BY:
+   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211157Z APR 26
@@ -500,7 +530,7 @@ INDIA.
    E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
-CANCEL THIS MSG 200001Z MAY 26.</msgText>
+2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -626,20 +656,6 @@ HAZARDOUS OPERATIONS, SPACE DEBRIS
 2. CANCEL THIS MSG 220500Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161146Z APR 26
-HYDROPAC 1130/26
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 
-   0300Z TO 1500Z DAILY 20 AND 21 APR 
-   IN AREA BOUND BY
-   25-13.00N 064-18.00E, 25-13.00N 066-17.00E,
-   24-16.00N 066-17.00E, 24-16.00N 064-18.00E.
-2. CANCEL THIS MSG 211600Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>161041Z APR 26
@@ -688,20 +704,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151405Z APR 26
-HYDROPAC 1121/26.
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0300Z TO 1300Z
-   DAILY 20 AND 21 APR IN AREA BOUND BY
-   25-05.88N 062-22.27E, 24-58.82N 062-31.52E,
-   24-55.66N 062-26.90E, 24-54.84N 062-22.33E,
-   24-55.66N 062-17.69E, 24-57.44N 062-14.51E.
-2. CANCEL THIS MSG 211400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -839,7 +841,7 @@ INDIA.
       18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1074/26.
-3. CANCEL THIS MSG 130001Z MAY 26.//</msgText>
+3. CANCEL THIS MSG 130001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -1468,18 +1470,6 @@ ODAS BUOY RELOCATED TO 28-49.63N 050-42.93E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>271620Z FEB 26
-HYDROPAC 590/26(63).
-EASTERN INDIAN OCEAN.
-INDIA.
-DNC 03.
-M/V SHANMUKHA CSD IV SANK IN 11-15.52N 075-42.21E.
-AT 270505Z FEB.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>271536Z FEB 26
@@ -1781,17 +1771,6 @@ JAPAN.
 DNC 12.
 VOLCANIC ACTIVITY REPORTED AT IO-TO
 IN VICINTY OF 24-45.00N 141-17.3E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>210912Z AUG 25
-HYDROPAC 2134/25(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-DANGEROUS WRECK IN 18-53.65N 072-51.89E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
