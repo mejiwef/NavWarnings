@@ -765,21 +765,6 @@ INDIA.
 2. CANCEL THIS MSG 010001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>121302Z APR 26
-HYDROPAC 1095/26.
-SOUTH CHINA SEA.
-1. M/V FENGHUANG, 23 PERSONS ON BOARD,
-   DISABLED AND ADRIFT IN VICINITY
-   11-36.00N 111-49.00E AT 120314Z APR.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 1093/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101531Z APR 26

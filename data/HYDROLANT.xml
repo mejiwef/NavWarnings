@@ -99,34 +99,6 @@ ENGLAND.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>191431Z APR 26
-HYDROLANT 786/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 200001Z TO 210001Z APR
-   IN AREA BOUND BY
-   27-07.10N 013-59.90W, 27-06.50N 014-12.70W,
-   27-00.40N 014-19.10W, 26-53.20N 014-22.10W,
-   26-50.00N 014-22.40W, 26-50.00N 014-00.00W.
-2. CANCEL THIS MSG 210101Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191424Z APR 26
-HYDROLANT 785/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 200001Z TO 210001Z APR
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 210101Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>191416Z APR 26
 HYDROLANT 784/26.
 NORTH ATLANTIC.
@@ -600,21 +572,6 @@ ROMANIA.
    44-05.63N 028-41.02E, 44-05.63N 028-40.52E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250851Z MAR 26
-HYDROLANT 599/26.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 
-   300300Z MAR TO 210259Z APR
-   IN AREA BOUND BY
-   24-20.00S 040-32.00W, 24-30.00S 040-03.00W,
-   25-34.00S 039-00.00W, 26-50.00S 040-25.00W,
-   25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
-2. CANCEL THIS MSG 210359Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
