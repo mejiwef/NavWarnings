@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>202310Z APR 26
+HYDROPAC 1185/26.
+TORRES STRAIT.
+AUSTRALIA.
+EAST STRAIT ISLAND, REAR LIGHT 10-29.80S 142-27.10E
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201945Z APR 26
+HYDROPAC 1183/26.
+SEA OF JAPAN.
+RUSSIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   03 JUL BY VESSEL AKADEMIK KAZANIN
+   IN AREA BOUND BY
+   41-49.78N 131-14.58E, 42-16.07N 130-46.38E,
+   42-32.02N 131-12.63E, 42-39.30N 133-05.78E,
+   42-49.60N 133-53.47E, 43-29.57N 135-10.75E,
+   45-58.55N 137-56.05E, 47-17.47N 139-01.45E,
+   47-47.05N 139-17.62E, 47-43.67N 139-27.67E,
+   47-23.32N 140-06.05E, 48-00.02N 140-49.08E,
+   48-00.05N 141-04.08E, 46-14.45N 141-24.05E,
+   45-57.42N 141-18.17E, 45-52.28N 141-16.67E,
+   45-59.38N 140-40.50E, 46-05.85N 140-00.93E,
+   46-07.38N 139-42.08E, 45-42.38N 139-20.55E,
+   45-26.08N 139-14.05E, 45-18.35N 139-10.97E,
+   44-57.75N 139-02.80E, 44-39.40N 138-55.58E,
+   44-12.25N 138-29.57E, 44-06.67N 138-23.72E,
+   43-20.50N 137-40.65E, 42-33.80N 137-03.60E,
+   41-09.33N 136-07.30E, 40-34.55N 135-50.83E,
+   40-04.27N 134-27.05E, 39-44.68N 133-44.63E,
+   39-53.52N 133-14.10E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 040001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201659Z APR 26
@@ -1509,20 +1549,6 @@ IN AREA BOUND BY
 39-01.29S 147-07.22E, 38-27.07S 147-07.22E,
 38-27.07S 147-59.78E, 39-01.29S 147-59.78E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>120140Z FEB 26
-HYDROPAC 419/26(75).
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-DNC 05.
-12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
-ESTABLISHED IN AREA WITHIN TWO MILES
-OF 39-13.33S 142-50.33E.
-THREE MILE BERTH REQUESTED.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
