@@ -8,7 +8,7 @@ HYDROPAC 1203/26.
 GULF OF KHAMBHAT.
 INDIA.
 RACON AT LUHARA POINT LIGHT 
-IN 21-39.57N 072-32.89E INOPERATIVE.</msgText>
+21-39.57N 072-32.89E INOPERATIVE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -788,22 +788,6 @@ IN AREA BOUND BY
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>120830Z APR 26
-HYDROPAC 1111/26.
-INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   201319Z TO 201428Z, 211314Z TO 211424Z, 
-   221310Z TO 221420Z, 231306Z TO 231416Z, 
-   241302Z TO 241412Z, 251258Z TO 251408Z 
-   AND 261254Z TO 261404Z APR
-   IN AREA BOUND BY 
-   43-39.00S 022-36.00E, 51-17.00S 040-51.00E, 
-   53-20.00S 038-40.00E, 45-42.00S 020-44.00E.
-2. CANCEL THIS MSG 261504Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131249Z APR 26
@@ -1050,21 +1034,6 @@ KENYA.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 771/26.
 3. CANCEL THIS MSG 301500Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021118Z APR 26
-HYDROPAC 996/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. HAZARDOUS OPERATIONS 070230Z TO 071130Z,
-   150230Z TO 151130Z AND 220230Z TO 221130Z APR.
-   IN AREA BOUND BY
-   20-26.00N 072-27.00E, 20-40.00N 072-27.00E,
-   20-40.00N 072-40.00E, 20-26.00N 072-40.00E.
-2. CANCEL THIS MSG 221230Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
