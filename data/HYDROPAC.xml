@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>221103Z APR 26
+HYDROPAC 1203/26.
+GULF OF KHAMBHAT.
+INDIA.
+RACON AT LUHARA POINT LIGHT 
+IN 21-39.57N 072-32.89E INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220825Z APR 26
+HYDROPAC 1202/26(75).
+TASMAN SEA.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V LAYLA ALONG 
+   TRACKLINE JOINING
+   35-11.00S 164-59.00E, 34-51.00S 162-42.00E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1137/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>220311Z APR 26
@@ -586,21 +609,6 @@ INDIA.
 2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>171033Z APR 26
-HYDROPAC 1143/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   220530Z TO 220700Z APR IN AREA BOUND BY
-   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL THIS MSG 220800Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171023Z APR 26
@@ -654,19 +662,6 @@ GUAM.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 231400Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170720Z APR 26
-HYDROPAC 1137/26.
-TASMAN SEA.
-1. CABLE OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE BY M/V LAYLA
-   ALONG TRACKLINE JOINING
-   35-18.00S 165-39.00E, 34-51.00S 162-42.00E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1090/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -1648,17 +1643,6 @@ M/V SEVEN SISTERS IN AREA BOUND BY
 19-44.30S 113-04.05E, 19-57.83S 113-04.05E,
 19-57.83S 113-16.78E, 19-44.30S 113-16.78E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>141317Z JAN 26
-HYDROPAC 108/26(63).
-INDIA.
-DNC 03.
-RACON AT PONDICHERRY LIGHT 11-54.99N 079-49.85E
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
