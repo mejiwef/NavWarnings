@@ -85,21 +85,6 @@ SENEGAL.
 2. CANCEL THIS MSG 221900Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201915Z APR 26
-HYDROLANT 795/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 056-30.00W.
-   B. A84, 73-48.00S 106-04.80W.
-   C. A85, 68-14.40S 057-15.60W.
-   D. D33A, 65-07.20S 057-42.00W.
-   E. D33C, 65-37.80S 058-07.80W.
-2. CANCEL THIS MSG 211915Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201621Z APR 26
@@ -377,21 +362,6 @@ BRAZIL.
 2. CANCEL THIS MSG 140001Z APR 27.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121331Z APR 26
-HYDROLANT 739/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS 13 THRU 21 APR
-   BY M/V SANCO SPIRIT IN AREA BOUND BY
-   24-34.07S 042-21.37W, 25-06.88S 042-06.27W,
-   25-09.57S 042-13.28W, 25-32.82S 042-25.00W,
-   25-18.28S 042-53.87W, 25-10.33S 042-49.87W,
-   24-48.65S 042-59.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>110043Z APR 26
@@ -443,20 +413,6 @@ SOUTH ATLANTIC.
    38-52.30S 047-09.05W, 37-15.00S 047-51.09W.
    NINE MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 686/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>060932Z APR 26
-HYDROLANT 695/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 07 THRU 21 APR BY M/V PELOPIDAS 
-   AND M/V COMANDO B IN 20-22.12S 040-11.98W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 211900Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

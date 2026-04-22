@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>212148Z APR 26
+NAVAREA XII 282/26.
+NORTH PACIFIC.
+1. BROADCAST SERVICES UNRELIABLE
+   221730Z TO 222130Z APR AT USCG
+   REMOTE COMMUNICATION FACILITIES:
+   A. PT REYES 37-55.00N 122-24.00W.
+   B. HONOLULU 21-22.00N 158-09.00W.
+   C. KODIAK 57-46.00N 152-34.00W.
+   D. ASTORIA 46-10.00N 123-49.00W.
+   E. CAMBRIA 33-44.00N 118-24.00W.
+2. CANCEL NAVAREA XII 265/26.
+3. CANCEL THIS MSG 222230Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201921Z APR 26
@@ -177,22 +194,6 @@ CALIFORNIA.
 3. CANCEL THIS MSG 260755Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICES</category>
-        <status>INFORCE</status>
-        <msgText>131847Z APR 26
-NAVAREA XII 265/26.
-NORTH PACIFIC.
-1. BROADCAST SERVICES UNRELIABLE
-   1730Z TO 1930Z DAILY 21 AND 22 APR
-   AT USCG REMOTE COMMUNICATION FACILITIES:
-   A. PT REYES 37-55.00N 122-24.00W.
-   B. HONOLULU 21-22.00N 158-09.00W.
-   C. KODIAK 57-46.00N 152-34.00W.
-   D. ASTORIA 46-10.00N 123-49.00W.
-   E. CAMBRIA 33-44.00N 118-24.00W.
-2. CANCEL THIS MSG 222030Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100102Z APR 26
@@ -206,17 +207,6 @@ CALIFORNIA.
    34-17.73N 120-52.53W, 33-58.85N 121-59.07W,
    34-38.65N 122-26.05W, 35-04.67N 121-20.13W.
 2. CANCEL THIS MSG 012130Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030000Z MAR 26
-NAVAREA XII 258/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 201600Z TO 212200Z APR
-   IN AREA WITHIN ONE MILE OF 32-35.82N 117-10.87W.
-2. CANCEL THIS MSG 212300Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
