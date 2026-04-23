@@ -3,6 +3,35 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>230829Z APR 26
+HYDROLANT 813/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 280600Z TO 281200Z, 
+   290600Z TO 291300Z AND 300600Z TO 301300Z APR
+   IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-13.10N 028-56.33E.
+2. CANCEL THIS MSG 301400Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>230645Z APR 26
+HYDROLANT 812/26.
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
+   0517Z TO 1053Z DAILY 28 APR THRU 28 MAY 
+   IN AREA BOUND BY
+   29-22.00N 032-49.00W, 28-52.00N 032-12.00W,
+   26-01.00N 035-10.00W, 26-30.00N 035-47.00W.
+2. CANCEL THIS MSG 281153Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>230136Z APR 26
 HYDROLANT 811/26.
 SOUTH ATLANTIC.
@@ -112,35 +141,6 @@ BRAZIL.
    27-50.83S 048-18.97W, 27-50.68S 047-26.28W,
    28-14.73S 047-25.95W, 28-14.93S 048-19.28W.
 2. CANCEL THIS MSG 012300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221026Z APR 26
-HYDROLANT 802/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-43.80S 056-30.00W.
-   B. A84, 73-48.00S 106-04.80W.
-   C. A85, 68-14.40S 057-15.60W.
-   D. D33A, 65-07.20S 057-42.00W.
-   E. D33C, 65-37.80S 058-07.80W.
-2. CANCEL THIS MSG 231024Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211028Z APR 26
-HYDROLANT 799/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0700Z TO 0900Z DAILY
-   22 THRU 23 APR IN AREA BOUND BY
-   44-05.00N 029-08.00E, 44-05.00N 029-30.00E,
-   43-55.00N 029-30.00E, 43-55.00N 029-08.00E.
-2. CANCEL THIS MSG 231000Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -371,18 +371,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 753/26.
 3. CANCEL THIS MSG 270400Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151741Z APR 26
-HYDROLANT 756/26.
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS 0700Z TO 1800Z DAILY
-   20 THRU 24 APR IN AREA WITHIN
-   18 MILES OF 57-32.00N 008-09.00W.
-2. CANCEL THIS MSG 241900Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
