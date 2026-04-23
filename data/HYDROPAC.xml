@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>221849Z APR 26
+HYDROPAC 1209/26.
+EASTERN INDIAN OCEAN.
+SOMALIA.
+1. M/V HONOUR 25 HIJACKED BY PIRATES
+   IN 09-55.00N 051-22.00E AT 211140Z APR.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+   REPORTS TO MSCIO, PHONE: 349 5647 0534,
+   E-MAIL: POSTMASTER@MSCIO.EU.
+   OR UKMTO, PHONE: 4423 9222 2060,
+   E-MAIL: WATCHKEEPERS@UKMTO.ORG.
+2. CANCEL THIS MSG 251849Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>221103Z APR 26
@@ -63,19 +80,6 @@ VIETNAM.
    REPORTS TO MRCC VIETNAM,
    EMAIL:HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 1195/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>212148Z APR 26
-HYDROPAC 1197/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E BROADCAST SERVICES
-   UNRELIABLE 221730Z TO 222130Z APR.
-2. CANCEL HYDROPAC 1128/26.
-3. CANCEL THIS MSG 222230Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -214,19 +218,6 @@ RUSSIA.
    39-53.52N 133-14.10E.
    SEVEN MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 040001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201659Z APR 26
-HYDROPAC 1182/26.
-TASMAN SEA.
-AUSTRALIA.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER 
-NOTICE BY CABLESHIP RESPONDER IN AREA BOUND BY
-33-56.00S 151-15.00E, 33-56.00S 153-21.00E,
-37-19.00S 153-21.00E, 37-19.00S 151-15.00E.
-THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -389,19 +380,6 @@ SOUTH PACIFIC.
 2. CANCEL THIS MSG 012129Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>192216Z APR 26
-HYDROPAC 1165/26.
-SOUTH CHINA SEA.
-MALAYSIA.
-1. VESSEL BOARDED IN 01-04.19N 103-36.66E
-   AT 19195Z APR. VESSELS ARE ADVISED TO
-   KEEP CLEAR OF THIS POSITION AND TO
-   EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 222216Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>191457Z APR 26
@@ -414,19 +392,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190846Z APR 26
-HYDROPAC 1162/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY M/V OFFSHORE SUPPLIER
-ALONG TRACKLINE JOINING
-32-28.59S 115-44.20E, 32-32.57S 115-35.77E.
-ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -1531,22 +1496,6 @@ IN AREA BOUND BY
 39-01.29S 147-07.22E, 38-27.07S 147-07.22E,
 38-27.07S 147-59.78E, 39-01.29S 147-59.78E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100441Z FEB 26
-HYDROPAC 404/26(74).
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-DNC 04.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V OFFSHORE SOLUTION
-IN AREA BOUND BY
-13-46.00S 123-01.00E, 14-04.00S 123-01.00E,
-14-04.00S 123-23.00E, 13-46.00S 123-23.00E.
-TWO MILE BERTH REQUESTED.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
