@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>230418Z APR 26
+HYDROPAC 1213/26.
+NORTH PACIFIC.
+1. DERELICT 48 METER VESSEL CAPSIZED AND ADRIFT 
+   IN VICINITY 18-44.60N 146-29.70E AT 212300Z APR.
+2. CANCEL HYDROPAC 1152/26.
+3. CANCEL THIS MSG 260500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>221849Z APR 26
@@ -411,24 +422,6 @@ PHILIPPINES.
 2. CANCEL THIS MSG 300001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>180454Z APR 26
-HYDROPAC 1156/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   230100Z APR TO 050400Z MAY
-   IN AREAS BOUND BY:
-   A. 39-18.00S 177-36.00E, 39-12.00S 177-49.00E,
-      39-12.00S 177-57.00E, 39-09.00S 178-18.00E,
-      39-42.00S 178-18.00E, 39-54.00S 177-48.00E,
-      39-54.00S 177-36.00E.
-   B. 43-30.00S 175-36.00E, 43-45.00S 177-30.00E,
-      47-06.00S 176-42.00E, 46-54.00S 174-42.00E.
-2. CANCEL THIS MSG 050500Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>180448Z APR 26
@@ -453,19 +446,6 @@ AUSTRALIA.
    19-54.71S 115-24.39E, 21-43.70S 115-24.39E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1126/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180247Z APR 26
-HYDROPAC 1152/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 1900Z DAILY
-   23 AND 24 APR IN AREA BOUND BY
-   32-53.00S 071-58.30W, 32-53.00S 071-50.00W,
-   33-00.00S 071-50.00W, 33-00.00S 071-58.30W.
-2. CANCEL THIS MSG 242000Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
