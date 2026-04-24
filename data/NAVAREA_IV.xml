@@ -156,18 +156,6 @@ FRENCH GUIANA.
 2. CANCEL THIS MSG 300001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>210918Z APR 26
-NAVAREA IV 372/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. DERELICT 30 FOOT VESSEL, BLUE AND 
-   WHITE HULL, CAPSIZED AND ADRIFT IN 
-   VICINITY 13-08.00N 073-08.00W.
-2. CANCEL THIS MSG 240830Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>210604Z APR 26

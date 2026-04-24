@@ -55,22 +55,6 @@ HYDROARC 48/26.
 3. CANCEL HYDROARC 47/2026.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>100604Z APR 26
-HYDROARC 46/26.
-BARENTS SEA.
-NORWAY.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2100Z TO 1600Z DAILY 13 THRU 29 APR
-   IN AREAS BOUND BY:
-   A. 73-01.32N 030-54.14E, 71-53.10N 032-54.52E,
-      71-39.33N 031-25.13E, 72-47.11N 029-27.53E.
-   B. 76-22.00N 021-55.00E, 75-24.00N 024-43.00E,
-      74-51.00N 021-45.00E, 75-50.00N 018-50.00E.
-2. CANCEL THIS MSG 301700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>142350Z JAN 26

@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>241212Z APR 26
+HYDROPAC 1235/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+CANCEL HYDROPAC 1004/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241125Z APR 26
+HYDROPAC 1234/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 26 APR THRU 25 MAY
+   BY TUG VISTA 9 IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241017Z APR 26
+HYDROPAC 1233/26.
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0300Z TO 0900Z DAILY
+   25 APR THRU 01 MAY IN AREA BOUND BY
+   25-17.00N 066-18.00E, 25-18.00N 066-51.00E,
+   24-56.00N 066-43.00E, 24-51.00N 066-43.00E,
+   24-51.00N 066-18.00E.
+2. CANCEL THIS MSG 011000Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>240918Z APR 26
+HYDROPAC 1232/26.
+SEA OF JAPAN.
+1. MISSILE OPERATIONS 281400Z TO 290800Z AND 
+   291400Z TO 300800Z APR IN AREA BOUND BY
+   42-42.80N 132-13.80E, 42-49.20N 132-33.50E,
+   42-34.60N 133-02.30E, 41-26.70N 134-16.30E,
+   41-06.40N 133-36.30E, 40-54.70N 132-58.00E,
+   40-57.10N 132-49.00E, 42-16.90N 132-16.70E.
+2. CANCEL HYDROPAC 1219/26.
+3. CANCEL THIS MSG 300900Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>240828Z APR 26
+HYDROPAC 1231/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+RACON AT PORT WALCOTT C1 BUOY IN 20-23.22S 117-25.59E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240242Z APR 26
@@ -138,22 +211,6 @@ B. 52-55.80N 158-29.20E, 52-56.20N 158-29.30E,
    52-59.90N 158-39.10E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 300001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231047Z APR 26
-HYDROPAC 1219/26.
-SEA OF JAPAN.
-RUSSIA.
-1. MISSILE OPERATIONS 281400Z TO 290800Z APR
-   IN AREA BOUND BY
-   42-48.00N 132-14.00E, 42-43.10N 132-29.00E,
-   42-49.50N 132-42.20E, 42-25.20N 132-58.50E,
-   41-08.10N 133-20.80E, 40-57.60N 133-08.10E,
-   40-56.20N 131-55.00E, 41-06.00N 131-41.80E,
-   42-24.00N 131-59.40E.
-2. CANCEL THIS MSG 290900Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -786,20 +843,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151206Z APR 26
-HYDROPAC 1117/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z
-   AND 0900 TO 1100 DAILY 20 THRU 24 APR
-   IN AREA BOUND BY
-   21-49.28N 087-56.30E, 20-38.83N 088-33.23E,
-   19-51.80N 087-33.15E, 21-16.05N 086-51.75E.
-2. CANCEL THIS MSG 241200Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
