@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>240242Z APR 26
+HYDROPAC 1230/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1300Z TO 2300Z 
+   DAILY 28 AND 30 APR IN AREA BOUND BY
+   20-04.00S 070-30.70W, 20-04.00S 070-20.00W,
+   20-14.00S 070-20.00W, 20-14.00S 070-30.70W.
+2. CANCEL THIS MSG 010001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>232306Z APR 26
