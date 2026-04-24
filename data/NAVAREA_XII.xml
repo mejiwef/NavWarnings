@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232123Z APR 26
+NAVAREA XII 289/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1630Z TO 0200Z DAILY
+   24 APR THRU 01 MAY IN AREA BOUND BY
+   34-38.65N 122-26.05W, 35-04.67N 121-20.13W,
+   34-17.73N 120-52.53W, 33-58.85N 121-59.07W.
+2. CANCEL THIS MSG 020300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232105Z APR 26
+NAVAREA XII 288/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1630Z TO 0200Z DAILY
+   24 APR THRU 01 MAY IN AREA BOUND BY
+   33-26.73N 120-21.12W, 33-13.98N 120-16.15W,
+   32-59.93N 121-00.52W, 33-12.47N 121-07.25W.
+2. CANCEL THIS MSG 020300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>231812Z APR 26

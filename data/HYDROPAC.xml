@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232306Z APR 26
+HYDROPAC 1229/26.
+TIMOR SEA.
+INDONESIA.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V SW BLY TOWING
+FIVE MILE LONG CABLE IN AREA BOUND BY
+09-49.91S 127-39.79E, 09-49.91S 128-14.91E,
+10-22.10S 128-14.91E, 10-22.10S 127-39.79E.
+FIVE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231751Z APR 26
