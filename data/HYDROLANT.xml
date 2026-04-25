@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251459Z APR 26
+HYDROLANT 830/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-39.60S 056-11.40W.
+   B. A84, 73-14.40S 106-49.80W.
+   C. A85, 68-06.00S 057-17.40W.
+   D. D33A, 65-01.80S 057-34.20W.
+   E. D33C, 65-27.00S 057-57.00W.
+2. CANCEL THIS MSG 261500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251451Z APR 26
+HYDROLANT 829/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-35.00S 036-13.00W.
+   B. 47-04.00S 029-16.00W.
+   C. 50-03.00S 027-09.00W.
+   D. 47-31.00S 028-45.00W.
+   E. 46-58.00S 028-26.00W.
+   F. 57-52.00S 036-15.00W.
+   G. 43-16.00S 035-22.00W.
+   H. 58-43.00S 035-55.00W.
+2. CANCEL THIS MSG 261500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>251302Z APR 26
+HYDROLANT 828/26.
+NORTH ATLANTIC.
+SPAIN.
+1. SUBMERGED CONTAINER ADRIFT IN VICINITY 
+   43-16.00N 010-30.00W AT 251120Z APR.
+2. CANCEL THIS MSG 281302Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>251242Z APR 26
+HYDROLANT 827/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. MUCURIPE LIGHT 03-43.58S 038-28.30W
+   LIGHT UNRELIABLE.
+2. CANCEL THIS MSG 040001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241936Z APR 26
@@ -51,38 +106,6 @@ HYDROLANT 825/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 766/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241349Z APR 26
-HYDROLANT 824/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-35.00S 036-13.00W.
-   B. 47-04.00S 029-16.00W.
-   C. 50-02.00S 027-37.00W.
-   D. 47-18.00S 028-51.00W.
-   E. 46-55.00S 028-28.00W.
-   F. 57-52.00S 036-15.00W.
-   G. 44-07.00S 035-16.00W.
-2. CANCEL THIS MSG 251400Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241345Z APR 26
-HYDROLANT 823/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81,  64-43.80S 056-30.00W.
-   B. A84, 73-48.00S 106-04.80W.
-   C. A85, 68-14.40S 057-15.60W.
-   D. D33A, 65-07.20S 057-42.00W.
-   E. D33C, 65-37.80S 058-07.80W.
-2. CANCEL THIS MSG 251400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -234,18 +257,6 @@ NORTH ATLANTIC.
 1. DERELICT 12 METER S/V ADRIFT IN VICINITY
    42-51.00N 011-17.00W AT 221500Z APR.
 2. CANCEL THIS MSG 260013Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>221516Z APR 26
-HYDROLANT 806/26.
-BLACK SEA.
-ROMANIA.
-1. OBJECT ADRIFT 
-   IN 43-51.91N 028-49.85E.
-   AT 221238Z APR.
-2. CANCEL THIS MSG 251516Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

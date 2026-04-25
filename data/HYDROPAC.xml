@@ -436,18 +436,6 @@ REUNION.
 2. CANCEL THIS MSG 270001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>211123Z APR 26
-HYDROPAC 1191/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   251000Z TO 251600Z APR IN AREA BOUND BY
-   17-54.00S 164-55.00W, 19-34.00S 162-41.00W,
-   20-09.00S 163-09.00W, 18-27.00S 165-23.00W.
-2. CANCEL THIS MSG 251700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>210858Z APR 26
