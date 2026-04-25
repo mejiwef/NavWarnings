@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241936Z APR 26
+HYDROLANT 826/26.
+WESTERN MEDITERRANEAN SEA.
+BALEARIC ISLANDS.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   10JUL26 BY AN UNDERWATER GLIDER
+   ALONG TRACKLINE JOINING
+   39-11.37N 003-03.76E, 39-10.21N 003-11.24E,
+   39-26.46N 003-37.83E, 39-39.33N 004-25.20E,
+   39-48.66N 004-41.72E, 39-48.66N 005-48.74E,
+   39-48.66N 006-54.54E, 39-48.66N 007-59.02E,
+   39-04.77N 003-06.55E, 39-03.35N 002-50.42E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>241500Z APR 26
@@ -406,19 +424,6 @@ GABON.
    SHARP LOOKOUT, ASSIST IF POSSIBLE. 
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROLANT 770/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170941Z APR 26
-HYDROLANT 763/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 221100Z TO 242200Z APR
-   IN AREA BOUND BY
-   29-04.25S 049-15.43W, 29-04.25S 049-03.56W,
-   29-39.90S 049-28.94W, 29-39.90S 049-43.23W.
-2. CANCEL THIS MSG 242300Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
