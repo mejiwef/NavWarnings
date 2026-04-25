@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>251137Z APR 26
+HYDROPAC 1244/26.
+SOUTH CHINA SEA.
+VIETNAM.
+MAN OVERBOARD FROM F/V BV 97963 TS
+IN 09-11.00N 107-05.00E AT 250530Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>250835Z APR 26
+HYDROPAC 1243/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+EIGHT BUOYS, YELLOW, FL W 3 SEC, ESTABLISHED IN VICINITY 
+38-53.49S 142-52.95E. THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>250800Z APR 26
+HYDROPAC 1242/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS, 
+   0343Z TO 0829Z DAILY 30 APR THRU 06 MAY
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 060929Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250348Z APR 26
@@ -202,19 +240,6 @@ INDIA.
    20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231320Z APR 26
-HYDROPAC 1224/26.
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0300Z TO 1100Z DAILY
-   24 AND 25 APR IN AREA BOUND BY
-   25-12.00N 064-27.83E, 25-12.00N 064-49.00E,
-   25-03.83N 064-49.00E, 25-03.83N 064-27.83E.
-2. CANCEL THIS MSG 251200Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

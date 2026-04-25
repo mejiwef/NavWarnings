@@ -248,17 +248,6 @@ ROMANIA.
 2. CANCEL THIS MSG 251516Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>221136Z APR 26
-HYDROLANT 804/26.
-NORTH ATLANTIC.
-1. DERELICT 12 METER S/V ADRIFT
-   IN VICINITY 42-46.73N 011-52.33W.
-   AT 221030Z APR.
-2. CANCEL THIS MSG 251030Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221038Z APR 26
