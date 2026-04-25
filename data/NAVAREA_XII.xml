@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>250318Z APR 26
+NAVAREA XII 293/26.
+NORTH PACIFIC.
+CANADA.
+NAVTEX, HF R/T, MF BROADCAST AND MF R/T TRANSMIT SERVICES 
+STATION DIGBY ISLAND (D) IN 54-17.85N 130-25.10W OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>241532Z APR 26
