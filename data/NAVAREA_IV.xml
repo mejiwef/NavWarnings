@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>260340Z APR 26
+NAVAREA IV 387/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
+   011733Z TO 012215Z MAY, ALTERNATE
+   021710Z TO 022152Z, 031648Z TO 032130Z,
+   041626Z TO 042108Z, 051604Z TO 052046Z,
+   061542Z TO 062024Z, 071520Z TO 072002Z MAY
+   IN AREAS BOUND BY:
+   A. 31-42.00N 077-10.00W, 32-23.00N 076-52.00W,
+      33-08.00N 075-40.00W, 33-28.00N 074-58.00W,
+      33-19.00N 074-46.00W, 32-36.00N 075-02.00W,
+      31-51.00N 076-13.00W, 31-31.00N 076-56.00W.
+   B. 28-39.20N 080-37.80W, 29-04.00N 080-12.00W,
+      28-54.00N 080-05.00W, 28-33.00N 080-25.00W,
+      28-30.87N 080-33.29W.
+2. CANCEL THIS MSG 072102Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>242153Z APR 26
