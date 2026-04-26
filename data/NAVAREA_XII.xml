@@ -273,30 +273,6 @@ HAWAII.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>170143Z APR 26
-NAVAREA XII 269/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 170700Z TO 260655Z APR
-   IN AREA WITHIN TWO MILES OF 32-32.60N 117-14.40W.
-2. CANCEL NAVAREA XII 267/26.
-3. CANCEL THIS MSG 260755Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170135Z APR 26
-NAVAREA XII 268/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 170100Z TO 260655Z APR
-   IN AREA WITHIN ONE MILE OF 32-35.82N 117-10.88W.
-2. CANCELNAVAREA XII 266/26.
-3. CANCEL THIS MSG 260755Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>100102Z APR 26
 NAVAREA XII 259/26.
 NORTH PACIFIC.

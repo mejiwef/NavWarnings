@@ -329,20 +329,6 @@ B. 52-55.80N 158-29.20E, 52-56.20N 158-29.30E,
 2. CANCEL THIS MSG 300001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>231024Z APR 26
-HYDROPAC 1218/26.
-EASTERN INDIAN OCEAN.
-SOMALIA.
-1. M/V ATTACKED IN 06-23.80N 049-48.18E AT 230720Z APR.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-   REPORTS TO IMB, E-MAIL: IMBKL@ICC-CCS.ORG /
-   PIRACY@ICC-CCS.ORG.
-2. CANCEL THIS MSG 261027Z APR 26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>230956Z APR 26
