@@ -249,16 +249,6 @@ BRAZIL.
 3. CANCEL THIS MSG 200001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>230013Z APR 26
-HYDROLANT 807/26.
-NORTH ATLANTIC.
-1. DERELICT 12 METER S/V ADRIFT IN VICINITY
-   42-51.00N 011-17.00W AT 221500Z APR.
-2. CANCEL THIS MSG 260013Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221038Z APR 26
