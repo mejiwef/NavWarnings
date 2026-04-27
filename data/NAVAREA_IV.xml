@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>270541Z APR 26
+NAVAREA IV 390/26.
+CARIBBEAN SEA.
+BUOY, BLACK, UNLIT, FIVE METER HEIGHT, WITH AIS, 
+TEMPORARILY ESTABLISHED IN 15-59.61N 080-42.51W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>262007Z APR 26

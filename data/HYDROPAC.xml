@@ -3,6 +3,33 @@
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
+        <msgText>270521Z APR 26
+HYDROPAC 1250/26.
+INDIAN OCEAN.
+SOMALIA.
+1. VESSEL HIJACKED IN 07-03.00N 049-27.00E. 
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+   REPORTS TO IMB GLOBAL ANTI PIRACY HELPLINE 603 2031 0014, 
+   EMAIL IMBKL@ICC-CCS.ORG / PIRACY@ICC-CCS.ORG.
+2. CANCEL THIS MSG 300600Z APR 26</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>270304Z APR 26
+HYDROPAC 1249/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+1. GUNNERY EXERCISES 290500Z TO 290800Z APR
+   IN AREA BOUND BY
+   18-12.00S 141-40.00W, 18-18.00S 141-30.00W,
+   18-18.00S 141-40.00W.
+2. CANCEL THIS MSG 290900Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
         <msgText>270023Z APR 26
 HYDROPAC 1248/26.
 EASTERN INDIAN OCEAN.
@@ -937,21 +964,6 @@ SOUTH PACIFIC.
 MOOREA.
 POINTE AROA LIGHT 17-28.40S 149-46.50W
 UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>072345Z APR 26
-HYDROPAC 1049/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0900Z TO 1200Z
-   AND 1230Z TO 1430Z DAILY 10, 17 AND 24 APR,
-   0900Z TO 1200Z DAILY 13, 20 AND 27 APR
-   IN AREA BOUND BY
-   09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
-   09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
-2. CANCEL THIS MSG 270100Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
