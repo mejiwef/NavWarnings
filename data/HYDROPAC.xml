@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271138Z APR 26
+HYDROPAC 1253/26.
+BAY OF BENGAL.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0500Z TO 0700Z AND
+   0900Z TO 1100Z DAILY 01 THRU 03 MAY 
+   IN AREA BOUND BY
+   20-48.37N 087-02.58E, 18-24.17N 085-40.13E,
+   05-26.65N 085-46.01E, 05-52.58N 091-01.05E,
+   18-40.20N 088-54.95E, 20-48.77N 087-07.40E.   
+2. CANCEL THIS MSG 031200Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271030Z APR 26
+HYDROPAC 1252/26.
+ARABIAN SEA.
+GULF OF KACHCHH.
+INDIA.
+1. HAZARDOUS OPERATIONS 300430Z TO 300930Z APR
+   IN AREA BOUND BY
+   22-42.11N 068-55.34E, 22-40.00N 069-09.11E,
+   22-35.12N 069-16.12E, 22-28.30N 069-17.10E,
+   22-28.45N 068-51.05E.
+2. CANCEL THIS MSG 301030Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>271004Z APR 26
+HYDROPAC 1251/26.
+EASTERN INDIAN OCEAN.
+SOMALIA.
+1. VESSEL HIJACKED IN 07-13.00N 049-32.00E ON
+   26 APR. VESSELS ARE ADVISED TO KEEP CLEAR OF 
+   THIS POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 301004Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>270521Z APR 26
