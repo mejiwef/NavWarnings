@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>271336Z APR 26
+HYDROLANT 838/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-35.00S 036-23.00W.
+   B. 47-44.00S 028-49.00W.
+   C. 50-03.00S 027-09.00W.
+   D. 47-18.00S 028-34.00W.
+   E. 47-56.00S 028-19.00W.
+   F. 57-52.00S 036-15.00W.
+   G. 58-43.00S 035-55.00W.
+2. CANCEL THIS MSG 281336Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>271321Z APR 26
+HYDROLANT 837/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-39.60S 056-11.40W.
+   B. A84, 73-14.40S 106-49.80W.
+   C. A85, 68-06.00S 057-17.40W.
+   D. D33A, 65-01.80S 057-34.20W.
+   E. D33C, 65-27.00S 057-57.00W.
+2. CANCEL THIS MSG 281321Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270247Z APR 26
@@ -60,39 +93,6 @@ IN AREA BOUND BY
 WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261438Z APR 26
-HYDROLANT 833/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-39.60S 056-11.40W.
-   B. A84, 73-14.40S 106-49.80W.
-   C. A85, 68-06.00S 057-17.40W.
-   D. D33A, 65-01.80S 057-34.20W.
-   E. D33C, 65-27.00S 057-57.00W.
-2. CANCEL THIS MSG 271500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261429Z APR 26
-HYDROLANT 832/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-35.00S 036-13.00W.
-   B. 47-21.00S 029-11.00W.
-   C. 47-55.00S 028-19.00W.
-   D. 47-31.00S 028-45.00W.
-   E. 47-18.00S 028-34.00W.
-   F. 57-52.00S 036-15.00W.
-   G. 43-14.00S 034-27.00W.
-   H. 58-43.00S 035-55.00W.
-2. CANCEL THIS MSG 271500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>260856Z APR 26
@@ -140,7 +140,7 @@ HYDROLANT 826/26.
 WESTERN MEDITERRANEAN SEA.
 BALEARIC ISLANDS.
 1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-   10JUL26 BY AN UNDERWATER GLIDER
+   10 JUL BY AN UNDERWATER GLIDER
    ALONG TRACKLINE JOINING
    39-11.37N 003-03.76E, 39-10.21N 003-11.24E,
    39-26.46N 003-37.83E, 39-39.33N 004-25.20E,
