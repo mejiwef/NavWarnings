@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>272040Z APR 26
+NAVAREA XII 302/26.
+NORTH PACIFIC.
+1. MF AND HF R/T AND DSC SERVICES
+   UNRELIABLE 281200Z TO 281400Z APR AT
+   USCG REMOTE COMMUNICATION FACILITIES:
+   A. PT REYES 37-55.00N 122-44.00W.
+   B. HONOLULU 21-22.00N 158-09.00W.
+   C. KODIAK 57-46.00N 152-34.00W.
+   D. ASTORIA 46-10.00N 123-49.00W.
+   E. CAMBRIA 35-51.00N 121-06.00W.
+2. CANCEL THIS MSG 281500Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271240Z APR 26
@@ -72,7 +88,7 @@ CALIFORNIA.
         <msgText>260447Z APR 26
 NAVAREA XII 296/26.
 NORTH PACIFIC.
-California.
+CALIFORNIA.
 1. HAZARDOUS OPERATIONS 010800Z MAY
    TO 010800Z JUN IN AREA BOUND BY
    32-47.55N 118-25.58W, 32-47.65N 118-24.88W,

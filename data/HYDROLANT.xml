@@ -199,16 +199,6 @@ BRAZIL.
 2. CANCEL THIS MSG 301700Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>240100Z APR 26
-HYDROLANT 821/26.
-BRAZIL.
-1. MORRO BRANCO LIGHT 04-09.52S 038-06.47W.
-   UNLIT UNTIL 20 OCT.
-2. CANCEL THIS MSG 210001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>231804Z APR 26
@@ -425,28 +415,6 @@ BRAZIL.
    22-19.79S 040-37.63W, 22-19.88S 041-00.33W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 020001Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180232Z APR 26
-HYDROLANT 774/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 27 APR
-   BY M/V SEA 1 DORADO IN AREA BOUND BY
-   24-53.20S 042-47.12W, 24-54.37S 042-44.77W,
-   24-53.12S 042-41.00W, 24-52.10S 042-37.92W,
-   24-52.02S 042-34.48W, 24-28.65S 042-28.38W,
-   24-51.87S 042-24.10W, 25-00.98S 042-18.05W,
-   25-05.70S 042-20.97W, 25-05.87S 042-29.85W,
-   25-05.92S 042-31.78W, 25-07.83S 042-32.98W,
-   25-09.83S 042-34.82W, 25-09.80S 042-34.85W,
-   25-10.83S 042-36.57W, 25-10.82S 042-36.88W,
-   25-06.47S 042-43.98W, 25-02.90S 042-43.98W,
-   25-02.85S 042-44.07W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 738/26.
-3. CANCEL THIS MSG 280001Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
