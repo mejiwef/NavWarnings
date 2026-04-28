@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>280923Z APR 26
-HYDROLANT 840/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ILHA DA MOELA LIGHT 24-03.04S 046-15.81W
-   UNLIT UNTIL 25 OCT.
-2. CANCEL THIS MSG 260001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>271336Z APR 26
-HYDROLANT 838/26.
+        <msgText>281303Z APR 26
+HYDROLANT 842/26.
 SCOTIA SEA.
 SOUTH ATLANTIC.
 1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-35.00S 036-23.00W.
-   B. 47-44.00S 028-49.00W.
-   C. 50-03.00S 027-09.00W.
-   D. 47-18.00S 028-34.00W.
-   E. 47-56.00S 028-19.00W.
-   F. 57-52.00S 036-15.00W.
-   G. 58-43.00S 035-55.00W.
-2. CANCEL THIS MSG 281336Z APR 26.</msgText>
+   A. A76C, 58-35.00S 036-22.00W.
+   B. 48-05.00S 028-29.00W.
+   C. 50-22.00S 026-28.00W.
+   D. 47-33.00S 028-29.00W.
+   E. 47-52.00S 027-56.00W.
+   F. 57-55.00S 034-43.00W.
+   G. 58-28.00S 036-16.00W.
+2. CANCEL THIS MSG 291303Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>271321Z APR 26
-HYDROLANT 837/26.
+        <msgText>281254Z APR 26
+HYDROLANT 841/26.
 SOUTH ATLANTIC.
 SOUTH PACIFIC.
 ANTARCTICA.
@@ -42,7 +31,18 @@ ANTARCTICA.
    C. A85, 68-06.00S 057-17.40W.
    D. D33A, 65-01.80S 057-34.20W.
    E. D33C, 65-27.00S 057-57.00W.
-2. CANCEL THIS MSG 281321Z APR 26.</msgText>
+2. CANCEL THIS MSG 291254Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>280923Z APR 26
+HYDROLANT 840/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ILHA DA MOELA LIGHT 24-03.04S 046-15.81W
+   UNLIT UNTIL 25 OCT.
+2. CANCEL THIS MSG 260001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -120,17 +120,6 @@ BRAZIL.
    34-35.98S 048-55.78W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 050001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>251302Z APR 26
-HYDROLANT 828/26.
-NORTH ATLANTIC.
-SPAIN.
-1. SUBMERGED CONTAINER ADRIFT IN VICINITY 
-   43-16.00N 010-30.00W AT 251120Z APR.
-2. CANCEL THIS MSG 281302Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

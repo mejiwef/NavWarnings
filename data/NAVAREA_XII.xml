@@ -36,22 +36,6 @@ NORTH PACIFIC.
 2. CANCEL THIS MSG 091222Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>272040Z APR 26
-NAVAREA XII 302/26.
-NORTH PACIFIC.
-1. MF AND HF R/T AND DSC SERVICES
-   UNRELIABLE 281200Z TO 281400Z APR AT
-   USCG REMOTE COMMUNICATION FACILITIES:
-   A. PT REYES 37-55.00N 122-44.00W.
-   B. HONOLULU 21-22.00N 158-09.00W.
-   C. KODIAK 57-46.00N 152-34.00W.
-   D. ASTORIA 46-10.00N 123-49.00W.
-   E. CAMBRIA 35-51.00N 121-06.00W.
-2. CANCEL THIS MSG 281500Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271240Z APR 26

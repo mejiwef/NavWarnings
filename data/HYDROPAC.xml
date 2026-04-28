@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>281209Z APR 26
-HYDROPAC 1265/26.
-SEA OF JAPAN.
-CANCEL HYDROPAC 1232/26 AND THIS MSG,
-OPERATIONS COMPLETED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281047Z APR 26
@@ -36,8 +27,9 @@ HYDROPAC 1263/26.
 ARABIAN SEA.
 GULF OF KHAMBHAT.
 INDIA.
-1. PIPELINE OPERATIONS IN PROGRESS BY TUG VISTA 9 
-   AND M/V SEAMAC III IN AREAS BOUND BY:
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 25 MAY
+   BY TUG VISTA 9 AND M/V SEAMAC III
+   IN AREAS BOUND BY:
    A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
       19-10.57N 071-35.22E, 19-10.95N 071-05.61E.   
    B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
@@ -49,7 +41,8 @@ INDIA.
    E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1234/26 AND THIS MSG 251930Z MAY 26.</msgText>
+2. CANCEL HYDROPAC 1234/26.
+3. CANCEL THIS MSG 260001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -112,18 +105,6 @@ AUSTRALIA.
    32-28.69S 115-43.82E, 32-33.00S 115-30.90E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1240/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>272040Z APR 26
-HYDROPAC 1254/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E MF AND HF R/T AND DSC
-   SERVICES UNRELIABLE.
-2. CANCEL THIS MSG 281500Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
