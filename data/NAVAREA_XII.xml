@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>221832Z APR 26
+NAVAREA XII 305/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
+   A. 030648Z TO 030808Z MAY, ALTERNATE
+      0648Z TO 0808Z DAILY 04 THRU 09 MAY
+      IN AREA BOUND BY
+      30-28.00N 121-25.00W, 30-23.00N 121-32.00W,
+      30-31.00N 121-32.00W, 34-41.00N 120-42.00W,
+      34-38.00N 120-26.00W, 32-32.00N 121-00.00W.
+   B. 030648Z TO 030828Z MAY, ALTERNATE 
+      0648Z TO 0828Z DAILY 04 THRU 09 MAY
+      IN AREA BOUND BY
+      29-23.00N 121-59.00W, 30-00.00N 121-48.00W,
+      29-58.00N 121-19.00W, 29-39.00N 121-07.00W,
+      29-13.00N 121-15.00W, 29-06.00N 121-38.00W.
+2. CANCEL THIS MSG 090928Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>251143Z APR 26
+NAVAREA XII 304/26.
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0953Z TO 1122Z DAILY 03 THRU 09 MAY
+   IN AREA BOUND BY
+   45-21.00N 166-06.00W, 44-49.00N 162-44.00W,
+   29-31.00N 167-16.00W, 30-03.00N 170-02.00W.
+2. CANCEL THIS MSG 091222Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>272040Z APR 26

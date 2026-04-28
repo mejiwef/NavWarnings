@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>281209Z APR 26
+HYDROPAC 1265/26.
+SEA OF JAPAN.
+CANCEL HYDROPAC 1232/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281047Z APR 26
+HYDROPAC 1264/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 30 APR THRU 15 MAY BY M/V AHTS ODETTE
+   IN AREAS BOUND BY:
+   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
+      19-09.06N 072-16.51E, 19-10.13N 071-02.57E.
+   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
+      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 151930Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281037Z APR 26
+HYDROPAC 1263/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS IN PROGRESS BY TUG VISTA 9 
+   AND M/V SEAMAC III IN AREAS BOUND BY:
+   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
+      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.   
+   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
+      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
+   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
+      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
+   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
+      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
+   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
+      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1234/26 AND THIS MSG 251930Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281023Z APR 26
+HYDROPAC 1262/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY
+   02 AND 03 MAY IN AREA BOUND BY
+   09-19.00N 075-52.00E, 09-19.00N 076-02.00E,
+   09-09.00N 076-02.00E, 09-09.00N 075-52.00E.   
+2. CANCEL THIS MSG 031230Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>280826Z APR 26
+HYDROPAC 1260/26.
+SOUTH CHINA SEA.
+VIETNAM.
+MAN OVERBOARD FROM F/V QB 91212 TS
+IN 17-43.39N 106-35.00E AT 280100Z APR.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>272240Z APR 26
@@ -333,21 +411,6 @@ PAKISTAN.
 2. CANCEL THIS MSG 011000Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240918Z APR 26
-HYDROPAC 1232/26.
-SEA OF JAPAN.
-1. MISSILE OPERATIONS 281400Z TO 290800Z AND 
-   291400Z TO 300800Z APR IN AREA BOUND BY
-   42-42.80N 132-13.80E, 42-49.20N 132-33.50E,
-   42-34.60N 133-02.30E, 41-26.70N 134-16.30E,
-   41-06.40N 133-36.30E, 40-54.70N 132-58.00E,
-   40-57.10N 132-49.00E, 42-16.90N 132-16.70E.
-2. CANCEL HYDROPAC 1219/26.
-3. CANCEL THIS MSG 300900Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>240828Z APR 26
@@ -400,20 +463,6 @@ INDIA.
    09-56.50N 094-23.75E, 09-57.00N 092-32.75E,
    07-15.75N 092-32.75E, 07-15.50N 094-23.75E.
 2. CANCEL THIS MSG 011929Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231146Z APR 26
-HYDROPAC 1221/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 280830Z TO 280930Z APR
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 281030Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -539,16 +588,6 @@ WITHIN TEN MILES ALONG TRACKLINE JOINING
 30-50.00S 155-37.00E, 29-47.00S 156-58.00E,
 28-52.00S 157-19.00E.
 TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>202310Z APR 26
-HYDROPAC 1185/26.
-TORRES STRAIT.
-AUSTRALIA.
-EAST STRAIT ISLAND, REAR LIGHT 10-29.80S 142-27.10E
-UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

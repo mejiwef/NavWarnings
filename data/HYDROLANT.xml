@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>280923Z APR 26
+HYDROLANT 840/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ILHA DA MOELA LIGHT 24-03.04S 046-15.81W
+   UNLIT UNTIL 25 OCT.
+2. CANCEL THIS MSG 260001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>271336Z APR 26
