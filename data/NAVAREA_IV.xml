@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>291624Z APR 26
+NAVAREA IV 397/26.
+NORTH ATLANTIC.
+DOMINICAN REPUBLIC.
+LESS WATER THAN CHARTED REPORTED IN AREA BOUND BY
+19-53.75N 071-56.58W, 19-54.65N 071-55.73W,
+19-54.78N 071-53.55W, 19-52.52N 071-47.73W,
+19-50.17N 071-48.87W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>282001Z APR 26
@@ -51,15 +63,6 @@ NAVAREA IV 395/26.
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
 10. CANCEL THIS MSG 300001Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>260902Z APR 26
-NAVAREA IV 388/26.
-CARIBBEAN SEA.
-BUOY, YELLOW, FL W 2 SEC, 5 METER HEIGHT, WITH AIS,
-TEMPORARILY ESTABLISHED IN 15-59.40N 080-42.80W.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

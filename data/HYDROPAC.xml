@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291553Z APR 26
+HYDROPAC 1272/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER 
+NOTICE BY M/V OFFSHORE SOLUTION IN AREA BOUND BY
+13-46.00S 123-01.00E, 13-46.00S 123-23.00E,
+14-04.00S 123-23.00E, 14-04.00S 123-01.00E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291132Z APR 26
