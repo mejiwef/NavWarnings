@@ -188,19 +188,6 @@ NAVAREA XII 292/26.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>241421Z APR 26
-NAVAREA XII 291/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 281200Z TO 281800Z APR 
-   IN AREA BOUND BY
-   32-29.32N 120-47.57W, 33-22.20N 121-20.56W,
-   33-37.52N 120-43.20W, 32-46.41N 120-10.57W.
-2. CANCEL THIS MSG 281900Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>232123Z APR 26
 NAVAREA XII 289/26.
 NORTH PACIFIC.
