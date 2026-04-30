@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301632Z APR 26
+HYDROLANT 857/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 
+   050000Z TO 052359Z MAY.
+   A. IN AREA BOUND BY
+      29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
+      28-46.50N 010-48.50W, 28-43.00N 010-57.00W.
+   B. IN AREA WITHIN 20.00 MILES OF 29-53.00N 010-15.00W.
+2. CANCEL THIS MSG 080059Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301312Z APR 26
+HYDROLANT 856/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-35.00S 036-21.00W.
+   B. 48-05.00S 028-29.00W.
+   C. 50-22.00S 026-28.00W.
+   D. 47-33.00S 028-29.00W.
+   E. 47-52.00S 027-56.00W.
+   F. 58-01.00S 034-06.00W.
+   G. 58-28.00S 036-16.00W.
+2. CANCEL THIS MSG 011400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>301203Z APR 26
@@ -43,43 +75,11 @@ EGYPT.
 HYDROLANT 850/26.
 NORTH ATLANTIC.
 MOROCCO.
-1. DERELICT VESSEL ADRIFT IN 33-30.00N 009-07.00W.
-   AT 291330Z APR. REPORTS TO  NAVAREA II,
+1. DERELICT VESSEL ADRIFT IN VICINITY 
+   33-30.00N 009-07.00W AT 291330Z APR.
+   REPORTS TO NAVAREA II,
    E-MAIL: COORD.NAVAREA2@SHOM.FR.
 2. CANCEL THIS MSG 021505Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291329Z APR 26
-HYDROLANT 849/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-35.00S 036-21.00W.
-   B. 48-05.00S 028-29.00W.
-   C. 50-22.00S 026-28.00W.
-   D. 47-33.00S 028-29.00W.
-   E. 47-52.00S 027-56.00W.
-   F. 58-01.00S 034-06.00W.
-   G. 58-28.00S 036-16.00W.
-2. CANCEL THIS MSG 301329Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291323Z APR 26
-HYDROLANT 848/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-39.60S 056-11.40W.
-   B. A84, 73-14.40S 106-49.80W.
-   C. A85, 68-06.00S 057-17.40W.
-   D. D33A, 65-01.80S 057-34.20W.
-   E. D33C, 65-27.00S 057-57.00W.
-2. CANCEL THIS MSG 301323Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
@@ -236,20 +236,6 @@ HYDROLANT 825/26.
 3. CANCEL HYDROLANT 766/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241238Z APR 26
-HYDROLANT 822/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 1000Z TO 1600Z DAILY
-   29 AND 30 APR IN AREA BOUND BY
-   05-54.13S 035-10.00W, 05-47.04S 034-56.51W,
-   05-51.89S 034-54.35W, 05-59.77S 034-55.11W,
-   06-03.47S 034-57.26W, 05-56.13S 035-10.01W.
-2. CANCEL THIS MSG 301700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>231804Z APR 26
@@ -288,22 +274,6 @@ BRAZIL.
    AND M/V SAGA FLORA IN 20-18.05S 040-06.12W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 071900Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230829Z APR 26
-HYDROLANT 813/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 280600Z TO 281200Z, 
-   290600Z TO 291300Z AND 300600Z TO 301300Z APR
-   IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
-   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
-   44-13.10N 028-56.33E.
-2. CANCEL THIS MSG 301400Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301712Z APR 26
+HYDROPAC 1284/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   020730Z TO 021130Z MAY.
+   IN AREA BOUND BY
+   16-10.00N 071-10.00E, 16-10.00N 072-05.00E,
+   14-30.00N 072-05.00E, 14-30.00N 071-40.00E,
+   14-45.00N 071-10.00E.
+2. CANCEL THIS MSG 021230Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301227Z APR 26
@@ -98,18 +113,6 @@ INDIA.
    16-05.06N 073-06.97E, 14-03.08N 074-04.95E,
    13-34.08N 073-09.95E, 15-50.08N 072-09.95E.
 2.CANCEL THIS MSG 121230Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>300753Z APR 26
-HYDROPAC 1277/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-28.6N 144-50.1E HF AND DSC SERVICES 
-   UNRELIABLE 301100Z TO 301700Z APR.
-2. CANCEL THIS MSG 301800Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -452,19 +455,6 @@ IN AREA BOUND BY
 13-39.86S 121-27.02E, 12-48.41S 121-27.02E,
 12-48.41S 124-09.43E, 13-39.86S 124-09.43E.
 TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241725Z APR 26
-HYDROPAC 1238/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 301400Z TO 301600Z APR
-   IN AREA BOUND BY
-   32-53.00S 071-58.30W, 32-53.00S 071-50.00W,
-   33-00.00S 071-50.00W, 33-00.00S 071-58.30W.
-2. CANCEL THIS MSG 301700Z APR 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -1181,25 +1171,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021155Z APR 26
-HYDROPAC 999/26.
-EASTERN INDIAN OCEAN.
-KENYA.
-1. CABLE OPERATIONS 022200Z THRU 301400Z APR. 
-   BY CABLESHIP ILE DE BREHAT
-   ALONG TRACKLINE JOINING
-   04-21.99S 041-58.34E, 04-17.23S 042-04.55E,
-   04-10.36S 042-40.84E, 04-38.21S 043-14.22E,
-   04-22.57S 045-54.61E, 02-51.99S 048-51.37E,
-   02-25.83N 053-44.88E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 771/26.
-3. CANCEL THIS MSG 301500Z APR 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011141Z APR 26
@@ -1299,29 +1270,6 @@ INDIA.
    19-21.09N 071-47.23E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 110001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301207Z MAR 26
-HYDROPAC 961/26.
-BAY OF BENGAL.
-BANGLADESH.
-1. HAZARDOUS OPERATIONS 0001Z TO 1600Z DAILY
-   01 THRU 30 APR EXCEPT FRIDAYS AND SATURDAYS.
-   IN AREAS BOUND BY:
-   A. 21-20.83N 090-34.00E, 21-41.00N 091-14.00E,
-      21-20.83N 091-28.00E, 21-00.00N 090-47.83E.
-   B. 20-07.00N 090-52.00E, 20-22.00N 091-06.00E,
-      20-00.00N 091-36.00E, 19-44.00N 091-21.00E.
-   C. 20-22.00N 091-06.00E, 20-46.50N 091-31.00E,
-      20-24.00N 091-59.00E, 20-00.00N 091-36.00E.
-   D. 21-18.00N 089-31.00E, 21-18.00N 089-50.00E,
-      21-04.00N 089-54.00E, 21-04.00N 089-34.00E.
-   E. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
-      20-34.00N 089-54.00E, 20-34.00N 089-34.00E.
-2. CANCEL THIS MSG 301700Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

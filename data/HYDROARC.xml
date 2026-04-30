@@ -46,26 +46,6 @@ HYDROARC 52/26.
 3. CANCEL HYDROARC 48/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>201502Z APR 26
-HYDROARC 49/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0001Z TO 1600Z AND 2100Z TO 2359Z DAILY 
-   UNTIL 29 APR AND 300001Z TO 301600Z APR
-   IN AREAS BOUND BY:
-   A. 70-15.00N 031-50.00E, 70-30.11N 031-50.00E,
-      70-36.37N 031-43.30E, 70-56.00N 032-04.97E,
-      70-46.27N 033-52.16E, 69-45.82N 035-13.22E,
-      69-37.70N 034-18.22E, 69-52.00N 033-11.00E,
-      69-54.11N 032-40.00E.
-   B. 72-47.18N 029-27.88E, 73-01.54N 030-54.23E,
-      71-53.17N 032-54.86E, 71-39.55N 031-25.22E.
-2. CANCEL THIS MSG 301700Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>142350Z JAN 26
