@@ -240,19 +240,6 @@ PHONE: 787 289 2041,
 EMAIL: SSJCC@USCG.MIL.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231425Z APR 26
-HYDROLANT 819/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 1300Z TO 1800Z DAILY
-   28 AND 29 APR IN AREA BOUND BY
-   13-20.58S 038-26.33W, 13-20.58S 038-16.30W,
-   13-30.53S 038-16.30W, 13-30.53S 038-26.33W.
-2. CANCEL THIS MSG 291900Z APR 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231254Z APR 26
