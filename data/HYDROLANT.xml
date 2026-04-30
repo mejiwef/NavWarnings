@@ -48,18 +48,6 @@ ANTARCTICA.
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
-        <msgText>291314Z APR 26
-HYDROLANT 847/26.
-BRAZIL.
-MAN OVERBOARD FROM VESSEL IN 
-08-22.63S 063-25.08W ON 29 APR.
-VESSELS IN VICINITY REQUESTED TO 
-KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
         <msgText>290855Z APR 26
 HYDROLANT 844/26.
 SOUTH ATLANTIC.
@@ -316,18 +304,6 @@ BRAZIL.
    32-32.46S 052-06.03W UNTIL 31 DEC 27.
 2. CANCEL HYDROLANT 1946/25.
 3. CANCEL THIS MSG 010001Z JAN 28.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>230047Z APR 26
-HYDROLANT 808/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ALTO DA BANDEIRA LIGHT 03-52.50S 032-27.70W
-   UNLIT UNTIL 19 OCT.
-2. CANCEL HYDROLANT 775/26.
-3. CANCEL THIS MSG 200001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -824,20 +800,6 @@ DNC 09.
    37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
    38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>241238Z JAN 26
-HYDROLANT 155/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. PONTA DO RETIRO LIGHT 21-21.58S 040-57.76W UNLIT
-   UNTIL 22 JUL.
-2. CANCEL HYDROLANT 1278/25.
-3. CANCEL THIS MSG 230001Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
