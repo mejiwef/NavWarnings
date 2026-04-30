@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>300753Z APR 26
+NAVAREA XII 307/26.
+NORTH PACIFIC.
+1. HF AND DSC SERVICES UNRELIABLE 
+   301100Z TO 301700Z APR AT
+   USCG REMOTE COMMUNICATION FACILITIES:
+   A. PT REYES 37-55.5N 122-43.9W.
+   B. HONOLULU 21-26.1N 158-08.7W.
+   C. KODIAK 57-46.6N 152-31.7W.
+   D. ASTORIA 46-12.4N 123-57.4W.
+   E. CAMBRIA 35-31.1N 121-03.6W.
+2. CANCEL THIS MSG 301800Z APR 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>221832Z APR 26
