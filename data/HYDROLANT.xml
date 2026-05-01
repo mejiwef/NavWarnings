@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>010032Z MAY 26
+HYDROLANT 859/26.
+SOUTH ATLANTIC.
+BRAZIL.
+CANCEL HYDROLANT 504/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>301632Z APR 26
-HYDROLANT 857/26.
+        <msgText>301929Z APR 26
+HYDROLANT 858/26.
 NORTH ATLANTIC.
 MOROCCO.
-1. HAZARDOUS OPERATIONS 
-   050000Z TO 052359Z MAY.
-   A. IN AREA BOUND BY
+1. HAZARDOUS OPERATIONS: 
+   A. 050001Z TO 052359Z MAY IN AREA WITHIN 20
+      MILES OF 29-53.00N 010-15.00W.
+   B. 060001Z TO 072359Z MAY IN AREA BOUND BY
       29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
       28-46.50N 010-48.50W, 28-43.00N 010-57.00W.
-   B. IN AREA WITHIN 20.00 MILES OF 29-53.00N 010-15.00W.
-2. CANCEL THIS MSG 080059Z MAY 26.</msgText>
+2. CANCEL HYDROLANT 857/26.
+3. CANCEL THIS MSG 080059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -483,20 +493,6 @@ BRAZIL.
    22-02.52S 041-03.17W OFF AIR UNTIL 28 SEP.
 2. CANCEL HYDROLANT 1667/25.
 3. CANCEL THIS MSG 290001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010943Z APR 26
-HYDROLANT 651/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS 011000Z TO 302000Z APR 
-   BY VESSEL USV TUPAN II IN AREA BOUND BY
-   25-26.00S 044-00.80W, 25-26.80S 043-54.30W,
-   25-31.70S 043-54.30W, 25-31.70S 044-00.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 302100Z APR 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
