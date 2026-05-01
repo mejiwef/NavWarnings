@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010644Z MAY 26
+HYDROLANT 861/26.
+NORTH SEA.
+DENMARK.
+1. MISSILE OPERATIONS 0830Z TO 1600Z 
+   DAILY 06 AND 07 MAY IN AREA BOUND BY
+   56-53.30N 006-07.00E, 56-53.30N 006-40.00E,
+   56-31.30N 006-40.00E, 56-31.30N 006-07.00E.
+2. CANCEL THIS MSG 071700Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>010059Z MAY 26
+HYDROLANT 860/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ILHA DA PAZ LIGHT 26-10.63S 048-29.09W UNLIT
+   UNTIL 27 OCT.
+2. CANCEL THIS MSG 280001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>010032Z MAY 26
@@ -553,18 +577,6 @@ BRAZIL.
 1. LAJE DA CONCEICAO LIGHT 24-14.18S 046-41.46W
    UNLIT UNTIL 24 SEP.
 2. CANCEL THIS MSG 250001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271244Z MAR 26
-HYDROLANT 613/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 010001Z TO 302359Z APR
-   IN AREA WITHIN 25 MILES OF 24-35.00S 041-35.00W.
-2. CANCEL THIS MSG 010100Z MAY 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
