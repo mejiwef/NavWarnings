@@ -870,20 +870,6 @@ AUSTRALIA.
 2. CANCEL HYDROPAC 1126/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>171104Z APR 26
-HYDROPAC 1146/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V NT 02073 TS
-IN 10-43.00N 108-21.00E AT 152300Z APR.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171042Z APR 26

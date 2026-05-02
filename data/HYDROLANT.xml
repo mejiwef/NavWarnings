@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021121Z MAY 26
+HYDROLANT 871/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-39.60S 056-11.40W.
+   B. A84, 73-14.40S 106-49.80W.
+   C. A85, 68-06.00S 057-17.40W.
+   D. D33A, 65-01.80S 057-34.20W.
+   E. D33C, 65-27.00S 057-57.00W.
+2. CANCEL THIS MSG 031122Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020011Z MAY 26
@@ -12,16 +28,6 @@ BRAZIL.
    IN 22-22.48S 040-25.05W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 110400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>012351Z MAY 26
-HYDROLANT 868/26.
-SOUTH ATLANTIC.
-SOUTH AFRICA.
-CAPE TOWN RADIO 33-41.00S 018-43.00E
-HF DSC OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
