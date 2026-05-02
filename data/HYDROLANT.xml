@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021511Z MAY 26
+HYDROLANT 873/26.
+IRISH SEA.
+ENGLAND.
+1. UNDERWATER OPERATIONS 
+   IN PROGRESS UNTIL FURTHER NOTICE 
+   BY M/V ZWERVER AND CABLESHIP NDEAVOR
+   IN AREA BOUND BY
+   53-35.50N 003-35.80W, 53-35.50N 003-26.80W,
+   53-29.50N 003-34.20W, 53-29.50N 003-35.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 834/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021359Z MAY 26
+HYDROLANT 872/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-31.00S 036-24.00W.
+   B. 49-23.00S 028-09.00W.
+   C. 50-32.00S 028-03.00W.
+   D. 47-47.00S 028-04.00W.
+   E. 47-20.00S 027-42.00W.
+   F. 58-01.00S 034-06.00W.
+   G. 58-28.00S 036-16.00W.
+2. CANCEL THIS MSG 031400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>021121Z MAY 26
@@ -88,39 +121,6 @@ HYDROLANT 865/26.
 3. CANCEL HYDROLANT 825/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011358Z MAY 26
-HYDROLANT 864/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-31.00S 036-24.00W.
-   B. 48-05.00S 028-29.00W.
-   C. 50-22.00S 026-28.00W.
-   D. 47-33.00S 028-29.00W.
-   E. 47-52.00S 027-56.00W.
-   F. 58-01.00S 034-06.00W.
-   G. 58-28.00S 036-16.00W.
-2.CANCEL THIS MSG 021400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011308Z MAY 26
-HYDROLANT 863/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-A. A81, 64-39.60S 056-11.40W.
-B. A84, 73-14.40S 106-49.80W.
-C. A85, 68-06.00S 057-17.40W.
-D. D33A, 65-01.80S 057-34.20W.
-E. D33C, 65-27.00S 057-57.00W.
-2. CANCEL THIS MSG 021309Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290914Z APR 26
@@ -196,19 +196,6 @@ EGYPT.
 2. CANCEL THIS MSG 051700Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>291505Z APR 26
-HYDROLANT 850/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. DERELICT VESSEL ADRIFT IN VICINITY 
-   33-30.00N 009-07.00W AT 291330Z APR.
-   REPORTS TO NAVAREA II,
-   E-MAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 021505Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>290855Z APR 26
@@ -277,20 +264,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 793/26.
 3. CANCEL THIS MSG 050001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>262014Z APR 26
-HYDROLANT 834/26.
-IRISH SEA.
-ENGLAND.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V ZWERVER V
-IN AREA BOUND BY
-53-35.50N 003-35.80W, 53-35.50N 003-26.80W,
-53-29.50N 003-34.20W, 53-29.50N 003-35.80W.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
