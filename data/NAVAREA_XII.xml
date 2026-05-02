@@ -198,18 +198,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 010900Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250740Z APR 26
-NAVAREA XII 294/26(18).
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 301500Z APR TO
-   012200Z MAY IN AREA WITHIN TWO MILE OF
-   32-35.82N 117-10.87W.
-2. CANCEL THIS MSG 012300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>250318Z APR 26
@@ -256,19 +244,6 @@ CANCEL NAVAREA XII 270/26 AND THIS MSG,
 OPERATIONS COMPLETED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>230645Z APR 26
-NAVAREA XII 284/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   0807Z TO 1344Z DAILY 28 APR THRU 28 MAY
-   IN AREA BOUND BY
-   00-31.00S 103-58.00W, 01-20.00S 102-48.00W,
-   12-58.00S 111-10.00W, 12-08.00S 112-22.00W.
-2. CANCEL THIS MSG 281444Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200950Z APR 26
@@ -307,36 +282,6 @@ HAWAII.
    USCG REMOTE COMMUNICATION FACILITY
    POINT REYES 37-56.00N 122-44.00W. 
 4. CANCEL NAVAREA XII 274/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100102Z APR 26
-NAVAREA XII 259/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 2000Z TO 0001Z
-   DAILY 21 AND 22 APR, 1630Z TO 2030Z
-   DAILY 20, 24, 27 THRU 30 APR AND 01 MAY
-   IN AREA BOUND BY
-   34-17.73N 120-52.53W, 33-58.85N 121-59.07W,
-   34-38.65N 122-26.05W, 35-04.67N 121-20.13W.
-2. CANCEL THIS MSG 012130Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141354Z APR 26
-NAVAREA XII 255/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1630Z TO 2030Z DAILY
-   14 THRU 20, 24, 27 APR THRU 01 MAY,
-   AND 21 AND 22 APR IN AREA BOUND BY
-   32-59.93N 121-00.52W, 33-12.47N 121-07.25W,
-   33-26.73N 120-21.12W, 33-13.98N 120-16.15W.
-2. CANCEL NAVAREA XII 254/26.
-3. CANCEL THIS MSG 012130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
