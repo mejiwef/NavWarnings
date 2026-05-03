@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>022244Z MAY 26
+HYDROPAC 1304/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL 31 MAY
+   BY M/V SEAMEC PRINCESS 
+   ALONG TRACKLINE JOINING
+   20-36.02N 072-02.23E, 19-31.77N 071-18.08E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FISHING NET</category>
+        <status>INFORCE</status>
+        <msgText>022232Z MAY 26
+HYDROPAC 1303/26.
+CORAL SEA.
+AUSTRALIA.
+1. 20 METER LONG FISHING NET ADRIFT 
+   IN 11-36.20S 142-59.60E AT 020430Z MAY.
+2.CANCEL THIS MSG 052229Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>021558Z MAY 26
