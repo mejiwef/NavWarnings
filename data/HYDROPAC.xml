@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>031204Z MAY 26
+HYDROPAC 1309/26.
+PERSIAN GULF.
+KUWAIT.
+SAUDI ARABIA.
+1. CARDINAL BEACON S8 WITH COLOR
+BLACK-YELLOW-BLACK FL Q (3).10S,
+ESTABLISHED IN 28-48.70N 048-25.9E. 
+2. CARDINAL BEACON M41 WITH COLOR
+BLACK-YELLOW FL Q, ESTABLISHED
+IN 28-54.2N 048-16.2E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISTRESS SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>030651Z MAY 26
+HYDROPAC 1308/26.
+SOUTH CHINA SEA.
+DISTRESS SIGNAL RECEIVED FROM VESSEL  
+IN 06-21.00N 105-18.40E AT 030054Z MAY.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC SINGAPORE,
+PHONE: 656 226 5539,
+EMAIL: POCC@MPA.GOV.SG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>030503Z MAY 26

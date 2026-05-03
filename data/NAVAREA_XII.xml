@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>030909Z MAY 26
+NAVAREA XII 315/26.
+NORTH PACIFIC.
+1. TEN METER BUOY ADRIFT IN 26-08.00N 143-21.50W.
+   AT 030145Z MAY. REPORTS TO JRCC HONOLULU,
+   PHONE: 800 331 6176, EMAIL: JRCCHONOLULU@USCG.MIL.
+2. CANCEL THIS MSG 060909Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>011429Z MAY 26

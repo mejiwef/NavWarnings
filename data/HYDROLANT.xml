@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031113Z MAY 26
+HYDROLANT 876/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-24.00S 055-20.40W.
+   B. A84, 72-50.40S 107-12.60W.
+   C. A85, 67-43.80S 057-19.20W.
+   D. D33A, 64-46.20S 057-19.80W.
+   E. D33C, 65-12.60S 057-43.20W.
+2. CANCEL THIS MSG 041114Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030019Z MAY 26
@@ -48,22 +64,6 @@ SOUTH ATLANTIC.
    F. 58-01.00S 034-06.00W.
    G. 58-28.00S 036-16.00W.
 2. CANCEL THIS MSG 031400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021121Z MAY 26
-HYDROLANT 871/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-39.60S 056-11.40W.
-   B. A84, 73-14.40S 106-49.80W.
-   C. A85, 68-06.00S 057-17.40W.
-   D. D33A, 65-01.80S 057-34.20W.
-   E. D33C, 65-27.00S 057-57.00W.
-2. CANCEL THIS MSG 031122Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
