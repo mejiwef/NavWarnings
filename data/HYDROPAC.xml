@@ -496,19 +496,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>281023Z APR 26
-HYDROPAC 1262/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY
-   02 AND 03 MAY IN AREA BOUND BY
-   09-19.00N 075-52.00E, 09-19.00N 076-02.00E,
-   09-09.00N 076-02.00E, 09-09.00N 075-52.00E.   
-2. CANCEL THIS MSG 031230Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>272240Z APR 26
 HYDROPAC 1257/26.
 ARABIAN SEA.
