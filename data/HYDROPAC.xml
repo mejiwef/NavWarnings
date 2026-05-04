@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>041215Z MAY 26
+HYDROPAC 1316/26.
+ARABIAN SEA.
+INDIA.
+1. NAVTEX STATION VERAVAL 20-54.68N 070-21.20E OFF AIR
+   070130Z TO 091230Z MAY.
+2. CANCEL THIS MSG 091330Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041210Z MAY 26
+HYDROPAC 1315/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 080130Z TO 080730Z
+   IN AREA BOUND BY
+   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
+   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
+2. CANCEL THIS MSG 080830Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041158Z MAY 26
+HYDROPAC 1314/26.
+ARABIAN SEA.
+GULF OF KACHCHH.
+INDIA.
+1. HAZARDOUS OPERATIONS 080430Z TO 080930Z MAY
+   IN AREA BOUND BY
+   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
+   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
+   22-42.11N 068-55.34E.
+2. CANCEL THIS MSG 081030Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040705Z MAY 26
+HYDROPAC 1312/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V OFFSHORE SOLUTION
+IN AREA BOUND BY
+13-59.40S 123-01.40E, 14-03.60S 123-07.50E,
+13-51.90S 123-22.70E, 13-46.30S 123-12.80E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>011648Z MAY 26
@@ -897,20 +950,6 @@ GREAT AUSTRALIAN BIGHT.
 AUSTRALIA.
 PLANK SHOAL LIGHT 33-29.88S 137-28.56E
 PERMANENTLY DISCONTINUED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180333Z APR 26
-HYDROPAC 1153/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE BY M/V FUGRO KWILENA IN AREA BOUND BY
-   21-43.70S 114-11.70E, 19-54.71S 114-11.70E,
-   19-54.71S 115-24.39E, 21-43.70S 115-24.39E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1126/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
