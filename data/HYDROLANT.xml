@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041628Z MAY 26
+HYDROLANT 885/26.
+NORTH SEA.
+NORWAY.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY M/V RAMFORM ATLAS TOWING 16 7050 METER 
+LONG CABLES IN AREA BOUND BY
+56-59.50N 002-56.70E, 57-30.00N 004-51.30E,
+56-48.70N 005-26.00E, 56-16.70N 003-34.70E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>041350Z MAY 26
+HYDROLANT 884/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-32.00S 036-29.00W.
+   B. 49-31.00S 027-15.00W.
+   C. 50-56.00S 027-39.00W.
+   D. 47-26.00S 027-34.00W.
+   E. 46-49.00S 027-21.00W.
+   F. 58-21.00S 033-18.00W.
+   G. 57-55.00S 036-22.00W.
+2. CANCEL THIS MSG 051400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>041345Z MAY 26
+HYDROLANT 883/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-24.00S 055-20.40W.
+   B. A84, 72-50.40S 107-12.60W.
+   C. A85, 67-43.80S 057-19.20W.
+   D. D33A, 64-46.20S 057-19.80W.
+   E. D33C, 65-12.60S 057-43.20W.
+2. CANCEL THIS MSG 051400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>040844Z MAY 26
@@ -39,23 +85,6 @@ CANARY ISLANDS TO PORTUGAL.
    D. 11 MAY IN 45-28.00N 008-06.60W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 120001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031404Z MAY 26
-HYDROLANT 879/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-33.00S 036-27.00W.
-   B. 49-32.00S 027-49.00W.
-   C. 50-32.00S 028-03.00W.
-   D. 47-47.00S 028-04.00W.
-   E. 47-20.00S 027-42.00W.
-   F. 58-01.00S 034-06.00W.
-   G. 58-28.00S 036-16.00W.
-2. CANCEL THIS MSG 041404Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

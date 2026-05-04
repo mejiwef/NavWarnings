@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>041356Z MAY 26
+NAVAREA IV 413/26.
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+1. BRIGAND HILL LIGHT 10-29.61N 061-04.20W
+   CHANGED TO FL (5) W 20 SEC 217 METERS 17 MILES.
+2. CANCEL NAVAREA IV 406/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>032016Z MAY 26
 NAVAREA IV 412/26.
@@ -101,17 +112,6 @@ PUERTO RICO.
    18-28.33N 066-02.85W.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 070001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>012105Z MAY 26
-NAVAREA IV 406/26.
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-1. BRIGAND HILL LIGHT 10-29.61N 061-04.20W
-   CHANGED TO FL (5) W 20 SEC 217 METERS 14 MILES.
-2. CANCEL NAVAREA IV 399/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
