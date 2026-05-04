@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>032149Z MAY 26
+HYDROLANT 880/26.
+NORTH ATLANTIC.
+CANARY ISLANDS TO PORTUGAL.
+1. SURVEY OPERATIONS BY M/V POLARSTERN:
+   A. 050900Z TO 051230Z MAY IN
+      27-05.00N 017-10.00W.
+   B. 060230Z TO 060930Z MAY IN
+      29-10.00N 015-30.00W.
+   C. 10 MAY IN 42-17.30N 009-59.90W.
+   D. 11 MAY IN 45-28.00N 008-06.60W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>031404Z MAY 26
