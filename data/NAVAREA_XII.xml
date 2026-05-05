@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>041927Z MAY 26
+NAVAREA XII 320/26.
+PACIFIC OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
+   A. 102130Z TO 102300Z MAY IN AREA BOUND BY  
+      13-34.83N 136-03.66W, 04-05.08S 139-28.68W,
+      05-37.61S 134-26.34W, 11-44.12N 130-35.70W.
+   B. 112130Z TO 112250Z MAY IN AREA BOUND BY
+      15-16.12N 130-07.68W, 06-32.30N 131-41.52W,
+      07-04.85N 137-09.06W, 15-56.96N 135-31.38W.
+   C. 122120Z TO 122250Z MAY IN AREA BOUND BY
+      19-02.49N 127-16.72W, 09-35.72N 127-59.20W,
+      11-25.22N 136-34.38W, 20-05.41N 133-28.50W.
+2. CANCEL THIS MSG 122350Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>042304Z MAY 26
