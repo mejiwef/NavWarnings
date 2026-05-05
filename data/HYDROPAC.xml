@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051024Z MAY 26
+HYDROPAC 1330/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0530Z TO 1030Z DAILY
+   09 AND 10 MAY IN AREA BOUND BY
+   17-20.70N 083-43.20E, 17-20.70N 083-55.70E,
+   16-59.10N 083-41.70E, 16-59.20N 083-29.20E.
+2. CANCEL THIS MSG 101130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051015Z MAY 26
+HYDROPAC 1329/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS:
+   A. 081200Z TO 081230Z MAY IN AREA BOUND BY 
+      16-19.20N 083-51.40E, 16-19.20N 084-11.70E,
+      16-39.20N 084-11.70E, 16-39.20N 083-51.40E.
+   B. 090001Z TO 090500Z MAY IN AREA BOUND BY
+      17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
+      17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
+2. CANCEL THIS MSG 090600Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>050707Z MAY 26
+HYDROPAC 1328/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V SIRIK ON FIRE IN 26-19.00N 056-20.30E.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+POSITION AND TO EXERCISE EXTREME CAUTION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>041927Z MAY 26

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051209Z MAY 26
+NAVAREA IV 416/26.
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 302200Z JUN
+   BY M/V AMAZON WARRIOR TOWING 10500 METER LONG    
+   CABLES ALONG TRACKLINE JOINING
+   10-18.83N 058-42.89W, 10-22.99N 058-43.73W,
+   11-16.06N 058-43.76W, 11-25.35N 058-39.44W,
+   11-36.31N 058-58.34W, 11-04.52N 059-08.66W,
+   10-35.97N 059-06.45W, 10-11.58N 059-00.15W.
+   NINE MILE BERTH REQUESTED.
+2. CANCEL NAVAREA IV 408/26.
+3. CANCEL THIS MSG 302300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>042131Z MAY 26
