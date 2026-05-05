@@ -198,20 +198,6 @@ RACON AT NORTH REEF LIGHT
 23-11.10S 151-54.20E UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>030219Z MAY 26
-HYDROPAC 1305/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. GUNNERY EXERCISES 041700Z TO 042100Z MAY
-   IN AREA BOUND BY
-   17-51.00S 145-40.00W, 17-51.00S 145-08.00W,
-   18-08.00S 145-08.00W, 18-08.00S 145-40.00W.
-2. CANCEL HYDROPAC 1301/26.
-3. CANCEL THIS MSG 042200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>022244Z MAY 26
