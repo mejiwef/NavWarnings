@@ -134,19 +134,6 @@ COLOMBIA.
 2. CANCEL THIS MSG 080001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022306Z MAY 26
-NAVAREA IV 408/26.
-NORTH ATLANTIC.
-PUERTO RICO.
-1. CABLE OPERATIONS 03 THRU 06 MAY
-   BY CABLESHIP IT INTREPID IN VICINITY
-   18-28.33N 066-02.85W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 070001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>011506Z MAY 26

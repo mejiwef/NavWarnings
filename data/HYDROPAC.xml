@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>051510Z MAY 26
+HYDROPAC 1332/26.
+GULF OF THAILAND.
+VIETNAM.
+THREE PERSONS OVERBOARD FROM F/V
+BT 98785 TS IN 09-02.00N 103-34.00E AT 042200Z MAY.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN .</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>051236Z MAY 26
+HYDROPAC 1331/26.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. GUNNERY EXERCISES IN PROGRESS UNTIL 111600Z MAY
+   IN AREA BOUND BY
+   14-09.67N 119-23.77E, 14-09.67N 119-39.15E,
+   14-24.64N 119-39.15E, 14-24.64N 119-23.77E.
+2. CANCEL THIS MSG 111700Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051024Z MAY 26
