@@ -925,20 +925,6 @@ DNC 01.
 2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>070049Z NOV 25
-HYDROLANT 1873/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SUBMERGED HYDROPHONE IN 23-49.21S 045-00.28W
-   UNTIL 05 MAY 26.
-2. CANCEL HYDROLANT 1197/25, 1720/25.
-3. CANCEL THIS MSG 060001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070116Z OCT 25

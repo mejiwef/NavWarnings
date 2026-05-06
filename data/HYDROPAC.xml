@@ -298,29 +298,6 @@ INDIA.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FISHING NET</category>
-        <status>INFORCE</status>
-        <msgText>022232Z MAY 26
-HYDROPAC 1303/26.
-CORAL SEA.
-AUSTRALIA.
-1. 20 METER LONG FISHING NET ADRIFT 
-   IN 11-36.20S 142-59.60E AT 020430Z MAY.
-2.CANCEL THIS MSG 052229Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>021558Z MAY 26
-HYDROPAC 1302/26.
-GULF OF ADEN.
-YEMEN.
-1. M/V POSSIBLY HIJACKED IN 13-49.00N 048-28.00E.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 060001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301137Z APR 26

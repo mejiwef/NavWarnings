@@ -206,16 +206,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 010900Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>250318Z APR 26
-NAVAREA XII 293/26.
-NORTH PACIFIC.
-CANADA.
-NAVTEX, HF R/T, MF BROADCAST AND MF R/T TRANSMIT SERVICES 
-STATION DIGBY ISLAND (D) IN 54-17.85N 130-25.10W OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>231812Z APR 26
@@ -284,17 +274,6 @@ USCG REMOTE COMMUNICATION FACILITIES:
    I. ASTORIA 46-10.00N 123-49.00W.
    J. BERING SEA 57-46.00N 152-34.00W.
    K. CAMBRIA 33-44N 118-24W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>100104Z MAR 26
-NAVAREA XII 162/26(17).
-NORTH PACIFIC.
-CANADA.
-NAVTEX STATION DIGBY ISLAND (D)
-54-17.85N 130-25.10W OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
