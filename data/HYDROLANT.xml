@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>061513Z MAY 26
+HYDROLANT 897/26.
+NORTH SEA.
+ENGLAND.
+1. ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
+   53-11.00N 002-05.80E UNLIT AND INOPERATIVE.
+2. CANCEL HYDROLANT 596/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>061354Z MAY 26
+HYDROLANT 896/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-22.00S 036-28.00W.
+   B. 49-22.00S 026-50.00W.
+   C. 51-10.00S 027-14.00W.
+   D. 46-50.00S 027-02.00W.
+   E. 46-50.00S 027-02.00W.
+   F. 57-42.00S 036-08.00W.
+2. CANCEL THIS MSG 071400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>061350Z MAY 26
+HYDROLANT 895/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-24.00S 055-20.40W.
+   B. A84, 72-50.40S 107-12.60W.
+   C. A85, 67-43.80S 057-19.20W.
+   D. D33A, 64-46.20S 057-19.80W.
+   E. D33C, 65-12.60S 057-43.20W.
+2. CANCEL THIS MSG 071400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061332Z MAY 26
+HYDROLANT 894/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 0530Z TO 0700Z DAILY
+   12 THRU 14 MAY IN AREA BOUND BY
+   41-58.20N 028-01.67E, 41-58.53N 028-19.12E,
+   42-06.97N 029-00.18E, 42-32.33N 030-04.50E,
+   42-36.12N 030-24.13E, 42-37.25N 030-59.85E,
+   42-37.33N 031-54.22E, 42-00.43N 031-54.27E,
+   41-41.35N 030-59.65E, 41-44.32N 029-49.15E,
+   41-43.78N 028-56.77E, 41-45.42N 028-50.20E,
+   41-45.40N 028-43.00E, 41-41.67N 028-16.08E,
+   41-41.93N 028-06.12E, 41-46.98N 028-04.25E,
+   41-50.00N 028-02.18E.
+2. CANCEL THIS MSG 140800Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061212Z MAY 26
@@ -41,47 +103,15 @@ PHONE: 5584 3216 3018, 5584 98867 0354,
 EMAIL: MRCCNATAL@MARINHA.MIL.BR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051352Z MAY 26
-HYDROLANT 888/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-32.00S 036-31.00W.
-   B. 49-31.00S 027-15.00W.
-   C. 51-09.00S 027-15.00W.
-   D. 47-02.00S 027-28.00W.
-   E. 46-55.00S 027-09.00W.
-   F. 58-19.00S 033-05.00W.
-   G. 57-42.00S 036-08.00W.
-2. CANCEL THIS MSG 061400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051348Z MAY 26
-HYDROLANT 887/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-24.00S 055-20.40W.
-   B. A84, 72-50.40S 107-12.60W.
-   C. A85, 67-43.80S 057-19.20W.
-   D. D33A, 64-46.20S 057-19.80W.
-   E. D33C, 65-12.60S 057-43.20W.
-2. CANCEL THIS MSG 061400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041628Z MAY 26
 HYDROLANT 885/26.
 NORTH SEA.
 NORWAY.
-SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-BY M/V RAMFORM ATLAS TOWING 16 7050 METER 
-LONG CABLES IN AREA BOUND BY
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V RAMFORM ATLAS TOWING 16 7050
+METER LONG CABLES IN AREA BOUND BY
 56-59.50N 002-56.70E, 57-30.00N 004-51.30E,
 56-48.70N 005-26.00E, 56-16.70N 003-34.70E.
 THREE MILE BERTH REQUESTED.</msgText>
@@ -260,21 +290,6 @@ HYDROLANT 865/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 825/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290914Z APR 26
-HYDROLANT 862/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 060600Z TO 061200Z MAY
-   IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
-   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
-   44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 061300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
