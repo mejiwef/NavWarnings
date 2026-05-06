@@ -699,20 +699,6 @@ PAKISTAN.
 3. CANCEL THIS MSG 292000Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>272151Z APR 26
-HYDROPAC 1256/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. CABLE OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V OFFSHORE SUPPLIER
-   ALONG TRACKLINE JOINING
-   32-28.69S 115-43.82E, 32-33.00S 115-30.90E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1240/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>261304Z APR 26

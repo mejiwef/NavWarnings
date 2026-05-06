@@ -315,22 +315,6 @@ BRAZIL.
 3. CANCEL THIS MSG 260001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270247Z APR 26
-HYDROLANT 836/26.
-GULF OF GUINEA.
-NIGERIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 052359Z MAY
-   BY M/V SW GALLIEN AMD M/V SW DUCHESS TOWING
-   TEN 8100 METER LONG CABLES IN AREA BOUND BY
-   04-08.75N 007-25.12E, 04-08.75N 008-06.62E,
-   03-48.24N 008-06.62E, 03-48.24N 007-25.12E.
-   SEVEN MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 526/26.
-3. CANCEL THIS MSG 060100Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241936Z APR 26
