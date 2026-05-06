@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061135Z MAY 26
+HYDROPAC 1338/26.
+TASMAN SEA.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 101900Z TO 150500Z MAY
+   IN AREA WITHIN THREE MILES OF 36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 150600Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061105Z MAY 26
+HYDROPAC 1337/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 0630Z AND
+   1000Z TO 1400Z DAILY 11 THRU 15 MAY
+   IN AREA BOUND BY
+   17-23.00N 070-35.00E, 16-52.00N 071-33.00E,
+   16-24.00N 072-09.00E, 15-45.57N 072-49.16E,
+   15-18.96N 074-06.81E, 15-18.64N 074-35.58E,
+   13-51.67N 074-31.48E, 13-52.67N 072-53.05E,
+   14-39.71N 071-15.15E, 16-15.00N 068-37.00E.
+2. CANCEL THIS MSG 151500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061056Z MAY 26
+HYDROPAC 1336/26.
+BAY OF BENGAL.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 1230Z TO 1530Z DAILY
+   08 AND 09 MAY IN AREA BOUND BY
+   20-48.37N 087-02.58E, 18-12.37N 086-07.12E,
+   11-40.75S 084-21.65E, 10-47.35S 095-11.22E,
+   18-24.17N 088-30.45E, 20-48.77N 087-07.40E.
+2. CANCEL HYDROPAC 1321/26.
+3. CANCEL THIS MSG 091630Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061047Z MAY 26
+HYDROPAC 1335/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 110001Z TO 131300Z MAY
+   IN AREA BOUND BY
+   16-48.00N 084-31.50E, 14-55.50N 086-56.70E,
+   13-11.10N 085-07.80E, 15-11.80N 082-41.30E.
+2. CANCEL THIS MSG 131400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061034Z MAY 26
+HYDROPAC 1334/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 080530Z TO 080930Z
+   AND 090330Z TO 090630Z MAY IN AREA BOUND BY
+   17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
+   17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
+2. CANCEL THIS MSG 090730Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>051510Z MAY 26
@@ -123,21 +194,6 @@ INDIA.
    16-15.00N 084-00.00E, 16-55.00N 084-00.00E,
    16-55.00N 084-40.00E, 16-15.00N 084-40.00E.
 2. CANCEL THIS MSG 080830Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041440Z MAY 26
-HYDROPAC 1321/26.
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 1230Z TO 1530Z DAILY
-   06, 08, AND 09 MAY IN AREA BOUND BY
-   20-48.37N 087-02.58E, 18-12.37N 086-07.12E,
-   11-40.75S 084-21.65E, 10-47.35S 095-11.22E,
-   18-24.17N 088-30.45E, 20-48.77N 087-07.40E.
-2. CANCEL THIS MSG 091630Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -753,20 +809,6 @@ EIGHT BUOYS, YELLOW, FL W 3 SEC, ESTABLISHED IN VICINITY
 38-53.49S 142-52.95E. THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>250800Z APR 26
-HYDROPAC 1242/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS, 
-   0343Z TO 0829Z DAILY 30 APR THRU 06 MAY
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 060929Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250348Z APR 26
@@ -1000,20 +1042,6 @@ INDIA.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1164/26.
 3. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201303Z APR 26
-HYDROPAC 1176/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND
-   0900Z TO 1100Z DAILY 25, 27 APR THRU 02 MAY
-   AND 04 THRU 06 MAY IN AREA BOUND BY
-   21-49.28N 087-56.30E, 21-29.90N 088-06.35E,
-   21-03.13N 086-58.10E, 21-16.05N 086-51.75E.
-2. CANCEL THIS MSG 061200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PORT CLOSURE</category>
