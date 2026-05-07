@@ -3,13 +3,36 @@
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>061513Z MAY 26
-HYDROLANT 897/26.
-NORTH SEA.
-ENGLAND.
-1. ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
-   53-11.00N 002-05.80E UNLIT AND INOPERATIVE.
-2. CANCEL HYDROLANT 596/26.</msgText>
+        <msgText>070125Z MAY 26
+HYDROLANT 900/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. TAMANDARE LIGHT 08-45.57S 035-06.08W
+   UNLIT UNTIL 02 NOV.
+2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>070113Z MAY 26
+HYDROLANT 899/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY, YELLOW, FL Y  ESTABLISHED
+   IN 32-32.45S 052-05.03W UNTIL 02 NOV.
+2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>070105Z MAY 26
+HYDROLANT 898/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA DE PEDRAS LIGHT 09-09.39S 035-17.89W
+   UNLIT UNTIL 02 NOV.
+2. CANCEL HYDROLANT 897/26.
+3. CANCEL THIS MSG 030001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>

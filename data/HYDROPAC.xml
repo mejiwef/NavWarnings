@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>070653Z MAY 26
+HYDROPAC 1345/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V CMA CGM SAN ANTONIO ON FIRE
+AND ADRIFT IN 26-01.80N 056-38.70E.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+POSITION AND TO EXERCISE EXTREME CAUTION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070524Z MAY 26
+HYDROPAC 1344/26.
+SOUTH PACIFIC.
+1. CABLE OPERATIONS 071600Z TO 171600Z MAY 
+   BY CABLESHIP ENDEAVOUR
+   ALONG TRACKLINE JOINING
+   17-42.66S 155-41.42W, 17-48.92S 156-39.97W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 171700Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>050112Z MAY 26
+HYDROPAC 1343/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   130012Z TO 130107Z MAY, ALTERNATE
+   132346Z TO 140041Z, 142323Z TO 150018Z,
+   152301Z TO 152356Z, 162238Z TO 162333Z,
+   172213Z TO 172308Z AND 
+   182150Z TO 182245Z MAY IN AREA BOUND BY
+   27-46.00S 148-45.00W, 28-26.00S 148-11.00W,
+   36-41.00S 158-12.00W, 43-53.00S 170-28.00W,
+   43-13.00S 171-10.00W, 36-01.00S 158-52.00W.
+2. CANCEL THIS MSG 182345Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060810Z MAY 26
+HYDROPAC 1342/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 12 THRU 14 MAY IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 141400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>070056Z MAY 26
+HYDROPAC 1341/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 09 THRU 15 MAY
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 152129Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061454Z MAY 26

@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>070444Z MAY 26
+NAVAREA IV 423/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   122306Z TO 122356Z MAY, ALTERNATE
+   132240Z TO 132330Z, 142217Z TO 142307Z, 
+   152155Z TO 152245Z, 162132Z TO 162222Z, 
+   172107Z TO 172157Z AND 
+   182044Z TO 182134Z MAY IN AREAS BOUND BY:
+   A. 31-36.00N 077-41.00W, 31-55.00N 077-22.00W,
+      31-34.00N 076-53.00W, 31-15.00N 077-16.00W.
+   B. 28-37.95N 080-36.93W, 28-52.00N 080-28.00W,
+      30-09.00N 079-06.00W, 29-57.00N 078-54.00W,
+      28-31.00N 080-20.00W, 28-28.02N 080-31.79W.
+2. CANCEL THIS MSG 182234Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>061907Z MAY 26
