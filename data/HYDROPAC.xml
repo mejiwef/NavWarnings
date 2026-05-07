@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>071204Z MAY 26
+HYDROPAC 1349/26.
+ARABIAN SEA.
+INDIA.
+1. NAVTEX STATION VENGURLA POINT (J) 
+   15-51.31N 073-36.89E OFF AIR
+   120330Z TO 131330Z MAY.
+2. CANCEL THIS MSG 131430Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071134Z MAY 26
+HYDROPAC 1348/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0530Z TO 1030Z DAILY
+   09 AND 10 MAY IN AREA BOUND BY
+   16-55.00N 083-35.00E, 16-55.00N 083-55.00E,
+   17-20.00N 083-55.00E, 17-20.00N 083-35.00E.
+2. CANCEL HYDROPAC 1330/26.
+3. CANCEL THIS MSG 101130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071051Z MAY 26
+HYDROPAC 1347/26.
+GULF OF KHAMBHAT.
+1. HAZARDOUS OPERATIONS 0230Z TO 1130Z DAILY 
+   12 AND 21 MAY IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
+   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
+2. CANCEL THIS MSG 211230Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>070653Z MAY 26
@@ -186,19 +224,6 @@ PHILIPPINES.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>051024Z MAY 26
-HYDROPAC 1330/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0530Z TO 1030Z DAILY
-   09 AND 10 MAY IN AREA BOUND BY
-   17-20.70N 083-43.20E, 17-20.70N 083-55.70E,
-   16-59.10N 083-41.70E, 16-59.20N 083-29.20E.
-2. CANCEL THIS MSG 101130Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>051015Z MAY 26
 HYDROPAC 1329/26.
 BAY OF BENGAL.
@@ -280,26 +305,6 @@ INDIA.
    16-15.00N 084-00.00E, 16-55.00N 084-00.00E,
    16-55.00N 084-40.00E, 16-15.00N 084-40.00E.
 2. CANCEL THIS MSG 080830Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041304Z MAY 26
-HYDROPAC 1319/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS:
-   A. 050030Z TO 051030Z MAY IN AREA BOUND BY
-      15-03.50N 085-05.50E, 15-56.35N 085-45.20E,
-      17-34.80N 084-04.50E, 16-48.90N 083-16.60E.
-   B. 060030Z TO 061030Z MAY IN AREA BOUND BY
-      17-40.50N 084-04.86E, 17-40.50N 084-57.26E,
-      16-50.26N 084-57.26E, 16-50.26N 084-04.86E.
-   C. 070030Z TO 071030Z MAY IN AREA BOUND BY 
-      17-58.90N 084-27.30E, 17-59.00N 083-56.00E,
-      17-50.00N 083-44.00E, 17-47.72N 084-13.59E.
-2. CANCEL HYDROPAC 1294/26.
-3. CANCEL THIS MSG 071130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -677,21 +682,6 @@ INDIA.
    09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
    09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
 2. CANCEL THIS MSG 291530Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290926Z APR 26
-HYDROPAC 1269/26.
-SEA OF JAPAN.
-RUSSIA.
-1. MISSILE OPERATIONS 1400Z TO 0800Z 
-   DAILY 04 THRU 07 MAY IN AREA BOUND BY
-   42-42.80N 132-13.80E, 42-49.20N 132-33.50E,
-   42-34.60N 133-02.30E, 41-26.70N 134-16.30E,
-   41-06.40N 133-36.30E, 40-54.70N 132-58.00E,
-   40-57.10N 132-49.00E, 42-16.90N 132-16.70E.
-2. CANCEL THIS MSG 080900Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
