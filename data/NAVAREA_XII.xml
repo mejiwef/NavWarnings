@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>070040Z MAY 26
+NAVAREA XII 325/26.
+NORTH PACIFIC.
+CALIFORNIA.
+CANCEL NAVAREA XII 311/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>062153Z MAY 26
+NAVAREA XII 323/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 111600Z TO 111900Z MAY
+   IN AREA WITHIN 27 MILES OF 33-21.80N 120-08.08W.
+2. CANCEL THIS MSG 112000Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>062141Z MAY 26
+NAVAREA XII 322/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1630Z TO 0200Z
+   DAILY 11 THRU 14 MAY IN AREAS BOUND BY:
+   A. 32-59.93N 121-00.52W, 33-12.47N 121-07.25W,
+      33-26.73N 120-21.12W, 33-13.98N 120-16.15W.
+   B. 34-17.73N 120-52.53W, 33-58.85N 121-59.07W,
+      34-38.65N 122-26.05W, 35-04.67N 121-20.13W.
+2. CANCEL THIS MSG 150300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>041927Z MAY 26
@@ -78,24 +114,6 @@ NAVAREA XII 313/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 292/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230413Z APR 26
-NAVAREA XII 312/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 062000Z TO 070115 MAY, 
-   ATLERNATE 2000Z TO 0115Z DAILY 07 AND 08 MAY
-   IN AREAS BOUND BY:
-   A. 17-40.00N 172-25.00W, 20-08.00N 171-12.00W,
-      24-03.00N 168-02.00W, 23-35.00N 167-03.00W,
-      19-31.00N 169-21.00W, 17-11.00N 171-36.00W.
-   B. 35-40.00N 147-24.00W, 41-12.00N 153-36.00W,
-      45-47.00N 159-08.00W, 47-06.00N 158-05.00W,
-      47-10.00N 153-45.00W, 44-22.00N 147-02.00W,
-      36-09.00N 146-27.00W.
-2. CANCEL THIS MSG 090215Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
