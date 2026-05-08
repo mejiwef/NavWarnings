@@ -77,16 +77,6 @@ IN 41-15.06N 150-15.11W.
 WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>070040Z MAY 26
-NAVAREA XII 325/26.
-NORTH PACIFIC.
-CALIFORNIA.
-CANCEL NAVAREA XII 311/26 AND THIS MSG,
-OPERATIONS COMPLETED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>062153Z MAY 26

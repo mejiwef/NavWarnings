@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>080614Z MAY 26
+HYDROPAC 1359/26.
+SOUTH CHINA SEA.
+VIETNAM.
+FISHERMAN MISSING FROM F/V BT 99559 TS
+IN 10-47.20N 108-53.95E AT 072300Z MAY.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>080008Z MAY 26
@@ -846,24 +860,6 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL THIS MSG 311000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>260350Z APR 26
-HYDROPAC 1245/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1740Z TO 0049Z DAILY 01 THRU 07 MAY
-   IN AREA BOUND BY
-   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,
-   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,
-   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,
-   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
-   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
-   41-36.00S 080-09.00E.
-2. CANCEL THIS MSG 080149Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
