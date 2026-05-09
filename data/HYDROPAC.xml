@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091547Z MAY 26
+HYDROPAC 1372/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 131600Z TO 132200Z
+   MAY IN AREA BOUND BY 36-17.50S 073-39.50W,
+   36-17.50S 073-19.50W, 36-32.00S 073-19.50W,
+   36-32.00S 073-39.50W.
+2. CANCEL THIS MSG 132300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091533Z MAY 26
+HYDROPAC 1371/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1330Z TO 1930Z
+   DAILY 14 AND 15 MAY IN AREA BOUND BY  
+   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
+   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
+2. CANCEL THIS MSG 152030Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091516Z MAY 26
+HYDROPAC 1370/26.
+RED SEA.
+SAUDI ARABIA.
+1. HAZARDOUS OPERATIONS 0400Z TO 1500Z
+   DAILY 10 TO 21 MAY IN AREA BOUND BY
+   21-13.24N 038-58.30E, 21-13.30N 039-06.12E,
+   21-05.35N 039-07.00E, 21-06.00N 038-58.30E.
+2. CANCEL THIS MSG 211600Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>091143Z MAY 26
@@ -143,19 +182,6 @@ INDIA.
    17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
    17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
 2. CANCEL THIS MSG 100630Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081053Z MAY 26
-HYDROPAC 1361/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0230Z TO 1300Z
-   DAILY 11 THRU 22 MAY IN AREA BOUND BY
-   14-05.00N 074-10.00E, 14-07.00N 074-11.00E,
-   14-00.00N 074-25.00E, 13-57.00N 074-23.00E.
-2. CANCEL THIS MSG 221400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -400,22 +426,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>061056Z MAY 26
-HYDROPAC 1336/26.
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 1230Z TO 1530Z DAILY
-   08 AND 09 MAY IN AREA BOUND BY
-   20-48.37N 087-02.58E, 18-12.37N 086-07.12E,
-   11-40.75S 084-21.65E, 10-47.35S 095-11.22E,
-   18-24.17N 088-30.45E, 20-48.77N 087-07.40E.
-2. CANCEL HYDROPAC 1321/26.
-3. CANCEL THIS MSG 091630Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>061047Z MAY 26
 HYDROPAC 1335/26.
 BAY OF BENGAL.
@@ -526,17 +536,6 @@ INDIA.
       18-57.41N 072-10.90E, 18-56.87N 072-06.99E.
    ONE MILE WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 050001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>041215Z MAY 26
-HYDROPAC 1316/26.
-ARABIAN SEA.
-INDIA.
-1. NAVTEX STATION VERAVAL (H) 20-54.68N 070-21.20E
-   OFF AIR 070130Z TO 091230Z MAY.
-2. CANCEL THIS MSG 091330Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
