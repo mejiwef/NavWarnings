@@ -67,18 +67,6 @@ HYDROLANT 914/26.
 3. CANCEL HYDROLANT 820/26 AND 865/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO BEACON</category>
-        <status>INFORCE</status>
-        <msgText>081517Z MAY 26
-HYDROLANT 913/26.
-EASTERN NORTH ATLANTIC.
-AZORES.
-1. MRCC DELGADA INMARSAT-C OFF AIR.
-   FOR ASSISTANCE CONTACT MRCC LISBON,
-   INMARSAT-C: 426 300 032.
-2. CANCEL HYDROLANT 903/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>081358Z MAY 26
