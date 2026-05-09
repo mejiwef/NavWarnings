@@ -198,15 +198,6 @@ NORTH ATLANTIC.
 2. CANCEL THIS MSG 202300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>061309Z MAY 26
-NAVAREA IV 419/26.
-CARIBBEAN SEA.
-BUOY, YELLOW, FL W 2 SEC, ESTABLISHED IN 
-17-06.30N 081-46.70W.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>052033Z MAY 26
@@ -239,20 +230,6 @@ TRINIDAD AND TOBAGO.
    NINE MILE BERTH REQUESTED.
 2. CANCEL NAVAREA IV 408/26.
 3. CANCEL THIS MSG 302300Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>042131Z MAY 26
-NAVAREA IV 415/26.
-CARIBBEAN SEA.
-1. CABLE OPERATIONS 050400Z MAY UNTIL  
-   FURTHER NOTICE BY CABLESHIP ILE DE SEIN
-   ALONG TRACKLINE JOINING
-   17-06.30N 081-48.15W, 17-04.33N 081-48.31W,
-   17-03.73N 081-43.79W, 17-05.73N 081-43.50W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA IV 386/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

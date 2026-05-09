@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>091143Z MAY 26
+HYDROPAC 1369/26.
+EASTERN INDIAN OCEAN.
+SOMALIA.
+1. M/V POSSIBLY HIJACKED IN 00-13.00S 044-18.00E
+   ON 09 MAY. VESSELS ARE ADVISED TO KEEP CLEAR
+   OF THIS POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 121143Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>090404Z MAY 26
@@ -415,19 +427,6 @@ INDIA.
 2. CANCEL THIS MSG 131400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061034Z MAY 26
-HYDROPAC 1334/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 080530Z TO 080930Z
-   AND 090330Z TO 090630Z MAY IN AREA BOUND BY
-   17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
-   17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
-2. CANCEL THIS MSG 090730Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>051510Z MAY 26
@@ -509,21 +508,6 @@ INDIA.
    ASSIST IF POSSIBLE.
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROPAC 1309/26, 1322/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041239Z MAY 26
-HYDROPAC 1318/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND
-   0900Z TO 1100Z DAILY 07 THRU 09 MAY
-   IN AREA BOUND BY
-   21-49.28N 087-56.30E, 21-29.90N 088-06.35E,
-   21-03.13N 086-58.10E, 21-16.05N 086-51.75E,
-   21-27.99N 087-01.99E.
-2. CANCEL THIS MSG 091200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
