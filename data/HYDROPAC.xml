@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>090404Z MAY 26
+HYDROPAC 1368/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E MF, HF, AND DSC SERVICES 
+   UNRELIABLE 131800Z TO 132030Z MAY.
+2. CANCEL THIS MSG 132130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>082140Z MAY 26
@@ -441,22 +453,6 @@ PHILIPPINES.
    14-09.67N 119-23.77E, 14-09.67N 119-39.15E,
    14-24.64N 119-39.15E, 14-24.64N 119-23.77E.
 2. CANCEL THIS MSG 111700Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051015Z MAY 26
-HYDROPAC 1329/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS:
-   A. 081200Z TO 081230Z MAY IN AREA BOUND BY 
-      16-19.20N 083-51.40E, 16-19.20N 084-11.70E,
-      16-39.20N 084-11.70E, 16-39.20N 083-51.40E.
-   B. 090001Z TO 090500Z MAY IN AREA BOUND BY
-      17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
-      17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
-2. CANCEL THIS MSG 090600Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
