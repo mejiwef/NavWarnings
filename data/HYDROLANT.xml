@@ -3,6 +3,32 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>101427Z MAY 26
+HYDROLANT 925/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 57-47.00S 036-22.00W.
+   B. 49-08.00S 027-00.00W.
+   C. 46-24.00S 026-20.00W.
+2. CANCEL THIS MSG 111400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>101327Z MAY 26
+HYDROLANT 924/26.
+SOUTH ATLANTIC.
+BRAZIL.
+MAN OVERBOARD FROM VESSEL IN
+02-25.02S 054-43.23W ON 09 MAY.
+VESSELS IN VICINITY REQUESTED TO 
+KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>101009Z MAY 26
 HYDROLANT 923/26.
 SOUTH ATLANTIC.
@@ -62,20 +88,6 @@ BRAZIL.
 3. CANCEL THIS MSG 190001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091417Z MAY 26
-HYDROLANT 920/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 57-59.00S 036-36.00W.
-   B. 49-08.00S 027-00.00W.
-   C. 51-26.00S 026-12.00W.
-   D. 46-24.00S 026-20.00W.
-2. CANCEL THIS MSG 101400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081228Z MAY 26
@@ -89,22 +101,6 @@ ROMANIA.
    44-19.70N 029-00.82E, 44-14.57N 028-57.93E, 
    44-13.10N 028-56.33E, 44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 211300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091026Z MAY 26
-HYDROLANT 918/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-24.00S 055-20.40W.
-   B. A84, 72-50.40S 107-12.60W.
-   C. A85, 67-43.80S 057-19.20W.
-   D. D33A, 64-46.20S 057-19.80W.
-   E. D33C, 65-12.60S 057-43.20W.
-2. CANCEL THIS MSG 101400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
