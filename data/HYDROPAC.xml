@@ -184,19 +184,6 @@ INDIA.
 2. CANCEL THIS MSG 131200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081114Z MAY 26
-HYDROPAC 1362/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 100300Z TO 100530Z 
-   MAY IN AREA BOUND BY
-   17-04.00N 084-08.00E, 17-04.00N 084-49.00E,
-   17-41.00N 084-49.00E, 17-41.00N 084-08.00E.
-2. CANCEL THIS MSG 100630Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>080651Z MAY 26
@@ -898,20 +885,6 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL THIS MSG 311000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>251137Z APR 26
-HYDROPAC 1244/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V BV 97963 TS
-IN 09-11.00N 107-05.00E AT 250530Z APR.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
