@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111030Z MAY 26
+HYDROLANT 930/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERG REPORTED IN: 
+   A. A81, 64-06.60S 055-18.00W.
+   B. A84, 72-57.60S 107-49.20W.
+   C. A85, 67-27.00S 057-14.40W.
+   D. D33A, 64-42.00S 057-18.60W.
+   E. D33C, 65-04.20S 057-21.00W.
+2. CANCEL THIS MSG 121030Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110933Z MAY 26
+HYDROLANT 929/26.
+GULF OF GUINEA.
+NIGERIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 292359Z MAY 
+   BY M/V SW DUCHESS TOWING TEN 8100 METER 
+   LONG CABLES IN AREA BOUND BY
+   04-08.75N 007-25.12E, 04-08.75N 008-06.62E,
+   03-48.24N 008-06.62E, 03-48.24N 007-25.12E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 928/26.
+3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110847Z MAY 26
+HYDROLANT 927/26.
+EASTERN MEDITERRANEAN SEA.
+LIBYA.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 20 MAY 
+   BY CABLESHIP SOPHIE GERMAIN
+   IN AREA BOUND BY
+   33-59.68N 021-09.88E, 33-54.85N 021-25.90E,
+   33-50.94N 021-24.32E, 33-55.83N 021-08.15E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101902Z MAY 26
