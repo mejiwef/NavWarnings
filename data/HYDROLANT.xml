@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>111817Z MAY 26
+HYDROLANT 934/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. DERELICT VESSEL ADRIFT IN VICINITY
+   33-35.00N 009-10.00W AT 111400Z MAY.
+   REPORTS TO NAVAREA II,
+   E-MAIL: COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 141817Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111454Z MAY 26
+HYDROLANT 932/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 57-39.00S 035-52.00W.
+   B. 49-08.00S 027-00.00W.
+   C. 46-24.00S 026-20.00W.
+2. CANCEL THIS MSG 121454Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111349Z MAY 26
+HYDROLANT 931/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 0530Z TO 0700Z DAILY
+   15 THRU 17 AND 21 MAY IN AREA BOUND BY
+   41-58.20N 028-01.67E, 41-58.53N 028-19.12E,
+   42-06.97N 029-00.18E, 42-47.83N 030-45.08E,
+   42-46.82N 031-01.27E, 42-45.98N 034-47.53E,
+   42-13.53N 034-54.70E, 42-00.93N 034-42.02E,
+   42-01.27N 034-19.52E, 42-04.32N 033-20.65E,
+   41-46.07N 032-13.12E, 41-41.35N 030-59.65E,
+   41-44.32N 029-49.15E, 41-43.78N 028-56.77E,
+   41-45.42N 028-50.20E, 41-45.40N 028-43.00E,
+   41-41.67N 028-16.08E, 41-41.93N 028-06.12E,
+   41-46.98N 028-04.25E, 41-50.00N 028-02.18E.
+2. CANCEL THIS MSG 210800Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>111030Z MAY 26
@@ -62,19 +109,6 @@ ENGLAND.
 2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101427Z MAY 26
-HYDROLANT 925/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 57-47.00S 036-22.00W.
-   B. 49-08.00S 027-00.00W.
-   C. 46-24.00S 026-20.00W.
-2. CANCEL THIS MSG 111400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>101327Z MAY 26
@@ -88,22 +122,6 @@ KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO ANY COASTAL RADIO STATION.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101009Z MAY 26
-HYDROLANT 923/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-24.00S 055-20.40W.
-   B. A84, 72-50.40S 107-12.60W.
-   C. A85, 67-43.80S 057-19.20W.
-   D. D33A, 64-46.20S 057-19.80W.
-   E. D33C, 65-12.60S 057-43.20W.
-2. CANCEL THIS MSG 111400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100058Z MAY 26
@@ -112,7 +130,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. UNDERWATER OPERATIONS 0600Z TO 1800Z DAILY
    IN PROGRESS UNTIL 21 MAY
-   BY M/V SDSV SISTAC ESPERANCA IN 23-30.92S 041-03.45W.
+   BY M/V SDSV SISTAC ESPERANCA
+   IN 23-30.92S 041-03.45W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 211900Z MAY 26.</msgText>
     </smapsActiveEntity>
@@ -416,22 +435,6 @@ BRAZIL.
    29-18.40S 046-11.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 120001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021511Z MAY 26
-HYDROLANT 873/26.
-IRISH SEA.
-ENGLAND.
-1. UNDERWATER OPERATIONS 
-   IN PROGRESS UNTIL FURTHER NOTICE 
-   BY M/V ZWERVER AND CABLESHIP NDEAVOR
-   IN AREA BOUND BY
-   53-35.50N 003-35.80W, 53-35.50N 003-26.80W,
-   53-29.50N 003-34.20W, 53-29.50N 003-35.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 834/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>

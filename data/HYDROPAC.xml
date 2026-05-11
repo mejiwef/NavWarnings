@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111701Z MAY 26
+HYDROPAC 1384/26.
+ARABIAN SEA.
+1. HAZARDOUS OPERATIONS 120900Z TO 121445Z MAY
+   IN AREA BOUND BY
+   16-09.00N 071-40.00E, 16-09.00N 071-45.00E,
+   16-14.00N 071-45.00E, 16-14.00N 071-40.00E.
+2. CANCEL THIS MSG 121545Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>111544Z MAY 26
+HYDROPAC 1383/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E MF, HF, AND DSC SERVICES 
+   OFF AIR 121630Z TO 122000Z MAY.
+2. CANCEL THIS MSG 122100Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>111515Z MAY 26
+HYDROPAC 1382/26.
+ARABIAN SEA.
+INDIA.
+1. DERELICT M/V GAUTAM ADRIFT 
+   IN VICINITY 22-10.51N 068-07.18E.
+2. CANCEL THIS MSG 141515Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111246Z MAY 26
@@ -38,7 +73,7 @@ FURTHER NOTICE BY M/V FUGRO KWILENA
 IN AREA BOUND BY
 19-30.00S 115-41.37E, 19-30.00S 116-38.48E,
 19-50.00S 116-38.48E, 19-50.00S 115-41.37E.
-2 MILE BERTH REQUESTED.</msgText>
+TWO MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -467,19 +502,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>051236Z MAY 26
-HYDROPAC 1331/26.
-SOUTH CHINA SEA.
-PHILIPPINES.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL
-   111600Z MAY IN AREA BOUND BY
-   14-09.67N 119-23.77E, 14-09.67N 119-39.15E,
-   14-24.64N 119-39.15E, 14-24.64N 119-23.77E.
-2. CANCEL THIS MSG 111700Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
