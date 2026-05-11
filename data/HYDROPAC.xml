@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110109Z MAY 26
+HYDROPAC 1380/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 120500Z TO
+   120830Z MAY IN AREA BOUND BY
+   35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
+   36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
+2. CANCEL THIS MSG 120930Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101612Z MAY 26
@@ -236,18 +249,6 @@ INDIA.
 2. CANCEL THIS MSG 131200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>080651Z MAY 26
-HYDROPAC 1360/26.
-INDIAN OCEAN.
-SOMALIA.
-1. M/V EUREKA HIJACKED IN 09-50.00N 050-54.00E. 
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 110653Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>080614Z MAY 26
@@ -260,22 +261,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>080008Z MAY 26
-HYDROPAC 1358/26.
-SOUTH CHINA SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   102200Z TO 110400Z MAY IN AREAS BOUND BY:
-   A. 15-16.00N 115-49.00E, 15-40.00N 116-12.00E,
-      14-46.00N 117-14.00E, 14-22.00N 116-52.00E.
-   B. 14-49.00N 117-14.00E, 14-24.00N 117-44.00E,
-      13-56.00N 117-17.00E, 14-21.00N 116-49.00E.
-   C. 14-23.00N 117-48.00E, 13-55.00N 118-21.00E,
-      13-23.00N 117-51.00E, 13-52.00N 117-18.00E.
-2. CANCEL THIS MSG 110500Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>

@@ -387,19 +387,6 @@ ENGLAND.
 2. CANCEL HYDROLANT 834/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020011Z MAY 26
-HYDROLANT 869/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   110300Z MAY BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
         <status>INFORCE</status>
         <msgText>011823Z MAY 26
