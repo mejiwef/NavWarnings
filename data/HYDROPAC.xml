@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121158Z MAY 26
+HYDROPAC 1391/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS 13 THRU 31 MAY BY 
+   M/V FUGRO MAPPER IN AREAS BOUND BY:
+A. 20-28.83N 071-13.96E, 20-27.62N 072-27.79E,
+   20-00.87N 072-27.20E, 20-02.05N 071-13.58E.
+B. 19-41.07N 071-06.86E, 19-40.69N 071-36.43E,
+   19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
+C. 19-24.28N 071-55.82E, 19-23.94N 072-16.01E,
+   19-08.52N 072-15.70E, 19-08.86N 071-55.54E.
+D. 18-36.49N 072-10.51E, 18-36.34N 072-19.25E,
+   18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 311930Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>121129Z MAY 26
+HYDROPAC 1390/26.
+EASTERN INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   150300Z TO 150900Z MAY IN AREA BOUND BY
+   10-46.00S 092-09.00E, 10-50.00S 092-42.00E,
+   16-11.00S 091-59.00E, 16-07.00S 091-25.00E.
+2. CANCEL THIS MSG 151000Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>110744Z MAY 26
+HYDROPAC 1389/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   170556Z TO 201430Z MAY 
+   IN AREA BOUND BY
+   33-15.91S 133-00.70E, 33-08.17S 133-54.05E,
+   31-47.60S 133-28.93E, 31-56.33S 132-33.82E.
+2. CANCEL THIS MSG 201530Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>120436Z MAY 26
@@ -102,19 +148,6 @@ NORTH PACIFIC.
 2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110109Z MAY 26
-HYDROPAC 1380/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS 120500Z TO
-   120830Z MAY IN AREA BOUND BY
-   35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
-   36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
-2. CANCEL THIS MSG 120930Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101612Z MAY 26
@@ -191,18 +224,6 @@ SAUDI ARABIA.
    21-13.24N 038-58.30E, 21-13.30N 039-06.12E,
    21-05.35N 039-07.00E, 21-06.00N 038-58.30E.
 2. CANCEL THIS MSG 211600Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>091143Z MAY 26
-HYDROPAC 1369/26.
-EASTERN INDIAN OCEAN.
-SOMALIA.
-1. M/V POSSIBLY HIJACKED IN 00-13.00S 044-18.00E
-   ON 09 MAY. VESSELS ARE ADVISED TO KEEP CLEAR
-   OF THIS POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 121143Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -732,22 +753,6 @@ INDIA.
    19-22.03N 072-02.03E, 20-20.03N 072-07.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301034Z APR 26
-HYDROPAC 1278/26.
-ARABIAN SEA.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND 
-   0930Z TO 1130Z DAILY 04 THRU 12 MAY.
-   IN AREA BOUND BY
-   15-50.06N 072-09.97E, 16-15.06N 072-44.97E,
-   16-05.06N 073-06.97E, 14-03.08N 074-04.95E,
-   13-34.08N 073-09.95E, 15-50.08N 072-09.95E.
-2.CANCEL THIS MSG 121230Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
