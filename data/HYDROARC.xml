@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>121820Z MAY 26
+HYDROARC 58/26.
+CANCEL HYDROARC 57/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
         <status>INFORCE</status>
         <msgText>081819Z MAY 26
