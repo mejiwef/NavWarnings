@@ -132,17 +132,6 @@ WIDE BERTH REQUESTED.</msgText>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>062153Z MAY 26
-NAVAREA XII 323/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 111600Z TO 111900Z MAY
-   IN AREA WITHIN 27 MILES OF 33-21.80N 120-08.08W.
-2. CANCEL THIS MSG 112000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>062141Z MAY 26
 NAVAREA XII 322/26.
 NORTH PACIFIC.
