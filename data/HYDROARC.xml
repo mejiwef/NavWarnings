@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>131245Z MAY 26
+HYDROARC 62/26.
+NORWEGIAN SEA.
+NORWAY.
+1. HAZARDOUS OPERATIONS 1600Z TO 0300Z
+   DAILY UNTIL 14 MAY IN AREA BOUND BY
+   69-09.00N 016-45.10E, 69-09.00N 016-15.10E,
+   69-33.20N 016-15.10E, 69-35.00N 016-04.00E,
+   69-55.00N 016-43.00E, 69-44.00N 017-28.00E,
+   69-25.80N 016-49.00E, 69-17.00N 016-51.00E.
+2. CANCEL HYDROARC 59/26.
+3. CANCEL THIS MSG 150400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>130128Z MAY 26
 HYDROARC 61/26.
 NORWEGIAN SEA.
@@ -13,21 +29,6 @@ NORWAY.
    57-30.00N 012-00.00E, 57-30.00N 008-00.00W.
 2. CANCEL HYDROARC 60/26.
 3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121856Z MAY 26
-HYDROARC 59/26.
-NORWEGIAN SEA.
-NORWAY.
-1. HAZARDOUS OPERATIONS 1600Z TO 0300Z
-   DAILY UNTIL 14 MAY IN AREA BOUND BY
-   69-09.00N 016-45.10E, 69-09.00N 016-15.10E,
-   69-33.20N 016-15.10E, 69-35.00N 016-04.00E,
-   69-55.00N 016-43.00E, 69-44.00N 017-28.00E,
-   69-25.80N 016-49.00E, 69-17.00N 016-51.00E.
-2. CANCEL THIS MSG 140400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>131828Z MAY 26
+HYDROLANT 946/26.
+NORTH ATLANTIC.
+MOROCCO.
+EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131734Z MAY 26
+HYDROLANT 945/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN:
+   A. A76, 57-32.00S 035-08.00W.
+   B. 49-08.00S 027-00.00W.
+   C. 45-57.00S 026-30.00W.
+2. CANCEL THIS MSG 141734Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>131108Z MAY 26
@@ -66,19 +88,6 @@ BRAZIL.
 1. MUNDAU LIGHT 03-10.58S 039-21.72W UNLIT
    UNTIL 082025Z NOV.
 2. CANCEL THIS MSG 082125Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121433Z MAY 26
-HYDROLANT 937/26(23, 29).
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 57-32.00S 035-08.00W.
-   B. 49-08.00S 027-00.00W.
-   C. 46-01.00S 026-35.00W.
-2. CANCEL THIS MSG 131433Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
