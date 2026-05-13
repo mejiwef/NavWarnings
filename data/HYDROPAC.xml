@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>130655Z MAY 26
+HYDROPAC 1402/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0500Z TO 0900Z DAILY 18 MAY THRU 05 JUN
+   IN AREA BOUND BY
+   33-08.44S 162-43.16W, 41-22.39S 142-30.17W,
+   42-23.19S 143-00.53W, 34-06.17S 163-19.10W.
+2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>130620Z MAY 26
+HYDROPAC 1400/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+CAPE BRETT LIGHT 35-10.51S 174-19.96E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MEDEVAC</category>
+        <status>INFORCE</status>
+        <msgText>130606Z MAY 26
+HYDROPAC 1399/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V QB 91435 TS REPORTS CREWMAN REQUIRING
+MEDICAL ASSISTANCE IN 16-03.00N 109-50.00E 
+AT 130343Z MAY. VESSELS IN VICINITY ABLE 
+TO PROVIDE MEDICAL ASSISTANCE REQUESTED 
+TO ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130400Z MAY 26
+HYDROPAC 1398/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1330Z TO 1930Z 
+   DAILY 18 AND 20 MAY IN AREA BOUND BY
+   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
+   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
+2. CANCEL HYDROPAC 1371/26.
+3. CANCEL THIS MSG 202030Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121628Z MAY 26
@@ -84,20 +136,6 @@ EASTERN INDIAN OCEAN.
    10-46.00S 092-09.00E, 10-50.00S 092-42.00E,
    16-11.00S 091-59.00E, 16-07.00S 091-25.00E.
 2. CANCEL THIS MSG 151000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110744Z MAY 26
-HYDROPAC 1389/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   170556Z TO 201430Z MAY 
-   IN AREA BOUND BY
-   33-15.91S 133-00.70E, 33-08.17S 133-54.05E,
-   31-47.60S 133-28.93E, 31-56.33S 132-33.82E.
-2. CANCEL THIS MSG 201530Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -203,19 +241,6 @@ IN 19-43.00S 115-48.90E.
 ONE MILE  BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>092014Z MAY 26
-HYDROPAC 1374/26.
-SOUTH CHINA SEA.
-F/V QNA 91117 TS, 57 PERSONS ON BOARD,
-FLOODING AND SINKING IN 12-19.00N 115-10.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091547Z MAY 26
@@ -227,19 +252,6 @@ CHILE.
    36-17.50S 073-19.50W, 36-32.00S 073-19.50W,
    36-32.00S 073-39.50W.
 2. CANCEL THIS MSG 132300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091533Z MAY 26
-HYDROPAC 1371/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1330Z TO 1930Z
-   DAILY 14 AND 15 MAY IN AREA BOUND BY  
-   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
-   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
-2. CANCEL THIS MSG 152030Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

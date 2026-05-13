@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>130128Z MAY 26
+HYDROARC 61/26.
+NORWEGIAN SEA.
+NORWAY.
+1. HAZARDOUS OPERATIONS 180001Z TO 292359Z MAY
+   IN AREA BOUND BY
+   65-30.00N 008-00.00W, 65-30.00N 012-00.00E,
+   57-30.00N 012-00.00E, 57-30.00N 008-00.00W.
+2. CANCEL HYDROARC 60/26.
+3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>121856Z MAY 26
 HYDROARC 59/26.
 NORWEGIAN SEA.
