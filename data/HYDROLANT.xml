@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131108Z MAY 26
+HYDROLANT 944/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-06.60S 055-18.00W.
+   B. A84, 72-57.60S 107-49.20W.
+   C. A85, 67-27.00S 057-14.40W.
+   D. D33A, 64-42.00S 057-18.60W.
+   E. D33C, 65-04.20S 057-21.00W.
+2. CANCEL THIS MSG 141108Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>130348Z MAY 26
@@ -63,22 +79,6 @@ SOUTH ATLANTIC.
    B. 49-08.00S 027-00.00W.
    C. 46-01.00S 026-35.00W.
 2. CANCEL THIS MSG 131433Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121055Z MAY 26
-HYDROLANT 936/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-06.60S 055-18.00W.
-   B. A84, 72-57.60S 107-49.20W.
-   C. A85, 67-27.00S 057-14.40W.
-   D. D33A, 64-42.00S 057-18.60W.
-   E. D33C, 65-04.20S 057-21.00W.
-2. CANCEL THIS MSG 131055Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -356,19 +356,6 @@ TURKEY.
    41-41.93N 028-06.12E, 41-46.98N 028-04.25E,
    41-50.00N 028-02.18E.
 2. CANCEL THIS MSG 140800Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061212Z MAY 26
-HYDROLANT 893/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0700Z TO 1100Z DAILY
-   12 AND 13 MAY IN AREA BOUND BY
-   44-15.00N 029-30.00E, 44-05.00N 029-30.00E,
-   44-05.00N 029-08.00E, 44-15.00N 029-08.00E.
-2. CANCEL THIS MSG 131200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
