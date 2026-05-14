@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>132243Z MAY 26
+HYDROPAC 1414/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E BROADCAST SERVICES
+   UNRELIABLE 151400Z TO 151800Z MAY.
+2. CANCEL THIS MSG 151900Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>131650Z MAY 26
@@ -383,19 +395,6 @@ ONE MILE  BERTH REQUESTED.</msgText>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091547Z MAY 26
-HYDROPAC 1372/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 131600Z TO 132200Z
-   MAY IN AREA BOUND BY 36-17.50S 073-39.50W,
-   36-17.50S 073-19.50W, 36-32.00S 073-19.50W,
-   36-32.00S 073-39.50W.
-2. CANCEL THIS MSG 132300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091516Z MAY 26
 HYDROPAC 1370/26.
 RED SEA.
@@ -405,18 +404,6 @@ SAUDI ARABIA.
    21-13.24N 038-58.30E, 21-13.30N 039-06.12E,
    21-05.35N 039-07.00E, 21-06.00N 038-58.30E.
 2. CANCEL THIS MSG 211600Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>090404Z MAY 26
-HYDROPAC 1368/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E MF, HF, AND DSC SERVICES 
-   UNRELIABLE 131800Z TO 132030Z MAY.
-2. CANCEL THIS MSG 132130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -927,21 +914,6 @@ IN AREA BOUND BY
 ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290115Z APR 26
-HYDROPAC 1266/26.
-EASTERN INDIAN OCEAN.
-TIMOR SEA.
-AUSTRALIA.
-SURVEY OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V SHARK 1
-IN AREA BOUND BY
-12-30.00S 126-00.00E, 12-50.00S 126-00.00E,
-12-50.00S 124-00.00E, 12-30.00S 124-00.00E.
-TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281047Z APR 26
@@ -1017,16 +989,6 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL THIS MSG 311000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>250835Z APR 26
-HYDROPAC 1243/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-EIGHT BUOYS, YELLOW, FL W 3 SEC, ESTABLISHED IN VICINITY 
-38-53.49S 142-52.95E. THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -1327,30 +1289,6 @@ INDIA.
    20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131249Z APR 26
-HYDROPAC 1104/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 15 APR THRU 13 MAY 26
-   BY TUG MARIGOLD AND BARGE AQUA FLOAT
-   IN AREAS BOUND BY:
-   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
-      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
-   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
-      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
-   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
-      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
-   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
-      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
-   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
-      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 140001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
