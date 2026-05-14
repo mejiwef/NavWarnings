@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141346Z MAY 26
+HYDROLANT 950/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-06.60S 055-18.00W.
+   B. A84, 72-57.60S 107-49.20W.
+   C. A85, 67-27.00S 057-14.40W.
+   D. D33A, 64-42.00S 057-18.60W.
+   E. D33C, 65-04.20S 057-21.00W.
+2. CANCEL THIS MSG 151346Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141333Z MAY 26
+HYDROLANT 949/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN:
+   A. A76C, 57-37.00S 034-43.00W.
+   B. 49-38.00S 027-08.00W.
+   C. 45-52.00S 026-31.00W.
+2. CANCEL THIS MSG 151333Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141257Z MAY 26
+HYDROLANT 948/26.
+BLACK SEA.
+ROMANIA.
+1. SURVEY OPERATIONS 180300Z TO 291930Z MAY
+   IN AREA BOUND BY
+   43-44.99N 028-40.41E, 43-57.39N 028-48.20E,
+   43-57.86N 028-55.21E, 43-55.20N 030-10.42E,
+   43-48.23N 030-30.19E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 292030Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>141035Z MAY 26
@@ -24,19 +68,6 @@ HYDROLANT 946/26.
 NORTH ATLANTIC.
 MOROCCO.
 EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131734Z MAY 26
-HYDROLANT 945/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN:
-   A. A76, 57-32.00S 035-08.00W.
-   B. 49-08.00S 027-00.00W.
-   C. 45-57.00S 026-30.00W.
-2. CANCEL THIS MSG 141734Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -88,19 +119,6 @@ BRAZIL.
 1. MUNDAU LIGHT 03-10.58S 039-21.72W UNLIT
    UNTIL 082025Z NOV.
 2. CANCEL THIS MSG 082125Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>111817Z MAY 26
-HYDROLANT 934/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. DERELICT VESSEL ADRIFT IN VICINITY
-   33-35.00N 009-10.00W AT 111400Z MAY.
-   REPORTS TO NAVAREA II,
-   E-MAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 141817Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
