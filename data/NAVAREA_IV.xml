@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>111431Z MAY 26
+NAVAREA IV 447/26.
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0254Z TO 0501Z DAILY 19 MAY THRU 18 JUN 
+   IN AREA BOUND BY
+   05-50.55N 052-47.95W, 05-50.55N 052-41.80W,
+   05-12.60N 052-40.98W, 05-23.46N 052-53.80W.
+2. CANCEL THIS MSG 180601Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>132243Z MAY 26

@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>140447Z MAY 26
+HYDROPAC 1421/26.
+SOUTH PACIFIC.
+PERU.
+1. DERELICT F/V JESUCRISTO EL VICTORIOSO 
+   PARTIALLY SUBMERGED AND ADRIFT IN 
+   VICINITY 12-36.83S 076-59.61W AT 
+   140021Z MAY.
+2. CANCEL THIS MSG 170445Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>110303Z MAY 26
+HYDROPAC 1420/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0354Z TO 0840Z DAILY 19 THRU 25 MAY
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 250940Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130931Z MAY 26
+HYDROPAC 1419/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 19 THRU 21 MAY IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 211400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140059Z MAY 26
+HYDROPAC 1416/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 181600Z TO 182200Z MAY
+   IN AREA BOUND BY
+   36-17.50S 073-39.50W, 36-17.50S 073-19.50W,
+   36-32.00S 073-19.50W, 36-32.00S 073-39.50W.
+2. CANCEL THIS MSG 182300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140053Z MAY 26
+HYDROPAC 1415/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 171800Z TO 172000Z MAY
+   IN AREA BOUND BY
+   26-04.50S 071-36.00W, 26-05.50S 071-25.00W,
+   26-30.50S 071-28.00W, 26-29.50S 071-39.00W.
+2. CANCEL THIS MSG 172100Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>132243Z MAY 26
@@ -173,21 +241,6 @@ SOUTH PACIFIC.
 NEW ZEALAND.
 CAPE BRETT LIGHT 35-10.51S 174-19.96E
 UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MEDEVAC</category>
-        <status>INFORCE</status>
-        <msgText>130606Z MAY 26
-HYDROPAC 1399/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V QB 91435 TS REPORTS CREWMAN REQUIRING
-MEDICAL ASSISTANCE IN 16-03.00N 109-50.00E 
-AT 130343Z MAY. VESSELS IN VICINITY ABLE 
-TO PROVIDE MEDICAL ASSISTANCE REQUESTED 
-TO ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1359,16 +1412,6 @@ INDIA.
       18-27.09N 071-11.82E, 18-44.37N 071-10.90E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z MAY 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCK</category>
-        <status>INFORCE</status>
-        <msgText>292320Z MAR 26
-HYDROPAC 958/26.
-BASS STRAIT.
-AUSTRALIA.
-UNCHARTERED ROCK REPORTED IN 39-26.28S 147-22.64E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
