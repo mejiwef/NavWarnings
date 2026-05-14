@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141035Z MAY 26
+HYDROLANT 947/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0500Z TO 1400Z
+   DAILY 18 THRU 29 MAY IN AREAS BOUND BY:
+   A. 43-47.91N 028-36.04E, 43-46.72N 028-38.00E,
+      43-53.96N 028-46.04E, 43-55.92N 028-47.26E,
+      43-52.96N 028-36.55E.
+   B. 43-47.39N 028-35.31E, 43-47.38N 028-36.14E,
+      43-46.98N 028-35.89E, 43-47.35N 028-34.87E.
+2. CANCEL THIS MSG 291500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>131828Z MAY 26
@@ -21,22 +37,6 @@ SOUTH ATLANTIC.
    B. 49-08.00S 027-00.00W.
    C. 45-57.00S 026-30.00W.
 2. CANCEL THIS MSG 141734Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131108Z MAY 26
-HYDROLANT 944/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-06.60S 055-18.00W.
-   B. A84, 72-57.60S 107-49.20W.
-   C. A85, 67-27.00S 057-14.40W.
-   D. D33A, 64-42.00S 057-18.60W.
-   E. D33C, 65-04.20S 057-21.00W.
-2. CANCEL THIS MSG 141108Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -345,26 +345,6 @@ BRAZIL.
    UNLIT UNTIL 02 NOV.
 2. CANCEL HYDROLANT 897/26.
 3. CANCEL THIS MSG 030001Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061332Z MAY 26
-HYDROLANT 894/26.
-BLACK SEA.
-TURKEY.
-1. HAZARDOUS OPERATIONS 0530Z TO 0700Z DAILY
-   12 THRU 14 MAY IN AREA BOUND BY
-   41-58.20N 028-01.67E, 41-58.53N 028-19.12E,
-   42-06.97N 029-00.18E, 42-32.33N 030-04.50E,
-   42-36.12N 030-24.13E, 42-37.25N 030-59.85E,
-   42-37.33N 031-54.22E, 42-00.43N 031-54.27E,
-   41-41.35N 030-59.65E, 41-44.32N 029-49.15E,
-   41-43.78N 028-56.77E, 41-45.42N 028-50.20E,
-   41-45.40N 028-43.00E, 41-41.67N 028-16.08E,
-   41-41.93N 028-06.12E, 41-46.98N 028-04.25E,
-   41-50.00N 028-02.18E.
-2. CANCEL THIS MSG 140800Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
