@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>150712Z MAY 26
+NAVAREA IV 451/26.
+CARIBBEAN SEA.
+VENEZUELA.
+PUNTA PALANQUETE LIGHT 10-49.90N 064-12.60W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>142017Z MAY 26
