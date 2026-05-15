@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>142329Z MAY 26
+HYDROPAC 1434/26.
+TIMOR SEA.
+AUSTRALIA.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V SHARK 1
+ALONG TRACKLINE JOINING
+12-19.50S 130-39.90E, 12-15.10S 130-12.20E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>141444Z MAY 26
@@ -1330,24 +1343,6 @@ AUSTRALIA.
 SIX METER PARTIALLY SUBMERGED VESSEL
 IN VICINITY 16-54.52S 145-57.93E AT 
 202317Z APR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210739Z APR 26
-HYDROPAC 1188/26.
-CORAL SEA.
-TASMAN SEA.
-AUSTRALIA.
-CABLE OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY CABLESHIP DEPENDABLE
-WITHIN TEN MILES ALONG TRACKLINE JOINING
-34-21.00S 151-38.00E, 35-00.00S 153-30.00E,
-34-33.00S 154-26.00E, 34-13.00S 154-24.00E,
-33-57.00S 155-03.00E, 32-54.00S 155-34.00E,
-30-50.00S 155-37.00E, 29-47.00S 156-58.00E,
-28-52.00S 157-19.00E.
-TWO MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
