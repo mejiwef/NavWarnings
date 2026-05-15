@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>151529Z MAY 26
+HYDROARC 66/26.
+1. HYDROARC WARNINGS IN FORCE AS OF 151526Z MAY.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   61/2026, 55/2026, 4/2026.
+   180/2025, 178/2025, 175/2025, 148/2025, 145/2025,
+   103/2025.
+   283/2024.
+   163/2023.
+   198/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   msi.nga.mil/NavWarnings.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROARC 56/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130128Z MAY 26
