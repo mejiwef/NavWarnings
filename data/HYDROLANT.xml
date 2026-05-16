@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>160354Z MAY 26
+HYDROLANT 958/26.
+SOUTH ATLANTIC.
+BRAZIL.
+CANCEL HYDROLANT 899/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160345Z MAY 26
+HYDROLANT 957/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 260300Z MAY BY M/V SISTAC VITORIA
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO BEACON</category>
+        <status>INFORCE</status>
+        <msgText>160135Z MAY 26
+HYDROLANT 956/26.
+SOUTH ATLANTIC.
+BRAZIL.
+RADIOBEACON AT CHUI LIGHT 33-44.6S 053-22.5W
+OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>152023Z MAY 26
@@ -118,20 +150,6 @@ HYDROLANT 946/26.
 NORTH ATLANTIC.
 MOROCCO.
 EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>130348Z MAY 26
-HYDROLANT 943/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. METAL OBJECT ADRIFT IN VICINITY 
-   02-27.49S 040-22.41W AT 111500Z MAY.
-   REPORTS TO SALVAMAR NORDESTE, 
-   PHONE: 5584 3216 3009, 
-   E-MAIL: MRCCNATAL@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 160310Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
