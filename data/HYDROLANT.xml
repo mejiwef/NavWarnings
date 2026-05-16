@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161356Z MAY 26
+HYDROLANT 960/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-24.00S 033-29.00W.
+   B. 49-37.00S 026-54.00W.
+   C. 45-43.00S 026-33.00W.
+2. CANCEL THIS MSG 171356Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161350Z MAY 26
+HYDROLANT 959/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-06.60S 055-18.00W.
+   B. A84, 72-57.60S 107-49.20W.
+   C. A85, 67-27.00S 057-14.40W.
+   D. D33A, 64-42.00S 057-18.60W.
+   E. D33C, 65-04.20S 057-21.00W.
+2. CANCEL THIS MSG 171350Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>160354Z MAY 26
@@ -81,35 +110,6 @@ HYDROLANT 954/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 701/26, 860/26, 914/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151239Z MAY 26
-HYDROLANT 953/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN:
-   A. A76C, 58-33.00S 034-11.00W.
-   B. 49-37.00S 026-54.00W.
-   C. 45-45.00S 026-34.00W.
-2. CANCEL THIS MSG 161239Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151231Z MAY 26
-HYDROLANT 952/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-06.60S 055-18.00W.
-   B. A84, 72-57.60S 107-49.20W.
-   C. A85, 67-27.00S 057-14.40W.
-   D. D33A, 64-42.00S 057-18.60W.
-   E. D33C, 65-04.20S 057-21.00W.
-2. CANCEL THIS MSG 161231Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

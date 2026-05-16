@@ -790,20 +790,6 @@ SAUDI ARABIA.
 2. CANCEL THIS MSG 211600Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081203Z MAY 26
-HYDROPAC 1364/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0130Z TO 1430Z
-   DAILY 13 THRU 16 MAY IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 161530Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>080614Z MAY 26

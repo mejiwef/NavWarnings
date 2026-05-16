@@ -23,16 +23,6 @@ FLORIDA.
 2. CANCEL THIS MSG 271342Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>160017Z MAY 26
-NAVAREA IV 458/26.
-DAVIS STRAIT.
-CANADA.
-NAVTEX STATION IQALUIT (T) 63-43.86N 068-32.50W
-OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>152318Z MAY 26
