@@ -582,21 +582,6 @@ INDIA.
 2. CANCEL THIS MSG 311238Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>131023Z MAY 26
-HYDROPAC 1406/26.
-SINGAPORE STRAIT.
-SINGAPORE.
-1. M/V BOARDED BY ARMED PIRATE IN
-   01-03.05N 103-38.06E AT 121730Z MAY
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-   REPORTS TO IMB, PHONE: 603 2031 0014
-   E-MAIL: IMBKL@ICC-CCS.ORG, PIRACY@ICC-CCS.ORG.  
-2. CANCEL THIS MSG 161028Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130946Z MAY 26
@@ -608,21 +593,6 @@ GUAM.
    DAILY 17 THRU 21 MAY IN 
    13-33.88N 144-26.41E.
 2. CANCEL THIS MSG 220800Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>130922Z MAY 26
-HYDROPAC 1404/26.
-SOUTH CHINA SEA.
-F/V BD 91052 TS, 12 PERSONS ON BOARD,
-DISABLED AND ADRIFT DUE TO ENGINE 
-FAILURE IN 08-03.00N 109-58.00E AT 
-130605Z MAY. VESSELS IN VICINITY 
-REQUESTED TO KEEP A SHARP LOOKOUT, 
-ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -681,19 +651,6 @@ OMAN.
    14-25.17N 057-25.35E, 14-21.10N 057-34.14E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>121410Z MAY 26
-HYDROPAC 1393/26(71).
-SOUTH CHINA SEA.
-INDONESIA.
-1. GUNNERY EXERCISES 160100Z TO 160600Z 
-   MAY IN AREA BOUND BY
-   03-40.50N 107-35.66E, 03-40.00N 107-45.68E,
-   03-30.00N 107-45.68E, 03-30.00N 107-35.66E.
-2. CANCEL THIS MSG 160700Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
