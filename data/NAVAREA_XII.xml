@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>152240Z MAY 26
+NAVAREA XII 347/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1700Z TO 2230Z 
+   DAILY 19 AND 20 MAY IN AREA BOUND BY
+   33-15.00N 121-55.00W, 33-14.00N 122-22.00W,
+   34-29.00N 123-00.00W, 34-04.00N 120-52.00W.
+2. CANCEL THIS MSG 202330Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>151703Z MAY 26
@@ -102,19 +115,6 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 191500Z TO 200200Z MAY
    IN AREA WITHIN ONE MILE OF 33-01.81N 118-35.23W.
 2. CANCEL THIS MSG 200300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>132243Z MAY 26
-NAVAREA XII 340/26.
-NORTH PACIFIC.
-1. BROADCAST SERVICES UNRELIABLE
-   151400Z TO 151800Z MAY AT
-   USCG REMOTE COMMUNICATION FACILITIES:
-   A. ASTORIA  46-10.00N 123-49.00W.
-   B. CAMBRIA  35-31.00N 121-06.00W.
-2. CANCEL THIS MSG 151900Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

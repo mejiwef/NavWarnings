@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>152023Z MAY 26
+HYDROLANT 955/26.
+SOUTH ATLANTIC.
+ANGOLA.
+DNC 01.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V RAMFORM VICTORY
+   TOWING ONE SEVEN MILE LONG CABLE
+   IN AREA BOUND BY 05-54.20S 010-31.90E,
+   08-22.80S 011-10.70E, 08-39.50S 009-20.30E,
+   06-36.80S 008-53.10E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 277/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>151539Z MAY 26
@@ -771,24 +788,6 @@ NORTH ATLANTIC.
 BRAZIL.
 DNC 01.
 DANGEROUS WRECK IN 00-24.48N 047-50.68W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090533Z FEB 26
-HYDROLANT 277/26(57).
-SOUTH ATLANTIC.
-ANGOLA.
-DNC 01.
-SURVEY OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V RAMFORM VICTORY
-TOWING ONE 10460 METER LONG CABLE
-IN AREA BOUND BY
-08-11.57S 011-52.58E, 15-37.21S 011-56.17E,
-16-48.44S 010-44.03E, 16-49.01S 010-01.31E,
-08-16.05S 009-30.26E.
-EIGHT MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

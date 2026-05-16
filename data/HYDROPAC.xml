@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>152056Z MAY 26
+HYDROPAC 1448/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V BHAGWAN DRYDEN
+IN 21-42.28S 114-47.60E.
+ONE WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>151703Z MAY 26
@@ -463,18 +475,6 @@ CHILE.
    26-04.50S 071-36.00W, 26-05.50S 071-25.00W,
    26-30.50S 071-28.00W, 26-29.50S 071-39.00W.
 2. CANCEL THIS MSG 172100Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>132243Z MAY 26
-HYDROPAC 1414/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E BROADCAST SERVICES
-   UNRELIABLE 151400Z TO 151800Z MAY.
-2. CANCEL THIS MSG 151900Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -1093,19 +1093,6 @@ INDIA.
 2. CANCEL THIS MSG 201130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301218Z APR 26
-HYDROPAC 1282/26.
-ARABIAN SEA.
-INDIA.
-1. UNDERWATER OPERATIONS 01 THRU 15 MAY 
-   BY TUG AHT BRITOIL 71 AND M/V LTS 3000.
-   IN VICINITY 19-31.78N 071-18.15E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301050Z APR 26
@@ -1205,25 +1192,6 @@ IN AREA BOUND BY
 33-56.00S 153-21.00E, 37-19.00S 153-21.00E,
 37-19.00S 151-15.00E, 33-56.00S 151-15.00E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281047Z APR 26
-HYDROPAC 1264/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 30 APR THRU 15 MAY BY M/V AHTS ODETTE
-   IN AREAS BOUND BY:
-   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
-      19-09.06N 072-16.51E, 19-10.13N 071-02.57E.
-   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
-      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 151930Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -1374,22 +1342,6 @@ RACON AT LUHARA POINT LIGHT
 21-39.57N 072-32.89E INOPERATIVE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211226Z APR 26
-HYDROPAC 1193/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 22 APR THRU 15 MAY
-   BY VESSEL SEA VENTURE AND VESSEL SEA PATRIOT
-   IN AREA BOUND BY:
-   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>210858Z APR 26
@@ -1494,41 +1446,6 @@ ISLA MAGDALENA LIGHT 52-55.10S 070-30.30W
 MISSING.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151147Z APR 26
-HYDROPAC 1116/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 18 APR THRU 15 MAY
-   BY M/V POSH PANGLIMA, M/V POSH NATUNA
-   AND POSH ARCTURUS IN VICINITY OF: 
-   A. 20-18.97N 071-59.09E.
-   B. 20-10.38N 072-29.68E.
-   C. 19-19.61N 071-14.84E.
-   D. 19-21.01N 071-18.08E.
-   E. 19-31.77N 071-18.09E.
-   F. 19-34.40N 071-21.74E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151129Z APR 26
-HYDROPAC 1115/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 16 APR THRU 15 MAY
-   BY M/V WILCHIEF1 IN AREA BOUND BY
-   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>080748Z APR 26
@@ -1579,24 +1496,6 @@ UNDERWATER OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY M/V SKANDI SINGAPORE
 IN 20-07.71S 115-04.27E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300155Z MAR 26
-HYDROPAC 959/26.
-ARABIAN SEA.
-INDIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 15 MAY
-   BY M/V SEA STALLION AND M/V SEA MELODY
-   IN AREAS BOUND BY:
-   A. 20-00.08N 070-57.28E, 19-01.31N 070-48.76E,
-      19-07.56N 071-45.07E, 19-48.26N 071-37.66E.
-   B. 18-44.15N 070-47.46E, 18-26.51N 070-48.48E,
-      18-27.09N 071-11.82E, 18-44.37N 071-10.90E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z MAY 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
