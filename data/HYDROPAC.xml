@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171057Z MAY 26
+HYDROPAC 1459/26.
+BAY OF BENGAL.
+INDIA.
+1. SURVEY OPERATIONS 18 THRU 22 MAY
+   IN AREAS BOUND BY:
+   A. 17-47.00N 083-30.40E, 17-54.80N 083-39.40E,
+      17-52.80N 083-41.40E, 17-44.80N 083-32.40E.
+   B. 17-49.00N 083-48.20E, 17-52.60N 083-52.60E,
+      17-50.40N 083-54.80E, 17-46.60N 083-50.20E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 230001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>170843Z MAY 26
+HYDROPAC 1458/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0200Z TO 1100Z DAILY 22 MAY THRU 04 JUN
+   IN AREA BOUND BY
+   43-06.00S 164-42.00W, 43-54.00S 159-18.00W,
+   45-00.00S 159-36.00W, 44-18.00S 165-06.00W.
+2. CANCEL THIS MSG 041200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPECIAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170738Z MAY 26
+HYDROPAC 1457/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 0200Z TO 1100Z
+   DAILY 22 MAY THRU 04 JUN:
+   A. ROCKET LAUNCHING IN AREA BOUND BY
+      39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
+      39-10.50S 178-06.00E, 39-24.00S 178-42.00E,
+      39-42.00S 178-42.00E, 39-24.00S 177-42.00E,
+      39-18.00S 177-42.00E.
+   B. SPACE DEBRIS IN AREA BOUND BY
+      40-00.00S 177-42.00W, 41-30.00S 172-30.00W,
+      42-45.00S 173-15.00W, 41-06.00S 178-30.00W.
+2. CANCEL THIS MSG 041200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>170618Z MAY 26
