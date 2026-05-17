@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>170618Z MAY 26
+HYDROPAC 1455/26.
+SOUTH CHINA SEA.
+VIETNAM.
+MAN OVERBOARD FROM F/V BD 98259 TS
+IN 09-05.00N 106-36.00E AT 162100Z MAY.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170227Z MAY 26
+HYDROPAC 1454/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z
+   DAILY 19 THRU 25 MAY IN AREAS BOUND BY:
+   A. 16-38.00N 083-26.00E, 17-33.00N 084-27.00E,
+      15-29.00N 086-28.00E, 14-38.00N 085-34.00E,
+      15-31.00N 084-46.00E, 15-24.00N 084-38.00E.   
+   B. 17-58.90N 084-27.30E, 17-59.00N 083-56.00E,
+      17-50.00N 083-44.00E, 17-47.72N 084-13.59E.
+2. CANCEL HYDROPAC 1443/26.
+3. CANCEL THIS MSG 251130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130941Z MAY 26
+HYDROPAC 1453/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 222300Z TO 230200Z MAY
+   IN AREA BOUND BY
+   13-37.10N 144-30.65E, 13-38.23N 144-30.00E,
+   13-37.77N 144-29.28E, 13-36.90N 144-29.03E.
+2. CANCEL THIS MSG 230300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>141509Z MAY 26
+HYDROPAC 1452/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 22 THRU 28 MAY
+   IN AREA BOUND BY
+   42-28.00S 161-17.00W, 25-23.00S 156-56.00W,
+   26-03.00S 153-24.00W, 43-04.00S 157-03.00W,
+   59-49.00S 163-34.00W, 59-13.00S 168-58.00W.
+2. CANCEL THIS MSG 282129Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151218Z MAY 26
@@ -132,22 +191,6 @@ PERSIAN GULF.
 KUWAIT.
 LIGHT, VQ(6)+LFI 10 SEC
 IN 29-22.60N 048-23.43E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151424Z MAY 26
-HYDROPAC 1443/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z
-   DAILY 19 THRU 25 MAY IN AREAS BOUND BY:
-   A. 15-48.90N 083-16.60E, 17-34.80N 084-04.50E,
-      15-57.48N 085-44.05E, 15-57.48N 086-17.36E,
-      15-07.24N 086-17.36E, 15-03.50N 085-05.50E.
-   B. 17-58.90N 084-27.30E, 17-59.00N 083-56.00E,
-      17-50.00N 083-44.00E, 17-47.72N 084-13.59E.
-2. CANCEL THIS MSG 251130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -443,19 +486,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>140447Z MAY 26
-HYDROPAC 1421/26.
-SOUTH PACIFIC.
-PERU.
-1. DERELICT F/V JESUCRISTO EL VICTORIOSO 
-   PARTIALLY SUBMERGED AND ADRIFT IN 
-   VICINITY 12-36.83S 076-59.61W AT 
-   140021Z MAY.
-2. CANCEL THIS MSG 170445Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
