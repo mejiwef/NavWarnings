@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171400Z MAY 26
+HYDROLANT 965/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-28.00S 033-38.00W.
+   B. 49-37.00S 026-54.00W.
+   C. 45-40.00S 026-26.00W.
+2. CANCEL THIS MSG 181400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171350Z MAY 26
+HYDROLANT 964/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-03.60S 055-12.60W.
+   B. A84, 72-46.80S 107-10.80W.
+   C. A85, 67-30.00S 057-01.20W.
+   D. D33A, 64-42.60S 057-12.60W.
+   E. D33C, 65-09.00S 057-01.20W.
+2. CANCEL THIS MSG 181350Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171246Z MAY 26
+HYDROLANT 963/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS 18 THRU 25 MAY BY 
+   TUG C ITAJAI, M/V OCEAN MERMAID, 
+   M/V RAMFORM TITAN AND M/V DRS IPANEMA
+   TOWING 12 9000 METER LONG CABLES
+   IN AREA BOUND BY
+   29-30.21S 046-11.38W, 29-30.18S 046-26.19W,
+   30-03.21S 046-26.36W, 30-03.36S 046-56.33W,
+   30-18.35S 046-56.28W, 30-17.95S 048-28.19W,
+   30-06.69S 048-25.46W, 30-06.21S 048-17.71W,
+   30-03.07S 048-16.66W, 29-56.43S 048-18.41W,
+   29-31.45S 048-08.35W, 29-15.16S 048-06.49W,
+   29-10.05S 047-59.46W, 29-03.83S 047-56.90W,
+   28-59.58S 047-52.41W, 28-53.93S 047-52.17W,
+   28-42.84S 047-35.57W, 28-35.21S 047-34.17W,
+   28-35.25S 047-25.52W, 28-32.66S 047-22.67W,
+   28-07.86S 047-17.35W, 27-53.39S 047-19.68W,
+   27-53.32S 045-26.37W, 29-18.28S 045-26.16W,
+   29-18.40S 046-11.42W, 29-30.21S 046-11.38W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>170206Z MAY 26
@@ -23,35 +80,6 @@ SOUTH ATLANTIC.
 SOUTH AFRICA.
 CAPE TOWN RADIO 33-41.00S 018-43.00E
 HF DSC UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161356Z MAY 26
-HYDROLANT 960/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-24.00S 033-29.00W.
-   B. 49-37.00S 026-54.00W.
-   C. 45-43.00S 026-33.00W.
-2. CANCEL THIS MSG 171356Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161350Z MAY 26
-HYDROLANT 959/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-06.60S 055-18.00W.
-   B. A84, 72-57.60S 107-49.20W.
-   C. A85, 67-27.00S 057-14.40W.
-   D. D33A, 64-42.00S 057-18.60W.
-   E. D33C, 65-04.20S 057-21.00W.
-2. CANCEL THIS MSG 171350Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CANCEL MSG</category>
