@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>181048Z MAY 26
+HYDROPAC 1466/26.
+ARABIAN SEA.
+INDIA.
+1. NAVTEX STATION VENGURLA POINT (J)
+   15-51.31N 073-36.89E OFF AIR 
+   190330Z TO 201330Z MAY.
+2. CANCEL THIS MSG 201430Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181034Z MAY 26
+HYDROPAC 1465/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 
+   220001Z TO 261530Z MAY IN AREA BOUND BY
+   14-49.15N 073-20.39E, 14-16.00N 073-36.09E,
+   14-16.00N 074-25.00E, 13-46.00N 074-33.00E,
+   13-46.00N 073-23.14E, 13-44.00N 073-18.00E,
+   14-00.00N 072-26.00E, 14-33.00N 071-26.00E,
+   15-15.00N 070-18.00E, 16-15.00N 068-37.00E,
+   16-48.00N 069-33.00E, 17-23.00N 070-35.00E,
+   16-52.00N 071-33.00E, 16-24.00N 072-09.00E,
+   15-48.19N 072-48.21E, 14-56.00N 073-07.19E.
+2. CANCEL THIS MSG 261630Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181013Z MAY 26
+HYDROPAC 1464/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 220200Z TO 220730Z
+   AND 220930Z TO 221130Z MAY
+   IN AREA BOUND BY
+   10-46.42N 073-42.00E, 10-49.18N 073-42.00E,
+   10-49.18N 073-44.48E, 10-46.42N 073-44.48E.
+2. CANCEL THIS MSG 221230Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180917Z MAY 26
+HYDROPAC 1463/26.
+NORTH PACIFIC.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY CABLESHIP ANIEK
+   ALONG TRACKLINE JOINING
+   46-14.60N 168-19.40E, 46-34.40N 169-49.90E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1408/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>171551Z MAY 26
@@ -169,18 +228,6 @@ TASMAN SEA.
    53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
    41-36.00S 080-09.00E.
 2. CANCEL THIS MSG 271616Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152056Z MAY 26
-HYDROPAC 1448/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V BHAGWAN DRYDEN
-IN 21-42.28S 114-47.60E.
-ONE WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -602,21 +649,6 @@ PHILIPPINES.
    14-29.87N 119-30.07E, 14-29.87N 119-40.07E,
    14-39.87N 119-40.07E, 14-39.87N 119-30.07E.
 2. CANCEL THIS MSG 191700Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131315Z MAY 26
-HYDROPAC 1408/26.
-NORTH PACIFIC.
-CABLE OPERATIONS 131500Z MAY
-UNTIL FURTHER NOTICE
-BY M/V ANIEK ALONG TRACKLINE JOINING
-43-42.05N 160-41.27E, 44-18.19N 162-04.60E,
-44-18.90N 162-18.90E, 45-10.00N 164-35.60E,
-45-36.25N 166-00.00E, 45-44.00N 166-22.50E,
-45-46.80N 166-33.95E.
-WIDE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
