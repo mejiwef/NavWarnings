@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>181524Z MAY 26
+HYDROPAC 1468/26.
+GULF OF ADEN.
+SOMALIA.
+1. VESSEL REPORTS POSSIBLE PIRACY ACTIVITY 
+   IN 11-51.00N 049-10.00E.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL HYDROPAC 1444/26.
+3. CANCEL THIS MSG 211523Z MAY 26</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>181048Z MAY 26
@@ -303,16 +317,6 @@ INDIA.
    D. 20-20.13N 072-01.32E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>151444Z MAY 26
-HYDROPAC 1444/26.
-PERSIAN GULF.
-KUWAIT.
-LIGHT, VQ(6)+LFI 10 SEC
-IN 29-22.60N 048-23.43E.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>

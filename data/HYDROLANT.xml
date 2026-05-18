@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181407Z MAY 26
+HYDROLANT 970/26.
+NORTH ATLANTIC.
+WESTERN SAHARA.
+1. HAZARDOUS OPERATIONS 220001Z TO 222359Z MAY
+   IN AREA BOUND BY
+   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
+   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
+   23-55.07N 017-00.00W.
+2. CANCEL THIS MSG 230059Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>181353Z MAY 26
+HYDROLANT 969/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-02.00S 033-30.00W.
+   B. 49-37.00S 026-54.00W.
+2. CANCEL THIS MSG 191353Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>181302Z MAY 26
@@ -41,35 +67,6 @@ MEDICAL ASSISTANCE IN 01-54.00S 043-57.00W
 ON 17 MAY. VESSELS IN VICINITY ABLE TO PROVIDE 
 MEDICAL ASSISTANCE REQUESTED TO ASSIST IF POSSIBLE. 
 REPORTS TO ANY COASTAL RADIO STATION.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171400Z MAY 26
-HYDROLANT 965/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-28.00S 033-38.00W.
-   B. 49-37.00S 026-54.00W.
-   C. 45-40.00S 026-26.00W.
-2. CANCEL THIS MSG 181400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171350Z MAY 26
-HYDROLANT 964/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-03.60S 055-12.60W.
-   B. A84, 72-46.80S 107-10.80W.
-   C. A85, 67-30.00S 057-01.20W.
-   D. D33A, 64-42.60S 057-12.60W.
-   E. D33C, 65-09.00S 057-01.20W.
-2. CANCEL THIS MSG 181350Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -122,15 +119,6 @@ SOUTH ATLANTIC.
 SOUTH AFRICA.
 CAPE TOWN RADIO 33-41.00S 018-43.00E
 HF DSC UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>160354Z MAY 26
-HYDROLANT 958/26.
-SOUTH ATLANTIC.
-BRAZIL.
-CANCEL HYDROLANT 899/26 AND THIS MSG.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -453,17 +441,6 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. TAMANDARE LIGHT 08-45.57S 035-06.08W
    UNLIT UNTIL 02 NOV.
-2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>070113Z MAY 26
-HYDROLANT 899/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ODAS BUOY, YELLOW, FL Y  ESTABLISHED
-   IN 32-32.45S 052-05.03W UNTIL 02 NOV.
 2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
