@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>172146Z MAY 26
+NAVAREA XII 350/26.
+NORTH PACIFIC.
+HAWAII TO CANADA.
+36 FOOT S/V PAULINE CLAIRE, WHITE HULL
+WITH BLUE TRIM, UNREPORTED
+MAKAHA (21-28.70N 158-13.35W) TO
+BRITISH COLUMBIA (52-50.00N 129-30.00W)
+AT 171700Z MAY. VESSELS IN VICINITY REQUESTED
+TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO JRCC HONOLULU,
+PHONE: 800 331 6176,
+EMAIL: JRCCHONOLULU@USCG.MIL.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>111848Z MAY 26
