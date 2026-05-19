@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>191209Z MAY 26
+NAVAREA XII 354/26.
+NORTH PACIFIC.
+S/V ZORBA DISABLED AND ADRIFT 
+IN 13-10.51N 151-04.51W.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO JRCC HONOLULU,
+PHONE: 800 331 6176,
+EMAIL: JRCCHONOLULU@USCG.MIL.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181956Z MAY 26
@@ -137,22 +151,6 @@ COLOMBIA.
    02-01.72N 079-08.22W, 01-54.60N 079-08.23W,
    01-54.60N 079-01.19W, 02-01.72N 079-01.19W.
 2. CANCEL THIS MSG 192200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>121911Z MAY 26
-NAVAREA XII 342/26.
-NORTH PACIFIC.
-1. MF, HF, AND DSC SERVICES OFF AIR
-   190400Z TO 190900Z MAY AT USCG REMOTE
-   COMMUNICATION FACILITIES:
-   A. PT REYES, 37-55.00N 122-44.00W.
-   B. HONOLULU, 21-22.00N 158-09.00W.
-   C. KODIAK, 57-46.00N 152-34.00W.
-   D. ASTORIA, 46-10.00N 123-49.00W.
-   E. CAMBRIA, 35-51.00N 121-06.00W.
-2. CANCEL THIS MSG 191000Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
