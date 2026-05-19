@@ -3,6 +3,19 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>181956Z MAY 26
+NAVAREA XII 353/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 210130Z TO 211100Z MAY
+   IN AREA BOUND BY
+   33-34.00N 120-26.00W, 33-57.00N 119-16.00W,
+   33-41.00N 119-08.00W, 33-17.00N 120-19.00W.
+2. CANCEL THIS MSG 211200Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>181623Z MAY 26
 NAVAREA XII 351/26.
 NORTH PACIFIC.
