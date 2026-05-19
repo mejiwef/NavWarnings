@@ -166,17 +166,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 200300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130009Z MAY 26
-NAVAREA XII 339/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 180830Z TO 190200Z MAY
-   IN AREA WITHIN ONE MILE OF 33-01.73N 118-35.32W.
-2. CANCEL THIS MSG 190300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>091442Z MAY 26

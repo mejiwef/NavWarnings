@@ -886,24 +886,6 @@ SOUTH PACIFIC.
 3. CANCEL THIS MSG 212129Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>050038Z MAY 26
-HYDROPAC 1354/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   120015Z TO 120453Z MAY, ALTERNATE
-   130002Z TO 130440Z, 132348Z TO 140426Z,
-   142334Z TO 150412Z, 152320Z TO 160358Z,
-   162306Z TO 170344Z, 172252Z TO 180330Z AND
-   182238Z TO 190316Z MAY IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 190416Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071319Z MAY 26
@@ -1644,19 +1626,6 @@ U.A.E.
 DNC 10.
 12.9 METER DEPTHS REPORTED IN BOROUGE CHANNEL
 24-09.00N 052-45.20E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>160744Z FEB 26
-HYDROPAC 465/26(76).
-COOK STRAIT.
-NEW ZEALAND.
-DNC 06.
-1. BARRETT REEF BUOY 41-21.15S 174-50.11E
-   MISSING. 
-2. CANCEL HYDROPAC 461/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
