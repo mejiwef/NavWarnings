@@ -208,21 +208,6 @@ PUNTA PALANQUETE LIGHT 10-49.90N 064-12.60W
 UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>111910Z MAY 26
-NAVAREA IV 448/26.
-NORTH ATLANTIC.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   0204Z TO 0501Z DAILY 19 MAY THRU 18 JUN
-   IN AREAS BOUND BY:
-   A. 09-10.00N 050-54.00W, 09-09.00N 050-49.00W,
-      08-19.00N 051-14.00W, 08-21.00N 051-18.00W.
-   B. 21-17.00N 046-08.00W, 21-11.00N 045-54.00W,
-      18-09.00N 047-16.00W, 18-15.00N 047-30.00W.
-2. CANCEL THIS MSG 180601Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>111431Z MAY 26

@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191431Z MAY 26
+HYDROLANT 977/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 58-02.00S 033-30.00W.
+   B. 49-15.00S 025-46.00W.
+2. CANCEL THIS MSG 201428Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191418Z MAY 26
+HYDROLANT 976/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-03.60S 055-12.60W.
+   B. A84, 72-46.80S 107-10.80W.
+   C. A85, 67-30.00S 057-01.20W.
+   D. D33A, 64-42.60S 057-12.60W.
+   E. D33C, 65-09.00S 057-01.20W.
+2. CANCEL THIS MSG 201419Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191129Z MAY 26
@@ -72,18 +100,6 @@ WESTERN SAHARA.
    23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
    23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 230059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181353Z MAY 26
-HYDROLANT 969/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-02.00S 033-30.00W.
-   B. 49-37.00S 026-54.00W.
-2. CANCEL THIS MSG 191353Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
