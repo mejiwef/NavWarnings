@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>201541Z MAY 26
+HYDROPAC 1490/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+CAPE BORDA LIGHT 35-45.17S 136-35.60E.
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201440Z MAY 26
+HYDROPAC 1489/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1430Z DAILY
+   24 THRU 27 MAY IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 271530Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201410Z MAY 26
+HYDROPAC 1488/26.
+ARABIAN SEA.
+GULF OF KHAMBHAT.
+INDIA.
+1. PIPELINE OPERATIONS IN PROGRESS THRU  31MAY,
+   BY TUG AESEN, M/V MAGELLAN 2, M/V FUGRO MAPPER, 
+   BARGE LTB 300, TUG ODETTE AND M/V WILCHIEF 1
+   IN AREAS BOUND BY:
+   A. 20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
+      20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
+   B. 19-43.57N 071-02.99E, 19-42.47N 072-17.18E,
+      19-09.06N 072-16.51E, 19-10.13N 071-02.57E.
+   C. 18-44.11N 072-04.61E, 18-43.75N 072-25.32E,
+      18-21.48N 072-24.88E, 18-21.83N 072-04.22E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1225/26, 1391/26, 1442/26.
+3. CANCEL THIS MSG 010001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201209Z MAY 26
@@ -95,19 +141,6 @@ REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191318Z MAY 26
-HYDROPAC 1478/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 200800Z TO 201300Z MAY
-   IN AREA BOUND BY
-   16-41.40N 083-50.60E, 17-03.50N 084-15.50E,
-   16-38.40N 084-40.60E, 16-15.20N 084-14.90E.
-2. CANCEL THIS MSG 201400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191143Z MAY 26
@@ -190,18 +223,6 @@ SOMALIA.
    POSITION AND TO EXERCISE EXTREME CAUTION.
 2. CANCEL HYDROPAC 1444/26.
 3. CANCEL THIS MSG 211523Z MAY 26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>181048Z MAY 26
-HYDROPAC 1466/26.
-ARABIAN SEA.
-INDIA.
-1. NAVTEX STATION VENGURLA POINT (J)
-   15-51.31N 073-36.89E OFF AIR 
-   190330Z TO 201330Z MAY.
-2. CANCEL THIS MSG 201430Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -455,47 +476,6 @@ INDIA.
    D. 20-20.13N 072-01.32E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151206Z MAY 26
-HYDROPAC 1442/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 16 THRU 31 MAY 
-   BY M/V WILCHIEF1 IN AREA BOUND BY
-   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111935Z MAY 26
-HYDROPAC 1438/26.
-PACIFIC OCEAN.
-1. HAZARDOUS OPERATIONS:
-   A. 0631Z TO 1335Z DAILY 20 AND 21 MAY
-      IN AREA BOUND BY
-      34-40.00N 121-25.00W, 34-40.00N 120-54.00W,
-      34-46.00N 120-37.00W, 34-57.00N 120-37.00W,
-      34-58.00N 120-58.00W, 34-58.00N 121-24.00W.
-   B. 0631Z TO 1340Z DAILY 20 AND 21 MAY
-      IN AREA BOUND BY
-      34-24.00N 124-42.00W, 34-40.00N 124-44.00W,
-      34-55.00N 122-05.00W, 34-39.00N 122-03.00W.
-   C. 0631Z TO 1347Z DAILY 20 AND 21 MAY
-      IN AREA BOUND BY
-      32-43.00N 136-45.00W, 32-58.00N 136-49.00W,
-      33-11.00N 135-43.00W, 32-56.00N 135-39.00W.
-   D. 0631Z TO 1431Z DAILY 20 AND 21 MAY
-      IN AREA BOUND BY
-      14-51.00N 175-12.00E, 15-38.00N 176-15.00E,
-      15-06.00N 176-46.00E, 14-24.00N 175-32.00E.
-2. CANCEL THIS MSG 211531Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -755,26 +735,6 @@ INDIA.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED. 
 2. CANCEL THIS MSG 110001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121158Z MAY 26
-HYDROPAC 1391/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 13 THRU 31 MAY BY 
-   M/V FUGRO MAPPER IN AREAS BOUND BY:
-   A. 20-28.83N 071-13.96E, 20-27.62N 072-27.79E,
-      20-00.87N 072-27.20E, 20-02.05N 071-13.58E.
-   B. 19-41.07N 071-06.86E, 19-40.69N 071-36.43E,
-      19-12.14N 071-35.97E, 19-12.52N 071-06.49E.
-   C. 19-24.28N 071-55.82E, 19-23.94N 072-16.01E,
-      19-08.52N 072-15.70E, 19-08.86N 071-55.54E.
-   D. 18-36.49N 072-10.51E, 18-36.34N 072-19.25E,
-      18-29.63N 072-19.12E, 18-29.78N 072-10.39E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 311930Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -1209,22 +1169,6 @@ FIVE MILE LONG CABLE IN AREA BOUND BY
 09-49.91S 127-39.79E, 09-49.91S 128-14.91E,
 10-22.10S 128-14.91E, 10-22.10S 127-39.79E.
 FIVE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231440Z APR 26
-HYDROPAC 1225/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 31 MAY
-   BY TUG AESEN MAGELLAN 2 AND BARGE LTB 300
-   IN AREA BOUND BY
-   20-28.83N 071-13.96E, 20-27.49N 072-30.63E,
-   20-00.35N 072-27.73E, 20-01.00N 071-14.34E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

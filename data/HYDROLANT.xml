@@ -3,20 +3,8 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>191431Z MAY 26
-HYDROLANT 977/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 58-02.00S 033-30.00W.
-   B. 49-15.00S 025-46.00W.
-2. CANCEL THIS MSG 201428Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191418Z MAY 26
-HYDROLANT 976/26.
+        <msgText>201749Z MAY 26
+HYDROLANT 981/26.
 SOUTH ATLANTIC.
 SOUTH PACIFIC.
 ANTARCTICA.
@@ -26,7 +14,33 @@ ANTARCTICA.
    C. A85, 67-30.00S 057-01.20W.
    D. D33A, 64-42.60S 057-12.60W.
    E. D33C, 65-09.00S 057-01.20W.
-2. CANCEL THIS MSG 201419Z MAY 26.</msgText>
+2. CANCEL THIS MSG 211749Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201735Z MAY 26
+HYDROLANT 980/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 220001Z TO 
+   222359Z MAY IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 230100Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>201548Z MAY 26
+HYDROLANT 978/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 57-40.00S 034-12.00W.
+   B. 49-10.00S 025-47.00W.
+2. CANCEL THIS MSG 211547Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -551,17 +565,6 @@ IN AREA BOUND BY
 60-02.30N 001-58.40E, 59-59.40N 002-17.00E,
 59-46.00N 002-08.70E, 59-48.90N 001-50.20E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SOUND SIGNAL</category>
-        <status>INFORCE</status>
-        <msgText>200251Z APR 26
-HYDROLANT 791/26.
-ENGLISH CHANNEL.
-ENGLAND.
-1. FOG SIGNAL AT NEEDLES LIGHT 
-   50-39.70N 001-35.50W INOPERATIVE.
-2. CANCEL HYDROLANT 465/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
