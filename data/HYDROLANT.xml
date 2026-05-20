@@ -143,20 +143,6 @@ BRAZIL.
 2. CANCEL THIS MSG 260001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>170206Z MAY 26
-HYDROLANT 962/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. YOKOHAMA FENDER ADRIFT IN 
-   22-03.70S 040-34.50W AT 161300Z MAY.
-   REPORTS TO CAPTAIN OF THE PORT SAO JOAO DA BARRA,
-   PHONE: 55 229 9840 9221,
-   EMAIL: AGSJBARRA.DESPACHO@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 200206Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>162010Z MAY 26

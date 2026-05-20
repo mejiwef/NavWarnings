@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>151516Z MAY 26
+NAVAREA XII 356/26.
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   251338Z TO 251450Z, 261324Z TO 261435Z,
+   271306Z TO 271418Z, 281252Z TO 281403Z,
+   291235Z TO 291346Z, 301220Z TO 301331Z 
+   AND 311203Z TO 311314Z MAY
+   IN AREA BOUND BY
+   41-33.00N 141-35.00W, 38-59.00N 137-13.00W,
+   36-16.00N 133-09.00W, 33-25.00N 129-22.00W,
+   30-28.00N 125-50.00W, 27-43.00N 123-17.00W,
+   24-55.00N 120-52.00W, 24-04.00N 121-54.00W,
+   26-25.00N 124-40.00W, 28-44.00N 127-34.00W,
+   31-53.00N 130-57.00W, 34-56.00N 134-35.00W,
+   37-52.00N 138-29.00W, 40-39.00N 142-42.00W.
+2. CANCEL THIS MSG 311414Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>191412Z MAY 26
@@ -127,17 +148,6 @@ PACIFIC OCEAN.
       14-51.00N 175-12.00E, 15-38.00N 176-15.00E,
       15-06.00N 176-46.00E, 14-24.00N 175-32.00E.
 2. CANCEL THIS MSG 211531Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>122350Z MAY 26
-NAVAREA XII 341/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 191500Z TO 200200Z MAY
-   IN AREA WITHIN ONE MILE OF 33-01.81N 118-35.23W.
-2. CANCEL THIS MSG 200300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
