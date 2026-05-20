@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>192058Z MAY 26
+HYDROPAC 1482/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL
+   200400Z, 202000Z TO 210001Z AND 
+   222200Z TO 230100Z MAY IN AREA BOUND BY
+   35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
+   36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
+2. CANCEL THIS MSG 230200Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191852Z MAY 26
+HYDROPAC 1481/26.
+ARABIAN SEA.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 220130Z TO 221230Z MAY
+   IN AREA BOUND BY
+   08-16.70N 073-00.60E, 08-16.64N 073-00.70E,
+   08-15.18N 072-59.88E, 08-16.20N 072-59.00E.
+2. CANCEL THIS MSG 221330Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>191607Z MAY 26
@@ -330,18 +357,6 @@ TASMAN SEA.
 2. CANCEL THIS MSG 271616Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>151703Z MAY 26
-HYDROPAC 1447/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E BRAODCAST SERVICES
-   UNRELIABLE 191400Z TO 191800Z MAY.
-2. CANCEL THIS MSG 191900Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>151547Z MAY 26
@@ -551,20 +566,6 @@ INDIA.
    IN VICINITY 20-36.00N 072-02.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141048Z MAY 26
-HYDROPAC 1429/26.
-ANDAMAN SEA.
-INDIA.
-1. SURVEY OPERATIONS 15 THRU 19 MAY
-   IN AREA BOUND BY
-   10-53.00N 092-33.00E, 10-53.00N 092-41.50E,
-   11-00.00N 092-41.50E, 11-00.00N 092-33.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -1375,30 +1376,6 @@ GREAT AUSTRALIAN BIGHT.
 AUSTRALIA.
 PLANK SHOAL LIGHT 33-29.88S 137-28.56E
 PERMANENTLY DISCONTINUED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171042Z APR 26
-HYDROPAC 1144/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 20 APR THRU 19 MAY BY 
-   BARGE KM 180, M/V DHP SHIVALIK, TUG SHIVALI II, 
-   M/V NAND SARATHI IN AREAS BOUND BY:
-   A. 19-42.24N 071-06.01E, 19-41.85N 071-35.72E,
-      19-10.57N 071-35.22E, 19-10.95N 071-05.61E.
-   B. 20-45.60N 071-42.55E, 20-44.92N 072-21.08E,
-      20-01.08N 072-20.14E, 20-01.74N 071-41.78E.
-   C. 19-41.75N 071-41.55E, 19-41.27N 072-09.72E,
-      18-56.33N 072-20.11E, 18-56.97N 071-40.94E.
-   D. 18-47.55N 072-09.45E, 18-47.29N 072-24.17E,
-      18-25.96N 072-23.75E, 18-26.21N 072-09.06E.
-   E. 18-39.32N 070-58.71E, 18-39.27N 071-03.38E,
-      18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

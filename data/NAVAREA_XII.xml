@@ -14,8 +14,7 @@ NORTH PACIFIC.
    REPORTS TO JRCC HONOLULU,
    PHONE: 800 331 6176,
    EMAIL: JRCCHONOLULU@USCG.MIL.
-2. CANCEL NAVAREA XII 354/26.
-CANCEL THIS MSG 191616Z MAY 26.</msgText>
+2. CANCEL NAVAREA XII 354/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -80,19 +79,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 202330Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>151703Z MAY 26
-NAVAREA XII 346/26.
-NORTH PACIFIC.
-1. BRAODCAST SERVICES UNRELIABLE
-   191400Z TO 191800Z MAY AT USCG
-   REMOTE COMMUNICATION FACILITIES:
-   A. ASTORIA 46-10.00N 123-49.00W.
-   B. CAMBRIA 33-44.00N 118-24.00W.
-2. CANCEL THIS MSG 191900Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>151607Z MAY 26
@@ -141,19 +127,6 @@ PACIFIC OCEAN.
       14-51.00N 175-12.00E, 15-38.00N 176-15.00E,
       15-06.00N 176-46.00E, 14-24.00N 175-32.00E.
 2. CANCEL THIS MSG 211531Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>150115Z MAY 26
-NAVAREA XII 343/26.
-NORTH PACIFIC.
-COLOMBIA.
-1. NAVAL OPERATIONS 191200Z TO 192100Z MAY
-   IN AREA BOUND BY
-   02-01.72N 079-08.22W, 01-54.60N 079-08.23W,
-   01-54.60N 079-01.19W, 02-01.72N 079-01.19W.
-2. CANCEL THIS MSG 192200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

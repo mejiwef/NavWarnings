@@ -354,20 +354,6 @@ NIGERIA.
 3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101902Z MAY 26
-HYDROLANT 926/26.
-CELTIC SEA.
-ENGLAND.
-1. CABLE OPERATIONS IN PROGRESS UNTIL
-   19 MAY BY CABLESHIP ILE DOUESSANT
-   ALONG TRACKLINE JOINING
-   50-05.30N 005-42.74W, 50-05.06N 005-42.16W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 200001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100058Z MAY 26
