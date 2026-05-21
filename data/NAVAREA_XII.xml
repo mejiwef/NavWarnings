@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210702Z MAY 26
+NAVAREA XII 363/26.
+NORTH PACIFIC.
+1. CABLE OPERATIONS BY M/V GRACE:
+   A. IN PROGRESS UNTIL 221800Z MAY 
+      ALONG TRACKLINE JOINING
+      48-55.49N 163-49.45W, 49-00.50N 163-20.00W,
+      48-54.59N 162-18.29W, 48-49.50N 159-25.00W,
+      48-47.03N 158-21.26W, 48-39.46N 156-37.36W,
+      48-34.01N 155-57.90W, 48-38.10N 155-31.96W,
+      48-31.40N 154-56.10W, 48-18.52N 153-34.45W,
+      48-08.63N 152-08.03W, 47-59.12N 150-20.92W,
+      47-51.36N 149-40.84W.
+   B. 25 MAY THRU 20 JUN 
+      ALONG TRACKLINE JOINING
+      43-52.74N 133-58.35W, 45-04.53N 137-18.19W,
+      45-50.44N 141-01.62W, 47-00.80N 149-17.50W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 280/26.
+3. CANCEL THIS MSG 210001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICES</category>
         <status>INFORCE</status>
         <msgText>210021Z MAY 26

@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210638Z MAY 26
+HYDROLANT 983/26.
+ENGLISH CHANNEL.
+ENGLAND.
+CABLE OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V FUGRO FRONTIER
+ALONG TRACKLINE JOINING
+50-38.40N 000-48.90W, 50-33.50N 000-36.40W,
+50-17.80N 000-25.80W, 50-09.60N 000-24.60W.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>210113Z MAY 26
+HYDROLANT 982/26.
+BRAZIL.
+1. MORRO TAIPUS LIGHT 13-57.20S 038-56.50W
+   UNLIT UNTIL 16 NOV.
+2. CANCEL THIS MSG 170001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>201749Z MAY 26

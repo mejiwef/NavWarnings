@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>210627Z MAY 26
+HYDROPAC 1500/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
+   A. 261240Z TO 261342Z MAY 
+      IN AREA BOUND BY
+      47-00.00S 133-00.00W, 47-00.00S 095-00.00W,
+      53-00.00S 095-00.00W, 53-00.00S 133-00.00W.
+   B. 271231Z TO 271333Z MAY
+      IN AREA BOUND BY
+      47-00.00S 138-00.00W, 47-00.00S 101-00.00W,
+      53-00.00S 101-00.00W, 53-00.00S 138-00.00W.
+2. CANCEL THIS MSG 271433Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210359Z MAY 26
+HYDROPAC 1499/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V BHAGWAN DRYDEN
+IN 19-55.80S 115-23.40E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210328Z MAY 26
+HYDROPAC 1498/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1200Z TO 2100Z 
+   DAILY 26 THRU 28 MAY IN AREA BOUND BY
+   20-04.00S 070-30.70W, 20-04.00S 070-20.00W,
+   20-14.00S 070-20.00W, 20-14.00S 070-30.70W.
+2. CANCEL THIS MSG 282200Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210324Z MAY 26
+HYDROPAC 1497/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 261400Z TO 262200Z MAY
+   IN AREA BOUND BY
+   30-11.00S 071-55.00W, 30-11.00S 071-37.50W,
+   30-20.00S 071-37.50W, 30-20.00S 071-42.00W,
+   30-27.00S 071-42.00W, 30-27.00S 071-55.00W.
+2. CANCEL THIS MSG 262300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>210305Z MAY 26
+HYDROPAC 1496/26.
+TIMOR SEA.
+AUSTRALIA.
+1. DERELICT 12 METER S/V BALAMARA, 
+   WHITE HULL,  ADRIFT IN VICINITY 
+   12-06.17S 130-02.33E AT 201939Z MAY.
+2. CANCEL THIS MSG 240305Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>202135Z MAY 26
