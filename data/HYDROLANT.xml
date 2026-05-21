@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>211508Z MAY 26
+HYDROLANT 989/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 64-03.60S 055-12.60W.
+   B. A84, 72-46.80S 107-10.80W.
+   C. A85, 67-30.00S 057-01.20W.
+   D. D33A, 64-42.60S 057-12.60W.
+   E. D33C, 65-09.00S 057-01.20W.
+2. CANCEL THIS MSG 221500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>211457Z MAY 26
+HYDROLANT 988/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 57-40.00S 034-12.00W.
+   B. 49-05.00S 025-50.00W.
+2. CANCEL THIS MSG 221500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>211425Z MAY 26
+HYDROLANT 986/26.
+GULF OF GUINEA.
+NIGERIA.
+DANGEROUS WRECK IN 04-18.50N 007-02.20E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210939Z MAY 26
@@ -40,22 +76,6 @@ BRAZIL.
 2. CANCEL THIS MSG 170001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201749Z MAY 26
-HYDROLANT 981/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 64-03.60S 055-12.60W.
-   B. A84, 72-46.80S 107-10.80W.
-   C. A85, 67-30.00S 057-01.20W.
-   D. D33A, 64-42.60S 057-12.60W.
-   E. D33C, 65-09.00S 057-01.20W.
-2. CANCEL THIS MSG 211749Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201735Z MAY 26
@@ -68,18 +88,6 @@ MOROCCO.
    33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
    34-01.00N 008-03.00W.
 2. CANCEL THIS MSG 230100Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201548Z MAY 26
-HYDROLANT 978/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 57-40.00S 034-12.00W.
-   B. 49-10.00S 025-47.00W.
-2. CANCEL THIS MSG 211547Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -281,15 +289,6 @@ ROMANIA.
    B. 43-47.39N 028-35.31E, 43-47.38N 028-36.14E,
       43-46.98N 028-35.89E, 43-47.35N 028-34.87E.
 2. CANCEL THIS MSG 291500Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>131828Z MAY 26
-HYDROLANT 946/26.
-NORTH ATLANTIC.
-MOROCCO.
-EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
