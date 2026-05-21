@@ -1,6 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211106Z MAY 26
+HYDROPAC 1506/26.
+GULF OF KACHCHH.
+INDIA.
+1. HAZARDOUS OPERATIONS 250430Z TO 250730Z
+   IN AREA BOUND BY
+   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
+   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
+   22-42.11N 068-55.34E.
+2. CANCEL THIS MSG 250830Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211049Z MAY 26
+HYDROPAC 1505/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 250330Z TO 250730Z 
+   AND 260300Z TO 260500Z MAY IN AREA BOUND BY
+   20-48.91N 087-07.08E, 20-22.03N 087-29.68E,
+   19-48.93N 087-40.23E, 19-40.18N 086-52.85E,
+   20-15.83N 086-50.73E, 20-48.11N 087-02.31E.
+2. CANCEL THIS MSG 260600Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211038Z MAY 26
+HYDROPAC 1504/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0330Z TO 0830Z 
+   DAILY 25 THRU 27 MAY IN AREA BOUND BY
+   17-35.91N 083-56.86E, 17-38.08N 083-56.86E,
+   17-38.08N 083-59.13E, 17-35.91N 083-59.13E.
+2. CANCEL THIS MSG 270930Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211028Z MAY 26
+HYDROPAC 1503/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z 
+   DAILY 25 THRU 29 MAY IN AREA BOUND BY
+   12-49.00N 080-46.00E, 12-59.00N 080-46.00E,
+   12-59.00N 081-26.00E, 12-49.00N 081-26.00E.
+2. CANCEL THIS MSG 291230Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201154Z MAY 26
+HYDROPAC 1502/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+1. SURVEY OPERATIONS 1400Z TO 1359Z DAILY
+   26 THRU 29 MAY IN AREA BOUND BY
+   16-00.00N 140-20.00E, 16-00.00N 141-00.00E,
+   15-35.00N 141-00.00E, 15-35.00N 140-20.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 301459Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210849Z MAY 26
+HYDROPAC 1501/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 26 THRU 28 MAY IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 281400Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>210627Z MAY 26
@@ -888,18 +971,6 @@ INDIA.
       18-34.58N 071-03.33E, 18-34.63N 070-58.65E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071051Z MAY 26
-HYDROPAC 1347/26.
-GULF OF KHAMBHAT.
-1. HAZARDOUS OPERATIONS 0230Z TO 1130Z DAILY 
-   12 AND 21 MAY IN AREA BOUND BY
-   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
-   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
-2. CANCEL THIS MSG 211230Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>

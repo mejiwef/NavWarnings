@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210943Z MAY 26
+NAVAREA IV 481/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 250600Z TO 290600Z MAY
+   IN AREA BOUND BY
+   10-28.50N 075-50.00W, 10-28.50N 075-45.00W,
+   10-18.90N 075-45.00W, 10-18.90N 075-50.00W.
+2. CANCEL THIS MSG 290700Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>202008Z MAY 26
