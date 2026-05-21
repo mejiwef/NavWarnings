@@ -3,6 +3,30 @@
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
+        <msgText>202135Z MAY 26
+HYDROPAC 1493/26.
+SOUTH PACIFIC.
+FIJI.
+NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>202017Z MAY 26
+HYDROPAC 1492/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 22 MAY THRU 02 JUN
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL HYDROPAC 1452/26.
+3. CANCEL THIS MSG 022129Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
         <msgText>201541Z MAY 26
 HYDROPAC 1490/26.
 GREAT AUSTRALIAN BIGHT.
@@ -61,21 +85,6 @@ NORTHERN MARIANA ISLANDS.
    13-32.00N 144-48.00E, 13-32.00N 144-36.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 311359Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>200559Z MAY 26
-HYDROPAC 1485/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V BTH 98849 TS, 17 PERSONS ON BOARD, 
-DISABLED AND ADRIFT IN VICINITY 
-09-05.96N 107-44.91E AT 192330Z MAY.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -365,20 +374,6 @@ GUAM.
 2. CANCEL THIS MSG 230300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>141509Z MAY 26
-HYDROPAC 1452/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 22 THRU 28 MAY
-   IN AREA BOUND BY
-   42-28.00S 161-17.00W, 25-23.00S 156-56.00W,
-   26-03.00S 153-24.00W, 43-04.00S 157-03.00W,
-   59-49.00S 163-34.00W, 59-13.00S 168-58.00W.
-2. CANCEL THIS MSG 282129Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151218Z MAY 26
@@ -476,20 +471,6 @@ INDIA.
    D. 20-20.13N 072-01.32E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>150126Z MAY 26
-HYDROPAC 1436/26.
-EASTERN INDIAN OCEAN.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE BY M/V OCEAN VANGUARD
-   IN AREA BOUND BY
-   12-52.26S 121-27.02E, 13-39.86S 121-27.02E,
-   13-39.86S 123-36.00E, 12-52.26S 123-36.00E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1239/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -680,20 +661,6 @@ SOUTH PACIFIC.
    33-08.44S 162-43.16W, 41-22.39S 142-30.17W,
    42-23.19S 143-00.53W, 34-06.17S 163-19.10W.
 2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130400Z MAY 26
-HYDROPAC 1398/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1330Z TO 1930Z 
-   DAILY 18 AND 20 MAY IN AREA BOUND BY
-   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
-   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
-2. CANCEL HYDROPAC 1371/26.
-3. CANCEL THIS MSG 202030Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

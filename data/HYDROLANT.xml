@@ -43,20 +43,6 @@ SOUTH ATLANTIC.
 2. CANCEL THIS MSG 211547Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191129Z MAY 26
-HYDROLANT 975/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 200000Z TO
-   202359Z MAY IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 210059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190734Z MAY 26
