@@ -344,20 +344,6 @@ NIGERIA.
 3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100058Z MAY 26
-HYDROLANT 922/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0600Z TO 1800Z DAILY
-   IN PROGRESS UNTIL 21 MAY
-   BY M/V SDSV SISTAC ESPERANCA
-   IN 23-30.92S 041-03.45W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 211900Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>081742Z MAY 26
