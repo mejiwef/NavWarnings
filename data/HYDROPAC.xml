@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>220300Z MAY 26
+HYDROPAC 1515/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+EIGHT, SIX METER BUOYS, YELLOW, FL W 3 SEC,
+ESTABLISHED IN AREA WITHIN TWO MILES OF
+39-51.73S 142-22.50E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>212103Z MAY 26
