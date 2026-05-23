@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>231253Z MAY 26
+NAVAREA IV 488/26.
+CARIBBEAN SEA.
+VESSEL M/V JUPITER DISABLED AND ADRIFT 
+IN VICINITY 16-43.00N 080-14.00W AT 182200Z MAY .
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC CARIBE,
+PHONE: +57 3157 319 876 ,
+EMAIL: : cnmvm@dimar.mil.co.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>222154Z MAY 26

@@ -3,29 +3,29 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>221531Z MAY 26
-HYDROLANT 999/26.
+        <msgText>231501Z MAY 26
+HYDROLANT 1002/26.
 SOUTH ATLANTIC.
 ANTARCTICA.
 1. ICEBERGS REPORTED IN: 
-   A. A81, 64-03.60S 055-12.60W.
-   B. A84, 72-46.80S 107-10.80W.
-   C. A85, 67-30.00S 057-01.20W.
-   D. D33A, 64-42.60S 057-12.60W.
-   E. D33C, 65-09.00S 057-01.20W.
-2. CANCEL THIS MSG 231500Z MAY 26.</msgText>
+   A. A81, 63-54.00S 054-32.40W.
+   B. A84, 72-26.40S 108-16.80W.
+   C. A85, 66-52.20S 056-24.60W.
+   D. D33A, 64-42.00S 057-02.40W.
+   E. D33C, 64-50.40S 056-17.40W.
+2. CANCEL THIS MSG 241500Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>221525Z MAY 26
-HYDROLANT 998/26.
+        <msgText>231454Z MAY 26
+HYDROLANT 1001/26.
 SCOTIA SEA.
 SOUTH ATLANTIC.
 1. ICEBERGS REPORTED IN: 
    A. A76C, 57-40.00S 034-12.00W.
-   B. 49-05.00S 025-50.00W.
-2. CANCEL THIS MSG 231500Z MAY 26.</msgText>
+   B. 48-53.00S 026-31.00W.
+2. CANCEL THIS MSG 241500Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
