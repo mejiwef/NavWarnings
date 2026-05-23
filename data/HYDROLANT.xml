@@ -146,20 +146,6 @@ BRAZIL.
 2. CANCEL THIS MSG 170001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201735Z MAY 26
-HYDROLANT 980/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 220001Z TO 
-   222359Z MAY IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 230100Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190734Z MAY 26
@@ -203,20 +189,6 @@ ENGLAND.
 2. NITON BROADCASTS WILL BE TRANSMITTED FROM
    NAVTEX STATION PORTPATRICK (O) 54-50.63N 005-07.46W. 
 3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181407Z MAY 26
-HYDROLANT 970/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 220001Z TO 222359Z MAY
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 230059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

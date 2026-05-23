@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>230402Z MAY 26
+HYDROPAC 1523/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS:  
+   A. 261407Z TO 261509Z MAY IN AREA BOUND BY 
+      47-00.00S 118-00.00W, 47-00.00S 156-00.00W,
+      53-00.00S 156-00.00W, 53-00.00S 118-00.00W.
+   B. 271229Z TO 271331Z MAY IN AREA BOUND BY 
+      47-00.00S 138-00.00W, 47-00.00S 100-00.00W,
+      53-00.00S 100-00.00W, 53-00.00S 138-00.00W.
+2. CANCEL THIS MSG 271431Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>230309Z MAY 26
+HYDROPAC 1522/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+1. DERELICT 70 METER BARGE ADRIFT IN 
+   25-42.40N 141-46.00E AT 220243Z MAY.
+2. CANCEL THIS MSG 260315Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>221451Z MAY 26.
@@ -243,23 +270,6 @@ GUAM.
 2. CANCEL THIS MSG 281400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>210627Z MAY 26
-HYDROPAC 1500/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
-   A. 261240Z TO 261342Z MAY 
-      IN AREA BOUND BY
-      47-00.00S 133-00.00W, 47-00.00S 095-00.00W,
-      53-00.00S 095-00.00W, 53-00.00S 133-00.00W.
-   B. 271231Z TO 271333Z MAY
-      IN AREA BOUND BY
-      47-00.00S 138-00.00W, 47-00.00S 101-00.00W,
-      53-00.00S 101-00.00W, 53-00.00S 138-00.00W.
-2. CANCEL THIS MSG 271433Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210359Z MAY 26
@@ -397,20 +407,6 @@ TASMAN SEA.
 2. CANCEL THIS MSG 311744Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>192058Z MAY 26
-HYDROPAC 1482/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL
-   200400Z, 202000Z TO 210001Z AND 
-   222200Z TO 230100Z MAY IN AREA BOUND BY
-   35-50.00S 176-25.00E, 36-20.00S 176-25.00E,
-   36-20.00S 175-50.00E, 35-50.00S 175-50.00E.
-2. CANCEL THIS MSG 230200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>191607Z MAY 26
@@ -546,20 +542,6 @@ INDIA.
       17-50.00N 083-44.00E, 17-47.72N 084-13.59E.
 2. CANCEL HYDROPAC 1443/26.
 3. CANCEL THIS MSG 251130Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130941Z MAY 26
-HYDROPAC 1453/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 222300Z TO 230200Z MAY
-   IN AREA BOUND BY
-   13-37.10N 144-30.65E, 13-38.23N 144-30.00E,
-   13-37.77N 144-29.28E, 13-36.90N 144-29.03E.
-2. CANCEL THIS MSG 230300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
