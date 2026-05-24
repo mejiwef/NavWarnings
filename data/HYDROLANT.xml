@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>240035Z MAY 26
+HYDROLANT 1003/26.
+SOUTH ATLANTIC.
+BRAZIL.
+DANGEROUS WRECK IN 22-25.41S 041-06.76W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>231501Z MAY 26
@@ -352,20 +361,6 @@ BRAZIL.
    ESTABLISHED UNTIL 20 OCT
    IN 04-53.00S 035-46.01W.
 2. CANCEL THIS MSG 210001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080624Z MAY 26
-HYDROLANT 905/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 09 THRU 23 MAY BY M/V COMANDO B 
-   AND M/V AM PORT CARTIER IN 
-   20-22.45S 040-10.57W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 232200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -944,18 +939,6 @@ DNC 01.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 022100Z NOV 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>250042Z NOV 25
-HYDROLANT 1990/25(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. ODAS BUOY BRAVO PI ESTABLISHED UNTIL 23 MAY 26
-   IN 02-30.81S 041-31.97W.
-2. CANCEL THIS MSG 240001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>

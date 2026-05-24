@@ -3,6 +3,15 @@
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
+        <msgText>232339Z MAY 26
+HYDROARC 81/26.
+CANADA.
+MCTS IQALUIT REMOTE STATION RESOLUTE
+74-45.00N 094-58.00W HF AND MF SERVICES OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
         <msgText>231449Z MAY 26
 HYDROARC 80/26.
 CANADA.
