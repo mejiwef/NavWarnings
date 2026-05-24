@@ -321,18 +321,6 @@ CHILE.
 2. CANCEL THIS MSG 262300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>210305Z MAY 26
-HYDROPAC 1496/26.
-TIMOR SEA.
-AUSTRALIA.
-1. DERELICT 12 METER S/V BALAMARA, 
-   WHITE HULL,  ADRIFT IN VICINITY 
-   12-06.17S 130-02.33E AT 201939Z MAY.
-2. CANCEL THIS MSG 240305Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>202135Z MAY 26
