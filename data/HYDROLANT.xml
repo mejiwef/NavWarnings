@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>240035Z MAY 26
-HYDROLANT 1003/26.
-SOUTH ATLANTIC.
-BRAZIL.
-DANGEROUS WRECK IN 22-25.41S 041-06.76W.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>231501Z MAY 26
-HYDROLANT 1002/26.
+        <msgText>241504Z MAY 26
+HYDROLANT 1005/26.
 SOUTH ATLANTIC.
 ANTARCTICA.
 1. ICEBERGS REPORTED IN: 
@@ -22,19 +13,28 @@ ANTARCTICA.
    C. A85, 66-52.20S 056-24.60W.
    D. D33A, 64-42.00S 057-02.40W.
    E. D33C, 64-50.40S 056-17.40W.
-2. CANCEL THIS MSG 241500Z MAY 26.</msgText>
+2. CANCEL THIS MSG 251500Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>231454Z MAY 26
-HYDROLANT 1001/26.
+        <msgText>241454Z MAY 26
+HYDROLANT 1004/26.
 SCOTIA SEA.
 SOUTH ATLANTIC.
 1. ICEBERGS REPORTED IN: 
    A. A76C, 57-40.00S 034-12.00W.
    B. 48-53.00S 026-31.00W.
-2. CANCEL THIS MSG 241500Z MAY 26.</msgText>
+2. CANCEL THIS MSG 251500Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>240035Z MAY 26
+HYDROLANT 1003/26.
+SOUTH ATLANTIC.
+BRAZIL.
+DANGEROUS WRECK IN 22-25.41S 041-06.76W.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

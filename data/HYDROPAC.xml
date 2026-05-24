@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>241254Z MAY 26
+HYDROPAC 1535/26.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+TASMAN SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1158Z TO 1908Z DAILY 29 MAY THRU 04 JUN
+   IN AREA WITHIN 100 MILES OF TRACKLINE JOINING
+   40-43.00S 081-08.00E, 48-04.00S 097-01.00E,
+   52-27.00S 115-27.00E, 52-32.00S 138-10.00E,
+   48-02.00S 159-53.00E.
+2. CANCEL THIS MSG 042008Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>241047Z MAY 26
@@ -313,17 +329,6 @@ PAKISTAN.
    D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL THIS MSG 302000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>211342Z MAY 26
-HYDROPAC 1508/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. DERELICT EIGHT METER VESSEL ADRIFT IN VICINITY 
-   41-47.43S 174-46.52E AT 211120Z MAY.
-2. CANCEL THIS MSG 241341Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
