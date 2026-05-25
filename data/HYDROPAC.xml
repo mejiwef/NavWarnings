@@ -1,6 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250526Z MAY 26
+HYDROPAC 1541/26.
+INDIAN OCEAN.
+CABLE OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V REBECCA
+ALONG TRACKLINE JOINING
+26-50.00S 108-49.64E, 24-20.00S 106-28.55E,
+12-39.99S 104-10.00E, 10-36.89S 103-31.89E,
+08-48.28S 103-24.13E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>250513Z MAY 26
+HYDROPAC 1540/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1229Z TO 1509Z DAILY 26 AND 27 MAY
+   IN AREA BOUND BY
+   47-00.00S 156-00.00W, 47-00.00S 100-00.00W,
+   53-00.00S 100-00.00W, 53-00.00S 156-00.00W.
+2. CANCEL HYDROPAC 1512/26.
+3. CANCEL THIS MSG 271609Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250343Z MAY 26
+HYDROPAC 1539/26.
+PERSIAN GULF.
+QATAR.
+1. SURVEY OPERATIONS IN PROGRESS 
+   UNTIL 31 JUL BY M/V HALUL 53
+   IN AREA BOUND BY
+   25-58.64N 051-29.89E, 26-21.25N 051-55.61E,
+   26-19.66N 051-57.59E, 25-58.17N 051-55.91E,
+   25-57.11N 051-46.96E, 26-00.42N 051-35.51E,
+   25-56.41N 051-34.26E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>250314Z MAY 26
+HYDROPAC 1538/26.
+PHILIPPINE SEA.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   261500Z TO 262100Z MAY 
+   IN AREAS BOUND BY:
+   A. 19-42.00N 118-43.00E, 19-37.00N 120-09.00E,
+      19-00.00N 120-06.00E, 19-04.00N 118-41.00E.
+   B. 19-20.00N 123-26.00E, 19-14.00N 124-26.00E,
+      18-43.00N 124-23.00E, 18-47.00N 123-24.00E.
+   C. 17-29.00N 138-28.00E, 17-01.00N 141-09.00E,
+      16-13.00N 141-00.00E, 16-41.00N 138-19.00E.
+2. CANCEL THIS MSG 262200Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>250150Z MAY 26
+HYDROPAC 1537/26.
+TIMOR SEA.
+AUSTRALIA.
+1. DERELICT 15 METER S/V BALAMARA, WHITE HULL,
+   ADRIFT IN VICINITY 11-47.03S 129-31.72E
+   AT 241100Z MAY.
+2. CANCEL THIS MSG 280150Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250143Z MAY 26
+HYDROPAC 1536/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 281600Z TO 282200Z MAY
+   IN AREA BOUND BY
+   36-20.00S 073-18.00W, 36-10.00S 073-18.00W,
+   36-10.00S 073-10.01W, 36-20.00S 073-10.01W.
+2. CANCEL THIS MSG 282300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>241254Z MAY 26
@@ -281,19 +370,6 @@ CHRISTMAS ISLAND.
    11-30.39S 105-13.40E, 10-21.96S 105-13.59E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1513/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>211653Z MAY 26
-HYDROPAC 1512/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   261231Z TO 271333Z MAY IN AREA BOUND BY
-   46-00.00S 138-00.00W, 46-00.00S 095-00.00W,
-   54-00.00S 091-00.00W, 54-00.00S 142-00.00W,
-   53-00.00S 155-00.00W.
-2. CANCEL THIS MSG 271433Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
