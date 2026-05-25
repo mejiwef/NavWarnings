@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250916Z MAY 26
+HYDROPAC 1542/26.
+INDIAN OCEAN.
+AUSTRALIA.
+SURVEY OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V INCEPTION II
+IN AREA BOUND BY
+27-18.20S 113-57.40E, 27-27.40S 113-57.40E,
+27-27.40S 114-00.20E, 27-18.20S 114-00.20E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250526Z MAY 26
@@ -409,20 +423,6 @@ PAKISTAN.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>211106Z MAY 26
-HYDROPAC 1506/26.
-GULF OF KACHCHH.
-INDIA.
-1. HAZARDOUS OPERATIONS 250430Z TO 250730Z
-   IN AREA BOUND BY
-   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
-   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
-   22-42.11N 068-55.34E.
-2. CANCEL THIS MSG 250830Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>211049Z MAY 26
 HYDROPAC 1505/26.
 BAY OF BENGAL.
@@ -708,23 +708,6 @@ REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170227Z MAY 26
-HYDROPAC 1454/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z
-   DAILY 19 THRU 25 MAY IN AREAS BOUND BY:
-   A. 16-38.00N 083-26.00E, 17-33.00N 084-27.00E,
-      15-29.00N 086-28.00E, 14-38.00N 085-34.00E,
-      15-31.00N 084-46.00E, 15-24.00N 084-38.00E.   
-   B. 17-58.90N 084-27.30E, 17-59.00N 083-56.00E,
-      17-50.00N 083-44.00E, 17-47.72N 084-13.59E.
-2. CANCEL HYDROPAC 1443/26.
-3. CANCEL THIS MSG 251130Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151455Z MAY 26
@@ -837,20 +820,6 @@ IN AREA BOUND BY
 33-50.00S 156-00.00E, 34-50.00S 156-00.00E,
 34-50.00S 162-48.00E, 33-50.00S 162-48.00E.
 THREE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110303Z MAY 26
-HYDROPAC 1420/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0354Z TO 0840Z DAILY 19 THRU 25 MAY
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 250940Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
