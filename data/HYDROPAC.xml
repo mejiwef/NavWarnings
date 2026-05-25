@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251452Z MAY 26
+HYDROPAC 1545/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 0100Z TO 1230Z
+   DAILY, 29 MAY AND 01 JUN
+   IN AREA BOUND BY
+   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
+   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
+2. CANCEL THIS MSG 011430Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251325Z MAY 26
+HYDROPAC 1544/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 290130Z TO 
+   291030Z MAY IN AREA BOUND BY
+   08-15.36N 073-03.50E, 08-14.89N 073-03.32E,
+   08-16.53N 073-03.30E, 08-16.57N 073-03.43E.
+2. CANCEL THIS MSG 291130Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251315Z MAY 26
+HYDROPAC 1543/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+1. CABLE OPERATIONS 26 MAY THRU 30 JUN
+   BY CABLESHIP ILE DE BREHAT
+   ALONG TRACKLINE JOINING
+   11-50.32N 058-10.22E, 08-17.65N 056-19.70E,
+   05-52.97N 055-38.27E, 05-02.03N 055-54.54E,
+   02-25.82N 053-44.87E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250916Z MAY 26
