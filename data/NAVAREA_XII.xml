@@ -61,27 +61,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 031943Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>221837Z MAY 26
-NAVAREA XII 369/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   A. 241400Z TO 241824Z MAY, ALTERNATE
-      1400Z TO 1824Z 25 THRU 30 MAY
-      IN AREA BOUND BY:
-      31-46.00N 121-08.00W, 31-43.00N 121-15.00W,
-      34-41.00N 120-39.00W, 34-31.00N 120-26.00W.
-   B. 241400Z TO 241843Z MAY, ALTERNATE
-      1400Z TO 1843Z 25 THRU 30 MAY.
-      IN AREA BOUND BY:
-      28-16.00N 121-48.00W, 28-34.00N 122-21.00W,
-      29-47.00N 121-46.00W, 29-47.00N 121-35.00W,
-      28-39.00N 121-25.00W.
-2. CANCEL THIS MSG 301843Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>221515Z MAY 26.
