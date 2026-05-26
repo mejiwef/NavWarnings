@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261114Z MAY 26
+NAVAREA IV 496/26(24).
+NORTH ATLANTIC.
+SURINAME.
+1. UNDERWATER OPERATIONS 01 JUN THRU 31 AUG 
+   BY M/V NORMAND NAVIGATOR
+   IN AREA BOUND BY
+   07-28.00N 056-00.00W, 07-28.00N 055-53.00W,
+   07-13.00N 055-53.00W, 07-13.00N 056-00.00W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>252000Z MAY 26

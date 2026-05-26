@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>260713Z MAY 26
-HYDROLANT 1012/26.
-GULF OF GUINEA.
-NIGERIA.
-CANCEL HYDROLANT 76/26
-AND THIS MSG.</msgText>
+        <msgText>261005Z MAY 26
+HYDROLANT 1013/26(36).
+NORTH ATLANTIC.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   292359Z JUN BY M/V POURQUOI PAS
+   IN AREA BOUND BY
+   46-20.00N 017-30.00W, 46-20.00N 016-30.00W,
+   45-50.00N 016-30.00W, 45-50.00N 017-30.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 300059Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -853,19 +857,6 @@ NORTH ATLANTIC.
 MOROCCO.
 DNC 08.
 CAP SPARTEL LIGHT 35-47.46N 005-55.43W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>STRUCTURE</category>
-        <status>INFORCE</status>
-        <msgText>131004Z JAN 26
-HYDROLANT 76/26(57).
-GULF OF GUINEA.
-NIGERIA.
-DNC 01.
-NAVIGATIONAL AIDS AT OFFSHORE STRUCTURE 
-04-11.40N 007-39.40E INOPERATIVE.
-CAUTION ADVISED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
