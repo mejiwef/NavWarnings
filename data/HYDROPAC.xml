@@ -177,17 +177,6 @@ YEMEN.
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
-        <msgText>241033Z MAY 26
-HYDROPAC 1533/26.
-SOUTH PACIFIC.
-1. DERELICT 40 FOOT S/V JUMANJI, WHITE HULL, 
-   DISMASTED AND ADRIFT IN VICINITY 
-   29-12.26S 171-37.22E AT 240500Z MAY.
-2. CANCEL THIS MSG 271033Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
         <msgText>241027Z MAY 26
 HYDROPAC 1532/26.
 TASMAN SEA.
@@ -876,23 +865,6 @@ SOUTH PACIFIC.
    33-08.44S 162-43.16W, 41-22.39S 142-30.17W,
    42-23.19S 143-00.53W, 34-06.17S 163-19.10W.
 2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121628Z MAY 26
-HYDROPAC 1394/26.
-ARABIAN SEA.
-OMAN.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 25 MAY
-   BY CABLESHIP ILE DE BREHAT
-   ALONG TRACKLINE JOINING
-   16-59.10N 054-09.77E, 16-46.25N 054-19.86E,
-   16-13.78N 054-32.71E, 15-52.93N 054-51.18E,
-   15-03.81N 055-43.49E, 14-46.73N 056-11.14E,
-   14-25.17N 057-25.35E, 14-21.10N 057-34.14E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
