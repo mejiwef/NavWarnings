@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>260713Z MAY 26
+HYDROLANT 1012/26.
+GULF OF GUINEA.
+NIGERIA.
+CANCEL HYDROLANT 76/26
+AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>251641Z MAY 26
@@ -216,19 +226,6 @@ SOUTH ATLANTIC.
 SOUTH AFRICA.
 CAPE TOWN RADIO 33-41.00S 018-43.00E
 HF DSC UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160345Z MAY 26
-HYDROLANT 957/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 260300Z MAY BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 260400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO BEACON</category>

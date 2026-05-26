@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>260620Z MAY 26
+HYDROPAC 1551/26.
+GULF OF THAILAND.
+VIETNAM.
+FISHERMAN MISSING FROM F/V CM 91639 TS 
+IN 08-49.00N 104-24.00E AT 260030Z MAY.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>260516Z MAY 26
+HYDROPAC 1549/26.
+BASS STRAIT.
+TASMANIA.
+EIGHT, SIX METER BUOYS, YELLOW, FL 3 SEC,
+ESTABLISHED IN AREA WITHIN TWO MILES OF 
+39-51.73S 145-22.50E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260357Z MAY 26
+HYDROPAC 1547/26.
+INDIAN OCEAN.
+CHRISTMAS ISLAND.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY CABLESHIP RESOLUTE
+   ALONG TRACKLINES JOINING:
+   A. 10-24.39S 105-22.43E, 10-24.61S 105-20.74E,
+      10-21.77S 105-20.12E, 10-24.66S 105-20.20E,
+      10-23.78S 105-15.60E, 10-21.96S 105-13.59E.
+   B. 10-14.20S 105-12.22E, 10-21.96S 105-13.59E.
+   C. 10-16.51S 105-23.85E, 10-16.25S 105-22.65E,
+      10-18.92S 105-21.79E, 10-16.13S 105-22.12E,
+      10-14.20S 105-12.22E.
+   D. 09-14.40S 102-23.91E, 09-44.62S 103-46.49E,
+      09-57.94S 104-11.73E, 10-10.42S 105-06.66E,
+      10-14.20S 105-12.22E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1514/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251452Z MAY 26
@@ -306,18 +355,6 @@ SOUTH PACIFIC.
 2. CANCEL THIS MSG 271431Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>230309Z MAY 26
-HYDROPAC 1522/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-1. DERELICT 70 METER BARGE ADRIFT IN 
-   25-42.40N 141-46.00E AT 220243Z MAY.
-2. CANCEL THIS MSG 260315Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>221451Z MAY 26.
@@ -390,34 +427,6 @@ RUSSIA.
 2. CANCEL THIS MSG 010001Z JAN 27.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>220300Z MAY 26
-HYDROPAC 1515/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-EIGHT, SIX METER BUOYS, YELLOW, FL W 3 SEC,
-ESTABLISHED IN AREA WITHIN TWO MILES OF
-39-51.73S 142-22.50E.
-THREE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>212103Z MAY 26
-HYDROPAC 1514/26.
-EASTERN INDIAN OCEAN.
-CHRISTMAS ISLAND.
-1. CABLE OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY CABLESHIP RESOLUTE
-   ALONG TRACKLINE JOINING
-   14-16.77S 105-21.95E, 13-35.10S 104-57.21E,
-   12-18.07S 104-48.42E, 11-58.06S 104-53.03E,
-   11-30.39S 105-13.40E, 10-21.96S 105-13.59E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1513/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211554Z MAY 26
@@ -451,20 +460,6 @@ PAKISTAN.
    D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL THIS MSG 302000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211049Z MAY 26
-HYDROPAC 1505/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 250330Z TO 250730Z 
-   AND 260300Z TO 260500Z MAY IN AREA BOUND BY
-   20-48.91N 087-07.08E, 20-22.03N 087-29.68E,
-   19-48.93N 087-40.23E, 19-40.18N 086-52.85E,
-   20-15.83N 086-50.73E, 20-48.11N 087-02.31E.
-2. CANCEL THIS MSG 260600Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -520,18 +515,6 @@ GUAM.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 281400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210359Z MAY 26
-HYDROPAC 1499/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V BHAGWAN DRYDEN
-IN 19-55.80S 115-23.40E.
-ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
