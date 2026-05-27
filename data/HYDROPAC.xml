@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>271238Z MAY 26
+HYDROPAC 1556/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   010500Z TO 010900Z JUN, ALTERNATE 
+   0500Z TO 0900Z DAILY 02 THRU 05 JUN
+   IN AREAS BOUND BY:
+   A. 24-27.70N 132-39.60E, 25-01.90N 133-40.10E,
+      22-11.38N 135-33.95E, 21-37.48N 134-34.4.
+   B. 15-19.17N 139-00.50E, 15-45.65N 139-49.30E,
+      13-33.10N 141-05.20E, 13-06.73N 140-16.80E.
+2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271232Z MAY 26
+HYDROPAC 1555/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
+   31 MAY THRU 29 JUN IN AREA BOUND BY
+   28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
+   25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
+2. CANCEL THIS MSG 301000Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271226Z MAY 26
+HYDROPAC 1554/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 312200Z MAY TO 010900Z JUN,
+   ALTERNATE 2200Z TO 0900Z DAILY  01 THRU 04 JUN
+   IN AREA WITHIN 25 MILES OF 31-14.23N 144-26.80E.
+2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>261014Z MAY 26
@@ -202,30 +242,6 @@ TASMAN SEA.
 2. CANCEL THIS MSG 042008Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>241047Z MAY 26
-HYDROPAC 1534/26.
-GULF OF ADEN.
-YEMEN.
-1. VESSEL ATTACKED IN 12-07.00N 044-51.00E AT 231802Z MAY.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 271046Z MAY 26</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>241027Z MAY 26
-HYDROPAC 1532/26.
-TASMAN SEA.
-NEW ZEALAND.
-1. DERELICT 72 FOOT VESSEL ADRIFT 
-   IN VICINITY 35-05.87S 172-47.93E
-   AT 231939Z MAY.
-2. CANCEL THIS MSG 271027Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>241015Z MAY 26
@@ -289,19 +305,6 @@ PACIFIC OCEAN.
    06-49.00S 132-47.00W, 10-24.00N 120-26.00W,
    08-56.00N 118-25.00W, 08-16.00S 130-47.00W.
 2. CANCEL THIS MSG 050125Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240707Z MAY 26
-HYDROPAC 1527/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 0830Z DAILY 
-   26 AND 27 MAY IN AREA BOUND BY
-   17-42.00N 083-48.00E, 17-42.00N 084-14.00E,
-   17-20.00N 084-14.00E, 17-20.00N 083-48.00E.
-2. CANCEL THIS MSG 270930Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -424,19 +427,6 @@ PAKISTAN.
    D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL THIS MSG 302000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211038Z MAY 26
-HYDROPAC 1504/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0830Z 
-   DAILY 25 THRU 27 MAY IN AREA BOUND BY
-   17-35.91N 083-56.86E, 17-38.08N 083-56.86E,
-   17-38.08N 083-59.13E, 17-35.91N 083-59.13E.
-2. CANCEL THIS MSG 270930Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

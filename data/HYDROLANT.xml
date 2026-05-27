@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271305Z MAY 26
+HYDROLANT 1021/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   312200Z AUG IN AREA BOUND BY
+   21-36.17S 041-00.00W, 21-36.05S 040-37.59W,
+   22-04.02S 040-37.17W, 22-04.37S 041-00.41W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 312300Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>270417Z MAY 26
@@ -201,20 +215,6 @@ BRAZIL.
 2. CANCEL THIS MSG 170001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>190622Z MAY 26
-HYDROLANT 973/26.
-ENGLISH CHANNEL.
-NORTH CHANNEL.
-ENGLAND.
-1. NAVTEX STATION NITON(E)(K) 50-35.18N 001-15.27W 
-   OFF AIR 200001Z TO 292359Z MAY. 
-2. NITON BROADCASTS WILL BE TRANSMITTED FROM
-   NAVTEX STATION PORTPATRICK (O) 54-50.63N 005-07.46W. 
-3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>162010Z MAY 26
@@ -306,22 +306,6 @@ NORWAY.
    65-30.00N 008-00.00W, 65-30.00N 012-00.00E,
    57-30.00N 012-00.00E, 57-30.00N 008-00.00W.
 2. CANCEL HYDROLANT 939/26.
-3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110933Z MAY 26
-HYDROLANT 929/26.
-GULF OF GUINEA.
-NIGERIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 292359Z MAY 
-   BY M/V SW DUCHESS TOWING TEN 8100 METER 
-   LONG CABLES IN AREA BOUND BY
-   04-08.75N 007-25.12E, 04-08.75N 008-06.62E,
-   03-48.24N 008-06.62E, 03-48.24N 007-25.12E.
-   SEVEN MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 928/26.
 3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

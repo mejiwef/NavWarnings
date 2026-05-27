@@ -3,6 +3,18 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>271108Z MAY 26
+NAVAREA XII 381/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 271500Z TO 272200Z MAY
+   IN AREA WITHIN TWO MILES OF 
+   32-35.82N 117-10.87W.
+2. CANCEL THIS MSG 272300Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>130021Z MAY 26
 NAVAREA XII 380/26.
 NORTH PACIFIC.
