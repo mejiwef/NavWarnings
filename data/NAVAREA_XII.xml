@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>262117Z MAY 26
+NAVAREA XII 374/26.
+BERING SEA.
+ALASKA.
+1. CABLE OPERATIONS 31 MAY THRU 10 JUN
+   BY CABLESHIP IT INTEGRITY
+   ALONG TRACKLINE JOINING
+   58-41.80N 157-20.60W, 64-29.20N 165-19.20W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>200553Z MAY 26

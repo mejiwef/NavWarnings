@@ -161,25 +161,6 @@ QATAR.
 2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>250314Z MAY 26
-HYDROPAC 1538/26.
-PHILIPPINE SEA.
-SOUTH CHINA SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   261500Z TO 262100Z MAY 
-   IN AREAS BOUND BY:
-   A. 19-42.00N 118-43.00E, 19-37.00N 120-09.00E,
-      19-00.00N 120-06.00E, 19-04.00N 118-41.00E.
-   B. 19-20.00N 123-26.00E, 19-14.00N 124-26.00E,
-      18-43.00N 124-23.00E, 18-47.00N 123-24.00E.
-   C. 17-29.00N 138-28.00E, 17-01.00N 141-09.00E,
-      16-13.00N 141-00.00E, 16-41.00N 138-19.00E.
-2. CANCEL THIS MSG 262200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>250150Z MAY 26
@@ -511,20 +492,6 @@ CHILE.
    20-04.00S 070-30.70W, 20-04.00S 070-20.00W,
    20-14.00S 070-20.00W, 20-14.00S 070-30.70W.
 2. CANCEL THIS MSG 282200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210324Z MAY 26
-HYDROPAC 1497/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 261400Z TO 262200Z MAY
-   IN AREA BOUND BY
-   30-11.00S 071-55.00W, 30-11.00S 071-37.50W,
-   30-20.00S 071-37.50W, 30-20.00S 071-42.00W,
-   30-27.00S 071-42.00W, 30-27.00S 071-55.00W.
-2. CANCEL THIS MSG 262300Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

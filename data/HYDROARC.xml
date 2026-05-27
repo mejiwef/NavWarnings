@@ -53,20 +53,6 @@ RUSSIA.
 2. CANCEL THIS MSG 282200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201528Z MAY 26
-HYDROARC 75/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS
-   242100Z THRU 262100Z MAY
-   IN AREA BOUND BY
-   69-35.80N 032-30.70E, 69-32.60N 032-55.10E,
-   69-29.40N 032-51.80E, 69-32.50N 032-27.50E.
-2. CANCEL THIS MSG 262200Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>201516Z MAY 26
