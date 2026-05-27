@@ -946,19 +946,6 @@ INDIA.
 2. CANCEL THIS MSG 291530Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290704Z APR 26
-HYDROPAC 1268/26.
-EASTERN INDIAN OCEAN.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V REACH REMOTE 2
-IN AREA BOUND BY
-19-39.00S 113-03.00E, 20-00.00S 113-03.00E,
-20-00.00S 113-25.00E, 19-39.00S 113-25.00E.
-ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>272240Z APR 26
