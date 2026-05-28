@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280435Z MAY 26
+HYDROPAC 1568/26.
+BASS STRAIT.
+TASMAN SEA.
+AUSTRALIA.
+CABLE OPERATIONS 
+IN PROGRESS UNTIL FURTHER NOTICE 
+BY CABLESHIP RESPONDER
+WITHIN FIVE MILES OF TRACKLINE JOINING
+38-19.86S 144-19.61E, 39-06.11S 145-33.18E,
+39-17.45S 146-22.33E, 39-23.78S 148-40.00E,
+39-20.00S 149-46.17E, 37-18.44S 153-20.94E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>280325Z MAY 26
+HYDROPAC 1567/26.
+TIMOR SEA.
+AUSTRALIA.
+21 BUOYS, YELLOW, FL Y 1.5 SEC,
+ESTABLISHED IN AREA BOUND BY
+09-51.00S 129-58.00E, 10-36.00S 129-58.00E,
+10-36.00S 128-43.00E, 09-51.00S 128-43.00E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270847Z MAY 26
+HYDROPAC 1566/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 02 THRU 04 JUN IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 041400Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270908Z MAY 26
+HYDROPAC 1565/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 022300Z TO 030400Z,
+   032200Z TO 040600Z AND
+   050001Z TO 050300Z JUN IN AREA BOUND BY
+   13-24.75N 144-25.17E, 13-10.82N 144-25.05E,
+   13-11.83N 144-35.08E, 13-17.75N 144-35.35E,
+   13-24.22N 144-34.75E, 13-24.80N 144-25.15E.
+2. CANCEL THIS MSG 050400Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>251549Z MAY 26
+HYDROPAC 1564/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 02 THRU 06 JUNE AND
+   0343Z TO 0829Z DAILY 07 THRU 08 JUNE
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 080929Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280059Z MAY 26
+HYDROPAC 1563/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 312000Z MAY TO 010001Z JUN
+   AND 012000Z TO 020400Z JUN IN AREAS BOUND BY:
+   A. 35-50.00S 175-50.00E, 35-50.00S 176-25.00E,
+      36-20.00S 176-25.00E, 36-20.00S 175-50.00E.
+   B. 35-50.00S 176-25.00E, 35-50.00S 175-50.00E,
+      35-20.00S 176-25.00E, 35-20.00S 177-17.50E,
+      36-20.00S 177-17.50E, 36-20.00S 176-25.00E.
+2. CANCEL THIS MSG 020500Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271609Z MAY 26
@@ -227,18 +318,6 @@ QATAR.
    25-56.41N 051-34.26E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>250150Z MAY 26
-HYDROPAC 1537/26.
-TIMOR SEA.
-AUSTRALIA.
-1. DERELICT 15 METER S/V BALAMARA, WHITE HULL,
-   ADRIFT IN VICINITY 11-47.03S 129-31.72E
-   AT 241100Z MAY.
-2. CANCEL THIS MSG 280150Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

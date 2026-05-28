@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>280504Z MAY 26
+HYDROLANT 1026/26.
+NORTH SEA.
+ENGLAND.
+1. MF R/T AND DSC SERVICES OFF AIR AT:
+   A. BAWDSEY 51-59.60N 001-24.50E.
+   B. GREGNESS 57-07.70N 002-03.20W.
+   C. CULLERCOATS 55-04.40N 001-27.80W.
+2. LANGHAM 52-56.50N 000-57.20E MF DSC
+   SERVICES OFF AIR.
+3. CANCEL HYDROLANT 783/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>280312Z MAY 26
+HYDROLANT 1025/26.
+CELTIC SEA.
+FRANCE.
+POINTE DE CREACH LIGHT 48-27.55N 005-07.74W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261307Z MAY 26
+HYDROLANT 1024/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0500Z TO 1900Z 
+   DAILY 02 AND 03 JUN AND 0500Z TO 1500Z 
+   DAILY 04 AND 05 JUN IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 051600Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>271340Z MAY 26
@@ -459,22 +500,6 @@ IN AREA BOUND BY
 60-02.30N 001-58.40E, 59-59.40N 002-17.00E,
 59-46.00N 002-08.70E, 59-48.90N 001-50.20E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>191350Z APR 26
-HYDROLANT 783/26.
-NORTH SEA.
-ENGLAND.
-1. MF R/T SERVICES OFF AIR AT:
-   A. BAWDSEY 51-59.6N 001-24.5E.
-   B. LANGHAM 52-56.5N 000-57.2E.
-   C. CULLERCOATS 55-04.4N 001-27.8W.
-2. MF DSC AND R/T SERVICES OFF AIR AT:
-   A. GREGNESS 57-07.70N 002-03.20W
-3. CANCEL HYDROLANT 550/26, 551/26, 570/26,
-   780/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

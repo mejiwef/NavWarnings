@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>272118Z MAY 26
+NAVAREA XII 383/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1300Z TO 0100Z
+   DAILY 02 AND 03 JUN, ALTERNATE 1300Z TO 0100Z
+   DAILY 04 AND 05 JUN IN AREA BOUND BY
+   33-57.25N 119-12.95W, 33-53.93N 119-06.56W,
+   33-42.85N 119-07.13W, 33-15.07N 119-46.65W,
+   33-41.98N 120-13.80W.
+2. CANCEL THIS MSG 060200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>130021Z MAY 26
 NAVAREA XII 380/26.
 NORTH PACIFIC.
