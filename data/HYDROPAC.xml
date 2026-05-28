@@ -565,21 +565,6 @@ PHILIPPINE SEA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>210849Z MAY 26
-HYDROPAC 1501/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 26 THRU 28 MAY IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 281400Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>210328Z MAY 26
 HYDROPAC 1498/26.
 SOUTH PACIFIC.

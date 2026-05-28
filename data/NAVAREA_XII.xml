@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>281444Z MAY 26
+NAVAREA XII 384/26.
+NORTH PACIFIC.
+UNITED STATES.
+Alaska.
+1.USCG REMOTE COMMUNICATIONS FACILITIES:
+   A. PT. REYES (NMC), 37-55N 122-44W
+   B. KODIAK (NOJ), 57-46N 152-34W
+   OFF AIR 281400Z TO 281900Z MAY.
+2. CANCEL THIS MSG 282000Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>272118Z MAY 26
