@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>281155Z MAY 26
+HYDROARC 87/26.
+CANADA.
+MCTS IQALUIT CENTRE 63-43.80N 068-32.70W 
+OFF AIR 2812130Z MAY.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271843Z MAY 26
