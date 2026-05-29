@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>290648Z MAY 26
-HYDROLANT 1040/26.
-CELTIC SEA.
-FRANCE.
-CANCEL HYDROLANT 1025/26 AND THIS MSG, 
-AID RESTORED.</msgText>
+        <msgText>291243Z MAY 26
+HYDROLANT 1043/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 280300Z MAY TO
+   070259Z JUN BY M/V SISTAC VITORIA
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 080400Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291019Z MAY 26
+HYDROLANT 1042/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA. 
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-54.00S 054-32.40W.
+   B. A84, 72-26.40S 108-16.80W.
+   C. A85, 66-52.20S 056-24.60W.
+   D. D33A, 64-42.00S 057-02.40W.
+   E. D33C, 64-50.40S 056-17.40W.
+2. CANCEL THIS MSG 301013Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -91,22 +110,6 @@ BRAZIL.
    23-01.00S 042-00.00W, 23-07.00S 042-00.00W,
    23-07.00S 042-04.48W.
 2. CANCEL THIS MSG 032230Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281111Z MAY 26
-HYDROLANT 1033/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-54.00S 054-32.40W.
-   B. A84, 72-26.40S 108-16.80W.
-   C. A85, 66-52.20S 056-24.60W.
-   D. D33A, 64-42.00S 057-02.40W.
-   E. D33C, 64-50.40S 056-17.40W.
-2. CANCEL THIS MSG 291103Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -264,7 +267,8 @@ HYDROLANT 997/26.
    msi.nga.mil/NavWarnings.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROLANT 954/26.</msgText>
+3. CANCEL HYDROLANT 954/26.
+CANCEL THIS MSG 291400Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -873,17 +877,6 @@ DNC 09.
    37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
    38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>232155Z JAN 26
-HYDROLANT 154/26(51).
-NORTH ATLANTIC.
-MOROCCO.
-DNC 08.
-CAP SPARTEL LIGHT 35-47.46N 005-55.43W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
