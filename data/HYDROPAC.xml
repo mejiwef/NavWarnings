@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290053Z MAY 26
+HYDROPAC 1571/26.
+CORAL SEA.
+AUSTRALIA.
+CLARENCE REAR LEADING LIGHT
+29-25.95S 153-21.84E UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>282212Z MAY 26
+HYDROPAC 1570/26.
+ARABIAN SEA.
+PAKISTAN.
+1. 20 FOOT CONTAINER ADRIFT
+   IN 24-43.00N 066-50.40E.
+2. CANCEL THIS MSG 312212Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281138Z MAY 26
 HYDROPAC 1569/26.
 BAY OF BENGAL.
 INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 
-   0630Z AND 0900Z TO 1100Z
-   DAILY 27 THRU 30 MAY AND 01 THRU 03 JUN.
-   IN AREA BOUND BY:
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND
+   0900Z TO 1100Z DAILY 27 THRU 30 MAY AND
+   01 THRU 03 JUN IN AREA BOUND BY:
    21-36.25N 087-28.56E, 20-55.05N 089-13.75E,
    19-49.48N 089-16.83E, 19-06.18N 087-52.06E,
    21-16.61N 086-51.35E.
@@ -84,7 +104,7 @@ HYDROPAC 1564/26.
 SOUTH PACIFIC.
 1. HAZARDOUS OPERATIONS, SPACE DEBRIS
    1543Z TO 2029Z DAILY 02 THRU 06 JUNE AND
-   0343Z TO 0829Z DAILY 07 THRU 08 JUNE
+   0343Z TO 0829Z DAILY 07 AND 08 JUNE
    IN AREA BOUND BY
    25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
@@ -336,19 +356,6 @@ QATAR.
 2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250143Z MAY 26
-HYDROPAC 1536/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 281600Z TO 282200Z MAY
-   IN AREA BOUND BY
-   36-20.00S 073-18.00W, 36-10.00S 073-18.00W,
-   36-10.00S 073-10.01W, 36-20.00S 073-10.01W.
-2. CANCEL THIS MSG 282300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>241254Z MAY 26
@@ -561,19 +568,6 @@ PHILIPPINE SEA.
    15-35.00N 141-00.00E, 15-35.00N 140-20.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 301459Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210328Z MAY 26
-HYDROPAC 1498/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1200Z TO 2100Z 
-   DAILY 26 THRU 28 MAY IN AREA BOUND BY
-   20-04.00S 070-30.70W, 20-04.00S 070-20.00W,
-   20-14.00S 070-20.00W, 20-14.00S 070-30.70W.
-2. CANCEL THIS MSG 282200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

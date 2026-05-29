@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>282112Z MAY 26
+HYDROLANT 1039/26.
+BRISTOL CHANNEL.
+ENGLAND.
+1. BULL POINT LIGHT 51-11.90N 004-12.10W
+    UNRELIABLE.
+2. CANCEL HYDROLANT 1032/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281552Z MAY 26
@@ -21,9 +32,9 @@ FRANCE.
 HYDROLANT 1037/26.
 SOUTH ATLANTIC.
 BRAZIL.
-1. DERELICT VESSEL SLIM STRUCTURE WITH THREE ANTENNAS WITH 
-   YELLOW FLAGS ADRIFT IN 22-12.00S 040-39.00W.
-   AT 281219Z MAY.
+1. DERELICT VESSEL SLIM STRUCTURE WITH THREE
+   ANTENNAS WITH YELLOW FLAGS ADRIFT IN
+   22-12.00S 040-39.00W AT 281219Z MAY.
 2. CANCEL THIS MSG 311420Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -86,26 +97,6 @@ ANTARCTICA.
    D. D33A, 64-42.00S 057-02.40W.
    E. D33C, 64-50.40S 056-17.40W.
 2. CANCEL THIS MSG 291103Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>281048Z MAY 26
-HYDROLANT 1032/26.
-BRISTOL CHANNEL.
-LUNDY.
-BULL POINT LIGHTHOUSE
-IN 51-11.90N 004-12.10W.
-UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>280930Z MAY 26
-HYDROLANT 1029/26.
-SOUTH ATLANTIC.
-BRAZIL.
-CANCEL HYRDOLANT 982/26 AND THIS MSG.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -325,16 +316,6 @@ BRAZIL.
    22-19.78S 040-37.63W, 22-19.88S 041-00.32W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>210113Z MAY 26
-HYDROLANT 982/26.
-BRAZIL.
-1. MORRO TAIPUS LIGHT 13-57.20S 038-56.50W
-   UNLIT UNTIL 16 NOV.
-2. CANCEL THIS MSG 170001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
