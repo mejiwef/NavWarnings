@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>280827Z MAY 26
+NAVAREA IV 511/26.
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   030802Z TO 031244Z JUN, ALTERNATE 040800Z TO 041242Z,
+   050718Z TO 051200Z, 060655Z TO 061137Z,
+   070633Z TO 071115Z, 080611Z TO 081053Z,
+   AND 090548Z TO 091030Z JUN
+   IN AREA BOUND BY
+   31-42.00N 077-10.00W, 32-23.00N 076-52.00W,
+   33-28.00N 074-58.00W, 33-19.00N 074-46.00W,
+   32-36.00N 075-02.00W, 31-51.00N 076-13.00W,
+   31-31.00N 076-56.00W.
+2. CANCEL THIS MSG 091130Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>282303Z MAY 26
-NAVAREA IV 508/26.
+        <msgText>290109Z MAY 26
+NAVAREA IV 510/26.
 NORTH ATLANTIC.
 MASSACHUSETTS
 1. USCG REMOTE COMMUNICATION FACILITY
    BOSTON 41-43.00N 070-31.00W TRANSMIT
-   AND RECEIVE SERVICES UNRELIABLE UNTIL
-   290200Z MAY.
-2. CANCEL THIS MSG 290300Z MAY 26.</msgText>
+   AND RECEIVE SERVICES UNRELIABLE
+   291300Z TO 291700Z MAY.   
+2. CANCEL THIS MSG 291800Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
+        <category>NAVTEX</category>
         <status>INFORCE</status>
-        <msgText>282156Z MAY 26
-NAVAREA IV 507/26.
+        <msgText>290100Z MAY 26
+NAVAREA IV 509/26.
 DAVIS STRAIT.
 CANADA.
-CANCEL NAVAREA IV 505/26 AND THIS MSG,
-STATION RESTORED.</msgText>
+1. NAVTEX STATION IQALUIT (T)
+   63-43.80N 068-32.70W OFF AIR
+   UNTIL 292100Z MAY.
+2. CANCEL THIS MSG 292200Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -64,16 +84,6 @@ NAVAREA IV 506/26.
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
 9. CANCEL THIS MSG 300001Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>281857Z MAY 26
-NAVAREA IV 505/26.
-DAVIS STRAIT.
-CANADA.
-NAVTEX STATION IQALUIT (T)
-63-43.80N 068-32.70W OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -152,21 +162,6 @@ COLOMBIA.
    10-23.20N 075-33.80W, 10-23.20N 075-32.70W,
    10-22.40N 075-32.70W, 10-22.40N 075-33.80W.
 2. CANCEL THIS MSG 292100Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250542Z MAY 26
-NAVAREA IV 493/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. NAVAL OPERATIONS 280500Z TO 290500Z MAY
-   IN AREA BOUND BY
-   10-00.00N 076-09.00W, 10-00.00N 075-53.20W,
-   10-06.80N 075-48.60W, 10-06.80N 075-42.00W,
-   09-54.00N 075-42.00W, 09-54.00N 075-58.00W,
-   09-50.00N 075-58.00W, 09-50.00N 076-09.00W.
-2. CANCEL THIS MSG 290600Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -258,19 +253,6 @@ NAVAREA IV 483/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA IV COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA IV 350/26, 417/26, 455/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210943Z MAY 26
-NAVAREA IV 481/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. NAVAL OPERATIONS 250600Z TO 290600Z MAY
-   IN AREA BOUND BY
-   10-28.50N 075-50.00W, 10-28.50N 075-45.00W,
-   10-18.90N 075-45.00W, 10-18.90N 075-50.00W.
-2. CANCEL THIS MSG 290700Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVAREA IV RIG LIST</category>

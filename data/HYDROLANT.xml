@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>290648Z MAY 26
+HYDROLANT 1040/26.
+CELTIC SEA.
+FRANCE.
+CANCEL HYDROLANT 1025/26 AND THIS MSG, 
+AID RESTORED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>282112Z MAY 26
@@ -8,7 +18,7 @@ HYDROLANT 1039/26.
 BRISTOL CHANNEL.
 ENGLAND.
 1. BULL POINT LIGHT 51-11.90N 004-12.10W
-    UNRELIABLE.
+   UNRELIABLE.
 2. CANCEL HYDROLANT 1032/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -125,16 +135,6 @@ ENGLAND.
 2. LANGHAM 52-56.50N 000-57.20E MF DSC
    SERVICES OFF AIR.
 3. CANCEL HYDROLANT 783/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>280312Z MAY 26
-HYDROLANT 1025/26.
-CELTIC SEA.
-FRANCE.
-POINTE DE CREACH LIGHT 48-27.55N 005-07.74W
-UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
