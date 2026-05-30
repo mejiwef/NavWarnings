@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>292328Z MAY 26
+HYDROLANT 1048/26.
+NORTH ATLANTIC.
+AZORES.
+HF, MF, DSC AND NAVTEX STATIONS OFF AIR: 
+A. SAO MIGUEL (F) 37-48.00N 025-33.00W.
+B. PENALVA (R) 38-36.00N 009-02.00W.
+C. PORTO SANTO (P) 33-06.00N 016-20.00W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>291513Z MAY 26
@@ -356,21 +368,6 @@ DNC 01.
    08-39.50S 009-20.30E, 06-36.80S 008-53.10E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 277/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141257Z MAY 26
-HYDROLANT 948/26.
-BLACK SEA.
-ROMANIA.
-1. SURVEY OPERATIONS 180300Z TO 291930Z MAY
-   IN AREA BOUND BY
-   43-44.99N 028-40.41E, 43-57.39N 028-48.20E,
-   43-57.86N 028-55.21E, 43-55.20N 030-10.42E,
-   43-48.23N 030-30.19E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 292030Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>

@@ -523,19 +523,6 @@ TASMAN SEA.
 2. CANCEL THIS MSG 041754Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240755Z MAY 26
-HYDROPAC 1529/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 291600Z TO 292200Z MAY
-   IN AREA BOUND BY
-   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
-   33-27.00S 072-08.00W, 33-27.00S 072-31.50W.
-2. CANCEL THIS MSG 292300Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>240720Z MAY 26
@@ -981,27 +968,6 @@ BANGLADESH.
 2. CANCEL THIS MSG 311700Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>272240Z APR 26
-HYDROPAC 1257/26.
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0300Z TO 1900Z
-   DAILY 01, 04 THRU 08, 11 THRU 15, 18 THRU 22
-   AND 25 THRU 29 MAY IN AREAS BOUND BY:
-   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
-      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
-   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
-      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
-   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
-      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
-   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
-      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
-2. CANCEL HYDROPAC 1255/26.
-3. CANCEL THIS MSG 292000Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>261304Z APR 26
@@ -1219,17 +1185,6 @@ ARABIAN SEA.
 PAKISTAN.
 MANORA BREAKWATER LIGHT 24-46.74N 066-58.96E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>280808Z MAR 26
-HYDROPAC 947/26.
-NORTH PACIFIC.
-USCG REMOTE COMMUNICATION FACILITY GUAM
-13-29.00N 144-50.00E WEATHER MESSAGE
-SERVICES INTERRUPTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
