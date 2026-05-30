@@ -754,20 +754,6 @@ PAKISTAN.
 2. CANCEL THIS MSG 302000Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201154Z MAY 26
-HYDROPAC 1502/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-1. SURVEY OPERATIONS 1400Z TO 1359Z DAILY
-   26 THRU 29 MAY IN AREA BOUND BY
-   16-00.00N 140-20.00E, 16-00.00N 141-00.00E,
-   15-35.00N 141-00.00E, 15-35.00N 140-20.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 301459Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>202135Z MAY 26

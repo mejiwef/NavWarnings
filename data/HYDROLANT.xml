@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301346Z MAY 26
+HYDROLANT 1053/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 56-09.00S 032-20.00W.
+   B. 49-11.00S 027-10.00W.
+   C. 63-27.00S 056-41.00W.
+   D. 62-49.00S 058-27.00W.
+2. CANCEL THIS MSG 311344Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>301017Z MAY 26
@@ -68,21 +83,6 @@ HYDROLANT 1046/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 994/26, 997/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291425Z MAY 26
-HYDROLANT 1045/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 56-09.00S 032-20.00W.
-   B. 49-11.00S 027-10.00W.
-   C. 63-27.00S 056-41.00W.
-   D. 62-49.00S 058-27.00W.
-2. CANCEL THIS MSG 301422Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
