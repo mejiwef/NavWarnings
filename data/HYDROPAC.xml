@@ -3,6 +3,29 @@
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
+        <msgText>301110Z MAY 26
+HYDROPAC 1594/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+1. DERELICT BARGE 70 METERS LONG ADRIFT 
+   IN VICINITY 26-51.43N 142-04.78E.
+   AT 300545Z MAY.
+2. CANCEL THIS MSG 021109Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>301026Z MAY 26
+HYDROPAC 1593/26.
+MOZAMBIQUE CHANNEL.
+1. DERELICT VESSEL MATHILDA GEM ADRIFT 
+   IN 18-12.93S 040-30.78E.
+2. CANCEL THIS MSG 021026Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
         <msgText>300540Z MAY 26
 HYDROPAC 1591/26.
 ARABIAN SEA.
@@ -100,17 +123,6 @@ WITHIN TEN MILES OF TRACKLINE JOINING
 39-17.00S 143-25.00E, 39-42.00S 142-37.00E,
 40-22.00S 137-28.00E.
 TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300213Z MAY 26
-HYDROPAC 1584/26.
-EASTERN INDIAN OCEAN.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V REACH REMOTE 2
-IN 20-04.27S 113-46.71E.
-ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>

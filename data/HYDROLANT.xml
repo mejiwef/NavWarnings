@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>301017Z MAY 26
+HYDROLANT 1052/26.
+SOUTH ATLANTIC.
+SOUTH AFRICA.
+CANCEL HYDROLANT 961/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301004Z MAY 26
+HYDROLANT 1051/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-54.00S 054-32.40W.
+   B. A84, 72-26.40S 108-16.80W.
+   C. A85, 66-52.20S 056-24.60W.
+   D. D33A, 64-42.00S 057-02.40W.
+   E. D33C, 64-50.40S 056-17.40W.
+2. CANCEL THIS MSG 311003Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>292328Z MAY 26
-HYDROLANT 1048/26.
+        <msgText>300725Z MAY 26
+HYDROLANT 1050/26.
 NORTH ATLANTIC.
 AZORES.
-HF, MF, DSC AND NAVTEX STATIONS OFF AIR: 
-A. SAO MIGUEL (F) 37-48.00N 025-33.00W.
-B. PENALVA (R) 38-36.00N 009-02.00W.
-C. PORTO SANTO (P) 33-06.00N 016-20.00W.</msgText>
+1. SAO MIGUEL (F) 37-48.00N 025-33.00W 
+   MF AND HF DSC OFF AIR. 
+2. CANCEL HYDROLANT 1048/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -86,22 +110,6 @@ BRAZIL.
    IN 22-22.48S 040-25.05W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080400Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291019Z MAY 26
-HYDROLANT 1042/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA. 
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-54.00S 054-32.40W.
-   B. A84, 72-26.40S 108-16.80W.
-   C. A85, 66-52.20S 056-24.60W.
-   D. D33A, 64-42.00S 057-02.40W.
-   E. D33C, 64-50.40S 056-17.40W.
-2. CANCEL THIS MSG 301013Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
