@@ -129,18 +129,6 @@ FRANCE.
 2. CANCEL THIS MSG 010100Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>281422Z MAY 26
-HYDROLANT 1037/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. DERELICT VESSEL SLIM STRUCTURE WITH THREE
-   ANTENNAS WITH YELLOW FLAGS ADRIFT IN
-   22-12.00S 040-39.00W AT 281219Z MAY.
-2. CANCEL THIS MSG 311420Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281342Z MAY 26
@@ -379,21 +367,6 @@ BRAZIL.
 1. ODAS BUOY ESTABLISHED IN 
    05-09.46S 035-09.81W.
 2. CANCEL THIS MSG 080001Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130128Z MAY 26
-HYDROLANT 941/26.
-NORTH ATLANTIC.
-NORTH SEA.
-NORWAY.
-1. HAZARDOUS OPERATIONS 180001Z TO 292359Z MAY
-   IN AREA BOUND BY
-   65-30.00N 008-00.00W, 65-30.00N 012-00.00E,
-   57-30.00N 012-00.00E, 57-30.00N 008-00.00W.
-2. CANCEL HYDROLANT 939/26.
-3. CANCEL THIS MSG 300059Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
