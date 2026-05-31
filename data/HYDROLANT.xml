@@ -3,6 +3,43 @@
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
+        <msgText>311559Z MAY 26
+HYDROLANT 1060/26.
+STATION SAO MIGUEL - CENCOMARACORES  37-48N 025-33W
+MF,HF,DSC,VOICE AZORES WESTERN GROUP COAST STATIONS ARE OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>311442Z MAY 26
+HYDROLANT 1059/26.
+SCOTIA SEA.
+SOUTH ATLANTIC
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 56-09.00S 032-20.00W.
+   B. 49-44.00S 028-22.00W.
+   C. 63-39.00S 056-21.00W.
+   D. 62-40.00S 058-14.00W.
+2. CANCEL THIS MSG 011441Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>311305Z MAY 26
+HYDROLANT 1058/26.
+NORTH CHANNEL.
+NORTH SEA.
+ENGLAND.
+1. CULLERCOATS NAVTEX STATION (G) IN: 
+    55-04.00N 001-28.00W.
+    OFF AIR 010001Z TO 102359Z JUN.
+2. BROADCASTS TRANSMITTED FROM PORTPATRICK 54-51.00N 005-07.00W. 
+3. CANCEL THIS MSG 110100Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
         <msgText>311210Z MAY 26
 HYDROLANT 1057/26.
 LITTLE MINCH.
@@ -39,21 +76,6 @@ BRAZIL.
    23-27.20S 042-46.50W, 23-41.60S 042-31.00W,
    23-56.00S 042-46.00W, 23-42.00S 043-01.50W.
 2. CANCEL THIS MSG 052200Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301346Z MAY 26
-HYDROLANT 1053/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 56-09.00S 032-20.00W.
-   B. 49-11.00S 027-10.00W.
-   C. 63-27.00S 056-41.00W.
-   D. 62-49.00S 058-27.00W.
-2. CANCEL THIS MSG 311344Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CANCEL MSG</category>
