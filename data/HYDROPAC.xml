@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>311124Z MAY 26
+HYDROPAC 1599/26.
+MOZAMBIQUE CHANNEL.
+1. DERELICT VESSEL MATHILDA GEM ADRIFT 
+   IN 18-05.03S 041-24.49E.
+2. CANCEL HYDROPAC 1593/26.
+3. CANCEL THIS MSG 031117Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>310856Z MAY 26
+HYDROPAC 1598/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+1. DERELICT 70 METER BARGE ADRIFT IN VICINITY 
+   27-05.02N 142-06.46E AT 310658Z MAY.
+2. CANCEL HYDROPAC 1594/26.
+3. CANCEL THIS MSG 030856Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>310639Z MAY 26
@@ -42,19 +66,6 @@ NORTHERN MARIANA ISLANDS.
    B. IN AREA WITHIN SIX MILES OF 16-00.97N 146-03.45E.
    C. IN AREA WITHIN 12 MILES OF 16-01.07N 146-03.33E.
 2. CANCEL THIS MSG 071100Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>301110Z MAY 26
-HYDROPAC 1594/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-1. DERELICT BARGE 70 METERS LONG ADRIFT 
-   IN VICINITY 26-51.43N 142-04.78E.
-   AT 300545Z MAY.
-2. CANCEL THIS MSG 021109Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -456,32 +467,6 @@ NEW ZEALAND.
       35-20.00S 176-25.00E, 35-20.00S 177-17.50E,
       36-20.00S 177-17.50E, 36-20.00S 176-25.00E.
 2. CANCEL THIS MSG 020500Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271609Z MAY 26
-HYDROPAC 1559/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 
-   290230Z TO 311130Z MAY IN AREA BOUND BY
-   17-17.24N 083-38.96E, 17-13.77N 083-50.68E,
-   17-09.56N 083-48.05E, 17-09.89N 083-33.55E.
-2. CANCEL THIS MSG 311230Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271605Z MAY 26
-HYDROPAC 1558/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 
-   290030Z TO 311030Z MAY IN AREA BOUND BY
-   17-59.00N 083-56.00E, 17-50.00N 083-44.00E,
-   17-49.00N 083-59.00E, 17-58.00N 084-11.00E.
-2. CANCEL THIS MSG 311130Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -1137,18 +1122,6 @@ BANGLADESH.
    E. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
       20-34.00N 089-54.00E, 20-34.00N 089-34.00E.   
 2. CANCEL THIS MSG 311700Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>261304Z APR 26
-HYDROPAC 1246/26.
-NORTH PACIFIC.
-1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
-   30 APR THRU 30 MAY IN AREA BOUND BY
-   28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
-   25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
-2. CANCEL THIS MSG 311000Z MAY 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
