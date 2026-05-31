@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310505Z MAY 26
+HYDROARC 91/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL 311900Z MAY
+   IN AREA BOUND BY
+   69-58.00N 033-38.00E, 69-58.00N 034-48.00E,
+   69-34.50N 034-48.00E, 69-34.50N 033-38.00E.
+2. CANCEL THIS MSG 312000Z MAY 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>291435Z MAY 26
