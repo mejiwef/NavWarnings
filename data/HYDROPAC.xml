@@ -342,27 +342,6 @@ TASMAN SEA.
 2. CANCEL THIS MSG 091404Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>290053Z MAY 26
-HYDROPAC 1571/26.
-CORAL SEA.
-AUSTRALIA.
-CLARENCE REAR LEADING LIGHT
-29-25.95S 153-21.84E UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>282212Z MAY 26
-HYDROPAC 1570/26.
-ARABIAN SEA.
-PAKISTAN.
-1. 20 FOOT CONTAINER ADRIFT
-   IN 24-43.00N 066-50.40E.
-2. CANCEL THIS MSG 312212Z MAY 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281138Z MAY 26
@@ -780,21 +759,6 @@ FIJI.
 NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>202017Z MAY 26
-HYDROPAC 1492/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 22 MAY THRU 02 JUN
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL HYDROPAC 1452/26.
-3. CANCEL THIS MSG 022129Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>201541Z MAY 26
@@ -878,24 +842,6 @@ REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151455Z MAY 26
-HYDROPAC 1445/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 16 MAY THRU 31 MAY
-   BY M/V POSH PANGLIMA, M/V POSH NATUNA
-   AND M/V POSH ARCTURUS IN VICINITY:
-   A. 20-10.38N 072-29.68E.
-   B. 20-36.02N 072-02.23E.
-   C. 19-21.01N 071-18.08E.
-   D. 20-20.13N 072-01.32E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>142329Z MAY 26
@@ -907,19 +853,6 @@ FURTHER NOTICE BY M/V SHARK 1
 ALONG TRACKLINE JOINING
 12-19.50S 130-39.90E, 12-15.10S 130-12.20E.
 TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141444Z MAY 26
-HYDROPAC 1433/26.
-ARABIAN SEA.
-INDIA.
-1. UNDERWATER OPERATIONS 15 THRU 31 MAY BY
-   TUG SAKSHAM AND M/V MICLYN CONSTRUCTOR I
-   IN VICINITY 19-31.00N 071-18.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -936,19 +869,6 @@ INDIA.
    19-04.24N 072-41.39E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 150001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141113Z MAY 26
-HYDROPAC 1430/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS 15 THRU 31 MAY
-   BY BARGE TWO AARYAN AND TUG TWO NADIM
-   IN VICINITY 20-36.00N 072-02.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -1006,21 +926,6 @@ INDIA.
       18-57.41N 072-10.90E, 18-56.87N 072-06.99E.
    ONE MILE WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 050001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022244Z MAY 26
-HYDROPAC 1304/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL 31 MAY
-   BY M/V SEAMEC PRINCESS 
-   ALONG TRACKLINE JOINING
-   20-36.02N 072-02.23E, 19-31.77N 071-18.08E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>
@@ -1166,25 +1071,6 @@ RUSSIA.
    39-53.52N 133-14.10E.
    SEVEN MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 040001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201533Z APR 26
-HYDROPAC 1179/26.
-ANDAMAN SEA.
-INDIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   31 MAY  BY M/V OCEANIC SIRIUS
-   IN AREA BOUND BY
-   13-27.00N 093-30.00E, 12-08.00N 093-30.00E,
-   12-08.00N 093-08.00E, 12-16.00N 092-59.00E,
-   12-53.00N 092-59.00E, 13-00.00N 093-01.00E,
-   13-04.00N 093-02.00E, 13-14.00N 093-04.00E,
-   13-20.00N 093-06.00E, 13-27.00N 093-06.00E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1164/26.
-3. CANCEL THIS MSG 010001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

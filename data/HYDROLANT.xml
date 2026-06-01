@@ -38,17 +38,6 @@ ENGLAND.
 3. CANCEL THIS MSG 110100Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>311210Z MAY 26
-HYDROLANT 1057/26.
-LITTLE MINCH.
-SCOTLAND.
-MRCC STORNOWAY. 
-IN 57-28.00N 006-42.10W
-R/T AND DSC SERVICES FROM SCOVAL SITE OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>310958Z MAY 26
@@ -167,20 +156,6 @@ ENGLAND.
 1. BULL POINT LIGHT 51-11.90N 004-12.10W
    UNRELIABLE.
 2. CANCEL HYDROLANT 1032/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281552Z MAY 26
-HYDROLANT 1038/26.
-BAY OF BISCAY.
-FRANCE.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 312359Z MAY
-   BY VESSEL M/V LANENIR IN AREA BOUND BY
-   44-11.00N 002-54.00W, 43-55.00N 002-28.00W,
-   43-52.00N 003-07.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010100Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
