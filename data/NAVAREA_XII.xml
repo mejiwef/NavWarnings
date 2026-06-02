@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>292119Z MAY 26
-NAVAREA XII 391/26.
-NORTH PACIFIC.
-ALASKA.
-1. USCG REMOTE COMMUNICATION FACILITY
-   KODIAK 57-46.00N 152-34.00W TRANSMIT
-   AND RECEIVE SERVICES UNRELIABLE
-   011300Z TO 012000Z JUN.
-2. CANCEL THIS MSG 012100Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>291603Z MAY 26
