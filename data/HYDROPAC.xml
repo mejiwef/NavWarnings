@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>021239Z JUN 26
+HYDROPAC 1614/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+1. DERELICT 70 METER BARGE ADRIFT IN VICINITY
+   28-03.18N 141-42.62E AT 020846Z JUN.
+2. CANCEL HYDROPAC 1598/26.
+3. CANCEL THIS MSG 051239Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021159Z JUN 26
+HYDROPAC 1613/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z
+   DAILY 06 AND 07 JUN IN AREA BOUND BY
+   17-58.90N 084-11.70E, 17-58.90N 084-27.30E,
+   17-49.50N 084-15.70E, 17-49.50N 083-59.60E.
+2. CANCEL THIS MSG 071130Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021122Z JUN 26
+HYDROPAC 1612/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z
+   DAILY 06 AND 07 JUN IN AREA BOUND BY
+   09-09.00N 075-52.00E, 09-09.00N 076-02.00E,
+   09-19.00N 076-02.00E, 09-19.00N 075-52.00E.
+2. CANCEL THIS MSG 071230Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021058Z JUN 26
+HYDROPAC 1611/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 060930Z TO 061330Z
+   AND 0430Z TO 0630Z AND 0930Z TO 1130Z
+   DAILY 08 AND 09 JUN IN AREA BOUND BY
+   20-30.22N 086-46.87E, 18-05.70N 088-17.80E,
+   18-41.65N 089-19.95E, 20-17.98N 089-14.92E,
+   21-36.18N 087-59.18E, 21-32.58N 087-22.95E,
+   21-22.05N 086-55.61E.
+2. CANCEL THIS MSG 091230Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021025Z JUN 26
+HYDROPAC 1610/26.
+ARABIAN SEA.
+1. HAZARDOUS OPERATIONS 061230Z TO 061800Z JUN
+   IN AREA BOUND BY
+   19-15.00N 069-28.00E, 19-15.00N 069-40.00E,
+   19-25.00N 069-40.00E, 19-25.00N 069-28.00E.
+2. CANCEL THIS MSG 061900Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020517Z JUN 26
@@ -918,18 +985,6 @@ SOUTH PACIFIC.
    33-08.44S 162-43.16W, 41-22.39S 142-30.17W,
    42-23.19S 143-00.53W, 34-06.17S 163-19.10W.
 2. CANCEL THIS MSG 051000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>120127Z MAY 26
-HYDROPAC 1387/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
-ESTABLISHED IN AREA WITHIN TWO MILES OF
-39-13.34S 142-50.34E.
-THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

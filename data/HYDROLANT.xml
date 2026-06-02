@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021309Z JUN 26
+HYDROLANT 1071/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-36.60S 053-41.40W.
+   B. A84, 72-33.00S 107-57.00W.
+   C. A85, 66-49.20S 056-17.40W.
+   D. D33A, 64-39.60S 056-56.40W.
+   E. D33C, 64-40.80S 056-06.60W.
+2. CANCEL THIS MSG 031309Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021252Z JUN 26
+HYDROLANT 1070/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 55-49.00S 032-26.00W.
+   B. 50-17.00S 027-35.00W.
+   C. 63-41.00S 056-05.00W.
+   D. 62-19.00S 057-55.00W.
+2. CANCEL THIS MSG 031252Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>020913Z JUN 26
+HYDROLANT 1069/26.
+CARDIGAN BAY.
+SAINT GEORGES CHANNEL.
+ENGLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1500Z 
+   DAILY 02 THRU 05 JUN IN AREA WITHIN 
+   17 MILES OF 52-26.70N 004-44.60W.
+2. CANCEL THIS MSG 051600Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020022Z JUN 26
@@ -45,22 +89,6 @@ ANTARCTICA.
    C. 63-41.00S 056-15.00W.
    D. 62-34.00S 058-12.00W.
 2. CANCEL THIS MSG 021316Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011247Z JUN 26
-HYDROLANT 1063/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-36.60S 053-41.40W.
-   B. A84, 72-33.00S 107-57.00W.
-   C. A85, 66-49.20S 056-17.40W.
-   D. D33A, 64-39.60S 056-56.40W.
-   E. D33C, 64-40.80S 056-06.60W.
-2. CANCEL THIS MSG 021247Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
