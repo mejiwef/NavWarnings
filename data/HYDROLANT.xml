@@ -508,20 +508,6 @@ BRAZIL.
 3. CANCEL THIS MSG 010001Z JAN 28.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210642Z APR 26
-HYDROLANT 798/26.
-NORTH SEA.
-SURVEY OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V OCEAN RELIANCE
-TOWING TWO 1200 METER LONG CABLES
-IN AREA BOUND BY
-60-02.30N 001-58.40E, 59-59.40N 002-17.00E,
-59-46.00N 002-08.70E, 59-48.90N 001-50.20E.
-WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>140928Z APR 26
