@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>021409Z JUN 26
+HYDROLANT 1072/26.
+NORTH SEA.
+ENGLAND.
+1. MF R/T AND DSC SERVICES OFF AIR AT:
+   A. BAWDSEY 51-59.60N 001-24.50E.
+   B. CULLERCOATS 55-04.40N 001-27.80W.
+   C. GREGNESS 57-07.70N 002-03.20W.
+2. LANGHAM 52-56.50N 000-57.20E MF DSC
+   SERVICES OFF AIR.
+3. CANCEL HYDROLANT 1066/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>021309Z JUN 26
@@ -57,38 +72,6 @@ MOROCCO.
    33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
    34-01.00N 008-03.00W.
 2. CANCEL THIS MSG 030100Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>011841Z JUN 26
-HYDROLANT 1066/26.
-NORTH SEA.
-ENGLAND.
-1. MF R/T AND DSC SERVICES OFF AIR AT:
-   A. BAWDSEY 51-59.60N 001-24.50E.
-   B. CULLERCOATS 55-04.40N 001-27.80W.
-   C. GREGNESS 57-07.70N 002-03.20W.
-2. LANGHAM 52-56.50N 000-57.20E MF DSC
-   SERVICES OFF AIR.
-3. ST MARGARETS HOPE 58-49.30N 002-57.40W 
-   MF R/T OFF AIR. 
-4. CANCEL HYDROLANT 1026/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011316Z JUN 26
-HYDROLANT 1064/26.
-SCOTIA SEA.
-SOUTH ATLANTIC
-ANTARCTICA.
-1. ICEBERGS REPORTED IN:
-   A. A76C, 55-56.00S 032-22.00W.
-   B. 50-17.00S 027-35.00W.
-   C. 63-41.00S 056-15.00W.
-   D. 62-34.00S 058-12.00W.
-2. CANCEL THIS MSG 021316Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -214,19 +197,6 @@ BRAZIL.
    23-01.00S 042-00.00W, 23-07.00S 042-00.00W,
    23-07.00S 042-04.48W.
 2. CANCEL THIS MSG 032230Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280916Z MAY 26
-HYDROLANT 1027/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 021100Z TO 021500Z JUN
-   IN AREA BOUND BY
-   24-15.00S 044-30.00W, 24-15.00S 044-00.00W,
-   23-25.00S 044-00.00W, 23-25.00S 044-30.00W.
-2. CANCEL THIS MSG 021600Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
