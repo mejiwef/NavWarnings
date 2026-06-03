@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>031258Z JUN 26
-HYDROARC 92/26.
-ARCTIC OCEAN.
-CANADA.
-MCTS IQALUIT REMOTE STATION INUVIK
-68-19.00N 133-35.00W 
-MF AND HF R/T SERVICES OFF AIR.
-
+        <msgText>031741Z JUN 26
+HYDROARC 95/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 0500Z TO 1900Z
+   DAILY 08 TTHRU 11 JUN IN AREA BOUND BY
+   69-58.00N 033-38.00E, 69-58.00N 034-48.00E,
+   69-34.50N 034-48.00E, 69-34.50N 033-38.00E.
+2. CANCEL THIS MSG 112000Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031507Z JUN 26
+HYDROARC 93/26.
+BARENTS SEA.
+RUSSIA.
+1. ICEBERG REPORTED 
+   IN 77-25.60N 067-29.80E.
+2. CANCEL THIS MSG 061507Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
