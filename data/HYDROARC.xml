@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>031258Z JUN 26
+HYDROARC 92/26.
+ARCTIC OCEAN.
+CANADA.
+MCTS IQALUIT REMOTE STATION INUVIK
+68-19.00N 133-35.00W 
+MF AND HF R/T SERVICES OFF AIR.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>291435Z MAY 26

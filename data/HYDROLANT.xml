@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>030919Z JUN 26
+HYDROLANT 1074/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 081000Z TO 192000Z JUN
+   IN AREA BOUND BY
+   32-22.40S 052-12.40W, 32-24.20S 052-04.32W,
+   32-32.20S 052-06.22W, 32-30.40S 052-14.10W.
+2. CANCEL THIS MSG 192100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>030042Z JUN 26
 HYDROLANT 1073/26
 1. HAZARDOUS OPERATIONS 031100Z TO 032000Z JUN
@@ -26,37 +40,6 @@ ENGLAND.
 2. LANGHAM 52-56.50N 000-57.20E MF DSC
    SERVICES OFF AIR.
 3. CANCEL HYDROLANT 1066/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021309Z JUN 26
-HYDROLANT 1071/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-36.60S 053-41.40W.
-   B. A84, 72-33.00S 107-57.00W.
-   C. A85, 66-49.20S 056-17.40W.
-   D. D33A, 64-39.60S 056-56.40W.
-   E. D33C, 64-40.80S 056-06.60W.
-2. CANCEL THIS MSG 031309Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021252Z JUN 26
-HYDROLANT 1070/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 55-49.00S 032-26.00W.
-   B. 50-17.00S 027-35.00W.
-   C. 63-41.00S 056-05.00W.
-   D. 62-19.00S 057-55.00W.
-2. CANCEL THIS MSG 031252Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -390,17 +373,6 @@ BRAZIL.
    UNLIT UNTIL 02 NOV.
 2. CANCEL HYDROLANT 897/26.
 3. CANCEL THIS MSG 030001Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>060913Z MAY 26
-HYDROLANT 892/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. COMANDATUBA LIGHT 15-21.11S 038-58.85W
-   UNLIT UNTIL 01 NOV.
-2. CANCEL THIS MSG 020001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
