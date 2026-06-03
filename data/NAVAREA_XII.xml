@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130003Z MAY 26
+NAVAREA XII 397/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081430Z TO 120200Z JUN
+   IN AREA WITHIN ONE MILE OF 32-32.97N 117-10.93W.
+2. CANCEL THIS MSG 120300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>122357Z MAY 26
+NAVAREA XII 396/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081430Z TO 120200Z JUN
+   IN AREA WITHIN TWO MILES OF 32-32.97N 117-12.87W.
+2. CANCEL THIS MSG 120300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130027Z MAY 26
+NAVAREA XII 395/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081600Z TO 112355Z JUN
+   IN AREA WITHIN ONE MILE OF 32-35.82N 117-10.87W.
+2. CANCEL THIS MSG 120055Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130039Z MAY 26
+NAVAREA XII 394/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081430Z TO 120200Z JUN
+   IN AREA WITHIN TWO MILES OF 32-32.97N 117-14.70W.
+2. CANCEL THIS MSG 120300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>271052Z MAY 26

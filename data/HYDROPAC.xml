@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>030542Z JUN 26
+HYDROPAC 1619/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+1. DERELICT 70 METER BARGE ADRIFT IN VICINITY 
+   28-21.58N 141-35.36E AT 020846Z JUN.
+2. CANCEL HYDROPAC 1614/26.
+3. CANCEL THIS MSG 060536Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>030512Z JUN 26
+HYDROPAC 1617/26.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+TASMAN SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   081227Z TO 081723Z, 091205Z TO 091701Z, 
+   101143Z TO 101639Z, 111121Z TO 111617Z, 
+   121058Z TO 121554Z, 131036Z TO 131532Z 
+   AND 141014Z TO 141510Z JUN 
+   IN AREA BOUND BY
+   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,
+   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,
+   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,
+   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
+   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
+   41-36.00S 080-09.00E.
+2. CANCEL THIS MSG 141610Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEBRIS</category>
         <status>INFORCE</status>
         <msgText>022046Z JUN 26
@@ -25,19 +62,6 @@ FRENCH POLYNESIA.
    17-10.00S 149-36.00W, 17-13.00S 149-48.00W.
 2. CANCEL THIS MSG 050500Z JUN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>021239Z JUN 26
-HYDROPAC 1614/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-1. DERELICT 70 METER BARGE ADRIFT IN VICINITY
-   28-03.18N 141-42.62E AT 020846Z JUN.
-2. CANCEL HYDROPAC 1598/26.
-3. CANCEL THIS MSG 051239Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -204,17 +228,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>310454Z MAY 26
-HYDROPAC 1596/26.
-TIMOR SEA.
-1. DERELICT 12 METER S/V BALAMARA, WHITE HULL,
-   ADRIFT IN 10-41.90S 128-38.98E AT 301722Z MAY.
-2. CANCEL HYDROPAC 1576/26.
-3. CANCEL THIS MSG 030454Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -885,20 +898,6 @@ CAPE BORDA LIGHT 35-45.17S 136-35.60E.
 UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>191607Z MAY 26
-HYDROPAC 1480/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V QNG 92722 TS
-IN 07-52.20N 106-22.21E AT 182130Z MAY.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191143Z MAY 26
@@ -915,20 +914,6 @@ INDIA.
    07-38.10N 093-54.00E, 07-22.60N 093-54.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 120001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>191055Z MAY 26
-HYDROPAC 1474/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V DT 93736 TS
-IN 09-42.55N 107-24.80E AT 182040Z MAY.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
