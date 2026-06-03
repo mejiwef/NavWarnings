@@ -55,19 +55,6 @@ RUSSIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>271818Z MAY 26
-HYDROARC 85/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0500Z TO 1900Z 
-   DAILY 01 AND 02 JUN IN AREA BOUND BY
-   70-12.00N 033-36.00E, 70-12.00N 035-30.00E,
-   69-34.50N 035-30.00E, 69-34.50N 033-36.00E.
-2. CANCEL THIS MSG 022000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>201336Z MAY 26
 HYDROARC 69/26.
 KARA SEA.

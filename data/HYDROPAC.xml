@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>022046Z JUN 26
+HYDROPAC 1616/26
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. LOGS ADRIFT IN VICINITY 37-28.90S 178-25.60E
+   AT 021950Z JUN.
+2. CANCEL THIS MSG 052045Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>021518Z JUN 26
