@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041445Z JUN 26
+HYDROLANT 1086/26.
+BLACK SEA.
+TURKEY.
+1. PIPELINE OPERATIONS 05 JUN THRU 07 OCT 
+   BY M/V ORUC REIS, M/V MUKAVEMET, M/V ZAGANOS PASA, 
+   M/V DENAR EXPLORER, M/V ATAMAN, M/V DENAR PATHFINDER 
+   AND M/V DENAR SURVEYOR IN AREA BOUND BY
+   41-32.48N 031-56.63E, 41-37.27N 031-44.43E,
+   41-54.04N 031-31.98E, 42-45.44N 031-10.79E,
+   42-43.32N 030-45.37E, 42-30.76N 030-45.58E,
+   42-30.30N 030-24.30E, 42-39.61N 030-14.64E,
+   42-47.80N 030-34.44E, 42-49.30N 030-36.69E,
+   42-56.74N 030-45.54E, 43-07.31N 031-09.44E,
+   43-09.03N 031-38.13E, 43-04.17N 031-44.69E,
+   42-57.10N 031-31.46E, 41-58.78N 031-37.39E,
+   41-36.20N 032-06.45E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 080001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>WEATHER </category>
         <status>INFORCE</status>
         <msgText>041239Z JUN 26
@@ -87,38 +111,7 @@ BRAZIL.
    IN 22-22.48S 040-25.05W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1043/26, 1078/26.
-3. CANCEL THIS MSG 070359Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031437Z JUN 26
-HYDROLANT 1077/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 55-44.00S 032-30.00W.
-   B. 49-41.00S 027-20.00W.
-   C. 62-18.00S 057-51.00W.
-2. CANCEL THIS MSG 041437Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031429Z JUN 26
-HYDROLANT 1076/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-36.60S 053-41.40W.
-   B. A84, 72-33.00S 107-57.00W.
-   C. A85, 66-49.20S 056-17.40W.
-   D. D33A, 64-39.60S 056-56.40W.
-   E. D33C, 64-40.80S 056-06.60W.
-2. CANCEL THIS MSG 041429Z JUN 26.
+3. CANCEL THIS MSG 070359Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -148,7 +141,8 @@ ENGLAND.
    C. GREGNESS 57-07.70N 002-03.20W.
 2. LANGHAM 52-56.50N 000-57.20E MF DSC
    SERVICES OFF AIR.
-3. CANCEL HYDROLANT 1066/26.</msgText>
+3. CANCEL HYDROLANT 1066/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -161,7 +155,8 @@ ENGLAND.
 1. HAZARDOUS OPERATIONS 0800Z TO 1500Z 
    DAILY 02 THRU 05 JUN IN AREA WITHIN 
    17 MILES OF 52-26.70N 004-44.60W.
-2. CANCEL THIS MSG 051600Z JUN 26.</msgText>
+2. CANCEL THIS MSG 051600Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
