@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>032245Z JUN 26
+HYDROPAC 1631/26.
+1. VESSEL AT ANCHOR BOARDED AND ROBBED
+   BY FOUR PIRATES IN 14-36.35N 120-48.59E
+   AT 032015Z JUN. VESSELS ARE ADVISED TO
+   KEEP CLEAR OF THIS POSITION AND TO
+   EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 062240Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>031651Z JUN 26
@@ -558,19 +571,6 @@ NEW ZEALAND.
 3. CANCEL THIS MSG 100100Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290338Z MAY 26
-HYDROPAC 1573/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 1900Z DAILY
-   02 AND 03 JUN IN AREA BOUND BY
-   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
-   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
-2. CANCEL THIS MSG 032000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>260838Z MAY 26
@@ -651,21 +651,6 @@ GUAM.
    13-11.83N 144-35.08E, 13-17.75N 144-35.35E,
    13-24.22N 144-34.75E, 13-24.80N 144-25.15E.
 2. CANCEL THIS MSG 050400Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>251549Z MAY 26
-HYDROPAC 1564/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 02 THRU 06 JUNE AND
-   0343Z TO 0829Z DAILY 07 AND 08 JUNE
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 080929Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -770,20 +755,6 @@ EASTERN INDIAN OCEAN.
    02-25.82N 053-44.87E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250916Z MAY 26
-HYDROPAC 1542/26.
-INDIAN OCEAN.
-AUSTRALIA.
-SURVEY OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V INCEPTION II
-IN AREA BOUND BY
-27-18.20S 113-57.40E, 27-27.40S 113-57.40E,
-27-27.40S 114-00.20E, 27-18.20S 114-00.20E.
-ONE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

@@ -47,18 +47,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030042Z JUN 26
-HYDROLANT 1073/26
-1. HAZARDOUS OPERATIONS 031100Z TO 032000Z JUN
-   IN AREA BOUND BY
-   24-15.00S 044-30.00W, 24-15.00S 044-00.00W,
-   23-25.00S 044-00.00W, 23-25.00S 044-30.00W.
-2. CANCEL THIS MSG 032100Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>021409Z JUN 26
@@ -158,19 +146,6 @@ HYDROLANT 1046/26.
 3. CANCEL HYDROLANT 994/26, 997/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291243Z MAY 26
-HYDROLANT 1043/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 280300Z MAY TO
-   070259Z JUN BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 080400Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>282112Z MAY 26
@@ -195,21 +170,6 @@ ALONG TRACKLINE JOINING
 43-57.69N 028-42.93E, 43-57.72N 028-43.76E,
 43-58.81N 028-56.81E, 43-58.96N 028-59.10E.
 ONE KILOMETER BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281321Z MAY 26
-HYDROLANT 1034/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS
-   020800Z TO 032130Z JUN
-   IN AREA BOUND BY
-   23-01.20S 042-04.48W, 22-58.72S 042-02.15W,
-   23-01.00S 042-00.00W, 23-07.00S 042-00.00W,
-   23-07.00S 042-04.48W.
-2. CANCEL THIS MSG 032230Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
