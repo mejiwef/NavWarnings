@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>050005Z JUN 26
+HYDROPAC 1643/26.
+NORTH PACIFIC.
+JAPAN.
+1. DERELICT 70 METER BARGE ADRIFT IN VICINITY
+   28-29.28N 142-35.32E AT 042058Z JUN.
+2. CANCEL HYDROPAC 1638/26.
+3. CANCEL THIS MSG 080005Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>041535Z JUN 26
@@ -57,19 +69,6 @@ JAPAN.
    28-33.51N 142-19.49E AT 040858Z JUN.
 2. CANCEL HYDROPAC 1635/26.
 3. CANCEL THIS MSG 071320Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>041239Z JUN 26
-HYDROPAC 1637/26.
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 050001Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -506,19 +505,6 @@ INDIA.
 2. CANCEL THIS MSG 061130Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300500Z MAY 26
-HYDROPAC 1587/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1200Z TO 2100Z DAILY
-   03 AND 04 JUN IN AREA BOUND BY
-   20-04.00S 070-30.70W, 20-04.00S 070-20.00W,
-   20-14.00S 070-20.00W, 20-14.00S 070-30.70W.
-2. CANCEL THIS MSG 042200Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MINE ADRIFT</category>
         <status>INFORCE</status>
         <msgText>300440Z MAY 26
@@ -827,22 +813,6 @@ QATAR.
 2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>241254Z MAY 26
-HYDROPAC 1535/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1158Z TO 1908Z DAILY 29 MAY THRU 04 JUN
-   IN AREA WITHIN 100 MILES OF TRACKLINE JOINING
-   40-43.00S 081-08.00E, 48-04.00S 097-01.00E,
-   52-27.00S 115-27.00E, 52-32.00S 138-10.00E,
-   48-02.00S 159-53.00E.
-2. CANCEL THIS MSG 042008Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>241015Z MAY 26
@@ -1053,24 +1023,6 @@ IN AREA BOUND BY
 12-20.41S 128-35.16E, 12-53.21S 128-35.16E,
 12-53.21S 129-33.25E, 12-20.41S 129-33.25E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041228Z MAY 26
-HYDROPAC 1317/26.
-ARABIAN SEA.
-INDIA.
-1. CABLE OPERATIONS 06 MAY THRU 04 JUN BY CABLESHIP
-   ATHBA IN AREAS BOUND BY:
-   A. 18-57.46N 071-42.23E, 18-58.15N 071-59.32E,
-      18-56.02N 071-59.35E, 18-55.33N 071-42.22E.
-   B. 18-59.01N 072-06.99E, 18-58.98N 072-09.24E,
-      19-01.48N 072-10.81E, 19-01.62N 072-18.94E,
-      18-59.46N 072-18.56E, 18-59.83N 072-12.39E,
-      18-57.41N 072-10.90E, 18-56.87N 072-06.99E.
-   ONE MILE WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 050001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>

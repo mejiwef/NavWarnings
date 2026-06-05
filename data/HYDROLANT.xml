@@ -25,19 +25,6 @@ TURKEY.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WEATHER </category>
-        <status>INFORCE</status>
-        <msgText>041239Z JUN 26
-HYDROLANT 1085/26.
-1. DUE TO SPACE WEATHER, HF COMMUNICATIONS AND
-   GNSS POSITIONAL INFORMATION MAY BE DISRUPTED
-   BY THE EFFECTS OF SOLAR FLARES.
-2. DURING INCIDENTS AT SEA, MARINERS SHOULD CHECK THEIR
-   POSITION USING ALL ALTERNATE MEANS AVAILABLE.
-3. CANCEL THIS MSG 050001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>041216Z JUN 26
