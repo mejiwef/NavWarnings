@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>050136Z JUN 26
+HYDROLANT 1087/26.
+NORTH ATLANTIC.
+S/V MAKAI DISABLED AND ADRIFT IN 
+VICINITY 36-20.00N 067-28.00W AT 050031Z JUN.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO RCC NORFOLK,
+PHONE: 757 398 6231,
+EMAIL: D05-SMB-D5CC@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041445Z JUN 26

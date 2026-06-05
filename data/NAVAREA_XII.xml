@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>050421Z JUN 26
+NAVAREA XII 402/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: 
+   A. 101400Z TO 101824Z JUN, ALTERNATE 
+      1400Z TO 1824Z DAILY 11 THRU 16 JUN 
+      IN AREA BOUND BY
+      31-44.00N 121-09.00W, 31-43.00N 121-16.00W,
+      34-41.00N 120-42.00W, 34-38.00N 120-28.00W.
+   B. 101400Z TO 101843Z JUN, ALTERNATE 
+      1400Z TO 1843Z DAILY 11 THRU 16 JUN 
+      IN AREA BOUND BY
+      28-16.00N 121-48.00W, 28-34.00N 122-21.00W,
+      29-50.00N 121-45.00W, 29-48.00N 121-35.00W,
+      28-39.00N 121-25.00W.
+2. CANCEL THIS MSG 161943Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>042013Z JUN 26
@@ -246,22 +268,6 @@ CALIFORNIA.
       29-50.00N 121-45.00W, 29-48.00N 121-35.00W,
       28-39.00N 121-25.00W.
 2. CANCEL THIS MSG 061943Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>240720Z MAY 26
-NAVAREA XII 371/26.
-PACIFIC OCEAN.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   300046Z TO 300233Z MAY, ALTERNATE
-   310025Z TO 310211Z MAY, 010003Z TO 010149Z, 
-   012342Z TO 020128Z, 022321Z TO 030107Z,
-   032300Z TO 040046Z AND 
-   042239Z TO 050025Z JUN IN AREA BOUND BY
-   06-49.00S 132-47.00W, 10-24.00N 120-26.00W,
-   08-56.00N 118-25.00W, 08-16.00S 130-47.00W.
-2. CANCEL THIS MSG 050125Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

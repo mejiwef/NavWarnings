@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>050540Z JUN 26
+HYDROPAC 1646/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   100230Z TO 100628Z JUN
+   IN AREA BOUND BY
+   36-00.00S 094-00.00E, 38-00.00S 100-00.00E,
+   51-00.00S 097-00.00E, 49-00.00S 091-00.00E.
+2. CANCEL THIS MSG 100728Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>021932Z JUN 26
+HYDROPAC 1645/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 10 THRU 16 JUN
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 162129Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>050314Z JUN 26
+HYDROPAC 1644/26.
+SOUTH CHINA SEA.
+INDONESIA.
+1. M/V BOARDED BY TWO PIRATES IN 
+   01-04.16N 103-41.91E AT 041828Z JUN. 
+2. M/V BOARDED AND ROBBED BY SIX PIRATES 
+   IN 01-03.73N 103-40.78E AT 041952Z JUN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THESE 
+   POSITIONS AND TO EXERCISE EXTREME CAUTION.
+3. CANCEL THIS MSG 080310Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>050005Z JUN 26
@@ -55,20 +99,6 @@ JAPAN.
    24-48.52N 141-18.45E, 24-47.80N 141-17.55E,
    24-47.96N 141-17.33E.
 2. CANCEL THIS MSG 271600Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>041320Z JUN 26
-HYDROPAC 1638/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-JAPAN.
-1. DERELICT 70 METER BARGE ADRIFT IN VICINITY
-   28-33.51N 142-19.49E AT 040858Z JUN.
-2. CANCEL HYDROPAC 1635/26.
-3. CANCEL THIS MSG 071320Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -257,20 +287,6 @@ NEW ZEALAND.
 1. LOGS ADRIFT IN VICINITY 37-28.90S 178-25.60E
    AT 021950Z JUN.
 2. CANCEL THIS MSG 052045Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>021518Z JUN 26
-HYDROPAC 1615/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. GUNNERY EXERCISES 042300Z TO 050400Z JUN
-   IN AREA BOUND BY
-   16-37.00S 150-08.00W, 16-30.00S 149-36.00W,
-   17-10.00S 149-36.00W, 17-13.00S 149-48.00W.
-2. CANCEL THIS MSG 050500Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -664,22 +680,6 @@ ESTABLISHED IN AREA BOUND BY
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>270908Z MAY 26
-HYDROPAC 1565/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 022300Z TO 030400Z,
-   032200Z TO 040600Z AND
-   050001Z TO 050300Z JUN IN AREA BOUND BY
-   13-24.75N 144-25.17E, 13-10.82N 144-25.05E,
-   13-11.83N 144-35.08E, 13-17.75N 144-35.35E,
-   13-24.22N 144-34.75E, 13-24.80N 144-25.15E.
-2. CANCEL THIS MSG 050400Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>271553Z MAY 26
 HYDROPAC 1557/26.
 EASTERN INDIAN OCEAN.
@@ -825,22 +825,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>240720Z MAY 26
-HYDROPAC 1528/26.
-PACIFIC OCEAN.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   300046Z TO 300233Z MAY, ALTERNATE
-   310025Z TO 310211Z MAY, 010003Z TO 010149Z, 
-   012342Z TO 020128Z, 022321Z TO 030107Z,
-   032300Z TO 040046Z AND 
-   042239Z TO 050025Z JUN IN AREA BOUND BY
-   06-49.00S 132-47.00W, 10-24.00N 120-26.00W,
-   08-56.00N 118-25.00W, 08-16.00S 130-47.00W.
-2. CANCEL THIS MSG 050125Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
@@ -1168,16 +1152,6 @@ RUSSIA.
    39-53.52N 133-14.10E.
    SEVEN MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 040001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>200934Z APR 26
-HYDROPAC 1172/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-PLANK SHOAL LIGHT 33-29.88S 137-28.56E
-PERMANENTLY DISCONTINUED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
