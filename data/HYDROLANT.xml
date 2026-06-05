@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051243Z JUN 26
+HYDROLANT 1090/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 55-30.00S 032-43.00W.
+   B. 49-41.00S 027-20.00W.
+   C. 61-59.00S 056-48.00W.
+2. CANCEL THIS MSG 061243Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051239Z JUN 26
+HYDROLANT 1089/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-36.60S 053-41.40W.
+   B. A84, 72-33.00S 107-57.00W.
+   C. A85, 66-49.20S 056-17.40W.
+   D. D33A, 64-39.60S 056-56.40W.
+   E. D33C, 64-40.80S 056-06.60W.
+2. CANCEL THIS MSG 061239Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>051027Z JUN 26
+HYDROLANT 1088/26.
+BLACK SEA.
+ROMANIA.
+ENTIRE COASTAL AREA OF ROMANIA IS DANGEROUS FOR 
+NAVIGATION DUE TO THE POSSIBILITY OF USV PRESENCE.
+VESSELS ARE ADVISED TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>050136Z JUN 26
@@ -37,38 +81,6 @@ TURKEY.
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041216Z JUN 26
-HYDROLANT 1084/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 55-44.00S 032-29.00W.
-   B. 49-41.00S 027-20.00W.
-   C. 62-12.00S 057-31.00W.
-2. CANCEL THIS MSG 051216Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041207Z JUN 26
-HYDROLANT 1083/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-36.60S 053-41.40W.
-   B. A84, 72-33.00S 107-57.00W.
-   C. A85, 66-49.20S 056-17.40W.
-   D. D33A, 64-39.60S 056-56.40W.
-   E. D33C, 64-40.80S 056-06.60W.
-2. CANCEL THIS MSG 051207Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
