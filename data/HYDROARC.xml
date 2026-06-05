@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>051433Z JUN 26.
+HYDROARC 97/26.
+1. HYDROARC WARNINGS IN FORCE AS OF 051433Z JUN. 
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   95/2026, 93/2026, 89/2026, 69/2026, 55/2026. 
+   180/2025, 178/2025, 175/2025, 148/2025, 145/2025, 103/2025.
+   283/2024. 
+   163/2023. 
+   198/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROARC 90/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031741Z JUN 26
@@ -27,26 +48,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>291435Z MAY 26
-HYDROARC 90/26.
-1. HYDROARC WARNINGS IN FORCE AS OF 291435Z MAY. 
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   89/2026, 86/2026, 85/2026, 69/2026, 61/2026, 55/2026. 
-   180/2025, 178/2025, 175/2025, 148/2025, 145/2025, 103/2025.
-   283/2024.
-   163/2023.
-   198/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
-   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-   MARITIME SAFETY INFORMATION WEBSITE AT:
-   msi.nga.mil/NavWarnings.
-   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-   FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 77/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290630Z MAY 26
@@ -62,7 +63,8 @@ RUSSIA.
       68-37.50N 043-18.00E.
    B. 67-44.00N 045-26.00E, 67-34.00N 045-30.00E,
       67-18.00N 045-00.00E.
-2. CANCEL THIS MSG 061500Z JUN 26.</msgText>
+2. CANCEL THIS MSG 061500Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
