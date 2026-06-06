@@ -36,37 +36,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031507Z JUN 26
-HYDROARC 93/26.
-BARENTS SEA.
-RUSSIA.
-1. ICEBERG REPORTED 
-   IN 77-25.60N 067-29.80E.
-2. CANCEL THIS MSG 061507Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290630Z MAY 26
-HYDROARC 89/26.
-BARENTS SEA.
-WHITE SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0100Z TO 1400Z DAILY
-   05 AND 06 JUN IN AREAS BOUND BY:
-   A. 69-29.00N 033-54.50E, 69-47.50N 034-00.00E,
-      69-39.00N 038-04.00E, 69-13.90N 043-01.20E,
-      68-46.20N 044-58.00E, 68-32.50N 045-04.00E,
-      68-37.50N 043-18.00E.
-   B. 67-44.00N 045-26.00E, 67-34.00N 045-30.00E,
-      67-18.00N 045-00.00E.
-2. CANCEL THIS MSG 061500Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201336Z MAY 26

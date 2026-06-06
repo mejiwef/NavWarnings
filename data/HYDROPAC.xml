@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>061451Z JUN 26
+HYDROPAC 1660/26.
+SOUTH CHINA SEA.
+VIETNAM.
+MAN OVERBOARD FROM F/V BTH 85399 TS
+IN 10-37.10N 108-58.76E AT 051800Z JUN.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061331Z JUN 26
+HYDROPAC 1659/26.
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0445Z TO 0815Z
+   DAILY 09 AND 10 JUN IN AREA BOUND BY
+   25-35.07N 065-58.66E, 25-25.09N 066-12.88E,
+   23-29.99N 064-28.98E, 23-29.99N 064-05.73E.
+2. CANCEL THIS MSG 100915Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>061156Z JUN 26
