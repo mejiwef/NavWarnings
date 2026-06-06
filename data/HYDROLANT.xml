@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060902Z JUN 26
+HYDROLANT 1095/26.
+CARDIGAN BAY.
+SAINT GEORGES CHANNEL.
+ENGLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1500Z 
+   DAILY 08 THRU 12 JUN IN AREA WITHIN 
+   17 MILES OF 52-26.70N 004-44.60W.
+2. CANCEL THIS MSG 121600Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>060036Z JUN 26

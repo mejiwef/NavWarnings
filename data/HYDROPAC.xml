@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>061156Z JUN 26
+HYDROPAC 1658/26.
+NORTH PACIFIC.
+JAPAN.
+1. DERELICT VESSEL ADRIFT 
+   28-20.60N 143-04.21E AT 060858Z JUN.
+2. CANCEL HYDROPAC 1654/26.
+3. CANCEL THIS MSG 091156Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>060431Z JUN 26
@@ -32,18 +45,6 @@ NORTH PACIFIC.
    06-00.00N 161-00.00E, 08-00.00N 164-00.00E,
    09-00.00N 164-00.00E, 07-00.00N 161-00.00E.
 2. CANCEL THIS MSG 171230Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>060013Z JUN 26
-HYDROPAC 1654/26.
-NORTH PACIFIC.
-JAPAN.
-1. DERELICT 70 METER BARGE ADRIFT IN VICINITY
-   28-27.87N 143-05.35E AT 052058Z JUN.
-2. CANCEL HYDROPAC 0237/26.
-3. CANCEL THIS MSG 090013Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -573,21 +574,6 @@ INDIA.
    12-50.00N 093-40.00E, 12-50.00N 094-10.00E,
    13-00.00N 094-10.00E, 13-00.00N 093-40.00E.
 2. CANCEL THIS MSG 241130Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300508Z MAY 26
-HYDROPAC 1588/26.
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0630Z
-   AND 0830Z TO 1030Z DAILY 02 AND 06 JUN
-   IN AREA BOUND BY
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 061130Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MINE ADRIFT</category>
