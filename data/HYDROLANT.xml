@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>060036Z JUN 26
+HYDROLANT 1094/26.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+TIREE AIRPORT SITE 56-30.0N 006-52.8W 
+MF DSC OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051638Z JUN 26
@@ -174,19 +184,6 @@ ENGLAND.
    SERVICES OFF AIR.
 3. CANCEL HYDROLANT 1066/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>310542Z MAY 26
-HYDROLANT 1054/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 050800Z TO 052100Z JUN
-   IN AREA BOUND BY
-   23-27.20S 042-46.50W, 23-41.60S 042-31.00W,
-   23-56.00S 042-46.00W, 23-42.00S 043-01.50W.
-2. CANCEL THIS MSG 052200Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
