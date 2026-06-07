@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>061426Z JUN 26
+NAVAREA IV 546/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   121227Z TO 121709Z JUN, ALTERNATE
+   131204Z TO 131646Z, 141142Z TO 141624Z,
+   151120Z TO 151602Z, 161057Z TO 161539Z,
+   171035Z TO 171517Z AND 181013Z TO 181455Z JUN 
+   IN AREAS BOUND BY:
+   A. 31-42.00N 077-10.00W, 32-23.00N 076-52.00W,
+      33-08.00N 075-40.00W, 33-28.00N 074-58.00W,
+      33-19.00N 074-46.00W, 32-36.00N 075-02.00W,
+      31-51.00N 076-13.00W, 31-31.00N 076-56.00W.   
+   B. 28-37.89N 080-36.87W, 28-58.00N 080-12.00W,
+      28-53.00N 080-07.00W, 28-33.00N 080-25.00W,
+      28-30.77N 080-33.17W.
+2. CANCEL THIS MSG 181555Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>062126Z JUN 26

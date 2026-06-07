@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>041521Z JUN 26
+HYDROPAC 1663/26.
+TASMAN SEA.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   121447Z TO 121943Z, 131424Z TO 131920Z,
+   141402Z TO 141858Z, 151340Z TO 151836Z,
+   161317Z TO 161813Z, 171255Z TO 171751Z
+   AND 181233Z TO 181729Z JUN
+   IN AREA BOUND BY
+   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,
+   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,
+   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,
+   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
+   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
+   41-36.00S 080-09.00E.
+2. CANCEL THIS MSG 181829Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>070344Z JUN 26
+HYDROPAC 1662/26.
+SOUTH PACIFIC.
+TAHITI.
+1. TEN METER LONG TREE TRUNK ADRIFT 
+   IN 17-30.97S 149-35.20W AT 062013Z JUN.
+2. CANCEL THIS MSG 100342Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070019Z JUN 26
@@ -889,16 +924,6 @@ HYDROPAC 1493/26.
 SOUTH PACIFIC.
 FIJI.
 NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>201541Z MAY 26
-HYDROPAC 1490/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-CAPE BORDA LIGHT 35-45.17S 136-35.60E.
-UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

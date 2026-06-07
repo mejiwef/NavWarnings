@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070709Z JUN 26
+HYDROLANT 1099/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z
+   DAILY 08 THRU 22 JUN IN 20-22.92S 040-10.62W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 222200Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051005Z JUN 26
+HYDROLANT 1098/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 120500Z TO 121200Z JUN
+   IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 121300Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>061339Z JUN 26
@@ -149,21 +178,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1016/26.
 3. CANCEL THIS MSG 160001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040109Z JUN 26
-HYDROLANT 1079/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 070259Z JUN BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1043/26, 1078/26.
-3. CANCEL THIS MSG 070359Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
