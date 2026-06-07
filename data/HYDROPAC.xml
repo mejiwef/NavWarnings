@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070019Z JUN 26
+HYDROPAC 1661/26. 
+NORTH PACIFIC
+MARSHALL ISLANDS
+1. HAZARDOUS OPERATIONS 0300Z TO 1130Z
+   DAILY 11 THRU 17 JUN IN AREA BOUND BY
+   09-00.00N 164-00.00E, 08-00.00N 164-00.00E,
+   06-00.00N 161-00.00E, 07-00.00N 161-00.00E.
+2. CANCEL THIS MSG 171230Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>061451Z JUN 26
@@ -306,19 +320,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>032245Z JUN 26
-HYDROPAC 1631/26.
-1. VESSEL AT ANCHOR BOARDED AND ROBBED
-   BY FOUR PIRATES IN 14-36.35N 120-48.59E
-   AT 032015Z JUN. VESSELS ARE ADVISED TO
-   KEEP CLEAR OF THIS POSITION AND TO
-   EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 062240Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031336Z JUN 26
@@ -460,18 +461,6 @@ INDIA.
    21-36.18N 087-59.18E, 21-32.58N 087-22.95E,
    21-22.05N 086-55.61E.
 2. CANCEL THIS MSG 091230Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021025Z JUN 26
-HYDROPAC 1610/26.
-ARABIAN SEA.
-1. HAZARDOUS OPERATIONS 061230Z TO 061800Z JUN
-   IN AREA BOUND BY
-   19-15.00N 069-28.00E, 19-15.00N 069-40.00E,
-   19-25.00N 069-40.00E, 19-25.00N 069-28.00E.
-2. CANCEL THIS MSG 061900Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
