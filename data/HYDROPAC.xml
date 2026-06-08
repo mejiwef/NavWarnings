@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081211Z JUN 26
+HYDROPAC 1676/26.
+NORTH PACIFIC.
+TAIWAN.
+1. CABLE OPERATIONS 081600Z JUN UNTIL
+   FURTHER NOTICE BY CABLESHIP ILE D AIX
+   IN AREA BOUND BY
+   22-42.14N 121-45.58E, 22-38.42N 121-52.70E,
+   22-20.61N 121-46.57E, 22-10.80N 121-47.52E,
+   22-08.16N 121-39.89E, 22-21.58N 121-38.40E,
+   22-32.06N 121-42.03E, 22-38.74N 121-44.12E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1650/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081058Z JUN 26
+HYDROPAC 1675/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 090030Z TO 090130Z JUN
+   IN AREA BOUND BY
+   22-12.00N 068-36.33E, 21-15.50N 069-04.00E,
+   21-09.00N 069-40.00E, 21-15.50N 069-42.50E,
+   22-05.75N 068-49.00E.
+2. CANCEL THIS MSG 090230Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>071248Z JUN 26
@@ -230,25 +262,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>051200Z JUN 26
-HYDROPAC 1650/26.
-PHILIPPINE SEA.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 10 JUN, 
-   ALTERNATE 0053Z TO 0253Z DAILY 11 THRU 30 JUN: 
-   A. 0107Z TO 0320Z IN AREA BOUND BY
-      20-17.00N 133-09.00E, 21-28.57N 134-41.59E,
-      21-13.39N 135-14.25E, 19-09.25N 136-49.30E,
-      18-49.39N 136-49.30E, 17-35.00N 135-13.00E.
-   B. 0108Z TO 0324Z IN AREA BOUND BY   
-      16-20.00N 135-14.00E, 13-55.00N 136-05.00E,
-      12-48.00N 132-57.00E, 15-12.00N 132-05.00E.
-2.  CANCEL THIS MSG 300353Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051044Z JUN 26
@@ -260,20 +273,6 @@ INDIA.
    20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
    20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
 2. CANCEL THIS MSG 101230Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>050540Z JUN 26
-HYDROPAC 1646/26.
-INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   100230Z TO 100628Z JUN
-   IN AREA BOUND BY
-   36-00.00S 094-00.00E, 38-00.00S 100-00.00E,
-   51-00.00S 097-00.00E, 49-00.00S 091-00.00E.
-2. CANCEL THIS MSG 100728Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

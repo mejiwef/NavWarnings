@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>081030Z JUN 26
+HYDROLANT 1105/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-27.00S 053-18.00W.
+   B. A84, 72-33.60S 108-15.00W.
+   C. A85, 66-38.40S 055-43.20W.
+   D. D33A, 64-39.00S 056-42.60W.
+   E. D33C, 64-27.60S 055-52.20W.
+2. CANCEL THIS MSG 091030Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>080418Z JUN 26
@@ -42,21 +58,6 @@ ANTARCTICA.
    D. D33A, 64-39.00S 056-42.60W.
    E. D33C, 64-27.60S 055-52.20W.
 2. CANCEL THIS MSG 081333Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>071329Z JUN 26
-HYDROLANT 1101/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 55-11.00S 033-04.00W.
-   B. 49-41.00S 027-20.00W.
-   C. 61-59.00S 056-46.00W.
-2. CANCEL THIS MSG 081329Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
