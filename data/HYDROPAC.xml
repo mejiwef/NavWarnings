@@ -48,33 +48,14 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>071224Z JUN 26
-HYDROPAC 1666/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1233Z TO 1943Z DAILY 12 THRU 18 JUN
-   IN AREA BOUND BY
-   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,
-   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,
-   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,
-   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
-   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
-   41-36.00S 080-09.00E.
-2. CANCEL THIS MSG 192043Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>070736Z JUN 26
 HYDROPAC 1665/26.
 GREAT AUSTRALIAN BIGHT.
 AUSTRALIA.
-CAPE BORDA LIGHT 35-45.17S 136-35.60E UNLIT.</msgText>
+CAPE BORDA LIGHT 35-45.17S 136-35.60E UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -109,20 +90,6 @@ TAHITI.
 1. TEN METER LONG TREE TRUNK ADRIFT 
    IN 17-30.97S 149-35.20W AT 062013Z JUN.
 2. CANCEL THIS MSG 100342Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070019Z JUN 26
-HYDROPAC 1661/26. 
-NORTH PACIFIC
-MARSHALL ISLANDS
-1. HAZARDOUS OPERATIONS 0300Z TO 1130Z
-   DAILY 11 THRU 17 JUN IN AREA BOUND BY
-   09-00.00N 164-00.00E, 08-00.00N 164-00.00E,
-   06-00.00N 161-00.00E, 07-00.00N 161-00.00E.
-2. CANCEL THIS MSG 171230Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -280,17 +280,6 @@ HAWAII.
 4. CANCEL NAVAREA XII 274/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICES</category>
-        <status>INFORCE</status>
-        <msgText>252035Z FEB 26
-NAVAREA XII 125/26(16).
-ALASKA.
-USCG REMOTE COMMUNICATION FACILITY
-COLD BAY 55-11.00N 162-42.00W. HF TRANSMIT
-AND RECEIVE SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>171634Z FEB 26
