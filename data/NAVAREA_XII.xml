@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>072321Z JUN 26
+NAVAREA XII 407/26
+BERING SEA.
+ALASKA.
+1. CABLE OPERATIONS 11 THRU 30 JUN 
+   BY CABLESHIP IT INTEGRITY ALONG TRACKLINE JOINING
+   64-29.00N 165-19.20W, 62-54.20N 165-49.30W,
+   62-15.60N 166-58.30W, 61-24.90N 167-09.00W,
+   60-38.00N 165-50.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>060301Z JUN 26

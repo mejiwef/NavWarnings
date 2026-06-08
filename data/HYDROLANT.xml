@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>072106Z JUN 26
+HYDROLANT 1103/26
+NORTH ATLANTIC.
+S/V BEHAVIOR DISABLED AND ADRIFT IN 
+VICINITY 36-18.715N, 071-21.774W AT 050031Z JUN.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO RCC NORFOLK,
+PHONE: 757 398 6231,
+EMAIL: RCCNORFOLK@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>071333Z JUN 26
