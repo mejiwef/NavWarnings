@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>080418Z JUN 26
+HYDROLANT 1104/26.
+EASTERN NORTH ATLANTIC.
+NORTH MINCH.
+SCOTLAND.
+CGOC STORNOWAY MF AND R/T SERVICES AT 
+BUTT OF LEWIS SITE 58-30.90N 006-15.70W
+OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>072106Z JUN 26

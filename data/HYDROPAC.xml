@@ -123,19 +123,6 @@ PAKISTAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>061156Z JUN 26
-HYDROPAC 1658/26.
-NORTH PACIFIC.
-JAPAN.
-1. DERELICT VESSEL ADRIFT 
-   28-20.60N 143-04.21E AT 060858Z JUN.
-2. CANCEL HYDROPAC 1654/26.
-3. CANCEL THIS MSG 091156Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>060431Z JUN 26
@@ -302,22 +289,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 162129Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>050314Z JUN 26
-HYDROPAC 1644/26.
-SOUTH CHINA SEA.
-INDONESIA.
-1. M/V BOARDED BY TWO PIRATES IN 
-   01-04.16N 103-41.91E AT 041828Z JUN. 
-2. M/V BOARDED AND ROBBED BY SIX PIRATES 
-   IN 01-03.73N 103-40.78E AT 041952Z JUN.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THESE 
-   POSITIONS AND TO EXERCISE EXTREME CAUTION.
-3. CANCEL THIS MSG 080310Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -836,20 +807,6 @@ QATAR.
    25-56.41N 051-34.26E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>241015Z MAY 26
-HYDROPAC 1531/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V BT 93966 TS
-IN 08-14.00N 108-06.00E AT 201800Z MAY.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
