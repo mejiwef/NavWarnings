@@ -19,21 +19,6 @@ TAIWAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081058Z JUN 26
-HYDROPAC 1675/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 090030Z TO 090130Z JUN
-   IN AREA BOUND BY
-   22-12.00N 068-36.33E, 21-15.50N 069-04.00E,
-   21-09.00N 069-40.00E, 21-15.50N 069-42.50E,
-   22-05.75N 068-49.00E.
-2. CANCEL THIS MSG 090230Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>071248Z JUN 26

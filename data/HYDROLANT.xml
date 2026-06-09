@@ -17,20 +17,6 @@ LITHUANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>REQUESTING ASSISTANCE</category>
-        <status>INFORCE</status>
-        <msgText>081611Z JUN 26
-HYDROLANT 1107/26.
-WESTERN MEDITERRANEAN SEA.
-SARDINIA.
-VESSEL, TEN PERSONS ONBOARD, REQUESTING 
-ASSISTANCE IN VICINITY 39-00.00N 008-00.00E 
-ON 07 JUN. VESSELS IN VICINITY REQUESTED TO 
-KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE,
-REPORTS TO THE NEAREST COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>081418Z JUN 26
