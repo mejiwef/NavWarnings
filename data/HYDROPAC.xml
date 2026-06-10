@@ -135,18 +135,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>070344Z JUN 26
-HYDROPAC 1662/26.
-SOUTH PACIFIC.
-TAHITI.
-1. TEN METER LONG TREE TRUNK ADRIFT 
-   IN 17-30.97S 149-35.20W AT 062013Z JUN.
-2. CANCEL THIS MSG 100342Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>061451Z JUN 26
