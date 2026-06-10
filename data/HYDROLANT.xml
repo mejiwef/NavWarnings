@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101447Z JUN 26
+HYDROLANT 1116/26.
+BALTIC SEA.
+LITHUANIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1600Z
+   DAILY 15 THRU 19 JUN IN 55-29.60N 020-51.00E.
+2. CANCEL THIS MSG 191700Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>101426Z JUN 26
+HYDROLANT 1115/26.
+SOUTH ATLANTIC.
+SCOTIA SEA. 
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 54-31.00S 032-45.00W.
+   B. 49-02.00S 025-51.00W.
+   C. 61-52.00S 055-53.00W.
+   D. 60-59.00S 052-56.00W.
+2. CANCEL THIS MSG 111430Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>091810Z JUN 26
@@ -10,20 +36,6 @@ HYDROLANT 1114/26.
    AT 091515Z JUN.
 2. CANCEL THIS MSG 121810Z JUN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091408Z JUN 26
-HYDROLANT 1113/26.
-SOUTH ATLANTIC.
-SCOTIA SEA. 
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 54-55.00S 032-58.00W.
-   B. 49-41.00S 027-20.00W.
-   C. 61-52.00S 055-53.00W.
-2. CANCEL THIS MSG 101430Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DISABLED</category>
