@@ -3,6 +3,56 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>101306Z JUN 26
+HYDROPAC 1690/261. 
+1. HAZARDOUS OPERATIONS 130001Z TO 131359Z
+   JUN IN AREA BOUND BY 17-00.00N 145-04.98E,
+   17-00.00N 147-00.00E,16-09.47N 148-09.77E,
+   14-45.00N 148-00.00E,14-16.00N 146-25.00E,
+   15-25.00N 146-25.00E, 15-40.37N 146-12.03E,
+   15-43.60N 145-27.77E. 
+2. CANCEL THIS MSG 131459Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>101244Z JUN 26
+HYDROPAC 1689/261. 
+1. VESSEL ATTACKED IN VICINITY BALHAF
+   13-59.00N 048-10.00E AT 100430Z JUN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 131244Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>101234Z JUN 26
+HYDROPAC 1688/261. 
+1. GUNNERY EXERCISES 2200Z TO 0900Z 
+   DAILY 14 TO 21 JUN IN AREA WITHIN 
+   25.00 MILES OF 31-14.21N 144-26.80E.
+2. CANCEL THIS MSG 210001Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>101032Z JUN 26
+HYDROPAC 1687/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 14 THRU 20 JUN
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 202129Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>092147Z JUN 26
 HYDROPAC 1684/26.
 1. HAZARDOUS OPERATIONS 1700Z TO 2200Z
@@ -152,20 +202,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>061331Z JUN 26
-HYDROPAC 1659/26.
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0445Z TO 0815Z
-   DAILY 09 AND 10 JUN IN AREA BOUND BY
-   25-35.07N 065-58.66E, 25-25.09N 066-12.88E,
-   23-29.99N 064-28.98E, 23-29.99N 064-05.73E.
-2. CANCEL THIS MSG 100915Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>011157Z JUN 26
 HYDROPAC 1655/26.
 NORTH PACIFIC.
@@ -250,20 +286,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051044Z JUN 26
-HYDROPAC 1648/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. HAZARDOUS OPERATIONS 100230Z TO 101130Z JUN
-   IN AREA BOUND BY
-   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
-   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
-2. CANCEL THIS MSG 101230Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021932Z JUN 26
@@ -276,21 +298,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 162129Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>041535Z JUN 26
-HYDROPAC 1641/26.
-SOUTH CHINA SEA.
-F/V BTH 96200 TS, SIX PERSONS ON BOARD, 
-DISABLED AND ANCHORED DUE TO LOST PROPELLER 
-IN 07-20.61N 107-46.83E AT 030700Z JUN.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -649,20 +656,6 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL THIS MSG 301000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>260620Z MAY 26
-HYDROPAC 1551/26.
-GULF OF THAILAND.
-VIETNAM.
-FISHERMAN MISSING FROM F/V CM 91639 TS 
-IN 08-49.00N 104-24.00E AT 260030Z MAY.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>

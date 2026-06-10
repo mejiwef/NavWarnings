@@ -42,23 +42,6 @@ NORTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091026Z JUN 26
-HYDROLANT 1111/26.
-SOUTH PACIFIC.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-27.00S 053-18.00W.
-   B. A84, 72-33.60S 108-15.00W.
-   C. A85, 66-38.40S 055-43.20W.
-   D. D33A, 64-39.00S 056-42.60W.
-   E. D33C, 64-27.60S 055-52.20W.
-2. CANCEL THIS MSG 101042Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081629Z JUN 26
