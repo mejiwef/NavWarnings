@@ -870,19 +870,6 @@ NORTH PACIFIC.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>142329Z MAY 26
-HYDROPAC 1434/26.
-TIMOR SEA.
-AUSTRALIA.
-SURVEY OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V SHARK 1
-ALONG TRACKLINE JOINING
-12-19.50S 130-39.90E, 12-15.10S 130-12.20E.
-TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>141236Z MAY 26
 HYDROPAC 1432/26.
 ARABIAN SEA.

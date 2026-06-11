@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>102209Z JUN 26
+HYDROLANT 1117/26.
+NORTH SEA.
+SHETLAND ISLANDS.
+SUMBURGH HEAD LIGHT  59-51.20N 001-16.50W
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101447Z JUN 26
@@ -153,21 +164,6 @@ SEA OF THE HEBRIDES.
 SCOTLAND.
 TIREE AIRPORT SITE 56-30.0N 006-52.8W 
 MF DSC OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051638Z JUN 26
-HYDROLANT 1093/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 100001Z TO 110001Z JUN
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 110100Z JUN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

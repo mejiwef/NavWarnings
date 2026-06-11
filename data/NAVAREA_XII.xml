@@ -192,36 +192,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 120300Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291357Z MAY 26
-NAVAREA XII 388/26.
-GULF OF ALASKA.
-ALASKA.
-1. CABLE OPERATIONS 04 THRU 10 JUN
-   BY CABLESHIP CABLE INNOVATOR
-   IN 56-18.37N 158-23.25W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290232Z MAY 26
-NAVAREA XII 387/26.
-BERING SEA.
-ALASKA.
-1. CABLE OPERATIONS 31 MAY THRU 10 JUN 
-   BY CABLESHIP IT INTEGRITY ALONG TRACKLINES JOINING:
-   A. 64-23.80N 165-17.39W, 62-50.50N 165-45.00W,
-      61-24.70N 166-53.60W.
-   B. 59-10.00N 165-38.60W, 58-06.90N 158-58.70W,
-      58-41.70N 157-21.10W.
-   WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 374/26.
-3. CANCEL THIS MSG 110001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261607Z MAY 26

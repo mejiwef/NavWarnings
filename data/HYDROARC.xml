@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>102235Z JUN 26
+HYDROARC 99/26.
+DAVIS STRAIT.
+CANADA.
+MCTS IQALUIT CENTER 63-43.80N 068-32.70W
+DSC, NBDP AND RT UNABLE TO RECEIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>051433Z JUN 26.
