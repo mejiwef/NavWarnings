@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111505Z JUN 26
+HYDROLANT 1125/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. CABLE OPERATIONS 15 JUN THRU 30 NOV
+   BY CABLESHIP TELIRI ALONG TRACKLINE JOINING 
+   27-56.75N 012-56.00W, 27-57.35N 012-56.85W, 
+   27-59.75N 012-58.00W, 28-07.85N 013-24.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111404Z JUN 26
+HYDROLANT 1124/26.
+SOUTH ATLANTIC. 
+SCOTIA SEA.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 54-31.00S 032-45.00W.
+   B. 49-05.00S 025-18.00W.
+   C. 61-52.00S 055-53.00W.
+   D. 60-57.00S 052-38.00W.
+2. CANCEL HYDROLANT 1121/26.
+3. CANCEL THIS MSG 121400Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111243Z JUN 26
@@ -25,14 +56,6 @@ MOROCCO.
    IN AREA WITHIN 20 MILES OF 29-53.00N 010-15.00W.
 2. CANCEL THIS MSG 160100Z JUN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>111114Z JUN 26
-HYDROLANT 1121/26
-MRCC DOVER DSC AND R/T SERVICES AT
-BRADWELL SITE 51-44.0N 000-53.4E OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -106,21 +129,6 @@ LITHUANIA.
    DAILY 15 THRU 19 JUN IN 55-29.60N 020-51.00E.
 2. CANCEL THIS MSG 191700Z JUN 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101426Z JUN 26
-HYDROLANT 1115/26.
-SOUTH ATLANTIC.
-SCOTIA SEA. 
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 54-31.00S 032-45.00W.
-   B. 49-02.00S 025-51.00W.
-   C. 61-52.00S 055-53.00W.
-   D. 60-59.00S 052-56.00W.
-2. CANCEL THIS MSG 111430Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
