@@ -375,26 +375,6 @@ MISSING.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>271719Z MAY 26
-NAVAREA IV 541/26.
-NORTH ATLANTIC.
-VIRGINIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   110400Z TO 110915Z JUN, ALTERNATE 
-   0400Z TO 0915Z DAILY 12 THRU 17 JUN
-   IN AREAS WITHIN:
-   A. 15 MILES OF 37-43.50N 075-19.15W.
-   B. 25 MILES OF 37-38.21N 074-42.01W.
-   C. 85 MILES OF 36-05.83N 069-54.64W.
-   D. 98 MILES OF 35-08.81N 067-26.57W.
-   E. 101 MILES OF 31-55.73N 059-13.93W.
-   F. 115 MILES OF 30-38.85N 056-06.38W.
-2. CANCEL THIS MSG 171015Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>060109Z JUN 26
