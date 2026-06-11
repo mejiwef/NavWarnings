@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110106Z JUN 26
+HYDROPAC 1694/26.
+TIMOR SEA.
+AUSTRALIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V SHARK 1
+   IN AREA BOUND BY
+   12-26.35S 126-02.40E, 12-26.35S 130-47.59E,
+   12-29.14S 130-47.59E, 12-29.14S 126-02.40E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1434/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101800Z JUN 26

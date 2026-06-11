@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051011Z JUN 26
+HYDROLANT 1118/26.
+BLACK SEA.
+ROMANIA.
+1. NAVAL OPERATIONS 0500Z TO 2100Z 
+   DAILY 16 THRU 18 JUN IN AREA BOUND BY
+   43-54.60N 028-37.40E, 43-54.60N 028-38.40E,
+   43-54.20N 028-38.40E, 43-54.20N 028-37.40E.
+2. CANCEL THIS MSG 182200Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>102209Z JUN 26
