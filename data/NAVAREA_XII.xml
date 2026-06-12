@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>112328Z JUN 26
+NAVAREA XII 416/26.
+1. HAZARDOUS OPERATIONS 131430Z TO 132359Z JUN
+   IN AREA BOUND BY
+   33-34.71N 119-10.98W, 33-11.57N 119-06.84W,
+   32-39.80N 119-44.98W, 32-44.25N 122-01.26W,
+   33-51.79N 123-05.97W, 34-32.08N 122-49.71W.
+2. CANCEL THIS MSG 140059Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>111833Z JUN 26
@@ -12,16 +25,16 @@ OPERATIONS COMPLETED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
+        <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111500Z JUN 26
 NAVAREA XII 414/26.
 GULF OF ALASKA.
 ALASKA.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+1. CABLE OPERATIONS IN PROGRESS UNTIL
    19 JUN BY CABLESHIP CABLE INNOVATOR
    IN VICINITY 56-18.37N 158-23.24W.
-   WIDE BERTH REQUESTED.
+   ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z JUN 26.
 </msgText>
     </smapsActiveEntity>
@@ -30,6 +43,8 @@ ALASKA.
         <status>INFORCE</status>
         <msgText>102013Z JUN 26
 NAVAREA XII 413/26.
+NORTH PACIFIC.
+CALIFORNIA.
 1. HAZARDOUS OPERATIONS 162000Z TO 162200Z JUN
    IN AREA BOUND BY
    30-30.00N 118-45.00W, 30-30.00N 117-34.00W,
@@ -168,21 +183,6 @@ NAVAREA XII 403/26.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>042013Z JUN 26
-NAVAREA XII 401/26.
-NORTH PACIFIC. 
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1430Z TO 2100Z 
-   DAILY 09 THRU 11 JUN IN AREA BOUND BY
-   33-34.71N 119-10.99W, 33-11.57N 119-06.83W,
-   32-39.80N 119-44.98W, 32-44.26N 122-01.26W,
-   33-51.79N 123-59.70W, 34-32.08N 122-49.71W.
-2.  CANCEL THIS MSG 112200Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>130003Z MAY 26
 NAVAREA XII 397/26.
 NORTH PACIFIC.
@@ -201,17 +201,6 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 081430Z TO 120200Z JUN
    IN AREA WITHIN TWO MILES OF 32-32.97N 117-12.87W.
 2. CANCEL THIS MSG 120300Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130027Z MAY 26
-NAVAREA XII 395/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 081600Z TO 112355Z JUN
-   IN AREA WITHIN ONE MILE OF 32-35.82N 117-10.87W.
-2. CANCEL THIS MSG 120055Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

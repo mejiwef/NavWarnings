@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>112252Z JUN 26
+HYDROPAC 1702/26.
+NORTH PACIFIC.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY CABLESHIP ANIEK
+   ALONG TRACKLINE JOINING
+   47-50.90N 172-59.40E, 47-34.20N 172-08.40E,
+   47-00.90N 170-20.70E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1463/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111525Z JUN 26
@@ -863,37 +878,6 @@ HYDROPAC 1493/26.
 SOUTH PACIFIC.
 FIJI.
 NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191143Z MAY 26
-HYDROPAC 1475/26.
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-1. SURVEY OPERATIONS 20 MAY THRU 11 JUN,
-   IN AREA BOUND BY
-   07-22.60N 093-42.45E, 07-32.40N 093-42.50E,
-   07-32.40N 093-29.50E, 07-29.50N 093-29.50E,
-   07-29.50N 093-33.50E, 07-21.00N 093-33.50E,
-   07-21.00N 093-27.30E, 07-38.10N 093-27.30E,
-   07-38.10N 093-54.00E, 07-22.60N 093-54.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 120001Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180917Z MAY 26
-HYDROPAC 1463/26.
-NORTH PACIFIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   FURTHER NOTICE BY CABLESHIP ANIEK
-   ALONG TRACKLINE JOINING
-   46-14.60N 168-19.40E, 46-34.40N 169-49.90E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1408/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
