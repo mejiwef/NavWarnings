@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>041346Z JUN 26
+HYDROLANT 1128/26.
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
+   0818Z TO 1336Z DAILY 17 JUN THRU 17 JUL
+   IN AREA BOUND BY
+   30-37.00N 031-24.00W, 30-05.00N 030-46.00W,
+   26-52.00N 034-15.00W, 27-22.00N 034-54.00W.
+2. CANCEL THIS MSG 171436Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101434Z JUN 26
+HYDROLANT 1127/26.
+ROMANIA.
+BLACK SEA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1200Z
+   DAILY 17 THRU 19 AND 22 THRU 26 JUN 
+   IN AREA BOUND BY 44-25.43N 028-42.50E,
+   44-29.50N 028-55.58E, 44-25.08N 029-01.20E,
+   44-19.70N 029-00.82E,44-14.57N 028-57.93E,
+   44-13.10N 028-56.33E,44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 261300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120128Z JUN 26
+HYDROLANT 1126/26.
+LITTLE MINCH.
+SCOTLAND.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE BY
+M/V TRYM WITH SUBMERSIBLE ALONG TRACKLINES JOINING:
+A. 57-21.60N 007-14.50W, 57-21.00N 007-07.40W,
+   57-23.50N 007-00.40W, 57-24.90N 006-50.50W,
+   57-28.00N 006-47.30W, 57-27.70N 006-45.00W.
+B. 57-27.70N 006-45.00W, 57-28.30N 006-47.70W,
+   57-32.20N 006-42.70W, 57-32.10N 006-38.40W.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111505Z JUN 26

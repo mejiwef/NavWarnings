@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>051422Z JUN 26
+NAVAREA IV 568/26.
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0810Z TO 1252Z DAILY 17 JUN THRU 17 JUL
+   IN AREA BOUND BY
+   05-51.00N 052-48.00W, 05-50.00N 052-20.00W,
+   05-13.00N 052-41.00W, 05-23.00N 052-54.00W.
+2. CANCEL THIS MSG 171352Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>041346Z JUN 26
+NAVAREA IV 567/26.
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0720Z TO 1252Z DAILY 17 JUN THRU 17 JUL
+   IN AREAS BOUND BY:
+   A. 11-47.00N 047-50.00W, 11-39.00N 047-38.00W,
+      10-23.00N 048-39.00W, 10-31.00N 048-50.00W.   
+   B. 12-52.00N 046-58.00W, 12-45.00N 046-47.00W,
+      11-27.00N 047-48.00W, 11-35.00N 047-59.00W.
+2. CANCEL THIS MSG 171352Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>111922Z JUN 26

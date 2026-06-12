@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120602Z JUN 26
+HYDROPAC 1706/26
+1. HAZARDOUS OPERATIONS 121300Z TO 121700Z JUN
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 121800Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>041346Z JUN 26
+HYDROPAC 1705/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   1118Z TO 1626Z DAILY 17 JUN THRU 17 JUL
+   IN AREA BOUND BY
+   00-03.00S 102-59.00W, 00-53.00S 101-46.00W,
+   13-28.00S 110-50.00W, 12-36.00S 112-03.00W.   
+2. CANCEL THIS MSG 171726Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>091208Z JUN 26
+HYDROPAC 1704/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0928Z TO 1214Z DAILY 17 THRU 23 JUN
+   IN AREA BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 231150Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>090941Z JUN 26
+HYDROPAC 1703/261. 
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+    0647Z  TO 1142Z DAILY 17 THRU 23 JUN 
+   IN AREA BOUND BY
+   40-53.00S 081-04.00E, 47-30.00S 097-30.00E,
+   51-11.00S 117-25.00E, 51-06.00S 138-56.00E,
+   47-16.00S 158-45.00E, 50-07.00S 157-59.00E,
+   54-19.00S 130-56.00E, 51-50.00S 102-47.00E,
+   43-45.00S 080-23.00E.
+2. CANCEL THIS MSG 231242Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>112252Z JUN 26
@@ -27,19 +87,6 @@ OMAN.
    25-11.30N 056-24.40E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>111415Z JUN 26
-HYDROPAC 1700/26.
-EASTERN INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   120053Z TO 120253Z JUN IN AREA BOUND BY
-   36-00.00S 094-00.00E, 38-00.00S 100-00.00E,
-   51-00.00S 097-00.00E, 49-00.00S 091-00.00E.
-2. CANCEL THIS MSG 120353Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
