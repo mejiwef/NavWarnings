@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131345Z JUN 26
+HYDROLANT 1136/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 54-10.00S 032-29.00W.
+   B. 49-07.00S 025-57.00W.
+   C. 61-49.00S 055-40.00W.
+   D. 60-43.00S 052-11.00W.
+2. CANCEL THIS MSG 141400Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131339Z JUN 26
+HYDROLANT 1135/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-27.00S 053-18.00W.
+   B. A84, 72-33.60S 108-15.00W.
+   C. A85, 66-38.40S 055-43.20W.
+   D. D33A, 64-39.00S 056-42.60W.
+   E. D33C, 64-27.60S 055-52.20W.
+2. CANCEL THIS MSG 141400Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130050Z JUN 26.
@@ -65,38 +96,6 @@ HYDROLANT 1133/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 956/26, 1018/26, 1092/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121406Z JUN 26
-HYDROLANT 1132/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 54-10.00S 032-29.00W.
-   B. 49-07.00S 025-57.00W.
-   C. 61-49.00S 055-40.00W.
-   D. 60-43.00S 052-11.00W.
-2. CANCEL THIS MSG 131400Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121401Z JUN 26
-HYDROLANT 1131/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-27.00S 053-18.00W.
-   B. A84, 72-33.60S 108-15.00W.
-   C. A85, 66-38.40S 055-43.20W.
-   D. D33A, 64-39.00S 056-42.60W.
-   E. D33C, 64-27.60S 055-52.20W.
-2. CANCEL THIS MSG 131400Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
