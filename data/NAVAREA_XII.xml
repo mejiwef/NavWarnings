@@ -156,19 +156,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>112328Z JUN 26
-NAVAREA XII 416/26.
-1. HAZARDOUS OPERATIONS 131430Z TO 132359Z JUN
-   IN AREA BOUND BY
-   33-34.71N 119-10.98W, 33-11.57N 119-06.84W,
-   32-39.80N 119-44.98W, 32-44.25N 122-01.26W,
-   33-51.79N 123-05.97W, 34-32.08N 122-49.71W.
-2. CANCEL THIS MSG 140059Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111500Z JUN 26

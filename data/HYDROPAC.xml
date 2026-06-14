@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>140005Z JUN 26.
+HYDROPAC 1728/26.
+INDIAN OCEAN.
+CHRISTMAS ISLAND.
+CANCEL HYDROPAC 1547/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>131227Z JUN 26
@@ -607,20 +616,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 162129Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041458Z JUN 26
-HYDROPAC 1640/26.
-CORAL SEA.
-CABLE OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY CABLESHIP LODBROG
-IN AREA BOUND BY
-17-02.40S 154-32.90E, 17-46.60S 154-32.90E,
-17-46.60S 154-57.70E, 17-02.40S 154-57.70E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
