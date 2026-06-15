@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150533Z JUN 26
+NAVAREA IV 584/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 190500Z TO 192000Z JUN
+   IN AREA BOUND BY
+   10-23.20N 075-33.80W, 10-23.20N 075-32.70W,
+   10-22.40N 075-32.70W, 10-22.40N 075-33.80W.
+2. CANCEL THIS MSG 192100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150506Z JUN 26
+NAVAREA IV 583/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 181900Z TO 191700Z JUN
+   IN AREA BOUND BY
+   10-23.18N 075-33.82W, 10-22.35N 075-33.82W,
+   10-22.35N 075-32.68W, 10-23.18N 075-32.68W.
+2. CANCEL THIS MSG 191800Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150139Z JUN 26
+NAVAREA IV 582/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 180500Z TO 190500Z JUN
+   IN AREA BOUND BY
+   10-00.00N 076-09.00W, 10-00.00N 075-53.20W,
+   10-06.80N 075-48.60W, 10-06.80N 075-42.00W,
+   09-54.00N 075-42.00W, 09-54.00N 075-58.00W,
+   09-50.00N 075-58.00W, 09-50.00N 076-09.00W.
+2. CANCEL THIS MSG 190600Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>142009Z JUN 26
