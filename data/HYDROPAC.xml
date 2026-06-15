@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>142107Z JUN 26
+HYDROPAC 1731/26.
+EAST CHINA SEA.
+TAIWAN.
+CABLE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY CABLESHIP ILE DE RE
+IN VICINITY OF TRACKLINE JOINING
+26-14.04N 120-39.69E, 25-52.87N 120-54.39E,
+25-49.98N 120-55.51E, 25-38.99N 120-56.54E,
+25-34.41N 120-58.39E, 25-30.62N 121-01.11E,
+25-20.84N 121-12.82E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141919Z JUN 26
+HYDROPAC 1730/26.
+ARABIAN SEA.
+INDIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   14 JUL BY M/V TRIMURTI IN AREA BOUND BY
+   19-07.08N 072-48.20E, 19-05.68N 072-46.66E,
+   19-03.76N 072-42.33E, 19-01.07N 072-41.73E,
+   19-01.80N 072-41.19E, 19-04.24N 072-41.39E,
+   19-07.50N 072-47.72E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1432/26.
+3. CANCEL THIS MSG 150001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>141412Z JUN 26
@@ -1019,22 +1052,6 @@ HYDROPAC 1493/26.
 SOUTH PACIFIC.
 FIJI.
 NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141236Z MAY 26
-HYDROPAC 1432/26.
-ARABIAN SEA.
-INDIA.
-1. SURVEY OPERATIONS 15 MAY THRU 14 JUN
-   BY M/V TRIMURTI IN AREA BOUND BY
-   19-07.50N 072-47.72E, 19-07.08N 072-48.20E,
-   19-05.68N 072-46.66E, 19-01.07N 072-41.73E,
-   19-01.80N 072-41.19E, 19-03.76N 072-42.33E,
-   19-04.24N 072-41.39E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NGA TECHNICAL ALERT</category>

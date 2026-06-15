@@ -28,16 +28,6 @@ JOHNSTON ATOLL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130416Z JUN 26
-NAVAREA XII 423/26
-1. HAZARDOUS OPERATIONS 141400Z TO 141800Z JUN
-   IN 33-01.00N 118-43.00W.
-2. CANCEL THIS MSG 141900Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>082226Z JUN 26
