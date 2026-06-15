@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>151250Z JUN 26
+NAVAREA XII 426/26.
+NORTH PACIFIC.
+PANAMA.
+COSTA RICA.
+1. DANGEROUS WRECK IN 08-36.66N 083-08.95W.
+2. CANCEL THIS MSG 290001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>130912Z JUN 26

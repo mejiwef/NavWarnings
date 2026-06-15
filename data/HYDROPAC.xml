@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>151233Z JUN 26
+HYDROPAC 1735/26.
+CANCEL HYDROPAC 1720/26 AND THIS MSG,
+MSG NOT PROMULGATED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150420Z JUN 26
@@ -463,18 +471,6 @@ OMAN.
    25-11.30N 056-24.40E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>111031Z JUN 26
-HYDROPAC 1699/26
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 150200Z TO
-   150800Z JUN IN AREA BOUND BY
-   11-09.00S 092-07.00E, 11-13.00S 092-40.00E,
-   16-34.00S 091-56.00E, 16-30.00S 091-23.00E.
-2. CANCEL THIS MSG 150900Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
