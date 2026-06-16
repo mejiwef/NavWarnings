@@ -221,28 +221,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 180001Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>101537Z JUN 26
-NAVAREA XII 410/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: 
-   A. 141400Z TO 141824Z JUN, ALTERNATE
-      1400Z TO 1824Z DAILY 15 THRU 20 JUN
-      IN AREA BOUND BY
-      31-44.00N 121-09.00W, 31-43.00N 121-16.00W,
-      34-41.00N 120-42.00W, 34-38.00N 120-28.00W.
-   B. 141400Z TO 141843Z JUN, ALTERNATE
-      1400Z TO 1843Z DAILY 15 THRU 20 JUN
-      IN AREA BOUND BY
-      28-16.00N 121-48.00W, 28-34.00N 122-21.00W,
-      29-50.00N 121-45.00W, 29-48.00N 121-35.00W,
-      28-39.00N 121-25.00W.
-2. CANCEL THIS MSG 201943Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>072321Z JUN 26
