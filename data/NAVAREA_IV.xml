@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OIL SPILL RESPONSE</category>
+        <status>INFORCE</status>
+        <msgText>161334Z JUN 26
+NAVAREA IV 591/26.
+NORTH ATLANTIC.
+GUYANA.
+1. OIL SPILL RESPONSE OPERATIONS 
+   161030Z TO 170100Z JUN
+   BY  M/V SL MARABOUBARGE AND AHT SEAWAYS 22 
+   IN 06-56.90N 058-03.44W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 170200Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>151538Z JUN 26
@@ -135,22 +150,6 @@ COLOMBIA.
    09-54.00N 075-42.00W, 09-54.00N 075-58.00W,
    09-50.00N 075-58.00W, 09-50.00N 076-09.00W.
 2. CANCEL THIS MSG 190600Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>131710Z JUN 26
-NAVAREA IV 578/26.
-NORTH ATLANTIC.
-GUYANA.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   31 DEC BY VESSEL OCV NORMAND NAVIGATOR 
-   IN AREA BOUND BY
-   08-03.09N 056-46.93W, 07-51.15N 056-46.93W,
-   07-51.14N 056-38.77W, 08-03.09N 056-03.66W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JAN 27.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

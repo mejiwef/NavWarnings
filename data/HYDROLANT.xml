@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161319Z JUN 26
+HYDROLANT 1155/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-44.00S 031-45.00W.
+   B. 49-20.00S 024-18.00W.
+   C. 61-56.00S 055-37.00W.
+   D. 60-43.00S 052-11.00W.
+   E. 62-00.00S 055-43.00W.
+2. CANCEL THIS MSG 171320Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161035Z JUN 26
+HYDROLANT 1154/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-19.20S 053-01.20W.
+   B. A84, 72-22.80S 108-24.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-35.40S 056-18.60W.
+   E. D33C, 64-19.20S 055-43.80W.
+2. CANCEL THIS MSG 171034Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160931Z JUN 26
+HYDROLANT 1153/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS IN PROGRESS
+   UNTIL 170001Z JUN IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 170101Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>160133Z JUN 26
@@ -8,7 +56,8 @@ HYDROLANT 1152/26.
 NORTH ATLANTIC.
 SHETLAND ISLANDS.
 MUCKLE FLUGGA LIGHT 60-51.30N 000-53.10W
-UNLIT.</msgText>
+UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -17,9 +66,10 @@ UNLIT.</msgText>
 HYDROLANT 1151/26.
 SOUTH ATLANTIC.
 BRAZIL.
-1. PONTA GROSSA LIGHT 23-46.60S 045-13.84W UNLIT
-   UNTIL 12 DEC.
-2. CANCEL THIS MSG 130001Z DEC 26.</msgText>
+1. PONTA GROSSA LIGHT 23-46.60S 045-13.84W
+   UNLIT UNTIL 12 DEC.
+2. CANCEL THIS MSG 130001Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -29,12 +79,12 @@ HYDROLANT 1150/26.
 SOUTH ATLANTIC.
 SCOTIA SEA. 
 ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-A. A76C, 53-52.00S 031-59.00W.
-B. 49-20.00S 024-18.00W.
-C. 61-56.00S 055-37.00W.
-D. 60-43.00S 052-11.00W.
-E. 62-00.00S 055-43.00W.
+1. ICEBERGS REPORTED IN:
+   A. A76C, 53-52.00S 031-59.00W.
+   B. 49-20.00S 024-18.00W.
+   C. 61-56.00S 055-37.00W.
+   D. 60-43.00S 052-11.00W.
+   E. 62-00.00S 055-43.00W.
 2. CANCEL THIS MSG 161432Z JUN 26.
 </msgText>
     </smapsActiveEntity>
@@ -76,25 +126,9 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. DERELICT VESSEL THOR NORONHA PARTIALLY 
    SUBMERGED AND ADRIFT IN
-   06-12.80S 034-28.80W AT 142033 JUN.
-2. CANCEL COASTAL HYDROLANT 1142/26.
-3. CANCEL THIS MSG 181325Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151031Z JUN 26
-HYDROLANT 1147/26
-SOUTH PACIFIC.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-19.20S 053-01.20W.
-   B. A84, 72-22.80S 108-24.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-35.40S 056-18.60W.
-   E. D33C, 64-19.20S 055-43.80W.
-2. CANCEL THIS MSG 161033Z JUN 26.
+   06-12.80S 034-28.80W AT 142033Z JUN.
+2. CANCEL HYDROLANT 1142/26.
+3. CANCEL THIS MSG 181325Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
