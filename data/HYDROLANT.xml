@@ -3,6 +3,16 @@
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
+        <msgText>160133Z JUN 26
+HYDROLANT 1152/26.
+NORTH ATLANTIC.
+SHETLAND ISLANDS.
+MUCKLE FLUGGA LIGHT 60-51.30N 000-53.10W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
         <msgText>152144Z JUN 26
 HYDROLANT 1151/26.
 SOUTH ATLANTIC.
