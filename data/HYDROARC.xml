@@ -18,7 +18,8 @@ RUSSIA.
       67-49.00N 048-56.00E, 67-19.00N 044-54.00E,
       67-34.30N 045-13.00E, 68-22.00N 046-12.00E.
 2. CANCEL HYDROARC 104/26.
-3. CANCEL THIS MSG 211800Z JUN 26.</msgText>
+3. CANCEL THIS MSG 211800Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
