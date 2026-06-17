@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>171732Z JUN 26
+HYDROLANT 1166/26.
+BAY OF BISCAY.
+FRANCE.
+NAVTEX STATION CROSS CORSEN (A) 
+48-23.71N 005-03.00W BRAODCAST SERVICE
+OFF AIR 180600Z JUN UNTIL FURTHER NOTICE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171618Z JUN 26
+HYDROLANT 1165/26
+NORTH ATLANTIC.
+SPAIN.
+1. NAVAL OPERATIONS 191000Z TO 191700Z JUN,
+   ALTERNATE 1000Z TO 1700Z DAILY 
+   20 JUN THRU 04 JUL IN AREA BOUND BY
+   47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
+   45-10.00N 008-10.00W, 45-10.00N 008-10.00W.
+2. CANCEL THIS MSG 041800Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>171323Z JUN 26
+HYDROLANT 1164/26.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+CANCEL HYDROLANT 1094/26 AND THIS MSG,
+SERVICE RESTORED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>171301Z JUN 26
@@ -46,7 +82,8 @@ HYDROLANT 1160/26.
    22-59.46S 042-00.84W, 25-55.32S 040-11.58W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1157/26.
-3. CANCEL THIS MSG 150001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 150001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -84,24 +121,6 @@ NORTH ATLANTIC.
 1. SCIENTIFIC BUOY ADRIFT IN VICINITY
    25-24.00N 017-28.00W AT 161405Z JUN.
 2. CANCEL THIS MSG 191517Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161319Z JUN 26
-HYDROLANT 1155/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-44.00S 031-45.00W.
-   B. 49-20.00S 024-18.00W.
-   C. 61-56.00S 055-37.00W.
-   D. 60-43.00S 052-11.00W.
-   E. 62-00.00S 055-43.00W.
-2. CANCEL THIS MSG 171320Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -296,24 +315,6 @@ BLACK SEA.
    B. 44-06.40N 028-57.90E, 44-06.40N 029-02.00E,
       44-00.10N 028-58.80E, 44-00.10N 028-49.90E.
 2. CANCEL THIS MSG 181200Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121315Z JUN 26
-HYDROLANT 1129/26.
-ROMANIA.
-BLACK SEA.
-1. HAZARDOUS OPERATIONS 0700Z TO 1600Z DAILY
-   16 AND 17 JUN IN AREAS BOUND BY:
-   A. 44-13.00N 028-57.90E, 44-13.00N 029-02.00E,
-      44-06.40N 029-02.00E, 44-06.40N 028-57.90E.
-   B. 44-06.40N 028-57.90E, 44-06.40N 029-02.00E,
-      44-00.10N 028-58.80E, 44-00.10N 028-49.90E.
-   C. 44-06.40N 028-55.60E, 44-06.40N 028-57.90E,
-      44-00.16N 028-49.97E, 44-01.24N 028-48.80E.
-2. CANCEL THIS MSG 171700Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

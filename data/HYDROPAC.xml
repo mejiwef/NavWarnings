@@ -131,23 +131,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>160452Z JUN 26
-HYDROPAC 1745/26.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS:
-   A. 160940Z TO 161029Z JUN IN AREA BOUND BY
-      11-24.00N 116-11.00E, 11-50.00N 116-48.00E,
-      11-06.00N 117-21.00E, 10-39.00N 116-45.00E.
-   B. 171437Z TO 171506Z JUN IN AREA BOUND BY
-      09-16.00N 118-57.00E, 09-28.00N 119-12.00E,
-      08-57.00N 119-36.00E, 08-45.00N 119-20.00E.
-2. CANCEL THIS MSG 171606Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>152118Z JUN 26
@@ -292,20 +275,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1432/26.
 3. CANCEL THIS MSG 150001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>141412Z JUN 26
-HYDROPAC 1729/26.
-EASTERN INDIAN OCEAN.
-SOMALIA.
-1. M/V APPROACHED BY PIRATES IN
-   09-47.00N 051-27.00E AT 140730Z JUN. 
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 171420Z JUN 26
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
