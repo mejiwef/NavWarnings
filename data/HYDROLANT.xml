@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170144Z JUN 26
+HYDROLANT 1160/26.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   140001Z NOV BY M/V FUGRO VAQUITA
+   IN AREA BOUND BY
+   22-03.00S 037-06.48W, 20-27.24S 040-20.52W,
+   22-59.46S 042-00.84W, 25-55.32S 040-11.58W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1157/26.
+3. CANCEL THIS MSG 150001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161651Z JUN 26
@@ -25,22 +39,6 @@ SENEGAL.
 1. HAZARDOUS OPERATIONS 180900Z TO 181700Z JUN
    IN AREA WITHIN 20 MILES OF 14-28.00N 017-52.00W.
 2. CANCEL THIS MSG 181800Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161556Z JUN 26
-HYDROLANT 1157/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   142000Z NOV BY M/V FUGRO VAQUITA
-   IN AREA BOUND BY
-   22-03.00S 037-06.48W, 20-27.24S 040-20.52W,
-   22-59.46S 042-00.84W, 25-55.32S 040-11.58W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 142100Z NOV 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -87,21 +85,6 @@ ANTARCTICA.
    D. D33A, 64-35.40S 056-18.60W.
    E. D33C, 64-19.20S 055-43.80W.
 2. CANCEL THIS MSG 171034Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160931Z JUN 26
-HYDROLANT 1153/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS IN PROGRESS
-   UNTIL 170001Z JUN IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 170101Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

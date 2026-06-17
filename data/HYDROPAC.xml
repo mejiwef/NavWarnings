@@ -106,21 +106,6 @@ FIVE MILE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>160620Z JUN 26
-HYDROPAC 1747/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-1. HAZARDOUS OPERATIONS 162300Z TO 170200Z JUN
-   IN AREA BOUND BY
-   15-32.00N 145-25.00E, 17-53.00N 145-25.00E,
-   17-53.00N 146-38.00E, 15-32.00N 146-38.00E.
-2. CANCEL THIS MSG 170300Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>160547Z JUN 26
 HYDROPAC 1746/26.
 NORTH PACIFIC.
@@ -434,20 +419,6 @@ HYDROPAC 1715/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>121228Z JUN 26
-HYDROPAC 1714/26.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   170001Z TO 170600Z JUN IN AREA BOUND BY
-   09-28.00N 119-13.00E, 08-57.00N 119-36.00E,
-   08-45.00N 119-20.00E, 09-16.00N 118-57.00E.
-2. CANCEL THIS MSG 170700Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121129Z JUN 26
@@ -462,22 +433,6 @@ B. 180130Z TO 180930Z JUN IN AREA BOUND BY
    17-12.00N 083-45.00E, 17-12.00N 084-05.00E,
    17-32.00N 084-05.00E, 17-32.00N 083-45.00E.
 2. CANCEL THIS MSG 181030Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>121052Z JUN 26
-HYDROPAC 1710/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   170530Z TO 170700Z JUN IN AREA BOUND BY
-   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL THIS MSG 170800Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
