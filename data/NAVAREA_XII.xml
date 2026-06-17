@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>162018Z JUN 26
+NAVAREA XII 429/26.
+NORTH PACIFIC.
+ALASKA.
+USCG COMMUNICATION FACILITY PT HIGGINS
+55-27.00N 131-49.00W TRANSMIT AND RECEIVE
+SERVICES OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>131314Z JUN 26
@@ -188,21 +199,6 @@ ALASKA.
    IN VICINITY 56-18.37N 158-23.24W.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 200001Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>102013Z JUN 26
-NAVAREA XII 413/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 162000Z TO 162200Z JUN
-   IN AREA BOUND BY
-   30-30.00N 118-45.00W, 30-30.00N 117-34.00W,
-   30-35.00N 117-34.00W, 30-35.00N 116-30.83W,
-   29-35.00N 116-02.50W, 29-35.00N 118-45.00W.
-2. CANCEL THIS MSG 162300Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
