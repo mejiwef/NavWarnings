@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>171209Z JUN 26
+HYDROPAC 1756/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 2100Z TO 0900Z DAILY 
+   21 THRU 27 JUN IN AREA WITHIN 25 MILES
+   31-14.23N 144-26.80E.
+2. CANCEL THIS MSG 281000Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>170011Z JUN 26
@@ -8,7 +20,8 @@ HYDROPAC 1755/26.
 CORAL SEA.
 PAPUA NEW GUINEA.
 RACON AT BRAMBLE CAY LIGHT 09-08.53S 143-52.56E
-INOPERATIVE.</msgText>
+INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -296,22 +309,6 @@ SOMALIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>130710Z JUN 26
-HYDROPAC 1725/26
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   170300Z TO 170900Z JUN IN AREA BOUND BY
-   54-51.00S 147-37.00W, 54-47.00S 137-45.00W,
-   54-08.00S 129-52.00W, 53-00.00S 122-55.00W,
-   49-56.00S 111-14.00W, 53-52.00S 122-20.00W,
-   55-12.00S 131-09.00W, 55-43.00S 139-11.00W,
-   55-44.00S 147-14.00W.
-2. CANCEL THIS MSG 171000Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130034Z JUN 26.
@@ -433,20 +430,6 @@ B. 180130Z TO 180930Z JUN IN AREA BOUND BY
    17-12.00N 083-45.00E, 17-12.00N 084-05.00E,
    17-32.00N 084-05.00E, 17-32.00N 083-45.00E.
 2. CANCEL THIS MSG 181030Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121034Z JUN 26
-HYDROPAC 1709/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. HAZARDOUS OPERATIONS 170230Z TO 171130Z JUN
-   IN AREA BOUND BY
-   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
-   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
-2. CANCEL THIS MSG 171230Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

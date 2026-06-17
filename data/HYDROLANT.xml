@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171301Z JUN 26
+HYDROLANT 1163/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-44.00S 031-45.00W.
+   B. 49-23.00S 023-58.00W.
+   C. 61-45.00S 055-55.00W.
+   D. 60-43.00S 052-11.00W.
+2. CANCEL HYDROLANT 1162/26.
+3. CANCEL THIS MSG 181301Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171008Z JUN 26
+HYDROLANT 1161/26.
+SOUTH ATLANTIC. 
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-19.20S 053-01.20W.
+   B. A84, 72-22.80S 108-24.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A. 64-35.40S 056-18.60W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 181007Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170144Z JUN 26
@@ -68,23 +102,6 @@ ANTARCTICA.
    D. 60-43.00S 052-11.00W.
    E. 62-00.00S 055-43.00W.
 2. CANCEL THIS MSG 171320Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161035Z JUN 26
-HYDROLANT 1154/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-19.20S 053-01.20W.
-   B. A84, 72-22.80S 108-24.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-35.40S 056-18.60W.
-   E. D33C, 64-19.20S 055-43.80W.
-2. CANCEL THIS MSG 171034Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
