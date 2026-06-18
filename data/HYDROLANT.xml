@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181250Z JUN 26
+HYDROLANT 1174/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1800Z DAILY
+   22 THRU 26 JUN IN AREAS WITHIN SEVEN MILES OF:
+   A. 57-35.10N 008-15.90W.
+   B. 57-29.30N 008-17.40W.
+2. CANCEL THIS MSG 261900Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>181245Z JUN 26
+HYDROLANT 1173/26.
+NORTH SEA.
+ENGLAND.
+1. MF R/T AND DSC SERVICES OFF AIR AT:
+   A. BAWDSEY 51-59.60N 001-24.50E.
+   B. CULLERCOATS 55-04.40N 001-27.80W.
+   C. GREGNESS 57-07.70N 002-03.20W.
+2. CANCEL HYDROLANT 1072/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>181046Z JUN 26
+HYDROLANT 1172/26
+SEA OF THE HEBRIDES.
+SCOTTLAND.
+MF R/T AND DSC SERVICES OFF AIR AT:
+A. BUTT OF LEWIS 58-27.70N 006-13.90W 
+B. TIREE 56-30.20N 006-57.80W
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>181139Z JUN 26
+HYDROLANT 1171/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-19.20S 053-01.20W.
+   B. A84, 72-22.80S 108-24.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-35.40S 056-18.60W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 191141Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180943Z JUN 26
+HYDROLANT 1170/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 0530Z TO 0700Z 
+   DAILY 23, 24 AND 26 JUN IN AREA BOUND BY
+   41-58.20N 028-01.67E, 41-58.53N 028-19.12E,
+   42-06.97N 029-00.18E, 42-47.83N 030-45.08E,
+   42-46.82N 031-01.27E, 42-45.98N 034-47.53E,
+   42-13.53N 034-54.70E, 42-00.93N 034-42.02E,
+   42-01.27N 034-19.52E, 42-04.32N 033-20.65E,
+   41-46.07N 032-13.12E, 41-41.35N 030-59.65E,
+   41-34.53N 029-57.45E, 41-44.15N 029-27.60E,
+   41-43.78N 028-56.77E, 41-45.42N 028-50.20E,
+   41-45.40N 028-43.00E, 41-41.67N 028-16.08E,
+   41-41.93N 028-06.12E, 41-46.98N 028-04.25E,
+   41-50.00N 028-02.18E.
+2. CANCEL THIS MSG 260800Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180929Z JUN 26
+HYDROLANT 1169/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 
+   220700Z JUN TO 032200Z JUL
+   IN AREA BOUND BY
+   24-20.00S 040-32.00W, 24-30.00S 040-03.00W,
+   25-34.00S 039-00.00W, 26-50.00S 040-25.00W,
+   25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
+2. CANCEL THIS MSG 032300Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180058Z JUN 26
@@ -27,7 +122,8 @@ IN AREA BOUND BY
 53-34.70N 003-35.70W, 53-34.70N 003-27.70W,
 53-34.00N 003-27.70W, 53-33.70N 003-33.20W,
 53-29.80N 003-34.20W, 53-29.80N 003-35.70W.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -38,7 +134,7 @@ BAY OF BISCAY.
 FRANCE.
 NAVTEX STATION CROSS CORSEN (A) 
 48-23.71N 005-03.00W BRAODCAST SERVICE
-OFF AIR 180600Z JUN UNTIL FURTHER NOTICE.
+OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -53,50 +149,7 @@ SPAIN.
    20 JUN THRU 04 JUL IN AREA BOUND BY
    47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
    45-10.00N 008-10.00W, 45-10.00N 008-10.00W.
-2. CANCEL THIS MSG 041800Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>171323Z JUN 26
-HYDROLANT 1164/26.
-SEA OF THE HEBRIDES.
-SCOTLAND.
-CANCEL HYDROLANT 1094/26 AND THIS MSG,
-SERVICE RESTORED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171301Z JUN 26
-HYDROLANT 1163/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-44.00S 031-45.00W.
-   B. 49-23.00S 023-58.00W.
-   C. 61-45.00S 055-55.00W.
-   D. 60-43.00S 052-11.00W.
-2. CANCEL HYDROLANT 1162/26.
-3. CANCEL THIS MSG 181301Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>171008Z JUN 26
-HYDROLANT 1161/26.
-SOUTH ATLANTIC. 
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-19.20S 053-01.20W.
-   B. A84, 72-22.80S 108-24.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A. 64-35.40S 056-18.60W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 181007Z JUN 26.
+2. CANCEL THIS MSG 041800Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -331,22 +384,6 @@ HYDROLANT 1133/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121338Z JUN 26
-HYDROLANT 1130/26.
-ROMANIA.
-BLACK SEA.
-1. HAZARDOUS OPERATIONS 180700Z TO 181100Z JUN
-   IN AREAS BOUND BY:
-   A. 44-13.00N 028-57.90E, 44-13.00N 029-02.00E,
-      44-06.40N 029-02.00E, 44-06.40N 028-57.90E.
-   B. 44-06.40N 028-57.90E, 44-06.40N 029-02.00E,
-      44-00.10N 028-58.80E, 44-00.10N 028-49.90E.
-2. CANCEL THIS MSG 181200Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>041346Z JUN 26
@@ -505,16 +542,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>060036Z JUN 26
-HYDROLANT 1094/26.
-SEA OF THE HEBRIDES.
-SCOTLAND.
-TIREE AIRPORT SITE 56-30.0N 006-52.8W 
-MF DSC OFF AIR.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041445Z JUN 26
@@ -536,22 +563,6 @@ TURKEY.
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>021409Z JUN 26
-HYDROLANT 1072/26.
-NORTH SEA.
-ENGLAND.
-1. MF R/T AND DSC SERVICES OFF AIR AT:
-   A. BAWDSEY 51-59.60N 001-24.50E.
-   B. CULLERCOATS 55-04.40N 001-27.80W.
-   C. GREGNESS 57-07.70N 002-03.20W.
-2. LANGHAM 52-56.50N 000-57.20E MF DSC
-   SERVICES OFF AIR.
-3. CANCEL HYDROLANT 1066/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
