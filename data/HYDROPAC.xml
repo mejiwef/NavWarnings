@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180017Z JUN 26
+HYDROPAC 1761/26.
+1. CABLE OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY CABLESHIP ANIEK
+   ALONG TRACKLINE JOINING
+   46-49.70N 169-48.40E, 46-46.20N 168-25.60E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1702/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>172007Z JUN 26
+HYDROPAC 1758/26.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+TASMAN SEA.
+CANCEL HYDROPAC 1703/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>171919Z JUN 26
+HYDROPAC 1757/26.
+GULF OF ADEN.
+YEMEN.
+1. VESSEL ATTACKED IN VICINITY 13-13.00N 046-48.00E
+   AT 171610Z JUN. VESSELS ARE ADVISED TO KEEP
+   CLEAR OF THIS POSITION AND TO EXERCISE
+   EXTREME CAUTION.
+2. CANCEL THIS MSG 201919Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>171209Z JUN 26
@@ -103,20 +139,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160923Z JUN 26
-HYDROPAC 1748/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V SKANDI INVENTOR IN: 
-A. 19-48.59S 114-36.34E.
-B. 19-52.73S 114-36.48E.
-FIVE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160547Z JUN 26
@@ -211,20 +233,6 @@ YEMEN.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
 2. CANCEL THIS MSG 181653Z JUN 26
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>150420Z JUN 26
-HYDROPAC 1734/26.
-SOUTH PACIFIC. 
-CHILE.
-1. HAZARDOUS OPERATIONS 171700Z TO 172230Z JUN
-   IN AREA BOUND BY
-   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
-   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
-2. CANCEL THIS MSG 172330Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -460,21 +468,6 @@ HYDROPAC 1703/261.
    54-19.00S 130-56.00E, 51-50.00S 102-47.00E,
    43-45.00S 080-23.00E.
 2. CANCEL THIS MSG 231242Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>112252Z JUN 26
-HYDROPAC 1702/26.
-NORTH PACIFIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   FURTHER NOTICE BY CABLESHIP ANIEK
-   ALONG TRACKLINE JOINING
-   47-50.90N 172-59.40E, 47-34.20N 172-08.40E,
-   47-00.90N 170-20.70E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1463/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -987,20 +980,6 @@ HYDROPAC 1237/26.
 BAY OF BENGAL.
 INDIA.
 BUOY ESTABLISHED IN 14-05.21N 080-28.50E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232306Z APR 26
-HYDROPAC 1229/26.
-TIMOR SEA.
-INDONESIA.
-SURVEY OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V SW BLY TOWING
-FIVE MILE LONG CABLE IN AREA BOUND BY
-09-49.91S 127-39.79E, 09-49.91S 128-14.91E,
-10-22.10S 128-14.91E, 10-22.10S 127-39.79E.
-FIVE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>

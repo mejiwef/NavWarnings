@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171949Z JUN 26
+HYDROLANT 1167/26.
+IRISH SEA.
+ENGLAND.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V ARGYLL EXPLORER 
+IN AREA BOUND BY
+53-34.70N 003-35.70W, 53-34.70N 003-27.70W,
+53-34.00N 003-27.70W, 53-33.70N 003-33.20W,
+53-29.80N 003-34.20W, 53-29.80N 003-35.70W.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>171732Z JUN 26
