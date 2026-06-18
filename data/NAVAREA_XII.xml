@@ -3,6 +3,39 @@
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
+        <msgText>130758Z JUN 26
+NAVAREA XII 433/26
+NORTH PACIFIC.
+1. HF AND DSC SERVICES OFF AIR
+   231700Z TO 232000Z JUN AT 
+   USCG REMOTE COMMUNICATION FACILITIES: 
+   A. PT REYES 37-55.5N 122-43.9W.
+   B. HONOLULU 21-26.1N 158-08.7W.
+   C. KODIAK 57-46.6N 152-31.7W.
+   D. ASTORIA 46-12.4N 123-57.4W.
+   E. CAMBRIA 35-31.1N 121-03.6W.
+2. CANCEL THIS MSG 232100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>180141Z JUN 26
+NAVAREA XII 432/26.
+EASTERN NORTH PACIFIC.
+1. HF BROADCAST AND DSC SERVICES OFF AIR
+   181100Z TO 181800Z JUN AT USCG REMOTE
+   COMMUNICATION FACILITIES:
+   A. PT REYES, 37-55.50N 122-43.90W.
+   B. HONOLULU, 21-26.00N 158-09.00W.
+   C. KODIAK, 57-46.00N 152-34.00W.
+   D. ASTORIA, 46-10.00N 123-49.00W.
+   E. CAMBRIA, 33-44.00N 118-24.00W.
+2. CANCEL THIS MSG 181900Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
         <msgText>162018Z JUN 26
 NAVAREA XII 429/26.
 NORTH PACIFIC.

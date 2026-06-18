@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>130758Z JUN 26
+NAVAREA IV 599/26
+WESTERN NORTH ATLANTIC.
+1. HF AND DSC SERVICES OFF AIR
+   231700Z TO 232000Z JUN AT 
+   USCG REMOTE COMMUNICATION FACILITIES: 
+   A. BOSTON 41-42.8N 070-30.3W.
+   B. CHARLESTON 32-50.7N 079-57.0W.
+   C. CHESAPEAKE 36-43.7N 076-00.6W.
+   D. MIAMI 25-37.4N 080-23.4W.
+   E. NEW ORLEANS 29-53.1N 089-56.7W.
+   F. SAN JUAN 18-28.0N 067-04.3W.
+2. CANCEL THIS MSG 232100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>180141Z JUN 26
+NAVAREA IV 598/26.
+WESTERN NORTH ATLANTIC.
+1. HF BROADCAST AND DSC SERVICES OFF AIR
+   181100Z TO 181800Z JUN AT USCG REMOTE
+   COMMUNICATION FACILITIES:
+   A. BOSTON, 41-42.00N 070-30.30W.
+   B. CHESAPEAKE, 36-43.70N 076-00.60W.
+   C. CHARLESTON, 32-50.00N 079-56.00W.
+   D. MIAMI,25-37.00N 080-23.00W.
+   E. NEW ORLEANS, 29-53.10N 089-56.70W.
+   F. SAN JUAN, 18-27N 066-06W.
+2. CANCEL THIS MSG 181900Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>172037Z JUN 26

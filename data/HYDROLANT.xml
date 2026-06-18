@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180058Z JUN 26
+HYDROLANT 1168/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   0800Z TO 2000Z DAILY UNTIL 28 JUN BY
+   M/V BIG JOHN VI, VESSEL UNIQUE IV AND
+   VESSEL VIVALEX IV IN 23-11.62S 044-00.55W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 282100Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171949Z JUN 26
