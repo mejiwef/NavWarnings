@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191252Z JUN 26
+HYDROPAC 1783/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND
+   0900Z TO 1100Z DAILY 22 THRU 26 JUN 
+   IN AREA BOUND BY
+   21-35.67N 087-10.55E, 21-28.43N 087-59.22E,
+   21-02.72N 088-52.55E, 18-04.55N 086-22.58E,
+   19-38.93N 085-49.17E, 20-35.10N 087-01.63E,
+   20-52.60N 087-03.43E, 21-15.10N 086-48.73E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 261200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>191214Z JUN 26
+HYDROPAC 1782/26.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. VESSEL HIJACKED IN 14-00.00N 120-00.00E. 
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+   REPORTS TO IMB GLOBAL ANTI PIRACY HELPLINE 603 2031 0014, 
+   EMAIL IMBKL@ICC-CCS.ORG / PIRACY@ICC-CCS.ORG.
+2. CANCEL THIS MSG 221300Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191115Z JUN 26
+HYDROPAC 1781/26
+GULF OF KACHCHH.
+INDIA.
+1. HAZARDOUS OPERATIONS 230430Z TO 230730Z
+   IN AREA BOUND BY
+   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
+   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
+   22-42.11N 068-55.34E.
+2. CANCEL THIS MSG 230830Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191039Z JUN 26
+HYDROPAC 1780/26
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 230430Z TO 230630Z
+   AND 230830Z TO 231030Z JUN IN AREA BOUND BY
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
+2. CANCEL THIS MSG 231130Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MEDEVAC</category>
         <status>INFORCE</status>
         <msgText>190622Z JUN 26
@@ -140,20 +199,6 @@ HYDROPAC 1771/26.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>181339Z JUN 26
-HYDROPAC 1770/26
-EASTERN INDIAN OCEAN.
-LAKSHADWEEP.
-1. HAZARDOUS OPERATIONS 190130Z TO 190730Z JUN
-   IN AREA BOUND BY
-   10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
-   10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
-2. CANCEL THIS MSG 190830Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>181330Z JUN 26
 HYDROPAC 1769/26.
 ANDMAN SEA.
@@ -288,34 +333,6 @@ CORAL SEA.
 PAPUA NEW GUINEA.
 RACON AT BRAMBLE CAY LIGHT 09-08.53S 143-52.56E
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161615Z JUN 26
-HYDROPAC 1754/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 190300Z TO 190730Z JUN
-   IN AREA BOUND BY
-   15-15.50N 073-37.00E, 15-15.50N 073-47.33E,
-   15-25.00N 073-47.33E, 15-25.00N 073-37.00E.
-2. CANCEL THIS MSG 190830Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161608Z JUN 26
-HYDROPAC 1753/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
-   17 THRU 19 JUN IN AREA BOUND BY
-   12-49.00N 080-46.00E, 12-49.00N 081-26.00E,
-   12-59.00N 081-26.00E, 12-59.00N 080-46.00E.
-2. CANCEL THIS MSG 191230Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

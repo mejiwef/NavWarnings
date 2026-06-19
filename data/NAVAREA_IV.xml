@@ -552,20 +552,6 @@ DSC, NBDP AND RT UNABLE TO RECEIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>102149Z JUN 26
-NAVAREA IV 558/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. NAVAL OPERATIONS 151100Z TO 191000Z JUN
-   IN AREA BOUND BY
-   10-28.50N 075-50.00W, 10-28.50N 075-45.00W,
-   10-18.90N 075-45.00W, 10-18.90N 075-50.00W.
-2. CANCEL THIS MSG 191100Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>102039Z JUN 26
