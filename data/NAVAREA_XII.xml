@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>130850Z JUN 26
+NAVAREA XII 435/26
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: 
+   A. 240248Z TO 240512Z JUN, ALTERNATE 
+      1510Z TO 1734Z DAILY 24 THRU 26 JUN 
+      AND 0248Z TO 0512Z DAILY 25 THRU 27 JUN
+      IN AREA BOUND BY
+      31-44.00N 121-09.00W, 31-43.00N 121-16.00W,
+      34-41.00N 120-42.00W, 34-38.00N 120-28.00W.
+   B. 240248Z TO 240531Z JUN, ALTERNATE 
+      1510Z TO 1753Z DAILY 24 THRU 26 JUN 
+      AND 0248Z TO 0531Z DAILY 25 THRU 27 JUN
+      IN AREA BOUND BY
+      28-16.00N 121-48.00W, 28-34.00N 122-21.00W,
+      29-50.00N 121-45.00W, 29-48.00N 121-35.00W,
+      28-39.00N 121-25.00W.
+2. CANCEL THIS MSG 270631Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>181635Z JUN 26

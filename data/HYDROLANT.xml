@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MEDEVAC</category>
+        <status>INFORCE</status>
+        <msgText>190304Z JUN 26
+HYDROLANT 1182/26.
+NORTH ATLANTIC.
+S/V WIDOW MAKER REPORTS CREWMAN REQUIRING
+MEDICAL ASSISTANCE IN 37-01.40N 071-17.00W 
+AT 182345Z JUN. VESSELS IN VICINITY ABLE 
+TO PROVIDE MEDICAL ASSISTANCE REQUESTED 
+TO ASSIST IF POSSIBLE. 
+REPORTS TO RCC NORFOLK,
+PHONE: 833 453 1269,
+EMAIL: RCCNORFOLK@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>181717Z JUN 26

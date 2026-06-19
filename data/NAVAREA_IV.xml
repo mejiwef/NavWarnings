@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181444Z JUN 26
+NAVAREA IV 603/26.
+CARIBBEAN SEA.
+MARTINIQUE.
+1. HAZARDOUS OPERATIONS 241200Z TO 241600Z JUN
+   IN AREA WITHIN 12 MILES OF 14-35.00N 061-47.36W.
+2. CANCEL THIS MSG 241700Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>182011Z JUN 26
@@ -323,22 +335,6 @@ COLOMBIA.
    10-23.18N 075-33.82W, 10-22.35N 075-33.82W,
    10-22.35N 075-32.68W, 10-23.18N 075-32.68W.
 2. CANCEL THIS MSG 191800Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>150139Z JUN 26
-NAVAREA IV 582/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. NAVAL OPERATIONS 180500Z TO 190500Z JUN
-   IN AREA BOUND BY
-   10-00.00N 076-09.00W, 10-00.00N 075-53.20W,
-   10-06.80N 075-48.60W, 10-06.80N 075-42.00W,
-   09-54.00N 075-42.00W, 09-54.00N 075-58.00W,
-   09-50.00N 075-58.00W, 09-50.00N 076-09.00W.
-2. CANCEL THIS MSG 190600Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
