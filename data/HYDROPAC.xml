@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>190025Z JUN 26
+HYDROPAC 1775/26.
+NORTH PACIFIC.
+PHILIPPINES SEA.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   230100Z TO 230700Z JUN IN AREAS BOUND BY:
+   A. 19-42.00N 118-39.00E, 19-37.00N 120-05.00E,
+      19-00.00N 120-02.00E, 19-04.00N 118-37.00E.
+   B. 19-20.00N 123-18.00E, 19-14.00N 124-23.00E,
+      18-43.00N 124-20.00E, 18-48.00N 123-15.00E.
+   C. 17-30.00N 138-18.00E, 17-02.00N 140-59.00E,
+      16-14.00N 140-50.00E, 16-43.00N 138-10.00E.
+2. CANCEL THIS MSG 230800Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>182209Z JUN 26
+HYDROPAC 1774/26.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   190815Z TO 201100Z JUN IN AREA BOUND BY
+   52-37.80S 171-20.40E, 53-00.00S 174-18.00E,
+   57-09.00S 172-51.00E, 56-33.60S 169-36.00E.
+2. CANCEL THIS MSG 201200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>COMBINED OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>182154Z JUN 26
+HYDROPAC 1773/26.
+1. HAZARDOUS OPERATIONS 
+   190815Z TO 201100Z JUN:
+   A. ROCKET LAUNCHING IN AREA BOUND BY
+      39-12.00S 177-49.00E, 39-12.00S 177-57.00E,
+      39-18.00S 178-16.20E, 39-54.00S 178-07.20E,
+      39-54.00S 177-34.20E, 39-18.60S 177-34.20E.
+   B. SPACE DEBRIS IN AREA BOUND BY
+      43-00.00S 175-42.00E, 43-12.00S 177-50.40E,
+      46-57.00S 177-00.00E, 46-39.00S 174-33.60E.
+2. CANCEL THIS MSG 201200Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINE</category>
+        <status>INFORCE</status>
+        <msgText>182134Z JUN 26
+HYDROPAC 1772/26.
+STRAIT OF HORMUZ.
+OMAN.
+1. MINE REPORTED IN 26-24.58N 056-20.67E.
+2. CANCEL HYDROPAC 1586/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>181613Z JUN 26 
@@ -138,18 +194,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>180141Z JUN 26
-HYDROPAC 1762/26.
-NORTH PACIFIC.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E HF BROADCAST AND DSC
-   SERVICES OFF AIR 181100Z TO 181800Z JUN.
-2. CANCEL THIS MSG 181900Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180017Z JUN 26
@@ -243,20 +287,6 @@ PAKISTAN.
    25-14.94 N 066-37.32 E.
 2. CANCEL HYDROPAC 1736/26 AND 1751/26.
 3. CANCEL THIS MSG 191500Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161152Z JUN 26
-HYDROPAC 1750/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 181630Z TO 181800Z JUN
-   IN AREA BOUND BY
-   15-12.00N 072-08.00E, 15-12.00N 072-14.00E,
-   15-26.00N 072-14.00E, 15-26.00N 072-08.00E.
-2. CANCEL THIS MSG 181900Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -726,16 +756,6 @@ INDIA.
 2. CANCEL THIS MSG 241130Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MINE ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>300440Z MAY 26
-HYDROPAC 1586/26.
-STRAIT OF HORMUZ.
-MINE REPORTED ADRIFT IN 26-24.30N 056-20.60E.
-VESSELS IN VICINITY ARE ADVISED TO EXERCISE
-EXTREME CAUTION.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>300220Z MAY 26
@@ -809,18 +829,6 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL THIS MSG 301000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>260516Z MAY 26
-HYDROPAC 1549/26.
-BASS STRAIT.
-TASMANIA.
-EIGHT SIX METER BUOYS, YELLOW, FL 3 SEC,
-ESTABLISHED IN AREA WITHIN TWO MILES OF 
-39-51.73S 145-22.50E.
-THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
