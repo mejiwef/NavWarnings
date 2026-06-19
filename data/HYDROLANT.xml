@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191438Z JUN 26
+HYDROLANT 1184/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-40.00S 031-42.00W.
+   B. 49-19.00S 023-27.00W.
+   C. 61-45.00S 055-55.00W.
+2. CANCEL THIS MSG 201438Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190943Z JUN 26
@@ -30,15 +44,6 @@ TO ASSIST IF POSSIBLE.
 REPORTS TO RCC NORFOLK,
 PHONE: 833 453 1269,
 EMAIL: RCCNORFOLK@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>181717Z JUN 26
-HYDROLANT 1180/26.
-CANCEL HYDROLANT 1152/26 AND THIS MSG,
-AID RESTORED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -85,21 +90,6 @@ HYDROLANT 1178/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1133/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181320Z JUN 26
-HYDROLANT 1176/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERG REPORTED IN: 
-   A. A76C, 53-40.00S 031-42.00W.
-   B. 49-25.00S 023-47.00W.
-   C. 61-45.00S 055-55.00W.
-2. CANCEL THIS MSG 191320Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -242,17 +232,6 @@ MOROCCO.
    33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
    34-01.00N 008-03.00W.
 2. CANCEL THIS MSG 200059Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>161518Z JUN 26
-HYDROLANT 1156/26.
-NORTH ATLANTIC.
-1. SCIENTIFIC BUOY ADRIFT IN VICINITY
-   25-24.00N 017-28.00W AT 161405Z JUN.
-2. CANCEL THIS MSG 191517Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -459,18 +438,6 @@ NORTH SEA.
 SHETLAND ISLANDS.
 SUMBURGH HEAD LIGHT 59-51.20N 001-16.50W
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101447Z JUN 26
-HYDROLANT 1116/26.
-BALTIC SEA.
-LITHUANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1600Z
-   DAILY 15 THRU 19 JUN IN 55-29.60N 020-51.00E.
-2. CANCEL THIS MSG 191700Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
