@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200600Z JUN 26
+HYDROARC 109/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 0001Z DAILY
+   25 THRU 27 JUN IN AREA BOUND BY
+   70-34.00N 035-30.00E, 70-34.00N 038-00.00E,
+   69-45.00N 038-00.00E, 69-45.00N 035-30.00E.
+2. CANCEL THIS MSG 280100Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>181558Z JUN 26

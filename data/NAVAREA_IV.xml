@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>200700Z JUN 26
+NAVAREA IV 607/26.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   240730Z TO 241600Z JUN, ALTERNATE
+   250730Z TO 251600Z JUN IN AREAS WITHIN:
+   A. 16 MILES OF 37-43.61N 075-12.62W.
+   B. 41 MILES OF 37-27.43N 074-24.01W.
+2. CANCEL THIS MSG 251700Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>200119Z JUN 26
+NAVAREA IV 606/26.
+NORTH ATLANTIC.
+1. SOUTH CARDINAL BUOY ADRIFT IN
+   41-45.20N 041-13.50W AT 200001Z JUN.
+2. CANCEL THIS MSG 230127Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>192211Z JUN 26
@@ -339,20 +363,6 @@ TRINIDAD AND TOBAGO.
    1200 METER BERTH REQUESTED.
 2. CANCEL NAVAREA IV 553/26.
 3. CANCEL THIS MSG 312300Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130441Z JUN 26
-NAVAREA IV 575/26
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL
-  200400Z JUN BY M/V CHLOE CANDIES
-   IN 09-55.24N 060-31.85W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200500Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>200635Z JUN 26
+NAVAREA XII 437/26.
+NORTH PACIFIC.
+OREGON.
+1. USCG REMOTE COMMUNICATION FACILITY ASTORIA
+   46-10.00N 123-49.00W MF AND HF TRANSMIT AND
+   RECEIVE CAPABILITES OFF AIR
+   251400Z TO 252000Z JUN.
+2. CANCEL THIS MSG 252100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>130850Z JUN 26
