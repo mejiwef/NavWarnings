@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>201425Z JUN 26
+HYDROLANT 1198/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-37.00S 031-43.00W.
+   B. 49-11.00S 023-32.00W.
+   C. 61-45.00S 055-55.00W.
+2. CANCEL THIS MSG 211425Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>201406Z JUN 26
+HYDROLANT 1197/26
+GULF OF GUINEA.
+NIGERIA.
+IMD1 03-57.22N 007-46.53E,
+CALM BUOY 04-01.31N 007-48.18E
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>201224Z JUN 26
@@ -27,18 +52,6 @@ ANTARCTICA.
    D. D33A, 64-14.40S 055-47.40W.
    E. D33C, 64-19.20S 054-43.80W.
 2. CANCEL THIS MSG 211020Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>191953Z JUN 26
-HYDROLANT 1191/26.
-BLACK SEA.
-ROMANIA.
-1. DANGEROUS OBJECT ADRIFT IN 43-53.05N 030-48.42E
-   AT 191410Z.
-2. CANCEL THIS MSG 221903Z JUN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -69,22 +82,6 @@ BLACK SEA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191904Z JUN 26
-HYDROLANT 1187/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-19.20S 053-01.20W.
-   B. A84, 72-22.80S 108-24.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-35.40S 056-18.60W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 201400Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191842Z JUN 26
@@ -111,20 +108,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z JUL 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191438Z JUN 26
-HYDROLANT 1184/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-40.00S 031-42.00W.
-   B. 49-19.00S 023-27.00W.
-   C. 61-45.00S 055-55.00W.
-2. CANCEL THIS MSG 201438Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>

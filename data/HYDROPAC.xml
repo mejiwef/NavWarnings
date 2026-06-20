@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>201536Z JUN 26
+HYDROPAC 1794/26
+ARABIAN SEA.
+PAKISTAN.
+ORMARA LIGHTHOUSE 25-11.10N 064-41.10E
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>200850Z JUN 26
