@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>191953Z JUN 26
+HYDROLANT 1191/26.
+BLACK SEA.
+ROMANIA.
+1. DANGEROUS OBJECT ADRIFT IN 43-53.05N 030-48.42E
+   AT 191410Z.
+2. CANCEL THIS MSG 221903Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191927Z JUN 26
+HYDROLANT 1189/26.
+NORTH ATLANTIC.
+SPAIN.
+1. HAZARDOUS OPERATIONS 1000Z TO 1700Z DAILY
+   19 JUN THRU 04 JUL IN AREA BOUND BY
+   47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
+   45-10.00N 008-10.00W, 45-10.00N 013-00.00W.
+2. CANCEL THIS MSG 041800Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191921Z JUN 26
+HYDROLANT 1188/26.
+ROMANIA.
+BLACK SEA.
+1. HAZARDOUS OPERATIONS 220700Z TO 221000Z JUN
+   IN AREA BOUND BY
+   44-11.00N 029-03.00E, 44-11.00N 028-52.25E,
+   44-00.00N 028-52.25E, 44-00.00N 029-03.00E.
+2. CANCEL THIS MSG 221100Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191904Z JUN 26
+HYDROLANT 1187/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-19.20S 053-01.20W.
+   B. A84, 72-22.80S 108-24.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-35.40S 056-18.60W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 201400Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191842Z JUN 26
+HYDROLANT 1186/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   20 JUN THRU 04 JULY BY M/V COMANDO B AND
+   M/V TEKUNG BENEFIT IN 20-23.65S 040-11.68W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 041900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191835Z JUN 26
+HYDROLANT 1185/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   20 JUN THRU 04 JULY BY M/V COMANDO B AND 
+   M/V SAKIZAYA HERO IN 20-22.93S 040-08.82W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 041900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>191438Z JUN 26
@@ -45,20 +129,6 @@ REPORTS TO RCC NORFOLK,
 PHONE: 833 453 1269,
 EMAIL: RCCNORFOLK@USCG.MIL.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181706Z JUN 26
-HYDROLANT 1179/26.
-NORTH ATLANTIC.
-SPAIN.
-1. NAVAL OPERATIONS 1000Z TO 1700Z DAILY
-   19 THRU 25 JUN IN AREA BOUND BY
-   47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
-   45-10.00N 008-10.00W, 45-10.00N 013-00.00W.
-2. CANCEL HYDROLANT 1165/26.
-3. CANCEL THIS MSG 251800Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -217,21 +287,6 @@ HYDROLANT 1160/26.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1157/26.
 3. CANCEL THIS MSG 150001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161651Z JUN 26
-HYDROLANT 1159/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 180001Z TO 192359Z JUN
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.10N 008-26.90W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 200059Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
