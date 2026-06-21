@@ -668,18 +668,6 @@ JAPAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>101408Z JUN 26
-HYDROPAC 1691/26. 
-1. GUNNERY EXERCISES 2200Z TO 0900Z 
-   DAILY 14 TO 20 JUN IN AREA WITHIN 
-   25 MILES OF 31-14.21N 144-26.80E.
-2. CANCEL HYDROPAC 1688/26.
-3. CANCEL THIS MSG 211000Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081211Z JUN 26

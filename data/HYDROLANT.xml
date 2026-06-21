@@ -3,6 +3,50 @@
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>211141Z JUN 26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 211000Z TO 211900Z 
+   BY NHIB COMANDANTE MANHAES
+   IN 03-50.03S 032-24.23W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 212000Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>210954Z JUN 26
+HYDROLANT 1203/26
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-00.00S 053-34.80W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-14.40S 055-47.40W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 220954Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210850Z JUN 26
+HYDROLANT 1202/26
+SOUTH ATLANTIC. 
+1. SURVEY OPERATIONS 22 THRU 30 JUN BY 
+   M/V NAVIO SONDA AND M/V SEA 1 DORADO 
+   IN AREA BOUND BY
+   25-00.98S 042-18.05W, 24-28.65S 042-28.38W,
+   24-52.02S 042-34.48W, 24-52.10S 042-37.92W,
+   24-54.37S 042-44.77W, 24-53.20S 042-47.12W,
+   25-06.47S 042-43.98W, 25-10.82S 042-36.88W,
+   25-05.87S 042-29.85W, 25-05.70S 042-20.97W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>210016Z JUN 26
 HYDROLANT 1201/26.
 1. UNDERWATER OPERATIONS IN PROGRESS
@@ -49,21 +93,6 @@ ROMANIA.
    AT 200630Z.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 231232Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201020Z JUN 26
-HYDROLANT 1194/26
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-00.00S 053-34.80W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-14.40S 055-47.40W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 211020Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
