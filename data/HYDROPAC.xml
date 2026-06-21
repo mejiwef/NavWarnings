@@ -390,20 +390,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>171919Z JUN 26
-HYDROPAC 1757/26.
-GULF OF ADEN.
-YEMEN.
-1. VESSEL ATTACKED IN VICINITY 13-13.00N 046-48.00E
-   AT 171610Z JUN. VESSELS ARE ADVISED TO KEEP
-   CLEAR OF THIS POSITION AND TO EXERCISE
-   EXTREME CAUTION.
-2. CANCEL THIS MSG 201919Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>171209Z JUN 26
