@@ -410,20 +410,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160547Z JUN 26
-HYDROPAC 1746/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 1400Z TO 1359Z 
-   DAILY 16 THRU 20 JUN IN AREA WITHIN 
-   THREE MILES OF 13-32.77N 144-33.30E.
-2. CANCEL THIS MSG 211459Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>152118Z JUN 26
