@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220006Z JUN 26
+HYDROLANT 1209/26.
+IONIAN SEA.
+EASTERN MEDITERRANEAN SEA.
+GREECE.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 29 JUL
+   BY M/V SARMIENTO DE GAMBOA
+   IN AREA BOUND BY
+   39-21.76N 020-11.75E, 39-23.47N 019-10.37E,
+   36-54.55N 018-26.63E, 35-40.61N 019-11.55E,
+   34-42.81N 021-58.54E, 36-37.11N 022-19.68E.
+   THREE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 300001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>211410Z JUN 26
@@ -37,18 +54,6 @@ BRAZIL.
    03-50.03S 032-24.23W
    OFF STATION UNTIL 122000Z DEC.
 2. CANCEL THIS MSG 122100Z DEC 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211141Z JUN 26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 211000Z TO 211900Z 
-   BY NHIB COMANDANTE MANHAES
-   IN 03-50.03S 032-24.23W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 212000Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
