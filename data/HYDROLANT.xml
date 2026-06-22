@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221321Z JUN 26
+HYDROLANT 1213/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-25.00S 032-15.00W.
+   B. 49-11.00S 023-32.00W.
+   C. 61-54.00S 055-36.00W.
+2. CANCEL THIS MSG 231325Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221046Z JUN 26
+HYDROLANT 1211/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-00.00S 053-34.80W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-14.40S 055-47.40W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 231046Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>220412Z JUN 26
@@ -62,7 +93,8 @@ ANTARCITCA.
    A. A76C, 53-37.00S 031-43.00W.
    B. 49-11.00S 023-32.00W.
    C. 61-45.00S 055-55.00W.
-2. CANCEL THIS MSG 221410Z JUN 26.</msgText>
+2. CANCEL THIS MSG 221410Z JUN 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -74,7 +106,8 @@ BRAZIL.
 1. MOLHE LESTE LIGHT NRORD 4040 
    32-11.24S 052-04.47W
    RANGE REDUCED UNTIL 160155Z DEC.
-2. CANCEL THIS MSG 160255Z DEC 26.</msgText>
+2. CANCEL THIS MSG 160255Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -86,22 +119,8 @@ BRAZIL.
 1. SANTO ANTONIO LIGHT BUOY NRORD 1110 
    03-50.03S 032-24.23W
    OFF STATION UNTIL 122000Z DEC.
-2. CANCEL THIS MSG 122100Z DEC 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>210954Z JUN 26
-HYDROLANT 1203/26
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-00.00S 053-34.80W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-14.40S 055-47.40W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 220954Z JUN 26.</msgText>
+2. CANCEL THIS MSG 122100Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -133,7 +152,7 @@ HYDROLANT 1201/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
+        <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>201406Z JUN 26
 HYDROLANT 1197/26
@@ -168,20 +187,6 @@ SPAIN.
    47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
    45-10.00N 008-10.00W, 45-10.00N 013-00.00W.
 2. CANCEL THIS MSG 041800Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191921Z JUN 26
-HYDROLANT 1188/26.
-ROMANIA.
-BLACK SEA.
-1. HAZARDOUS OPERATIONS 220700Z TO 221000Z JUN
-   IN AREA BOUND BY
-   44-11.00N 029-03.00E, 44-11.00N 028-52.25E,
-   44-00.00N 028-52.25E, 44-00.00N 029-03.00E.
-2. CANCEL THIS MSG 221100Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -238,10 +243,8 @@ S/V WIDOW MAKER REPORTS CREWMAN REQUIRING
 MEDICAL ASSISTANCE IN 37-01.40N 071-17.00W 
 AT 182345Z JUN. VESSELS IN VICINITY ABLE 
 TO PROVIDE MEDICAL ASSISTANCE REQUESTED 
-TO ASSIST IF POSSIBLE. 
-REPORTS TO RCC NORFOLK,
-PHONE: 833 453 1269,
-EMAIL: RCCNORFOLK@USCG.MIL.
+TO ASSIST IF POSSIBLE. REPORTS TO RCC NORFOLK,
+PHONE: 833 453 1269, EMAIL: RCCNORFOLK@USCG.MIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
