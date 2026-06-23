@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>230050Z JUN 26
+NAVAREA IV 614/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 1300Z TO 1700Z DAILY
+   UNTIL 13 JUL IN AREAS BOUND BY:
+   A. 10-23.18N 075-33.82W, 10-22.35N 075-33.82W,
+      10-22.35N 075-32.68W, 10-23.18N 075-32.68W.
+   B. 10-18.96N 075-44.50W, 10-18.96N 075-38.96W,
+      10-16.23N 075-38.96W, 10-16.23N 075-44.50W.
+2. CANCEL THIS MSG 131800Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>222007Z JUN 26
@@ -82,17 +97,6 @@ NAVAREA IV 607/26.
    A. 16 MILES OF 37-43.61N 075-12.62W.
    B. 41 MILES OF 37-27.43N 074-24.01W.
 2. CANCEL THIS MSG 251700Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>200119Z JUN 26
-NAVAREA IV 606/26.
-NORTH ATLANTIC.
-1. SOUTH CARDINAL BUOY ADRIFT IN
-   41-45.20N 041-13.50W AT 200001Z JUN.
-2. CANCEL THIS MSG 230127Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
