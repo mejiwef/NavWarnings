@@ -3,6 +3,69 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>231524Z JUN 26
+HYDROLANT 1224/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL 232359Z JUN
+   IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 240059Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OIL SPILL RESPONSE</category>
+        <status>INFORCE</status>
+        <msgText>231335Z JUN 26
+HYDROLANT 1223/26.
+BLACK SEA.
+ROMANIA.
+1. POLLUTION RESPONSE OPERATIONS 240500Z TO
+  241200Z JUN BY M/V AMALTHIA AND
+   M/V CANAL SERVICES 7 TOWING 500  METER LONG
+   CABLE IN AREA BOUND BY
+   44-07.40N 028-52.00E, 44-07.40N 028-56.60E,
+   44-02.40N 028-56.60E, 44-02.40N 028-52.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 241300Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>231307Z JUN 26
+HYDROLANT 1221/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERG REPORTED IN: 
+   A. A76C, 53-22.00S 032-20.00W.
+   B. 49-11.00S 023-32.00W.
+   C. 61-54.00S 055-36.00W.
+   D. 53-30.00S 032-13.00W.
+2. CANCEL THIS MSG 241307Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>231259Z JUN 26
+HYDROLANT 1220/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-00.00S 053-34.80W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-14.40S 055-47.40W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 241259Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>231108Z JUN 26
 HYDROLANT 1219/26.
 NORTH ATLANTIC.
@@ -57,21 +120,6 @@ SOUTH ATLANTIC.
    030259Z JUL IN 24-35.55S 042-30.35W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030359Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221321Z JUN 26
-HYDROLANT 1213/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-25.00S 032-15.00W.
-   B. 49-11.00S 023-32.00W.
-   C. 61-54.00S 055-36.00W.
-2. CANCEL THIS MSG 231325Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -139,19 +187,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>211247Z JUN 26
-HYDROLANT 1206/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. SANTO ANTONIO LIGHT BUOY NRORD 1110 
-   03-50.03S 032-24.23W
-   OFF STATION UNTIL 122000Z DEC.
-2. CANCEL THIS MSG 122100Z DEC 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210850Z JUN 26
@@ -180,17 +215,6 @@ HYDROLANT 1201/26.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 022200Z JUL 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>201406Z JUN 26
-HYDROLANT 1197/26
-GULF OF GUINEA.
-NIGERIA.
-IMD1 03-57.22N 007-46.53E,
-CALM BUOY 04-01.31N 007-48.18E
-UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -433,20 +457,6 @@ MAN OVERBOARD FROM VESSEL IN
 VESSELS IN VICINITY REQUESTED TO 
 KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>041346Z JUN 26
-HYDROLANT 1128/26.
-NORTH ATLANTIC.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   0818Z TO 1336Z DAILY 17 JUN THRU 17 JUL
-   IN AREA BOUND BY
-   30-37.00N 031-24.00W, 30-05.00N 030-46.00W,
-   26-52.00N 034-15.00W, 27-22.00N 034-54.00W.
-2. CANCEL THIS MSG 171436Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
