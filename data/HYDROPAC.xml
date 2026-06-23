@@ -97,20 +97,6 @@ PHILIPPINES.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>192003Z JUN 26
-HYDROPAC 1789/26.
-MANILA BAY.
-PHILIPPINES.
-1. VESSEL AT ANCHOR BOARDED AND ROBBED
-   BY FOUR PIRATES IN 14-36.35N 120-48.59E AT 190015Z JUN.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 222013Z JUN 26
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191743Z JUN 26
