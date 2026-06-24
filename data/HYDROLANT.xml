@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>240044Z JUN 26
+HYDROLANT 1228/26.
+SOUTH ATLANTIC.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 030259Z JUL BY M/V SIEM PILOT
+   IN 24-35.55S 042-30.35W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030359Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>232038Z JUN 26
@@ -25,20 +37,6 @@ HYDROLANT 1225/26.
    39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231524Z JUN 26
-HYDROLANT 1224/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL 232359Z JUN
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL THIS MSG 240059Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OIL SPILL RESPONSE</category>

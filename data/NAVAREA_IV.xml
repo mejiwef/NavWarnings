@@ -723,18 +723,6 @@ TRINIDAD AND TOBAGO.
 2. CANCEL NAVAREA IV 406/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DEPTH REPORTED</category>
-        <status>INFORCE</status>
-        <msgText>291624Z APR 26
-NAVAREA IV 397/26.
-NORTH ATLANTIC.
-DOMINICAN REPUBLIC.
-LESS WATER THAN CHARTED REPORTED IN AREA BOUND BY
-19-53.75N 071-56.58W, 19-54.65N 071-55.73W,
-19-54.78N 071-53.55W, 19-52.52N 071-47.73W,
-19-50.17N 071-48.87W.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>130037Z APR 26
