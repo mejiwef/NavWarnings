@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241050Z JUN 26
+HYDROLANT 1229/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1200Z 
+   DAILY 29 AND 30 JUN IN AREA BOUND BY
+   44-15.00N 029-08.00E, 44-15.00N 029-30.00E,
+   44-05.00N 029-30.00E, 44-05.00N 029-08.00E.
+2. CANCEL THIS MSG 301300Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240044Z JUN 26
