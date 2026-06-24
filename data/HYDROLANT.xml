@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232038Z JUN 26
+HYDROLANT 1226/26.
+NORTH SEA.
+NORWAY.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V AMAZON CONQUEROR TOWING
+EIGHT 3600 METER LONG CABLES IN AREA BOUND BY
+58-00.00N 003-11.00E, 58-00.00N 004-15.00E,
+57-38.00N 004-15.00E, 57-38.00N 003-11.00E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232024Z JUN 26
+HYDROLANT 1225/26.
+1. SURVEY OPERATIONS 25 JUN THRU 30 JUL
+   BY M/V MARION DUFRESNE IN AREA BOUND BY
+   35-00.00S 007-00.00E, 42-00.00S 010-00.00E,
+   39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231524Z JUN 26
@@ -256,22 +282,6 @@ BRAZIL.
    M/V SAKIZAYA HERO IN 20-22.93S 040-08.82W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190943Z JUN 26
-HYDROLANT 1183/26.
-IONIAN SEA.
-EASTERN MEDITERRANEAN SEA.
-1. MISSILE OPERATIONS 220700Z TO 251200Z JUN
-   IN AREA BOUND BY
-   37-20.00N 021-05.00E, 36-35.00N 021-07.00E,
-   35-45.00N 020-38.00E, 35-45.50N 019-26.00E,
-   36-28.00N 018-41.00E, 37-18.00N 018-41.00E,
-   37-59.00N 019-30.00E.
-2. CANCEL THIS MSG 251300Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
