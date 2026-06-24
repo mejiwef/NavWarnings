@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241317Z JUN 26
+HYDROLANT 1231/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERG REPORTED IN: 
+   A. A76C, 53-03.00S 032-20.00W.
+   B. 49-11.00S 023-32.00W.
+   C. 53-30.00S 032-13.00W.
+2. CANCEL THIS MSG 251317Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241301Z JUN 26
+HYDROLANT 1230/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 63-00.00S 053-34.80W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-25.20S 055-06.00W.
+   D. D33A, 64-14.40S 055-47.40W.
+   E. D33C, 64-19.20S 054-43.80W.
+2. CANCEL THIS MSG 251301Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241050Z JUN 26
@@ -20,11 +50,12 @@ ROMANIA.
         <msgText>240044Z JUN 26
 HYDROLANT 1228/26.
 SOUTH ATLANTIC.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 030259Z JUL BY M/V SIEM PILOT
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   030259Z JUL BY M/V SIEM PILOT
    IN 24-35.55S 042-30.35W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030359Z JUL 26.</msgText>
+2. CANCEL THIS MSG 030359Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -51,55 +82,6 @@ HYDROLANT 1225/26.
    39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OIL SPILL RESPONSE</category>
-        <status>INFORCE</status>
-        <msgText>231335Z JUN 26
-HYDROLANT 1223/26.
-BLACK SEA.
-ROMANIA.
-1. POLLUTION RESPONSE OPERATIONS 240500Z TO
-  241200Z JUN BY M/V AMALTHIA AND
-   M/V CANAL SERVICES 7 TOWING 500  METER LONG
-   CABLE IN AREA BOUND BY
-   44-07.40N 028-52.00E, 44-07.40N 028-56.60E,
-   44-02.40N 028-56.60E, 44-02.40N 028-52.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 241300Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231307Z JUN 26
-HYDROLANT 1221/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERG REPORTED IN: 
-   A. A76C, 53-22.00S 032-20.00W.
-   B. 49-11.00S 023-32.00W.
-   C. 61-54.00S 055-36.00W.
-   D. 53-30.00S 032-13.00W.
-2. CANCEL THIS MSG 241307Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231259Z JUN 26
-HYDROLANT 1220/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 63-00.00S 053-34.80W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-14.40S 055-47.40W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 241259Z JUN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -252,20 +234,6 @@ HYDROLANT 1201/26.
    AND M/V BW ENERGY IN 20-02.50S 039-31.50W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 022200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191927Z JUN 26
-HYDROLANT 1189/26.
-NORTH ATLANTIC.
-SPAIN.
-1. HAZARDOUS OPERATIONS 1000Z TO 1700Z DAILY
-   19 JUN THRU 04 JUL IN AREA BOUND BY
-   47-30.00N 013-00.00W, 47-30.00N 008-10.00W,
-   45-10.00N 008-10.00W, 45-10.00N 013-00.00W.
-2. CANCEL THIS MSG 041800Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

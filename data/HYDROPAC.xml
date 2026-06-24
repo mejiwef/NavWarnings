@@ -104,18 +104,6 @@ MARSHALL ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>231147Z JUN 26
-HYDROPAC 1810/26.
-SOUTH CHINA SEA.
-1. DERELICT 35 METER F/V PARTIALLY SUBMERGED 
-   AND ADRIFT IN 17-23.42N 117-04.50E
-   AT 230822Z JUL.
-2. CANCEL THIS MSG 261147Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>230944Z JUN 26
@@ -336,20 +324,6 @@ HYDROPAC 1771/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 1717/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181330Z JUN 26
-HYDROPAC 1769/26.
-ANDMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 1130Z TO 1430Z DAILY
-   22 THRU 24 JUN IN AREA BOUND BY
-   11-40.23N 092-45.75E, 11-37.33N 092-47.93E,
-   11-40.30N 092-50.00E, 11-40.77N 092-45.97E.
-2. CANCEL THIS MSG 241530Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
