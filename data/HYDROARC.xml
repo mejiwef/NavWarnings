@@ -30,18 +30,6 @@ RUSSIA.
 2. CANCEL THIS MSG 052000Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>221511Z JUN 26
-HYDROARC 110/26
-BEAUFORT SEA.
-CANADA.
-MCTS IQALUIT REMOTE STATION INUVIK
-68-19.00N 133-35.00W HF BROADCAST 
-SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200600Z JUN 26
