@@ -3,6 +3,64 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>251204Z JUN 26
+HYDROPAC 1837/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 300830Z TO 300930Z JUN
+   IN AREA BOUND BY
+   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
+   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
+   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
+2. CANCEL THIS MSG 301030Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251151Z JUN 26
+HYDROPAC 1836/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 1100Z TO 1500Z 
+   DAILY 29 AND 30 JUN IN AREA BOUND BY
+   11-35.88N 092-44.62E, 11-33.83N 092-53.43E,
+   11-32.82N 092-53.50E.
+2. CANCEL THIS MSG 301600Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>242131Z JUN 26
+HYDROPAC 1835/26.
+TASMAN SEA.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 
+   301900Z JUN TO 020600Z JUL 
+   IN AREA WITHIN THREE MILES 
+   OF 36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 020700Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250715Z JUN 26
+HYDROPAC 1834/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 30 JUN, 01 AND 02 JUL 
+   IN AREAS WITHIN THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 021400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>250705Z JUN 26
 HYDROPAC 1833/26.
 NORTH PACIFIC.
@@ -190,23 +248,6 @@ ARABIAN SEA.
 INDIA.
 NAVTEX STATION VENGURLA POINT (J)
 15-51.32N 073-36.89E OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240557Z JUN 26
-HYDROPAC 1819/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-1. HAZARDOUS OPERATIONS 250830Z TO 251100Z JUN
-   IN AREA BOUND BY
-   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
-   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 251200Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
