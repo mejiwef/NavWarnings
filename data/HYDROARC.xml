@@ -65,20 +65,6 @@ HYDROARC 108/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111652Z JUN 26
-HYDROARC 100/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 142100Z TO 252100Z JUN
-   IN AREA BOUND BY
-   74-00.00N 050-00.00E, 74-00.00N 055-00.00E,
-   72-40.00N 053-30.00E, 72-40.00N 050-00.00E.
-2. CANCEL THIS MSG 252200Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>102235Z JUN 26

@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>251917Z JUN 26
+HYDROPAC 1840/26.
+SINGAPORE STRAIT.
+INDONESIA.
+1. VESSEL ATTACKED IN 01-08.00N 103-30.00E
+   AT 251640Z JUN.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 281917Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251738Z JUN 26
@@ -410,20 +423,6 @@ HYDROPAC 1794/26
 ARABIAN SEA.
 PAKISTAN.
 ORMARA LIGHTHOUSE 25-11.10N 064-41.10E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200743Z JUN 26
-HYDROPAC 1791/26
-SOUTH PACIFIC
-CHILE
-1. HAZARDOUS OPERATIONS 1230Z TO 1900Z DAILY 
-   24 AND 25 JUN IN AREA BOUND BY
-   29-56.43S 071-38.66W, 29-56.43S 071-30.63W,
-   30-03.50S 071-30.63W, 30-03.50S 071-38.66W.
-2. CANCEL THIS MSG 252000Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -37,20 +37,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 041943Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>200635Z JUN 26
-NAVAREA XII 437/26.
-NORTH PACIFIC.
-OREGON.
-1. USCG REMOTE COMMUNICATION FACILITY ASTORIA
-   46-10.00N 123-49.00W MF AND HF TRANSMIT AND
-   RECEIVE CAPABILITES OFF AIR
-   251400Z TO 252000Z JUN.
-2. CANCEL THIS MSG 252100Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>130850Z JUN 26
@@ -120,22 +106,6 @@ PANAMA.
 COSTA RICA.
 1. DANGEROUS WRECK IN 08-36.66N 083-08.95W.
 2. CANCEL THIS MSG 290001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>072321Z JUN 26
-NAVAREA XII 407/26
-BERING SEA.
-ALASKA.
-1. CABLE OPERATIONS 11 THRU 30 JUN 
-   BY CABLESHIP IT INTEGRITY ALONG TRACKLINE JOINING
-   64-29.00N 165-19.20W, 62-54.20N 165-49.30W,
-   62-15.60N 166-58.30W, 61-24.90N 167-09.00W,
-   60-38.00N 165-50.90W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
