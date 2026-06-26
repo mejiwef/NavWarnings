@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260104Z JUN 26
+HYDROLANT 1243/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   060259Z JUL BY M/V SISTAC VITORIA
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 060359Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>251839Z JUN 26
@@ -279,19 +292,6 @@ GREECE.
    34-42.81N 021-58.54E, 36-37.11N 022-19.68E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 300001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>211311Z JUN 26
-HYDROLANT 1207/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. MOLHE LESTE LIGHT NRORD 4040 
-   32-11.24S 052-04.47W
-   RANGE REDUCED UNTIL 160155Z DEC.
-2. CANCEL THIS MSG 160255Z DEC 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
