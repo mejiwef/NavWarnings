@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>271141Z JUN 26
+NAVAREA IV 631/26.
+CARIBBEAN SEA.
+COLOMBIA.
+CABO TIBURON LIGHT 
+08-40.60N 077-21.50W UNLIT.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>270221Z JUN 26
