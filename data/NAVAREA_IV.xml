@@ -328,26 +328,6 @@ TRINIDAD AND TOBAGO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>151538Z JUN 26
-NAVAREA IV 589/26.
-NORTH ATLANTIC.
-FLORIDA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   211043Z TO 211226Z JUN, ALTERNATE
-   1043Z TO 1226Z DAILY 22 THRU 27 JUN 
-   IN AREAS BOUND BY:
-   A. 26-08.00N 075-59.00W, 26-18.00N 075-55.00W,
-      25-33.00N 073-47.00W, 25-08.00N 073-18.00W,
-      24-39.00N 073-28.00W, 24-54.00N 074-16.00W.
-   B. 28-36.00N 080-35.19W, 28-36.00N 080-27.00W,
-      28-25.00N 080-04.00W, 28-18.00N 080-08.00W,
-      28-30.53N 080-33.06W.
-2. CANCEL THIS MSG 271326Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151749Z JUN 26

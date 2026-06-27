@@ -3,6 +3,24 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>271340Z JUN 26
+HYDROLANT 1262/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 52-49.00S 031-50.00W.
+   B. 48-03.00S 023-02.00W.
+   C. 53-30.00S 032-13.00W.
+2. CANCEL THIS MSG 281346Z JUN 26.
+
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>271152Z JUN 26
 HYDROLANT 1261/26.
 SOUTH ATLANTIC.
@@ -124,36 +142,6 @@ NORTH ATLANTIC.
 AZORES.
 SAO MIGUEL 37-48.00N 025-33.00W
 MF AND HF R/T AND DSC SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261449Z JUN 26
-HYDROLANT 1253/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERG REPORTED IN: 
-   A. A81, 63-00.00S 053-34.80W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-25.20S 055-06.00W.
-   D. D33A, 64-14.40S 055-47.40W.
-   E. D33C, 64-19.20S 054-43.80W.
-2. CANCEL THIS MSG 271449Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261443Z JUN 26
-HYDROLANT 1252/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-04.00S 032-24.00W.
-   B. 48-03.00S 023-02.00W.
-   C. 53-30.00S 032-13.00W.
-2. CANCEL THIS MSG 271443Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
