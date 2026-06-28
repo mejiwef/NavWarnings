@@ -736,32 +736,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180636Z JUN 26
-HYDROPAC 1764/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0700Z TO 1000Z 
-   DAILY 23, 25, 27 AND 28 JUN IN AREA 
-   WITHIN THREE MILES OF 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 281100Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>171209Z JUN 26
-HYDROPAC 1756/26.
-NORTH PACIFIC.
-1. GUNNERY EXERCISES 2100Z TO 0900Z DAILY 
-   21 THRU 27 JUN IN AREA WITHIN 25 MILES
-   31-14.23N 144-26.80E.
-2. CANCEL THIS MSG 281000Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>142107Z JUN 26
