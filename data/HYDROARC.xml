@@ -3,7 +3,7 @@
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
-        <msgText>
+        <msgText>261827Z JUN 26
 HYDROARC 116/26.
 1. HYDROARC WARNINGS IN FORCE AS OF 261804Z JUN.
    ALL THE INFORCE WARNINGS ARE LISTED HERE.
@@ -50,20 +50,6 @@ RUSSIA.
    69-58.00N 033-38.00E, 69-58.00N 034-48.00E,
    69-34.50N 034-48.00E, 69-34.50N 033-38.00E.
 2. CANCEL THIS MSG 052000Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200600Z JUN 26
-HYDROARC 109/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 0001Z DAILY
-   25 THRU 27 JUN IN AREA BOUND BY
-   70-34.00N 035-30.00E, 70-34.00N 038-00.00E,
-   69-45.00N 038-00.00E, 69-45.00N 035-30.00E.
-2. CANCEL THIS MSG 280100Z JUN 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
