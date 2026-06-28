@@ -497,23 +497,6 @@ GUAM.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>250439Z JUN 26
-HYDROPAC 1826/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 1400Z TO 1359Z 
-   DAILY 25 AND 26 JUN AND 
-   271400Z TO 280129Z JUN IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 280229Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>250417Z JUN 26
 HYDROPAC 1825/26.
 NORTH PACIFIC.
