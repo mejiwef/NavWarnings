@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>281856Z JUN 26
+HYDROLANT 1269/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN:
+   A. A81, 62-24.00S 054-12.00W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-13.20S 055-30.60W.
+   D. D33A, 64-10.20S 055-47.40W.
+   E. D33C, 63-37.80S 054-12.60W.
+2. CANCEL THIS MSG 291956Z JUN 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>281411Z JUN 26
 HYDROLANT 1267/26.
 SCOTIA SEA.
@@ -289,18 +305,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>251839Z JUN 26
-HYDROLANT 1242/26.
-SOUTH ATLANTIC.
-M/V TRAMMO PARIS DISABLED AND ADRIFT 
-IN VICINITY 28-44.46S 006-31.60E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251022Z JUN 26
@@ -579,21 +583,6 @@ SOUTH ATLANTIC.
    25-34.00S 039-00.00W, 26-50.00S 040-25.00W,
    25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
 2. CANCEL THIS MSG 032300Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180058Z JUN 26
-HYDROLANT 1168/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   0800Z TO 2000Z DAILY UNTIL 28 JUN BY
-   M/V BIG JOHN VI, VESSEL UNIQUE IV AND
-   VESSEL VIVALEX IV IN 23-11.62S 044-00.55W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 282100Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
