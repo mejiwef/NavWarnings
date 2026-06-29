@@ -91,18 +91,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>271847Z JUN 26
-NAVAREA IV 632/26.
-WESTERN NORTH ATLANTIC.
-MASSACHUSETTS.
-USCG REMOTE COMMUNICATIONS FACILITY BOSTON
-41-43.00N 070-31.00W HF TRANSMIT CAPABILITIES
-UNRELIABLE. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>271141Z JUN 26
