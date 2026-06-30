@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>301135Z JUN 26
+NAVAREA IV 639/26.
+NORTH ATLANTIC.
+MASSACHUSETTS.
+1. USCG REMOTE COMMUNICATION FACILITY
+   BOSTON 41-43.00N 070-31.00W MF/HF TRANSMIT
+   SERVICES OFF AIR 301200Z TO 301500Z JUN.
+2. CANCEL THIS MSG 301600Z JUN 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>292009Z JUN 26

@@ -29,36 +29,6 @@ SCOTLAND.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291230Z JUN 26
-HYDROLANT 1273/26.
-SOUTH ATLANTIC.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 52-56.00S 031-49.00W.
-   B. 47-29.00S 022-48.00W.
-   C. 52-42.00S 032-01.00W.
-2. CANCEL THIS MSG 301230Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>291225Z JUN 26
-HYDROLANT 1272/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 62-24.00S 054-12.00W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-13.20S 055-30.60W.
-   D. D33A, 64-10.20S 055-47.40W.
-   E. D33C, 63-37.80S 054-12.60W.
-2. CANCEL THIS MSG 301225Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290928Z JUN 26
@@ -167,18 +137,6 @@ BRAZIL.
    29-18.40S 046-11.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 070001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>270929Z JUN 26
-HYDROLANT 1260/26.
-BLACK SEA.
-ROMANIA. 
-1. DANGEROUS OBJECT ADRIFT IN 
-   43-52.15N 030-46.52E AT 270431Z JUN.
-2. CANCEL THIS MSG 300929Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -649,21 +607,6 @@ TURKEY.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080001Z OCT 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281342Z MAY 26
-HYDROLANT 1035/26.
-BLACK SEA.
-ROMANIA.
-PIPELINE OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
-ALONG TRACKLINE JOINING
-43-58.38N 028-39.35E, 43-58.26N 028-39.82E,
-43-57.95N 028-41.04E, 43-57.77N 028-41.94E,
-43-57.69N 028-42.93E, 43-57.72N 028-43.76E,
-43-58.81N 028-56.81E, 43-58.96N 028-59.10E.
-ONE KILOMETER BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
