@@ -95,23 +95,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281856Z JUN 26
-HYDROLANT 1269/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN:
-   A. A81, 62-24.00S 054-12.00W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-13.20S 055-30.60W.
-   D. D33A, 64-10.20S 055-47.40W.
-   E. D33C, 63-37.80S 054-12.60W.
-2. CANCEL THIS MSG 291956Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281251Z JUN 26
@@ -194,18 +177,6 @@ BRAZIL.
 1. ODAS BUOY TEMPORARILY ESTABLISHED IN 
    32-14.29S 051-58.16W.
 2. CANCEL THIS MSG 232200Z DEC 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>270034Z JUN 26
-HYDROLANT 1257/26
-CARDIGAN BAY.
-WALES.
-1. MICROLIGHT AIRCRAFT ADRIFT IN
-   52-16.00N 004-48.00W AT 261758Z.
-2. CANCEL THIS MSG 300034Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -387,24 +358,6 @@ SPAIN.
    37-43.60N 002-07.35E, 36-55.25N 000-06.05E,
    37-52.25N 000-06.55E.
 2. CANCEL THIS MSG 310100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250850Z JUN 26
-HYDROLANT 1234/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS 26 THRU 29 JUN 
-   BY M/V SANCO SPIRIT TOWING SIX 
-   200 METER LONG CABLES 
-   IN AREA BOUND BY
-   24-34.07S 042-21.37W, 25-06.88S 042-06.27W,
-   25-09.57S 042-13.28W, 25-32.82S 042-25.00W,
-   25-18.28S 042-53.87W, 25-10.33S 042-49.87W,
-   24-48.65S 042-59.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 300001Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -725,20 +678,6 @@ BRAZIL.
    22-04.02S 040-37.17W, 22-04.37S 041-00.41W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 312300Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261005Z MAY 26
-HYDROLANT 1013/26(36).
-NORTH ATLANTIC.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   292359Z JUN BY M/V POURQUOI PAS
-   IN AREA BOUND BY
-   46-20.00N 017-30.00W, 46-20.00N 016-30.00W,
-   45-50.00N 016-30.00W, 45-50.00N 017-30.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 300059Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
