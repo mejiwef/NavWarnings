@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>301518Z JUN 26
+HYDROLANT 1280/26.
+ENGLISH CHANNEL.
+ENGLAND.
+SUBSURFACE EXERCISE MINES ESTABLISHED IN:
+A. 50-37.00N 002-23.50W.
+B. 50-36.90N 002-23.70W.
+C. 50-36.80N 002-23.80W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301327Z JUN 26
+HYDROLANT 1279/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 62-24.00S 054-12.00W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-13.20S 055-30.60W.
+   D. D33A, 64-10.20S 055-47.40W.
+   E. D33C, 63-37.80S 054-12.60W.
+2. CANCEL THIS MSG 011327Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301319Z JUN 26
+HYDROLANT 1278/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCITCA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 62-09.00S 053-54.00W.
+   B. A76C, 52-56.00S 031-48.00W.
+   C. 47-30.00S 022-47.00W.
+   D. 52-43.00S 032-02.00W.
+2. CANCEL THIS MSG 011319Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>300049Z JUN 26
@@ -12,7 +58,8 @@ BRAZIL.
    M/V PS BARCELONA AND M/V MED LIGURIA
    IN 22-22.78S 040-16.03W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 031900Z JUL 26.</msgText>
+2. CANCEL THIS MSG 031900Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -330,20 +377,6 @@ SPAIN.
    37-43.60N 002-07.35E, 36-55.25N 000-06.05E,
    37-52.25N 000-06.55E.
 2. CANCEL THIS MSG 310100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241050Z JUN 26
-HYDROLANT 1229/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1200Z 
-   DAILY 29 AND 30 JUN IN AREA BOUND BY
-   44-15.00N 029-08.00E, 44-15.00N 029-30.00E,
-   44-05.00N 029-30.00E, 44-05.00N 029-08.00E.
-2. CANCEL THIS MSG 301300Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>301420Z JUN 26
+HYDROPAC 1883/26.
+PERSIAN GULF.
+U.A.E.
+RACON AT DALMA BUOY 24-32.51N 052-27.85E
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301051Z JUN 26
@@ -509,20 +520,6 @@ ONE MILE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>251151Z JUN 26
-HYDROPAC 1836/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 1100Z TO 1500Z 
-   DAILY 29 AND 30 JUN IN AREA BOUND BY
-   11-35.88N 092-44.62E, 11-33.83N 092-53.43E,
-   11-32.82N 092-53.50E.
-2. CANCEL THIS MSG 301600Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>242131Z JUN 26
 HYDROPAC 1835/26.
 TASMAN SEA.
@@ -863,27 +860,6 @@ HYDROPAC 1591/26.
 ARABIAN SEA.
 INDIA.
 TUG KPS SHIVALI AGROUND IN VICINITY 18-52.70N 072-47.80E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300530Z MAY 26
-HYDROPAC 1590/26.
-BAY OF BENGAL.
-1. HAZARDOUS OPERATIONS 0001Z TO 1600Z DAILY
-   01 THRU 30 JUN EXCEPT FRIDAYS AND SATURDAYS
-   IN AREAS BOUND BY:
-   A. 21-20.83N 090-34.00E, 21-41.00N 091-14.00E,
-      21-20.83N 091-28.00E, 21-00.00N 090-47.83E.
-   B. 20-07.00N 090-52.00E, 20-22.00N 091-06.00E,
-      20-00.00N 091-36.00E, 19-44.00N 091-21.00E.
-   C. 20-22.00N 091-06.00E, 20-46.50N 091-31.00E,
-      20-24.00N 091-59.00E, 20-00.00N 091-36.00E.
-   D. 21-18.00N 089-31.00E, 21-18.00N 089-50.00E,
-      21-04.00N 089-54.00E, 21-04.00N 089-34.00E.
-   E. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
-      20-34.00N 089-54.00E, 20-34.00N 089-34.00E.   
-2. CANCEL THIS MSG 301700Z JUN 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

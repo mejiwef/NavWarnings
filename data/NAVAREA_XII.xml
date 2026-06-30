@@ -42,21 +42,8 @@ CALIFORNIA.
       29-13.00N 121-31.00W, 29-13.00N 122-03.00W,
       28-49.00N 122-14.00W, 27-41.00N 122-06.00W,
       28-42.00N 121-25.00W.
-2. CANCEL THIS MSG 111943Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>300023Z JUN 26
-NAVAREA XII 459/26.
-NORTH PACIFIC.
-PANAMA.
-36 FOOT VESSEL, WHITE HULL, ONE PERSON
-ON BOARD, DISABLED AND ADRIFT
-IN VICINITY 07-26.10N 079-44.12W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+2. CANCEL THIS MSG 111943Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -67,7 +54,8 @@ BERING SEA.
 ALASKA.
 USCG COMMUNICATION FACILITY ST PAUL
 57-09.00N 170-14.00W HF TRANSMIT AND RECEIVE
-SERVICES OFF AIR. </msgText>
+SERVICES OFF AIR. 
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
