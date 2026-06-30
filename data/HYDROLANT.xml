@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300049Z JUN 26
+HYDROLANT 1275/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   UNTIL 03 JUL BY M/V OBRIGADO SENHOR III,
+   M/V PS BARCELONA AND M/V MED LIGURIA
+   IN 22-22.78S 040-16.03W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 031900Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>291654Z JUN 26
@@ -386,20 +400,6 @@ SOUTH ATLANTIC.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030359Z JUL 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232038Z JUN 26
-HYDROLANT 1226/26.
-NORTH SEA.
-NORWAY.
-SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY M/V AMAZON CONQUEROR TOWING
-EIGHT 3600 METER LONG CABLES IN AREA BOUND BY
-58-00.00N 003-11.00E, 58-00.00N 004-15.00E,
-57-38.00N 004-15.00E, 57-38.00N 003-11.00E.
-THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
