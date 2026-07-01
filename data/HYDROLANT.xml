@@ -47,21 +47,6 @@ ANTARCITCA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300049Z JUN 26
-HYDROLANT 1275/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   UNTIL 03 JUL BY M/V OBRIGADO SENHOR III,
-   M/V PS BARCELONA AND M/V MED LIGURIA
-   IN 22-22.78S 040-16.03W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 031900Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>291654Z JUN 26

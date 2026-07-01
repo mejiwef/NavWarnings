@@ -22,23 +22,6 @@ HYDROARC 116/26.
 3. CANCEL HYDROARC 99/2026, 108/2026.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241913Z JUN 26
-HYDROARC 114/26.
-BARENTS SEA.
-WHITE SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0400Z TO 1700Z DAILY 
-   29 JUN THRU 01 JUL IN AREA BOUND BY
-   68-38.00N 046-32.00E, 68-24.00N 048-03.00E,
-   67-49.00N 048-56.00E, 67-19.00N 044-54.00E,
-   67-34.30N 045-13.00E, 68-22.00N 046-12.00E.
-2. CANCEL HYDROARC 113/26.
-3. CANCEL THIS MSG 011800Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>230151Z JUN 26
