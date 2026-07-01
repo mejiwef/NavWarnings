@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>010030Z JUL 26
+HYDROPAC 1886/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+1. WILLIAMS ISLAND LIGHT 35-01.68S 135-58.27E
+   UNLIT.
+2. CANCEL HYDROPAC 1867/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>301420Z JUN 26
@@ -237,17 +248,6 @@ INDIA.
    15-50.00N 092-00.00E, 15-42.00N 092-33.00E,
    14-49.00N 092-19.00E, 14-57.00N 091-47.00E.
 2. CANCEL THIS MSG 020500Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>290712Z JUN 26
-HYDROPAC 1867/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-WILLIAMS ISLAND LIGHT 35-01.68S 135-58.27E
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -561,22 +561,6 @@ FRENCH POLYNESIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250152Z JUN 26
-HYDROPAC 1823/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V FUGRO KWILENA
-   TOWING 12 5500 METER CABLES IN AREA BOUND BY
-   19-30.00S 115-41.37E, 19-50.00S 115-41.37E,
-   19-50.00S 116-41.37E, 19-30.00S 116-41.37E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 1511/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>241014Z JUN 26
@@ -669,20 +653,6 @@ HYDROPAC 1794/26
 ARABIAN SEA.
 PAKISTAN.
 ORMARA LIGHTHOUSE 25-11.10N 064-41.10E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190112Z JUN 26
-HYDROPAC 1777/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 2000Z
-   DAILY 23 THRU 30 JUN IN AREA BOUND BY
-   32-55.00S 072-08.00W, 32-55.00S 071-50.00W,
-   33-05.00S 071-50.00W, 33-05.00S 072-08.00W.
-2. CANCEL THIS MSG 302100Z JUN 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -809,26 +779,6 @@ AUSTRALIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031336Z JUN 26
-HYDROPAC 1627/26.
-EASTERN INDIAN OCEAN.
-ARABIAN SEA.
-INDIA.
-1. SURVEY OPERATIONS 05 THRU 30 JUN
-   IN AREA BOUND BY
-   18-00.50N 070-19.30E, 13-03.10N 070-19.30E,
-   13-03.10N 071-13.75E, 13-59.90N 071-13.75E,
-   13-59.90N 072-52.25E, 15-49.95N 072-52.25E,
-   15-49.95N 071-51.45E, 18-15.25N 071-51.45E,
-   18-15.25N 070-17.00E, 19-25.95N 070-17.00E,
-   19-25.95N 069-13.00E, 18-00.50N 067-47.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>031220Z JUN 26
@@ -894,22 +844,6 @@ ESTABLISHED IN AREA BOUND BY
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>251315Z MAY 26
-HYDROPAC 1543/26.
-ARABIAN SEA.
-EASTERN INDIAN OCEAN.
-1. CABLE OPERATIONS 26 MAY THRU 30 JUN
-   BY CABLESHIP ILE DE BREHAT
-   ALONG TRACKLINE JOINING
-   11-50.32N 058-10.22E, 08-17.65N 056-19.70E,
-   05-52.97N 055-38.27E, 05-02.03N 055-54.54E,
-   02-25.82N 053-44.87E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>250526Z MAY 26
 HYDROPAC 1541/26.
 INDIAN OCEAN.
@@ -954,26 +888,6 @@ RUSSIA.
 2. CANCEL THIS MSG 010001Z JAN 27.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211437Z MAY 26
-HYDROPAC 1510/26.
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0300Z TO 1900Z DAILY
-   01 THRU 05, 08 THRU 12, 15 THRU 19, 22 THRU 26, 
-   AND 29 THRU 30 JUN IN AREAS BOUND BY:
-   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
-      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
-   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
-      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
-   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
-      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
-   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
-      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
-2. CANCEL THIS MSG 302000Z JUN 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>202135Z MAY 26
@@ -981,30 +895,6 @@ HYDROPAC 1493/26.
 SOUTH PACIFIC.
 FIJI.
 NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NGA TECHNICAL ALERT</category>
-        <status>INFORCE</status>
-        <msgText>011823Z MAY 26
-HYDROPAC 1296/26.
-MARITIME CONTENT DISSEMINATION PORTAL (MCDP) ADVISORY
-NGA IS AWARE OF AN ISSUE RESULTING IN A 
-LOGIN LOOP FOR SOME USERS ATTEMPTING TO 
-ACCESS NGA???S MARITIME CONTENT DISSEMINATION 
-PORTAL (HTTPS://MARITIME.GEO.NGA.MIL).
-NGA IS INVESTIGATING FURTHER. AT THIS TIME, 
-IMPACTED USERS SHOULD ENSURE THEIR EMAIL 
-ADDRESS HAS BEEN ADDED TO THEIR GEOAXIS PROFILE 
-AT HTTPS://PORTAL.GEOAXIS.GS.MIL/USER.
-USERS ARE ALSO ADVISED TO CLEAR THEIR WEB BROWSER 
-CACHE AND TRY ANOTHER WEB BROWSER.
-ESYNC (HTTPS://ESYNC.NGA.MIL) REMAINS FULLY AVAILABLE 
-AND CAN BE USED TO UPDATE CHARTS AND ENC REGIONS 
-PREVIOUSLY RECEIVED FROM NGA.
-IF YOU REQUIRE FURTHER ASSISTANCE, INCLUDING REQUESTS 
-FOR DIRECT DOWNLOADS VIA DOD SAFE, 
-PLEASE CONTACT MARHELP@NGA.MIL.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

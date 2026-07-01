@@ -58,20 +58,6 @@ SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>291645Z JUN 26
-NAVAREA XII 456/26.
-NORTH PACIFIC.
-ALASKA.
-1. USCG REMOTE COMMUNICATION FACILITY
-   KODIAK 57-46.00N 152-34.00W MF/HF
-   TRANSMIT AND RECEIVE SERVICES UNRELIABLE
-   301400Z TO 301800Z JUL.
-2. CANCEL THIS MSG 301900Z JUN 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>270330Z JUN 26
