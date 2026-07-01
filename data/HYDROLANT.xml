@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISTRESS SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>011404Z JUL 26
+HYDROLANT 1286/26.
+NORTH ATLANTIC.
+PUERTO RICO.
+DISTRESS SIGNAL RECEIVED ON 121.5 MHZ IN 
+19-52.13N 067-14.87W. VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO RSC SAN JUAN,
+PHONE: 787 289 2041, EMAIL: SSJCC@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>011254Z JUL 26
@@ -74,22 +87,6 @@ ANTARCTICA.
    D. D33A, 64-10.20S 055-47.40W.
    E. D33C, 63-37.80S 054-12.60W.
 2. CANCEL THIS MSG 011327Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>301319Z JUN 26
-HYDROLANT 1278/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCITCA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 62-09.00S 053-54.00W.
-   B. A76C, 52-56.00S 031-48.00W.
-   C. 47-30.00S 022-47.00W.
-   D. 52-43.00S 032-02.00W.
-2. CANCEL THIS MSG 011319Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

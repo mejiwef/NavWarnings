@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011435Z JUL 26
+HYDROPAC 1896/26.
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0200Z TO 1300Z DAILY
+   02 THRU 23 JUL IN AREA BOUND BY
+   24-50.26N 066-43.04E, 24-50.23N 066-43.00E,
+   24-40.47N 066-40.28E, 24-40.44N 066-23.98E,
+   24-45.33N 066-25.45E.
+2. CANCEL THIS MSG 231400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011428Z JUL 26
+HYDROPAC 1895/26.
+PERSIAN GULF.
+KUWAIT.
+SURVEY OPERATIONS 02 JUL UNTIL FURTHER NOTICE
+BY M/V NAYA, M/V VISION 2 AND M/V MUSAED 01001
+IN AREA BOUND BY
+29-01.72N 048-11.32E, 29-01.61N 048-11.35E,
+29-01.84N 048-11.94E, 29-01.42N 048-12.09E,
+29-01.40N 048-11.42E, 29-01.30N 048-11.46E,
+29-01.04N 048-09.56E, 29-01.26N 048-09.51E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>011208Z JUL 26
@@ -194,20 +226,6 @@ NEW CALEDONIA.
    IN AREA WITHIN TEN MILES OF 
    22-42.00S 166-00.00E.
 2. CANCEL THIS MSG 020200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291628Z JUN 26
-HYDROPAC 1874/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 010330Z TO 011230Z JUL
-   IN AREA BOUND BY
-   17-00.00N 083-33.00E, 17-23.00N 083-33.00E,
-   17-23.00N 083-52.00E, 17-00.00N 083-52.00E.
-2. CANCEL THIS MSG 011330Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
