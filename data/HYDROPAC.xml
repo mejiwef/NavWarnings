@@ -597,21 +597,6 @@ NAVTEX STATION VENGURLA POINT (J)
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240445Z JUN 26
-HYDROPAC 1818/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 1300Z TO 2100Z 
-   DAILY 28, 30 JUN AND 01 JUL 
-   IN AREA BOUND BY
-   36-12.00S 073-50.00W, 36-12.00S 073-25.00W,
-   36-32.00S 073-25.00W, 36-32.00S 073-50.00W.
-2. CANCEL THIS MSG 012200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>232024Z JUN 26

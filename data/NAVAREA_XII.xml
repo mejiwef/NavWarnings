@@ -96,21 +96,6 @@ PACIFIC OCEAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>262256Z JUN 26
-NAVAREA XII 451/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1400Z TO 2300Z
-   DAILY 29 JUN THRU 01 JUL IN AREA BOUND BY
-   33-35.00N 119-22.00W, 33-43.00N 119-43.00W,
-   33-05.00N 120-05.00W, 32-57.00N 119-44.00W,
-   33-35.00N 119-22.00W.
-2. CANCEL THIS MSG 020001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>
