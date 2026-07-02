@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021325Z JUL 26
+HYDROLANT 1289/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0700Z TO 1900Z 
+   DAILY 06 THRU 08 JUL IN AREA WITHIN 
+   25 MILES OF 57-27N 008-16W.
+2. CANCEL THIS MSG 082000Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021305Z JUL 26
+HYDROLANT 1288/26.
+SURVEY OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V RAMFORM VICTORY
+IN AREA BOUND BY
+06-38.83S 008-18.19E, 06-16.63S 008-18.17E,
+06-01.91S 008-19.93E, 05-56.80S 008-34.36E,
+05-54.46S 008-47.11E, 06-06.50S 008-53.82E,
+06-16.61S 008-57.32E, 06-38.82S 008-57.31E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021025Z JUL 26
+HYDROLANT 1287/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 62-24.00S 054-12.00W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-13.20S 055-30.60W.
+   D. D33A, 64-10.20S 055-47.40W.
+   E. D33C, 63-37.80S 054-12.60W.
+2. CANCEL THIS MSG 031027Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>011404Z JUL 26
@@ -11,39 +54,6 @@ DISTRESS SIGNAL RECEIVED ON 121.5 MHZ IN
 19-52.13N 067-14.87W. VESSELS IN VICINITY REQUESTED TO KEEP 
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO RSC SAN JUAN,
 PHONE: 787 289 2041, EMAIL: SSJCC@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011254Z JUL 26
-HYDROLANT 1285/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 62-24.00S 054-12.00W.
-   B. A84, 72-21.00S 108-36.00W.
-   C. A85, 66-13.20S 055-30.60W.
-   D. D33A, 64-10.20S 055-47.40W.
-   E. D33C, 63-37.80S 054-12.60W.
-2. CANCEL THIS MSG 021254Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011248Z JUL 26
-HYDROLANT 1284/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN:
-   A. A81, 62-00.00S 053-36.00W.
-   B. A76C, 52-54.00S 032-07.00W.
-   C. 47-29.00S 022-28.00W.
-   D. 52-49.00S 031-50.00W.
-2. CANCEL THIS MSG 021248Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -347,20 +357,6 @@ TURKEY.
    42-44.90N 034-48.38E, 42-37.78N 037-43.00E,
    41-35.35N 041-01.92E.
 2. CANCEL THIS MSG 041300Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260759Z JUN 26
-HYDROLANT 1245/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0700Z TO 1100Z 
-   DAILY 01 AND 02 JUL IN AREA BOUND BY
-   44-15.00N 029-08.00E, 44-15.00N 029-30.00E,
-   44-05.00N 029-30.00E, 44-05.00N 029-08.00E.
-2. CANCEL THIS MSG 021200Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
