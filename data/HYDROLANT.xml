@@ -330,20 +330,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261027Z JUN 26
-HYDROLANT 1247/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   020300Z JUL BY M/V SIEM PILOT
-   IN 21-15.83S 039-59.82W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 020400Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251300Z JUN 26
