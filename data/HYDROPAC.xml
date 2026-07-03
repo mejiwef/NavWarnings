@@ -1,6 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>031336Z JUL 26
+HYDROPAC 1915/26.
+SOUTH CHINA SEA.
+VIETNAM.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   051100Z TO 051700Z JUL, IN AREAS BOUND BY:
+   A. 11-32.00N 110-16.00E, 11-31.00N 110-50.00E,
+      10-25.00N 110-47.00E, 10-27.00N 110-14.00E.
+   B. 05-35.00N 109-59.00E, 05-34.00N 110-32.00E,
+      04-29.00N 110-29.00E, 04-30.00N 109-56.00E.
+   C. 05-42.00N 109-54.00E, 05-40.00N 110-38.00E,
+      04-35.00N 110-35.00E, 04-37.00N 109-51.00E.
+2. CANCEL THIS MSG 051800Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>031307Z JUL 26
+HYDROPAC 1913/26.
+ANDAMAN SEA.
+INDIA.
+WILSON ISLAND LIGHT 12-08.80N 092-57.40E UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031246Z JUL 26
+HYDROPAC 1912/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0500Z TO 0700Z AND
+   0900Z TO 1100Z DAILY 08 THRU 10 JUL 
+   IN AREA BOUND BY
+   20-41.17N 087-00.72E, 20-00.15N 087-46.23E,
+   21-07.00N 088-36.37E, 21-25.01N 088-09.92E,
+   21-26.25N 087-01.30E.
+2. CANCEL THIS MSG 101200Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031218Z JUL 26
+HYDROPAC 1911/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 04 AUG
+   BY M/V ALBATROSS 37 IN AREAS BOUND BY:
+   A. 19-01.24N 072-41.57E, 18-58.67N 072-40.77E,
+      18-56.13N 072-33.95E, 18-57.09N 072-33.38E,
+      18-59.27N 072-39.89E, 19-01.80N 072-41.19E.
+   B. 18-53.84N 072-30.88E, 18-52.21N 072-27.86E,
+      18-52.37N 072-26.74E, 18-54.59N 072-30.48E.
+   C. 14-07.46N 072-44.54E, 15-27.25N 071-59.27E,
+      16-23.49N 071-22.34E, 17-46.43N 072-03.90E,
+      18-45.33N 072-10.26E, 18-49.25N 072-19.27E,
+      18-49.61N 072-17.76E, 18-46.89N 072-08.42E,
+      17-48.15N 071-57.18E, 16-24.94N 071-12.93E,
+      14-02.38N 072-35.14E.
+   D. 09-15.69N 074-27.29E, 09-43.48N 074-30.75E,
+      10-55.02N 074-26.53E, 14-07.46N 072-44.54E,
+      14-02.38N 072-35.14E, 10-53.80N 074-20.51E,
+      09-17.06N 074-11.85E.
+   E. 09-15.69N 074-27.29E, 08-15.11N 074-51.47E,
+      08-06.28N 075-22.08E, 05-26.33N 077-28.70E,
+      04-48.93N 077-00.89E, 05-06.34N 076-43.66E,
+      06-15.71N 075-52.13E, 06-49.55N 075-28.31E,
+      07-22.41N 075-16.44E, 07-55.15N 074-57.49E,
+      07-50.20N 074-04.12E, 09-17.06N 074-11.85E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 050001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031129Z JUL 26
+HYDROPAC 1909/26.
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 070430Z TO 070630Z
+   AND 070830Z TO 071030Z JUL IN AREA BOUND BY
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E,
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E.
+2. CANCEL THIS MSG 071130Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>030020Z JUL 26
@@ -273,28 +362,6 @@ BANGLADESH.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>300935Z JUN 26
-HYDROPAC 1881/26.
-PACIFIC OCEAN.
-MARSHALL ISLANDS.
-1. HAZARDOUS OPERATIONS 0730Z TO 1328Z 
-   DAILY 01 AND 02 JUL AND 0600Z TO 1200Z 
-   DAILY 03 THRU 05 JUL IN AREAS BOUND BY:
-   A. 07-36.00N 166-16.00E, 08-07.00N 166-36.00E,
-      06-35.00N 169-54.00E, 06-17.00N 169-46.00E.
-   B. 05-15.00N 172-25.00E, 05-43.00N 172-39.00E,
-      05-12.00N 174-01.00E, 04-43.00N 173-49.00E.
-   C. 02-43.00N 179-59.00W, 01-44.00N 177-53.00W,
-      01-15.00N 177-57.00W, 01-59.00N 180-00.00W.
-   D. 04-45.00S 164-52.00W, 03-53.00S 164-29.00W,
-      05-27.00S 160-57.00W, 06-16.00S 161-16.00W.
-2. CANCEL HYDROPAC 1859/26.
-3. CANCEL THIS MSG 051300Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>300826Z JUN 26
 HYDROPAC 1880/26.
 TASMAN SEA.
@@ -504,20 +571,6 @@ PAKISTAN.
 2. CANCEL THIS MSG 312000Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251110Z JUN 26
-HYDROPAC 1845/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 0830Z TO 1030Z DAILY
-   01 AND 03 JUL IN AREA BOUND BY
-   12-50.00N 093-40.00E, 12-50.00N 094-10.00E,
-   13-00.00N 094-10.00E, 13-00.00N 093-40.00E.
-2. CANCEL THIS MSG 031130Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251738Z JUN 26
@@ -617,20 +670,6 @@ RUSSIA.
    64-20.40N 178-26.10E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180829Z JUN 26
-HYDROPAC 1766/26.
-NORTH PACIFIC.
-CABLE OPERATIONS 181500Z JUN UNTIL 
-FURTHER NOTICE BY CABLESHIP ANIEK
-IN AREA BOUND BY
-46-17.00N 167-00.00E, 45-30.00N 165-00.00E,
-44-48.00N 162-25.00E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -918,16 +957,6 @@ POINTE AROA LIGHT 17-28.40S 149-46.50W
 UNLIT.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>071723Z APR 26
-HYDROPAC 1046/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-F/V ISWARYAM SANK IN VICINITY
-08-58.00N 076-28.00E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>040651Z APR 26
@@ -982,17 +1011,6 @@ FIJI.
 DNC 06.
 NORTH OVALAU ISLAND LIGHT 17-33.81S 178-50.92E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>090540Z MAR 26
-HYDROPAC 692/26(63).
-ARABIAN SEA.
-INDIA.
-DNC 03.
-IFB SEA PRINCESS SANK IN 19-04.90N 072-44.90E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
