@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>030053Z JUL 26
+HYDROLANT 1292/26.
+ENGLISH CHANNEL.
+NORTH CHANNEL.
+ENGLAND.
+CORSEWALL POINT LIGHT 55-00.4N 005-09.6W UNLIT</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021655Z JUL 26
@@ -267,20 +277,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261549Z JUN 26
-HYDROLANT 1255/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 010001Z TO 030001Z JUL
-   IN AREA BOUND BY
-   29-08.00N 011-28.00W, 29-18.00N 011-06.00W,
-   28-46.50N 010-48.50W, 28-42.80N 010-56.70W.
-2. CANCEL THIS MSG 030100Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>261509Z JUN 26
@@ -468,18 +464,6 @@ GREECE.
    34-42.81N 021-58.54E, 36-37.11N 022-19.68E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 300001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210016Z JUN 26
-HYDROLANT 1201/26.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 022100Z JUL BY M/V SISTAC ESPERANCA 
-   AND M/V BW ENERGY IN 20-02.50S 039-31.50W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 022200Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
