@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>030053Z JUL 26
-HYDROLANT 1292/26.
-ENGLISH CHANNEL.
-NORTH CHANNEL.
-ENGLAND.
-CORSEWALL POINT LIGHT 55-00.4N 005-09.6W UNLIT</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021655Z JUL 26
@@ -380,19 +370,6 @@ SPAIN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240044Z JUN 26
-HYDROLANT 1228/26.
-SOUTH ATLANTIC.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   030259Z JUL BY M/V SIEM PILOT
-   IN 24-35.55S 042-30.35W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030359Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>232024Z JUN 26
@@ -434,18 +411,6 @@ BRAZIL.
    M/V LINK AMICI IN 20-23.35S 040-09.38W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230104Z JUN 26
-HYDROLANT 1214/26.
-SOUTH ATLANTIC.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   030259Z JUL IN 24-35.55S 042-30.35W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030359Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
