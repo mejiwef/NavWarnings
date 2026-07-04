@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>040209Z JUL 26
+HYDROLANT 1301/26.
+ENGLISH CHANNEL.
+ENGLAND.
+EDDYSTONE LIGHT 50-10.80N 004-15.90W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040137Z JUL 26
+HYDROLANT 1300/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 090800Z TO 092300Z JUL
+   IN AREA BOUND BY
+   25-16.40S 044-00.00W, 25-16.40S 043-16.70W,
+   24-45.00S 043-16.70W, 24-45.00S 044-00.00W.
+2. CANCEL THIS MSG 100001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040128Z JUL 26
+HYDROLANT 1299/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. CABLE OPERATIONS 05 JUL THRU 11 AUG
+   BY CABLESHIP RECORDER ALONG TRACKLINE JOINING
+   31-51.83S 048-02.95W, 31-50.38S 048-02.78W,
+   30-48.00S 049-14.33W, 30-29.52S 049-43.68W,
+   30-16.47S 050-08.78W, 30-14.83S 050-13.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>032038Z JUL 26
+HYDROLANT 1298/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+1. ICEBERGS REPORTED IN: 
+   A. A81,  61-51.00S 053-14.00W.
+   B. A76C, 52-35.00S 032-16.00W.
+   C. 47-32.00S 022-12.00W.
+   D. 52-51.00S 032-21.00W.
+   E. 61-42.00S 053-33.00W.
+2. CANCEL THIS MSG 041400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031505Z JUL 26
@@ -487,21 +542,6 @@ SCOTTLAND.
 2. TIREE 56-30.20N 006-57.80W MF DCS SERVICES
    OFF AIR.
 3. CANCEL HYDROLANT 1172/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180929Z JUN 26
-HYDROLANT 1169/26.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 
-   220700Z JUN TO 032200Z JUL
-   IN AREA BOUND BY
-   24-20.00S 040-32.00W, 24-30.00S 040-03.00W,
-   25-34.00S 039-00.00W, 26-50.00S 040-25.00W,
-   25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
-2. CANCEL THIS MSG 032300Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
