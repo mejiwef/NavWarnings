@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>031451Z JUL 26
+NAVAREA IV 656/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   090905Z TO 091347Z JUL, ALTERNATE
+   100842Z TO 101324Z, 110820Z TO 111302Z,
+   120758Z TO 121240Z, 130736Z TO 131218Z,
+   140713Z TO 141155Z AND 150651Z TO 151133Z JUL
+   IN AREAS BOUND BY:
+   A. 31-36.00N 077-13.00W, 32-23.00N 076-52.00W,
+      33-08.00N 075-40.00W, 33-11.00N 075-15.00W,
+      32-56.00N 074-57.00W, 32-36.00N 075-02.00W,
+      31-51.00N 076-13.00W, 31-28.00N 077-03.00W.
+   B. 28-37.14N 080-36.17W, 28-59.00N 080-18.00W,
+      29-09.00N 080-00.00W, 29-07.00N 079-58.00W,
+      28-51.00N 080-09.00W, 28-30.00N 080-32.00W,
+      28-30.38N 080-33.06W.
+2. CANCEL THIS MSG 151233Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>040300Z JUL 26
