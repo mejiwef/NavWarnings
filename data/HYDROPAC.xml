@@ -342,33 +342,6 @@ B. 18-17.77N 072-55.92E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>011132Z JUL 26
-HYDROPAC 1891/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. DERELICT F/V MANJU MATHA ANCHORED 
-   IN 13-20.42N 074-29.30E.   
-2. CANCEL THIS MSG 041132Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>011116Z JUL 26
-HYDROPAC 1890/26.
-GULF OF ADEN.
-SOMALIA.
-1. M/V BOARDED BY PIRATES IN VICINITY
-   12-24.00N 050-33.00E AT 010930Z JUL. 
-   VESSELS ARE ADVISED TO KEEP CLEAR 
-   OF THIS POSITION AND TO EXERCISE 
-   EXTREME CAUTION.
-2. CANCEL THIS MSG 041116Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>010030Z JUL 26
@@ -441,25 +414,6 @@ NORTHERN MARIANA ISLANDS.
    14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
 2. CANCEL THIS MSG 041459Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300652Z JUN 26
-HYDROPAC 1878/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 2000Z TO 0800Z 
-   DAILY 30 JUN, 02 AND 03 JUL AND 
-   020230Z TO 020800Z JUL IN AREAS BOUND BY:
-   A. 12-50.00N 145-00.00E, 12-50.00N 145-10.00E,
-      11-32.00N 146-50.33E, 11-32.00N 145-11.00E.
-   B. 13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-      12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-      11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-      12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 040900Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
