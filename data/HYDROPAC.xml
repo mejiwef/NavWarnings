@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>050550Z JUL 26
+HYDROPAC 1921/26
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   060000Z TO 080700Z JUL, IN AREA BOUND BY:
+   02-53.00S 171-20.00E, 05-06.00S 173-00.00E,
+   06-00.00S 172-13.00E, 04-32.00S 169-54.00E.
+2. CANCEL THIS MSG 080800Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>041517Z JUL 26
@@ -259,19 +271,6 @@ NOTICE BY M/V LAYLA ALONG TRACKLINE JOINING
 30-35.08S 175-55.29E.
 TWO MILE BERTH REQUESTED.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>020638Z JUL 26
-HYDROPAC 1898/26.
-GULF OF ADEN.
-SOMALIA.
-1. VESSEL REPORTS PIRACY ACTIVITY IN 
-   VICINITY 12-36.00N 048-14.00E AT 011252Z JUL.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 050648Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
