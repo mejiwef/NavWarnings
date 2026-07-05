@@ -37,17 +37,6 @@ HYDROARC 120/26.
 3. CANCEL HYDROARC 116/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021144Z JUL 26
-HYDROARC 119/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 77-27.90N 113-12.10E.
-2. CANCEL THIS MSG 051144Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>230151Z JUN 26
