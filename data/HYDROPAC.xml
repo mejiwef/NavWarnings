@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>051418Z JUL 26
+HYDROPAC 1926/26.
+SOUTH PACIFIC.
+PERU.
+1. DERELICT F/V JUMEIRA P 
+   PARTIALLY SUBMERGED AND ADRIFT IN 
+   VICINITY 16-33.87S 078-28.72W. AT 
+   050225Z JUL.
+2. CANCEL THIS MSG 081418Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>051013Z JUL 26
@@ -117,23 +130,6 @@ DUE TO TROPICAL STORM BAVI:
    D. SAIPAN (15-13.56N 145-44.25E).
 2. CURRENT PORT INFORMATION CAN BE FOUND 
    AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>031336Z JUL 26
-HYDROPAC 1915/26.
-SOUTH CHINA SEA.
-VIETNAM.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   051100Z TO 051700Z JUL, IN AREAS BOUND BY:
-   A. 11-32.00N 110-16.00E, 11-31.00N 110-50.00E,
-      10-25.00N 110-47.00E, 10-27.00N 110-14.00E.
-   B. 05-35.00N 109-59.00E, 05-34.00N 110-32.00E,
-      04-29.00N 110-29.00E, 04-30.00N 109-56.00E.
-   C. 05-42.00N 109-54.00E, 05-40.00N 110-38.00E,
-      04-35.00N 110-35.00E, 04-37.00N 109-51.00E.
-2. CANCEL THIS MSG 051800Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

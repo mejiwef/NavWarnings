@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051801Z JUL 26
+NAVAREA IV 659/26.
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. CABLE OPERATIONS 08 JUL THRU 31 AUG 
+   BY CABLESHIP ILE D???YEU ALONG TRACKLINE JOINING
+   05-02.22N 052-12.01W, 05-18.45N 051-59.35W,
+   05-36.55N 051-43.11W, 05-52.51N 051-25.07W,
+   05-55.16N 051-22.20W, 06-03.25N 051-04.51W,
+   06-07.98N 050-38.63W, 06-07.95N 050-11.97W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>050125Z JUL 26
