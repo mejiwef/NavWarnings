@@ -274,16 +274,6 @@ SOMALIA.
 2. CANCEL THIS MSG 050648Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FAD</category>
-        <status>INFORCE</status>
-        <msgText>020113Z JUL 26
-HYDROPAC 1897/26.
-EASTERN INDIAN OCEAN.
-1. FAD WITH ROPE ADRIFT IN 12-32.73S 123-41.98E
-   AT 010934Z JUL.
-2. CANCEL THIS MSG 050113Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011435Z JUL 26

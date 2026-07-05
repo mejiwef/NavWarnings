@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BOMBING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>291705Z JUN 26
+NAVAREA XII 471/26.
+NORTH PACIFIC.
+MEXICO.
+1. BOMBING EXERCISES 101430Z TO 101700Z AND
+   102000Z TO 102300Z JUL IN AREA BOUND BY
+   31-35.00N 119-56.00W, 31-35.00N 118-45.00W,
+   29-35.00N 118-45.00W, 29-35.00N 121-00.00W,
+   30-35.00N 121-00.00W, 30-40.00N 120-50.00W.
+2. CANCEL THIS MSG 110001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011713Z JUL 26
+NAVAREA XII 470/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 101600Z TO 110001Z JUL,
+   ALTERNATE 111600Z TO 120001Z AND 131600Z TO
+   140001Z JUL IN AREA BOUND BY
+   33-20.70N 120-02.10W, 33-54.20N 119-37.20W,
+   34-07.10N 119-08.00W, 34-05.60N 119-05.70W,
+   33-50.10N 119-11.20W, 33-37.70N 119-22.20W,
+   33-21.60N 119-29.80W, 33-15.10N 119-20.90W,
+   33-06.20N 119-23.70W, 33-07.50N 120-01.70W.
+2. CANCEL THIS MSG 150100Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>030020Z JUL 26
