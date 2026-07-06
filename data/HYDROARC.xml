@@ -37,19 +37,6 @@ HYDROARC 120/26.
 3. CANCEL HYDROARC 116/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230151Z JUN 26
-HYDROARC 112/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1900Z
-   DAILY 27 JUN THRU 05 JUL IN AREA BOUND BY
-   69-58.00N 033-38.00E, 69-58.00N 034-48.00E,
-   69-34.50N 034-48.00E, 69-34.50N 033-38.00E.
-2. CANCEL THIS MSG 052000Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>030023Z OCT 25
