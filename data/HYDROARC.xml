@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061827Z JUL 26
+HYDROARC 122/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0500Z TO 1700Z DAILY
+   11 THRU 13 JUL IN AREA BOUND BY
+   70-07.00N 035-56.00E, 69-27.50N 036-07.00E,
+   69-29.00N 035-11.00E, 69-32.00N 033-41.50E,
+   69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
+   70-03.00N 035-02.00E.
+2. CANCEL THIS MSG 131800Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>021813Z JUL 26
