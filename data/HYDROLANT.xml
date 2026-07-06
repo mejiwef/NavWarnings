@@ -437,20 +437,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260104Z JUN 26
-HYDROLANT 1243/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   060259Z JUL BY M/V SISTAC VITORIA
-   IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 060359Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251022Z JUN 26
@@ -930,23 +916,6 @@ NORTH ATLANTIC.
 BRAZIL.
 DNC 01.
 DANGEROUS WRECK IN 00-24.48N 047-50.68W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071234Z FEB 26
-HYDROLANT 265/26(57).
-GULF OF GUINEA.
-NIGERIA.
-DNC 01.
-SURVEY OPERATIONS 09 FEB UNTIL FURTHER NOTICE
-BY M/V RAMFORM HYPERION TOWING 12 
-SIX MILE LONG CABLES IN AREA BOUND BY
-03-41.30N 005-04.10E, 03-41.00N 007-22.10E,
-02-53.80N 007-21.80E, 02-39.20N 006-28.00E,
-02-37.80N 005-04.20E.
-SEVEN MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
