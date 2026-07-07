@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071326Z JUL 26
+HYDROLANT 1316/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1500Z 
+   DAILY 15 AND 16 JUL IN AREA BOUND BY
+   43-55.00N 028-51.00E, 43-55.00N 029-08.00E,
+   43-47.50N 029-08.00E, 43-47.50N 028-51.00E.
+2. CANCEL THIS MSG 161600Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071244Z JUL 26
+HYDROLANT 1315/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 62-21.00S 053-33.00W.
+   B. A81, 61-24.00S 052-25.00W.
+   C. A76C, 52-35.00S 031-23.00W.
+   D. 52-13.00S 032-04.00W.
+   E. 52-32.00S 031-51.00W.
+2. CANCEL THIS MSG 081244Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071221Z JUL 26
+HYDROLANT 1314/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-51.60S 053-15.00W.
+   B. A84, 72-31.20S 108-00.60W.
+   C. A85, 66-03.60S 055-18.00W.
+   D. D33A, 64-19.80S 055-49.20W.
+   E. D33C, 63-33.00S 053-36.00W.
+2. CANCEL THIS MSG 081221Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>070117Z JUL 26

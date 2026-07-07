@@ -1,6 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>071340Z JUL 26
+HYDROPAC 1942/26.
+SOUTH CHINA SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   100512Z TO 100719Z JUL
+   IN AREA BOUND BY
+   16-39.00N 113-25.80E, 16-42.60N 113-30.60E,
+   16-33.60N 113-37.80E, 16-30.00N 113-33.00E.
+2. CANCEL THIS MSG 100819Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>071324Z JUL 26
+HYDROPAC 1941/26.
+SOUTH CHINA SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   100513Z TO 100719Z JUL IN AREA BOUND BY
+   15-59.40N 113-43.80E, 16-17.40N 114-06.00E,
+   15-34.80N 114-42.00E, 15-16.80N 114-19.80E.
+2. CANCEL THIS MSG 100819Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>071145Z JUL 26
+HYDROPAC 1940/26.
+GULF OF OMAN.
+OMAN.
+M/V AL REKAYYAT ON FIRE AND ANCHORED
+IN 25-51.00N 056-34.90E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO ANY COASTAL RADIO STATION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071108Z JUL 26
+HYDROPAC 1939/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 1130Z 
+   DAILY 10 AND 15 JUL IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
+   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
+2. CANCEL THIS MSG 151230Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>071043Z JUL 26
+HYDROPAC 1938/26.
+ARABIAN SEA.
+1. FIVE CONTAINERS ADRIFT IN VICINITY 
+   16-09.90N 068-09.70E AT 070330Z JUL.
+2. CANCEL THIS MSG 101043Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071025Z JUL 26
+HYDROPAC 1937/26.
+ARAFURA SEA.
+AUSTRALIA.
+1. BOOBY ISLAND LIGHT 10-36.25S 141-54.68E UNRELIABLE.
+2. CANCEL HYDROPAC 1936/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>070317Z JUL 26
@@ -173,16 +250,6 @@ DUE TO TROPICAL STORM BAVI:
    AT HTTPS://WWW.NAVCEN.USCG.GOV/PORT-STATUS.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>031307Z JUL 26
-HYDROPAC 1913/26.
-ANDAMAN SEA.
-INDIA.
-WILSON ISLAND LIGHT 12-08.80N 092-57.40E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031246Z JUL 26
@@ -231,21 +298,6 @@ INDIA.
       07-50.20N 074-04.12E, 09-17.06N 074-11.85E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 050001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031129Z JUL 26
-HYDROPAC 1909/26.
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 070430Z TO 070630Z
-   AND 070830Z TO 071030Z JUL IN AREA BOUND BY
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E,
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E.
-2. CANCEL THIS MSG 071130Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
