@@ -426,18 +426,6 @@ B. 18-17.77N 072-55.92E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>010030Z JUL 26
-HYDROPAC 1886/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-1. WILLIAMS ISLAND LIGHT 35-01.68S 135-58.27E
-   UNLIT.
-2. CANCEL HYDROPAC 1867/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>301420Z JUN 26
