@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>070317Z JUL 26
+HYDROPAC 1934/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+1. SEVEN METER MAST ADRIFT IN VICINITY 
+   17-59.93S 153-22.16W AT 062120Z JUL.
+2. CANCEL THIS MSG 100311Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>061234Z JUL 26
