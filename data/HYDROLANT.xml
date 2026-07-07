@@ -79,41 +79,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>061443Z JUL 26
-HYDROLANT 1312/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 61-33.00S 052-42.00W.
-   B. D33B, 62-28.00S 053-34.00W.
-   C. A76C, 52-26.00S 031-42.00W.
-   D. 47-48.00S 021-37.00W.
-   E. 52-25.00S 032-21.00W.
-   F. 61-42.00S 053-33.00W.
-2. CANCEL THIS MSG 071443Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>061434Z JUL 26
-HYDROLANT 1311/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN:
-   A. A81, 61-51.60S 053-15.00W.
-   B. A84, 72-31.20S 108-00.60W.
-   C. A85, 66-03.60S 055-18.00W.
-   D. D33A, 64-19.80S 055-49.20W.
-   E. D33C, 63-33.00S 053-36.00W.
-2. CANCEL THIS MSG 071434Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051644Z JUL 26

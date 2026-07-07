@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>071435Z JUL 26
+HYDROPAC 1944/26.
+GULF OF OMAN.
+OMAN.
+1. M/V AL REKAYYAT ON FIRE AND ANCHORED
+   IN 25-51.00N 056-34.90E. VESSELS ARE
+   ADVISED TO KEEP CLEAR OF THIS POSITION
+   AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL HYDROPAC 1940/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>071340Z JUL 26
