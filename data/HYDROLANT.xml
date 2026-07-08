@@ -553,17 +553,6 @@ MOROCCO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>102209Z JUN 26
-HYDROLANT 1117/26.
-NORTH SEA.
-SHETLAND ISLANDS.
-SUMBURGH HEAD LIGHT 59-51.20N 001-16.50W
-UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041445Z JUN 26

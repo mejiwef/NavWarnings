@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>081528Z JUL 26
+HYDROPAC 1957/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 2200Z TO 0900Z DAILY
+   12 THRU 18 JUL IN AREA WITHIN 
+   25 MILES OF 31-14.21N 144-26.80E.
+2. CANCEL THIS MSG 191000Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>081305Z JUL 26
@@ -109,7 +120,8 @@ PHILIPPINE SEA.
 GUAM.
 POLARIS POINT RANGE FRONT LIGHT 13-26.32N 144-40.02E
 AND POLARIS POINT RANGE REAR LIGHT 
-13-26.29N 144-40.04E AT REDUCED INTENSITY.</msgText>
+13-26.29N 144-40.04E AT REDUCED INTENSITY.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -122,7 +134,8 @@ GUAM.
 APRA INNER HARBOR RANGE FRONT LIGHT 
 13-25.06N 144-40.01E AND APRA INNER HARBOR
 RANGE REAR LIGHT 13-25.01N 144-40.02E
-AT REDUCED INTENSITY.</msgText>
+AT REDUCED INTENSITY.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -190,21 +203,6 @@ FRENCH POLYNESIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>061234Z JUL 26
-HYDROPAC 1932/26.
-GULF OF THAILAND.
-VIETNAM.
-MAN OVERBOARD FROM F/V CM 05622 TS
-IN 09-23.00N 104-45.00E AT 060635Z JUL.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>061046Z JUL 26
@@ -228,19 +226,6 @@ SOUTH PACIFIC.
    43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
    59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
 2. CANCEL THIS MSG 170929Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>051418Z JUL 26
-HYDROPAC 1926/26.
-SOUTH PACIFIC.
-PERU.
-1. DERELICT F/V JUMEIRA P PARTIALLY SUBMERGED
-   AND ADRIFT IN VICINITY 16-33.87S 078-28.72W AT
-   050225Z JUL.
-2. CANCEL THIS MSG 081418Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
