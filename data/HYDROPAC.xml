@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>080603Z JUL 26
+HYDROPAC 1949/26.
+CORAL SEA.
+NEW CALEDONIA.
+1. GUNNERY EXERCISES 092200Z TO 100600Z JUL
+   IN AREA WITHIN TEN MILES OF 
+   22-42.00S 166-00.00E.
+2. CANCEL THIS MSG 100700Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PORT CLOSURE</category>
         <status>INFORCE</status>
         <msgText>080106Z JUL 26
@@ -122,17 +135,6 @@ ARABIAN SEA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>071025Z JUL 26
-HYDROPAC 1937/26.
-ARAFURA SEA.
-AUSTRALIA.
-1. BOOBY ISLAND LIGHT 10-36.25S 141-54.68E UNRELIABLE.
-2. CANCEL HYDROPAC 1936/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>070317Z JUL 26
@@ -209,19 +211,6 @@ YEMEN.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
 2. CANCEL THIS MSG 081014Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>050550Z JUL 26
-HYDROPAC 1921/26
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   060000Z TO 080700Z JUL, IN AREA BOUND BY:
-   02-53.00S 171-20.00E, 05-06.00S 173-00.00E,
-   06-00.00S 172-13.00E, 04-32.00S 169-54.00E.
-2. CANCEL THIS MSG 080800Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
