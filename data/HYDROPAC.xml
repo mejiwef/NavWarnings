@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>081305Z JUL 26
+HYDROPAC 1955/26.
+SOUTH CHINA SEA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   100300Z TO 100900Z JUL
+   IN AREAS BOUND BY
+   A. 16-39.00N 113-26.00E, 16-43.00N 113-31.00E,
+      16-34.00N 113-38.00E, 16-30.00N 113-33.00E.
+   B. 15-59.00N 113-44.00E, 16-17.00N 114-06.00E,
+      15-35.00N 114-42.00E, 15-17.00N 114-20.00E.
+2. CANCEL HYDROPAC 1941/26, 1942/26.
+3. CANCEL THIS MSG 101000Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>081237Z JUL 26
+HYDROPAC 1954/26.
+ARABIAN SEA.
+INDIA.
+1. FOUR CONTAINERS ADRIFT IN VICINITY 19-40.30N 070-27.60E
+   AT 080546Z JUL.
+2. CANCEL THIS MSG 111237Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>081228Z JUL 26
+HYDROPAC 1953/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. CONTAINER, WHITE COLOR, ADRIFT IN VICINITY 20-08.43N 071-53.14E.
+2. CANCEL THIS MSG 111228Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081151Z JUL 26
+HYDROPAC 1951/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 100045Z TO 100200Z JUL 
+   IN AREA BOUND BY
+   17-30.00N 083-50.00E, 17-40.00N 084-00.00E,
+   17-30.00N 084-10.00E, 17-20.00N 084-00.00E.
+2. CANCEL THIS MSG 100300Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>080828Z JUL 26
+HYDROPAC 1950/26.
+ARABIAN SEA.
+PAKISTAN.
+AIRCRAFT, FIVE PERSONS ON BOARD, UNREPORTED. 
+LAST KNOWN POSITION IN 24-15.00N 064-24.00E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC PAKISTAN,
+PHONE: 9221 9921 4624,
+EMAIL: MRCCPMSA@CYBER.NET.PK.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>080603Z JUL 26
@@ -66,33 +136,6 @@ OMAN.
    ADVISED TO KEEP CLEAR OF THIS POSITION
    AND TO EXERCISE EXTREME CAUTION.
 2. CANCEL HYDROPAC 1940/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>071340Z JUL 26
-HYDROPAC 1942/26.
-SOUTH CHINA SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   100512Z TO 100719Z JUL
-   IN AREA BOUND BY
-   16-39.00N 113-25.80E, 16-42.60N 113-30.60E,
-   16-33.60N 113-37.80E, 16-30.00N 113-33.00E.
-2. CANCEL THIS MSG 100819Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>071324Z JUL 26
-HYDROPAC 1941/26.
-SOUTH CHINA SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   100513Z TO 100719Z JUL IN AREA BOUND BY
-   15-59.40N 113-43.80E, 16-17.40N 114-06.00E,
-   15-34.80N 114-42.00E, 15-16.80N 114-19.80E.
-2. CANCEL THIS MSG 100819Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -201,19 +244,6 @@ PERU.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>051013Z JUL 26
-HYDROPAC 1924/26.
-RED SEA. 
-YEMEN.
-1. VESSEL ATTACKED IN VICINITY 14-50.00N 042-50.00E
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 081014Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>041517Z JUL 26
@@ -262,22 +292,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031246Z JUL 26
-HYDROPAC 1912/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0500Z TO 0700Z AND
-   0900Z TO 1100Z DAILY 08 THRU 10 JUL 
-   IN AREA BOUND BY
-   20-41.17N 087-00.72E, 20-00.15N 087-46.23E,
-   21-07.00N 088-36.37E, 21-25.01N 088-09.92E,
-   21-26.25N 087-01.30E.
-2. CANCEL THIS MSG 101200Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -598,21 +612,6 @@ GUAM.
 USCG REMOTE COMMUNICATIONS FACILITY GUAM
 13-29.00N 144-50.00E COMMUNICATION SERVICES
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>270254Z JUN 26
-HYDROPAC 1856/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0343Z TO 0829Z DAILY 02 THRU 08 JUL
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 080929Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
