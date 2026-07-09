@@ -3,6 +3,19 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>090556Z JUL 26
+HYDROLANT 1325/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 140700Z TO 170300Z JUL
+   IN AREA WITHIN 20 MILES OF 
+   24-35.00S 041-35.00W.
+2. CANCEL THIS MSG 170400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>090143Z JUL 26
 HYDROLANT 1324/26.
 SOUTH ATLANTIC.
