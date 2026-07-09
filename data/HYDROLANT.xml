@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091434Z JUL 26
+HYDROLANT 1328/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 62-18.00S 053-26.00W.
+   B. A81, 61-18.00S 052-20.00W.
+   C. A76C, 52-42.00S 031-26.00W.
+   D. 52-13.00S 031-39.00W.
+   E. 63-21.00S 053-11.00W.
+   F. 62-56.00S 053-12.00W.
+   G. 63-24.00S 053-07.00W.
+   H. 63-14.00S 053-01.00W.
+   I. 63-10.00S 052-53.00W.
+2. CANCEL THIS MSG 101434Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091415Z JUL 26
+HYDROLANT 1327/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-51.60S 053-15.00W.
+   B. A84, 72-31.20S 108-00.60W.
+   C. A85, 66-03.60S 055-18.00W.
+   D. D33A, 64-19.80S 055-49.20W.
+   E. D33C, 63-33.00S 053-36.00W.
+2. CANCEL THIS MSG 101415Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090556Z JUL 26
@@ -20,7 +58,7 @@ BRAZIL.
 HYDROLANT 1324/26.
 SOUTH ATLANTIC.
 BRAZIL.
-1. HAZARDOUS OPERATIONS 140700Z TO170300Z JUL
+1. HAZARDOUS OPERATIONS 140700Z TO 170300Z JUL
    IN AREA WITHIN 20 MILES OF 24-10.00S 042-13.00W.
 2. CANCEL THIS MSG 170400Z JUL 26.
 </msgText>
@@ -46,44 +84,10 @@ SOUTH ATLANTIC.
 HYDROLANT 1322/26.
 NORTH ATLANTIC.
 AZORES.
-1. STATION SAO MIGUEL CENCOMARACORES (F)
+1. STATION SAO MIGUEL CENCOMARACORES
    37-48.00N 025-33.00W MF AND HF VOICE AND DSC
    SERVICES OFF AIR.
 2. CANCEL HYDROLANT 1254/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081346Z JUL 26
-HYDROLANT 1320/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 62-21.00S 053-33.00W.
-   B. A81, 61-24.00S 052-25.00W.
-   C. A76C, 52-35.00S 031-23.00W.
-   D. 52-13.00S 031-39.00W.
-   E. 52-25.00S 031-52.00W.
-2. CANCEL THIS MSG 091346Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081333Z JUL 26
-HYDROLANT 1319/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 61-51.60S 053-15.00W.
-   B. A84, 72-31.20S 108-00.60W.
-   C. A85, 66-03.60S 055-18.00W.
-   D. D33A, 64-19.80S 055-49.20W.
-   E. D33C, 63-33.00S 053-36.00W.
-2. CANCEL THIS MSG 091333Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -966,6 +970,20 @@ DNC 09.
    37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
    38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
 2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091238Z JUL 26
+HYDROLANT 1326/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1830Z DAILY 
+   13 THRU 24 JUL IN AREAS WITHIN:
+   A. 28 MILES OF 57-21.60N 008-25.50W.
+   B. 20 MILES OF 57-33.30N 008-48.60W.
+2. CANCEL THIS MSG 241930Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

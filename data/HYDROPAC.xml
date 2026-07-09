@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091244Z JUL 26
+HYDROPAC 1970/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z TO 0630Z AND 
+   0930Z TO 1130Z DAILY 14 AND 15 JUL 
+   IN AREA BOUND BY
+   21-09.16N 086-49.50E, 21-22.90N 086-57.60E,
+   21-42.10N 087-47.70E, 21-25.01N 088-09.91E,
+   21-07.00N 088-36.36E, 20-19.05N 087-46.10E,
+   20-41.16N 087-00.71E, 21-02.22N 086-52.33E.
+2. CANCEL THIS MSG 151230Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>091125Z JUL 26
+HYDROPAC 1969/26.
+ARABIAN SEA.
+OMAN.
+S/V MEHEBOOB E BUKHARI SANK IN 19-18.43N 057-47.75E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091055Z JUL 26
+HYDROPAC 1968/26.
+EASTERN INDIA OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY
+   11 AND 12 JUL IN AREA BOUND BY
+   09-44.30N 075-59.18E, 09-44.30N 076-04.30E,
+   09-50.30N 076-04.30E, 09-50.30N 075-59.18E.
+2. CANCEL THIS MSG 121230Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091046Z JUL 26
+HYDROPAC 1967/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
+   13 THRU 16 JUL IN AREA BOUND BY
+   16-22.00N 084-01.00E, 17-08.00N 085-22.00E,
+   15-51.00N 086-22.00E, 15-01.00N 084-55.00E.
+2. CANCEL THIS MSG 161230Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091032Z JUL 26
+HYDROPAC 1966/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
+   13 THRU 16 JUL IN AREA BOUND BY
+   12-49.00N 080-46.00E, 12-49.00N 081-26.00E,
+   12-59.00N 081-26.00E, 12-59.00N 080-46.00E.
+2. CANCEL THIS MSG 161229Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>090654Z JUL 26
