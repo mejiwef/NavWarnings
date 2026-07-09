@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>091736Z JUL 26
+HYDROARC 124/26.
+BARRENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   112100Z TO 162100Z JUL IN AREAS BOUND BY:
+   A. 70-13.00N 045-43.00E, 70-02.00N 047-12.00E,
+      68-49.00N 045-50.00E, 69-00.00N 044-27.00E.
+   B. 77-52.00N 061-55.00E, 77-37.00N 063-39.00E,
+      76-39.00N 060-30.00E, 76-56.00N 058-52.00E.
+   C. 69-17.00N 051-14.00E, 69-01.00N 052-02.00E,
+      68-19.00N 050-27.00E, 68-33.00N 049-48.00E.
+2. CANCEL THIS MSG 162200Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>080839Z JUL 26
@@ -11,38 +29,6 @@ RUSSIA.
    A. 77-50.10N 105-42.30E.
    B. 77-21.80N 110-44.80E.
 2. CANCEL THIS MSG 110839Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061827Z JUL 26
-HYDROARC 122/26.
-BARENTS SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0500Z TO 1700Z DAILY
-   11 THRU 13 JUL IN AREA BOUND BY
-   70-07.00N 035-56.00E, 69-27.50N 036-07.00E,
-   69-29.00N 035-11.00E, 69-32.00N 033-41.50E,
-   69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
-   70-03.00N 035-02.00E.
-2. CANCEL THIS MSG 131800Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021813Z JUL 26
-HYDROARC 121/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0500Z TO 1700Z
-   DAILY 07 THRU 10 JUL IN AREA BOUND BY
-   70-07.00N 035-56.00E, 69-27.50N 036-07.00E,
-   69-29.00N 035-11.00E, 69-32.00N 033-41.50E,
-   69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
-   70-03.00N 035-02.00E.
-2. CANCEL THIS MSG 101800Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
+        <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>090859Z JUL 26
-NAVAREA IV 669/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. NAVAL OPERATIONS 091230Z TO 091730Z JUL
-   IN AREA BOUND BY
-   10-24.23N 075-37.95W, 10-23.20N 075-38.06W,
-   10-23.20N 075-39.08W, 10-24.23N 075-39.08W.
-2. CANCEL THIS MSG 091830Z JUL 26.
+        <msgText>091509Z JUL 26
+NAVAREA IV 670/26.
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+GALEOTA POINT LIGHT 10-08.30N 060-59.50W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

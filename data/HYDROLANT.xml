@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>091649Z JUL 26
+HYDROLANT 1329/26.
+CELTIC SEA.
+IRELAND.
+RACON AT HOOK HEAD LIGHT 52-07.40N 006-55.80W UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091434Z JUL 26
