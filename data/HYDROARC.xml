@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101136Z JUL 26
+HYDROARC 126/26.
+KARA SEA.
+RUSSIA.
+SURVEY OPERATIONS 14 JUL 26 UNTIL FURTHER
+NOTICE BY M/V AKVAMARIN TOWING 1000 METER
+LONG CABLE IN AREA BOUND BY
+68-33.71N 073-30.96E, 68-24.84N 074-21.42E,
+68-24.02N 074-20.34E, 68-32.99N 073-32.36E.
+TWO MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>091736Z JUL 26
@@ -29,28 +44,6 @@ RUSSIA.
    A. 77-50.10N 105-42.30E.
    B. 77-21.80N 110-44.80E.
 2. CANCEL THIS MSG 110839Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>021624Z JUL 26
-HYDROARC 120/26.
-1. HYDROARC WARNINGS IN FORCE AS OF 021624Z JUL.
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   119/2026, 112/2026.
-   180/2025, 178/2025, 175/2025, 148/2025, 145/2025,
-   103/2025.
-   283/2024.
-   163/2023. 
-   198/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
-   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-   MARITIME SAFETY INFORMATION WEBSITE AT:
-   MSI.NGA.MIL/NAVWARNINGS.
-   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-   FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 116/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
