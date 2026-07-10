@@ -244,20 +244,6 @@ EDDYSTONE LIGHT 50-10.80N 004-15.90W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040137Z JUL 26
-HYDROLANT 1300/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 090800Z TO 092300Z JUL
-   IN AREA BOUND BY
-   25-16.40S 044-00.00W, 25-16.40S 043-16.70W,
-   24-45.00S 043-16.70W, 24-45.00S 044-00.00W.
-2. CANCEL THIS MSG 100001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>040128Z JUL 26

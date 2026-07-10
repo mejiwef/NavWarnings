@@ -251,20 +251,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081151Z JUL 26
-HYDROPAC 1951/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 100045Z TO 100200Z JUL 
-   IN AREA BOUND BY
-   17-30.00N 083-50.00E, 17-40.00N 084-00.00E,
-   17-30.00N 084-10.00E, 17-20.00N 084-00.00E.
-2. CANCEL THIS MSG 100300Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>080828Z JUL 26
@@ -323,20 +309,6 @@ AND POLARIS POINT RANGE REAR LIGHT
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>072305Z JUL 26
-HYDROPAC 1945/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-APRA INNER HARBOR RANGE FRONT LIGHT 
-13-25.06N 144-40.01E AND APRA INNER HARBOR
-RANGE REAR LIGHT 13-25.01N 144-40.02E
-AT REDUCED INTENSITY.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>071435Z JUL 26
@@ -387,18 +359,6 @@ ARABIAN SEA.
 1. FIVE CONTAINERS ADRIFT IN VICINITY 
    16-09.90N 068-09.70E AT 070330Z JUL.
 2. CANCEL THIS MSG 101043Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>070317Z JUL 26
-HYDROPAC 1934/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. SEVEN METER MAST ADRIFT IN VICINITY 
-   17-59.93S 153-22.16W AT 062120Z JUL.
-2. CANCEL THIS MSG 100311Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -587,24 +547,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020727Z JUL 26
-HYDROPAC 1899/26.
-SOUTH PACIFIC.
-CABLE OPERATIONS 022000Z JUL UNTIL FURTHER
-NOTICE BY M/V LAYLA ALONG TRACKLINE JOINING
-22-05.57S 178-05.51E, 24-06.89S 177-12.25E,
-25-00.90S 176-57.48E, 25-13.57S 176-55.81E,
-25-34.91S 176-57.16E, 25-56.53S 176-53.47E,
-26-20.99S 176-42.81E, 27-45.31S 176-21.20E,
-29-13.28S 176-16.84E, 29-36.37S 176-11.60E,
-29-49.21S 176-02.81E, 30-27.25S 175-59.10E,
-30-35.08S 175-55.29E.
-TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011435Z JUL 26
@@ -770,18 +712,6 @@ AUSTRALIA.
 ESTABLISHED IN AREA WITHIN TWO MILES OF
 38-46.00S 142-48.80E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>271842Z JUN 26
-HYDROPAC 1858/26.
-NORTH PACIFIC.
-GUAM.
-USCG REMOTE COMMUNICATIONS FACILITY GUAM
-13-29.00N 144-50.00E COMMUNICATION SERVICES
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
