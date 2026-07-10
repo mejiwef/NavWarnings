@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100917Z JUL 26
+HYDROLANT 1330/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 151400Z TO 161900Z JUL
+   IN AREA WITHIN 15 MILES OF 
+   24-10.00S 043-40.00W.
+2. CANCEL THIS MSG 162000Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>091649Z JUL 26
