@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>110205Z JUL 26
+HYDROPAC 1986/26
+SOUTH ATLANTIC.
+EASTERN INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2159Z TO 2339Z DAILY 16 THRU 22 JUL
+   IN AREA BOUND BY
+   36-30.00S 017-30.00E, 39-30.00S 027-00.00E,
+   60-00.00S 022-30.00E, 60-00.00S 005-00.00E.
+2. CANCEL THIS MSG 230039Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>110107Z JUL 26
+HYDROPAC 1985/26
+1. F/V BD 98387 TS, NINE PERSON ON BOARD,
+   DISABLED AND ADRIFT AT TWO KNOTS
+   IN 08-06.00N 112-30.00E.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO MRCC VIETNAM,
+   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+2. CANCEL HYDROPAC 1982/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101558Z JUL 26
@@ -52,21 +81,6 @@ FRENCH POLYNESIA
     ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 1981/26, 1904/26, 1695/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>101338Z JUL 26
-HYDROPAC 1982/26.
-SOUTH CHINA SEA
-VIETNAM
-VESSEL F/V BD 98387 TS DISABLED AND
-ANCHORED IN 08-06.00N 112-23.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

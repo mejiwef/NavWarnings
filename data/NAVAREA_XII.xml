@@ -102,21 +102,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BOMBING EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>291705Z JUN 26
-NAVAREA XII 471/26.
-NORTH PACIFIC.
-MEXICO.
-1. BOMBING EXERCISES 101430Z TO 101700Z AND
-   102000Z TO 102300Z JUL IN AREA BOUND BY
-   31-35.00N 119-56.00W, 31-35.00N 118-45.00W,
-   29-35.00N 118-45.00W, 29-35.00N 121-00.00W,
-   30-35.00N 121-00.00W, 30-40.00N 120-50.00W.
-2. CANCEL THIS MSG 110001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011713Z JUL 26
