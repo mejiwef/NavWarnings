@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111258Z JUL 26
+HYDROLANT 1341/261.
+SOUTH ATLANTIC
+BRAZIL
+1. HAZARDOUS OPERATIONS
+   0900Z TO 2100Z JUL DAILY,
+   16 THRU 25 JUL
+   IN AREA BOUND BY
+   23-27.03S 043-52.03W, 23-30.03S 043-50.03W,
+   24-08.03S 044-35.03W, 23-45.03S 044-44.03W.
+2. CANCEL THIS MSG 252200Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111341Z JUL 26
+HYDROLANT 1340/261.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+ICEBERGS REPORTED IN: 
+   A. D33B, 62-16.00S 053-28.00W.
+   B. A81, 61-13.00S 052-19.00W.
+   C. A76C, 52-29.00S 031-45.00W.
+   D. D33C, 63-20.00S 053-11.00W.
+   E. 52-34.00S 031-47.00W.
+   F. 62-52.00S 053-09.00W.
+   G. 63-21.00S 053-04.00W.
+   H. 63-11.00S 053-00.00W.
+   I. 63-08.00S 052-50.00W.
+   J. 59-54.00S 036-14.00W.
+2. CANCEL THIS MSG 121337Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>111117Z JUL 26
@@ -101,27 +139,6 @@ DANGEROUS OBJECT ADRIFT IN
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101329Z JUL 26
-HYDROLANT 1332/261. 
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 62-16.00S 053-28.00W.
-   B. A81, 61-13.00S 052-19.00W.
-   C. A76C, 52-40.00S 031-41.00W.
-   D. D33C, 63-20.00S 053-11.00W.
-   E. 52-40.00S 031-31.00W.
-   F. 62-52.00S 053-09.00W.
-   G. 63-21.00S 053-04.00W.
-   H. 63-11.00S 053-00.00W.
-   I. 63-08.00S 052-50.00W.
-2. CANCEL THIS MSG 111323Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100917Z JUL 26
@@ -132,16 +149,6 @@ BRAZIL.
    IN AREA WITHIN 15 MILES OF 
    24-10.00S 043-40.00W.
 2. CANCEL THIS MSG 162000Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>091649Z JUL 26
-HYDROLANT 1329/26.
-CELTIC SEA.
-IRELAND.
-RACON AT HOOK HEAD LIGHT 52-07.40N 006-55.80W UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
