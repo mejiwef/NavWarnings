@@ -369,29 +369,6 @@ NORTH PACIFIC.
 2. CANCEL THIS MSG 191000Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>081237Z JUL 26
-HYDROPAC 1954/26.
-ARABIAN SEA.
-INDIA.
-1. FOUR CONTAINERS ADRIFT IN VICINITY 19-40.30N 070-27.60E
-   AT 080546Z JUL.
-2. CANCEL THIS MSG 111237Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>081228Z JUL 26
-HYDROPAC 1953/26.
-GULF OF KHAMBHAT.
-INDIA.
-1. CONTAINER, WHITE COLOR, ADRIFT IN VICINITY 20-08.43N 071-53.14E.
-2. CANCEL THIS MSG 111228Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>080828Z JUL 26

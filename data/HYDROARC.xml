@@ -51,19 +51,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>080839Z JUL 26
-HYDROARC 123/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 080614Z JUL IN: 
-   A. 77-50.10N 105-42.30E.
-   B. 77-21.80N 110-44.80E.
-2. CANCEL THIS MSG 110839Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>030023Z OCT 25
