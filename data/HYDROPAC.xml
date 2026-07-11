@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>110326Z JUL 26
+HYDROPAC 1987/26.
+ARABIAN SEA.
+OMAN.
+1. S/V MEHEBOOB E BUKHARI SANK IN 19-18.30N 057-47.44E.
+2. CANCEL HYDROPAC 1969/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>110205Z JUL 26
@@ -173,16 +183,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>091125Z JUL 26
-HYDROPAC 1969/26.
-ARABIAN SEA.
-OMAN.
-S/V MEHEBOOB E BUKHARI SANK IN 19-18.43N 057-47.75E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
