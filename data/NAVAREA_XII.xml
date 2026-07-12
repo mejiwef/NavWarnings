@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SAR OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121846Z JUL 26
+NAVAREA XII 481/26
+GULF OF PANAMA.
+PANAMA.
+ONE MISSING PERSON IN 08-29.12N 079-40.05W. 
+AS OF 121837Z JUL. SEARCH AND RESCUE OPERATIONS 
+IN VICINITY 08-29.12N 079-40.05W.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.
+REPORTS TO RCC PANAMA,
+EMAIL: GUERINIJA@GMAIL.COM.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120212Z JUL 26

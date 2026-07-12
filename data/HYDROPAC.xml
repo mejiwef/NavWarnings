@@ -559,21 +559,6 @@ ANCHORING PROHIBITED IN AREA BOUND BY
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>021121Z JUL 26
-HYDROPAC 1901/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0130Z TO 1430Z
-   DAILY 04 THRU 12 JUL IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.00N 085-10.01E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 121530Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>011435Z JUL 26
 HYDROPAC 1896/26.
 ARABIAN SEA.
