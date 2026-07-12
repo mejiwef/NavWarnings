@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121245Z JUL 26
+HYDROLANT 1347/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY 
+   13 THRU 27 JUL BY M/V COMANDO B AND M/V EMMY
+   IN 20-22.02S 040-08.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121236Z JUL 26
+HYDROLANT 1346/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   13 THRU 27 JUL BY M/V JAL MURARI 
+   AND M/V COMANDO B
+   IN 20-22.93S 040-06.92W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121042Z JUL 26
+HYDROLANT 1345/261.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-13.80S 052-18.00W.
+   B. A84, 72-16.20S 108-20.40W.
+   C. A85, 66-34.20S 053-41.40W.
+   D. D33A, 64-24.60S 055-25.20W.
+   E. D33C, 63-20.40S 053-12.00W.
+2. CANCEL THIS MSG 131200Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120724Z JUL 26
@@ -77,23 +122,6 @@ ICEBERGS REPORTED IN:
    I. 63-08.00S 052-50.00W.
    J. 59-54.00S 036-14.00W.
 2. CANCEL THIS MSG 121337Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111117Z JUL 26
-HYDROLANT 1338/261.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 61-51.60S 053-15.00W.
-   B. A84, 72-31.20S 108-00.60W.
-   C. A85, 66-03.60S 055-18.00W.
-   D. D33A, 64-19.80S 055-49.20W.
-   E. D33C, 63-33.00S 053-36.00W.
-2. CANCEL THIS MSG 121200Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -214,20 +214,6 @@ EMAIL: EMAIL: HPLES-GMDSS@HPLES.COM.VN.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091055Z JUL 26
-HYDROPAC 1968/26.
-EASTERN INDIA OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 1130Z DAILY
-   11 AND 12 JUL IN AREA BOUND BY
-   09-44.30N 075-59.18E, 09-44.30N 076-04.30E,
-   09-50.30N 076-04.30E, 09-50.30N 075-59.18E.
-2. CANCEL THIS MSG 121230Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091046Z JUL 26
 HYDROPAC 1967/26.
 BAY OF BENGAL.
@@ -615,18 +601,6 @@ IN AREA BOUND BY
 29-01.40N 048-11.42E, 29-01.30N 048-11.46E,
 29-01.04N 048-09.56E, 29-01.26N 048-09.51E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>011208Z JUL 26
-HYDROPAC 1894/26.
-NORTH PACIFIC.
-1. GUNNERY EXERCISES 2200Z TO 0900Z DAILY
-   05 THRU 11 JUL IN AREA WITHIN 25.00 MILES OF 
-   31-14.21N 144-26.80E.
-2. CANCEL THIS MSG 121000Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
