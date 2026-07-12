@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120724Z JUL 26
+HYDROLANT 1344/26.
+SOUTH ATLANTIC. 
+1. SURVEY OPERATIONS 13 THRU 21 JULY BY
+   M/V SEA 1 DORADO IN AREA BOUND BY
+   25-00.98S 042-18.05W, 24-28.65S 042-28.38W,
+   24-52.02S 042-34.48W, 24-52.10S 042-37.92W,
+   24-54.37S 042-44.77W, 24-53.20S 042-47.12W,
+   25-06.47S 042-43.98W, 25-10.82S 042-36.88W,
+   25-05.87S 042-29.85W, 25-05.70S 042-20.97W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 220001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120535Z JUL 26
+HYDROLANT 1343/26.
+SOUTH ATLANTIC.
+1. SURVEY OPERATIONS 13 THRU 19 JUL
+   BY M/V SANCO SPIRIT TOWING SIX 200
+   METER LONG CABLES IN AREA BOUND BY
+   24-34.07S 042-21.37W, 25-06.88S 042-06.27W,
+   25-09.51S 042-13.28W, 25-32.83S 042-25.00W,
+   25-18.28S 042-53.88W, 25-10.33S 042-49.87W,
+   24-48.65S 042-59.73W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 200001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>120048Z JUL 26
