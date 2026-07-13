@@ -3,6 +3,28 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>131323Z JUL 26
+HYDROARC 132/26.
+1. ICEBERG REPORTED IN
+   77-21.70N 110-44.10E
+   AT 131255Z JUL.
+2. CANCEL THIS MSG 161323Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131308Z JUL 26
+HYDROARC 131/26.
+1. ICEBERG REPORTED IN
+   77-27.20N 109-20.00E
+   AT 131042Z JUL.
+2. CANCEL THIS MSG 161308Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>130845Z JUL 26
 HYDROARC 130/26.
 LAPTEV SEA.

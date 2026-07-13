@@ -221,43 +221,6 @@ HAWAII.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>020335Z JUL 26
-NAVAREA XII 464/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   A. 070651Z TO 070812Z JUL, ALTERNATE
-      0651Z TO 0812Z DAILY 08 THRU 13 JUL
-      IN AREA BOUND 
-      34-30.00N 120-45.00W, 34-41.00N 120-40.00W, 
-      34-37.00N 120-29.00W, 33-16.00N 120-45.00W, 
-      31-39.00N 121-12.00W, 31-40.00N 121-16.00W, 
-      33-20.00N 121-02.00W, 34-01.00N 120-54.00W.
-   B. 070651Z TO 070831Z JUL, ALTERNATE
-      0651Z TO 0831Z DAILY 08 THRU 13 JUL
-      IN AREA BOUND BY 
-      30-17.00N 121-36.00W, 29-36.00N 122-02.00W, 
-      28-17.00N 122-21.00W, 26-45.00N 122-22.00W, 
-      28-00.00N 121-20.00W, 30-10.00N 121-27.00W.
-2. CANCEL THIS MSG 130931Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>290835Z JUN 26
-NAVAREA XII 463/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1001Z TO 1130Z DAILY 07 THRU 13 JUL
-   IN AREA BOUND BY
-   42-54.00N 166-58.00W, 42-19.00N 163-50.00W,
-   32-09.00N 167-13.00W, 32-44.00N 169-57.00W.
-2. CANCEL THIS MSG 131230Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>291810Z JUN 26
