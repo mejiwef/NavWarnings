@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>130811Z JUL 26
+HYDROLANT 1350/26.
+SOUTH ATLANTIC.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   162244Z TO 162339Z, 172237Z TO 172332Z, 
+   182229Z TO 182324Z, 192222Z TO 192317Z, 
+   202214Z TO 202309Z, 212207Z TO 212302Z 
+   AND 222159Z TO 222254Z JUL
+   IN AREA BOUND BY
+   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,
+   60-00.00S 022-30.00E, 59-00.00S 010-00.00E.
+2. CANCEL HYDROLANT 1336/26.
+3. CANCEL THIS MSG 222354Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>130106Z JUL 26
@@ -148,21 +167,6 @@ BRAZIL.
    29-04.25S 049-15.43W, 29-04.25S 049-03.56W,
    29-39.90S 049-28.94W, 29-39.90S 049-43.23W.
 2. CANCEL THIS MSG 162300Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110205Z JUL 26
-HYDROLANT 1336/26.
-SOUTH ATLANTIC.
-EASTERN INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2159Z TO 2339Z DAILY 16 THRU 22 JUL
-   IN AREA BOUND BY
-   36-30.00S 017-30.00E, 39-30.00S 027-00.00E,
-   60-00.00S 022-30.00E, 60-00.00S 005-00.00E.
-2. CANCEL THIS MSG 230039Z JUL 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CANCEL MSG</category>
