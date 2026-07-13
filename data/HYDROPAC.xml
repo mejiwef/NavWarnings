@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131456Z JUL 26
+HYDROPAC 2006/26.
+PERSIAN GULF.
+QATAR.
+1. SURVEY AND DEBRIS REMOVAL OPERATIONS
+   14 THRU 23 JUL BY VESSEL HALUL 49 IN: 
+   A. 25-56.54N 052-41.48E.
+   B. 25-53.28N 052-43.65E.
+   C. 25-55.14N 052-42.71E.
+   D. 25-52.17N 052-46.77E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131249Z JUL 26
 HYDROPAC 2005/26.
+BAY OF BENGAL.
+INDIA.
 1. HAZARDOUS OPERATIONS 151930Z TO 191829Z JUL
    IN AREA BOUND BY
    19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
@@ -18,6 +37,8 @@ HYDROPAC 2005/26.
         <status>INFORCE</status>
         <msgText>131145Z JUL 26
 HYDROPAC 2004/26.
+ANDAMAN SEA.
+INDIA.
 1. HAZARDOUS OPERATIONS 0003Z TO 1030Z DAILY
    15 AND 17 JUL IN AREA BOUND BY
    12-50.00N 093-40.00E, 12-50.00N 094-10.00E,
@@ -88,20 +109,6 @@ SOUTH ATLANTIC
    60-00.00S 022-30.00E, 59-00.00S 010-00.00E.
 2. CANCEL HYDROPAC 1986/26.
 3. CANCEL THIS MSG 222354Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130613Z JUL 26
-HYDROPAC 1997/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 131430Z TO 131630Z JUL
-   IN AREA BOUND BY
-   16-54.00N 071-44.00E, 17-04.00N 071-44.00E,
-   17-04.00N 071-54.00E, 16-54.00N 071-54.00E.
-2. CANCEL THIS MSG 131730Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
