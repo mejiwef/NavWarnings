@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121930Z JUL 26
+HYDROARC 128/26
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED AT 121230Z JUL
+   IN 77-44.90N 106-33.20E.
+2. CANCEL THIS MSG 151754Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROARC 127/26.
