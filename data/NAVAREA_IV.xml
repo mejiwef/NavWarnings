@@ -38,7 +38,8 @@ NAVAREA IV 685/26.
    GO TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 150001Z JUL 26.</msgText>
+9. CANCEL THIS MSG 150001Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -49,7 +50,8 @@ HUDSON STRAIT.
 CANADA.
 MCTS IQALUIT REMOTE STATION KILLENEK
 60-25.45N 064-50.50W HF R/T, MF BROADCAST
-AND MF R/T SERVICES OFF AIR.</msgText>
+AND MF R/T SERVICES OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
