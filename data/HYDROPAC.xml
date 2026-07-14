@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>140021Z JUL 26
+HYDROPAC 2007/26.
+PHILIPPINES SEA.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   171000Z TO 171600Z JUL IN AREAS BOUND BY:
+   A. 19-42.00N 118-41.00E, 19-37.00N 120-07.00E,
+      18-59.00N 120-04.00E, 19-04.00N 118-38.00E.
+   B. 19-19.00N 123-26.00E, 19-14.00N 124-26.00E,
+      18-42.00N 124-23.00E, 18-47.00N 123-23.00E.
+   C. 17-28.00N 138-28.00E, 17-00.00N 141-10.00E,
+      16-13.00N 141-00.00E, 16-40.00N 138-20.00E.
+2. CANCEL THIS MSG 171700Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131456Z JUL 26
@@ -59,22 +77,6 @@ INDIA.
    15-27.90N 073-50.60E, 15-27.90N 073-43.75E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>131053Z JUL 26
-HYDROPAC 2002/26.
-SOUTH CHINA SEA.
-VIETNAM.
-1. BARGE BTR 8421 DISABLED AND ADRIFT 
-   IN 10-57.00N 109-30.00E ON 122330Z JUL.
-   VESSELS IN VICINITY REQUESTED TO KEEP 
-   A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 1999/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -212,17 +214,6 @@ INDIAN OCEAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>111639Z JUL 26
-HYDROPAC 1988/261.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. DERELICT VESSEL 3VUS UNMANNED
-   AND ADRIFT IN 02-22.04S 080-25.08E.
-2. CANCEL THIS MSG 140001Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>110326Z JUL 26
@@ -230,14 +221,15 @@ HYDROPAC 1987/26.
 ARABIAN SEA.
 OMAN.
 1. S/V MEHEBOOB E BUKHARI SANK IN 19-18.30N 057-47.44E.
-2. CANCEL HYDROPAC 1969/26.</msgText>
+2. CANCEL HYDROPAC 1969/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROPAC 1983/26.
 1. HYDROPAC WARNINGS IN FORCE AS OF 101500Z JUL.
-    ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
    1982/2026, 1979/2026, 1978/2026, 1977/2026, 1976/2026,
    1975/2026, 1974/2026, 1969/2026, 1968/2026, 1967/2026,
    1966/2026, 1965/2026, 1964/2026, 1963/2026, 1962/2026,
