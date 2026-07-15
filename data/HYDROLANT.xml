@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>150914Z JUL 26
+HYDROLANT 1359/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 16 THRU 30 JUL BY M/V COMANDO B 
+   AND M/V MT GEMMA IN 20-22.68S 040-08.40W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 301900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>150049Z JUL 26
 HYDROLANT 1358/26.
 SOUTH ATLANTIC.
@@ -12,7 +26,8 @@ BRAZIL.
    M/V COMANDO B AND M/V YANGTZE QUANTUM
    IN 20-23.65S 040-11.32W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 241900Z JUL 26.</msgText>
+2. CANCEL THIS MSG 241900Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
