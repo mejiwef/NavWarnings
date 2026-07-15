@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150049Z JUL 26
+HYDROLANT 1358/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   0800Z TO 1800Z DAILY UNTIL 24 JUL BY
+   M/V COMANDO B AND M/V YANGTZE QUANTUM
+   IN 20-23.65S 040-11.32W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 241900Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>141718Z JUL 26
