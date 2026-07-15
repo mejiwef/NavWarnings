@@ -159,19 +159,6 @@ KAMCHATKA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>140318Z JUL 26
-HYDROPAC 2009/26.
-EASTERN SOUTH PACIFIC.
-CHILE.
-1. PUERTO MONTT RADIO 41-28.80S 072-57.70W 
-   OFF AIR.
-2. VALPARAISO RADIO 33-04.70S 071-36.80W
-   WILL TRANSMIT VIA SAFETYNET.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>140021Z JUL 26
@@ -442,23 +429,6 @@ DUE TO TROPICAL STORM BAVI:
 4. CURRENT PORT INFORMATION CAN BE FOUND AT
    HOMEPORT.USCG.MIL USING THE PORT DIRECTORY TAB.
 5. CANCEL HYDROPAC 1947/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100642Z JUL 26
-HYDROPAC 1977/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-1. HAZARDOUS OPERATIONS 2300Z TO 1359Z 
-   DAILY 11 THRU 16 JUL IN AREA BOUND BY
-   17-00.00N 145-04.98E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 14-45.00N 148-00.00E,
-   14-16.00N 146-25.00E, 15-25.00N 146-25.00E,
-   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 171459Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
