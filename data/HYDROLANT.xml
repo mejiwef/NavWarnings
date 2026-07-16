@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160125Z JUL 26
+HYDROLANT 1363/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 200800Z TO 251800Z JUL
+   IN AREA BOUND BY
+   13-20.58S 038-26.33W, 13-20.58S 038-16.30W,
+   13-30.53S 038-16.30W, 13-30.53S 038-26.33W.
+2. CANCEL THIS MSG 251900Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160113Z JUL 26
+HYDROLANT 1362/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 211100Z TO 212100Z JUL
+   IN AREA WITHIN 25 MILES OF 24-45.00S 043-20.00W.
+2. CANCEL THIS MSG 212200Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>151500Z JUL 26
@@ -69,21 +93,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>141718Z JUL 26
-HYDROLANT 1357/26.
-ENGLISH CHANNEL.
-NORTH CHANNEL.
-ENGLAND.
-1. NAVTEX STATION NITON(E)(K) 50-35.18N 001-15.27W 
-   OFF AIR FROM 150700Z TO 151700Z JUL.
-2. NITON BROADCASTS WILL BE TRANSMITTED FROM
-   NAVTEX STATION PORTPATRICK (O) 54-50.63N 005-07.46W.
-3. CANCEL THIS MSG 151800Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADAR JAMMING</category>
         <status>INFORCE</status>
         <msgText>131340Z JUL 26
@@ -116,17 +125,6 @@ INDIAN OCEAN.
    60-00.00S 022-30.00E, 59-00.00S 010-00.00E.
 2. CANCEL HYDROLANT 1336/26.
 3. CANCEL THIS MSG 222354Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>130106Z JUL 26
-HYDROLANT 1349/26
-SOUTH ATLANTIC.
-1. RECTANGULAR OBJECT ADRIFT IN
-   24-37.80S 042-15.90W AT 121130Z JUL.
-2. CANCEL THIS MSG 160032Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
