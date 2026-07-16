@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>161051Z JUL 26
+HYDROLANT 1364/26.
+ENGLISH CHANNEL.
+ENGLAND.
+1. OBJECT ADRIFT IN 50-05.80N 005-30.90W.
+2. CANCEL THIS MSG 191051Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>160125Z JUL 26
@@ -22,7 +32,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. HAZARDOUS OPERATIONS 211100Z TO 212100Z JUL
    IN AREA WITHIN 25 MILES OF 24-45.00S 043-20.00W.
-2. CANCEL THIS MSG 212200Z JUL 26.</msgText>
+2. CANCEL THIS MSG 212200Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -55,11 +66,11 @@ SOUTH ATLANTIC.
 SOUTH PACIFIC.
 ANTARCTICA.
 1. ICEBERGS REPORTED IN: 
-A. A81, 61-13.80S 052-18.00W.
-B. A84, 72-16.20S 108-20.40W.
-C. A85, 66-34.20S 053-41.40W.
-D. D33A, 64-24.60S 055-25.20W.
-E. D33C, 63-20.40S 053-12.00W.
+   A. A81, 61-13.80S 052-18.00W.
+   B. A84, 72-16.20S 108-20.40W.
+   C. A85, 66-34.20S 053-41.40W.
+   D. D33A, 64-24.60S 055-25.20W.
+   E. D33C, 63-20.40S 053-12.00W.
 2. CANCEL THIS MSG 161447Z JUL 26.
 </msgText>
     </smapsActiveEntity>
