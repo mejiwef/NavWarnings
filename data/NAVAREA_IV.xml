@@ -211,18 +211,6 @@ AND MF R/T SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>131651Z JUL 26
-NAVAREA IV 683/26.
-CARIBBEAN SEA.
-DOMINICAN REPUBLIC.
-1. DERELICT VESSEL CAROLINA-IV ADRIFT 
-   IN VICINITY 18-24.00N 069-25.45W.
-2. CANCEL THIS MSG 161651Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>131529Z JUL 26

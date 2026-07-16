@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>VOLCANIC ACTIVITY</category>
+        <status>INFORCE</status>
+        <msgText>161811Z JUL 26
+HYDROPAC 2039/26.
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+1. DISCOLORED WATER WITH INCREASED LIKELIHOOD
+   OF SUBMARINE VOLCANIC ACTIVITY REPORTED
+   IN VICINITY 20-26.00N 145-01.00E AT 160013Z JUL.
+2. CANCEL HYDROPAC 153/24.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>161246Z JUL 26
@@ -12,14 +24,15 @@ RACON AT EAST CAY LIGHT
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
+        <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>161216Z JUL 26
 HYDROPAC 2036/26
 NORTH PACIFIC.
 1. HAZARDOUS OPERATIONS 210400Z TO 211500Z JUL,
    ALTERNATE 240400Z TO 241500Z JUL
-   IN AREA WITHIN SEVEN MILES OF 28-07.00N 143-08.00E.
+   IN AREA WITHIN SEVEN MILES OF
+   28-07.00N 143-08.00E.
 2. CANCEL THIS MSG 241600Z JUL 26.
 </msgText>
     </smapsActiveEntity>
@@ -54,20 +67,6 @@ INDIA.
    19-07.50N 072-47.72E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 150001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151109Z JUL 26
-HYDROPAC 2025/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 161030Z TO 161430Z JUL
-   IN AREA BOUND BY
-   15-21.00N 072-42.00E, 15-21.00N 072-52.00E,
-   15-31.00N 072-52.00E, 15-31.00N 072-42.00E.
-2. CANCEL THIS MSG 161530Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -446,22 +445,6 @@ REQUESTED TO KEEP A SHARP LOOKOUT,
 ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080716Z JUL 26
-HYDROPAC 1961/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 14 THRU 16 JUL IN AREAS WITHIN 
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 161400Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1622,19 +1605,6 @@ PERSIAN GULF.
 KUWAIT.
 DNC 10.
 DANGEROUS WRECK MARKED BY BUOY IN 29-05.49N 048-22.09E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>VOLCANIC ACTIVITY</category>
-        <status>INFORCE</status>
-        <msgText>132348Z JAN 24
-HYDROPAC 153/24(81).
-WESTERN NORTH PACIFIC.
-NORTHERN MARIANA ISLANDS.
-DNC 12.
-DISCOLORED WATER WITH INCREASED LIKELIHOOD
-OF SUBMARINE VOLCANIC ACTIVITY REPORTED
-IN 20-25.00N 145-01.00E AT 132250Z JAN.
 </msgText>
     </smapsActiveEntity>
 </smaps>

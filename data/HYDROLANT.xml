@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161455Z JUL 26
+HYDROLANT 1367/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS DAILY 
+   17 THRU 25 JUL, ALONG TRACKLINE JOINING
+   44-16.23N 028-42.35E, 44-13.95N 028-45.21E,
+   44-11.77N 028-48.81E, 44-09.79N 028-53.70E,
+   44-05.85N 028-53.70E, 44-02.22N 028-53.63E,
+   43-55.24N 028-53.44E, 43-58.98N 028-53.53E,
+   44-03.58N 028-53.66E, 44-09.77N 028-53.70E,
+   44-13.97N 028-50.21E, 44-16.88N 028-47.58E,
+   44-15.63N 028-42.83E.
+2. CANCEL THIS MSG 260001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161146Z JUL 26
+HYDROLANT 1366/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-13.80S 052-18.00W.
+   B. A84, 72-16.20S 108-20.40W.
+   C. A85, 66-34.20S 053-41.40W.
+   D. D33A, 64-24.60S 055-25.20W.
+   E. D33C, 63-20.40S 053-12.00W.
+2. CANCEL THIS MSG 171411Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161351Z JUL 26
+HYDROLANT 1365/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-47.00S 052-10.00W.
+   B. A81, 61-12.00S 053-27.00W.
+   C. A76C, 52-19.00S 031-39.00W.
+   D. D33C, 63-15.00S 052-59.00W.
+   E. A83, 62-38.00S 050-51.00W.
+   F. 62-10.00S 052-51.00W.
+   G. 63-10.00S 052-33.00W.
+   H. 62-53.00S 053-03.00W.
+   I. 62-29.00S 052-52.00W.
+   J. 59-56.00S 035-38.00W.
+2. CANCEL THIS MSG 171351Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>161051Z JUL 26
@@ -36,45 +94,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151500Z JUL 26
-HYDROLANT 1361/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 62-06.00S 053-08.00W.
-   B. A81, 61-14.00S 052-54.00W.
-   C. A76C, 52-29.00S 031-43.00W.
-   D. D33C, 63-18.00S 053-00.00W.
-   E. A83, 62-43.00S 050-52.00W.
-   F. 62-18.00S 052-57.00W.
-   G. 63-12.00S 052-45.00W.
-   H. 63-01.00S 052-55.00W.
-   I. 62-38.00S 053-01.00W.
-   J. 59-56.00S 035-38.00W.
-2. CANCEL THIS MSG 161500Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151447Z JUL 26
-HYDROLANT 1360/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 61-13.80S 052-18.00W.
-   B. A84, 72-16.20S 108-20.40W.
-   C. A85, 66-34.20S 053-41.40W.
-   D. D33A, 64-24.60S 055-25.20W.
-   E. D33C, 63-20.40S 053-12.00W.
-2. CANCEL THIS MSG 161447Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150914Z JUL 26
@@ -101,22 +120,6 @@ BRAZIL.
    IN 20-23.65S 040-11.32W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 241900Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADAR JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>131340Z JUL 26
-HYDROLANT 1351/26.
-CELTIC SEA.
-ENGLISH CHANNEL.
-ENGLAND.
-1. RADAR JAMMING EXERCISES 0800Z TO 1700Z
-   DAILY 14 THRU 16 JUL IN AREA BOUND BY
-   49-50.00N 007-00.00W, 50-04.00N 005-44.00W,
-   50-36.00N 001-56.00W, 50-00.00N 001-57.00W,
-   49-13.00N 006-15.00W.
-2. CANCEL THIS MSG 161800Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -341,20 +344,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071326Z JUL 26
-HYDROLANT 1316/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1500Z 
-   DAILY 15 AND 16 JUL IN AREA BOUND BY
-   43-55.00N 028-51.00E, 43-55.00N 029-08.00E,
-   43-47.50N 029-08.00E, 43-47.50N 028-51.00E.
-2. CANCEL THIS MSG 161600Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041950Z JUL 26
@@ -417,22 +406,6 @@ METER LONG CABLES IN AREA BOUND BY
 60-57.70N 002-42.70E, 60-57.70N 001-52.30E.
 THREE MILE BERTH REQUESTED.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031416Z JUL 26
-HYDROLANT 1296/26.
-ROMANIA.
-BLACK SEA.
-1. HAZARDOUS OPERATIONS 0500Z TO 1500Z
-   DAILY 08 THRU 11 AND 13 THRU 16 JUL 
-   IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
-   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
-   44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 161600Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
