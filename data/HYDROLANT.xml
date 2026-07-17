@@ -218,20 +218,6 @@ BRAZIL
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110224Z JUL 26
-HYDROLANT 1337/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 150200Z TO 162200Z JUL
-   IN AREA BOUND BY
-   29-04.25S 049-15.43W, 29-04.25S 049-03.56W,
-   29-39.90S 049-28.94W, 29-39.90S 049-43.23W.
-2. CANCEL THIS MSG 162300Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>HYDROLANT 1333/26.
@@ -267,19 +253,6 @@ BRAZIL.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>100917Z JUL 26
-HYDROLANT 1330/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 151400Z TO 161900Z JUL
-   IN AREA WITHIN 15 MILES OF 
-   24-10.00S 043-40.00W.
-2. CANCEL THIS MSG 162000Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>090556Z JUL 26
 HYDROLANT 1325/26.
 SOUTH ATLANTIC.
@@ -300,20 +273,6 @@ BRAZIL.
 1. HAZARDOUS OPERATIONS 140700Z TO 170300Z JUL
    IN AREA WITHIN 20 MILES OF 24-10.00S 042-13.00W.
 2. CANCEL THIS MSG 170400Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090137Z JUL 26
-HYDROLANT 1323/26
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 140700Z TO 162200Z JUL
-   IN AREA BOUND BY
-   24-20.00S 040-32.00W, 24-30.00S 040-03.00W,
-   25-34.00S 039-00.00W, 26-50.00S 040-25.00W,
-   25-37.00S 041-57.00W, 25-26.00S 041-58.00W.
-2. CANCEL THIS MSG 162300Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -100,24 +100,6 @@ TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>091736Z JUL 26
-HYDROARC 124/26.
-BARRENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   112100Z TO 162100Z JUL IN AREAS BOUND BY:
-   A. 70-13.00N 045-43.00E, 70-02.00N 047-12.00E,
-      68-49.00N 045-50.00E, 69-00.00N 044-27.00E.
-   B. 77-52.00N 061-55.00E, 77-37.00N 063-39.00E,
-      76-39.00N 060-30.00E, 76-56.00N 058-52.00E.
-   C. 69-17.00N 051-14.00E, 69-01.00N 052-02.00E,
-      68-19.00N 050-27.00E, 68-33.00N 049-48.00E.
-2. CANCEL THIS MSG 162200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>030023Z OCT 25
