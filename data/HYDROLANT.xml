@@ -1,256 +1,1350 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="theme-color" content="#000000">
-        <link rel="shortcut icon" href="apology_objects/favicon.ico">
-        <link rel="stylesheet" href="apology_objects/bootstrap.min.css" />
-        <link rel="stylesheet" href="apology_objects/apology.css">
-
-        <!-- Ecobar Script... **IMPORTANT** FOR LOCAL: HTTP   FOR CLOUD: HTTPS -->
-        <script>
-        //set classification of page
-        window.classification = "unclassified";
-        </script>
-        <script src="https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js" defer></script>
-        <title>Maritime Safety Information</title>
-    
-                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gs6mm2qxzvvve2s2ghhq-f-5d9e5ee51-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"4a519d9d","ak.r":41279,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":16440,"ak.gh":"23.218.223.85","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1784295887","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==aUJf3MEhklCKeA17HRPTCQ/h1YSfq1ob8r9ra4UKft4KBzfTZMSJ+GTlnzm5Xap7zQBlIQAgoBW8WHMeFM+/jH9iyuZ+090QOLjtxNOTgevnkT4d3n9bOJeImn69gR0jksytF90kOIPIm2Dbnw42WC0AZWbqCQPTVnS2mW3XD5AKmYWdu3fOhqsU1RKG/Lsjs1hWa1UyKCINX2WRf8GCf0d78B8YTPLZDZ1Fxzd4uKlj8zM/ZQrrtsGpf3P9Y4utBiDKkWgEd7tRbz4Ps8Pk3Vogf73wErmlx2PQQQ5pnAXq7HWyrBJvuDWvP9ZjqIPfKHE1p7y/MWUCkse8k1X8S7qFgK0PC2mWL7SRhIKW6ZMNT/rfTsFX9uWSFmccEQ2Dv+3EmraawdTa55z8spzAPGgNpv82egPkzJJvCH5pZQ0=","ak.pv":"101","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "d33a56a5e0bf7c1bf582122aad5e7b06"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "d33a56a5e0bf7c1bf582122aad5e7b06"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head>
-    <body>
-        <noscript>
-            You need to enable JavaScript to run this app.
-        </noscript>
-        <!--[if lt IE 9]>
-            This application does not support this version of Internet Explorer, please update to IE 9 or later.
-        <![endif]-->
-        <div id="root" class="app">
-            <section class="nav-panel">
-                <h2 class="page-title">Maritime Safety Information</h3>
-            </section>
-
-            <div class="homebkg">
-                <div class="container">
-                    <div class="row"><br /><br /></div>
-                    <div class="row">
-                        <div class="col-md-8 mb10">
-                            <div class="gray-light-box">
-                                <h3>MSI IS CURRENTLY UNDER MAINTENANCE</h3><br/>
-                                <h3><b>Announcement</b></h3>
-                                <p class="pl10 pr10 center">The Maritime Safety Information (MSI) Portal is currently unavailable. 
-                                    Please take advantage of the helpful resources linked here.<br/> MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/></p>
-                                <br /><br />
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="gray-light-box">
-                                <b>Helpful Links</b><br /><br />
-                                <b>Latest Notice to Mariners</b><br /><br />
-                                <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
-                                
-                                                                
-                                                                                              
-                                                                                                                                                         
-                                                               
-                                                                                                                              
-                                                                                                                         
-                                                                                                                                                     
-                                                                                              
-                                
-                                                                                        
-                                                                                                                             
-                                
-                                 
-                                      
-                                     
-                                      
-                                    
-                                     
-                                     
-                                
-                                  
-				
-				
-							
-				
-				
-				
-				
-								
-
-				
-				
-				<a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br /><br />
-											
-                                                            <b> Latest Navigational Warnings<br/><br />
-                                <ul class="bullets left-align ml15">
-                                    <li><a href="apology_objects/DailyMemIV.txt" target="_blank" rel="noopener noreferrer">NAVAREA IV</a></li>
-                                    <li><a href="apology_objects/DailyMemXII.txt" target="_blank" rel="noopener noreferrer">NAVAREA XII</a></li> 
-                                    <li><a href="apology_objects/DailyMemLAN.txt" target="_blank" rel="noopener noreferrer">HYDROLANT</a></li>
-                                    <li><a href="apology_objects/DailyMemPAC.txt" target="_blank" rel="noopener noreferrer">HYDROPAC</a></li> 
-                                    <li><a href="apology_objects/DailyMemARC.txt" target="_blank" rel="noopener noreferrer">HYDROARC</a></li>
-                                </ul>
-                            </div>
-                        </div>                         
-                    <div class="col-md-4">
-                            <div class="gray-light-box">
-				 <b>AMERICAN PRACTICAL NAVIGATOR</b><br /><br />
-				 <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 1(PDF)</a><br />
-				<a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 2 (PDF)</a><br /><br />
-				 </ul>
-                            </div>
-                        </div>                       
-                    <div class="col-md-4">
-			<div class="gray-light-box">
-				<b>SAILING DIRECTIONS PLANNING GUIDES</b><br /><br />
-				<a href="apology_objects/Pub120bk.pdf" target="_blank" class="btn btn-home">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
-				<a href="apology_objects/Pub140bk.pdf" target="_blank" class="btn btn-home">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
-				<a href="apology_objects/Pub160bk.pdf" target="_blank" class="btn btn-home">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
-				
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row"><br /><br /></div>
-                </div>
-            </div>
-
-            <div id="bottom">
-                
-                <div class="classificationblock">
-                    <div  id="classification">
-                        Dynamic content classified up to UNCLASSIFIED
-                    </div>
-                </div>    
-            </div>
-        </div>
-        <script>
-        window.onload = () => {
-            var ecobarLocalConfig = {
-                "app_id": "MSI174XUT18B8",
-                "network": {
-                    "trackAnalytics" : "false",
-                    "classification": window.classification
-                },
-                "ui": {
-                    "zIndex": "0",    
-                    "hideClassificationWarning": "true",
-                    "hideClassification": "false",
-                    "hideFooter": "true",
-                    "appendFooterToSelector": "#bottom",
-                    "siteContentSelector": "#root"
-                }
-            };
-
-            window.ecobarApp && ecobarApp.init(ecobarLocalConfig);
-        };
-        </script>
-        <!-- Matomo (Geoint App Store + TFII) -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      pushData(window.location.href);
-      document.addEventListener('click', callback);
-
-      function callback(e) {
-        var e = window.e || e;
-        if (e.target.tagName !== 'A'){
-          //not a link
-          return;
-        }
-        pushData(event.target.href);
-        return;
-      }
-
-      function pushData(href) {
-        if(window.classification === "unclassified" || window.classification === "unclassified//limdis") {
-          //don't track clicks that aren't a page navigation.
-          if(href === ""){
-            return;
-          }
-          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-          _paq.push(['setCustomUrl', href]);
-          _paq.push(['setReferrerUrl', window.location.href]);
-          
-          //set user id for tracking specific users on nipr (and eventually SC/TC)
-          var persist = window.localStorage.getItem("reduxPersist:userReducer");
-          if(persist){
-            var email = JSON.parse(persist).userEmail;
-            _paq.push(['setUserId', email]);
-          }
-          _paq.push(['trackPageView']);
-          _paq.push(['enableLinkTracking']);
-          _paq.push(['setDocumentTitle', window.location.href]);
-
-          (function() {
-            //set url, siteId based on location          
-            var u="//gasmetrics.nga.mil/piwik/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '297']);
-
-            var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
-            var secondarySiteId = null;
-            if(window.location.hostname === "msi.nga.mil" || window.location.hostname === "msi.gs.mil"){
-              secondarySiteId = 24;
-              _paq.push(["setCookieDomain", "*.msi.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            } else if (window.location.hostname === "msi.geo.nga.mil"){
-              secondarySiteId = 45
-              _paq.push(["setCookieDomain", "*.msi.geo.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            }
-
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-          })();
-        }
-      };
-    </script>
-        <!-- End Matomo Code -->
-    </body>
-</html>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<smaps>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>171631Z JUL 26
+HYDROLANT 1376/26.
+1. HYDROLANT WARNINGS IN FORCE AS OF 171631Z JUL.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   1375/2026, 1374/2026, 1373/2026, 1372/2026, 1371/2026,
+   1370/2026, 1368/2026, 1367/2026, 1364/2026, 1363/2026,
+   1362/2026, 1359/2026, 1358/2026, 1350/2026, 1347/2026,
+   1346/2026, 1344/2026, 1343/2026, 1341/2026, 1322/2026,
+   1318/2026, 1303/2026, 1299/2026, 1297/2026, 1294/2026,
+   1280/2026, 1279/2026, 1274/2026, 1258/2026, 1235/2026,
+   1225/2026, 1209/2026, 1175/2026, 1160/2026, 1151/2026,
+   1125/2026, 1086/2026, 1021/2026, 986/2026, 985/2026,
+   942/2026, 906/2026, 900/2026, 882/2026, 843/2026, 810/2026,
+   809/2026, 746/2026, 657/2026, 638/2026, 636/2026, 628/2026,
+   627/2026, 603/2026, 585/2026, 582/2026, 492/2026, 453/2026,
+   434/2026, 397/2026, 289/2026, 238/2026, 237/2026, 236/2026.
+   2243/2025, 2010/2025, 1668/2025, 1273/2025, 1213/2025,
+   1204/2025, 915/2025, 361/2025, 87/2025.
+   2607/2024, 2306/2024, 2088/2024, 2005/2024, 682/2024.
+   2452/2023, 2017/2023.
+   838/2022, 564/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROLANT
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROLANT 1286/26, 1333/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171602Z JUL 26
+HYDROLANT 1375/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   18 JUL THRU 01 AUG M/V COMANDO B IN
+   20-19.82S 040-02.35W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 011900Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171549Z JUL 26
+HYDROLANT 1374/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 20 JUL BY
+   M/V DRS IPANEMA, M/V M. AVEIRO, M/V THOR
+   FREYJA AND M/V RAMFORM TETHYS TOWING
+   12 11500 METER LONG CABLES IN AREA BOUND BY
+   33-06.57S 050-28.96W, 32-20.55S 050-13.69W,
+   31-31.38S 049-50.22W, 31-17.96S 049-36.59W,
+   30-54.78S 049-13.44W, 30-58.21S 049-08.62W,
+   31-07.60S 048-55.35W, 31-18.24S 048-40.23W,
+   31-39.28S 048-10.04W, 31-39.31S 048-10.00W,
+   31-46.29S 048-00.00W, 31-47.58S 047-58.15W,
+   31-51.06S 047-53.17W, 32-03.81S 047-34.80W,
+   32-30.79S 046-56.58W, 33-16.66S 047-35.41W,
+   33-41.01S 048-00.00W, 34-23.44S 048-42.86W,
+   34-35.98S 048-55.78W, 35-40.81S 050-04.03W,
+   35-42.83S 050-06.20W, 35-44.87S 050-08.40W,
+   34-38.48S 051-57.67W, 34-37.45S 051-59.33W,
+   34-35.92S 051-57.65W, 34-17.50S 051-37.52W,
+   34-16.76S 051-37.44W, 34-16.05S 051-37.35W,
+   34-11.12S 051-36.78W, 33-36.66S 050-50.74W,
+   33-39.62S 051-03.56W, 33-21.16S 050-33.95W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171432Z JUL 26
+HYDROLANT 1373/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-47.00S 052-10.00W.
+   B. A81, 61-12.00S 053-27.00W.
+   C. A76C, 52-19.00S 031-39.00W.
+   D. D33C, 63-15.00S 052-59.00W.
+   E. A83, 62-38.00S 050-51.00W.
+   F. D35, 61-54.00S 044-34.00W.
+   G. 62-10.00S 052-51.00W.
+   H. 63-10.00S 052-33.00W.
+   I. 62-53.00S 053-03.00W.
+   J. 62-29.00S 052-52.00W.
+   K. 59-57.00S 035-41.00W.
+2. CANCEL THIS MSG 181432Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>171419Z JUL 26
+HYDROLANT 1372/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-13.80S 052-18.00W.
+   B. A84, 72-16.20S 108-20.40W.
+   C. A85, 66-34.20S 053-41.40W.
+   D. D33A, 64-24.60S 055-25.20W.
+   E. D33C, 63-20.40S 053-12.00W.
+2. CANCEL THIS MSG 181419Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>171238Z JUL 26
+HYDROLANT 1371/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. BUOY ADRIFT IN 27-42.69S 047-20.10W AT
+   161900Z JUL.
+2. CANCEL THIS MSG 201238Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>170628Z JUL 26
+HYDROLANT 1370/26
+CELTIC SEA.
+FRANCE.
+POINTE DE CREACH LIGHT 48-27.55N 005-07.74W
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151206Z JUL 26
+HYDROLANT 1368/26
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1300Z
+   DAILY 22 THRU 24 AND 27 JUL
+   IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.81E,
+   44-14.56N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.41E.
+2. CANCEL THIS MSG 271400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161455Z JUL 26
+HYDROLANT 1367/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 17 THRU 25 JUL
+   ALONG TRACKLINE JOINING
+   44-16.23N 028-42.35E, 44-13.95N 028-45.21E,
+   44-11.77N 028-48.81E, 44-09.79N 028-53.70E,
+   44-05.85N 028-53.70E, 44-02.22N 028-53.63E,
+   43-55.24N 028-53.44E, 43-58.98N 028-53.53E,
+   44-03.58N 028-53.66E, 44-09.77N 028-53.70E,
+   44-13.97N 028-50.21E, 44-16.88N 028-47.58E,
+   44-15.63N 028-42.83E.
+2. CANCEL THIS MSG 260001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>161051Z JUL 26
+HYDROLANT 1364/26.
+ENGLISH CHANNEL.
+ENGLAND.
+1. OBJECT ADRIFT IN 50-05.80N 005-30.90W.
+2. CANCEL THIS MSG 191051Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160125Z JUL 26
+HYDROLANT 1363/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 200800Z TO 251800Z JUL
+   IN AREA BOUND BY
+   13-20.58S 038-26.33W, 13-20.58S 038-16.30W,
+   13-30.53S 038-16.30W, 13-30.53S 038-26.33W.
+2. CANCEL THIS MSG 251900Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160113Z JUL 26
+HYDROLANT 1362/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 211100Z TO 212100Z JUL
+   IN AREA WITHIN 25 MILES OF 24-45.00S 043-20.00W.
+2. CANCEL THIS MSG 212200Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150914Z JUL 26
+HYDROLANT 1359/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 16 THRU 30 JUL BY M/V COMANDO B 
+   AND M/V MT GEMMA IN 20-22.68S 040-08.40W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 301900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150049Z JUL 26
+HYDROLANT 1358/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   0800Z TO 1800Z DAILY UNTIL 24 JUL BY
+   M/V COMANDO B AND M/V YANGTZE QUANTUM
+   IN 20-23.65S 040-11.32W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 241900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>130811Z JUL 26
+HYDROLANT 1350/26.
+SOUTH ATLANTIC.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   162244Z TO 162339Z, 172237Z TO 172332Z, 
+   182229Z TO 182324Z, 192222Z TO 192317Z, 
+   202214Z TO 202309Z, 212207Z TO 212302Z 
+   AND 222159Z TO 222254Z JUL
+   IN AREA BOUND BY
+   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,
+   60-00.00S 022-30.00E, 59-00.00S 010-00.00E.
+2. CANCEL HYDROLANT 1336/26.
+3. CANCEL THIS MSG 222354Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121245Z JUL 26
+HYDROLANT 1347/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY 
+   13 THRU 27 JUL BY M/V COMANDO B AND M/V EMMY
+   IN 20-22.02S 040-08.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121236Z JUL 26
+HYDROLANT 1346/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   13 THRU 27 JUL BY M/V JAL MURARI AND
+   M/V COMANDO B IN 20-22.93S 040-06.92W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120724Z JUL 26
+HYDROLANT 1344/26.
+SOUTH ATLANTIC. 
+1. SURVEY OPERATIONS 13 THRU 21 JULY BY
+   M/V SEA 1 DORADO IN AREA BOUND BY
+   25-00.98S 042-18.05W, 24-28.65S 042-28.38W,
+   24-52.02S 042-34.48W, 24-52.10S 042-37.92W,
+   24-54.37S 042-44.77W, 24-53.20S 042-47.12W,
+   25-06.47S 042-43.98W, 25-10.82S 042-36.88W,
+   25-05.87S 042-29.85W, 25-05.70S 042-20.97W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 220001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120535Z JUL 26
+HYDROLANT 1343/26.
+SOUTH ATLANTIC.
+1. SURVEY OPERATIONS 13 THRU 19 JUL
+   BY M/V SANCO SPIRIT TOWING SIX 200
+   METER LONG CABLES IN AREA BOUND BY
+   24-34.07S 042-21.37W, 25-06.88S 042-06.27W,
+   25-09.51S 042-13.28W, 25-32.83S 042-25.00W,
+   25-18.28S 042-53.88W, 25-10.33S 042-49.87W,
+   24-48.65S 042-59.73W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 200001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111258Z JUL 26
+HYDROLANT 1341/261.
+SOUTH ATLANTIC
+BRAZIL
+1. HAZARDOUS OPERATIONS 0900Z TO 2100Z DAILY
+   16 THRU 25 JUL IN AREA BOUND BY
+   23-27.03S 043-52.03W, 23-30.03S 043-50.03W,
+   24-08.03S 044-35.03W, 23-45.03S 044-44.03W.
+2. CANCEL THIS MSG 252200Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>082222Z JUL 26
+HYDROLANT 1322/26.
+NORTH ATLANTIC.
+AZORES.
+1. STATION SAO MIGUEL CENCOMARACORES
+   37-48.00N 025-33.00W MF AND HF VOICE AND DSC
+   SERVICES OFF AIR.
+2. CANCEL HYDROLANT 1254/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>080130Z JUL 26
+HYDROLANT 1318/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   200300Z JUL BY M/V SISTAC VITORIA 
+   IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 200400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041323Z JUL 26
+HYDROLANT 1303/26.
+NORTH SEA.
+NORWAY.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V AMAZON CONQUEROR TOWING 8 3700
+METER LONG CABLES IN AREA BOUND BY
+59-57.60N 000-51.70E, 59-38.90N 001-51.60E,
+59-11.20N 001-17.80E, 59-29.60N 000-18.40E.
+FOUR MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040128Z JUL 26
+HYDROLANT 1299/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. CABLE OPERATIONS 05 JUL THRU 11 AUG
+   BY CABLESHIP RECORDER ALONG TRACKLINE JOINING
+   31-51.83S 048-02.95W, 31-50.38S 048-02.78W,
+   30-48.00S 049-14.33W, 30-29.52S 049-43.68W,
+   30-16.47S 050-08.78W, 30-14.83S 050-13.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031505Z JUL 26
+HYDROLANT 1297/26.
+NORTH SEA.
+NORWAY.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V RAMFORM ATLAS TOWING 17 3600
+METER LONG CABLES IN AREA BOUND BY
+61-18.30N 001-48.00E, 61-18.20N 002-46.80E,
+60-57.70N 002-42.70E, 60-57.70N 001-52.30E.
+THREE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031047Z JUL 26
+HYDROLANT 1294/26.
+SOUTH ATLANTIC.
+ANGOLA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V RAMFORM VICTORY
+   TOWING 12 THREE MILE LONG CABLES
+   IN AREA BOUND BY
+   06-39.50S 010-47.50E, 06-39.50S 011-27.00E,
+   05-54.00S 011-30.00E, 05-54.00S 010-46.50E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1288/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>301518Z JUN 26
+HYDROLANT 1280/26.
+ENGLISH CHANNEL.
+ENGLAND.
+SUBSURFACE EXERCISE MINES ESTABLISHED IN:
+A. 50-37.00N 002-23.50W.
+B. 50-36.90N 002-23.70W.
+C. 50-36.80N 002-23.80W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>301327Z JUN 26
+HYDROLANT 1279/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 62-24.00S 054-12.00W.
+   B. A84, 72-21.00S 108-36.00W.
+   C. A85, 66-13.20S 055-30.60W.
+   D. D33A, 64-10.20S 055-47.40W.
+   E. D33C, 63-37.80S 054-12.60W.
+2. CANCEL THIS MSG 011327Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>291654Z JUN 26
+HYDROLANT 1274/26.
+NORTH SEA.
+SCOTLAND.
+1. MF R/T AND DSC SERVICES OFF AIR:
+   A. BAWDSEY 51-59.60N 001-24.50E.
+   B. CULLERCOATS 55-04.40N 001-27.80W.
+   C. GREGNESS 57-07.70N 002-03.20W.
+2. CANCEL HYDROLANT 1259/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>270101Z JUN 26
+HYDROLANT 1258/26
+SOUTH ATLANTIC.
+BRAZIL. 
+1. ODAS BUOY TEMPORARILY ESTABLISHED IN 
+   32-14.29S 051-58.16W.
+2. CANCEL THIS MSG 232200Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251022Z JUN 26
+HYDROLANT 1235/26.
+WESTERN MEDITERRANEAN SEA.
+SPAIN.
+1. HAZARDOUS OPERATIONS 290001Z TO 302359Z OCT 
+   IN AREA BOUND BY
+   38-30.60N 000-30.80E, 38-35.50N 000-46.40E,
+   38-35.50N 001-06.60E, 38-13.00N 001-51.40E,
+   37-43.60N 002-07.35E, 36-55.25N 000-06.05E,
+   37-52.25N 000-06.55E.
+2. CANCEL THIS MSG 310100Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232024Z JUN 26
+HYDROLANT 1225/26.
+1. SURVEY OPERATIONS 25 JUN THRU 30 JUL
+   BY M/V MARION DUFRESNE IN AREA BOUND BY
+   35-00.00S 007-00.00E, 42-00.00S 010-00.00E,
+   39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220006Z JUN 26
+HYDROLANT 1209/26.
+IONIAN SEA.
+EASTERN MEDITERRANEAN SEA.
+GREECE.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 29 JUL
+   BY M/V SARMIENTO DE GAMBOA
+   IN AREA BOUND BY
+   39-21.76N 020-11.75E, 39-23.47N 019-10.37E,
+   36-54.55N 018-26.63E, 35-40.61N 019-11.55E,
+   34-42.81N 021-58.54E, 36-37.11N 022-19.68E.
+   THREE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 300001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>181314Z JUN 26
+HYDROLANT 1175/26.
+NORTH MINCH.
+SEA OF THE HEBRIDES.
+SCOTTLAND.
+1. BUTT OF LEWIS 58-27.70N 006-13.90W MF R/T AND
+   DSC SERVICES OFF AIR.
+2. TIREE 56-30.20N 006-57.80W MF DCS SERVICES
+   OFF AIR.
+3. CANCEL HYDROLANT 1172/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170144Z JUN 26
+HYDROLANT 1160/26.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   140001Z NOV BY M/V FUGRO VAQUITA
+   IN AREA BOUND BY
+   22-03.00S 037-06.48W, 20-27.24S 040-20.52W,
+   22-59.46S 042-00.84W, 25-55.32S 040-11.58W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1157/26.
+3. CANCEL THIS MSG 150001Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>152144Z JUN 26
+HYDROLANT 1151/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA GROSSA LIGHT 23-46.60S 045-13.84W
+   UNLIT UNTIL 12 DEC.
+2. CANCEL THIS MSG 130001Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111505Z JUN 26
+HYDROLANT 1125/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. CABLE OPERATIONS 15 JUN THRU 30 NOV
+   BY CABLESHIP TELIRI ALONG TRACKLINE JOINING 
+   27-56.75N 012-56.00W, 27-57.35N 012-56.85W, 
+   27-59.75N 012-58.00W, 28-07.85N 013-24.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041445Z JUN 26
+HYDROLANT 1086/26.
+BLACK SEA.
+TURKEY.
+1. PIPELINE OPERATIONS 05 JUN THRU 07 OCT 
+   BY M/V ORUC REIS, M/V MUKAVEMET, M/V ZAGANOS PASA, 
+   M/V DENAR EXPLORER, M/V ATAMAN, M/V DENAR PATHFINDER 
+   AND M/V DENAR SURVEYOR IN AREA BOUND BY
+   41-32.48N 031-56.63E, 41-37.27N 031-44.43E,
+   41-54.04N 031-31.98E, 42-45.44N 031-10.79E,
+   42-43.32N 030-45.37E, 42-30.76N 030-45.58E,
+   42-30.30N 030-24.30E, 42-39.61N 030-14.64E,
+   42-47.80N 030-34.44E, 42-49.30N 030-36.69E,
+   42-56.74N 030-45.54E, 43-07.31N 031-09.44E,
+   43-09.03N 031-38.13E, 43-04.17N 031-44.69E,
+   42-57.10N 031-31.46E, 41-58.78N 031-37.39E,
+   41-36.20N 032-06.45E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 080001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271305Z MAY 26
+HYDROLANT 1021/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   312200Z AUG IN AREA BOUND BY
+   21-36.17S 041-00.00W, 21-36.05S 040-37.59W,
+   22-04.02S 040-37.17W, 22-04.37S 041-00.41W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 312300Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>211425Z MAY 26
+HYDROLANT 986/26.
+GULF OF GUINEA.
+NIGERIA.
+DANGEROUS WRECK IN 04-18.50N 007-02.20E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210939Z MAY 26
+HYDROLANT 985/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL 312300Z AUG BY M/V FUGRO VAQUITA
+   IN AREA BOUND BY
+   21-35.43S 041-00.17W, 21-35.48S 040-37.73W,
+   22-19.78S 040-37.63W, 22-19.88S 041-00.32W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>130327Z MAY 26
+HYDROLANT 942/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY ESTABLISHED IN 
+   05-09.46S 035-09.81W.
+2. CANCEL THIS MSG 080001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>080631Z MAY 26
+HYDROLANT 906/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY BRAVO RN-L TEMPORARILY
+   ESTABLISHED UNTIL 20 OCT
+   IN 04-53.00S 035-46.01W.
+2. CANCEL THIS MSG 210001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>070125Z MAY 26
+HYDROLANT 900/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. TAMANDARE LIGHT 08-45.57S 035-06.08W
+   UNLIT UNTIL 02 NOV.
+2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>040844Z MAY 26
+HYDROLANT 882/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. MACEIO LIGHT 09-41.03S 035-43.38W 
+   UNLIT UNTIL 31 OCT.
+2. CANCEL THIS MSG 010001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290039Z APR 26
+HYDROLANT 843/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA DE MUCURIPE LIGHT 03-43.58S 038-28.30W 
+   UNLIT UNTIL 25 OCT.
+2. CANCEL HYDROLANT 827/26.
+3. CANCEL THIS MSG 260001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>230129Z APR 26
+HYDROLANT 810/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. YELLOW ODAS BUOY ESTABLISHED IN
+   17-58.12S 038-41.48W UNTIL 19 OCT.
+2. CANCEL THIS MSG 200001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>230121Z APR 26
+HYDROLANT 809/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY TEMPORARILY ESTABLISHED IN
+   32-32.46S 052-06.03W UNTIL 31 DEC 27.
+2. CANCEL HYDROLANT 1946/25.
+3. CANCEL THIS MSG 010001Z JAN 28.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>140928Z APR 26
+HYDROLANT 746/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY TEMPORARILY ESTABLISHED
+   UNTIL 13 APR 27 IN 21-34.20S 040-43.62W.
+2. CANCEL THIS MSG 140001Z APR 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>020033Z APR 26
+HYDROLANT 657/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. RACON AT CABO SAO TOME LIGHT
+   22-02.52S 041-03.17W OFF AIR UNTIL 28 SEP.
+2. CANCEL HYDROLANT 1667/25.
+3. CANCEL THIS MSG 290001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>310105Z MAR 26
+HYDROLANT 638/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA DOS MEROS LIGHT 23-13.57S 044-20.83W
+   UNLIT UNTIL 26 SEP.
+2. CANCEL HYDROLANT 635/26.
+3. CANCEL THIS MSG 270001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>310030Z MAR 26
+HYDROLANT 636/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ILHA DO TOQUE-TOQUE LIGHT 23-51.34S 045-31.50W
+   UNLIT UNTIL 26 SEP.
+2. CANCEL THIS MSG 270001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>300928Z MAR 26
+HYDROLANT 628/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY ESTABLISHED IN 24-06.36S 045-38.78W.
+2. CANCEL THIS MSG 250001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>300921Z MAR 26
+HYDROLANT 627/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. LAJE DA CONCEICAO LIGHT 24-14.18S 046-41.46W
+   UNLIT UNTIL 24 SEP.
+2. CANCEL THIS MSG 250001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251613Z MAR 26
+HYDROLANT 603/26.
+BLACK SEA.
+ROMANIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   31 JULY BY M/V MS BOAT SEA 555 AND 
+   M/V MS BOAT S 610 WT IN AREA BOUND BY
+   44-06.09N 028-40.53E, 44-06.08N 028-41.04E,
+   44-05.63N 028-41.02E, 44-05.63N 028-40.52E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>231913Z MAR 26
+HYDROLANT 585/26.
+NORTH ATLANTIC.
+1. PAP ODAS BUOY RELOCATED TO 48-56.30N 016-22.50W.
+2. CANCEL HYDROLANT 579/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FOUL GROUND</category>
+        <status>INFORCE</status>
+        <msgText>231040Z MAR 26
+HYDROLANT 582/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. FOUL GROUND UNTIL 06 DEC 27
+   IN AREA BOUND BY
+   19-53.87S 039-59.68W, 19-54.15S 039-59.27W,
+   19-53.08S 039-58.45W, 19-52.80S 039-58.88W.
+2. CANCEL THIS MSG 070001Z DEC 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>130047Z MAR 26
+HYDROLANT 492/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. BARRA DE ITABAPOANA LIGHT 21-18.80S 040-57.90W 
+   UNLIT UNTIL 08 SEP 26.
+2. CANCEL HYDROLANT 1547/25.
+3. CANCEL THIS MSG 090001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>070119Z MAR 26
+HYDROLANT 453/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. CAETE LIGHT 00-49.02S 046-36.86W DESTROYED.
+2. CANCEL THIS MSG 030001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050048Z MAR 26
+HYDROLANT 434/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
+   UNLIT UNTIL 31 AUG.
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>270057Z FEB 26
+HYDROLANT 397/26(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. SCIENTIFIC BOUY, YELLOW, FL Y 20 SEC
+   ESTABLISHED IN 27-24.38S 047-15.92W.
+   UNTIL 25 AUG.
+2. CANCEL THIS MSG 260001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>101706Z FEB 26
+HYDROLANT 289/26(24).
+NORTH ATLANTIC.
+BRAZIL.
+DNC 01.
+DANGEROUS WRECK IN 00-24.48N 047-50.68W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031741Z FEB 26
+HYDROLANT 238/26(54).
+AEGEAN SEA.
+DNC 09.
+1. HAZARDOUS OPERATIONS 0500Z TO 1500Z DAILY
+   UNTIL 14 JUN AND 16 SEP THRU 31 DEC EXCEPT
+   FRIDAYS, SATURDAYS, SUNDAYS, AND HOLIDAYS
+   IN AREA BOUND BY
+   39-26.00N 023-53.00E, 39-46.00N 023-40.00E,
+   40-00.50N 024-18.00E, 39-43.00N 024-31.00E.
+2. CANCEL THIS MSG 311600Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031744Z FEB 26
+HYDROLANT 237/26(54).
+AEGEAN SEA.
+DNC 09.
+1. MISSILE OPERATIONS 0530Z TO SUNSET DAILY EVERY
+   WEDNESDAY THRU SATURDAY UNTIL 14 JUN AND
+   16 SEB THRU 31 DEC IN AREAS:
+   A. BOUND BY
+      35-36.00N 024-07.00E, 36-18.00N 024-07.00E,
+      36-18.00N 025-59.00E, 36-25.00N 026-12.00E,
+      36-16.00N 026-40.00E, 35-36.00N 026-41.00E,
+      35-31.00N 024-11.00E.
+   B. WITHIN ONE MILE OF 35-32.00N 024-13.00E.
+   C. WITHIN ONE MILE OF 35-36.33N 024-10.00E.
+2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031737Z FEB 26
+HYDROLANT 236/26(54).
+AEGEAN SEA.
+DNC 09.
+1. HAZARDOUS OPERATIONS SUNRISE TO SUNSET
+   DAILY UNTIL 14 JUN AND 16 SEP THRU 31 DEC
+   IN AREA BOUND BY
+   38-16.00N 025-21.00E, 37-46.00N 025-49.00E,
+   37-34.00N 025-23.00E, 37-42.00N 025-01.00E,
+   38-00.00N 024-52.00E, 38-02.00N 024-52.00E.
+2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091238Z JUL 26
+HYDROLANT 1326/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1830Z DAILY 
+   13 THRU 24 JUL IN AREAS WITHIN:
+   A. 28 MILES OF 57-21.60N 008-25.50W.
+   B. 20 MILES OF 57-33.30N 008-48.60W.
+2. CANCEL THIS MSG 241930Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301843Z DEC 25
+HYDROLANT 2243/25(55).
+BLACK SEA.
+TURKEY.
+DNC 10.
+1. SURVEY OPERATIONS 01 JAN THRU 08 SEP 26 
+   BY M/V KARADENIZ ARASTIRMA, 
+   M/V BARBAROS HAYREDDIN PASA, 
+   AND M/V TANUX-1 IN AREA BOUND BY
+   42-20.65N 031-59.85E, 42-20.73N 033-14.63E,
+   42-42.03N 033-14.72E, 43-16.32N 032-46.77E,
+   43-20.30N 031-59.70E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 090001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280113Z NOV 25
+HYDROLANT 2010/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+1. UNDERWATER OPERATIONS 1000Z TO 2000Z DAILY 
+   UNTIL 02 NOV 26 BY M/V FUGRO VAQUITA IN: 
+   A. 22-26.32S 040-25.47W.
+   B. 22-27.05S 040-24.71W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 022100Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070116Z OCT 25
+HYDROLANT 1668/25(55).
+BLACK SEA.
+TURKEY.
+DNC 10.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL
+   07 OCT 26 BY M/V MUKAVEMET, M/V ORUC RE??S,
+   M/V DINA POLARIS, M/V ZAGANOS PASA
+   AND M/V ATAMAN IN AREA BOUND BY
+   43-04.17N 031-44.69E, 42-57.10N 031-31.46E,
+   43-09.03N 031-38.13E, 42-45.44N 031-10.79E,
+   43-07.31N 031-09.44E, 42-56.74N 030-45.54E,
+   42-49.30N 030-36.69E, 42-43.32N 030-45.37E,
+   42-47.80N 030-34.44E, 42-39.61N 030-14.64E,
+   42-30.76N 030-45.58E, 42-30.30N 030-24.30E,
+   41-54.04N 031-31.98E, 41-37.27N 031-44.43E,
+   41-32.48N 031-56.63E, 41-58.78N 031-37.39E,
+   41-36.20N 032-06.45E.
+   WIDE BERTH REQUESTED.
+2.  CANCEL THIS MSG 080001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>311429Z JUL 25
+HYDROLANT 1273/25(24).
+SOUTH ATLANTIC.
+DNC 01.
+ODAS BUOY ESTABLISHED IN 25-33.58S 044-03.17W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>190115Z JUL 25
+HYDROLANT 1213/25(24).
+SOUTH ATLANTIC.
+BRAZIL.
+DNC 01.
+DEPTHS LESS THAN CHARTED IN AREAS BOUND BY:
+   A. 02-10.17S 044-09.21W, 02-10.31S 044-09.39W,
+      02-10.35S 044-09.34W, 02-10.21S 044-09.17W.
+   B. 02-10.49S 044-09.03W, 02-10.52S 044-09.07W,
+      02-10.55S 044-09.04W, 02-10.52S 044-09.00W.
+   C. 02-10.70S 044-09.10W, 02-10.77S 044-09.16W,
+      02-10.84S 044-09.04W, 02-10.77S 044-08.99W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>171751Z JUL 25
+HYDROLANT 1204/25.
+CANCELLED ELECTRONIC NAVIGATIONAL CHART (ENC) 
+ADVISORY.
+USERS OF NGA ENC PRODUCTS ARE ADVISED OF 
+POTENTIAL UNINTENDED ECDIS BEHAVIOR WHEN 
+PROCESSING CANCELLED CHARTS, INCLUDING 
+REINSTALLATION OF RECENTLY CANCELLED CHARTS ON 
+SOME SYSTEMS WITHOUT OBVIOUS ERROR OR 
+WARNING MESSAGES.
+NGA HAS CONFIRMED THIS ISSUE AFFECTS NAVY VMS 9.5 AND
+RAYTHEON ANSCHUTZ SYNAPSIS NX SYSTEMS. THIS ISSUE DOES NOT
+AFFECT NAVY ECDIS. OTHER SYSTEMS ARE CURRENTLY UNASSESSED.
+USERS MAY REFERENCE NGAS ENC CATALOG (GLOBAL 
+OR REGIONAL PRODUCT LISTINGS) FOR A LIST OF 
+CANCELLED CHARTS WHICH SHOULD BE UNINSTALLED 
+FROM ECDIS.
+NGAS GLOBAL ENC CATALOG IS AVAILABLE ON
+HTTPS://MCDP.NGA.MIL, WITH REGIONAL ENC PRODUCT 
+LISTING SPREADSHEETS CONTAINED WITHIN EACH
+REGIONS ZIP ON ESYNC, NGAS WEBSITES, AND 
+WORLDCOVER DVD.
+USERS MAY FILTER PRODUCT LISTINGS FOR EDITION OF 
+CXL AND SORT BY ISSUE DATE TO SEE MOST RECENT 
+CANCELLATIONS.
+CHARTS CANCELLED WITHIN THE LAST 90 DAYS ARE 
+ACTIVELY DISSEMINATED BY NGA AND MOST LIKELY 
+CANDIDATES FOR INADVERTENT REINSTALLATION.
+NGA IS CONSULTING WITH THE USER COMMUNITY TO 
+ASSESS POSSIBLE CHANGES TO THE CANCELLED CHART 
+DISSEMINATION PROCESS TO MITIGATE THIS POTENTIAL
+UNINTENDED ECDIS BEHAVIOR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>310202Z MAY 25
+HYDROLANT 915/25(24).
+WESTERN SOUTH ATLANTIC.
+DNC 01.
+1. 18.3 METER DEPTH REPORTED IN 20-35.71S 034-46.07W.
+2. CANCEL HYDROLANT 580/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINE ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>281512Z FEB 25
+HYDROLANT 361/25(55).
+BLACK SEA.
+DNC 10.
+1. MINES ADRIFT REPORTED IN NORTHWESTERN,
+   WESTERN AND SOUTHWESTERN BLACK SEA.
+   VESSELS IN VICINITY ARE ADVISED TO EXERCISE
+   EXTREME CAUTION.
+2. CANCEL HYDROLANT 789/22.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>170957Z JAN 25
+HYDROLANT 87/25(GEN).
+EASTERN SOUTH ATLANTIC.
+SOUTHWESTERN INDIAN OCEAN.
+SOUTH AFRICA.
+DNC 01.
+CAPE TOWN RADIO E-MAIL UNUSABLE UNTIL FURTHER 
+NOTICE. FOR ASSISTANCE CONTACT NAVAREA VII,
+E-MAIL: MARITIMERADIO@TELKOM.CO.ZA, 
+MARITIMERADIO@GMAIL.COM.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301238Z DEC 24
+HYDROLANT 2607/24(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. UNDERWATER OPERATIONS 05 JAN 25 THRU 31 DEC 26
+   IN AREA BOUND BY
+   44-04.40N 030-34.13E, 44-02.40N 030-30.50E,
+   43-51.87N 030-41.07E, 43-48.68N 030-44.33E,
+   43-50.73N 030-50.38E, 44-02.77N 030-37.85E,
+   44-04.67N 030-37.88E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>071356Z NOV 24
+HYDROLANT 2306/24(56).
+EASTERN MEDITERRANEAN SEA.
+CYPRUS.
+DNC 10.
+ODAS BUOY 33-33.41N 031-55.09E REPORTED MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINE</category>
+        <status>INFORCE</status>
+        <msgText>301508Z SEP 24
+HYDROLANT 2088/24(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+1. DUE TO THE PRESENCE OF MINES, ALL VESSELS
+   APPROACHING AND DEPARTING ROMANIAN PORTS ARE
+   ENCOURAGED TO USE THE FOLLOWING RECOMMNEDED
+   TRACKS:
+   A. PORT OF MANGALIA ALONG TRACKLINE JOINING
+      43-47.59N 028-50.86E, 43-47.50N 028-37.61E.
+   B. PORT OF NAVODARI ALONG TRAKLINE JOINING
+      43-47.59N 028-50.86E, 44-11.33N 028-50.86E,
+      44-15.52N 028-45.04E.
+   C. ENTRANCE TO PORT OF CONSTANTA TRAFFIC 
+      SEPERATION SCHEME ALONG TRACKLINE JOINING
+      43-47.59N 028-50.86E, 43-58.79N 028-50.86E.
+   D. EXIT FROM PORT OF CONSTANTA TRAFFIC 
+      SEPERATION SCHEME ALONG TRACKLINE JOINING
+      43-56.75N 028-50.86E, 43-47.59N 028-50.86E.
+   E. PORT OF SULINA ALONG TRACKLINE JOINING
+      43-47.59N 028-50.86E, 44-00.57N 028-50.87E,
+      44-26.93N 029-43.20E, 44-36.49N 029-52.56E,
+      45-05.89N 029-52.56E, 45-08.04N 029-47.58E.
+2. VESSELS ARE REQUESTED TO IMMEDIATELY REPORT
+   SIGHTINGS OF MINES OR MINE-LIKE OBJECTS TO:
+   A. ROMANIAN MARITIME HYDROGRAPHIC DIRECTORATE,
+      PHONE: 402 4165 1040, EMAIL: NTM@DHMFN.RO.
+   B. MRCC CONSTANTA, PHONE: 402 4161 5949,
+      EMAIL: MRCC@RNA.RO.
+   C. ROMANIAN COAST GUARD, PHONE: 424 164 1188,
+      EMAIL: SCOMAR@MAI.GOV.RO.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SOUND SIGNAL</category>
+        <status>INFORCE</status>
+        <msgText>161213Z SEP 24
+HYDROLANT 2005/24(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+FOG SIGNAL AT CONSTANTA OUTER HARBOR LIGHT
+44-08.61N 028-40.37E INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>021532Z APR 24
+HYDROLANT 682/24(55).
+BLACK SEA.
+UKRAINE.
+DNC 10.
+1. UKRAINIAN COASTAL WARNING COORDINATOR HAS 
+   DECLARED THE FOLLOWING COASTAL APROACH 
+   INSTRUCTIONS FOR ENTRY OR DEPARTURE IN UKRAINIAN 
+   PORTS 0200Z TO 1700Z DAILY UNTIL FUTHER NOTICE.
+2. ROUTES TO THE PORTS OF UKRAINE:
+   A. ROUTE FOR VESSELS WITH A DRAFT OF UP TO
+      EIGHT METERS WITHIN THREE MILES OF
+      TRACKLINE JOINING
+      45-05.00N 030-03.00E, 45-14.00N 030-01.00E,
+      45-39.00N 030-05.70E, 45-47.80N 030-22.70E.
+   B. ROUTE FOR VESSELS WITH A DRAFT OF 
+      UP TO EIGHT METERS WITHIN ONE MILE OF
+      TRACKLINE JOINING
+      45-47.80N 030-22.70E, 45-58.86N 030-30.79E,
+      46-03.40N 030-32.60E, 46-10.81N 030-40.84E,
+      46-19.84N 030-48.00E, 46-25.38N 030-53.23E.
+   C. TWO-WAY ROUTE FOR VESSELS WITH DRAFT UP TO 12
+      METERS WITHIN THREE MILES OF TRACKLINE JOINING
+      45-05.00N 030-03.00E, 45-14.00N 030-01.00E,
+      45-39.00N 030-05.70E, 46-00.00N 030-57.80E,
+      46-02.80N 031-04.40E, 46-19.30N 031-04.40E,
+      46-26.30N 030-53.90E.
+   D. TWO-WAY ROUTE FOR VESSELS OVER 12 METERS
+      DRAFT WITHIN THREE MILES OF TRACKLINE JOINING
+      45-03.90N 030-18.50E, 45-33.80N 030-36.90E,
+      46-00.00N 030-57.80E, 46-02.80N 031-04.40E,
+      46-19.30N 031-04.40E, 46-26.30N 030-53.90E.
+   E. SOUTHERN TEMPORARY WAITING AREA FOR VESSELS
+      GOING TO THE PORTS OF CHORNOMORSK, ODESA,
+      OR PIVDENNYI MAY BE USED TO WAIT FOR
+      TRANSITING THE ROUTES DURING ALLOWED TIMES
+      IN AREA BOUND BY
+      45-00.00N 030-10.00E, 44-55.00N 030-25.00E,
+      44-50.00N 030-25.00E, 44-50.00N 030-10.00E.
+   F. NORTHERN HOLDING AREA AR 354 USED FOR SHORT
+      STAYING VESSELS IN EMERGENCY CASES
+      IN AREA BOUND BY
+      46-29.98N 030-50.37E, 46-30.48N 030-53.90E,
+      46-25.38N 030-53.90E, 46-25.38N 030-52.60E.
+   G. CHORNOMORSK TO NORTHERN HOLDING AREA CHANNEL
+      WITHIN 200 METERS OF TRACKLINE JOINING
+      46-25.38N 030-52.60E, 46-22.00N 030-47.70E,
+      46-21.55N 030-46.29E, 46-20.00N 030-42.70E,
+      46-18.84N 030-41.81E, 46-19.12N 030-40.60E.
+   H. ODESA TO NORTHERN HOLDING AREA CHANNEL
+      WITHIN 200 METERS OF TRACKLINE JOINING
+      46-30.00N 030-50.51E, 46-30.00N 030-46.40E,
+      46-29.90N 030-46.04E, 46-29.99N 030-44.54E.
+   I. PIVDENNYI TO NORTHERN HOLDING AREA CHANNEL
+      WITHIN 200 METERS OF TRACKLINE JOINING
+      46-30.48N 030-53.90E, 46-31.84N 030-53.90E,
+      46-33.36N 031-00.06E, 46-36.19N 031-01.00E.
+3. CANCEL HYDROLANT 603/23.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>270036Z OCT 23
+HYDROLANT 2452/23(55).
+BLACK SEA.
+UKRAINE.
+DNC 10.
+MINING OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+IN AREAS BOUND BY:
+A. 46-22.50N 030-45.10E, 46-20.20N 030-53.10E,
+   46-11.90N 030-47.10E, 46-14.10N 030-40.00E,
+   46-04.70N 030-31.30E, 46-04.60N 030-28.40E.
+B. 46-04.40N 030-28.40E, 46-04.50N 030-31.10E,
+   45-58.00N 030-28.00E, 45-48.10N 030-18.30E,
+   45-38.40N 029-59.90E, 45-31.30N 029-46.80E,
+   45-29.50N 029-44.80E, 45-28.60N 029-36.50E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FIXED HAZARD</category>
+        <status>INFORCE</status>
+        <msgText>071540Z SEP 23
+HYDROLANT 2017/23(55).
+BLACK SEA.
+ROMANIA.
+DNC 10.
+MINES REPORTED IN AREA WITHIN FIVE MILES
+OF 45-07.10N 030-09.70E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>null</category>
+        <status>INFORCE</status>
+        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//
+RMKS/
+HYDROLANT 838/22(55).
+BLACK SEA.
+UKRAINE.
+DNC 10.
+1. HAZARDOUS OPERATIONS IN PROGRESS UNTIL FURTHER
+   NOTICE IN AREA BOUND BY
+   45-05N 033-33E, 45-59N 033-51E,
+   47-00N 031-43E, 46-19N 029-55E,
+   45-05N 029-17E.
+2. CANCEL HYDROLANT 814/22.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPECIAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//
+RMKS/
+HYDROLANT 564/22(55).
+BLACK SEA.
+UKRAINE.
+DNC 10.
+MINING OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+IN AREAS BOUND BY:
+A. 46-04.0N 033-12.8E, 46-03.1N 033-13.9E,
+   45-55.6N 033-08.1E, 45-57.3N 032-54.5E,
+   46-00.9N 033-06.8E.
+B. 46-06.4N 032-05.4E, 45-57.4N 032-53.3E,
+   45-49.2N 032-47.0E, 45-59.7N 032-02.4E.
+C. 46-09.4N 032-06.6E, 46-07.0N 032-05.5E,
+   45-58.2N 032-54.2E, 45-59.5N 033-05.5E,
+   46-00.9N 033-05.5E, 46-00.9N 033-04.8E.
+D. 46-32.4N 031-01.2E, 46-32.6N 031-26.3E,
+   46-28.0N 031-27.9E, 46-27.9N 031-00.8E.
+E. 46-22.2N 031-31.9E, 46-36.6N 031-31.6E,
+   46-36.0N 031-00.1E, 46-31.5N 030-44.4E.
+</msgText>
+    </smapsActiveEntity>
+</smaps>
