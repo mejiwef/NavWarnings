@@ -1,541 +1,256 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<smaps>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>162213Z JUL 26
-NAVAREA XII 486/26.
-NORTH PACIFIC.
-HAWAII.
-1. USCG REMOTE COMMUNICATION FACILITY
-   HONOLULU 21-22.00N 158-09.00W TRANSMIT
-   SERVICES UNRELIABLE.
-2. HONOLULU BROADCASTS WILL BE TRANSMITTED
-   FROM USCG REMOTE COMMUNICATION FACILITY
-   GUAM 13-25.00N 144-50.00E.
-3. DSC RESPONSES WILL BE TRANSMITTED FROM
-   USCG REMOTE COMMUNICATION FACILITY
-   POINT REYES 37-56.00N 122-44.00W. 
-4. CANCEL NAVAREA XII 276/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161946Z JUL 26
-NAVAREA XII 485/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1600Z TO 0100Z
-   DAILY 21 AND 23 JUL, ALTERNATE
-   241300Z TO 250001Z JUL IN AREA BOUND BY
-   33-59.17N 119-29.77W, 33-37.78N 119-10.05W,
-   33-15.60N 119-38.17W, 32-46.60N 120-27.42W,
-   33-08.75N 120-44.98W, 33-36.93N 120-22.28W,
-   33-53.43N 119-50.77W.
-2. CANCEL THIS MSG 250101Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>102237Z JUL 26
-NAVAREA XII 482/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
-   A. 181400Z TO 181825Z JUL, ALTERNATE
-      1400Z TO 1825Z DAILY 19 THRU 24 JUL
-      IN AREA BOUND BY:
-      34-29.00N 120-29.00W, 34-40.00N 120-37.00W,
-      34-38.00N 120-42.00W, 33-49.00N 120-55.00W,
-      29-13.00N 121-56.00W, 29-13.00N 121-36.00W.
-   B. 181400Z TO 181843Z JUL, ALTERNATE
-      1400Z TO 1843Z DAILY 19 THRU 24 JUL
-      29-13.00N 121-31.00W, 29-13.00N 122-03.00W,
-      28-49.00N 122-14.00W, 27-41.00N 122-06.00W,
-      28-42.00N 121-25.00W.
-2. CANCEL THIS MSG 241943Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SAR OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121846Z JUL 26
-NAVAREA XII 481/26
-GULF OF PANAMA.
-PANAMA.
-ONE MISSING PERSON IN 08-29.12N 079-40.05W. 
-AS OF 121837Z JUL. SEARCH AND RESCUE OPERATIONS 
-IN VICINITY 08-29.12N 079-40.05W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE.
-REPORTS TO RCC PANAMA,
-EMAIL: GUERINIJA@GMAIL.COM.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120212Z JUL 26
-NAVAREA XII 480/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 171600Z TO 180001Z JUL
-   IN AREA BOUND BY
-   33-59.00N 119-53.00W, 33-37.00N 120-26.00W,
-   33-44.00N 119-07.00W, 33-58.00N 119-27.00W.
-2. CANCEL THIS MSG 180101Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120158Z JUL 26
-NAVAREA XII 479/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 171700Z TO 180100Z JUL,
-   ALTERNATE 211700Z TO 220100Z JUL
-   IN AREA BOUND BY
-   35-18.00N 122-39.00W, 34-45.00N 120-58.00W,
-   33-38.00N 121-30.00W, 34-10.00N 123-10.00W.
-2. CANCEL THIS MSG 220200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>110305Z JUL 26
-NAVAREA XII 476/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: 
-   A. 162022Z TO 162107Z JUL, ALTERNATE
-      172015Z TO 172100Z, 182007Z TO 182052Z, 
-      192000Z TO 192045Z, 201952Z TO 202037Z, 
-      211945Z TO 212030Z AND 
-      221937Z TO 222022Z JUL IN AREA BOUND BY
-      34-31.00N 120-29.00W, 33-23.00N 120-15.00W,
-      32-14.00N 120-06.00W, 32-19.00N 120-15.00W,
-      33-19.00N 120-24.00W, 34-18.00N 120-39.00W,
-      34-39.00N 120-39.00W, 34-40.00N 120-37.00W.
-   B. 162022Z TO 162109Z JUL, ALTERNATE
-      172015Z TO 172102Z, 182007Z TO 182054Z, 
-      192000Z TO 192047Z, 201952Z TO 202039Z, 
-      211945Z TO 212032Z AND 
-      221937Z TO 222024Z JUL IN AREA BOUND BY
-      28-21.00N 119-37.00W, 29-17.00N 119-51.00W,
-      29-46.00N 119-44.00W, 29-18.00N 119-29.00W,
-      28-24.00N 119-28.00W.
-   C. 162022Z TO 162127Z JUL, ALTERNATE
-      172015Z TO 172120Z, 182007Z TO 182112Z, 
-      192000Z TO 192105Z, 201952Z TO 202057Z, 
-      211945Z TO 212050Z AND 
-      221937Z TO 222042Z JUL IN AREA BOUND BY
-      28-17.00N 119-40.00W, 28-27.00N 119-10.00W,
-      28-03.00N 118-50.00W, 27-30.00N 119-09.00W,
-      27-37.00N 119-42.00W.
-2. CANCEL THIS MSG 222142Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>NAVAREA XII 475/26.
-1. NAVAREA XII WARNINGS IN FORCE AS OF 101507Z JUL.
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   474/2026, 473/2026, 472/2026, 471/2026, 470/2026,
-   469/2026, 467/2026, 464/2026, 463/2026, 460/2026, 
-   458/2026, 448/2026, 447/2026, 446/2026, 429/2026,
-   426/2026, 276/2026, 98/2026.
-   718/2025, 678/2025, 422/2025, 392/2025, 354/2025,
-   344/2025, 338/2025, 259/2025, 208/2025.
-   862/2024, 441/2024.
-   93/2023. 
-   721/2022, 720/2022, 244/2022, 243/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE NAVAREA XII
-    BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-    MARITIME SAFETY INFORMATION WEBSITE AT:
-    MSI.NGA.MIL/NAVWARNINGS.
-    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
-3. CANCEL NAVAREA XII 468/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300615Z MAY 26
-NAVAREA XII 473/26.
-NORTH PACIFIC.
-HAWAII.
-1. HAZARDOUS OPERATIONS 1730Z TO 0600Z 
-   DAILY 11 AND 17 JUL IN AREA BOUND BY
-   21-50.00N 160-18.00W, 21-50.00N 161-30.00W,
-   22-36.00N 164-00.00W, 27-20.00N 164-00.00W,
-   27-21.00N 158-18.00W, 23-55.00N 158-16.00W,
-   22-21.00N 159-10.00W, 22-23.00N 159-20.00W,
-   22-21.00N 159-30.00W, 22-14.00N 159-41.00W,
-   22-02.00N 159-48.00W, 21-55.00N 159-44.00W,
-   21-33.00N 159-33.00W, 21-30.00N 159-46.00W,
-   21-34.00N 160-04.00W, 21-44.00N 160-15.00W.
-2. CANCEL THIS MSG 180700Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>030020Z JUL 26
-NAVAREA XII 469/26.
-NORTH PACIFIC.
-BROADCAST AND COMMUNICATION SERVICES
-UNRELIABLE AT USCG REMOTE COMMUNICATION
-FACILITIES:
-   A. PT REYES 37-55.00N 122-24.00W.
-   B. HONOLULU 21-22.00N 158-09.00W.
-   C. KODIAK 57-46.00N 152-34.00W.
-   D. NOME 64-29.00N 165-15.00W.
-   E. COLD BAY 55-11.00N 162-42.00W.
-   F. ST PAUL 57-09.00N 170-14.00W.
-   G. SHEMYA 52-43.00N 174-07.00E.
-   H. PT HIGGINS 55-27.00N 131-49.00W.
-   I. ASTORIA 46-10.00N 123-49.00W.
-   J. BERING SEA 57-46.00N 152-34.00W.
-   K. CAMBRIA 33-44N 118-24W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300034Z MAY 26
-NAVAREA XII 467/26.
-NORTH PACIFIC.
-HAWAII.
-1. HAZARDOUS OPERATIONS 07 THRU 22 JUL 
-   IN AREA BOUND BY
-   25-00.00N 162-45.00W, 25-40.00N 161-30.00W,
-   26-00.00N 160-00.00W, 25-40.00N 158-20.00W,
-   23-53.00N 158-20.00W, 22-20.00N 159-10.00W,
-   22-20.00N 159-30.00W, 22-00.00N 159-47.00W,
-   21-50.00N 160-20.00W, 21-50.00N 161-30.00W,
-   23-05.00N 162-45.00W.
-2. CANCEL THIS MSG 230001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>291810Z JUN 26
-NAVAREA XII 458/26.
-BERING SEA.
-ALASKA.
-USCG COMMUNICATION FACILITY ST PAUL
-57-09.00N 170-14.00W HF TRANSMIT AND RECEIVE
-SERVICES OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232136Z JUN 26
-NAVAREA XII 448/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS
-   010800Z JUL TO 010800Z AUG
-   IN AREA BOUND BY
-   32-52.70N 119-11.96W, 33-08.06N 118-52.09W,
-   33-08.06N 118-46.03W, 33-03.86N 118-41.80W,
-   33-02.53N 118-43.55W, 32-58.88N 118-43.52W,
-   32-47.66N 118-32.35W, 32-36.92N 118-45.00W,
-   32-36.92N 118-56.95W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232121Z JUN 26
-NAVAREA XII 447/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS
-   010800Z JUL TO 010800Z AUG
-   IN AREA BOUND BY
-   32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
-   32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
-   32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232118Z JUN 26
-NAVAREA XII 446/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 010800Z JUL TO
-   010800Z AUG IN AREA BOUND BY
-   32-33.00N 118-25.00W, 32-35.00N 118-16.00W,
-   32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
-   31-55.00N 118-25.00W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>162018Z JUN 26
-NAVAREA XII 429/26.
-NORTH PACIFIC.
-ALASKA.
-USCG COMMUNICATION FACILITY PT HIGGINS
-55-27.00N 131-49.00W TRANSMIT AND RECEIVE
-SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>151250Z JUN 26
-NAVAREA XII 426/26.
-NORTH PACIFIC.
-PANAMA.
-COSTA RICA.
-1. DANGEROUS WRECK IN 08-36.66N 083-08.95W.
-2. CANCEL THIS MSG 290001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>171634Z FEB 26
-NAVAREA XII 98/26(16).
-BERING SEA.
-ALASKA.
-USCG REMOTE COMMUNICATION FACILITY SHEMYA
-52-43.00N 174-07.00E HF TRANSMIT AND RECEIVE
-SERVICES INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICES</category>
-        <status>INFORCE</status>
-        <msgText>132105Z NOV 25
-NAVAREA XII 718/25(16).
-GULF OF ALASKA.
-1. WEATHER FAX SERVICES OFF AIR AT 
-   USCG REMOTE COMMUNICATION FACILITY 
-   KODIAK (J) 57-46.00N 152-34.00W.
-2. CANCEL NAVAREA XII 460/24.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FISHING GEAR</category>
-        <status>INFORCE</status>
-        <msgText>300805Z OCT 25
-NAVAREA XII 678/25(22).
-NORTH PACIFIC.
-COLOMBIA.
-FISH FARM ESTABLISHED IN AREA BOUND BY
-07-10.96N 077-54.60W, 06-56.19N 078-07.51W,
-06-50.73N 078-04.75W, 06-11.42N 077-51.53W,
-06-03.57N 077-49.63W, 06-03.55N 077-32.02W,
-06-10.59N 077-31.38W, 06-17.90N 077-33.61W,
-06-31.64N 077-28.82W, 06-49.13N 077-44.24W.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>141418Z JUL 25
-NAVAREA XII 422/25(16).
-BERING STRAIT.
-ALASKA.
-SCIENTIFIC MOORINGS, AT DEPTH 15 METERS,
-ESTABLISHED IN: 
-   A. 65-46.86N 168-34.07W.
-   B. 65-44.76N 168-15.75W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>242359Z JUN 25
-NAVAREA XII 392/25(16).
-NORTH PACIFIC.
-M/V MORNING MIDAS SANK IN 45-16.88N 179-14.13W.
-VESSELS IN VICINITY REQUESTED TO NAVIGATE WITH
-CAUTION AND REPORT PRESENCE OF OIL SHEENS OR
-DEBRIS TO USCG SECTOR WESTERN ALASKA AND US ARCTIC,
-PHONE: 907 428 4100, E-MAIL: SOUTHWESTERNAK@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>130011Z JUN 25
-NAVAREA XII 354/25(GEN).
-EASTERN NORTH PACIFIC.
-MESSAGING SERVICES UNRELIABLE AT
-USCG REMOTE COMMUNICATION FACILITIES:
-A. PT REYES (C) 37-55.50N 122-43.90W.
-B. HONOLULU (O) 21-26.00N 158-09.00W.
-C. KODIAK (J) 57-46.00N 152-34.00W.
-D. ASTORIA (W) 46-10.00N 123-49.00W.
-E. CAMBRIA (Q) 33-44.00N 118-24.00W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>100619Z JUN 25
-NAVAREA XII 344/25(16).
-BERING SEA.
-ALASKA.
-COMMDET KODIAK, AK REMOTE SITE SHEMYA 
-52-43.00N 174-07.00E HF R/T SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>071202Z JUN 25
-NAVAREA XII 338/25(18).
-OREGON.
-USCG REMOTE COMMUNICATION FACILITY
-ASTORIA (W) 46-10.00N 123-49.00W OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>051901Z MAY 25
-NAVAREA XII 259/25(16).
-GULF OF ALASKA.
-ALASKA.
-USCG REMOTE COMMUNICATION FACILITY KODIAK (J)
-57-46.00N 152-34.00W HF AND DSC SERVICES UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>061220Z APR 25
-NAVAREA XII 208/25(22).
-EASTERN NORTH PACIFIC.
-COLOMBIA.
-PUNTA SOLDADO LIGHT 03-48.50N 077-10.80W 
-DISCONTINUED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281257Z OCT 24
-NAVAREA XII 862/24(83).
-EASTERN NORTH PACIFIC.
-KIRIBATI.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE IN VICINITY OF TRACKLINE JOINING
-02-01.46N 157-29.67W, 02-01.45N 157-29.69W,
-02-01.45N 157-29.72W, 02-01.42N 157-29.82W,
-02-01.36N 157-30.04W, 02-01.22N 157-30.29W,
-02-00.20N 157-32.23W.
-100 METER BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>182355Z JUN 24
-NAVAREA XII 441/24(21).
-EASTERN NORTH PACIFIC.
-MEXICO.
-MORRO SANTO DOMINGO LIGHT 28-14.37N 114-06.18W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPECIAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>282248Z FEB 23
-NAVAREA XII 93/23(19).
-NORTH PACIFIC.
-HAWAII.
-1. INTERMITTENT MISSILE FIRING OPERATIONS CONDUCTED
-   BY THE PACIFIC MISSILE RANGE FACILITY (PMRF),
-   BARKING SANDS, KAUAI, HAWAII, IN WHISKEY
-   188 (W-188) OPERATING AREA. OPERATIONS ARE
-   CONDUCTED PERIODICALLY THROUGHOUT EACH WEEK
-   IN AREA BOUND BY
-   22-00.0N 159-51.0W, 22-00.0N 160-00.0W,
-   22-04.0N 160-06.0W, 21-59.5N 160-21.0W,
-   22-05.0N 161-35.0W, 22-45.0N 161-25.0W,
-   22-56.0N 161-49.0W, 23-34.0N 161-18.6W,
-   23-57.0N 160-41.0W, 25-41.0N 161-36.0W,
-   26-00.0N 159-58.0W, 25-47.0N 158-15.0W,
-   23-54.0N 158-15.0W, 22-20.0N 159-09.0W,
-   22-21.0N 159-30.0W, 22-13.0N 159-42.0W,
-   22-00.0N 159-51.0W.
-2. VESSELS MAY BE REQUESTED TO ALTER COURSE DUE TO
-   FIRING OPERATIONS AND ARE REQUESTED TO CONTACT
-   "PACIFIC MISSILE RANGE BARKING SANDS" ON VHF
-   MARINE BAND CHANNEL 16 PRIOR
-   TO ENTERING THE ABOVE BOUNDARIES. IF UNABLE
-   TO CONTACT PMRF PRIOR TO ENTERING OR WHILE IN
-   THE WARNING AREA, RELAY MESSAGES THROUGH
-   U.S. COAST GUARD HONOLULU.
-3. VESSELS INBOUND AND OUTBOUND FOR HAWAIIAN PORTS
-   WILL CREATE THE LEAST INTERFERENCE TO FIRING
-   OPERATIONS AS WELL AS ENHANCE VESSEL SAFETY
-   BY PASSING SOUTH OF THE ISLANDS OF KAUAI
-   AND NIIHAU DURING SPECIFIED TIMES.
-4. CANCEL NAVAREA XII 269/21.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>272221Z SEP 22
-NAVAREA XII 721/22(21).
-EL SALVADOR.
-CHART 21524
-MOORING BUOYS 13-35.23N 089-51.10W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>272211Z SEP 22
-NAVAREA XII 720/22(21).
-EASTERN NORTH PACIFIC.
-EL SALVADOR.
-CHART 12529.
-PUERTO DE LA UNION 16 BUOY 13-20.36N 087-48.99W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//&#13;
-RMKS/&#13;
-NAVAREA XII 244/22(21).&#13;
-GOLFO DE CALIFORNIA.&#13;
-MEXICO.&#13;
-CHART 21120.&#13;
-BOCA DEL TULE LIGHT 23-14.3N 109-26.4W UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//
-RMKS/
-NAVAREA XII 243/22(18).
-EASTERN NORTH PACIFIC.
-MEXICO.
-CHART 18740.
-1. CORONADO ISLAND SOUTH LIGHT 32-23.5N 117-14.5W
-   UNLIT.
-2. CANCEL NAVAREA XII 159/21.
-</msgText>
-    </smapsActiveEntity>
-</smaps>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="theme-color" content="#000000">
+        <link rel="shortcut icon" href="apology_objects/favicon.ico">
+        <link rel="stylesheet" href="apology_objects/bootstrap.min.css" />
+        <link rel="stylesheet" href="apology_objects/apology.css">
+
+        <!-- Ecobar Script... **IMPORTANT** FOR LOCAL: HTTP   FOR CLOUD: HTTPS -->
+        <script>
+        //set classification of page
+        window.classification = "unclassified";
+        </script>
+        <script src="https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js" defer></script>
+        <title>Maritime Safety Information</title>
+    
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="csqrzmqxbsjvi2sz4rna-f-2661566d6-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":8,"ak.ipv":4,"ak.proto":"h2","ak.rid":"6a52004d","ak.r":37762,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":13330,"ak.gh":"23.32.16.82","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1784276058","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==jb5uPpFI1XREH+X37ixuozcPNsE/mWrdNatm+zwy4jWMTffGE0wXaK/8XzfoCwGiRK+4PXNJA+DqqO5Uc5k7sKGt7C9Bf/l/ZDRjJ/x61PaObhYm9wa2qIE/R+p4MiQsVNwR7k3D7unx34ViUeNYlUvVEf7OVumpKUCHp50lsNSsGtnU0lK5OsEWWY2PmIASUhm4wUBxtuvmf54A7vUQ5Sxj0j7wi1XAQ0zOjvxMJH3ABvNdVr4LMFihegR7g+h5b0NglUz4zCLpiUciFWvVHlaoLCE6PeD9K4qM0QSv44qTgEn1bYIqUbkLVfvoR8CAgax/IndZ0WdMHtAYeRDqcvg/gzeJ0Dan4XeA0lAjcD3YaNG1udiilDTzdtYBiA+1B3XQLzwRlWzO00UwZnITp5SAconBIncBoaql6SKPNwo=","ak.pv":"101","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
+function addVars() {
+    BOOMR.addVar({
+      "akam.msicookie": "f3360d0407b71110d6684f52f72a346b"
+    });
+}
+if (document.addEventListener) {
+        document.addEventListener("onBoomerangLoaded", addVars);
+    } else if (document.attachEvent) {
+        document.attachEvent("onpropertychange", function(e) {
+            if (!e) {
+                e = window.event;
+            }
+            if (e && e.propertyName === "onBoomerangLoaded") {
+                addVars();
+            }
+        });
+    }
+</script></head><script>
+function addVars() {
+    BOOMR.addVar({
+      "akam.msicookie": "f3360d0407b71110d6684f52f72a346b"
+    });
+}
+if (document.addEventListener) {
+        document.addEventListener("onBoomerangLoaded", addVars);
+    } else if (document.attachEvent) {
+        document.attachEvent("onpropertychange", function(e) {
+            if (!e) {
+                e = window.event;
+            }
+            if (e && e.propertyName === "onBoomerangLoaded") {
+                addVars();
+            }
+        });
+    }
+</script></head>
+    <body>
+        <noscript>
+            You need to enable JavaScript to run this app.
+        </noscript>
+        <!--[if lt IE 9]>
+            This application does not support this version of Internet Explorer, please update to IE 9 or later.
+        <![endif]-->
+        <div id="root" class="app">
+            <section class="nav-panel">
+                <h2 class="page-title">Maritime Safety Information</h3>
+            </section>
+
+            <div class="homebkg">
+                <div class="container">
+                    <div class="row"><br /><br /></div>
+                    <div class="row">
+                        <div class="col-md-8 mb10">
+                            <div class="gray-light-box">
+                                <h3>MSI IS CURRENTLY UNDER MAINTENANCE</h3><br/>
+                                <h3><b>Announcement</b></h3>
+                                <p class="pl10 pr10 center">The Maritime Safety Information (MSI) Portal is currently unavailable. 
+                                    Please take advantage of the helpful resources linked here.<br/> MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/></p>
+                                <br /><br />
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="gray-light-box">
+                                <b>Helpful Links</b><br /><br />
+                                <b>Latest Notice to Mariners</b><br /><br />
+                                <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
+                                <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
+                                
+                                                                
+                                                                                              
+                                                                                                                                                         
+                                                               
+                                                                                                                              
+                                                                                                                         
+                                                                                                                                                     
+                                                                                              
+                                
+                                                                                        
+                                                                                                                             
+                                
+                                 
+                                      
+                                     
+                                      
+                                    
+                                     
+                                     
+                                
+                                  
+				
+				
+							
+				
+				
+				
+				
+								
+
+				
+				
+				<a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br /><br />
+											
+                                                            <b> Latest Navigational Warnings<br/><br />
+                                <ul class="bullets left-align ml15">
+                                    <li><a href="apology_objects/DailyMemIV.txt" target="_blank" rel="noopener noreferrer">NAVAREA IV</a></li>
+                                    <li><a href="apology_objects/DailyMemXII.txt" target="_blank" rel="noopener noreferrer">NAVAREA XII</a></li> 
+                                    <li><a href="apology_objects/DailyMemLAN.txt" target="_blank" rel="noopener noreferrer">HYDROLANT</a></li>
+                                    <li><a href="apology_objects/DailyMemPAC.txt" target="_blank" rel="noopener noreferrer">HYDROPAC</a></li> 
+                                    <li><a href="apology_objects/DailyMemARC.txt" target="_blank" rel="noopener noreferrer">HYDROARC</a></li>
+                                </ul>
+                            </div>
+                        </div>                         
+                    <div class="col-md-4">
+                            <div class="gray-light-box">
+				 <b>AMERICAN PRACTICAL NAVIGATOR</b><br /><br />
+				 <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 1(PDF)</a><br />
+				<a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 2 (PDF)</a><br /><br />
+				 </ul>
+                            </div>
+                        </div>                       
+                    <div class="col-md-4">
+			<div class="gray-light-box">
+				<b>SAILING DIRECTIONS PLANNING GUIDES</b><br /><br />
+				<a href="apology_objects/Pub120bk.pdf" target="_blank" class="btn btn-home">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
+				<a href="apology_objects/Pub140bk.pdf" target="_blank" class="btn btn-home">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
+				<a href="apology_objects/Pub160bk.pdf" target="_blank" class="btn btn-home">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
+				
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row"><br /><br /></div>
+                </div>
+            </div>
+
+            <div id="bottom">
+                
+                <div class="classificationblock">
+                    <div  id="classification">
+                        Dynamic content classified up to UNCLASSIFIED
+                    </div>
+                </div>    
+            </div>
+        </div>
+        <script>
+        window.onload = () => {
+            var ecobarLocalConfig = {
+                "app_id": "MSI174XUT18B8",
+                "network": {
+                    "trackAnalytics" : "false",
+                    "classification": window.classification
+                },
+                "ui": {
+                    "zIndex": "0",    
+                    "hideClassificationWarning": "true",
+                    "hideClassification": "false",
+                    "hideFooter": "true",
+                    "appendFooterToSelector": "#bottom",
+                    "siteContentSelector": "#root"
+                }
+            };
+
+            window.ecobarApp && ecobarApp.init(ecobarLocalConfig);
+        };
+        </script>
+        <!-- Matomo (Geoint App Store + TFII) -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      pushData(window.location.href);
+      document.addEventListener('click', callback);
+
+      function callback(e) {
+        var e = window.e || e;
+        if (e.target.tagName !== 'A'){
+          //not a link
+          return;
+        }
+        pushData(event.target.href);
+        return;
+      }
+
+      function pushData(href) {
+        if(window.classification === "unclassified" || window.classification === "unclassified//limdis") {
+          //don't track clicks that aren't a page navigation.
+          if(href === ""){
+            return;
+          }
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['setCustomUrl', href]);
+          _paq.push(['setReferrerUrl', window.location.href]);
+          
+          //set user id for tracking specific users on nipr (and eventually SC/TC)
+          var persist = window.localStorage.getItem("reduxPersist:userReducer");
+          if(persist){
+            var email = JSON.parse(persist).userEmail;
+            _paq.push(['setUserId', email]);
+          }
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          _paq.push(['setDocumentTitle', window.location.href]);
+
+          (function() {
+            //set url, siteId based on location          
+            var u="//gasmetrics.nga.mil/piwik/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '297']);
+
+            var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
+            var secondarySiteId = null;
+            if(window.location.hostname === "msi.nga.mil" || window.location.hostname === "msi.gs.mil"){
+              secondarySiteId = 24;
+              _paq.push(["setCookieDomain", "*.msi.nga.mil"]);
+              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
+            } else if (window.location.hostname === "msi.geo.nga.mil"){
+              secondarySiteId = 45
+              _paq.push(["setCookieDomain", "*.msi.geo.nga.mil"]);
+              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
+            }
+
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        }
+      };
+    </script>
+        <!-- End Matomo Code -->
+    </body>
+</html>
