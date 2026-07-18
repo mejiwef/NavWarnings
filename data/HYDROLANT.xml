@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171719Z JUL 26
+HYDROLANT 1379/26.
+NORTH ATLANTIC.
+SENEGAL.
+1. HAZARDOUS OPERATIONS 210800Z TO 211500Z JUL
+   IN AREA WITHIN 20 MILES OF 14-28.00N 017-52.00W.
+2. CANCEL THIS MSG 211600Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171710Z JUL 26
+HYDROLANT 1378/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0800Z TO 1830Z DAILY
+   20 THRU 24 JUL IN AREA WITHIN 28 MILES OF
+   57-21.60N 008-25.50W.
+2. CANCEL THIS MSG 241930Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171655Z JUL 26
+HYDROLANT 1377/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 21 THRU 24 JUL
+   IN AREA BOUND BY
+   43-55.83N 028-45.33E, 43-55.83N 028-44.67E,
+   43-56.83N 028-44.67E, 43-56.83N 028-45.33E.
+2. CANCEL THIS MSG 250001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>171631Z JUL 26
@@ -128,17 +167,6 @@ BRAZIL.
 1. BUOY ADRIFT IN 27-42.69S 047-20.10W AT
    161900Z JUL.
 2. CANCEL THIS MSG 201238Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>170628Z JUL 26
-HYDROLANT 1370/26
-CELTIC SEA.
-FRANCE.
-POINTE DE CREACH LIGHT 48-27.55N 005-07.74W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
