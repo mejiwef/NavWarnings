@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181304Z JUL 26
+HYDROLANT 1381/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   31 JUL BY M/V FPSO CIDADE DE VITORIA AND 
+   M/V SISTAC ESPERANCA IN 20-02.50S 039-31.50W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171719Z JUL 26
