@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>191505Z JUL 26
+HYDROLANT 1391/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. BUOY ADRIFT IN 27-53.99S 047-22.78W AT
+   191221Z JUL.
+2. CANCEL HYDROLANT 1371/26.
+3. CANCEL THIS MSG 221505Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191353Z JUL 26
+HYDROLANT 1390/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-31.00S 051-31.00W.
+   B. A81, 61-04.00S 053-19.00W.
+   C. A76C, 52-19.00S 031-39.00W.
+   D. D33C, 63-12.00S 053-07.00W.
+   E. A83, 62-35.00S 050-41.00W.
+   F. D35, 61-56.00S 044-42.00W.
+   G. 62-05.00S 052-21.00W.
+   H. 63-10.00S 052-37.00W.
+   I. 62-43.00S 053-18.00W.
+   J. 62-23.00S 052-43.00W.
+   K. 59-57.00S 035-41.00W.
+2. CANCEL HYDROLANT 1389/26.
+3. CANCEL THIS MSG 201353Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>191334Z JUL 26
+HYDROLANT 1388/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 61-13.20S 053-23.40W.
+   B. A84, 72-01.20S 108-42.00W.
+   C. A85, 65-07.20S 053-42.60W.
+   D. D33A, 64-23.40S 055-44.40W.
+   E. D33C, 63-15.00S 052-59.40W.
+2. CANCEL THIS MSG 201334Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191259Z JUL 26
@@ -52,46 +106,6 @@ BRAZIL.
    IN 02-50.63S 039-15.72W.
    AT 181110Z JUL.
 2. CANCEL THIS MSG 220050Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181435Z JUL 26
-HYDROLANT 1384/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-47.00S 052-10.00W.
-   B. A81, 61-12.00S 053-27.00W.
-   C. A76C, 52-19.00S 031-39.00W.
-   D. D33C, 63-15.00S 052-59.00W.
-   E. A83, 62-34.00S 050-47.00W.
-   F. D35, 61-55.00S 044-45.00W.
-   G. 62-10.00S 052-51.00W.
-   H. 63-10.00S 052-33.00W.
-   I. 62-53.00S 053-03.00W.
-   J. 62-29.00S 052-52.00W.
-   K. 59-57.00S 035-41.00W.
-2. CANCEL THIS MSG 191435Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181425Z JUL 26
-HYDROLANT 1383/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 61-13.80S 052-18.00W.
-   B. A84, 72-16.20S 108-20.40W.
-   C. A85, 66-34.20S 053-41.40W.
-   D. D33A, 64-24.60S 055-25.20W.
-   E. D33C, 63-20.40S 053-12.00W.
-2. CANCEL THIS MSG 191425Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -236,18 +250,6 @@ BRAZIL.
    33-39.62S 051-03.56W, 33-21.16S 050-33.95W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>171238Z JUL 26
-HYDROLANT 1371/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. BUOY ADRIFT IN 27-42.69S 047-20.10W AT
-   161900Z JUL.
-2. CANCEL THIS MSG 201238Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>191320Z JUL 26
+NAVAREA IV 700/26.
+GULF OF AMERICA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 SEP
+   BY M/V ISLAND FRONTIER IN AREA BOUND BY
+   27-24.14N 092-05.80W, 27-22.40N 089-54.52W,
+   26-18.75N 089-52.79W, 25-47.36N 090-28.97W,
+   25-40.26N 091-29.14W, 25-40.19N 092-06.57W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>182218Z JUL 26
@@ -38,26 +53,6 @@ NAVAREA IV 699/26.
    GO TO
    WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
 9. CANCEL THIS MSG 210001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>180141Z JUL 26
-NAVAREA IV 698/26.
-NORTH ATLANTIC.
-TRINIDAD AND TABAGO.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   072200Z AUG BY M/V AMAZON WARRIOR
-   TOWING 10,500 METER CABLE.
-   ALONG TRACKLINE JOINING
-   10-18.83N 058-42.89W, 10-22.99N 058-43.73W,
-   11-16.06N 058-43.76W, 11-25.35N 058-39.44W,
-   11-36.31N 058-58.34W, 11-04.52N 059-08.66W,
-   10-35.97N 059-06.45W, 10-11.58N 059-00.15W.
-   14500 METER BERTH REQUESTED.
-2. CANCEL NAVAREA IV 644/26.
-3. CANCEL THIS MSG 072300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
