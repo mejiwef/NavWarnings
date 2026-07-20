@@ -407,23 +407,6 @@ SOUTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120535Z JUL 26
-HYDROLANT 1343/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS 13 THRU 19 JUL
-   BY M/V SANCO SPIRIT TOWING SIX 200
-   METER LONG CABLES IN AREA BOUND BY
-   24-34.07S 042-21.37W, 25-06.88S 042-06.27W,
-   25-09.51S 042-13.28W, 25-32.83S 042-25.00W,
-   25-18.28S 042-53.88W, 25-10.33S 042-49.87W,
-   24-48.65S 042-59.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 200001Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111258Z JUL 26
