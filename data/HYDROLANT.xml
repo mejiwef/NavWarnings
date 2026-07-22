@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO BEACON</category>
+        <status>INFORCE</status>
+        <msgText>220053Z JUL 26
+HYDROLANT 1407/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. RADIOBEACON AT CHUI LIGHT 33-44.6S 053-22.5W
+   OFF AIR UNTIL 17 JAN 27.
+2. CANCEL THIS MSG 180001Z JAN 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>211904Z JUL 26
@@ -157,19 +168,6 @@ WALES.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>190050Z JUL 26
-HYDROLANT 1385/261.
-SOUTH ATLANTIC.
-BRAZIL.
-1. MOORING BUOY ADRIFT 
-   IN 02-50.63S 039-15.72W.
-   AT 181110Z JUL.
-2. CANCEL THIS MSG 220050Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>181319Z JUL 26
@@ -320,18 +318,6 @@ BRAZIL.
 2. CANCEL THIS MSG 251900Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160113Z JUL 26
-HYDROLANT 1362/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 211100Z TO 212100Z JUL
-   IN AREA WITHIN 25 MILES OF 24-45.00S 043-20.00W.
-2. CANCEL THIS MSG 212200Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>150914Z JUL 26
@@ -405,23 +391,6 @@ BRAZIL.
    M/V COMANDO B IN 20-22.93S 040-06.92W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 271900Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120724Z JUL 26
-HYDROLANT 1344/26.
-SOUTH ATLANTIC. 
-1. SURVEY OPERATIONS 13 THRU 21 JULY BY
-   M/V SEA 1 DORADO IN AREA BOUND BY
-   25-00.98S 042-18.05W, 24-28.65S 042-28.38W,
-   24-52.02S 042-34.48W, 24-52.10S 042-37.92W,
-   24-54.37S 042-44.77W, 24-53.20S 042-47.12W,
-   25-06.47S 042-43.98W, 25-10.82S 042-36.88W,
-   25-05.87S 042-29.85W, 25-05.70S 042-20.97W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
