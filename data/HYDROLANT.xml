@@ -1,19 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>231835Z JUL 26
+HYDROLANT 1423/26.
+NORTH SEA.
+ENGLAND.
+ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
+IN 53-11.00N 002-05.80E INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>231740Z JUL 26
+HYDROLANT 1422/26.
+BLACK SEA.
+1. OBJECT ADRIFT IN 43-52.27N 030-46.60E
+   AT 231438 JUL.
+2. CANCEL THIS MSG 261741Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>231703Z JUL 26
+HYDROLANT 1421/26.
+MOROCCO.
+SIDI IFINI LIGHTHOUSE 
+IN 29-22.50N 010-10.70W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231519Z JUL 26
+HYDROLANT 1419/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 0530Z TO 0700Z DAILY 
+   29 THRU 31 JUL IN AREA BOUND BY
+   41-58.20N 028-01.60E, 41-58.53N 028-19.12E,
+   42-06.97N 029-00.18E, 42-47.83N 030-45.08E,
+   42-46.82N 031-01.27E, 42-45.98N 034-47.53E,
+   42-13.53N 034-54.70E, 42-00.93N 034-42.02E,
+   42-01.27N 034-19.52E, 42-04.32N 033-20.65E,
+   41-46.07N 032-13.12E, 41-41.35N 030-59.65E,
+   41-44.32N 029-49.15E, 41-43.78N 028-56.77E,
+   41-45.42N 028-50.20E, 41-45.40N 028-43.00E,
+   41-41.67N 028-16.08E, 41-41.93N 028-06.12E,
+   41-46.98N 028-04.25E, 41-50.00N 028-02.18E.
+2. CANCEL THIS MSG 310800Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>231408Z JUL 26
+HYDROLANT 1418/26.
+SOUTH ATLANTIC. 
+SOUTH SHETLAND ISLANDS.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-15.00S 051-12.00W.
+   B. A81, 60-36.00S 052-42.00W.
+   C. A76C, 52-04.00S 031-31.00W.
+   D. 61-41.00S 051-54.00W.
+2. CANCEL HYDROLANT 1414/26.
+3. CANCEL THIS MSG 261407Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>231316Z JUL 26
-HYDROLANT 1416/26.
+        <msgText>231345Z JUL 26
+HYDROLANT 1417/26.
 NORTH ATLANTIC. 
-COTE DIVOIRE
-1. CABLE OPERATIONS 23 JUL 26 THRU 07 AUG 26
-   BY CABLESHIP ILE DOUESSANT IN AREA BOUND BY
+COTE DIVOIRE.
+1. CABLE OPERATIONS 23 JUL THRU 07 AUG
+   BY CABLESHIP ILE DOUESSANT
+   IN AREA BOUND BY
    03-43.50N 004-26.70W, 03-42.90N 004-17.00W,
    03-32.80N 004-18.60W, 03-09.30N 004-27.10W,
    03-12.10N 004-36.60W, 03-28.40N 004-31.80W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 070001Z AUG 26.
+2. CANCEL HYDROLANT 1416/26.
+3. CANCEL THIS MSG 080001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -26,21 +96,6 @@ SOUTH ATLANTIC.
    29-28.32S 047-28.98W AT 231021Z JUL.
 2. CANCEL HYDROLANT 1392/26.
 3. CANCEL THIS MSG 261238Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231137Z JUL 26
-HYDROLANT 1414/26.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-A. D33B, 61-18.00S 051-13.00W.
-B. A81, 60-36.00S 052-42.00W.
-C. A76C, 52-04.00S 031-42.00W.
-2. CANCEL THIS MSG 261140Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -71,22 +126,6 @@ NORTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221343Z JUL 26
-HYDROLANT 1411/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-18.00S 051-13.00W.
-   B. A81, 60-36.00S 052-42.00W.
-   C. A76C, 52-04.00S 031-42.00W.
-   D. 61-48.00S 052-02.00W.
-2. CANCEL THIS MSG 231400Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>220936Z JUL 26
@@ -113,19 +152,6 @@ BRAZIL.
    AND M/V COMANDO B IN 20-23.21S 040-09.57W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 061900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WORKING VESSELS</category>
-        <status>INFORCE</status>
-        <msgText>220920Z JUL 26
-HYDROLANT 1408/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. NAVIGATION PROHIBITED 231000Z TO 231800Z JUL
-   IN AREA WITHIN TWO MILES OF 
-   21-52.50S 040-50.30W.
-2. CANCEL THIS MSG 231900Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -209,21 +235,6 @@ SOUTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>201630Z JUL 26
-HYDROLANT 1395/26.
-ENGLISH CHANNEL.
-NORTH CHANNEL.
-ENGLAND.
-1. NAVTEX STATION NITON(E)(K) 50-35.18N 001-15.27W
-   OFF AIR FROM 0700Z TO 1700Z DAILY 21 THRU 23 JUL.
-2. NITON BROADCASTS WILL BE TRANSMITTED FROM
-   NAVTEX STATION PORTPATRICK (O) 54-50.63N 005-07.46W.
-3. CANCEL THIS MSG 231800Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191259Z JUL 26
@@ -289,19 +300,6 @@ BRAZIL.
    M/V SISTAC ESPERANCA IN 20-02.50S 039-31.50W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171710Z JUL 26
-HYDROLANT 1378/26.
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS 0800Z TO 1830Z DAILY
-   20 THRU 24 JUL IN AREA WITHIN 28 MILES OF
-   57-21.60N 008-25.50W.
-2. CANCEL THIS MSG 241930Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
