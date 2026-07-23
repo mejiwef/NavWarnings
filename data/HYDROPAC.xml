@@ -1,219 +1,1731 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="theme-color" content="#000000">
-        <link rel="shortcut icon" href="apology_objects/favicon.ico">
-        <link rel="stylesheet" href="apology_objects/bootstrap.min.css" />
-        <link rel="stylesheet" href="apology_objects/apology.css">
-
-        <!-- Ecobar Script... **IMPORTANT** FOR LOCAL: HTTP   FOR CLOUD: HTTPS -->
-        <script>
-        //set classification of page
-        window.classification = "unclassified";
-        </script>
-        <script src="https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js" defer></script>
-        <title>Maritime Safety Information</title>
-    </head>
-    <body>
-        <noscript>
-            You need to enable JavaScript to run this app.
-        </noscript>
-        <!--[if lt IE 9]>
-            This application does not support this version of Internet Explorer, please update to IE 9 or later.
-        <![endif]-->
-        <div id="root" class="app">
-            <section class="nav-panel">
-                <h2 class="page-title">Maritime Safety Information</h3>
-            </section>
-
-            <div class="homebkg">
-                <div class="container">
-                    <div class="row"><br /><br /></div>
-                    <div class="row">
-                        <div class="col-md-8 mb10">
-                            <div class="gray-light-box">
-                                <h3>MSI IS CURRENTLY UNDER MAINTENANCE</h3><br/>
-                                <h3><b>Announcement</b></h3>
-                                <p class="pl10 pr10 center">The Maritime Safety Information (MSI) Portal is currently unavailable. 
-                                    Please take advantage of the helpful resources linked here.<br/> MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/></p>
-                                <br /><br />
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="gray-light-box">
-                                <b>Helpful Links</b><br /><br />
-                                <b>Latest Notice to Mariners</b><br /><br />
-                                <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
-                                
-                                                                
-                                                                                              
-                                                                                                                                                         
-                                                               
-                                                                                                                              
-                                                                                                                         
-                                                                                                                                                     
-                                                                                              
-                                
-                                                                                        
-                                                                                                                             
-                                
-                                 
-                                      
-                                     
-                                      
-                                    
-                                     
-                                     
-                                
-                                  
-				
-				
-							
-				
-				
-				
-				
-								
-
-				
-				
-				<a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br /><br />
-											
-                                                            <b> Latest Navigational Warnings<br/><br />
-                                <ul class="bullets left-align ml15">
-                                    <li><a href="apology_objects/DailyMemIV.txt" target="_blank" rel="noopener noreferrer">NAVAREA IV</a></li>
-                                    <li><a href="apology_objects/DailyMemXII.txt" target="_blank" rel="noopener noreferrer">NAVAREA XII</a></li> 
-                                    <li><a href="apology_objects/DailyMemLAN.txt" target="_blank" rel="noopener noreferrer">HYDROLANT</a></li>
-                                    <li><a href="apology_objects/DailyMemPAC.txt" target="_blank" rel="noopener noreferrer">HYDROPAC</a></li> 
-                                    <li><a href="apology_objects/DailyMemARC.txt" target="_blank" rel="noopener noreferrer">HYDROARC</a></li>
-                                </ul>
-                            </div>
-                        </div>                         
-                    <div class="col-md-4">
-                            <div class="gray-light-box">
-				 <b>AMERICAN PRACTICAL NAVIGATOR</b><br /><br />
-				 <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 1(PDF)</a><br />
-				<a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 2 (PDF)</a><br /><br />
-				 </ul>
-                            </div>
-                        </div>                       
-                    <div class="col-md-4">
-			<div class="gray-light-box">
-				<b>SAILING DIRECTIONS PLANNING GUIDES</b><br /><br />
-				<a href="apology_objects/Pub120bk.pdf" target="_blank" class="btn btn-home">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
-				<a href="apology_objects/Pub140bk.pdf" target="_blank" class="btn btn-home">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
-				<a href="apology_objects/Pub160bk.pdf" target="_blank" class="btn btn-home">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
-				
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row"><br /><br /></div>
-                </div>
-            </div>
-
-            <div id="bottom">
-                
-                <div class="classificationblock">
-                    <div  id="classification">
-                        Dynamic content classified up to UNCLASSIFIED
-                    </div>
-                </div>    
-            </div>
-        </div>
-        <script>
-        window.onload = () => {
-            var ecobarLocalConfig = {
-                "app_id": "MSI174XUT18B8",
-                "network": {
-                    "trackAnalytics" : "false",
-                    "classification": window.classification
-                },
-                "ui": {
-                    "zIndex": "0",    
-                    "hideClassificationWarning": "true",
-                    "hideClassification": "false",
-                    "hideFooter": "true",
-                    "appendFooterToSelector": "#bottom",
-                    "siteContentSelector": "#root"
-                }
-            };
-
-            window.ecobarApp && ecobarApp.init(ecobarLocalConfig);
-        };
-        </script>
-        <!-- Matomo (Geoint App Store + TFII) -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      pushData(window.location.href);
-      document.addEventListener('click', callback);
-
-      function callback(e) {
-        var e = window.e || e;
-        if (e.target.tagName !== 'A'){
-          //not a link
-          return;
-        }
-        pushData(event.target.href);
-        return;
-      }
-
-      function pushData(href) {
-        if(window.classification === "unclassified" || window.classification === "unclassified//limdis") {
-          //don't track clicks that aren't a page navigation.
-          if(href === ""){
-            return;
-          }
-          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-          _paq.push(['setCustomUrl', href]);
-          _paq.push(['setReferrerUrl', window.location.href]);
-          
-          //set user id for tracking specific users on nipr (and eventually SC/TC)
-          var persist = window.localStorage.getItem("reduxPersist:userReducer");
-          if(persist){
-            var email = JSON.parse(persist).userEmail;
-            _paq.push(['setUserId', email]);
-          }
-          _paq.push(['trackPageView']);
-          _paq.push(['enableLinkTracking']);
-          _paq.push(['setDocumentTitle', window.location.href]);
-
-          (function() {
-            //set url, siteId based on location          
-            var u="//gasmetrics.nga.mil/piwik/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '297']);
-
-            var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
-            var secondarySiteId = null;
-            if(window.location.hostname === "msi.nga.mil" || window.location.hostname === "msi.gs.mil"){
-              secondarySiteId = 24;
-              _paq.push(["setCookieDomain", "*.msi.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            } else if (window.location.hostname === "msi.geo.nga.mil"){
-              secondarySiteId = 45
-              _paq.push(["setCookieDomain", "*.msi.geo.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            }
-
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-          })();
-        }
-      };
-    </script>
-        <!-- End Matomo Code -->
-    </body>
-</html>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<smaps>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231202Z JUL 26
+HYDROPAC 2113/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1430Z DAILY 
+   25 THRU 28 JUL IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.30N 085-35.90E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.60N 084-53.74E.
+2. CANCEL THIS MSG 281530Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>200548Z JUL 26
+HYDROPAC 2111/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   280343Z TO 280829Z JUL, ALTERNATE 
+   0343Z TO 0829Z DAILY 29 JUL THRU 03 AUG
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 030929Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>020755Z JUL 26
+HYDROPAC 2110/26.
+NORTH PACIFIC. 
+PALAU.
+1. HAZARDOUS OPERATIONS 282100Z TO 311000Z JUL
+   IN AREA BOUND BY
+   07-22.47N 134-33.85E, 07-15.08N 134-34.42E,
+   07-16.17N 134-40.27E, 07-21.51N 134-43.20E,
+   07-27.27N 134-42.28E, 07-27.49N 134-41.10E.
+2. CANCEL THIS MSG 311100Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220701Z JUL 26
+HYDROPAC 2109/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 28 THRU 30 JUL IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 301400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>230112Z JUL 26
+HYDROPAC 2108/26.
+NORTH PACIFIC.
+GUAM.
+USCG REMOTE COMMUNICATION FACILITY GUAM
+13-29.00N 144-50.00E HF SERVICES UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>230103Z JUL 26
+HYDROPAC 2107/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 271400Z TO 272100 JUL
+   IN AREA BOUND BY
+   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
+   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
+2. CANCEL THIS MSG 272200Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>230022Z JUL 26
+HYDROPAC 2106/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. MISSILE OPERATIONS 1400Z TO 0800Z DAILY
+   26 JUL THRU 06 AUG IN AREA BOUND BY
+   56-34.00N 154-14.00E, 56-34.00N 156-18.20E,
+   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
+   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
+   52-46.00N 160-30.00E, 51-40.00N 160-30.00E,
+   50-26.00N 158-48.00E, 49-23.50N 157-28.50E,
+   50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
+   52-06.00N 154-14.00E.
+2. CANCEL HYDROPAC 2087/26.
+3. CANCEL THIS MSG 070900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220023Z JUL 26
+HYDROPAC 2100/26.
+NORTH PACIFIC.
+JAPAN.
+CABLE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY CABLESHIP SUBARU
+IN VICINITY OF TRACKLINE JOINING
+36-44.60N 140-45.20E, 36-48.80N 144-14.70E,
+35-58.20N 147-51.80E, 37-00.00N 151-57.20E,
+35-04.90N 156-51.80E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>212056Z JUL 26
+HYDROPAC 2099/26.
+EAST CHINA SEA.
+CHINA.
+CABLE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY CABLESHIP ILE DE RE
+IN VICINITY OF TRACKLINE JOINING
+24-22.09N 118-19.49E, 24-19.57N 118-23.58E,
+24-18.09N 118-29.18E, 24-17.92N 118-31.73E,
+24-10.52N 118-39.62E, 24-03.97N 118-46.53E,
+23-55.57N 118-57.99E, 23-46.55N 119-08.15E,
+23-39.09N 119-15.28E, 23-37.22N 119-19.19E,
+23-35.38N 119-26.73E, 23-34.89N 119-28.03E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211518Z JUL 26
+HYDROPAC 2097/26.
+SOUTH PACIFIC.
+FIJI.
+CABLE OPERATIONS 26 JUL UNTIL FURTHER
+NOTICE BY M/V LAYLA IN VICINITY OF
+TRACKLINE JOINING
+19-18.00S 179-02.00E, 19-36.00S 178-58.00E,
+19-49.00S 178-58.00E, 20-14.00S 178-51.00E,
+20-49.00S 178-39.00E.
+TWO MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211343Z JUL 26
+HYDROPAC 2095/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
+IN AREA BOUND BY
+20-26.00S 114-32.50E, 20-26.00S 115-16.10E,
+21-42.60S 115-16.10E, 21-42.60S 114-32.50E.
+TWO MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VESSEL ABANDONED</category>
+        <status>INFORCE</status>
+        <msgText>211202Z JUL 26
+HYDROPAC 2092/26.
+ARABIAN SEA.
+INDIA.
+1. DERELICT M/V AL JAFZIA AGROUND IN
+   19-11.50N 072-46.40E.
+2. CANCEL HYDROPAC 1624/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>211141Z JUL 26
+HYDROPAC 2091/26.
+ARABIAN SEA.
+PAKISTAN.
+MANORA LIGHTHOUSE LIGHT 24-47.58N 066-58.62E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>211021Z JUL 26
+HYDROPAC 2090/26.
+GULF OF OMAN.
+OMAN.
+M/V KAIFAN ON FIRE AND ANCHORED
+IN 26-01.20N 056-34.50E. VESSELS ARE
+ADVISED TO KEEP CLEAR OF THIS POSITION
+AND TO EXERCISE EXTREME CAUTION
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FAD</category>
+        <status>INFORCE</status>
+        <msgText>210848Z JUL 26
+HYDROPAC 2089/26.
+CORAL SEA.
+AUSTRALIA.
+FAD TEMPORARILY ANCHORED IN 
+26-36.55S 153-30.16E AT 210506Z JUL.
+ </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>210833Z JUL 26
+HYDROPAC 2088/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+NAVIGATIONAL AIDS AT CLIFF HEAD PLATFORM
+29-26.99S 114-52.18E INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210705Z JUL 26
+HYDROPAC 2086/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. MISSILE OPERATIONS 1400Z TO 0800Z 
+   DAILY 22 THRU 30 JUL IN AREA BOUND BY
+   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
+   52-41.00N 160-30.00E, 51-40.00N 160-30.00E,
+   50-26.00N 158-48.00E, 49-23.50N 157-28.50E,
+   50-13.60N 156-03.00E, 52-06.00N 154-14.00E,
+   56-34.00N 154-14.00E, 56-34.00N 155-50.00E,
+   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
+   51-30.10N 158-03.10E.
+2. CANCEL THIS MSG 310900Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>201454Z JUL 26
+HYDROPAC 2082/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V KAVOMALEAS PARTIALLY SUBMERGED IN VICINITY
+26-23.34N 056-16.50E.
+VESSELS ARE ADVISED TO
+KEEP CLEAR OF THIS POSITION AND TO EXERCISE
+EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>201029Z JUL 26
+HYDROPAC 2081/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   232200Z TO 240400Z JUL IN AREA BOUND BY
+   16-58.00S 091-51.00E, 16-54.00S 091-18.00E,
+   11-33.00S 092-02.00E, 11-37.00S 092-35.00E.
+2. CANCEL THIS MSG 240500Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201015Z JUL 26
+HYDROPAC 2079/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z DAILY
+   22 AND 24 JUL IN AREA BOUND BY
+   12-50.00N 093-40.00E, 12-50.00N 094-10.00E,
+   13-00.00N 094-10.00E, 13-00.00N 093-40.00E.
+2. CANCEL THIS MSG 241130Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>200143Z JUL 26
+HYDROPAC 2078/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   232334Z TO 240259Z JUL, ALTERNATE
+   2334Z TO 0259Z DAILY 24 THRU 29 JUL,
+   IN AREA BOUND BY
+   17-39.00S 095-00.00E, 16-13.00S 100-20.00E,
+   15-17.00S 104-38.00E, 16-31.00S 109-42.00E,
+   17-14.00S 110-00.00E, 18-19.00S 107-08.00E,
+   18-20.00S 102-57.00E, 19-46.00S 099-12.00E,
+   21-01.00S 094-56.00E, 22-36.00S 089-30.00E,
+   24-01.00S 083-24.00E, 24-47.00S 079-30.00E,
+   25-45.00S 073-04.00E, 26-51.00S 060-54.00E,
+   26-51.00S 058-44.00E, 26-45.00S 056-22.00E,
+   26-53.00S 050-55.00E, 26-45.00S 050-13.00E,
+   26-37.00S 050-12.00E, 26-33.00S 050-30.00E,
+   26-23.00S 054-00.00E, 26-19.00S 056-16.00E,
+   25-49.00S 062-20.00E, 25-19.00S 066-06.00E,
+   24-07.00S 072-42.00E, 22-51.00S 078-26.00E,
+   21-39.00S 082-58.00E, 20-18.00S 087-40.00E,
+   19-11.00S 091-04.00E.
+2. CANCEL HYDROPAC 2046/26.
+3. CANCEL THIS MSG 300359Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>192341Z JUL 26
+HYDROPAC 2076/26. 
+CORAL SEA. 
+AUSTRALIA.
+ROBIN REEF LIGHT 12-52.67S 143-41.78E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FISHING GEAR</category>
+        <status>INFORCE</status>
+        <msgText>191432Z JUL 26
+HYDROPAC 2075/26.
+STRAIT OF HORMUZ.
+IRAN.
+FISH FARMS ESTABLISHED IN AREAS BOUND BY:
+A. 26-43.84N 056-56.88E, 26-43.80N 056-56.95E,
+   26-43.74N 056-56.89E, 26-43.78N 056-56.83E.
+B. 26-45.29N 056-55.84E, 26-45.29N 056-55.86E,
+   26-45.27N 056-55.87E, 26-45.26N 056-55.86E.
+C. 26-41.20N 056-59.03E, 26-41.23N 056-59.10E,
+   26-41.17N 056-59.14E, 26-41.15N 056-59.07E.
+D. 26-40.75N 056-58.71E, 26-40.77N 056-58.79E,
+   26-40.70N 056-58.82E, 26-40.68N 056-58.74E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>161550Z JUL 26
+HYDROPAC 2074/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 24 THRU 30 JUL
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 302129Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181029Z JUL 26.
+HYDROPAC 2071/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 241700Z TO 241900Z JUL
+   IN AREA BOUND BY
+   32-55.00S 072-50.00W, 32-55.00S 072-00.00W,
+   33-07.00S 072-00.00W, 33-07.00S 072-50.00W.
+2. CANCEL THIS MSG 242000Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171802Z JUL 26
+HYDROPAC 2058/261.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 191831Z TO 
+   241829Z JUL IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 241929Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>171702Z JUL 26
+HYDROPAC 2057/26.
+GULF OF OMAN.
+OMAN.
+M/V AL BAHYAH ON FIRE AND ANCHORED IN
+25-48.07N 056-39.08E. VESSELS ARE ADVISED TO
+KEEP CLEAR OF THIS POSITION AND TO EXERCISE
+EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>171644Z JUL 26
+HYDROPAC 2056/26.
+1. HYDROPAC WARNINGS IN FORCE AS OF 171644Z JUL.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   2054/2026, 2053/2026, 2052/2026, 2051/2026, 2049/2026,
+   2048/2026, 2047/2026, 2046/2026, 2045/2026, 2044/2026,
+   2043/2026, 2041/2026, 2040/2026, 2039/2026, 2038/2026,
+   2036/2026, 2032/2026, 2027/2026, 2024/2026, 2021/2026,
+   2019/2026, 2017/2026, 2014/2026, 2012/2026, 2011/2026,
+   2010/2026, 2006/2026, 2005/2026, 1998/2026, 1995/2026,
+   1994/2026, 1992/2026, 1978/2026, 1963/2026, 1959/2026,
+   1957/2026, 1950/2026, 1944/2026, 1938/2026, 1931/2026,
+   1917/2026, 1911/2026, 1906/2026, 1903/2026, 1896/2026,
+   1895/2026, 1893/2026, 1892/2026, 1883/2026, 1882/2026,
+   1873/2026, 1869/2026, 1864/2026, 1863/2026, 1850/2026,
+   1846/2026, 1815/2026, 1796/2026, 1794/2026, 1772/2026,
+   1768/2026, 1624/2026, 1585/2026, 1567/2026, 1541/2026,
+   1516/2026, 1493/2026, 1291/2026, 1237/2026, 1203/2026,
+   1134/2026, 1052/2026, 1015/2026, 974/2026, 957/2026,
+   952/2026, 808/2026, 627/2026, 622/2026, 598/2026, 540/2026,
+   527/2026, 473/2026, 379/2026, 292/2026, 241/2026, 104/2026,
+   10/2026.
+   2558/2025, 2412/2025, 2242/2025, 1823/2025, 1819/2025,
+   1795/2025, 1650/2025, 1605/2025, 1415/2025, 1357/2025,
+   799/2025, 319/2025, 221/2025, 111/2025, 83/2025, 28/2025.
+   3849/2024, 3535/2024, 1423/2024, 1114/2024, 894/2024,
+   582/2024, 462/2024, 363/2024, 311/2024.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROPAC
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROPAC 1539/26, 1591/26, 1905/26, 1983/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>171257Z JUL 26
+HYDROPAC 2053/26.
+SOUTH PACIFIC.
+CHILE.
+1. VALPARAISO PLAYA ANCHA RADIO (B)(H)
+   32-48.37S 071-29.23W MF AND HF SERVICES,
+   NAVTEX, AND RADIO FAX OFF AIR.
+2. VALPARAISO PLAYA ANCHA RADIO WILL TRANSMIT
+   VIA SAFETYNET AND SAFETYCAST.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>170530Z JUL 26
+HYDROPAC 2044/26.
+TASMAN BAY.
+NEW ZEALAND.
+PASSAGE ROCK BUOY 40-52.51S 174-55.19E.
+MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>170436Z JUL 26
+HYDROPAC 2043/26
+SOUTH PACIFIC.
+PERU.
+CABO BLANCO LIGHT 04-15.10S 081-14.30W
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150818Z JUL 26
+HYDROPAC 2041/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 1900Z TO 1000Z 
+   DAILY 22 AND 23 JUL IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 241100Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VOLCANIC ACTIVITY</category>
+        <status>INFORCE</status>
+        <msgText>161811Z JUL 26
+HYDROPAC 2039/26.
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+1. DISCOLORED WATER WITH INCREASED LIKELIHOOD
+   OF SUBMARINE VOLCANIC ACTIVITY REPORTED
+   IN VICINITY 20-26.00N 145-01.00E AT 160013Z JUL.
+2. CANCEL HYDROPAC 153/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>161246Z JUL 26
+HYDROPAC 2038/26.
+CORAL SEA.
+NEW GUINEA.
+RACON AT EAST CAY LIGHT
+09-24.11S 144-14.23E UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150825Z JUL 26
+HYDROPAC 2032/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 21 THRU 23 JUL IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 231400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151355Z JUL 26
+HYDROPAC 2027/26.
+ARABIAN SEA.
+INDIA.
+1. SURVEY OPERATIONS 15 JUL THRU 14 AUG
+   BY M/V TRIMURTI IN AREA BOUND BY
+   19-07.08N 072-48.20E, 19-05.68N 072-46.66E,
+   19-03.76N 072-42.33E, 19-01.07N 072-41.73E,
+   19-01.80N 072-41.19E, 19-04.24N 072-41.39E,
+   19-07.50N 072-47.72E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 150001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>141703Z JUL 26
+HYDROPAC 2019/26.
+ANDAMAN SEA.
+BURMA.
+M/V ATK NYETN SANK IN 15-31.40N 097-07.90E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>141529Z JUL 26
+HYDROPAC 2017/26.
+GULF OF OMAN.
+OMAN.
+1. DERELICT M/V STOLT MAGNESIUM ON FIRE 
+   AND ADRIFT IN 23-16.05N 059-53.03E.
+   VESSELS ARE ADVISED TO
+   KEEP CLEAR OF THIS POSITION
+   AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 171529Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140944Z JUL 26
+HYDROPAC 2014/26.
+SEA OF OKHOTSK.
+KURIL ISLANDS.
+1. SURVEY OPERATIONS 15 JUL THRU 15 OCT 
+   BY M/V NIKOLAY TRUBYATCHINSKIY
+   ALONG TRACKLINE JOINING
+   46-48.60N 143-25.80E, 46-52.80N 143-23.40E,
+   46-54.00N 143-27.00E, 45-15.60N 147-49.20E,
+   45-13.80N 147-50.40E, 45-14.40N 147-49.80E,
+   45-16.20N 147-48.00E, 45-14.40N 147-45.60E,
+   45-16.80N 147-39.60E, 45-08.40N 147-39.00E,
+   45-05.40N 147-41.40E, 45-08.70N 147-22.80E,
+   44-56.40N 147-07.80E, 44-19.80N 146-41.40E,
+   44-04.80N 146-03.60E, 44-03.00N 145-54.00E,
+   44-03.00N 145-56.60E.
+   400 METER BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140634Z JUL 26
+HYDROPAC 2011/26.
+TIMOR SEA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V SHARK 1
+   IN AREA BOUND BY
+   11-30.00S 125-05.00E, 12-22.00S 125-05.00E,
+   12-22.00S 126-01.00E, 11-30.00S 126-01.00E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 1694/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140350Z JUL 26
+HYDROPAC 2010/26.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. SURVEY OPERATIONS IN PROGRESS 
+   UNTIL 27 JUL BY M/V FYODOR KOVROV
+   IN AREA BOUND BY
+   58-30.00N 155-00.00E, 58-12.00N 156-20.00E,
+   57-00.00N 155-30.00E, 56-42.00N 155-24.00E,
+   56-41.98N 156-00.68E, 54-42.60N 155-39.00E,
+   54-49.00N 154-35.00E, 56-06.00N 153-57.00E,
+   57-48.00N 154-20.00E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 280001Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>121953Z JUL 26
+HYDROPAC 1992/26
+STRAIT OF HORMUZ.
+OMAN.
+M/V GFX GALAXY DISABLED AND ADRIFT DUE TO 
+SHIPBOARD FIRE IN 26-14.40N 056-35.00E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO NAVAREA IX,
+EMAIL: HYDROPK@PAKNAVY.GOV.PK.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>100804Z JUL 26
+HYDROPAC 1978/26.
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+DUE TO TROPICAL STORM BAVI:
+1. THE FOLLOWING PORT(S) ARE CLOSED:
+   A. ROTA ISLAND 14-08.35N 145-08.09E.
+2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
+   NONE TO REPORT.
+3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
+   A. APRA HARBOR 13-27.20N 144-39.21E.
+   B. TINIAN 14-57.95N 145-37.26E.
+4. CURRENT PORT INFORMATION CAN BE FOUND AT
+   HOMEPORT.USCG.MIL USING THE PORT DIRECTORY TAB.
+5. CANCEL HYDROPAC 1947/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>090609Z JUL 26
+HYDROPAC 1963/26.
+SOUTH CHINA SEA. 
+VIETNAM.
+F/V QB 22057 TS, TWO PERSONS ON BOARD, 
+TAKING ON WATER IN 17-40.00N 106-39.00E
+AT 051300Z JUL. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>082334Z JUL 26
+HYDROPAC 1959/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY VESSEL VE CONSTRUCTOR
+IN AREA BOUND BY
+19-20.00S 116-30.00E, 19-20.00S 116-50.08E,
+19-09.92S 116-50.08E, 19-09.92S 116-30.00E,
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>080828Z JUL 26
+HYDROPAC 1950/26.
+ARABIAN SEA.
+PAKISTAN.
+AIRCRAFT, FIVE PERSONS ON BOARD, UNREPORTED. 
+LAST KNOWN POSITION IN 24-15.00N 064-24.00E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC PAKISTAN,
+PHONE: 9221 9921 4624,
+EMAIL: MRCCPMSA@CYBER.NET.PK.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>071435Z JUL 26
+HYDROPAC 1944/26.
+GULF OF OMAN.
+OMAN.
+1. M/V AL REKAYYAT ON FIRE AND ANCHORED
+   IN 25-51.00N 056-34.90E. VESSELS ARE
+   ADVISED TO KEEP CLEAR OF THIS POSITION
+   AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL HYDROPAC 1940/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>071043Z JUL 26
+HYDROPAC 1938/26.
+ARABIAN SEA.
+1. FIVE CONTAINERS ADRIFT IN VICINITY 
+   16-09.90N 068-09.70E AT 070330Z JUL.
+2. CANCEL THIS MSG 101043Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>061046Z JUL 26
+HYDROPAC 1931/26.
+BAY OF BENGAL.
+INDIA. 
+RACON AT DOLPHIN NOSE LIGHT IN 17-40.50N 083-17.70E.
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031218Z JUL 26
+HYDROPAC 1911/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 04 AUG
+   BY M/V ALBATROSS 37 IN AREAS BOUND BY:
+   A. 19-01.24N 072-41.57E, 18-58.67N 072-40.77E,
+      18-56.13N 072-33.95E, 18-57.09N 072-33.38E,
+      18-59.27N 072-39.89E, 19-01.80N 072-41.19E.
+   B. 18-53.84N 072-30.88E, 18-52.21N 072-27.86E,
+      18-52.37N 072-26.74E, 18-54.59N 072-30.48E.
+   C. 14-07.46N 072-44.54E, 15-27.25N 071-59.27E,
+      16-23.49N 071-22.34E, 17-46.43N 072-03.90E,
+      18-45.33N 072-10.26E, 18-49.25N 072-19.27E,
+      18-49.61N 072-17.76E, 18-46.89N 072-08.42E,
+      17-48.15N 071-57.18E, 16-24.94N 071-12.93E,
+      14-02.38N 072-35.14E.
+   D. 09-15.69N 074-27.29E, 09-43.48N 074-30.75E,
+      10-55.02N 074-26.53E, 14-07.46N 072-44.54E,
+      14-02.38N 072-35.14E, 10-53.80N 074-20.51E,
+      09-17.06N 074-11.85E.
+   E. 09-15.69N 074-27.29E, 08-15.11N 074-51.47E,
+      08-06.28N 075-22.08E, 05-26.33N 077-28.70E,
+      04-48.93N 077-00.89E, 05-06.34N 076-43.66E,
+      06-15.71N 075-52.13E, 06-49.55N 075-28.31E,
+      07-22.41N 075-16.44E, 07-55.15N 074-57.49E,
+      07-50.20N 074-04.12E, 09-17.06N 074-11.85E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 050001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>030020Z JUL 26
+HYDROPAC 1906/26.
+NORTH PACIFIC.
+USCG REMOTE COMMUNICATION FACILITY GUAM
+13-29.00N 144-50.00E BROADCAST
+AND COMMUNICATION SERVICES UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FOUL GROUND</category>
+        <status>INFORCE</status>
+        <msgText>021532Z JUL 26
+HYDROPAC 1903/26.
+PERSIAN GULF.
+U.A.E.
+ANCHORING PROHIBITED IN AREA BOUND BY
+25-26.59N 055-05.88E, 25-28.17N 055-06.69E,
+25-28.32N 055-09.15E, 25-28.15N 055-09.36E,
+25-27.12N 055-09.36E, 25-26.60N 055-10.65E,
+25-25.39N 055-10.75E, 25-24.52N 055-08.77E,
+25-24.19N 055-06.88E, 25-25.85N 055-05.93E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011435Z JUL 26
+HYDROPAC 1896/26.
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0200Z TO 1300Z DAILY
+   02 THRU 23 JUL IN AREA BOUND BY
+   24-50.26N 066-43.04E, 24-50.23N 066-43.00E,
+   24-40.47N 066-40.28E, 24-40.44N 066-23.98E,
+   24-45.33N 066-25.45E.
+2. CANCEL THIS MSG 231400Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011428Z JUL 26
+HYDROPAC 1895/26.
+PERSIAN GULF.
+KUWAIT.
+SURVEY OPERATIONS 02 JUL UNTIL FURTHER NOTICE
+BY M/V NAYA, M/V VISION 2 AND M/V MUSAED 01001
+IN AREA BOUND BY
+29-01.72N 048-11.32E, 29-01.61N 048-11.35E,
+29-01.84N 048-11.94E, 29-01.42N 048-12.09E,
+29-01.40N 048-11.42E, 29-01.30N 048-11.46E,
+29-01.04N 048-09.56E, 29-01.26N 048-09.51E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011149Z JUL 26
+HYDROPAC 1893/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0900Z TO 1200Z AND 
+   1230Z TO 1430Z DAILY 03, 10, 17, 24 AND 
+   31 JUL AND 0900Z TO 1200Z DAILY 06, 13, 
+   20 AND 27 JUL IN AREA BOUND BY
+   09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
+   09-46.80N 076-11.60E, 09-50.00N 076-07.60E.   
+2. CANCEL THIS MSG 311530Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>011140Z JUL 26
+HYDROPAC 1892/26.
+ARABIAN SEA.
+INDIA.
+6.2 METER DEPTHS REPORTED IN VICINITY:
+A. 18-17.72N 072-55.18E.
+B. 18-17.77N 072-55.92E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>301420Z JUN 26
+HYDROPAC 1883/26.
+PERSIAN GULF.
+U.A.E.
+RACON AT DALMA BUOY 24-32.51N 052-27.85E
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301051Z JUN 26
+HYDROPAC 1882/26.
+BAY OF BENGAL.
+BANGLADESH.
+1. HAZARDOUS OPERATIONS 0001Z TO 1600Z DAILY
+   01 THRU 31 JUL EXCEPT FRIDAYS AND SATURDAYS
+   IN AREAS BOUND BY:
+   A. 21-20.83N 090-34.00E, 21-41.00N 091-14.00E,
+      21-20.83N 091-28.00E, 21-00.00N 090-47.83E.
+   B. 20-47.60N 091-29.80E, 20-24.00N 091-59.00E,
+      19-44.00N 091-21.00E, 20-07.00N 090-52.00E.
+   C. 21-18.00N 089-31.00E, 21-18.00N 089-50.00E,
+      21-04.00N 089-54.00E, 21-04.00N 089-34.00E.
+   D. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
+      20-34.00N 089-54.00E, 20-34.00N 089-34.00E.
+2. CANCEL THIS MSG 311700Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291217Z JUN 26
+HYDROPAC 1873/26.
+BASS STRAIT.
+TASMAN SEA.
+AUSTRALIA.
+CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY CABLESHIP RESPONDER 
+WITHIN FIVE MILES OF TRACKLINE JOINING
+38-19.86S 144-19.61E, 39-06.11S 145-33.18E,
+39-17.45S 146-22.33E, 39-23.78S 148-40.00E,
+39-20.00S 149-46.17E, 37-18.44S 153-20.94E.
+ONE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>291040Z JUN 26
+HYDROPAC 1869/26.
+SEA OF OKHOTSK.
+RUSSIA.
+WAVE RIDER BUOY ESTABLISHED IN 51-22.54N 144-14.17E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>290118Z JUN 26
+HYDROPAC 1864/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+SIX METER BUOY, YELLOW, ESTABLISHED
+IN 38-47.62S 142-37.77E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>290111Z JUN 26
+HYDROPAC 1863/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+ESTABLISHED IN AREA WITHIN TWO MILES OF
+38-46.00S 142-48.80E.
+THREE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>261216Z JUN 26
+HYDROPAC 1850/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
+   30 JUN THRU 30 JUL IN AREA BOUND BY
+   27-55.25N 144-57.80E, 28-15.25N 146-29.78E,
+   25-25.27N 147-37.78E, 25-00.26N 145-35.80E.
+2. CANCEL THIS MSG 311000Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221559Z JUN 26
+HYDROPAC 1846/26.
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0300Z TO 1900Z 
+   DAILY 01 THRU 03, 06 THRU 10, 13 THRU 17,
+   20 THRU 24 AND 27 THRU 31 JUL
+   IN AREAS BOUND BY:
+   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
+      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
+   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
+      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
+   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
+      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
+   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
+      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
+2. CANCEL THIS MSG 312000Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>232024Z JUN 26
+HYDROPAC 1815/26.
+1. SURVEY OPERATIONS 25 JUN THRU 30 JUL
+   BY M/V MARION DUFRESNE IN AREA BOUND BY
+   35-00.00S 007-00.00E, 42-00.00S 010-00.00E,
+   39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>210450Z JUN 26
+HYDROPAC 1796/26
+SINGAPORE STRAIT. 
+MALAYSIA.
+BATU BERHANTI ISOLATED DANGER LIGHT BUOY 
+01-11.76N 103-52.51E TEMPORARILY REMOVED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>201536Z JUN 26
+HYDROPAC 1794/26
+ARABIAN SEA.
+PAKISTAN.
+ORMARA LIGHTHOUSE 25-11.10N 064-41.10E UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MINE</category>
+        <status>INFORCE</status>
+        <msgText>182134Z JUN 26
+HYDROPAC 1772/26.
+STRAIT OF HORMUZ.
+OMAN.
+1. MINE REPORTED IN 26-24.58N 056-20.67E.
+2. CANCEL HYDROPAC 1586/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181230Z JUN 26
+HYDROPAC 1768/26.
+BERING SEA.
+RUSSIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 15 SEP
+   BY VESSEL ORDOVIK TOWING ONE 9000 METER
+   LONG CABLE IN AREA BOUND BY
+   64-35.55N 178-45.85E, 65-05.96N 178-32.02W,
+   64-10.73N 175-53.30W, 63-22.91N 176-15.38W,
+   63-02.48N 175-47.35W, 62-28.52N 176-58.18W,
+   63-11.07N 178-43.62W, 62-54.65N 179-19.97W,
+   63-31.31N 178-59.65E, 63-52.91N 178-52.69E,
+   64-20.40N 178-26.10E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300220Z MAY 26
+HYDROPAC 1585/26.
+BASS STRAIT.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+CABLE OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY CABLESHIP DEPENDABLE
+WITHIN TEN MILES OF TRACKLINE JOINING
+38-25.00S 144-28.00E, 38-28.00S 144-28.00E,
+38-22.00S 144-24.00E, 38-33.00S 144-19.00E,
+38-40.00S 144-08.00E, 38-59.00S 143-44.00E,
+39-17.00S 143-25.00E, 39-42.00S 142-37.00E,
+40-22.00S 137-28.00E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>280325Z MAY 26
+HYDROPAC 1567/26.
+TIMOR SEA.
+AUSTRALIA.
+21 BUOYS, YELLOW, FL Y 1.5 SEC,
+ESTABLISHED IN AREA BOUND BY
+09-51.00S 129-58.00E, 10-36.00S 129-58.00E,
+10-36.00S 128-43.00E, 09-51.00S 128-43.00E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220924Z MAY 26
+HYDROPAC 1516/26.
+SEA OF OKHOTSK.
+RUSSIA.
+1. UNDERWATER OPERATIONS 25 MAY THRU 31 DEC
+   IN AREA BOUND BY
+   51-34.92N 143-24.27E, 51-34.90N 144-06.22E,
+   51-32.60N 144-06.18E, 51-31.60N 144-43.48E,
+   50-47.97N 144-53.12E, 50-48.80N 143-40.03E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>202135Z MAY 26
+HYDROPAC 1493/26.
+SOUTH PACIFIC.
+FIJI.
+NGGELE LEVU LIGHT 16-05.42S 179-09.05W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231231Z APR 26
+HYDROPAC 1291/26.
+SEA OF OKHOTSK.
+RUSSIA.
+1. UNDERWATER OPERATIONS 01 MAY THRU 31 OCT
+   IN AREAS BOUND BY:
+   A. 51-27.95N 143-26.72E, 51-29.25N 143-45.52E,
+      51-24.43N 143-46.80E, 51-23.35N 143-27.97E.
+   B. 51-29.25N 143-45.52E, 51-29.36N 143-47.45E,
+      51-33.00N 143-45.00E, 51-33.00N 143-53.21E,
+      51-23.00N 144-00.00E, 51-23.38N 143-51.71E,
+      51-24.65N 143-50.62E, 51-24.43N 143-46.80E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>241653Z APR 26
+HYDROPAC 1237/26.
+BAY OF BENGAL.
+INDIA.
+BUOY ESTABLISHED IN 14-05.21N 080-28.50E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>221103Z APR 26
+HYDROPAC 1203/26.
+GULF OF KHAMBHAT.
+INDIA.
+RACON AT LUHARA POINT LIGHT 
+21-39.57N 072-32.89E INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>170645Z APR 26
+HYDROPAC 1134/26.
+SOUTH PACIFIC.
+CHILE.
+ISLA MAGDALENA LIGHT 52-55.10S 070-30.30W
+MISSING.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>080748Z APR 26
+HYDROPAC 1052/26.
+SOUTH PACIFIC.
+MOOREA.
+POINTE AROA LIGHT 17-28.40S 149-46.50W
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>040651Z APR 26
+HYDROPAC 1015/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+MOORING BUOY, FL W, IN VICINITY 20-16.32S 116-16.58E 
+SEMI-SUMERGED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>310719Z MAR 26
+HYDROPAC 974/26.
+SOUTH PACIFIC.
+DART 4G BUOY 35-45.40S 075-17.25W MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291726Z MAR 26
+HYDROPAC 957/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICE BY M/V SAFE BOREAS IN AREA BOUND BY
+12-54.90S 124-25.10E, 12-54.90S 124-35.10E,
+12-59.90S 124-35.10E, 12-59.90S 124-25.10E.
+THREE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>281744Z MAR 26
+HYDROPAC 952/26.
+ARABIAN SEA.
+PAKISTAN.
+MANORA BREAKWATER LIGHT 24-46.74N 066-58.96E
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>170524Z MAR 26
+HYDROPAC 808/26(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+NORTH OVALAU ISLAND LIGHT 17-33.81S 178-50.92E
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GPS JAMMING</category>
+        <status>INFORCE</status>
+        <msgText>031647Z MAR 26
+HYDROPAC 627/26(62).
+ARABIAN SEA.
+GULF OF OMAN.
+STRAIT OF HORMUZ.
+U.A.E.
+DNC 10.
+GPS, GNSS, AND AIS INTERFERENCE REPORTED IN 
+VICINITY OF FUJAIRAH (25-07.33N 056-20.05E).
+VESSELS ARE ADVISED TO NAVIGATE WITH EXTREME
+CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>021334Z MAR 26
+HYDROPAC 622/26(83).
+SOUTH PACIFIC.
+FIJI.
+DNC 06.
+UDU POINT LIGHT IN 16-07.53S 179-57.21W UNLIT. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>280355Z FEB 26
+HYDROPAC 598/26(62).
+PERSIAN GULF.
+IRAN.
+DNC 10.
+ODAS BUOY RELOCATED TO 28-49.63N 050-42.93E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>231645Z FEB 26
+HYDROPAC 540/26(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+WAVE RIDER BUOY, FL 5 Y 10 SEC, TEMPORARILY
+ESTABLISHED IN 26-39.57N 051-57.22E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>220144Z FEB 26
+HYDROPAC 527/26(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+MAGALLANES RADIO 53-09.92S 070-54.28W
+MF AND HF DSC OFF AIR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>161643Z FEB 26
+HYDROPAC 473/26(62).
+U.A.E.
+DNC 10.
+12.9 METER DEPTHS REPORTED IN BOROUGE CHANNEL
+24-09.00N 052-45.20E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>081406Z FEB 26
+HYDROPAC 379/26(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301519Z JAN 26
+HYDROPAC 292/26(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER 
+NOTICE BY M/V HALUL 41 IN AREA BOUND BY
+26-23.34N 051-47.10E, 26-23.34N 052-00.06E,
+25-56.52N 052-00.06E, 25-56.52N 051-47.10E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271037Z JAN 26
+HYDROPAC 241/26(72).
+MAKASSAR STRAIT.
+INDONESIA.
+DNC 04, DNC 11.
+SURVEY OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V RAMFORM SOVEREIGN
+TOWING 12 10050 METER LONG CABLES
+IN AREA BOUND BY
+00-10.30S 117-49.00E, 00-10.30S 117-50.20E,
+00-52.50S 117-50.20E, 01-30.60S 117-26.90E,
+01-33.70S 117-31.80E, 01-44.20S 117-25.40E,
+01-50.30S 117-36.30E, 01-55.30S 117-45.70E,
+01-23.40S 118-03.70E, 01-20.80S 117-59.40E,
+01-16.50S 118-00.70E, 01-16.50S 118-08.60E,
+01-33.60S 118-08.60E, 01-33.60S 118-33.50E,
+00-47.90S 118-33.70E, 00-48.00S 118-27.70E,
+00-14.00N 118-28.00E, 00-14.00N 118-10.10E,
+00-31.90N 118-10.10E, 00-32.00N 117-47.80E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>131732Z JAN 26
+HYDROPAC 104/26(63).
+EASTERN INDIAN OCEAN.
+INDIA.
+DNC 03.
+1. RACON AT MUTTUM POINT 08-07.00N 077-19.00E
+   INOPERATIVE.
+2. NAVTEX STATION MUTTUM POINT (L) 
+   08-07.00N 077-19.00E OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>011502Z JAN 26
+HYDROPAC 10/26(63).
+ARABIAN SEA.
+PAKISTAN.
+DNC 03.
+WRECK BUOY 24-46.45N 066-57.09E MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>051629Z OCT 25
+HYDROPAC 2558/25(62).
+PERSIAN GULF.
+U.A.E.
+DNC 10.
+ZAQQUM BUOY IN 25-06.56N 053-25.06E.
+LIGHT AND RACON UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>190907Z SEP 25
+HYDROPAC 2412/25(93).
+SOUTH CHINA SEA.
+VIETNAM.
+DNC 11.
+DANGEROUS WRECK IN 10-22.31N 107-46.96E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VOLCANIC ACTIVITY</category>
+        <status>INFORCE</status>
+        <msgText>021024Z SEP 25
+HYDROPAC 2242/25(97).
+NORTH PACIFIC.
+PHILIPPINE SEA.
+JAPAN.
+DNC 12.
+VOLCANIC ACTIVITY REPORTED AT IO-TO
+IN VICINTY OF 24-45.00N 141-17.3E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>171751Z JUL 25
+HYDROPAC 1823/25.
+CANCELLED ELECTRONIC NAVIGATIONAL CHART (ENC) 
+ADVISORY.
+USERS OF NGA ENC PRODUCTS ARE ADVISED OF 
+POTENTIAL UNINTENDED ECDIS BEHAVIOR WHEN 
+PROCESSING CANCELLED CHARTS, INCLUDING 
+REINSTALLATION OF RECENTLY CANCELLED CHARTS ON 
+SOME SYSTEMS WITHOUT OBVIOUS ERROR OR 
+WARNING MESSAGES.
+NGA HAS CONFIRMED THIS ISSUE AFFECTS NAVY VMS 9.5 AND
+RAYTHEON ANSCHUTZ SYNAPSIS NX SYSTEMS. THIS ISSUE DOES NOT
+AFFECT NAVY ECDIS. OTHER SYSTEMS ARE CURRENTLY UNASSESSED.
+USERS MAY REFERENCE NGAS ENC CATALOG (GLOBAL 
+OR REGIONAL PRODUCT LISTINGS) FOR A LIST OF 
+CANCELLED CHARTS WHICH SHOULD BE UNINSTALLED 
+FROM ECDIS.
+NGAS GLOBAL ENC CATALOG IS AVAILABLE ON
+HTTPS://MCDP.NGA.MIL, WITH REGIONAL ENC PRODUCT 
+LISTING SPREADSHEETS CONTAINED WITHIN EACH
+REGIONS ZIP ON ESYNC, NGAS WEBSITES, AND 
+WORLDCOVER DVD.
+USERS MAY FILTER PRODUCT LISTINGS FOR EDITION OF 
+CXL AND SORT BY ISSUE DATE TO SEE MOST RECENT 
+CANCELLATIONS.
+CHARTS CANCELLED WITHIN THE LAST 90 DAYS ARE 
+ACTIVELY DISSEMINATED BY NGA AND MOST LIKELY 
+CANDIDATES FOR INADVERTENT REINSTALLATION.
+NGA IS CONSULTING WITH THE USER COMMUNITY TO 
+ASSESS POSSIBLE CHANGES TO THE CANCELLED CHART 
+DISSEMINATION PROCESS TO MITIGATE THIS POTENTIAL
+UNINTENDED ECDIS BEHAVIOR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>171310Z JUL 25
+HYDROPAC 1819/25(81).
+NORTH PACIFIC.
+MARSHALL ISLANDS.
+DNC 12.
+DEPTHS REPORTED:
+A. 18 METERS IN 07-05.78N 171-22.53E.
+B. 15 METERS IN 07-05.71N 171-22.51E.
+C. 17.6 METERS IN 07-05.43N 171-22.46E.
+D. 11.6 METERS IN 07-06.20N 171-22.39E.
+E. 6.4 METERS IN 07-05.49N 171-22.48E.
+F. 14.5 METERS IN 07-05.70N 171-22.56E.
+G. 11.5 METERS IN 07-06.17N 171-22.40E.
+H. 5.4 METERS IN 07-06.16N 171-22.43E.
+I. 18.8 METERS IN 07-05.70N 171-22.47E.
+J. 11.2 METERS IN 07-05.30N 171-22.39E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>141418Z JUL 25
+HYDROPAC 1795/25(96).
+BERING STRAIT.
+RUSSIA.
+DNC 27.
+SCIENTIFIC MOORING, AT DEPTH SEVEN METERS,
+ESTABLISHED IN 66-19.56N 168-57.08W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>242359Z JUN 25
+HYDROPAC 1650/25(16).
+NORTH PACIFIC.
+DNC 25.
+M/V MORNING MIDAS SANK IN 45-16.88N 179-14.13W.
+VESSELS IN VICINITY REQUESTED TO NAVIGATE WITH
+CAUTION AND REPORT PRESENCE OF OIL SHEENS OR
+DEBRIS TO USCG SECTOR WESTERN ALASKA AND US ARCTIC,
+PHONE: 907 428 4100, E-MAIL: SOUTHWESTERNAK@USCG.MIL.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VESSEL ABANDONED</category>
+        <status>INFORCE</status>
+        <msgText>191650Z JUN 25
+HYDROPAC 1605/25(62).
+GULF OF OMAN.
+U.A.E.
+DNC 10.
+DERELICT 274 METER M/V ADALYNN UNLIT AND ANCHORED
+IN 25-36.99N 056-24.85E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>010543Z JUN 25
+HYDROPAC 1415/25(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+NAVIGATION PROHIBITED UNTIL FURTHER NOTICE
+IN AREA WITHIN 600 METERS OF 29-13.10N 048-44.42E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241756Z MAY 25
+HYDROPAC 1357/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V HYSY289
+IN AREA BOUND BY
+26-41.99N 051-53.26E, 26-41.94N 052-00.75E,
+26-37.65N 052-00.72E, 26-37.70N 051-53.23E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>280349Z MAR 25
+HYDROPAC 799/25(22).
+EASTERN SOUTH PACIFIC.
+CHILE.
+DNC 07.
+ARICA RADIO 18-29.10S 070-19.16W DSC MF 
+SERVICE OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>FOUL GROUND</category>
+        <status>INFORCE</status>
+        <msgText>071554Z FEB 25
+HYDROPAC 319/25(62).
+PERSIAN GULF.
+QATAR.
+DNC 10.
+FOUL GROUND, ANCHOR WITH 2.5 SHACKLE CHAIN REPORTED 
+IN 25-07.69N 052-53.09E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290955Z JAN 25
+HYDROPAC 221/25(96).
+SEA OF OKHOTSK.
+KURIL ISLANDS.
+DNC 24.
+1. MALOKURILSKIY LIGHT 43-52.50N 146-48.80E 
+   RANGE REDUCED TO EIGHT MILES.
+2. CANCEL HYDROPAC 3644/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>170957Z JAN 25
+HYDROPAC 111/25(GEN).
+EASTERN SOUTH ATLANTIC.
+SOUTHWESTERN INDIAN OCEAN.
+SOUTH AFRICA.
+DNC 01.
+CAPE TOWN RADIO E-MAIL UNUSABLE UNTIL FURTHER 
+NOTICE. FOR ASSISTANCE CONTACT NAVAREA VII,
+E-MAIL: MARITIMERADIO@TELKOM.CO.ZA, 
+MARITIMERADIO@GMAIL.COM.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>131317Z JAN 25
+HYDROPAC 83/25(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+MET TOWER 28-46.0N 048-26.1E TEMPORARILY
+REPLACED BY YELLOW BUOY, FL(4) 15 SEC 5M.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>STRUCTURE</category>
+        <status>INFORCE</status>
+        <msgText>061036Z JAN 25
+HYDROPAC 28/25(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+NAVIGATION PROHIBITED UNTIL FURTHER 
+NOTICE IN AREA WITHIN 600 METERS OF 
+28-52.49N 048-21.63E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VESSEL ABANDONED</category>
+        <status>INFORCE</status>
+        <msgText>191056Z DEC 24
+HYDROPAC 3849/24(62).
+RED SEA.
+SAUDI ARABIA.
+DNC 10.
+1. DERELICT M/V ISA STAR AGROUND 
+   IN 18-26.00N 041-06.00E.
+2. CANCEL HYDROPAC 3841/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>140734Z NOV 24
+HYDROPAC 3535/24(91).
+SOUTH CHINA SEA.
+PHILIPPINES.
+DNC 11.
+CAPE SANTIAGO LIGHT 13-46.32N 120-39.18E
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>301232Z APR 24
+HYDROPAC 1423/24(63).
+ARABIAN SEA.
+INDIA.
+DNC 03.
+1. DANGEROUS WRECK IN VICINITY 23-51.80N 067-20.90E.
+2. CANCEL HYDROPAC 1414/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071702Z APR 24
+HYDROPAC 1114/24(62).
+GULF OF OMAN.
+IRAN.
+DNC 10.
+LATTICE BEACON 25-38.19N 057-45.86E
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>180008Z MAR 24
+HYDROPAC 894/24(91,92).
+SIBUYAN SEA.
+SOUTH CHINA SEA.
+SULU SEA.
+PHILIPPINES.
+DNC 11.
+1. PIPELINE OPERATIONS IN PROGRESS UNTIL FURTHER
+   NOTICE IN VICINITY OF TRACKLINE JOINING
+   11-38.57N 118-54.38E 11-37.75N 118-58.07E
+   11-36.13N 119-00.28E 11-29.25N 119-09.63E
+   11-40.18N 119-42.99E 11-37.71N 119-56.63E
+   11-33.24N 120-06.25E 11-43.41N 120-26.00E
+   11-47.18N 120-37.34E 12-08.67N 121-16.78E
+   12-19.00N 121-32.46E 12-43.92N 121-42.06E
+   13-00.61N 121-37.75E 13-08.31N 121-36.77E
+   13-22.16N 121-20.65E 13-27.89N 121-13.39E
+   13-26.91N 121-07.06E 13-34.51N 121-00.11E
+   13-37.51N 121-00.48E 13-42.67N 121-03.05E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 425/24.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>191513Z FEB 24
+HYDROPAC 582/24(62).
+PERSIAN GULF.
+U.A.E.
+DNC 10.
+PARTIALLY SUBMERGED WRECK 
+IN VICINITY 25-11.64N 054-10.12E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>080424Z FEB 24
+HYDROPAC 462/24(83).
+SOUTH PACIFIC.
+TAHITI.
+DNC 06.
+POINTE VENUS LIGHT 17-29.70S 149-29.66W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>301517Z JAN 24
+HYDROPAC 363/24(61).
+REUNION.
+DNC 02.
+MRCC LA REUNION 21-06.00S 055-36.00E UNABLE
+TO RECEIVE MF AND HF TRANSMISSIONS.
+FOR ASSISTANCE CONTACT MRCC LA REUNION,
+PHONE: 2622 6243 4343, E-MAIL: REUNION@MRCCFR.EU.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>251548Z JAN 24
+HYDROPAC 311/24(62).
+PERSIAN GULF.
+KUWAIT.
+DNC 10.
+DANGEROUS WRECK MARKED BY BUOY IN 29-05.49N 048-22.09E.
+</msgText>
+    </smapsActiveEntity>
+</smaps>
