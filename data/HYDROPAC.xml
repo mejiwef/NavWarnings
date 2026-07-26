@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>260212Z JUL 26
+HYDROPAC 2138/26.
+CORAL SEA.
+AUSTRALIA.
+1. ROBIN REEF LIGHT 12-52.67S 143-41.78E
+    UNRELIABLE.
+2. CANCEL HYDROPAC 2133/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>260112Z JUL 26
+HYDROPAC 2137/26.
+LUZON STRAIT.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   300000Z TO 300600Z JUL IN AREA BOUND BY
+   21-04.53N 119-54.21E, 21-16.10N 120-26.61E,
+   20-25.41N 120-46.98E, 20-13.90N 120-14.74E.
+2. CANCEL THIS MSG 300700Z JUL 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>251652Z JUL 26
@@ -39,20 +64,9 @@ HYDROPAC 2134/26.
 SOUTH PACIFIC.
 ANTARCTICA.
 1. ICEBERG REPORTED IN: 
-A. A84, 71-35.40S 105-45.60W.
+   A. A84, 71-35.40S 105-45.60W.
 2. CANCEL THIS MSG 261005Z JUL 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>250932Z JUL 26
-HYDROPAC 2133/26
-CORAL SEA.
-AUSTRALIA.
-ROBIN REEF LIGHT K3235.575 12-52.67S 143-41.78E
-UNRELIABLE.
-CANCEL THIS MSG 280932Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
