@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>261515Z JUL 26
+NAVAREA IV 727/26.
+CARIBBEAN SEA.
+VENEZUELA.
+CABLE BUOY ESTABLISHED IN 12-28.30N 069-45.10W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>251906Z JUL 26
