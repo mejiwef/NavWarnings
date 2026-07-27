@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270940Z JUL 26
+HYDROLANT 1445/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 281000Z JUL TO 
+   192100Z AUG BY VESSEL USV UMI POLARIS
+   IN AREA BOUND BY
+   21-53.65S 040-49.70W, 21-53.74S 040-41.13W,
+   21-55.51S 040-41.15W, 21-55.82S 040-49.70W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 192200Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270122Z JUL 26
