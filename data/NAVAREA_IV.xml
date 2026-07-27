@@ -40,7 +40,8 @@ ARUBA TO FLORIDA.
    26-26.60N 079-54.70W, 26-23.90N 080-01.60W,
    26-22.80N 080-02.30W, 26-22.70N 080-04.10W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z AUG 26.</msgText>
+2. CANCEL THIS MSG 260001Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -77,7 +78,8 @@ NAVAREA IV 728/26.
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 280001Z JUL 26.</msgText>
+9. CANCEL THIS MSG 280001Z JUL 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -787,21 +789,6 @@ NAVAREA IV 551/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>052111Z JUN 26
-NAVAREA IV 538/26.
-NORTH ATLANTIC.
-GUYANA.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 25 AUG
-   BY M/V HANDIN TIDE IN AREA BOUND BY
-   08-00.65N 056-59.52W, 08-00.59N 056-54.85W,
-   08-04.50N 057-01.50W, 08-46.55N 057-33.55W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>062126Z JUN 26
@@ -834,6 +821,21 @@ GUYANA.
    08-04.55N 056-50.16W, 07-54.85N 056-50.16W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>052111Z JUN 26
+NAVAREA IV 538/26.
+NORTH ATLANTIC.
+GUYANA.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 25 AUG
+   BY M/V HANDIN TIDE IN AREA BOUND BY
+   08-00.65N 056-59.52W, 08-00.59N 056-54.85W,
+   08-04.50N 057-01.50W, 08-46.55N 057-33.55W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
