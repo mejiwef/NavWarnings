@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>271647Z JUL 26
+HYDROPAC 2155/26
+PERSIAN GULF.
+KUWAIT.
+M/V AYRIN AGROUND IN 29-42.57N 048-32.40E AT
+271630Z JUL.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO NAVAREA IX,
+EMAIL: HYDROPK@PAKNAVY.GOV.PK.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>271316Z JUL 26
