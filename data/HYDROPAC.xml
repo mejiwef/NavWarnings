@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>280017Z JUL 26
+HYDROPAC 2158/26.
+NORTH PACIFIC.
+USCG REMOTE COMMUNICATION FACILITY GUAM
+13-29.00N 144-50.00E HF TRANSMIT AND
+RECEIVE SERVICES UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>272359Z JUL 26
+HYDROPAC 2157/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V FUGRO KWILENA
+   IN AREA BOUND BY
+   19-56.69S 114-45.09E, 20-26.06S 114-45.09E,
+   20-26.06S 115-30.10E, 19-56.69S 115-30.10E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2095/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>271647Z JUL 26
@@ -119,20 +144,6 @@ SOUTH CHINA SEA.
    REPORTS TO MRCC VIETNAM,
    EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 2142/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261726Z JUL 26
-HYDROPAC 2146/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 271730Z TO 272130Z JUL
-   IN AREA BOUND BY
-   17-00.00N 083-00.00E, 17-17.00N 083-00.00E,
-   17-17.00N 083-20.00E, 17-00.00N 083-20.00E.
-2. CANCEL THIS MSG 272230Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -444,19 +455,6 @@ USCG REMOTE COMMUNICATION FACILITY GUAM
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230103Z JUL 26
-HYDROPAC 2107/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 271400Z TO 272100 JUL
-   IN AREA BOUND BY
-   33-07.00S 072-31.50W, 33-07.00S 072-08.00W,
-   33-27.00S 072-12.40W, 33-27.00S 072-31.50W.
-2. CANCEL THIS MSG 272200Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>230022Z JUL 26
@@ -512,21 +510,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211343Z JUL 26
-HYDROPAC 2095/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS
-UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
-IN AREA BOUND BY
-20-26.00S 114-32.50E, 20-26.00S 115-16.10E,
-21-42.60S 115-16.10E, 21-42.60S 114-32.50E.
-TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>211202Z JUL 26
@@ -536,16 +519,6 @@ INDIA.
 1. DERELICT M/V AL JAFZIA AGROUND IN
    19-11.50N 072-46.40E.
 2. CANCEL HYDROPAC 1624/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>211141Z JUL 26
-HYDROPAC 2091/26.
-ARABIAN SEA.
-PAKISTAN.
-MANORA LIGHTHOUSE LIGHT 24-47.58N 066-58.62E UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -667,17 +640,6 @@ CHILE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>170530Z JUL 26
-HYDROPAC 2044/26.
-TASMAN BAY.
-NEW ZEALAND.
-PASSAGE ROCK BUOY 40-52.51S 174-55.19E.
-MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>170436Z JUL 26
@@ -790,25 +752,6 @@ TIMOR SEA.
    12-22.00S 126-01.00E, 11-30.00S 126-01.00E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1694/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140350Z JUL 26
-HYDROPAC 2010/26.
-SEA OF OKHOTSK.
-KAMCHATKA.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 27 JUL BY M/V FYODOR KOVROV
-   IN AREA BOUND BY
-   58-30.00N 155-00.00E, 58-12.00N 156-20.00E,
-   57-00.00N 155-30.00E, 56-42.00N 155-24.00E,
-   56-41.98N 156-00.68E, 54-42.60N 155-39.00E,
-   54-49.00N 154-35.00E, 56-06.00N 153-57.00E,
-   57-48.00N 154-20.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 280001Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1301,17 +1244,6 @@ NOTICE BY M/V SAFE BOREAS IN AREA BOUND BY
 12-54.90S 124-25.10E, 12-54.90S 124-35.10E,
 12-59.90S 124-35.10E, 12-59.90S 124-25.10E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>281744Z MAR 26
-HYDROPAC 952/26.
-ARABIAN SEA.
-PAKISTAN.
-MANORA BREAKWATER LIGHT 24-46.74N 066-58.96E
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
