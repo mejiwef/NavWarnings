@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>291344Z JUL 26
+HYDROLANT 1464/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. YELLOW METEOOCEANOGRAPHIC BUOY ADRIFT
+   IN 30-39.23S 048-14.82W. AT 291259Z JUL.
+2. CANCEL HYDROLANT 1452/26.
+3. CANCEL THIS MSG 011338Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291105Z JUL 26
+HYDROLANT 1463/26
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 60-42.00S 052-49.20W.
+   B. A84, 71-35.40S 105-45.60W.
+   C. A85, 64-39.00S 053-51.00W.
+   D. D33A, 64-19.80S 055-24.60W.
+   E. D33C, 62-56.40S 053-27.00W.
+2. CANCEL THIS MSG 301105Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290847Z JUL 26
+HYDROLANT 1462/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 03 AUG THRU 11 SEP
+   IN AREA BOUND BY
+   05-42.53S 034-45.02W, 06-09.83S 034-46.82W,
+   06-03.93S 034-57.22W, 05-47.03S 034-56.32W.
+2. CANCEL THIS MSG 120001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290123Z JUL 26
@@ -29,7 +73,8 @@ SOUTH ATLANTIC.
    24-38.07S 042-29.30W, 24-38.97S 042-28.27W.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1456/26.
-3. CANCEL THIS MSG 060500Z JUN 27.</msgText>
+3. CANCEL THIS MSG 060500Z JUN 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -43,21 +88,6 @@ MOROCCO.
    33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
    33-50.50N 008-23.90W, 33-58.60N 008-14.30W.
 2. CANCEL THIS MSG 300059Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281439Z JUL 26
-HYDROLANT 1454/26
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-06.00S 052-11.00W.
-   B. A81, 60-24.00S 052-43.00W.
-   C. A76C, 52-27.00S 031-35.00W.
-   D. 59-34.00S 050-53.00W.
-2. CANCEL THIS MSG 291406Z JUL 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -83,19 +113,6 @@ ROMANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>281250Z JUL 26
-HYDROLANT 1452/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. YELLOW METEOOCEANOGRAPHIC BUOY ADRIFT
-   IN 30-15.72S 048-13.14W AT 280036Z JUL.
-2. CANCEL HYRDOLANT 1434/26.
-3. CANCEL THIS MSG 311231Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>281127Z JUL 26
@@ -106,22 +123,6 @@ WESTERN SAHARA.
    AT 281020Z. REPORT ANY INFORMATION TO
    COORD.NAVAREA2@SHOM.FR.
 2. CANCEL THIS MSG 311051Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281052Z JUL 26
-HYDROLANT 1450/26
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 60-42.00S 052-49.20W.
-   B. A84, 71-35.40S 105-45.60W.
-   C. A85, 64-39.00S 053-51.00W.
-   D. D33A, 64-19.80S 055-24.60W.
-   E. D33C, 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 291050Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -261,18 +262,6 @@ BRAZIL.
    IN VICINITY 20-23.65S 040-07.68W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 101900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>261401Z JUL 26
-HYDROLANT 1436/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. DERELICT VESSEL ADRIFT 
-   IN 24-26.00N 015-56.00W AT 260857 JUL.
-2. CANCEL THIS MSG 291401Z JUL 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
