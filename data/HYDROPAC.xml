@@ -387,24 +387,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>241246Z JUL 26
-HYDROPAC 2123/26.
-PHILIPPINE SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   1000Z TO 1600Z 29 JUL IN AREAS BOUND BY:
-   A. 19-42.00N 118-41.00E, 19-37.00N 120-07.00E,
-      18-59.00N 120-04.00E, 19-04.00N 118-38.00E.
-   B. 19-19.00N 123-26.00E, 19-14.00N 124-26.00E,
-      18-42.00N 124-23.00E, 18-47.00N 123-23.00E.
-   C. 17-28.00N 138-28.00E, 17-00.00N 141-10.00E,
-      16-13.00N 141-00.00E, 16-40.00N 138-20.00E.
-2. CANCEL THIS MSG 291700Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>241039Z JUL 26

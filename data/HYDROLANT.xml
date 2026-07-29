@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>291505Z JUL 26
+HYDROLANT 1466/26
+BLACK SEA. 
+1. DANGEROUS OBJECT ADRIFT IN 
+   43-51.96N 030-42.92E. AT 291030Z JUL.
+2. CANCEL THIS MSG 011502Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291426Z JUL 26
+HYDROLANT 1465/26
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-02.00S 051-58.00W.
+   B. A81, 60-23.00S 052-42.00W.
+   C. A76C, 52-19.00S 031-20.00W.
+   D. 59-34.00S 050-53.00W.
+2. CANCEL THIS MSG 301421Z JUL 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
         <status>INFORCE</status>
         <msgText>291344Z JUL 26
