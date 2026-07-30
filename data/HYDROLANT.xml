@@ -27,19 +27,6 @@ SOUTH SHETLAND ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>291344Z JUL 26
-HYDROLANT 1464/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. YELLOW METEOOCEANOGRAPHIC BUOY ADRIFT
-   IN 30-39.23S 048-14.82W. AT 291259Z JUL.
-2. CANCEL HYDROLANT 1452/26.
-3. CANCEL THIS MSG 011338Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>291105Z JUL 26
@@ -101,19 +88,6 @@ SOUTH ATLANTIC.
 2. CANCEL HYDROLANT 1456/26.
 3. CANCEL THIS MSG 060500Z JUN 27.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281901Z JUL 26
-HYDROLANT 1455/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 290001Z TO 292359Z JUL
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W.
-2. CANCEL THIS MSG 300059Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
