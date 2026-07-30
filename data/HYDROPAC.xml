@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>300741Z JUL 26
+HYDROPAC 2178/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+RACON AT PORT HEDLAND C1 LIGHT 
+19-59.49S 118-26.17E UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>291947Z JUL 26
@@ -262,20 +272,6 @@ AUSTRALIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>260112Z JUL 26
-HYDROPAC 2137/26.
-LUZON STRAIT.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   300001Z TO 300600Z JUL IN AREA BOUND BY
-   21-04.53N 119-54.21E, 21-16.10N 120-26.61E,
-   20-25.41N 120-46.98E, 20-13.90N 120-14.74E.
-2. CANCEL THIS MSG 300700Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>251539Z JUL 26
@@ -284,21 +280,6 @@ SOUTH CHINA SEA.
 VIETNAM.
 MAN OVERBOARD FROM F/V BTH 83952 TS
 IN 10-43.00N 108-49.00E AT 241500Z JUL.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>250315Z JUL 26
-HYDROPAC 2131/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V DNA 77121 TS,
-IN 16-32.00N 108-10.00E AT 240700Z JUL.
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
