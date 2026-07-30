@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301119Z JUL 26
+HYDROARC 152/26.
+KARA SEA.
+RUSSIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 SEP
+   IN AREA BOUND BY
+   66-54.00N 071-46.62E, 67-16.08N 072-23.60E,
+   67-22.60N 072-33.75E, 67-30.78N 072-47.65E,
+   67-28.55N 074-03.39E, 66-52.09N 073-30.39E,
+   66-20.86N 072-08.89E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>260905Z JUL 26

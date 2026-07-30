@@ -13,7 +13,8 @@ CALIFORNIA.
    32-45.00N 119-56.00W, 33-02.00N 120-40.00W,
    33-40.00N 120-42.00W, 33-48.00N 119-45.00W,
    33-30.00N 119-13.00W.
-2. CANCEL THIS MSG 020200Z AUG 26.</msgText>
+2. CANCEL THIS MSG 020200Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -60,7 +61,8 @@ CALIFORNIA.
    32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
    32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
    32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
