@@ -618,19 +618,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>171702Z JUL 26
-HYDROPAC 2057/26.
-GULF OF OMAN.
-OMAN.
-M/V AL BAHYAH ON FIRE AND ANCHORED IN
-25-48.07N 056-39.08E. VESSELS ARE ADVISED TO
-KEEP CLEAR OF THIS POSITION AND TO EXERCISE
-EXTREME CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>170436Z JUL 26
@@ -743,21 +730,6 @@ TIMOR SEA.
    12-22.00S 126-01.00E, 11-30.00S 126-01.00E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 1694/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>121953Z JUL 26
-HYDROPAC 1992/26
-STRAIT OF HORMUZ.
-OMAN.
-M/V GFX GALAXY DISABLED AND ADRIFT DUE TO 
-SHIPBOARD FIRE IN 26-14.40N 056-35.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO NAVAREA IX,
-EMAIL: HYDROPK@PAKNAVY.GOV.PK.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

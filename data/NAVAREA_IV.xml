@@ -9,7 +9,8 @@ GULF OF MEXICO.
 LOUISIANA.
 USCG REMOTE COMMUNICATION FACILITY
 NEW ORLEANS 29-53.00N 089-57.00W
-HF DSC SERVICES OFF AIR.</msgText>
+HF DSC SERVICES OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -174,7 +175,8 @@ WESTERN NORTH ATLANTIC.
 FLORIDA.
 1. NAVTEX STATION MIAMI (A) 25-30.00N 080-23.00W
    TRANSMIT AND RECEIVE SERVICES OFF AIR.
-2. CANCEL NAVAREA IV 733/26.</msgText>
+2. CANCEL NAVAREA IV 733/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICES</category>
@@ -281,7 +283,8 @@ TRINIDAD AND TOBAGO.
    10-06.86N 060-09.55W, 10-05.69N 060-08.91W.
    1200 METER BERTH REQUESTED. 
 2. CANCEL NAVAREA IV 648/26.
-3. CANCEL THIS MSG 240400Z AUG 26.</msgText>
+3. CANCEL THIS MSG 240400Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -832,17 +835,6 @@ NAVAREA IV 551/26.
 NAVAREA IV 545/26
 LM BUOY 09-25.99N 079-49.78W
 MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>060109Z JUN 26
-NAVAREA IV 540/26.
-CARIBBEAN SEA.
-VENEZULA.
-PUNTA BRAVA LIGHT 10-29.4N 068-00.5W 
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
