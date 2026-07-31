@@ -91,21 +91,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290436Z JUL 26
-HYDROPAC 2172/26.
-TIMOR SEA.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FUTHER NOTICE BY VESSEL VE CONSTRUCTOR
-IN AREA BOUND BY
-09-45.00S 130-10.00E, 09-55.00S 130-10.00E,
-09-55.00S 130-25.00E, 09-45.00S 130-25.00E.
-ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290411Z JUL 26
@@ -603,21 +588,6 @@ D. 26-40.75N 056-58.71E, 26-40.77N 056-58.79E,
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>161550Z JUL 26
-HYDROPAC 2074/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1543Z TO 2029Z DAILY 24 THRU 30 JUL
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 302129Z JUL 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>170436Z JUL 26
@@ -1000,18 +970,6 @@ PAKISTAN.
    D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL THIS MSG 312000Z JUL 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232024Z JUN 26
-HYDROPAC 1815/26.
-1. SURVEY OPERATIONS 25 JUN THRU 30 JUL
-   BY M/V MARION DUFRESNE IN AREA BOUND BY
-   35-00.00S 007-00.00E, 42-00.00S 010-00.00E,
-   39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>

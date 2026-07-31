@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>310003Z JUL 26
+HYDROLANT 1474/26.
+NORTH ATLANTIC. 
+COTE DIVOIRE.
+CANCEL HYDROLANT 1417/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301648Z JUL 26
@@ -680,18 +690,6 @@ SPAIN.
    37-52.25N 000-06.55E.
 2. CANCEL THIS MSG 310100Z OCT 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232024Z JUN 26
-HYDROLANT 1225/26.
-1. SURVEY OPERATIONS 25 JUN THRU 30 JUL
-   BY M/V MARION DUFRESNE IN AREA BOUND BY
-   35-00.00S 007-00.00E, 42-00.00S 010-00.00E,
-   39-00.00S 020-30.00E, 31-30.00S 017-30.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 310001Z JUL 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
