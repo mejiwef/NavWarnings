@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011851Z AUG 26
+HYDROPAC 2203/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY M/V BHAGWAN DRYDEN IN 20-06.96S 116-26.11E.
+THREE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>011820Z AUG 26
+HYDROPAC 2202/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V GAZLOG SHANGHAI DISABLED AND ADRIFT 
+IN 26-05.11N 056-35.40E AT 312330Z JUL.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS POSITION
+AND TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>011533Z AUG 26
+HYDROPAC 2201/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+1. GUNNERY EXERCISES 032200Z TO 040300Z AUG
+   IN AREA BOUND BY
+   17-13.00S 149-48.00W, 16-37.00S 150-08.00W,
+   16-30.00S 149-36.00W, 17-10.00S 149-36.00W.
+2. CANCEL THIS MSG 040400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>011522Z AUG 26
+HYDROPAC 2200/26.
+ARABIAN SEA.
+PAKISTAN.
+FAIRWAY BUOY 24-43.14N 066-55.86E MISSING.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>011511Z AUG 26
+HYDROPAC 2199/26.
+EASTERN INDIAN OCEAN.
+SRI LANKA.
+1. 17 EMPTY CONTAINERS ADRIFT IN VICINITY
+    06-54.38N 079-32.51E AT 010005Z AUG.
+2. CANCEL THIS MSG 041511Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>011056Z AUG 26
