@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>010457Z AUG 26
+NAVAREA IV 746/26
+GULF OF AMERICA.
+LOUISIANA.
+1. NEW ORLEANS (G) IN 29-53.00N 089-57.00W. 
+   HF AND MF TRANSMIT CAPABILITIES OFF AIR 
+   FROM 031100Z THRU 102000Z AUG.
+2. CANCEL THIS MSG 102100Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>311936Z JUL 26
@@ -235,18 +248,6 @@ NAVAREA IV 735/26
    PER IMO RESOLUTION A.1023(26), PARAGRAPH 11.5.1,
    CONTACT NAVSAFETY@NGA.MIL SUBJ: MODU REPORT.
 3. CANCEL NAVAREA IV 715/26. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>282342Z JUL 26
-NAVAREA IV 734/26.
-WESTERN NORTH ATLANTIC.
-FLORIDA.
-1. NAVTEX STATION MIAMI (A) 25-30.00N 080-23.00W
-   TRANSMIT AND RECEIVE SERVICES OFF AIR.
-2. CANCEL NAVAREA IV 733/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
