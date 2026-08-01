@@ -353,55 +353,6 @@ SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232136Z JUN 26
-NAVAREA XII 448/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS
-   010800Z JUL TO 010800Z AUG
-   IN AREA BOUND BY
-   32-52.70N 119-11.96W, 33-08.06N 118-52.09W,
-   33-08.06N 118-46.03W, 33-03.86N 118-41.80W,
-   33-02.53N 118-43.55W, 32-58.88N 118-43.52W,
-   32-47.66N 118-32.35W, 32-36.92N 118-45.00W,
-   32-36.92N 118-56.95W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232121Z JUN 26
-NAVAREA XII 447/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS
-   010800Z JUL TO 010800Z AUG
-   IN AREA BOUND BY
-   32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
-   32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
-   32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232118Z JUN 26
-NAVAREA XII 446/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 010800Z JUL TO
-   010800Z AUG IN AREA BOUND BY
-   32-33.00N 118-25.00W, 32-35.00N 118-16.00W,
-   32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
-   31-55.00N 118-25.00W.
-2. CANCEL THIS MSG 010900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>162018Z JUN 26
