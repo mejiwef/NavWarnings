@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>021214Z AUG 26
+HYDROPAC 2205/26.
+NORTH PACIFIC.
+JAPAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   061942Z TO 062132Z AUG, ALTERNATE 
+   1846Z TO 2129Z DAILY 07 THRU 20 AUG
+   IN AREAS BOUND BY:
+   A. 29-54.25N 139-39.04E, 30-03.15N 140-13.08E,
+      29-31.51N 143-45.29E, 29-23.50N 143-57.07E,
+      28-39.44N 143-50.49E, 28-31.46N 143-16.48E,
+      29-03.14N 139-43.59E, 29-10.19N 139-32.46E.
+   B. 26-22.01N 161-37.30E, 26-15.34N 163-07.12E,
+      24-25.07N 168-11.53E, 24-13.50N 168-23.42E,
+      22-45.20N 167-50.42E, 22-48.04N 166-29.35E,
+      24-40.14N 161-18.00E, 24-52.46N 161-04.30E.
+2. CANCEL THIS MSG 202229Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>020015Z AUG 26
