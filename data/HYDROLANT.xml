@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>021321Z AUG 26
+HYDROLANT 1491/26.
+SOUTH ATLANTIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-08.00S 052-49.00W.
+   B. A81, 60-02.00S 051-48.00W.
+   C. A76C, 52-23.00S 031-14.00W.
+2. CANCEL THIS MSG 031400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>020947Z AUG 26
 HYDROLANT 1490/26.
 SOUTH ATLANTIC.
@@ -62,21 +76,6 @@ ENGLAND.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011353Z AUG 26
-HYDROLANT 1487/26.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 60-10.00S 052-11.00W.
-   B. A81, 61-04.00S 052-31.00W.
-   C. A76C, 52-39.00S 030-03.00W.
-   D. 59-34.00S 050-53.00W.
-2. CANCEL THIS MSG 021400Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
         <status>INFORCE</status>
         <msgText>011304Z AUG 26
@@ -113,23 +112,6 @@ BRAZIL.
    IN 20-21.62S 040-08.00W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 161900Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011006Z AUG 26
-HYDROLANT 1483/26.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 60-22.80S 052-45.00W.
-   B. A84, 71-22.80S 103-40.20W.
-   C. A85, 64-10.80S 053-45.60W.
-   D. D33A, 64-05.40S 055-33.00W.
-   E. D33C, 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 021400Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>null</category>
