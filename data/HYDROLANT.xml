@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030922Z AUG 26
+HYDROLANT 1493/26.
+BLACK SEA.
+ROMANIA.
+1. SURVEY OPERATIONS IN PROGRESS 
+   UNTIL 16 AUG BY M/V OCEAN AERO
+   IN AREA BOUND BY
+   44-19.85N 028-47.28E, 44-18.55N 028-50.44E,
+   44-23.90N 028-52.49E, 44-25.27N 028-49.44E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 170001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PLATFORM</category>
         <status>INFORCE</status>
         <msgText>022216Z AUG 26

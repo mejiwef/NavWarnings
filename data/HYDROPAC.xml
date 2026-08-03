@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>030601Z AUG 26
+HYDROPAC 2215/26.
+ARAFURA SEA.
+AUSTRALIA.
+BOOBY ISLAND LIGHT 10-36.25S 141-54.68E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>030436Z AUG 26
+HYDROPAC 2214/26.
+CORAL SEA.
+AUSTRALIA.
+RACON AT SWAIN REEFS LIGHT 22-19.95S 152-43.83E
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>030421Z AUG 26
+HYDROPAC 2213/26.
+SOUTH PACIFIC.
+CHILE.
+1. NAVTEX STATION VALPARAISO (B)(H) 
+   32-48.40S 071-29.20W OFF AIR.
+2. VALPARAISO PLAYA ANCHA RADIO 
+   33-04.70S 071-36.80W WILL TRANSMIT
+   VIA SAFETYNET AND SAFETYCAST.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030400Z AUG 26
+HYDROPAC 2212/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 0800Z 
+   DAILY 05 AND 06 AUG IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 060900Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>311948Z JUL 26
+HYDROPAC 2211/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1543Z TO 2029Z DAILY 08 THRU 14 AUG
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W, 
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W, 
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 142129Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030153Z AUG 26
