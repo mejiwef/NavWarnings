@@ -410,20 +410,6 @@ BRAZIL.
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>270047Z JUL 26
-HYDROLANT 1442/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS 0800Z
-   TO 1800Z DAILY UNTIL 03 AUG BY M/V COMANDO B
-   AND M/V OCEANUS IN 20-23.48S 040-09.85W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 031900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>261435Z JUL 26
 HYDROLANT 1438/26.
 SOUTH ATLANTIC.

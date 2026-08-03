@@ -74,16 +74,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>030601Z AUG 26
-HYDROPAC 2215/26.
-ARAFURA SEA.
-AUSTRALIA.
-BOOBY ISLAND LIGHT 10-36.25S 141-54.68E
-UNRELIABLE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>030436Z AUG 26
