@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>022216Z AUG 26
+HYDROLANT 1492/26.
+NORTH SEA.
+ENGLAND.
+ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
+53-11.00N 002-05.80E UNLIT AND INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>021321Z AUG 26

@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030153Z AUG 26
+HYDROPAC 2210/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 04 THRU 06 AUG IN 13-23.90N 144-39.28E.
+2. CANCEL THIS MSG 061400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>030113Z AUG 26
+HYDROPAC 2209/26.
+GULF OF CARPENTARIA.
+AUSTRALIA.
+1. DERELICT TEN METER VESSEL ADRIFT IN
+   11-55.02S 141-54.27E AT 020629Z AUG.
+2. CANCEL THIS MSG 060113Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030124Z AUG 26
+HYDROPAC 2208/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 04 THRU 06 AUG IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 061400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030054Z AUG 26
+HYDROPAC 2207/26.
+SEA OF JAPAN.
+RUSSIA.
+1. MISSILE OPERATIONS 1400Z TO 0800Z DAILY
+   05 THRU 11 AUG IN AREA BOUND BY
+   42-43.90N 132-50.60E, 42-30.50N 133-14.00E,
+   41-24.40N 133-11.30E, 41-21.20N 132-24.60E,
+   42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
+   42-51.50N 132-30.80E.
+2. CANCEL THIS MSG 120900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030046Z AUG 26
+HYDROPAC 2206/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. HAZARDOUS OPERATIONS 1400Z TO 0900Z DAILY
+   04 THRU 10 AUG IN AREAS BOUND BY:
+   A. 51-43.50N 157-59.50E, 48-50.20N 159-48.00E,
+      47-23.00N 158-23.50E, 47-49.00N 153-04.20E,
+      48-07.20N 153-04.20E, 50-50.80N 154-15.00E,
+      50-50.80N 155-00.30E.
+   B. 52-13.10N 158-25.00E, 52-54.00N 159-42.00E,
+      52-46.00N 160-38.00E, 51-40.00N 160-30.00E,
+      49-23.50N 157-28.50E, 50-13.60N 156-03.00E,
+      51-32.00N 157-44.00E.
+2. CANCEL THIS MSG 111000Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021214Z AUG 26
