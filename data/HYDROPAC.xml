@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031159Z AUG 26
+HYDROPAC 2220/261.
+ANDAMAN SEA.
+BURMA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
+   DAILY 05 THRU 07 AUG IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 071130Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031152Z AUG 26
+HYDROPAC 2219/261.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 051430Z TO
+   051830Z AUG. IN AREA BOUND BY
+   15-06.00N 072-08.00E, 15-21.00N 072-08.00E,
+   15-21.00N 072-24.00E, 15-06.00N 072-24.00E.
+2. CANCEL THIS MSG 051930Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031136Z AUG 26
+HYDROPAC 2218/261.
+BAY OF BENGAL.
+INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 1230Z TO 1530Z
+   06 THRU 07 AUG DAILY. IN AREA BOUND BY
+   20-48.36N 087-02.58E, 18-12.36N 086-07.11E,
+   13-33.40S 085-21.48E, 12-48.16S 094-31.33E,
+   18-24.16N 088-30.45E, 20-48.76N 087-07.40E.
+2. CANCEL THIS MSG 071630Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031117Z AUG 26
+HYDROPAC 2217/261.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 061430Z TO 061730Z,
+   070430Z TO 070730Z AND 071430Z TO 071730Z AUG,
+   IN AREA BOUND BY
+   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
+   21-31.00N 087-42.00E, 21-41.00N 087-45.00E.
+2. CANCEL THIS MSG 071830Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031039Z AUG 26
+HYDROPAC 2216/261.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 050300Z TO 
+   060800Z AUG, IN AREA BOUND BY
+   16-20.00N 084-15.00E, 17-00.00N 084-15.00E,
+   17-00.00N 084-50.00E, 16-20.00N 084-50.00E.
+2. CANCEL THIS MSG 060900Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>030601Z AUG 26
@@ -344,19 +417,6 @@ HYDROPAC 2193/26.
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 2126/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311450Z JUL 26
-HYDROPAC 2192/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 030500Z TO 031200Z AUG
-   IN AREA BOUND BY
-   17-42.00N 083-43.00E, 17-30.00N 083-43.00E,
-   17-30.00N 083-53.00E, 17-42.00N 083-53.00E.
-2. CANCEL THIS MSG 031300Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

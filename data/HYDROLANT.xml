@@ -3,6 +3,67 @@
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>031354Z AUG 26
+HYDROLANT 1496/26.
+NORTH SEA.
+NORWAY.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   FURTHER NOTICE BY M/V RAMFORM HYPERION
+   TOWING 10 2740 METER LONG CABLES.
+   IN AREA BOUND BY
+   59-28.00N 001-50.40E, 59-42.60N 002-15.70E,
+   59-29.00N 003-02.70E, 58-51.80N 002-21.70E,
+   58-59.00N 001-52.80E.
+   THREE MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1476/26. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031325Z AUG 26
+HYDROLANT 1495/261.
+SOUTH ATLANTIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-09.00S 053-04.00W.
+   B. A81, 59-56.00S 051-31.00W.
+   C. A76C, 52-23.00S 031-14.00W.
+   D. 58-20.00S 020-00.00W.
+   E. 46-00.00S 020-00.00W.
+   F. 53-00.00S 038-00.00W.
+   G. 58-05.00S 038-00.00W.
+   H. 58-05.00S 038-00.00W.
+   I. 53-00.00S 038-00.00W.
+   J. 58-00.00S 050-00.00W.
+   K. 60-40.00S 050-00.00W.
+   L. 60-40.00S 050-00.00W.
+   M. 58-00.00S 050-00.00W.
+   N. 63-00.00S 067-16.00W.
+   O. 66-20.00S 067-16.00W.
+2. CANCEL THIS MSG 041400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031144Z AUG 26
+HYDROLANT 1494/261.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 60-22.80S 052-45.00W.
+   B. A84, 71-22.80S 103-40.20W.
+   C. A85, 64-10.80S 053-45.60W.
+   D. D33A, 64-05.40S 055-33.00W.
+   E. D33C, 62-56.40S 053-27.00W.
+2. CANCEL THIS MSG 041400Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>030922Z AUG 26
 HYDROLANT 1493/26.
 BLACK SEA.
@@ -25,37 +86,6 @@ NORTH SEA.
 ENGLAND.
 ALL NAVIGATIONAL AIDS AT PLATFORM SOUTHWARK
 53-11.00N 002-05.80E UNLIT AND INOPERATIVE.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021321Z AUG 26
-HYDROLANT 1491/26.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-08.00S 052-49.00W.
-   B. A81, 60-02.00S 051-48.00W.
-   C. A76C, 52-23.00S 031-14.00W.
-2. CANCEL THIS MSG 031400Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>020947Z AUG 26
-HYDROLANT 1490/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 60-22.80S 052-45.00W.
-   B. A84, 71-22.80S 103-40.20W.
-   C. A85, 64-10.80S 053-45.60W.
-   D. D33A, 64-05.40S 055-33.00W.
-   E. D33C, 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 031400Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -210,16 +240,6 @@ HYDROLANT 1481/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>311418Z JUL 26
-HYDROLANT 1479/26.
-BLACK SEA.
-ROMANIA. 
-1. OBJECT ADRIFT IN VICINITY 45-08.68N 029-55.48E.
-2. CANCEL THIS MSG 031419Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>311353Z JUL 26
@@ -233,25 +253,6 @@ IN AREA BOUND BY
 58-52.30N 001-35.90E, 58-51.00N 001-55.40E,
 58-32.40N 001-50.60E, 58-33.80N 001-31.00E.
 TWO MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>310846Z JUL 26
-HYDROLANT 1476/26.
-NORTH SEA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   FURTHER NOTICE BY M/V RAMFORM HYPERION
-   TOWING TEN 2735 METER LONG CABLES
-   IN AREA BOUND BY
-   59-32.80N 002-27.50E, 59-25.50N 002-52.50E,
-   58-57.90N 002-21.70E, 59-04.30N 001-59.20E,
-   59-08.90N 002-01.10E, 59-21.50N 002-15.00E,
-   59-21.50N 002-04.40E, 59-28.50N 002-04.20E,
-   59-28.60N 002-22.80E.
-   THREE MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1459/26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

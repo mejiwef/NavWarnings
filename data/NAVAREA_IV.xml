@@ -484,23 +484,6 @@ NAVAREA IV 677/26
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101724Z JUL 26
-NAVAREA IV 675/26.
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL
-   031000Z AUG BY M/V DLV 2000 
-   ALONG TRACKLINE JOINING
-   10-03.73N 061-00.62W, 10-03.65N 060-57.67W,
-   09-52.32N 060-28.13W, 09-54.29N 060-17.43W,
-   09-57.88N 060-13.71W.
-   500 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 031100Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>091509Z JUL 26
