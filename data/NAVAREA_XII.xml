@@ -135,17 +135,6 @@ NAVAREA XII 522/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>302210Z JUL 26
-NAVAREA XII 521/26.
-EASTERN NORTH PACIFIC.
-CALIFORNIA.
-NAVTEX STATION CAMBRIA (Q) 35-31.00N 121-04.00W
-OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICES</category>
         <status>INFORCE</status>
         <msgText>280017Z JUL 26

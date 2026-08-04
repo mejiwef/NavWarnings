@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>032225Z AUG 26
+HYDROPAC 2222/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. RACON AT PORT HEDLAND C1 LIGHT
+   19-59.49S 118-26.17E INOPERATIVE.
+2. CANCEL HYDROPAC 2178/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031159Z AUG 26

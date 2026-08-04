@@ -345,29 +345,6 @@ SOUTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281341Z JUL 26
-HYDROLANT 1453/26
-BLACK SEA.
-ROMANIA. 
-1. MARINE ACTIVITIES IN PROGRESS UNTIL 03 AUG BY
-   TWO TRITON SURFACE/SUBSURFACE AUTONOMOUS 
-   UNMANNED VEHICLES:  
-   A. ALONG TRACKLINE JOINING
-      44-17.87N 028-41.20E, 44-15.97N 028-41.85E,
-      44-09.80N 028-53.71E, 43-55.24N 028-53.44E,
-      44-09.78N 028-53.70E, 44-16.08N 028-48.03E,
-      44-21.11N 028-54.60E, 44-17.35N 028-49.11E,
-      44-15.27N 028-42.80E, 44-17.83N 028-41.16E.
-   B. IN AREA BOUND BY
-      44-07.61N 028-40.21E, 44-07.80N 028-40.68E,
-      44-06.96N 028-41.48E, 44-06.74N 028-41.04E.
-    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>271703Z JUL 26

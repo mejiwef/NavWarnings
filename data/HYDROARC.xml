@@ -54,30 +54,6 @@ WIDE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>220706Z JUL 26
-HYDROARC 141/26.
-KARA SEA.
-RUSSIA.
-1. SURVEY OPERATIONS 23 JUL THRU 03 AUG 
-   BY M/V KIMBERLIT IN: 
-   A. 68-30.24N 073-49.09E.
-   B. 68-30.33N 073-49.30E.
-   C. 68-30.34N 073-48.87E.
-   D. 68-30.49N 073-48.00E.
-   E. 68-30.56N 073-47.98E.
-   F. 68-30.53N 073-47.43E.
-   G. 68-30.63N 073-47.21E.
-   H. 68-30.67N 073-46.63E.
-   I. 68-30.80N 073-46.66E.
-   J. 68-30.83N 073-45.77E.
-   K. 68-30.93N 073-45.55E.
-   371 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 040001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>101136Z JUL 26
 HYDROARC 126/26.
 KARA SEA.
