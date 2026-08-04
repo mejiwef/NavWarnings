@@ -608,16 +608,6 @@ FRENCH GUIANA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>271141Z JUN 26
-NAVAREA IV 631/26.
-CARIBBEAN SEA.
-COLOMBIA.
-CABO TIBURON LIGHT 08-40.60N 077-21.50W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241547Z JUN 26

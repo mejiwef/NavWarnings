@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
+        <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>032225Z AUG 26
-HYDROPAC 2222/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. RACON AT PORT HEDLAND C1 LIGHT
-   19-59.49S 118-26.17E INOPERATIVE.
-2. CANCEL HYDROPAC 2178/26.</msgText>
+        <msgText>040815Z AUG 26
+HYDROPAC 2224/26.
+EASTERN SOUTH PACIFIC.
+CHILE.
+1. TALCAHUANO RADIO 36-41.50S 073-06.50W 
+   OFF AIR.
+2. VALPARAISO PLAYA ANCHA RADIO 
+   33-04.70S 071-36.80W WILL TRANSMIT
+   VIA SAFETYNET AND SAFETYCAST.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -267,19 +270,6 @@ IN 26-05.11N 056-35.40E AT 312330Z JUL.
 VESSELS ARE ADVISED TO KEEP CLEAR OF THIS POSITION
 AND TO EXERCISE EXTREME CAUTION.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>011533Z AUG 26
-HYDROPAC 2201/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. GUNNERY EXERCISES 032200Z TO 040300Z AUG
-   IN AREA BOUND BY
-   17-13.00S 149-48.00W, 16-37.00S 150-08.00W,
-   16-30.00S 149-36.00W, 17-10.00S 149-36.00W.
-2. CANCEL THIS MSG 040400Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
