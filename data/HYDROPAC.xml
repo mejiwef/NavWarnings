@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>041407Z AUG 26
+HYDROPAC 2231/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V MINOAN PIONEER ON FIRE AND ANCHORED
+IN 26-27.60N 056-32.50E.
+MARINERS ARE ADVISED TO NAVIGATE WITH CAUTION.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>041135Z AUG 26
+HYDROPAC 2228/26.
+SOUTH CHINA SEA.
+VIETNAM.
+ONE PERSON MISSING FROM VESSEL IN
+08-58.60N 105-26.60E AT 032100Z AUG.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041048Z AUG 26
+HYDROPAC 2227/26.
+EASTERN INDIAN OCEAN.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 061030Z TO 071030Z AUG
+   IN AREA BOUND BY
+   17-32.78N 070-56.58E, 17-32.78N 071-01.58E,
+   17-37.82N 071-01.58E, 17-37.82N 070-56.58E.
+2. CANCEL THIS MSG 071130Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>040923Z AUG 26
+HYDROPAC 2226/26.
+GULF OF THAILAND.
+VIETNAM.
+TWO PERSONS OVERBOARD FROM 
+F/V AG 62009 TS IN 10-02.00N 103-57.00E 
+AT 030955Z AUG. ONE PERSON RECOVERED, 
+ONE PERSON REMAIN MISSING.
+VESSELS IN VICINITY REQUESTED TO 
+KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>040909Z AUG 26
+HYDROPAC 2225/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V QNG 95157 TS, 30 PERSONS ON BOARD, 
+ON FIRE IN 12-32.00N 109-45.00E AT 
+040720Z AUG. 30 PERSONS ABANDONED SHIP
+IN LIFERAFT. VESSELS IN VICINITY REQUESTED 
+TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>040815Z AUG 26
@@ -216,27 +292,6 @@ KAMCHATKA.
 2. CANCEL THIS MSG 111000Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>021214Z AUG 26
-HYDROPAC 2205/26.
-NORTH PACIFIC.
-JAPAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   061942Z TO 062132Z AUG, ALTERNATE 
-   1846Z TO 2129Z DAILY 07 THRU 20 AUG
-   IN AREAS BOUND BY:
-   A. 29-54.25N 139-39.04E, 30-03.15N 140-13.08E,
-      29-31.51N 143-45.29E, 29-23.50N 143-57.07E,
-      28-39.44N 143-50.49E, 28-31.46N 143-16.48E,
-      29-03.14N 139-43.59E, 29-10.19N 139-32.46E.
-   B. 26-22.01N 161-37.30E, 26-15.34N 163-07.12E,
-      24-25.07N 168-11.53E, 24-13.50N 168-23.42E,
-      22-45.20N 167-50.42E, 22-48.04N 166-29.35E,
-      24-40.14N 161-18.00E, 24-52.46N 161-04.30E.
-2. CANCEL THIS MSG 202229Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>020015Z AUG 26
@@ -321,25 +376,6 @@ RUSSIA.
    42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
    42-51.50N 132-30.80E.
 2. CANCEL THIS MSG 120900Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>312350Z JUL 26
-HYDROPAC 2196/26.
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   040600Z TO 041200Z AUG IN AREAS BOUND BY:
-   A. 13-13.80N 115-28.80E, 13-33.00N 115-56.40E,
-      12-40.20N 116-35.40E, 12-20.40N 116-07.80E.   
-   B. 08-37.20N 118-47.40E, 08-56.40N 119-15.00E,
-      08-03.00N 119-52.80E, 07-43.80N 119-25.80E.
-   C. 08-27.00N 118-48.60E, 08-52.20N 119-24.60E,
-      07-58.80N 120-02.40E, 07-33.60N 119-26.40E.
-2. CANCEL THIS MSG 041300Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -570,25 +606,6 @@ VICINITY REQUESTED TO KEEP A SHARP LOOKOUT,
 ASSIST IF POSSIBLE. REPORTS TO JRCC HONOLULU,
 PHONE: 800 331 6176,
 EMAIL: JRCCHONOLULU@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>301308Z JUL 26
-HYDROPAC 2179/26.
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   040844Z TO 040920Z AUG
-   IN AREAS BOUND BY:
-   A. 13-14.00N 115-29.00E, 13-33.00N 115-56.00E,
-      12-40.00N 116-35.00E, 12-20.00N 116-08.00E.
-   B. 08-37.00N 118-47.00E, 08-56.00N 119-15.00E,
-      08-52.00N 119-25.00E, 07-59.00N 120-02.00E,
-      07-34.00N 119-26.00E, 08-27.00N 118-49.00E.
-2. CANCEL THIS MSG 041020Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1078,16 +1095,6 @@ INDIA.
    19-07.50N 072-47.72E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 150001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>141703Z JUL 26
-HYDROPAC 2019/26.
-ANDAMAN SEA.
-BURMA.
-M/V ATK NYETN SANK IN 15-31.40N 097-07.90E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

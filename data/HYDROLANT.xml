@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>041257Z AUG 26
+HYDROLANT 1499/261.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 60-22.80S 052-45.00W.
+   B. A84, 71-22.80S 103-40.20W.
+   C. A85, 64-10.80S 053-45.60W.
+   D. D33A, 64-05.40S 055-33.00W.
+   E. D33C, 62-56.40S 053-27.00W.
+2. CANCEL THIS MSG 051400Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041026Z AUG 26
+HYDROLANT 1497/26.
+SOUTH ATLANTIC.
+ANGOLA.
+1. SURVEY OPERATIONS IN PROGRESS 
+   UNTIL 22 AUG BY CABLESHIP NAUTILUS
+   IN: 
+   A. 06-16.56S 011-14.56E.
+   B. 06-28.99S 011-01.04E.
+   C. 06-18.69S 011-05.44E.
+   D. 06-28.14S 011-09.26E.
+   E. 06-20.63S 011-09.34E.
+   F. 06-22.58S 011-00.52E.
+   G. 06-27.33S 011-05.36E.
+   H. 06-22.56S 011-00.57E.
+   I. 06-21.26S 011-16.74E.
+   J. 06-11.13S 011-05.44E.
+   K. 06-16.40S 011-04.25E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 230001Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031354Z AUG 26
@@ -16,50 +59,6 @@ NORWAY.
    58-59.00N 001-52.80E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1476/26. </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031325Z AUG 26
-HYDROLANT 1495/261.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-09.00S 053-04.00W.
-   B. A81, 59-56.00S 051-31.00W.
-   C. A76C, 52-23.00S 031-14.00W.
-   D. 58-20.00S 020-00.00W.
-   E. 46-00.00S 020-00.00W.
-   F. 53-00.00S 038-00.00W.
-   G. 58-05.00S 038-00.00W.
-   H. 58-05.00S 038-00.00W.
-   I. 53-00.00S 038-00.00W.
-   J. 58-00.00S 050-00.00W.
-   K. 60-40.00S 050-00.00W.
-   L. 60-40.00S 050-00.00W.
-   M. 58-00.00S 050-00.00W.
-   N. 63-00.00S 067-16.00W.
-   O. 66-20.00S 067-16.00W.
-2. CANCEL THIS MSG 041400Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031144Z AUG 26
-HYDROLANT 1494/261.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 60-22.80S 052-45.00W.
-   B. A84, 71-22.80S 103-40.20W.
-   C. A85, 64-10.80S 053-45.60W.
-   D. D33A, 64-05.40S 055-33.00W.
-   E. D33C, 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 041400Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -130,17 +129,6 @@ ENGLAND.
    C. GREGNESS SITE 57-07.70N 002-03.20W.
 2. CANCEL HYDROLANT 1441/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>011304Z AUG 26
-HYDROLANT 1486/26.
-CELTIC SEA.
-IRELAND.
-1. BUOY ADRIFT IN 48-26.00N 009-39.50W
-   AT 011200Z AUG.
-2. CANCEL THIS MSG 041304Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -550,19 +538,6 @@ ANGOLA.
    05-54.00S 011-30.00E, 05-54.00S 010-46.50E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1288/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MINING EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>301518Z JUN 26
-HYDROLANT 1280/26.
-ENGLISH CHANNEL.
-ENGLAND.
-SUBSURFACE EXERCISE MINES ESTABLISHED IN:
-A. 50-37.00N 002-23.50W.
-B. 50-36.90N 002-23.70W.
-C. 50-36.80N 002-23.80W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
