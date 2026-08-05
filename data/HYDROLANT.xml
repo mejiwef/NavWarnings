@@ -3,6 +3,28 @@
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
+        <msgText>050057Z AUG 26
+HYDROLANT 1505/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ARARIPE LIGHT 16-08.09S 038-57.86W UNLIT
+   UNTIL 31 JAN 27.
+2. CANCEL THIS MSG 010001Z FEB 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>050041Z AUG 26
+HYDROLANT 1504/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. PONTA MUTA LIGHT 13-52.76S 038-56.71W UNLIT
+   UNTIL 31 JAN 27.
+2. CANCEL THIS MSG 010001Z FEB 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
         <msgText>041634Z AUG 26
 HYDROLANT 1503/26.
 NORTH ATLANTIC.
@@ -507,18 +529,6 @@ ROMANIA.
    REPORTS TO MRCC CONSTANTA, 
    EMAIL: MRCC@RNA.RO.
 2. CANCEL HYDROLANT 1401/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>210125Z JUL 26
-HYDROLANT 1398/26.
-SOUTH ATLANTIC.
-BRAZIL. 
-1. ITAPEVA LIGHT 29-33.40S 049-53.37W
-   UNLIT UNTIL 16 JAN 27.
-2. CANCEL THIS MSG 170001Z JAN 27.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
