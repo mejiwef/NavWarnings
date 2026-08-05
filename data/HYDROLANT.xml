@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051352Z AUG 26
+HYDROLANT 1508/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 61-09.00S 053-22.00W.
+   B. A81, 59-40.00S 050-56.00W.
+   C. A76C, 52-39.00S 030-49.00W.
+2. CANCEL THIS MSG 061400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>051036Z AUG 26
+HYDROLANT 1507/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 60-22.80S 052-45.00W.
+   B. A84, 71-22.80S 103-40.20W.
+   C. A85, 64-10.80S 053-45.60W.
+   D. D33A, 64-05.40S 055-33.00W.
+   E. D33C, 62-56.40S 053-27.00W.
+2. CANCEL THIS MSG 061400Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>050057Z AUG 26
@@ -9,7 +41,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. ARARIPE LIGHT 16-08.09S 038-57.86W UNLIT
    UNTIL 31 JAN 27.
-2. CANCEL THIS MSG 010001Z FEB 27.</msgText>
+2. CANCEL THIS MSG 010001Z FEB 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -20,7 +53,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. PONTA MUTA LIGHT 13-52.76S 038-56.71W UNLIT
    UNTIL 31 JAN 27.
-2. CANCEL THIS MSG 010001Z FEB 27.</msgText>
+2. CANCEL THIS MSG 010001Z FEB 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -30,66 +64,6 @@ HYDROLANT 1503/26.
 NORTH ATLANTIC.
 MOROCCO.
 EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041608Z AUG 26
-HYDROLANT 1502/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-10.00S 053-16.00W.
-   B. A81, 59-48.00S 051-13.00W.
-   C. A76C, 52-39.00S 030-49.00W.
-2. CANCEL THIS MSG 051400Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041418Z AUG 26
-HYDROLANT 1500/261.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 61-10.00S 053-16.00W.
-   B. A81, 59-48.00S 051-13.00W.
-   C. A76C, 52-39.00S 030-49.00W.
-   D. 58-20.00S 020-00.00W.
-   E. 46-00.00S 020-00.00W.
-   F. 53-00.00S 038-00.00W.
-   G. 58-05.00S 038-00.00W.
-   H. 58-05.00S 038-00.00W.
-   I. 53-00.00S 038-00.00W.
-   J. 58-00.00S 050-00.00W.
-   K. 60-40.00S 050-00.00W.
-   L. 60-40.00S 050-00.00W.
-   M. 58-00.00S 050-00.00W.
-   N. 63-00.00S 067-16.00W.
-   O. 66-20.00S 067-16.00W.
-2. CANCEL THIS MSG 051400Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041257Z AUG 26
-HYDROLANT 1499/261.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 60-22.80S 052-45.00W.
-   B. A84, 71-22.80S 103-40.20W.
-   C. A85, 64-10.80S 053-45.60W.
-   D. D33A, 64-05.40S 055-33.00W.
-   E. D33C, 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 051400Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

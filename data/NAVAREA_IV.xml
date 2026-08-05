@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050905Z AUG 26
+NAVAREA IV 756/26.
+CARIBBEAN SEA.
+JAMAICA.
+1. UNDERWATER OPERATIONS 05 THRU 19 AUG 
+   BY CABLESHIP IT INTREPID
+   IN 16-32.79N 075-39.00W.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 200001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>050309Z AUG 26

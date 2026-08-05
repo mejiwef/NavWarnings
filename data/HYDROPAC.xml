@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051335Z AUG 26
+HYDROPAC 2244/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 070530Z TO 071130Z AUG
+   IN AREA BOUND BY
+   16-50.34N 083-29.35E, 16-44.32N 083-29.35E,
+   16-44.32N 083-55.06E, 16-50.34N 083-35.06E.
+2. CANCEL THIS MSG 071230Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051328Z AUG 26
+HYDROPAC 2243/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 070730 TO 070930Z AUG
+   IN AREA BOUND BY
+   17-04.00N 083-23.00E, 17-11.00N 083-23.00E,
+   17-11.00N 083-30.00E, 17-04.00N 083-30.00E.
+2. CANCEL THIS MSG 071030Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>051231Z AUG 26
+HYDROPAC 2242/26.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1455Z TO 2205Z DAILY 10 THRU 16 AUG
+   ALONG TRACKLINE JOINING
+   40-44.00S 081-06.00E, 52-26.00S 115-07.00E,
+   48-08.00S 160-00.00E.
+2. CANCEL THIS MSG 162305Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051218Z AUG 26
+HYDROPAC 2241/26.
+TIMOR SEA.
+AUSTRALIA.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
+NOTICEBY M/V SW BLY TOWING TWELVE 7300 METER
+CABLES IN AREA BOUND BY
+12-47.76S 127-35.15E, 12-38.08S 127-44.03E,
+12-38.27S 128-06.05E, 13-18.37S 128-53.75E,
+13-38.87S 128-35.38E.
+SEVEN MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051047Z AUG 26
+HYDROPAC 2239/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0330Z TO 0730Z
+   DAILY 06 THRU 07 AUG IN AREA BOUND BY
+   09-22.00N 075-47.00E, 09-30.00N 075-47.00E,
+   09-30.00N 075-55.00E, 09-22.00N 075-55.00E.
+2. CANCEL THIS MSG 070830Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>050939Z AUG 26
+HYDROPAC 2238/26.
+EASTERN SOUTH PACIFIC.
+CHILE.
+1. MAGALLANES RADIO 53-09.90S 070-54.30W
+   HF, MF AND RADIOTELEX OFF AIR.
+2. CANCEL HYDROPAC 527/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021629Z AUG 26
@@ -11,13 +95,13 @@ SOUTH PACIFIC.
    101709Z TO 102205Z, 111646Z TO 112142Z,  
    121624Z TO 122120Z, 131602Z TO 132058Z,  
    141539Z TO 142035Z, 151517Z TO 152013Z,  
-   AND 161455Z TO 161951Z AUG 
-   IN AREA BOUND BY
+   AND 161455Z TO 161951Z AUG IN AREA BOUND BY
    48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
    51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
    41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
    49-27.00S 159-48.00E.
-2. CANCEL THIS MSG 162051Z AUG 26.</msgText>
+2. CANCEL THIS MSG 162051Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -253,22 +337,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030054Z AUG 26
-HYDROPAC 2207/26.
-SEA OF JAPAN.
-RUSSIA.
-1. MISSILE OPERATIONS 1400Z TO 0800Z DAILY
-   05 THRU 11 AUG IN AREA BOUND BY
-   42-43.90N 132-50.60E, 42-30.50N 133-14.00E,
-   41-24.40N 133-11.30E, 41-21.20N 132-24.60E,
-   42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
-   42-51.50N 132-30.80E.
-2. CANCEL THIS MSG 120900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030046Z AUG 26
@@ -338,23 +406,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311241Z JUL 26
-HYDROPAC 2197/26.
-SEA OF JAPAN.
-RUSSIA.
-1. MISSILE OPERATIONS 1400Z TO 0800Z
-   DAILY 05 THRU 11 AUG
-   ALONG TRACKLINE JOINING
-   42-43.90N 132-50.60E, 42-30.50N 133-14.00E,
-   41-24.40N 133-11.30E, 41-21.20N 132-24.60E,
-   42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
-   42-51.50N 132-30.80E.
-2. CANCEL THIS MSG 120900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1497,18 +1548,6 @@ QATAR.
 DNC 10.
 WAVE RIDER BUOY, FL 5 Y 10 SEC, TEMPORARILY
 ESTABLISHED IN 26-39.57N 051-57.22E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>220144Z FEB 26
-HYDROPAC 527/26(22).
-EASTERN SOUTH PACIFIC.
-CHILE.
-DNC 07.
-MAGALLANES RADIO 53-09.92S 070-54.28W
-MF AND HF DSC OFF AIR. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
