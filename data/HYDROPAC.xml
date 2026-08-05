@@ -3,6 +3,19 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>051615Z AUG 26
+HYDROPAC 2247/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 060230Z TO 100630Z AUG
+   IN AREA BOUND BY
+   21-22.00N 067-06.00E, 22-32.00N 067-37.00E,
+   22-10.00N 068-07.00E, 21-03.00N 067-37.00E.
+2. CANCEL THIS MSG 100730Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>051335Z AUG 26
 HYDROPAC 2244/26.
 BAY OF BENGAL.
@@ -27,20 +40,6 @@ INDIA.
    17-11.00N 083-30.00E, 17-04.00N 083-30.00E.
 2. CANCEL THIS MSG 071030Z AUG 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>051231Z AUG 26
-HYDROPAC 2242/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1455Z TO 2205Z DAILY 10 THRU 16 AUG
-   ALONG TRACKLINE JOINING
-   40-44.00S 081-06.00E, 52-26.00S 115-07.00E,
-   48-08.00S 160-00.00E.
-2. CANCEL THIS MSG 162305Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -179,20 +178,6 @@ BURMA.
    12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
    13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
 2. CANCEL THIS MSG 071130Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031152Z AUG 26
-HYDROPAC 2219/261.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 051430Z TO 051830Z AUG
-   IN AREA BOUND BY
-   15-06.00N 072-08.00E, 15-21.00N 072-08.00E,
-   15-21.00N 072-24.00E, 15-06.00N 072-24.00E.
-2. CANCEL THIS MSG 051930Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
