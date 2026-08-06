@@ -3,6 +3,67 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>060510Z AUG 26
+HYDROPAC 2252/26.
+INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0630Z TO 1230Z 
+   DAILY 06 AND 07 AUG IN AREA BOUND BY
+   13-58.00N 074-16.00E, 14-04.00N 074-16.00E,
+   14-04.00N 074-23.00E, 13-58.00N 074-23.00E.
+2. CANCEL THIS MSG 071330Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050827Z AUG 26
+HYDROPAC 2251/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 11 THRU 13 AUG IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 131400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>060314Z AUG 26
+HYDROPAC 2250/26.
+EASTERN SOUTH PACIFIC.
+CHILE.
+1. PUERTO MONTT RADIO 41-28.80S 072-57.70W 
+   OFF AIR. 
+2. VALPARAISO PLAYA ANCHA RADIO
+   33-04.70S 071-36.80W WILL TRANSMIT
+   VIA SAFETYNET AND SAFETYCAST.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060252Z AUG 26
+HYDROPAC 2249/26.
+GULF OF THAILAND.
+SOUTH CHINA SEA.
+MALAYSIA.
+1. SURVEY OPERATIONS IN PROGRESS 
+   UNTIL 31 DEC BY M/V PXGEO 2 
+   TOWING EIGHT FIVE MILE LONG CABLES 
+   IN AREA BOUND BY
+   06-33.00N 103-25.00E, 06-50.00N 102-58.00E,
+   06-55.00N 103-14.00E, 07-02.00N 103-04.00E,
+   06-50.00N 102-21.00E, 06-28.00N 102-09.00E,
+   05-54.00N 103-01.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>051615Z AUG 26
 HYDROPAC 2247/26.
 ARABIAN SEA.
