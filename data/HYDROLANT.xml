@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060153Z AUG 26
+HYDROLANT 1513/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z
+   DAILY 11 THRU 13 AUG IN AREA WITHIN
+   TEN MILES OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 132200Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060116Z AUG 26
+HYDROLANT 1512/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   170259Z AUG IN 22-22.48S 040-25.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 170359Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060101Z AUG 26
+HYDROLANT 1511/26.
+SOUTH ATLANTIC.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 10 AUG
+   BY M/V SANCO SPIRIT IN AREA BOUND BY
+   24-34.07S 042-21.36W, 25-06.89S 042-06.26W,
+   25-09.58S 042-13.28W, 25-32.83S 042-25.00W,
+   25-18.28S 042-53.88W, 25-10.34S 042-49.87W,
+   24-48.65S 042-59.73W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>052211Z AUG 26
+HYDROLANT 1510/26.
+NORTH ATLANTIC.
+ORKNEY ISLANDS.
+NOUP HEAD LIGHT 59-19.90N 003-04.20W
+RANGE REDUCED TO 12 MILES.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>052033Z AUG 26
+HYDROLANT 1509/26.
+BLACK SEA.
+1. DANGEROUS OBJECT ADRIFT IN 43-52.26N 030-46.65E
+   AT 051510Z AUG.
+2. CANCEL THIS MSG 082033Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>051352Z AUG 26
