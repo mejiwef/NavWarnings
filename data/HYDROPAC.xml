@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071220Z AUG 26
+HYDROPAC 2267/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 
+   0330Z TO 0530Z AND 0730Z TO 0930 Z DAILY
+   10 THRU 14 AUG IN AREA BOUND BY
+   21-17.11N 086-49.36E, 21-37.72N 087-28.58E,
+   21-08.82N 088-10.49E, 20-40.45N 087-42.75E.
+2. CANCEL THIS MSG 141030Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071204Z AUG 26
+HYDROPAC 2266/26.
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   0430Z TO 0630Z AND 0830Z TO 1030Z
+   ON 11 AUG
+   IN AREA BOUND BY
+   11-52.00N 092-19.00E, 11-48.00N 092-29.00E,
+   11-40.00N 092-27.00E, 11-43.00N 092-16.00E.
+2. CANCEL THIS MSG 111130Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071146Z AUG 26
+HYDROPAC 2265/26.
+ANDAMAN SEA.
+INDIA.
+SIR HUGE ROSE LT 11-47.2N 093-04.83E
+UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071125Z AUG 26
+HYDROPAC 2264/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   091831Z THRU 131829Z AUG
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 131929Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>071055Z AUG 26
+HYDROPAC 2263/26.
+BAY OF BENGAL.
+INDIAN OCEAN.
+INDIA.
+CANCEL HYDROPAC 2218/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071038Z AUG 26
+HYDROPAC 2262/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
+   10 THRU 13 AUG IN AREA BOUND BY
+   12-59.00N 080-46.00E, 12-59.00N 081-26.00E,
+   12-49.00N 081-26.00E, 12-49.00N 080-46.00E.
+2. CANCEL THIS MSG 131230Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>040319Z AUG 26
@@ -62,7 +142,8 @@ INDIA.
    IN AREA BOUND BY
    21-24.00N 067-05.00E, 21-03.50N 067-36.00E,
    19-56.50N 067-13.00E, 20-15.50N 066-41.00E.
-2. CANCEL THIS MSG 110330Z AUG 26.</msgText>
+2. CANCEL THIS MSG 110330Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -159,34 +240,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051335Z AUG 26
-HYDROPAC 2244/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 070530Z TO 071130Z AUG
-   IN AREA BOUND BY
-   16-50.34N 083-29.35E, 16-44.32N 083-29.35E,
-   16-44.32N 083-55.06E, 16-50.34N 083-35.06E.
-2. CANCEL THIS MSG 071230Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051328Z AUG 26
-HYDROPAC 2243/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 070730 TO 070930Z AUG
-   IN AREA BOUND BY
-   17-04.00N 083-23.00E, 17-11.00N 083-23.00E,
-   17-11.00N 083-30.00E, 17-04.00N 083-30.00E.
-2. CANCEL THIS MSG 071030Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051218Z AUG 26
@@ -200,20 +253,6 @@ CABLES IN AREA BOUND BY
 12-38.27S 128-06.05E, 13-18.37S 128-53.75E,
 13-38.87S 128-35.38E.
 SEVEN MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051047Z AUG 26
-HYDROPAC 2239/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0730Z
-   DAILY 06 THRU 07 AUG IN AREA BOUND BY
-   09-22.00N 075-47.00E, 09-30.00N 075-47.00E,
-   09-30.00N 075-55.00E, 09-22.00N 075-55.00E.
-2. CANCEL THIS MSG 070830Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -279,35 +318,6 @@ OMAN.
 M/V MINOAN PIONEER ON FIRE AND ANCHORED
 IN 26-27.60N 056-32.50E.
 MARINERS ARE ADVISED TO NAVIGATE WITH CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041048Z AUG 26
-HYDROPAC 2227/26.
-EASTERN INDIAN OCEAN.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 061030Z TO 071030Z AUG
-   IN AREA BOUND BY
-   17-32.78N 070-56.58E, 17-32.78N 071-01.58E,
-   17-37.82N 071-01.58E, 17-37.82N 070-56.58E.
-2. CANCEL THIS MSG 071130Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031159Z AUG 26
-HYDROPAC 2220/261.
-ANDAMAN SEA.
-BURMA.
-1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
-   DAILY 05 THRU 07 AUG IN AREA BOUND BY
-   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
-   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
-2. CANCEL THIS MSG 071130Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -644,19 +654,6 @@ SOUTH CHINA SEA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>291203Z JUL 26
-HYDROPAC 2174/26
-NORTH PACIFIC.
-1. GUNNERY EXERCISES 2100Z TO 0900Z DAILY
-   02 THRU 04 AUG, ALTERNATE 2100Z TO 0900Z DAILY
-   05 THRU 06 AUG IN AREA WITHIN 25 MILES OF
-   31-14.21N 144-26.80E.
-2. CANCEL THIS MSG 071000Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290411Z JUL 26
@@ -907,26 +904,6 @@ AUSTRALIA.
 1. PLATFORM CLIFF HEAD 29-26.99S 114-52.18E UNLIT.
 2. CANCEL HYDROPAC 2088/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230022Z JUL 26
-HYDROPAC 2106/26.
-NORTH PACIFIC.
-SEA OF OKHOTSK.
-KAMCHATKA.
-1. MISSILE OPERATIONS 1400Z TO 0800Z DAILY
-   26 JUL THRU 06 AUG IN AREA BOUND BY
-   56-34.00N 154-14.00E, 56-34.00N 156-18.20E,
-   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
-   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
-   52-46.00N 160-30.00E, 51-40.00N 160-30.00E,
-   50-26.00N 158-48.00E, 49-23.50N 157-28.50E,
-   50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
-   52-06.00N 154-14.00E.
-2. CANCEL HYDROPAC 2087/26.
-3. CANCEL THIS MSG 070900Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

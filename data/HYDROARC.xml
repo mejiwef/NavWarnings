@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071252Z AUG 26
+HYDROARC 159/26.
+ARCTIC.
+RUSSIA.
+1. ICEBERG REPORTED IN 
+   81-29.10N 097-08.70E AT 070900Z AUG.
+2. CANCEL THIS MSG 100900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>071237Z AUG 26
+HYDROARC 158/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED IN 77-08.80N 114-31.20E
+   AT 070800Z AUG.
+2. CANCEL THIS MSG 100800Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>070812Z AUG 26
+HYDROARC 157/26.
+LAPTEV SEA.
+1. ICEBERG REPORTED IN 
+   77-02.40N 115-43.60E AT 070715Z AUG.
+2. CANCEL THIS MSG 100813Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>070744Z AUG 26
+HYDROARC 156/26.
+LAPTEV SEA.
+1. ICEBERG REPORTED IN 
+   76-46.50N 116-20.10E AT 070545Z AUG.
+2. CANCEL THIS MSG 100745Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051258Z AUG 26

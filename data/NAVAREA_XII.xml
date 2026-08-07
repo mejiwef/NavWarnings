@@ -64,21 +64,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>040830Z AUG 26
-NAVAREA XII 528/26.
-NORTH PACIFIC.
-1. DERELICT 32 FOOT S/V ISSHONI, WHITE HULL
-   WITH BLUE TRIM, ADRIFT IN VICINITY
-   36-57.17N 158-44.88W ON 31 JUL.
-   REPORTS TO JRCC HONOLULU,
-   PHONE: 800 331 6176, 800 331 6179,
-   E-MAIL: JRCCHONOLULU@USCG.MIL.
-2. CANCEL THIS MSG 070828Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>010114Z AUG 26
