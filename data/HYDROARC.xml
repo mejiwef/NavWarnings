@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>081459Z AUG 26
+HYDROARC 162/26.
+CANADA.
+MCTS IQALUIT CENTRE 63-43.80N 068-32.7W
+DSC AND NBDP SERVICES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>072028Z AUG 26

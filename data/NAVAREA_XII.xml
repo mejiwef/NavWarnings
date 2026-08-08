@@ -81,30 +81,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>050015Z AUG 26
-NAVAREA XII 529/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:
-   A. 061400Z TO 061852Z AUG, ALTERNATE 
-      1400Z TO 1852Z DAILY 07 THRU 12 AUG
-      IN AREA BOUND BY
-      34-29.00N 120-29.00W, 34-40.00N 120-37.00W,
-      34-38.00N 120-42.00W, 33-49.00N 120-55.00W,
-      29-13.00N 121-56.00W, 29-13.00N 121-36.00W.
-   B. 061400Z TO 161843Z AUG, ALTERNATE
-      1400Z TO 1843Z DAILY 07 THRU 12 AUG
-      IN AREA BOUND BY
-      29-13.00N 121-31.00W, 29-13.00N 122-03.00W,
-      28-49.00N 122-14.00W, 27-41.00N 122-06.00W,
-      28-42.00N 121-25.00W.
-2. CANCEL NAVAREA XII 524/2026.
-3. CANCEL THIS MSG 121952Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>010114Z AUG 26
