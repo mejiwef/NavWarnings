@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>092127Z JUL 26
+NAVAREA XII 536/26.
+NORTH PACIFIC.
+HAWAII.
+1. HAZARDOUS OPERATIONS 1800Z TO 0300Z DAILY
+   13 AND 14 AUG, ALTERNATE 171800Z TO
+   180300Z AUG IN AREA BOUND BY
+   24-24.00N 161-51.00W, 24-33.00N 161-46.00W,
+   24-37.00N 161-39.00W, 24-39.00N 161-29.00W,
+   24-00.00N 160-33.00W, 23-30.00N 160-00.00W,
+   22-48.00N 159-38.00W, 22-03.00N 159-46.00W,
+   22-10.00N 160-36.00W, 22-44.00N 161-11.00W,
+   23-24.00N 161-29.00W.
+2. CANCEL THIS MSG 180400Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>072017Z AUG 26
+NAVAREA XII 535/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 131800Z TO 140100Z, 
+   ALTERNATE 141800Z TO 150100Z AUG IN AREA WITHIN
+   25 MILES OF 33-21.80N 120-08.00W.
+2. CANCEL THIS MSG 150200Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>071904Z AUG 26.

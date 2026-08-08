@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>080625Z AUG 26
+HYDROLANT 1532/26.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+MF DSC SERVICE OFF AIR.
+AT TIREE 56-30.20N 006-57.80W. 
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040936Z AUG 26
+HYDROLANT 1530/26.
+BLACK SEA.
+ROMANIA.
+1. NAVAL OPERATIONS 0500Z TO 1200Z DAILY 
+   13 THRU 15 AUG IN AREA BOUND BY
+   44-12.00N 028-40.00E, 44-12.00N 028-46.00E,
+   44-10.50N 028-46.00E, 44-10.50N 028-44.00E,
+   44-09.00N 028-44.00E, 44-09.00N 028-41.00E,
+   44-09.50N 028-40.00E.
+2. CANCEL THIS MSG 151300Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>080044Z AUG 26
@@ -117,23 +145,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 221900Z AUG 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>070359Z AUG 26
-HYDROLANT 1522/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. 60-22.80S 052-45.00W.
-   B. 71-22.80S 103-40.20W.
-   C. 64-10.80S 053-45.60W.
-   D. 64-05.40S 055-33.00W.
-   E. 62-56.40S 053-27.00W.
-2. CANCEL THIS MSG 080359Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
@@ -706,21 +717,6 @@ SPAIN.
    37-43.60N 002-07.35E, 36-55.25N 000-06.05E,
    37-52.25N 000-06.55E.
 2. CANCEL THIS MSG 310100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>181314Z JUN 26
-HYDROLANT 1175/26.
-NORTH MINCH.
-SEA OF THE HEBRIDES.
-SCOTTLAND.
-1. BUTT OF LEWIS 58-27.70N 006-13.90W MF R/T AND
-   DSC SERVICES OFF AIR.
-2. TIREE 56-30.20N 006-57.80W MF DCS SERVICES
-   OFF AIR.
-3. CANCEL HYDROLANT 1172/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
