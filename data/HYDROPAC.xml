@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091028Z AUG 26
+HYDROPAC 2280/26.
+PERSIAN GULF.
+KUWAIT.
+SURVEY OPERATIONS 10 AUG UNTIL FURTHER NOTICE
+BY M/V VISION 2 IN: 
+A. 29-03.09N 048-10.06E.
+B. 29-03.12N 048-11.59E.
+C. 29-02.04N 048-11.62E.
+D. 29-02.01N 048-10.09E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>081249Z AUG 26
