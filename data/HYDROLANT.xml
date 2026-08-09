@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>090045Z AUG 26
+HYDROLANT 1538/26.
+IRISH SEA.
+IRELAND.
+ST JOHNS POINT LIGHT 54-13.6N 005-39.6W UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>081524Z AUG 26
@@ -253,17 +262,6 @@ RANGE REDUCED TO 12 MILES.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>052033Z AUG 26
-HYDROLANT 1509/26.
-BLACK SEA.
-1. DANGEROUS OBJECT ADRIFT IN 43-52.26N 030-46.65E
-   AT 051510Z AUG.
-2. CANCEL THIS MSG 082033Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>050057Z AUG 26
@@ -487,41 +485,6 @@ IN AREA BOUND BY
 58-52.30N 001-35.90E, 58-51.00N 001-55.40E,
 58-32.40N 001-50.60E, 58-33.80N 001-31.00E.
 TWO MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301648Z JUL 26
-HYDROLANT 1473/26.
-BLACK SEA.
-TURKEY. 
-1. HAZARDOUS OPERATIONS 2100Z TO 2259Z DAILY
-   04, 06, AND 08 AUG IN AREA BOUND BY
-   41-58.40N 028-00.12E, 41-58.52N 028-00.73E,
-   41-58.53N 028-01.67E, 41-58.53N 028-20.24E,
-   42-00.00N 028-20.00E, 42-09.48N 028-59.38E,
-   42-14.40N 029-20.73E, 42-26.34N 029-34.32E,
-   42-29.34N 029-49.59E, 42-48.07N 030-34.27E,
-   42-48.33N 030-44.92E, 42-47.98N 030-45.00E,
-   42-47.90N 030-45.15E, 42-47.95N 031-00.12E,
-   42-47.03N 033-42.03E, 42-43.93N 036-15.98E,
-   43-14.27N 036-22.87E, 43-15.02N 036-39.94E,
-   43-10.92N 036-50.70E, 42-27.71N 038-27.17E,
-   42-25.47N 038-32.17E, 42-24.25N 038-38.72E,
-   42-20.19N 039-00.20E, 42-03.85N 040-16.75E,
-   42-01.87N 040-26.00E, 41-57.30N 040-40.59E,
-   41-53.92N 040-20.13E, 41-43.05N 039-31.97E,
-   41-42.50N 037-39.77E, 41-44.35N 036-59.15E,
-   41-45.03N 036-42.77E, 41-47.40N 036-00.03E,
-   41-49.42N 035-28.77E, 42-03.50N 035-18.87E,
-   42-08.73N 034-59.47E, 42-01.93N 034-41.48E,
-   42-04.38N 033-15.87E, 41-55.03N 032-49.75E,
-   41-50.70N 032-28.47E, 41-40.15N 032-05.58E,
-   41-28.95N 030-59.98E, 41-20.42N 030-09.27E,
-   41-27.48N 028-55.25E, 41-42.25N 028-05.50E,
-   41-52.48N 027-58.15E.
-2. CANCEL THIS MSG 090001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

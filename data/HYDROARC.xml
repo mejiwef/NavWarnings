@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
+        <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>081459Z AUG 26
-HYDROARC 162/26.
-CANADA.
-MCTS IQALUIT CENTRE 63-43.80N 068-32.7W
-DSC AND NBDP SERVICES OFF AIR.
-</msgText>
+        <msgText>081930Z AUG 26
+HYDROARC 163/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 081615Z AUG IN: 
+   A. 78-11.00N 109-00.70E.
+   B. 78-38.80N 107-37.80E.
+   C. 78-17.10N 108-48.60E.
+   D. 77-50.90N 112-19.80E.
+   E. 77-59.60N 112-58.80E.
+   F. 78-10.00N 109-10.10E.
+   G. 79-19.90N 105-28.30E.
+   H. 78-10.20N 109-13.50E.
+   I. 80-56.50N 099-28.60E.
+2. CANCEL THIS MSG 111615Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
