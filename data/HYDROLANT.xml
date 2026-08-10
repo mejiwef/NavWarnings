@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>092037Z AUG 26
+HYDROLANT 1543/26.
+TYRRHENIAN SEA.
+WESTERN MEDITERRANEAN SEA.
+ALGERIA TO SARDINIA.
+VESSELS UNREPORTED:
+A. 12 PEOPLE ON BOARD, ALGERIA
+   (36-54.00N 007-46.00E) TO SARDINIA
+   (39-54.00N 008-25.00E) AT 080300Z AUG.
+B. 25 PEOPLE ON BOARD, TUNISIA
+   (36-49.00N 010-18.50E) TO SARDINIA
+   (39-54.00N 008-25.00E) AT 090200Z AUG.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC ROME,
+EMAIL: ITMRCC@MIT.GOV.IT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091408Z AUG 26

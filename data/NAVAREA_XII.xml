@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>090227Z AUG 26
-NAVAREA XII 538/26.
-GULF OF ALASKA.
-ALASKA.
-1. GUNNERY EXERCISE 092000Z TO 100001 AUG 
-   IN AREA WITHIN 60 MILES OF 59-24.00N 148-03.00W.
-2. CANCEL THIS MSG 100101Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>092127Z JUL 26
