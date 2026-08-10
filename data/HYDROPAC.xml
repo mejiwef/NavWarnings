@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100658Z AUG 26
+HYDROPAC 2288/26.
+INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY VESSEL VE CONSTRUCTOR
+IN AREA BOUND BY
+19-12.00S 116-30.00E, 19-21.00S 116-30.00E,
+19-21.00S 116-50.00E, 19-12.00S 116-50.00E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>072313Z AUG 26
+HYDROPAC 2286/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   152339Z TO 160417Z, 162325Z TO 170403Z,
+   172311Z TO 180349Z, 182257Z TO 190335Z,
+   192243Z TO 200321Z, 202229Z TO 210307Z,
+   212216Z TO 220254Z AUG 
+   IN AREA BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 220354Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>100129Z AUG 26
@@ -375,22 +407,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>060833Z AUG 26
-HYDROPAC 2253/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V BD 98750 TS, FOUR PERSONS ON BOARD, 
-DISABLED DUE TO BROKEN SHAFT IN 
-14-25.60N 110-32.51E AT 060400Z AUG.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>050827Z AUG 26
@@ -438,20 +454,6 @@ MALAYSIA.
    05-54.00N 103-01.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051615Z AUG 26
-HYDROPAC 2247/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 060230Z TO 100630Z AUG
-   IN AREA BOUND BY
-   21-22.00N 067-06.00E, 22-32.00N 067-37.00E,
-   22-10.00N 068-07.00E, 21-03.00N 067-37.00E.
-2. CANCEL THIS MSG 100730Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

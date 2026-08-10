@@ -120,17 +120,6 @@ LAPTEV SEA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>070744Z AUG 26
-HYDROARC 156/26.
-LAPTEV SEA.
-1. ICEBERG REPORTED IN 
-   76-46.50N 116-20.10E AT 070545Z AUG.
-2. CANCEL THIS MSG 100745Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051258Z AUG 26
