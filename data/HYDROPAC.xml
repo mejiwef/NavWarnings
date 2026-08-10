@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101032Z AUG 26
+HYDROPAC 2290/26.
+ANDAMAN SEA.
+BURMA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
+   DAILY 12 THRU 14 AUG IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 150001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>100808Z AUG 26
+HYDROPAC 2289/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2100Z TO 1800Z DAILY 13 THRU 26 AUG
+   IN AREAS BOUND BY:
+   A. 59-42.60S 165-49.20E, 59-42.60S 180-00.00E,
+      62-33.00S 180-00.00E, 62-33.00S 162-33.60E.
+   B. 59-42.60S 180-00.00W, 58-39.87S 161-41.05W,
+      57-28.80S 126-01.20W, 60-23.40S 122-04.80W,
+      61-31.90S 161-16.02W, 62-33.00S 180-00.00W.
+2. CANCEL THIS MSG 271900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100658Z AUG 26
@@ -278,18 +307,6 @@ EASTERN INDIAN OCEAN.
 INDIA.
 RACON AT MUTTAM POINT LIGHT 08-07.37N 077-19.05E
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>071310Z AUG 26
-HYDROPAC 2268/26.
-SOUTH PACIFIC.
-FIJI.
-1. DERELICT SEVEN METER VESSEL ADRIFT 
-   IN VICINTY 18-28.95S 179-38.07W AT 070800Z AUG.
-2. CANCEL THIS MSG 100800Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
