@@ -186,21 +186,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICES</category>
-        <status>INFORCE</status>
-        <msgText>280017Z JUL 26
-NAVAREA XII 514/26.
-NORTH PACIFIC.
-HF TRANSMIT AND RECEIVE SERVICES UNRELIABLE
-AT USCG REMOTE COMMUNICATION FACILITIES:
-A. PT REYES 37-55.00N 122-24.00W.
-B. HONOLULU 21-22.00N 158-09.00W.
-C. KODIAK 57-46.00N 152-34.00W.
-D. ASTORIA 46-10.00N 123-49.00W.
-E. CAMBRIA 35-31.00N 121-06.00W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>232023Z JUL 26
