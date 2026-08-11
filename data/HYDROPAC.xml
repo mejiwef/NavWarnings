@@ -3,6 +3,23 @@
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
+        <msgText>080407Z AUG 26
+HYDROPAC 2302/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   160323Z TO 160429Z, 170306Z TO 170412Z,
+   180252Z TO 180358Z, 190235Z TO 190341Z,
+   200219Z TO 200325Z, 210203Z TO 210309Z,
+   AND 220148Z TO 220254Z AUG 
+   IN AREA BOUND BY
+   25-05.00S 057-53.00E, 23-17.00S 060-00.00E,
+   35-50.00S 074-04.00E, 37-39.00S 071-40.00E.
+2. CANCEL THIS MSG 220354Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
         <msgText>110010Z AUG 26
 HYDROPAC 2300/26.
 SOUTH PACIFIC.
@@ -398,20 +415,6 @@ NORTHERN MARIANA ISLANDS.
    15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
 2. CANCEL THIS MSG 120900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061411Z AUG 26
-HYDROPAC 2257/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 070230Z THRU 110230Z AUG
-   IN AREA BOUND BY
-   21-24.00N 067-05.00E, 21-03.50N 067-36.00E,
-   19-56.50N 067-13.00E, 20-15.50N 066-41.00E.
-2. CANCEL THIS MSG 110330Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>100417Z AUG 26
+NAVAREA IV 776/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   160102Z TO 160220Z AUG, ALTERNATE 
+   170045Z TO 170203Z, 180031Z TO 180149Z, 
+   190014Z TO 190132Z, 192358Z TO 200116Z, 
+   202342Z TO 210100Z AND 
+   212327Z TO 220045Z AUG IN AREAS BOUND BY:
+   A. 30-58.00N 078-25.00W, 31-47.00N 077-47.00W,
+      32-18.00N 077-09.00W, 32-45.00N 076-27.00W,
+      32-28.00N 076-07.00W, 31-47.00N 076-23.00W,
+      31-13.00N 077-21.00W, 30-40.00N 078-11.00W.
+   B. 28-39.57N 080-38.08W, 29-06.00N 080-08.00W,
+      29-02.00N 080-02.00W, 28-32.00N 080-28.00W,
+      28-29.95N 080-32.78W.
+2. CANCEL THIS MSG 220145Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110053Z AUG 26
