@@ -3,6 +3,33 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>120448Z AUG 26
+HYDROPAC 2314/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 120430Z TO 160430Z AUG
+   IN AREAS BOUND BY:
+   A. 21-24.00N 067-05.00E, 21-03.29N 067-36.00E,
+      19-56.30N 067-13.00E, 20-15.29N 066-41.00E.
+   B. 22-32.00N 067-37.00E, 22-10.00N 068-07.28E,
+      21-03.00N 067-37.00E, 21-22.00N 067-06.00E.
+2. CANCEL THIS MSG 160530Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>112209Z AUG 26
+HYDROPAC 2313/26.
+TASMAN SEA.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 170500Z TO 171000Z AUG
+   IN AREA WITHIN THREE MILES OF 
+   36-28.65S 174-09.63E.
+2. CANCEL THIS MSG 171100Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>111351Z AUG 26
 HYDROPAC 2311/26.
 ARABIAN SEA.
@@ -206,21 +233,6 @@ INDIA.
    22-35.12N 069-16.12E, 22-28.30N 069-17.10E,
    22-28.45N 068-51.05E.
 2. CANCEL THIS MSG 130830Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101541Z AUG 26
-HYDROPAC 2293/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 120400Z TO 120500Z AUG
-   IN AREA BOUND BY
-   17-48.00N 083-35.00E, 17-42.00N 083-18.00E,
-   17-31.00N 083-32.00E, 17-34.80N 083-34.18E,
-   17-39.30N 083-35.60E, 17-43.70N 083-35.70E.
-2. CANCEL THIS MSG 120600Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -645,20 +657,6 @@ OMAN.
 M/V MINOAN PIONEER ON FIRE AND ANCHORED
 IN 26-27.60N 056-32.50E.
 MARINERS ARE ADVISED TO NAVIGATE WITH CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>030421Z AUG 26
-HYDROPAC 2213/26.
-SOUTH PACIFIC.
-CHILE.
-1. NAVTEX STATION VALPARAISO (B)(H) 
-   32-48.40S 071-29.20W OFF AIR.
-2. VALPARAISO PLAYA ANCHA RADIO 
-   33-04.70S 071-36.80W WILL TRANSMIT
-   VIA SAFETYNET AND SAFETYCAST.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

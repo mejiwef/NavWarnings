@@ -81,23 +81,6 @@ NORTH ATLANTIC.
 2. CANCEL THIS MSG 280100Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111241Z AUG 26
-NAVAREA IV 777/26.
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   120300Z AUG BY M/V OCEAN INTERVENTION II
-   TOWING 1200 METER LONG CABLES
-   ALONG TRACKLINE JOINING
-   10-05.11N 060-12.46W, 10-06.83N 060-12.96W,
-   10-06.86N 060-09.55W, 10-05.69N 060-08.91W.
-   1200 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 120400Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>100417Z AUG 26
