@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121536Z AUG 26
+HYDROLANT 1557/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN:
+   A. D33B, 60-47.00S 052-48.00W.
+   B. A81, 59-11.00S 051-14.00W.
+   C. A76C, 52-48.00S 030-55.00W.
+   D. D33C, 61-29.00S 053-45.00W.
+   E. 61-32.00S 053-03.00W.
+   F. 61-21.00S 053-00.00W.
+   G. 60-44.00S 052-01.00W.
+2. CANCEL THIS MSG 131536Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>120934Z AUG 26
@@ -72,25 +90,6 @@ HYDROLANT 1552/26.
 NORTH CHANNEL.
 IRELAND.
 MEW ISLAND LIGHT 54-41.90N 005-30.80W UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111425Z AUG 26
-HYDROLANT 1550/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN:
-   A. D33B, 60-57.00S 053-23.00W.
-   B. A81, 59-11.00S 051-12.00W.
-   C. A76C, 52-48.00S 030-49.00W.
-   D. D33C, 61-29.00S 053-35.00W.
-   E. 61-30.00S 052-48.00W.
-   F. 61-19.00S 052-54.00W.
-   G. 60-44.00S 052-01.00W.
-2. CANCEL THIS MSG 121425Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
