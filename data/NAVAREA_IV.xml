@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>120849Z AUG 26
+NAVAREA IV 782/26.
+WESTERN NORTH ATLANTIC.
+RANSMIT AND RECEIVE SERVICES UNRELIABLE
+AT USCG REMOTE COMMUNICATION FACILITIES:
+A. BOSTON 41-43.00N 070-31.00W.
+B. CHESAPEAKE 36-44.00N 076-01.00W.
+C. CHARLESTON 32-50.70N 079-57.00W.
+D. NEW ORLEANS 29-53.00N 089-57.00W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVAL OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120128Z AUG 26
@@ -11,7 +25,8 @@ COLOMBIA.
    IN AREA BOUND BY
    10-24.23N 075-37.95W, 10-23.20N 075-38.07W,
    10-23.20N 075-39.08W, 10-24.23N 075-39.08W.
-2. CANCEL THIS MSG 131830Z AUG 26.</msgText>
+2. CANCEL THIS MSG 131830Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -30,7 +45,8 @@ NORTH ATLANTIC.
    02-11.35S 036-54.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL NAVAREA IV 775/26.
-3. CANCEL THIS MSG 132100Z AUG 26.</msgText>
+3. CANCEL THIS MSG 132100Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -65,7 +81,8 @@ NAVAREA IV 779/26.
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 130001Z AUG 26.</msgText>
+9. CANCEL THIS MSG 130001Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -73,12 +90,13 @@ NAVAREA IV 779/26.
         <msgText>111603Z AUG 26
 NAVAREA IV 778/26.
 NORTH ATLANTIC.
-1. CABLE OPERATIONS 151200Z TO 280000Z AUG
+1. CABLE OPERATIONS 151200Z TO 280001Z AUG
    BY CABLESHIP CABLE VIGILANCE IN AREA BOUND BY
    34-52.60N 072-44.90W, 35-00.50N 072-29.90W,
    34-32.10N 072-03.30W, 34-23.10N 072-17.40W.
    ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 280100Z AUG 26.</msgText>
+2. CANCEL THIS MSG 280100Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
