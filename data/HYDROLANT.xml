@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130111Z AUG 26
+HYDROLANT 1560/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   27 AUG BY M/V NAVIOS FELIX AND
+   M/V COMANDO B IN 20-22.12S 040-08.38W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 280001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>122238Z AUG 26
+HYDROLANT 1558/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. VESSEL ADRIFT IN 29-03.30N 011-00.68W
+   AT 122100Z AUG.
+2. CANCEL THIS MSG 152238Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>121536Z AUG 26
@@ -329,19 +353,6 @@ CAPE TOWN RADIO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OIL SPILL RESPONSE</category>
-        <status>INFORCE</status>
-        <msgText>060307Z AUG 26
-HYDROLANT 1514/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. POLLUTION RESPONSE OPERATIONS 
-   IN PROGRESS UNTIL 121900Z AUG BY 
-   M/V TANTALUS TIDE IN 23-04.08S 043-01.13W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 122000Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>060153Z AUG 26
@@ -384,18 +395,6 @@ HYDROLANT 1505/26.
 SOUTH ATLANTIC.
 BRAZIL.
 1. ARARIPE LIGHT 16-08.09S 038-57.86W UNLIT
-   UNTIL 31 JAN 27.
-2. CANCEL THIS MSG 010001Z FEB 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>050041Z AUG 26
-HYDROLANT 1504/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. PONTA MUTA LIGHT 13-52.76S 038-56.71W UNLIT
    UNTIL 31 JAN 27.
 2. CANCEL THIS MSG 010001Z FEB 27.
 </msgText>
@@ -872,18 +871,6 @@ BRAZIL.
 1. MACEIO LIGHT 09-41.03S 035-43.38W 
    UNLIT UNTIL 31 OCT.
 2. CANCEL THIS MSG 010001Z NOV 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>290039Z APR 26
-HYDROLANT 843/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. PONTA DE MUCURIPE LIGHT 03-43.58S 038-28.30W 
-   UNLIT UNTIL 25 OCT.
-2. CANCEL HYDROLANT 827/26.
-3. CANCEL THIS MSG 260001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>

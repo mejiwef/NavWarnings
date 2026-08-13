@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130129Z AUG 26
+HYDROPAC 2323/26.
+EASTERN INDIAN OCEAN.
+SRI LANKA.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 15 SEP
+   BY M/V REBECCA ALONG TRACKLINES JOINING:
+   A. 05-04.98N 090-28.58E, 04-57.97N 090-25.88E,
+      05-00.77N 089-51.21E.
+   B. 05-03.99N 089-06.15E, 05-13.74N 086-20.45E.
+   C. 05-15.10N 085-58.04E, 05-16.07N 085-37.21E.
+   D. 05-06.29N 082-00.53E, 05-07.68N 081-23.35E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 160001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121335Z AUG 26
@@ -54,18 +71,6 @@ SAUDI ARABIA.
       21-05.35N 039-07.00E, 21-06.00N 038-58.30E,
       21-13.24N 038-58.30E, 21-13.30N 039-06.12E.
 2. CANCEL THIS MSG 201700Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>120849Z AUG 26
-HYDROPAC 2315/26.
-NORTH PACIFIC.
-GUAM.
-USCG REMOTE COMMUNICATION FACILITY GUAM
-13-29.00N 144-50.00E TRANSMIT AND RECEIVE
-SERVICES UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -541,21 +546,6 @@ INDIA.
    12-59.00N 080-46.00E, 12-59.00N 081-26.00E,
    12-49.00N 081-26.00E, 12-49.00N 080-46.00E.
 2. CANCEL THIS MSG 131230Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>040319Z AUG 26
-HYDROPAC 2261/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0343Z TO 0829Z DAILY 12 THRU 18 AUG   
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 180929Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
