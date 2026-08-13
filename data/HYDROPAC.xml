@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120714Z AUG 26
+HYDROPAC 2325/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
+   DAILY 18 THRU 20 AUG IN AREAS WITHIN
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 201400Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130129Z AUG 26
@@ -144,22 +159,6 @@ PHILIPPINES.
    B. 08-57.00N 119-36.00E, 08-45.00N 119-19.80E,
       09-16.20N 118-57.00E, 09-28.20N 119-12.60E.
 2. CANCEL THIS MSG 160900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>111130Z AUG 26
-HYDROPAC 2307/26.
-SOUTH CHINA SEA.
-VIETNAM.
-F/V DNA 90901 TS, NINE PERSONS ON BOARD, 
-DISABLED AND ADRIFT IN VICINITY 
-16-24.00N 109-27.00E AT 110958Z AUG.
-VESSELS IN VICINITY REQUESTED TO KEEP 
-A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
