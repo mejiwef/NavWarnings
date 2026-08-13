@@ -149,20 +149,6 @@ NEW ZEALAND.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111351Z AUG 26
-HYDROPAC 2311/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 130330Z TO 131230Z AUG
-   IN AREA BOUND BY
-   18-30.00N 072-35.20E, 18-30.00N 072-45.00E,
-   18-40.00N 072-45.00E, 18-40.00N 072-35.20E.
-2. CANCEL THIS MSG 131330Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>111211Z AUG 26
@@ -518,22 +504,6 @@ INDIA.
    18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
    18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
 2. CANCEL THIS MSG 131929Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>050827Z AUG 26
-HYDROPAC 2251/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 11 THRU 13 AUG IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 131400Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -951,6 +921,7 @@ SOUTH CHINA SEA.
    IF POSSIBLE. REPORTS TO MRCC VIETNAM,
    PHONE: HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 2118/26.
+CANCEL THIS MSG 141300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -967,20 +938,6 @@ NORTH PACIFIC.
       23-40.00N 152-45.00E, 23-40.00N 153-45.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNREPORTED</category>
-        <status>INFORCE</status>
-        <msgText>241039Z JUL 26
-HYDROPAC 2118/26.
-SOUTH CHINA SEA.
-FISHING VESSEL,  33 PERSONS ONBOARD, 
-UNREPORTED IN 08-24.00N 112-24.00E.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-PHONE: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
