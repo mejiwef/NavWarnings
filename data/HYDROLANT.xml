@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130842Z AUG 26
+HYDROLANT 1566/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
+   DAILY 12 THRU 21 AUG BY M/V COMANDO B 
+   AND M/V FANEROMENI IN 20-23.67S 040-09.45W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 212200Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130837Z AUG 26
+HYDROLANT 1565/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
+   DAILY 13 THRU 22 AUG BY M/V COMANDO B 
+   AND M/V AM KIRTI IN 20-23.90S 040-09.67W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 222200Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130832Z AUG 26
+HYDROLANT 1564/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
+   DAILY 18 THRU 20 AUG IN AREA WITHIN 
+   TEN MILES OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 202200Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>130415Z AUG 26
@@ -14,7 +54,8 @@ ANTARCTICA.
    B. A85, 63-51.00S 053-22.80W.
    C. D33A, 64-03.60S 055-49.80W.
    D. D33C, 61-31.20S 052-21.00W.
-2. CANCEL THIS MSG 140415Z AUG 26.</msgText>
+2. CANCEL THIS MSG 140415Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -31,7 +72,8 @@ ROMANIA.
    44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
    44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
    44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 281300Z AUG 26.</msgText>
+2. CANCEL THIS MSG 281300Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -44,7 +86,8 @@ BRAZIL.
    27 AUG BY M/V NAVIOS FELIX AND
    M/V COMANDO B IN 20-22.12S 040-08.38W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280001Z AUG 26.</msgText>
+2. CANCEL THIS MSG 280001Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -73,7 +116,8 @@ SOUTH SHETLAND ISLANDS.
    E. 61-32.00S 053-03.00W.
    F. 61-21.00S 053-00.00W.
    G. 60-44.00S 052-01.00W.
-2. CANCEL THIS MSG 131536Z AUG 26.</msgText>
+2. CANCEL THIS MSG 131536Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>

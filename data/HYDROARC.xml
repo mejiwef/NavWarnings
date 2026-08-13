@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131301Z AUG 26
+HYDROARC 169/26
+ARCTIC.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 130900Z AUG IN: 
+   A. 81-30.0N 091-18.8E.
+   B. 81-29.0N 094-14.7E.
+   C. 81-28.7N 094-33.1E.
+   D. 81-03.8N 100-43.4E.
+   E. 79-42.3N 107-34.3E.
+   F. 79-35.2N 108-07.3E.
+2. CANCEL THIS MSG 161301Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>122001Z AUG 26
@@ -18,7 +35,8 @@ RUSSIA.
    C. 72-47.18N 029-27.88E, 73-01.54N 030-54.23E,
       71-53.17N 032-54.86E, 71-39.58N 031-25.22E.
 2. CANCEL HYDROARC 161/26.
-3. CANCEL THIS MSG 271900Z AUG 26.</msgText>
+3. CANCEL THIS MSG 271900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
