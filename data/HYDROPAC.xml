@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>140103Z AUG 26
+HYDROPAC 2330/26
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+FOUR BUOYS, YELLOW, FL Y 5 SEC, ESTABLISHED
+IN VICINITY 29-27.00S 114-52.18E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>132057Z AUG 26
+HYDROPAC 2328/26.
+SOUTH PACIFIC.
+PERU.
+1. GUNNERY EXERCISES 180200Z TO 240800Z AUG
+   IN AREA BOUND BY
+   12-52.00S 078-39.00W, 12-26.00S 077-21.00W,
+   13-34.00S 077-01.00W, 13-59.00S 078-17.00W.
+2. CANCEL THIS MSG 240900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>131219Z AUG 26
@@ -442,6 +465,7 @@ HYDROPAC 2276/26.
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 104/26, 2038/26, 2082/26, 2090/26, 
    2138/26, 2178/26, 2185/26, 2193/26.
+CANCEL THIS MSG 141300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -489,21 +513,6 @@ HYDROPAC 2265/26.
 ANDAMAN SEA.
 INDIA.
 SIR HUGE ROSE LT 11-47.2N 093-04.83E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071125Z AUG 26
-HYDROPAC 2264/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 091831Z THRU
-   131829Z AUG IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 131929Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -763,6 +772,7 @@ SOUTH CHINA SEA.
    REPORTS TO MRCC VIETNAM,
    EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 2. CANCEL HYDROPAC 2148/26.
+CANCEL THIS MSG 141300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -905,6 +915,7 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+CANCEL THIS MSG 141300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
