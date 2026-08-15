@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151152Z AUG 26
+HYDROPAC 2347/26
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS IN PROGRESS TO 200230Z AUG
+   IN AREA BOUND BY
+   18-09.47N 070-45.41E, 17-06.18N 071-05.04E, 
+   16-56.51N 070-24.42E, 17-59.14N 070-03.54E.
+2. CANCEL THIS MSG 200330Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151125Z AUG 26
+HYDROPAC 2346/26
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS IN PROGRESS TO 200230Z AUG
+   IN AREA BOUND BY
+   20-34.37N 069-42.24E, 19-30.42N 070-20.07E, 
+   19-15.44N 069-40.38E, 20-22.24N 069-00.48E.
+2. CANCEL THIS MSG 200330Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>151107Z AUG 26
+HYDROPAC 2345/26
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS IN PROGRESS TO 200230Z AUG
+   IN AREAS BOUND BY:
+   A. 14-36.07N 073-32.58E, 13-53.09N 073-43.00E,
+      13-49.01N 073-15.00E, 14-30.00N 073-04.01E.
+   B. 14-39.22N 073-32.29E, 15-20.31N 073-20.05E,
+      15-16.07N 072-50.00E, 14-33.23N 073-01.17E.
+2. CANCEL HYDROPAC 2344/26.
+3. CANCEL THIS MSG 200330Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>150909Z AUG 26
+HYDROPAC 2343/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0343Z TO 0829Z DAILY 19 THRU 25 AUG
+   IN AREA BOUND BY
+   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
+   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
+   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
+2. CANCEL THIS MSG 250929Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>150634Z AUG 26
+HYDROPAC 2342/26.
+SOUTH PACIFIC.
+PERU.
+1. GUNNERY EXERCISES 200200Z TO 230800Z AUG
+   IN AREA BOUND BY
+   11-00.00S 078-08.00W, 11-00.00S 077-39.00W,
+   11-35.00S 077-10.00W, 11-35.00S 078-08.00W.
+2. CANCEL HYDROPAC 2340/26.  
+3. CANCEL THIS MSG 230900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>150302Z AUG 26
@@ -21,19 +91,6 @@ TASMAN SEA.
    53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
    41-36.00S 080-09.00E.
 2. CANCEL THIS MSG 262121Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>150247Z AUG 26
-HYDROPAC 2340/26.
-SOUTH PACIFIC.
-PERU.
-1. GUNNERY EXERCISES 200200Z TO 230800Z AUG
-   IN AREA BOUND BY
-   11-06.00S 077-56.00W, 11-06.00S 077-38.00W,
-   11-25.00S 077-38.00W, 11-25.00S 077-56.00W.
-2. CANCEL THIS MSG 230900Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
