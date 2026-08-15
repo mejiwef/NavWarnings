@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>150113Z AUG 26
+HYDROLANT 1578/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 150800Z TO 291800Z 
+   AUG BY M/V MOONBEAM AND M/V COMANDO B
+   IN VICINITY 20-21.82S 040-08.98W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 291900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>142112Z AUG 26
