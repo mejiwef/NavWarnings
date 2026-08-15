@@ -1062,23 +1062,6 @@ NORTHERN MARIANA ISLANDS.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>151355Z JUL 26
-HYDROPAC 2027/26.
-ARABIAN SEA.
-INDIA.
-1. SURVEY OPERATIONS 15 JUL THRU 14 AUG
-   BY M/V TRIMURTI IN AREA BOUND BY
-   19-07.08N 072-48.20E, 19-05.68N 072-46.66E,
-   19-03.76N 072-42.33E, 19-01.07N 072-41.73E,
-   19-01.80N 072-41.19E, 19-04.24N 072-41.39E,
-   19-07.50N 072-47.72E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>140944Z JUL 26
 HYDROPAC 2014/26.
 SEA OF OKHOTSK.
