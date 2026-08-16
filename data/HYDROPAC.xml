@@ -380,22 +380,6 @@ SAUDI ARABIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>120448Z AUG 26
-HYDROPAC 2314/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 120430Z TO 160430Z AUG
-   IN AREAS BOUND BY:
-   A. 21-24.00N 067-05.00E, 21-03.29N 067-36.00E,
-      19-56.30N 067-13.00E, 20-15.29N 066-41.00E.
-   B. 22-32.00N 067-37.00E, 22-10.00N 068-07.28E,
-      21-03.00N 067-37.00E, 21-22.00N 067-06.00E.
-2. CANCEL THIS MSG 160530Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>112209Z AUG 26
 HYDROPAC 2313/26.
 TASMAN SEA.
