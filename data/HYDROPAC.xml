@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>STRUCTURE</category>
+        <status>INFORCE</status>
+        <msgText>161213Z AUG 26
+HYDROPAC 2350/26
+PERSIAN GULF.
+KUWAIT.
+1. SHUAIBA PORT UNDER CONSTRUCTION
+   16 AUG 26 THRU 16 APR 27,
+   IN 29-02.26 N 048-10.56 E.
+2. MARKED BY YELLOW BUOYS:
+   MB-1    29-02.46 N 048-10.30 E,  
+   MB-2    29-02.62 N 048-10.20 E,  
+   MB-3    29-02.74 N 048-10.43 E,  
+   MB-4    29-02.65 N 048-10.48 E,  
+   MB-5    29-02.80 N 048-10.79 E,  
+   MB-6    29-02.44 N 048-11.02 E,  
+   MB-7    29-02.35 N 048-10.82 E,  
+   MB-8    29-02.54 N 048-10.70 E,  
+   MB-9    29-02.43 N 048-10.47 E. 
+   WIDE BERTH REQUESTED.
+3. CANCEL THIS MSG 170001Z APR 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>151618Z AUG 26
@@ -388,22 +411,6 @@ NEW ZEALAND.
    IN AREA WITHIN THREE MILES OF 
    36-28.65S 174-09.63E.
 2. CANCEL THIS MSG 171100Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>111211Z AUG 26
-HYDROPAC 2308/26.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   160200Z TO 160800Z AUG IN AREAS BOUND BY:
-   A. 09-06.00N 119-22.20E, 08-59.40N 119-12.60E,
-      09-16.80N 118-59.40E, 09-24.00N 119-09.00E.
-   B. 08-57.00N 119-36.00E, 08-45.00N 119-19.80E,
-      09-16.20N 118-57.00E, 09-28.20N 119-12.60E.
-2. CANCEL THIS MSG 160900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

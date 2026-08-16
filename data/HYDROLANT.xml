@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>161021Z AUG 26
+HYDROLANT 1587/26
+SCOTIA SEA.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-40.20S 102-32.40W.
+   B. A85, 63-32.40 S 53-28.20 W.
+   C. D33A, 64-01.20 S 55-54.00 W.
+   D. D33C, 61-29.40 S 53-45.00 W.
+2. CANCEL THIS MSG 171021Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>160343Z AUG 26
@@ -82,20 +96,6 @@ SOUTH SHETLAND ISLANDS.
    G. 61-28.00S 053-33.00W.
    H. 61-21.00S 053-01.00W.
 2. CANCEL THIS MSG 161431Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>151013Z AUG 26
-HYDROLANT 1579/26
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-40.20S 102-32.40W.
-   B. A85, 63-32.40S 53-28.20W.
-   C. D33A, 64-01.20S 55-54.00W.
-   D. D33C, 61-29.40S 53-45.00W.
-2. CANCEL THIS MSG 161013Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
