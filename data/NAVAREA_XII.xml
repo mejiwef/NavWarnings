@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>152128Z AUG 26
+NAVAREA XII 555/26
+NORTH PACIFIC.
+HAWAII.
+DUE TO HURRICANE LALA:
+1. THE FOLLOWING PORT(S) ARE CLOSED:
+   A. HILO HARBOR, BIG ISLAND 19-44N 155-04W.
+   B. HONOLULU HARBOR, OAHU 21-18N 157-52W.
+   C. KAWAIHAE HARBOR, BIG ISLAND 20-02N 155-50W.
+   D. NAWILIWILI HARBOR, KAUAI 21-57N 159-21W.
+   E. PORT ALLEN, KAUAI 21-54N 159-35W.
+2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
+   NONE TO REPORT.
+3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
+   NONE TO REPORT.
+4. CURRENT PORT INFORMATION CAN BE FOUND AT
+   HTTPS://NAVCEN.USCG.GOV/PORT-STATUS?</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>150705Z AUG 26

@@ -87,20 +87,6 @@ BRAZIL.
 2. CANCEL THIS MSG 291900Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>142112Z AUG 26
-HYDROLANT 1577/26.
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-A. A84, 71-22.80S 102-40.80W.
-B. A85, 63-51.00S 053-22.80W.
-C. D33A, 64-03.60S 055-49.80W.
-D. D33C, 61-31.20S 052-21.00W.
-2. CANCEL THIS MSG 152113Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>141525Z AUG 26
@@ -275,17 +261,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 280001Z AUG 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>122238Z AUG 26
-HYDROLANT 1558/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. VESSEL ADRIFT IN 29-03.30N 011-00.68W
-   AT 122100Z AUG.
-2. CANCEL THIS MSG 152238Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>

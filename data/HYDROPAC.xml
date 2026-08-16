@@ -1008,22 +1008,6 @@ IN 26-38.47N 051-55.82E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>241335Z JUL 26
-HYDROPAC 2124/26.
-NORTH PACIFIC.
-1. SURVEY OPERATIONS 25 JUL THRU 15 AUG
-   BY SUBMERSIBLE IN AREAS BOUND BY:
-   A. 22-40.00N 154-30.00E, 22-40.00N 153-45.00E,
-      23-20.00N 153-45.00E, 23-20.00N 154-30.00E.
-   B. 22-30.00N 153-45.00E, 22-30.00N 152-45.00E,
-      23-40.00N 152-45.00E, 23-40.00N 153-45.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PLATFORM</category>
         <status>INFORCE</status>
         <msgText>240158Z JUL 26
