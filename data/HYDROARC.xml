@@ -22,24 +22,6 @@ HYDROARC 170/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131301Z AUG 26
-HYDROARC 169/26
-ARCTIC.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 130900Z AUG IN: 
-   A. 81-30.00N 091-18.80E.
-   B. 81-29.00N 094-14.70E.
-   C. 81-28.70N 094-33.10E.
-   D. 81-03.80N 100-43.40E.
-   E. 79-42.30N 107-34.30E.
-   F. 79-35.20N 108-07.30E.
-2. CANCEL THIS MSG 161301Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>122001Z AUG 26
