@@ -3,17 +3,37 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>171142Z AUG 26
-HYDROLANT 1594/26.
+        <msgText>171453Z AUG 26
+HYDROLANT 1597/26.
 SCOTIA SEA.
 SOUTH ATLANTIC.
 ANTARCTICA.
+SOUTH SHETLAND ISLANDS.
 1. ICEBERGS REPORTED IN: 
-   A. A76C, 52-30.00S 030-15.60W.
-   B. A81, 59-02.40S 051-03.00W.
-   C. A83, 61-04.80S 050-19.80W.
-   D. D33B, 60-13.20S 052-10.80W.
-2. CANCEL THIS MSG 181144Z AUG 26.</msgText>
+   A. D33B, 61-48.00S 054-27.00W.
+   B. A81, 59-01.00S 051-08.00W.
+   C. A76C, 52-47.00S 030-22.00W.
+   D. A83, 61-08.00S 050-33.00W.
+   E. D33C, 61-16.00S 052-12.00W.
+   F. 60-27.00S 051-19.00W.
+   G. 61-19.00S 054-00.00W.
+   H. 61-24.00S 053-31.00W.
+2. CANCEL HYDROLANT 1585/26 AND 1596/26.
+3. CANCEL THIS MSG 181456Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171305Z AUG 26
+HYDROLANT 1595/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 0700Z TO 1700Z 
+   DAILY 18 THRU 21 AUG IN AREA WITHIN 
+   17 MILES OF 57-24.90N 007-59.70W.
+2. CANCEL THIS MSG 211800Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -26,7 +46,8 @@ SOUTH ATLANTIC.
    IN AREA BOUND BY
    06-12.50S 003-00.50E, 06-22.00S 004-53.00E,
    13-35.00S 004-20.00E, 13-26.00S 002-24.00E.
-2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 301900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -39,7 +60,8 @@ BRAZIL.
    DAILY 18 THRU 28 AUG BY M/V SPAR ARIES 
    AND M/V COMANDO B IN 20-48.85S 040-27.23W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 282200Z AUG 26.</msgText>
+2. CANCEL THIS MSG 282200Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -55,7 +77,8 @@ ANTARCTICA.
    B. A85, 63-32.40S 053-28.20W.
    C. D33A, 64-01.20S 055-54.00W.
    D. D33C, 61-29.40S 053-45.00W.
-2. CANCEL THIS MSG 180411Z AUG 26.</msgText>
+2. CANCEL THIS MSG 180411Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -67,7 +90,8 @@ ENGLAND.
 1. MF DSC AND R/T SERVICES OFF AIR AT:
    A. CULLERCOATS 55-04.40N 001-27.80W.
    B. GREGNESS 57-07.70N 002-03.20W. 
-2. CANCEL HYDROLANT 1488/26.</msgText>
+2. CANCEL HYDROLANT 1488/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -77,26 +101,8 @@ HYDROLANT 1589/26.
 DOVER STRAIT.
 ENGLAND.
 EAST GOODWIN LIGHT VESSEL 51-13.30N 001-36.40E.
-PERMANENTLY DISCONTINUED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161503Z AUG 26
-HYDROLANT 1588/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 52-50.00S 030-26.00W.
-   B. A81, 59-04.00S 051-05.00W.
-   C. A83, 61-08.00S 050-33.00W.
-   D. D33B, 60-22.00S 052-18.00W.
-   E. D33C, 61-40.00S 054-19.00W.
-   F. 60-27.00S 051-19.00W.
-   G. 61-23.00S 053-56.00W.
-   H. 61-21.00S 053-01.00W.
-2. CANCEL THIS MSG 171503Z AUG 26.</msgText>
+PERMANENTLY DISCONTINUED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
@@ -110,17 +116,7 @@ MAN OVERBOARD FROM VESSEL IN
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO ANY COASTAL RADIO STATION.
-
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PLATFORM</category>
-        <status>INFORCE</status>
-        <msgText>160230Z AUG 26
-HYDROLANT 1585/26.
-SOUTH ATLANTIC.
-BRAZIL.
-PLATFORM MANATI PMNT-1 13-29.40S 038-48.75W UNLIT. </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -129,9 +125,11 @@ PLATFORM MANATI PMNT-1 13-29.40S 038-48.75W UNLIT. </msgText>
 HYDROLANT 1584/26
 BLACK SEA.
 ROMANIA.
-1. DANGEROUS OBJECT ADRIFT IN 44-02.31 N 030-33.68 E
-   AT 151256Z AUG.
-2. CANCEL THIS MSG 181648Z AUG 26.</msgText>
+1. DANGEROUS OBJECT ADRIFT IN 
+   44-02.31N 030-33.68E AT
+   151256Z AUG.
+2. CANCEL THIS MSG 181648Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -157,10 +155,11 @@ HYDROLANT 1582/26
 SOUTH ATLANTIC.
 BRAZIL.
 1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   16 AUG THRU 30 AUG BY MV WHITE DEFENDER AND COMANDO B 
+   16 THRU 30 AUG BY MV WHITE DEFENDER AND COMANDO B 
    IN VICINITY 20-26.83S 040-08.73W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 301900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -173,7 +172,8 @@ BRAZIL.
    AUG BY M/V MOONBEAM AND M/V COMANDO B
    IN VICINITY 20-21.82S 040-08.98W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 291900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 291900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
