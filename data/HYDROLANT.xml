@@ -3,6 +3,47 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>171142Z AUG 26
+HYDROLANT 1594/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 52-30.00S 030-15.60W.
+   B. A81, 59-02.40S 051-03.00W.
+   C. A83, 61-04.80S 050-19.80W.
+   D. D33B, 60-13.20S 052-10.80W.
+2. CANCEL THIS MSG 181144Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>170953Z AUG 26
+HYDROLANT 1593/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2100Z TO 1800Z DAILY 19 THRU 29 AUG
+   IN AREA BOUND BY
+   06-12.50S 003-00.50E, 06-22.00S 004-53.00E,
+   13-35.00S 004-20.00E, 13-26.00S 002-24.00E.
+2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170900Z AUG 26
+HYDROLANT 1592/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
+   DAILY 18 THRU 28 AUG BY M/V SPAR ARIES 
+   AND M/V COMANDO B IN 20-48.85S 040-27.23W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 282200Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>170410Z AUG 26
 HYDROLANT 1591/26.
 SCOTIA SEA.
@@ -56,20 +97,6 @@ SOUTH SHETLAND ISLANDS.
    G. 61-23.00S 053-56.00W.
    H. 61-21.00S 053-01.00W.
 2. CANCEL THIS MSG 171503Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>161021Z AUG 26
-HYDROLANT 1587/26
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-40.20S 102-32.40W.
-   B. A85, 63-32.40 S 53-28.20 W.
-   C. D33A, 64-01.20 S 55-54.00 W.
-   D. D33C, 61-29.40 S 53-45.00 W.
-2. CANCEL THIS MSG 171021Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>

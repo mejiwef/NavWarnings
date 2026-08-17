@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>171217Z AUG 26
+HYDROPAC 2360/26.
+ARABIAN SEA.
+INDIA.
+FAIRWAY BOUY IN 17-34.34N 073-04.58E
+MISSING.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>171159Z AUG 26
+HYDROPAC 2359/26.
+SOUTH CHINA SEA.
+M/V KHOI NGUYEN 18 FLOODING AND SINKING 
+IN 09-00.00N 112-00.00E AT 211538Z JUL. 48 PERSONS
+RESCUED. ONE DEAD BODY WAS FOUND, 13 PERSONS
+REMAIN MISSING. 
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171152Z AUG 26
+HYDROPAC 2358/26.
+ANDAMAN SEA.
+BURMA.
+INDIA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
+   DAILY 19 AUG AND 21 AUG IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 211130Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>171125Z AUG 26
+HYDROPAC 2357/26
+CORAL SEA.
+NEW CALEDONIA.
+1. GUNNERY EXERCISES IN PROGRESS UNTIL
+   190700Z AUG IN AREA WITHIN 10.00 MILES 
+   OF 22-07.00S 167-27.00E.
+2. CANCEL THIS MSG 190800Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>140859Z AUG 26
@@ -444,19 +496,6 @@ SAUDI ARABIA.
       21-05.35N 039-07.00E, 21-06.00N 038-58.30E,
       21-13.24N 038-58.30E, 21-13.30N 039-06.12E.
 2. CANCEL THIS MSG 201700Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>112209Z AUG 26
-HYDROPAC 2313/26.
-TASMAN SEA.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS 170500Z TO 171000Z AUG
-   IN AREA WITHIN THREE MILES OF 
-   36-28.65S 174-09.63E.
-2. CANCEL THIS MSG 171100Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
