@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>170100Z AUG 26
+HYDROPAC 2355/26
+SOUTH PACIFIC.
+CANCEL HYDROPAC 2286/26 AND THIS MSG.
+OPERATIONS COMPLETE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>162208Z AUG 26
+HYDROPAC 2353/26
+SOUTH PACIFIC.
+CHILE.
+ISLA RAIMAPU LIGHTHOUSE 45-48.50S 073-34.70W.
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161638Z AUG 26
@@ -271,17 +290,6 @@ INDIA.
    11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
    11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
 2. CANCEL THIS MSG 180729Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>140824Z AUG 26
-HYDROPAC 2333/26.
-TASMAN SEA.
-AUSTRALIA.
-PERPENDICULAR POINT LIGHT 35-05.65S 150-48.25E
-TEMPORARILY CHANGED TO FL (3) W 20 SEC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -701,25 +709,6 @@ CHILE.
 1. MAGALLANES RADIO 53-09.90S 070-54.30W
    HF, MF AND RADIOTELEX OFF AIR.
 2. CANCEL HYDROPAC 527/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>021629Z AUG 26
-HYDROPAC 2235/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   101709Z TO 102205Z, 111646Z TO 112142Z,  
-   121624Z TO 122120Z, 131602Z TO 132058Z,  
-   141539Z TO 142035Z, 151517Z TO 152013Z,  
-   AND 161455Z TO 161951Z AUG IN AREA BOUND BY
-   48-02.00S 159-55.00E, 47-11.00S 158-59.00E,
-   51-17.00S 115-27.00E, 39-52.00S 082-05.00E,
-   41-36.00S 080-09.00E, 53-37.00S 114-28.00E,
-   49-27.00S 159-48.00E.
-2. CANCEL THIS MSG 162051Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

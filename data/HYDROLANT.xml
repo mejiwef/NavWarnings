@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>162339Z AUG 26
+HYDROLANT 1590/26.
+NORTH SEA.
+ENGLAND.
+1. MF DSC AND R/T SERVICES OFF AIR AT:
+   A. CULLERCOATS 55-04.40N 001-27.80W.
+   B. GREGNESS 57-07.70N 002-03.20W. 
+2. CANCEL HYDROLANT 1488/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>162156Z AUG 26
+HYDROLANT 1589/26.
+DOVER STRAIT.
+ENGLAND.
+EAST GOODWIN LIGHT VESSEL 51-13.30N 001-36.40E.
+PERMANENTLY DISCONTINUED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>161503Z AUG 26
@@ -528,50 +550,6 @@ NORWAY.
    58-59.00N 001-52.80E.
    THREE MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1476/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030922Z AUG 26
-HYDROLANT 1493/26.
-BLACK SEA.
-ROMANIA.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 16 AUG BY M/V OCEAN AERO
-   IN AREA BOUND BY
-   44-19.85N 028-47.28E, 44-18.55N 028-50.44E,
-   44-23.90N 028-52.49E, 44-25.27N 028-49.44E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>012109Z AUG 26
-HYDROLANT 1488/26.
-NORTH SEA.
-ENGLAND.
-1. MF DSC AND R/T SERVICES OFF AIR AT:
-   A. BAWDSEY 51-59.60N 001-24.50E.
-   B. CULLERCOATS 55-04.40N 001-27.80W.
-   C. GREGNESS SITE 57-07.70N 002-03.20W.
-2. CANCEL HYDROLANT 1441/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011241Z AUG 26
-HYDROLANT 1484/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z
-   DAILY 02 THRU 16 AUG BY M/V COMANDO B
-   AND M/V ROYAL TOPAZ IN 20-21.62S 040-08.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 161900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
