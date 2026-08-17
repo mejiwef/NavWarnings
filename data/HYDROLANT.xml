@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>170410Z AUG 26
+HYDROLANT 1591/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-40.20S 102-32.40W.
+   B. A85, 63-32.40S 053-28.20W.
+   C. D33A, 64-01.20S 055-54.00W.
+   D. D33C, 61-29.40S 053-45.00W.
+2. CANCEL THIS MSG 180411Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>162339Z AUG 26
@@ -461,19 +477,6 @@ BRAZIL.
    20-23.57S 040-08.87W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 221900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>060116Z AUG 26
-HYDROLANT 1512/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-   170259Z AUG IN 22-22.48S 040-25.05W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 170359Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
