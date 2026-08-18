@@ -138,44 +138,6 @@ INDIA.
 2. CANCEL THIS MSG 200330Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>161605Z AUG 26
-HYDROPAC 2351/26
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS, IN PROGRESS
-   142216Z THRU 230417Z AUG IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 230517Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>STRUCTURE</category>
-        <status>INFORCE</status>
-        <msgText>161213Z AUG 26
-HYDROPAC 2350/26
-PERSIAN GULF.
-KUWAIT.
-1. SHUAIBA PORT UNDER CONSTRUCTION
-   16 AUG 26 THRU 16 APR 27,
-   IN 29-02.26 N 048-10.56 E.
-2. MARKED BY YELLOW BUOYS:
-   MB-1    29-02.46 N 048-10.30 E,  
-   MB-2    29-02.62 N 048-10.20 E,  
-   MB-3    29-02.74 N 048-10.43 E,  
-   MB-4    29-02.65 N 048-10.48 E,  
-   MB-5    29-02.80 N 048-10.79 E,  
-   MB-6    29-02.44 N 048-11.02 E,  
-   MB-7    29-02.35 N 048-10.82 E,  
-   MB-8    29-02.54 N 048-10.70 E,  
-   MB-9    29-02.43 N 048-10.47 E. 
-   WIDE BERTH REQUESTED.
-3. CANCEL THIS MSG 170001Z APR 27.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>151618Z AUG 26
@@ -233,21 +195,6 @@ INDIA.
       15-16.07N 072-50.00E, 14-33.23N 073-01.17E.
 2. CANCEL HYDROPAC 2344/26.
 3. CANCEL THIS MSG 200330Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>150909Z AUG 26
-HYDROPAC 2343/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0343Z TO 0829Z DAILY 19 THRU 25 AUG
-   IN AREA BOUND BY
-   25-23.00S 156-56.00W, 26-03.00S 153-24.00W,
-   43-04.00S 157-03.00W, 59-49.00S 163-34.00W,
-   59-13.00S 168-58.00W, 42-28.00S 161-17.00W.
-2. CANCEL THIS MSG 250929Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
