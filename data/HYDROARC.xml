@@ -3,6 +3,23 @@
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
+        <msgText>181756Z AUG 26
+HYDROARC 175/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   232100Z TO 240001Z, 0001Z TO 1800Z AND 
+   2100Z TO 0001Z DAILY 24 THRU 29 AND 
+   300000Z TO 301800Z AUG IN AREA BOUND BY
+   68-44.00N 049-49.00E, 68-30.00N 050-37.00E,
+   67-56.00N 049-25.00E, 67-52.00N 048-48.00E,
+   68-01.00N 048-18.00E.
+2. CANCEL THIS MSG 301900Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
         <msgText>171744Z AUG 26
 HYDROARC 174/26.
 BARENTS SEA.
