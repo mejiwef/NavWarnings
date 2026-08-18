@@ -108,7 +108,8 @@ SOUTH PACIFIC.
    38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 281602Z AUG 26.</msgText>
+2. CANCEL THIS MSG 281602Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -118,7 +119,8 @@ HYDROPAC 2353/26
 SOUTH PACIFIC.
 CHILE.
 ISLA RAIMAPU LIGHTHOUSE 45-48.50S 073-34.70W.
-INOPERATIVE.</msgText>
+INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -128,7 +130,7 @@ HYDROPAC 2352/26
 ARABIAN SEA.
 INDIA.
 1. HAZARDOUS OPERATIONS IN PROGRESS
-   THRU 200230Z AUG, IN AREAS BOUND BY:
+   UNTIL 200230Z AUG IN AREAS BOUND BY:
    A. 21-24.00N 067-05.00E, 21-03.29N 067-36.00E,
       19-56.30N 067-13.00E, 20-15.29N 066-41.00E.
    B. 22-32.00N 067-37.00E, 22-10.00N 068-07.28E,
@@ -147,7 +149,8 @@ SOUTH PACIFIC.
    38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 230517Z AUG 26.</msgText>
+2. CANCEL THIS MSG 230517Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>STRUCTURE</category>
@@ -1114,17 +1117,6 @@ INDIA.
    19-11.50N 072-46.40E.
 2. CANCEL HYDROPAC 1624/26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FAD</category>
-        <status>INFORCE</status>
-        <msgText>210848Z JUL 26
-HYDROPAC 2089/26.
-CORAL SEA.
-AUSTRALIA.
-FAD TEMPORARILY ANCHORED IN 
-26-36.55S 153-30.16E AT 210506Z JUL.
- </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>FISHING GEAR</category>

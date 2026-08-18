@@ -18,18 +18,6 @@ RUSSIA.
 2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>162328Z AUG 26
-HYDROARC 173/26
-BEAUFORT SEA.
-CHUKCHI SEA.
-1. GUNNERY EXERCISES 172100Z TO 180001Z AUG IN
-   AREA WITHIN FIVE MILES OF 75-38.00N 156-30.00W.
-2. CANCEL THIS MSG 180100Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>141525Z AUG 26
