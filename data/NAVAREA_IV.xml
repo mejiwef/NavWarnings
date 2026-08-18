@@ -386,21 +386,6 @@ FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311922Z JUL 26
-NAVAREA IV 743/26.
-CARIBBEAN SEA.
-CAYMAN ISLANDS.
-1. UNDERWATER OPERATIONS 020800Z THRU
-   180800Z AUG BY M/V ATLANTIS AND
-   SUBMERSIBLE ALVIN IN AREA WITHIN
-   100 MILES OF 18-23.00N 081-47.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 180900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>292341Z JUL 26

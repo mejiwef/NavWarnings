@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>181109Z AUG 26
+HYDROPAC 2371/26.
+STRAIT OF HORMUZ.
+U.A.E..
+VESSEL MINOAN DIGNITY ON FIRE AND ANCHORED
+IN 26-21.30N 056-35.80E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO NAVAREA IX,</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181041Z AUG 26
+HYDROPAC 2370/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 1030Z TO 1130Z 21 AUG
+   IN AREA BOUND BY 11-40.80N 092-45.90E, 
+   11-38.13N 093-00.70E, 11-30.65N 092-56.90E, 
+   11-26.33N 092-50.27E.
+2. CANCEL THIS MSG 211230Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>181032Z AUG 26
+HYDROPAC 2369/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0530Z TO 0700Z 21 AUG IN AREA WITHIN 
+   05.00 MILES OF 08-31.98N 076-52.05E.
+2. CANCEL THIS MSG 210800Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>181011Z AUG 26
+HYDROPAC 2368/26.
+EASTERN INDIAN OCEAN.
+SOMALIA.
+1. VESSEL ATTACKED IN 08-14.54N 050-11.70E
+   ON 17 AUG VESSELS ARE ADVISED TO KEEP 
+   CLEAR OF THIS POSITION AND TO EXERCISE 
+   EXTREME CAUTION.
+2. CANCEL THIS MSG 211022Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>180901Z AUG 26
+HYDROPAC 2367/26.
+BASS STRAIT.
+TASMANIA.
+TABLE CAPE LIGHT 40-56.80S 145-43.74E
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>180802Z AUG 26
+HYDROPAC 2366/26.
+SOUTH CHINA SEA.
+MALAYSIA.
+MAN OVERBOARD FROM VESSEL BOT PUKAT JERUT JHFA
+IN 06-21.23N 103-55.05E AT 151500Z AUG.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>171611Z AUG 26
@@ -317,34 +393,6 @@ INDIA.
    13-56.20N 074-13.60E, 13-56.20N 074-25.70E,
    14-07.20N 074-25.70E, 14-07.20N 074-13.60E.
 2. CANCEL THIS MSG 201330Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141151Z AUG 26
-HYDROPAC 2335/26
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0630Z
-   AND 0830Z TO 1030Z DAILY 15, 17 AND 18 AUG
-   17-31.12N 083-45.15E, 17-31.12N 084-06.12E,
-   17-51.20N 084-06.12E, 17-51.20N 083-45.15E.
-2. CANCEL THIS MSG 181130Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141135Z AUG 26
-HYDROPAC 2334/26
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 180430Z TO 180630Z 
-   AND 180830Z TO 181030Z AUG IN AREA BOUND BY
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 180729Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

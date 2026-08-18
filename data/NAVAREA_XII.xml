@@ -70,20 +70,6 @@ CALIFORNIA.
 2. CANCEL THIS MSG 281420Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>150705Z AUG 26
-NAVAREA XII 554/26.
-NORTH PACIFIC.
-1. DERELICT 30 FOOT VESSEL, GRAY HULL,
-   PARTIALLY SUBMERGED AND ADRIFT 
-   IN 25-49.90N 155-18.70W AT 150600Z AUG.
-   REPORTS TO JRCC HONOLULU,
-   PHONE: 800 331 6176, 
-   E-MAIL: JRCCHONOLULU@USCG.MIL.
-2. CANCEL THIS MSG 180705Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>141524Z AUG 26

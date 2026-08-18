@@ -14,7 +14,8 @@ ANTARCTICA.
    B. A85, 63-32.40S 053-28.20W.
    C. D33A, 64-01.20S 055-54.00W.
    D. D33C, 61-29.40S 053-45.00W.
-2. CANCEL THIS MSG 190406Z AUG 26.</msgText>
+2. CANCEL THIS MSG 190406Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -27,7 +28,8 @@ BRAZIL.
    DAILY UNTIL 28 AUG BY M/V SPAR ARIES AND
    M/V COMANDO B IN 20-48.85S 040-27.23W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 281900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 281900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -40,7 +42,8 @@ BRAZIL.
    DAILY UNTIL 29 AUG BY M/V COMANDO B
    AND M/V AM KIRTI IN 20-19.03S 040-08.77W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 300001Z AUG 26.</msgText>
+2. CANCEL THIS MSG 291900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -50,8 +53,7 @@ HYDROLANT 1598/26.
 IONIAN SEA.
 ITALY.
 NAVTEX STATION SELLIA MARINA (V)
-38-52.21N 016-43.06E OFF AIR UNTIL
-FURTHER NOTICE.
+38-52.21N 016-43.06E OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
