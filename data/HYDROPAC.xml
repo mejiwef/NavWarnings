@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>190534Z AUG 26
+HYDROPAC 2373/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
+   IN AREA BOUND BY
+   19-47.68S 115-12.91E, 19-57.87S 115-12.91E,
+   19-57.87S 115-25.37E, 19-47.68S 115-25.37E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2157/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>181402Z AUG 26
@@ -1011,22 +1026,6 @@ SOUTH PACIFIC.
    30-35.08S 175-55.29E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2149/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>272359Z JUL 26
-HYDROPAC 2157/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V FUGRO KWILENA
-   IN AREA BOUND BY
-   19-56.69S 114-45.09E, 20-26.06S 114-45.09E,
-   20-26.06S 115-30.10E, 19-56.69S 115-30.10E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2095/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PLATFORM</category>
+        <status>INFORCE</status>
+        <msgText>190451Z AUG 26
+HYDROLANT 1610/26.
+NORTH SEA.
+ENGLAND.
+ALL NAVIGATIONAL AIDS AT PLATFORM 
+SOUTH 42/30-B 54-03.60N 000-54.00E
+UNLIT AND INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>190430Z AUG 26
+HYDROLANT 1609/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-40.20S 102-32.40W.
+   B. A85, 63-32.40S 053-28.20W.
+   C. D33A, 64-01.20S 055-54.00W.
+   D. D33C, 61-29.40S 053-45.00W.
+2. CANCEL THIS MSG 200431Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>190343Z AUG 26
+HYDROLANT 1608/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   192100Z TO 301800Z AUG 
+   IN AREA BOUND BY
+   36-52.00S 029-15.00W, 37-17.00S 025-29.00W,
+   48-02.00S 027-29.00W, 47-40.00S 031-14.00W.
+2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CANCEL MSG</category>
         <status>INFORCE</status>
         <msgText>182007Z AUG 26
@@ -54,23 +94,6 @@ ANTARCTICA.
    G. 61-23.00S 053-35.00W.
    H. 61-28.00S 054-03.00W.
 2. CANCEL THIS MSG 191331Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>180405Z AUG 26
-HYDROLANT 1602/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-40.20S 102-32.40W.
-   B. A85, 63-32.40S 053-28.20W.
-   C. D33A, 64-01.20S 055-54.00W.
-   D. D33C, 61-29.40S 053-45.00W.
-2. CANCEL THIS MSG 190406Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
