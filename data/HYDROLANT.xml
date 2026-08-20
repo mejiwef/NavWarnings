@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200006Z AUG 26
+HYDROLANT 1621/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1000Z TO 2000Z
+   DAILY UNTIL 25 AUG BY VESSEL NOMAR
+   IN 24-07.27S 046-09.30W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 252100Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>192334Z AUG 26
+HYDROLANT 1620/26.
+SOUTH ATLANTIC.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   24 AUG BY M/V SEA 1 DORADO
+   IN AREA BOUND BY
+   24-53.20S 042-47.12W, 24-54.37S 042-44.77W,
+   24-53.12S 042-41.00W, 24-52.10S 042-37.92W,
+   24-52.02S 042-34.48W, 24-28.65S 042-28.38W,
+   24-51.87S 042-24.10W, 25-00.98S 042-18.05W,
+   25-05.70S 042-20.97W, 25-05.87S 042-29.85W,
+   25-05.92S 042-31.78W, 25-07.83S 042-32.98W,
+   25-09.83S 042-34.82W, 25-09.80S 042-34.85W,
+   25-10.83S 042-36.57W, 25-10.82S 042-36.88W,
+   25-06.47S 042-43.98W, 25-02.90S 042-43.98W,
+   25-02.85S 042-44.07W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 250001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>192310Z AUG 26
+HYDROLANT 1619/26.
+SOUTH ATLANTIC.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 280259Z AUG BY M/V SIEM PILOT
+   IN 24-35.02S 042-15.37W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 280359Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191516Z AUG 26
@@ -76,18 +123,6 @@ BRAZIL.
    AND M/V COMANDO B IN 20-23.17S 040-10.02W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 032200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>190916Z AUG 26
-HYDROLANT 1613/26.
-WESTERN SOUTH ATLANTIC.
-BRAZIL.
-1. PONTA DA GAMELEIRA LIGHT 05-13.19S 035-25.37W
-   UNLIT UNTIL 15 FEB 27. 
-2. CANCEL THIS MSG 160001Z FEB 27.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -783,22 +818,6 @@ HYDROLANT 1448/26
 ENGLISH CHANNEL.
 ENGLAND. 
 FOWEY LIGHT 50-19.60N 004-38.90W UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270940Z JUL 26
-HYDROLANT 1445/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 281000Z JUL TO 
-   192100Z AUG BY M/V UMI POLARIS
-   IN AREA BOUND BY
-   21-53.65S 040-49.70W, 21-53.74S 040-41.13W,
-   21-55.51S 040-41.15W, 21-55.82S 040-49.70W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 192200Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
