@@ -15,7 +15,8 @@ RUSSIA.
       68-49.00N 045-50.00E, 69-00.00N 044-27.00E.
    B. 77-52.00N 061-55.00E, 77-37.00N 063-39.00E,
       76-39.00N 060-30.00E, 76-56.00N 058-52.00E.
-2. CANCEL THIS MSG 301900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 301900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -62,24 +63,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>171744Z AUG 26
-HYDROARC 174/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   192100Z TO 200001Z, 0000Z TO 1800Z AND
-   2100Z TO 0000Z DAILY 20 THRU 29 AND 
-   300000Z TO 301800Z AUG IN AREAS BOUND BY:
-   A. 70-47.00N 046-22.00E, 70-37.00N 047-36.00E,
-      69-46.00N 046-36.00E, 69-56.00N 045-20.00E.
-   B. 74-04.00N 051-13.50E, 73-51.67N 052-40.00E,
-      72-44.00N 050-36.00E, 72-57.00N 049-13.00E.
-2. CANCEL THIS MSG 301900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>141525Z AUG 26
@@ -98,6 +81,7 @@ HYDROARC 170/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROARC 160/26.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

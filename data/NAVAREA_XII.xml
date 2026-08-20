@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201725Z AUG 26
+NAVAREA XII 568/26
+CHUKCHI SEA.
+ALASKA.
+1. CABLE OPERATIONS 22 AUG THRU 02 SEP 
+   BY CABLESHIP IT INTEGRITY IN: 
+   A. 66-06.56N 162-40.36W.
+   B. 66-48.93N 162-59.80W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201321Z AUG 26
+NAVAREA XII 567/26
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 251300Z TO 252100Z AUG,
+   ALTERNATE 261300Z TO 262100Z AUG IN AREA BOUND BY
+   33-37.00N 120-26.00W, 33-00.00N 119-53.00W,
+   33-44.00N 119-07.00W, 33-58.00N 119-27.00W.
+2. CANCEL THIS MSG 262200Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201302Z AUG 26
+NAVAREA XII 566/26
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 251400Z TO 252000Z AUG,
+   ALTERNATE 261400Z TO 262000Z AUG IN AREA WITHIN 
+   56 MILES OF 35-35.00N 121-56.00W.
+2. CANCEL THIS MSG 262100Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>FAD</category>
         <status>INFORCE</status>
         <msgText>200549Z AUG 26
@@ -8,7 +50,8 @@ NAVAREA XII 564/26.
 NORTH PACIFIC.
 1. FAD ADRIFT IN VICINITY 04-21.66N 081-47.40W
    AT 191700Z AUG.
-2. CANCEL THIS MSG 230551Z AUG 26.</msgText>
+2. CANCEL THIS MSG 230551Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -44,7 +87,8 @@ CALIFORNIA.
       29-48.00N 117-39.00W, 29-24.00N 118-08.00W,
       29-15.00N 118-02.00W, 29-02.00N 117-59.00W,
       28-13.00N 117-21.00W, 29-36.00N 117-16.00W.
-2. CANCEL THIS MSG 311358Z AUG 26.</msgText>
+2. CANCEL THIS MSG 311358Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -140,6 +184,7 @@ NAVAREA XII 553/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA XII COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA XII 534/26.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

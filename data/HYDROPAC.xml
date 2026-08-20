@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>201658Z AUG 26
+HYDROPAC 2401/26
+ARABIAN SEA.
+INDIA.
+1. PARTIALLY SUBMERGED CONTAINER ADRIFT 
+   IN 18-55.16N 071-55.61E AT 200400Z AUG.
+2. CANCEL THIS MSG 231658Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>201634Z AUG 26
+HYDROPAC 2400/26
+DUE TO TROPICAL STORM SAUDEL:
+1. THE FOLLOWING PORT(S) ARE CLOSED:
+   A. SAIPAN 15-11.00N 145-45.00E.  
+   B. TINIAN 15-00.00N 145-38.00E.
+2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
+   NONE TO REPORT.
+3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
+   NONE TO REPORT.
+4. CURRENT PORT INFORMATION CAN BE FOUND AT
+   WWW.NAVCEN.USCG.GOV/PORT-STATUS USING THE PORT DIRECTORY TAB.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>201415Z AUG 26
+HYDROPAC 2398/26
+GULF OF OMAN.
+U.A.E.
+1. WOODEN DEBRIS ADRIFT IN 25-13.12N 056-29.18E.
+2. CANCEL THIS MSG 231415Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201210Z AUG 26
@@ -63,7 +103,7 @@ SOUTH PACIFIC.
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
-        <msgText>170434Z AUG 26
+        <msgText>200909Z AUG 26
 HYDROPAC 2391/26.
 CORAL SEA.
 NEW CALEDONIA.
@@ -73,7 +113,8 @@ NEW CALEDONIA.
    B. TEN MILES OF 22-42.00S 166-00.00E.
    C. TEN MILES OF 23-00.00S 167-20.00E.
    D. TEN MILES OF 22-07.00S 167-27.00E.
-2. CANCEL THIS MSG 280900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 280900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -88,7 +129,8 @@ GUAM.
    THREE MILES OF:
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 271400Z AUG 26.</msgText>
+2. CANCEL THIS MSG 271400Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -110,7 +152,8 @@ TASMAN SEA.
    49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
    53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
    41-36.00S 080-09.00E.
-2. CANCEL THIS MSG 311517Z AUG 26.</msgText>
+2. CANCEL THIS MSG 311517Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -340,19 +383,6 @@ UNTIL FURTHER NOTICE IN AREA BOUND BY
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>171316Z AUG 26
-HYDROPAC 2361/26.
-EASTERN INDIAN OCEAN.
-SOMALIA.
-1. VESSEL ATTACKED IN VICINITY 08-14.54N 050-11.70E
-   ON 17 AUG. VESSELS ARE ADVISED TO KEEP CLEAR OF
-   THIS POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 201317Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>171217Z AUG 26
@@ -517,6 +547,7 @@ HYDROPAC 2339/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 2128/26, 2135/26, 2175/26, 2276/26.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -531,20 +562,6 @@ INDIA.
    20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
    21-31.00N 087-42.00E, 21-41.00N 087-45.00E.
 2. CANCEL THIS MSG 211230Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141213Z AUG 26
-HYDROPAC 2336/26
-INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0630Z TO 1230Z 
-   DAILY 19 AND 20 AUG IN AREA BOUND BY
-   13-56.20N 074-13.60E, 13-56.20N 074-25.70E,
-   14-07.20N 074-25.70E, 14-07.20N 074-13.60E.
-2. CANCEL THIS MSG 201330Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -602,22 +619,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120714Z AUG 26
-HYDROPAC 2325/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 18 THRU 20 AUG IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 201400Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>130129Z AUG 26
@@ -633,29 +634,6 @@ SRI LANKA.
    D. 05-06.29N 082-00.53E, 05-07.68N 081-23.35E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 160001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111504Z AUG 26
-HYDROPAC 2316/26.
-RED SEA.
-SAUDI ARABIA.
-1. HAZARDOUS OPERATIONS 0400Z TO 1600Z DAILY:
-   A. 17 AUG IN AREA BOUND BY
-      20-08.28N 040-05.14E, 20-08.28N 040-06.46E,
-      20-07.25N 040-06.46E, 20-07.43N 040-05.29E.
-   B. 17 AUG IN AREA BOUND BY
-      23-01.50N 038-46.50E, 23-03.50N 038-40.51E,
-      23-09.40N 038-40.51E, 23-09.40N 038-45.40E.
-   C. 19 AUG IN AREA BOUND BY
-      19-20.42N 040-53.48E, 19-16.42N 040-57.54E,
-      19-12.45N 040-53.48E, 19-16.42N 040-48.35E.
-   D. 17 THRU 20 AUG IN AREA BOUND BY
-      21-05.35N 039-07.00E, 21-06.00N 038-58.30E,
-      21-13.24N 038-58.30E, 21-13.30N 039-06.12E.
-2. CANCEL THIS MSG 201700Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -676,38 +654,6 @@ INDIAN OCEAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>110010Z AUG 26
-HYDROPAC 2300/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0430Z TO 1645Z DAILY 15 AUG THRU 04 SEP
-   IN AREAS BOUND BY:
-   A. 39-27.00S 176-36.00W, 40-12.00S 169-30.00W,
-      42-24.00S 169-48.00W, 41-24.00S 177-00.00W.
-   B. 41-00.00S 162-00.00W, 41-00.00S 154-24.00W,
-      43-00.00S 154-00.00W, 43-00.00S 161-48.00W.
-2. CANCEL THIS MSG 041745Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>102354Z AUG 26
-HYDROPAC 2299/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0430Z TO 1645Z DAILY 15 AUG THRU 04 SEP
-   IN AREA BOUND BY
-   39-12.00S 177-48.00E, 39-12.00S 177-57.00E,
-   39-07.20S 178-12.00E, 39-12.00S 179-00.00E,
-   39-45.00S 178-51.60E, 39-26.40S 177-31.80E.
-2. CANCEL THIS MSG 041745Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>102152Z AUG 26
@@ -716,17 +662,6 @@ SOUTH PACIFIC.
 PERU.
 N. BREAKWATER HEAD LIGHT 12-02.78S 077-09.34W
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>102058Z AUG 26
-HYDROPAC 2296/26.
-NORTH PACIFIC.
-GUAM.
-USCG REMOTE COMMUNICATION FACILITY GUAM
-13-29.00N 144-50.00E HF CAPABILITIES UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -933,6 +868,7 @@ OMAN.
 M/V MINOAN PIONEER ON FIRE AND ANCHORED
 IN 26-27.60N 056-32.50E.
 MARINERS ARE ADVISED TO NAVIGATE WITH CAUTION.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -971,6 +907,7 @@ M/V GAZLOG SHANGHAI DISABLED AND ADRIFT
 IN 26-05.11N 056-35.40E AT 312330Z JUL.
 VESSELS ARE ADVISED TO KEEP CLEAR OF THIS POSITION
 AND TO EXERCISE EXTREME CAUTION.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -996,6 +933,7 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1060,6 +998,7 @@ VICINITY REQUESTED TO KEEP A SHARP LOOKOUT,
 ASSIST IF POSSIBLE. REPORTS TO JRCC HONOLULU,
 PHONE: 800 331 6176,
 EMAIL: JRCCHONOLULU@USCG.MIL.
+CANCEL THIS MSG 211300Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
