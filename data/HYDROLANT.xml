@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>201052Z AUG 26
+HYDROLANT 1627/26
+SOUTH ATLANTIC.
+BRAZIL.
+JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200942Z AUG 26
+HYDROLANT 1626/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 250900Z TO 272100Z AUG
+   IN AREA WITHIN SEVEN MILES OF 
+   24-26.04S 045-39.91W.
+2. CANCEL THIS MSG 272200Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200936Z AUG 26
+HYDROLANT 1625/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 21 AUG THRU 04 SEP BY 
+   M/V CAPETAN VASSILIS II AND M/V COMANDO B
+   IN 20-23.95S 040-10.83W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 041900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>200802Z AUG 26
+HYDROLANT 1624/26.
+BLACK SEA.
+ROMANIA.
+1. OBJECT ADRIFT IN VICINITY 44-02.70N 030-35.00E
+   AT 200330Z AUG.
+2. CANCEL THIS MSG 230803Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>200410Z AUG 26
