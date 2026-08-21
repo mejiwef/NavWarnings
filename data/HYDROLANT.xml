@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210108Z AUG 26
+HYDROLANT 1635/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 222300Z TO 230800Z AUG
+   IN AREA WITHIN TWO MILES OF 21-52.50S 040-50.30W.
+2. CANCEL THIS MSG 230900Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>210039Z AUG 26
+HYDROLANT 1634/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. ODAS BUOY TEMPORARILY ESTABLISHED
+   UNTIL 21 AUG 27 IN 21-34.20S 040-43.62W.
+2. CANCEL HYDROLANT 746/26.
+3. CANCEL THIS MSG 220001Z AUG 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>202209Z AUG 26
+HYDROLANT 1633/26.
+NORTH CHANNEL.
+ENGLAND.
+CORSEWALL LIGHT 55-00.40N 005-09.60W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>201349Z AUG 26
@@ -498,18 +530,6 @@ BRAZIL.
    AND M/V AM KIRTI IN 20-23.90S 040-09.67W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 222200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130832Z AUG 26
-HYDROLANT 1564/26.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
-   DAILY 18 THRU 20 AUG IN AREA WITHIN 
-   TEN MILES OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 202200Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1052,17 +1072,6 @@ BRAZIL.
    32-32.46S 052-06.03W UNTIL 31 DEC 27.
 2. CANCEL HYDROLANT 1946/25.
 3. CANCEL THIS MSG 010001Z JAN 28.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>140928Z APR 26
-HYDROLANT 746/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ODAS BUOY TEMPORARILY ESTABLISHED
-   UNTIL 13 APR 27 IN 21-34.20S 040-43.62W.
-2. CANCEL THIS MSG 140001Z APR 27.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>

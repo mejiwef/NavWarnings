@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>210022Z AUG 26
+HYDROPAC 2402/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+SOUTH CHINA SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   232300Z TO 240500Z AUG IN AREAS BOUND BY:
+   A. 19-30.37N 118-28.02E, 19-25.37N 119-30.73E,
+      18-47.73N 119-27.25E, 18-52.72N 118-24.77E.
+   B. 18-54.22N 124-53.80E, 18-46.88N 125-56.03E,
+      18-04.07N 125-50.30E, 18-11.35N 124-48.32E.
+   C. 15-21.78N 147-38.83E, 14-50.07N 149-48.88E,
+      12-44.63N 149-15.78E, 13-16.05N 147-06.85E.
+2. CANCEL THIS MSG 240600Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>201658Z AUG 26
@@ -1325,19 +1344,6 @@ AUSTRALIA.
 SIX METER BUOY, YELLOW, ESTABLISHED
 IN 38-47.62S 142-37.77E.
 THREE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>290111Z JUN 26
-HYDROPAC 1863/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
-ESTABLISHED IN AREA WITHIN TWO MILES OF
-38-46.00S 142-48.80E.
-THREE MILE BERTH REQUESTED.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
