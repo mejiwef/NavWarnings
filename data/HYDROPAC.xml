@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211220Z AUG 26
+HYDROPAC 2407/26
+ARABIAN SEA.
+PAKISTAN.
+1. NAVAL OPERATIONS 230200Z TO 231300Z AUG
+   IN AREA BOUND BY
+   24-36.00N 061-45.00E, 24-36.00N 063-15.00E,
+   24-21.00N 063-15.00E, 24-21.00N 061-45.00E.
+2. CANCEL THIS MSG 231400Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211116Z AUG 26
+HYDROPAC 2406/26
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 220600Z TO 221230Z AUG
+   IN AREA BOUND BY
+   18-05.53N 083-44.96E, 18-05.11N 085-04.46E,
+   17-40.13N 085-04.20E, 17-40.03N 083-44.75E.
+2. CANCEL THIS MSG 221330Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211059Z AUG 26
+HYDROPAC 2405/26
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY 
+   25 THRU 27 AUG IN AREA BOUND BY
+   10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
+   10-50.00N 075-35.00E, 10-50.00N 075-00.00E,
+2. CANCEL THIS MSG 270900Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211048Z AUG 26
+HYDROPAC 2404/26
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 250030Z TO 261630Z AUG
+   IN AREA BOUND BY
+   15-10.00N 073-26.00E, 15-15.00N 073-55.00E,
+   15-10.00N 073-56.00E, 15-00.00N 073-25.00E.
+2. CANCEL THIS MSG 261730Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>210022Z AUG 26
@@ -86,20 +142,6 @@ YEMEN.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
 2. CANCEL THIS MSG 231137Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPECIAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201125Z AUG 26
-HYDROPAC 2393/26
-EASTERN INDIAN OCEAN.
-LAKSHADWEEP.
-1. HAZARDOUS OPERATIONS 210130Z TO 210730Z AUG
-   IN AREA BOUND BY
-   10-32.60N 072-37.25E, 10-33.32N 072-38.05E,
-   10-32.54N 072-38.72E, 10-31.92N 072-37.90E.
-2. CANCEL THIS MSG 210830Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -314,23 +356,6 @@ AUSTRALIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>181402Z AUG 26
-HYDROPAC 2372/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   210530Z TO 210700Z AUG IN AREA BOUND BY
-   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
-   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
-   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
-   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
-2. CANCEL HYDROPAC 2368/26 AND 2369/26.
-3. CANCEL THIS MSG 210800Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>181109Z AUG 26
@@ -342,20 +367,6 @@ IN 26-21.30N 056-35.80E.
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO NAVAREA IX.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181041Z AUG 26
-HYDROPAC 2370/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 211030Z TO 211130Z AUG
-   IN AREA BOUND BY 
-   11-40.80N 092-45.90E, 11-38.13N 093-00.70E,
-   11-30.65N 092-56.90E, 11-26.33N 092-50.27E.
-2. CANCEL THIS MSG 211230Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -425,21 +436,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171152Z AUG 26
-HYDROPAC 2358/26.
-ANDAMAN SEA.
-BURMA.
-INDIA.
-1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
-   DAILY 19 AUG AND 21 AUG IN AREA BOUND BY
-   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
-   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
-2. CANCEL THIS MSG 211130Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -567,20 +563,6 @@ HYDROPAC 2339/26.
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 2128/26, 2135/26, 2175/26, 2276/26.
 CANCEL THIS MSG 211300Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141401Z AUG 26
-HYDROPAC 2338/26
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 1130Z DAILY 19 THRU 21 AUG
-   IN AREA BOUND BY
-   20-57.00N 086-54.00E, 21-13.00N 087-23.00E,
-   21-31.00N 087-42.00E, 21-41.00N 087-45.00E.
-2. CANCEL THIS MSG 211230Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

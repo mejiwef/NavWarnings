@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211042Z AUG 26
+HYDROLANT 1639/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 22 AUG THRU 05 SEP BY M/V COMANDO B
+   AND M/V TRUE CHARIOT IN 20-18.87S 040-08.17W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 051900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>210418Z AUG 26
@@ -48,7 +62,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. HAZARDOUS OPERATIONS 222300Z TO 230800Z AUG
    IN AREA WITHIN TWO MILES OF 21-52.50S 040-50.30W.
-2. CANCEL THIS MSG 230900Z AUG 26.</msgText>
+2. CANCEL THIS MSG 230900Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -60,16 +75,8 @@ BRAZIL.
 1. ODAS BUOY TEMPORARILY ESTABLISHED
    UNTIL 21 AUG 27 IN 21-34.20S 040-43.62W.
 2. CANCEL HYDROLANT 746/26.
-3. CANCEL THIS MSG 220001Z AUG 27.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>202209Z AUG 26
-HYDROLANT 1633/26.
-NORTH CHANNEL.
-ENGLAND.
-CORSEWALL LIGHT 55-00.40N 005-09.60W UNLIT.</msgText>
+3. CANCEL THIS MSG 220001Z AUG 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
