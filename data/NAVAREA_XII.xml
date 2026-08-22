@@ -147,25 +147,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>171651Z AUG 26
-NAVAREA XII 560/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 190900Z TO 192100Z AUG,
-   ALTERNATE 0900Z TO 2100Z DAILY 20 AND 21 AUG
-   IN AREAS BOUND BY:
-   A. 34-13.00N 122-16.00W, 32-23.00N 121-48.00W,
-      31-18.00N 128-04.00W, 32-47.00N 128-33.00W.
-   B. 31-14.00N 133-51.00W, 30-40.00N 135-53.00W,
-      29-34.00N 135-28.00W, 30-07.00N 133-27.00W.
-   C. 28-39.00N 141-04.00W, 28-03.00N 142-18.00W,
-      27-27.00N 143-00.00W, 26-51.00N 142-41.00W,
-      26-56.00N 141-42.00W, 27-24.00N 140-23.00W.
-2. CANCEL THIS MSG 212200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>130156Z AUG 26
