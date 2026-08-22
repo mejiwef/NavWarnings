@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201153Z AUG 26
+HYDROLANT 1643/26
+BALTIC SEA.
+LITHUANIA.
+1. HAZARDOUS OPERATIONS 0900Z TO 1500Z DAILY
+   27 AND 28 AUG IN VICINITY 55-29.60N 020-51.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 281600Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>212049Z AUG 26
@@ -71,23 +84,6 @@ BRAZIL.
    AND M/V TRUE CHARIOT IN 20-18.87S 040-08.17W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 051900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>210418Z AUG 26
-HYDROLANT 1637/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-40.20S 102-32.40W.
-   B. A85, 63-32.40S 053-28.20W.
-   C. D33A, 64-01.20S 055-54.00W.
-   D. D33C, 61-29.40S 053-45.00W.
-2. CANCEL THIS MSG 220419Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

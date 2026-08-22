@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>190015Z AUG 26
+NAVAREA XII 572/26.
+NORTH PACIFIC.
+HAWAII.
+1. HAZARDOUS OPERATIONS 27 THRU 31 AUG
+   IN AREA BOUND BY
+   22-02.00N 159-48.00W, 22-02.00N 159-53.00W,
+   22-11.00N 159-53.00W, 22-11.00N 159-46.00W,
+   22-07.00N 159-46.00W.
+2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>211502Z AUG 26
