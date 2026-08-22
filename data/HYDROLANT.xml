@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221110Z AUG 26
+HYDROLANT 1647/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   23 AUG THRU 06 SEP BY M/V COMANDO B
+   AND M/V BH SHIJIAZHUANG IN 20-23.80S 040-09.73W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 061900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221103Z AUG 26
+HYDROLANT 1646/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   23 AUG THRU 06 SEP BY M/V COMANDO B AND
+   M/V MARSANNE IN 20-24.25S 040-10.65W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 061900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221057Z AUG 26
+HYDROLANT 1645/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   23 AUG THRU 29 SEP BY M/V COMANDO B 
+   AND M/V BH SHIJIAZHUANG IN 20-23.47S 040-09.88W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 291900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>221041Z AUG 26
+HYDROLANT 1644/26
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   1900Z TO 0001Z DAILY 27 AUG THRU 07 SEP
+   IN AREAS BOUND BY:
+   A. 04-07.00N 032-44.00W, 03-39.00N 028-39.00W,
+      03-05.00N 028-43.00W, 03-34.00N 032-48.00W.
+   B. 05-37.00N 050-14.00W, 05-45.00N 048-54.00W,
+      05-35.00N 048-53.00W, 05-27.00N 050-13.00W.
+   C. 05-41.00N 048-34.00W, 05-43.00N 047-02.00W,
+      05-19.00N 047-01.00W, 05-17.00N 048-34.00W.
+   D. 04-29.00N 033-35.00W, 03-51.00N 028-17.00W,
+      02-45.00N 028-25.00W, 03-23.00N 033-42.00W.
+2. CANCEL THIS MSG 080100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201153Z AUG 26
@@ -268,18 +329,6 @@ BRAZIL.
 1. PONTA DE MUCURIPE LIGHT 03-43.58S 038-28.30W
    UNRELIABLE UNTIL 15 FEB 27.
 2. CANCEL THIS MSG 160001Z FEB 27.//
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>190718Z AUG 26
-HYDROLANT 1611/26.
-BLACK SEA.
-ROMANIA.
-1. OBJECT ADRIFT IN VICINITY 44-03.55N 029-56.33E
-   AT 181930Z AUG.
-2. CANCEL THIS MSG 220719Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

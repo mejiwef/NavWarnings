@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>221154Z AUG 26
+HYDROPAC 2411/26
+NORTH PACIFIC.
+CANCEL HYDROPAC 2381/26 AND THIS MSG.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190840Z AUG 26
@@ -298,17 +307,6 @@ NORTH PACIFIC.
 1. DERELICT LIFEBOAT, ORANGE ADRIFT
    IN 26-41.81N 152-04.40E AT 190000Z AUG.
 2. CANCEL THIS MSG 221240Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>191222Z AUG 26
-HYDROPAC 2381/26.
-NORTH PACIFIC.
-1. DERELICT 465 FOOT M/V SLNC YORK ADRIFT 
-   IN 26-43.90N 151-56.10E AT 19121Z AUG.
-2. CANCEL THIS MSG 221224Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

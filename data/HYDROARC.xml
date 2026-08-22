@@ -65,18 +65,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>190723Z AUG 26
-HYDROARC 177/26.
-LAPTEV SEA.
-1. ICEBERGS REPORTED AT 190616Z AUG IN: 
-   A. 79-07.70N 109-47.60E.
-   B. 79-00.60N 110-02.70E.
-2. CANCEL THIS MSG 220726Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>190047Z AUG 26
@@ -182,21 +170,6 @@ RUSSIA.
 TIDE GAUGE ESTABLISHED AT DEPTH 15 METERS
 IN 73-08.24N 080-26.79E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101136Z JUL 26
-HYDROARC 126/26.
-KARA SEA.
-RUSSIA.
-SURVEY OPERATIONS 14 JUL 26 UNTIL FURTHER
-NOTICE BY M/V AKVAMARIN TOWING 1000 METER
-LONG CABLE IN AREA BOUND BY
-68-33.71N 073-30.96E, 68-24.84N 074-21.42E,
-68-24.02N 074-20.34E, 68-32.99N 073-32.36E.
-TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
