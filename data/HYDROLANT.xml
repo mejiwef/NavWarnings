@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>231821Z AUG 26
+HYDROLANT 1656/26.
+IRISH SEA.
+IRELAND.
+CANCEL HYDROLANT 1651/26 AND THIS MSG,
+AID RESTORED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>231142Z AUG 26
@@ -73,44 +83,6 @@ ROMANIA.
 1. DANGEROUS OBJECT ADRIFT IN 
    44-31.68N 029-33.28E AT 221048Z AUG.
 2. CANCEL THIS MSG 251436Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221313Z AUG 26
-HYDROLANT 1649/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 60-16.00S 050-08.00W.
-   B. A81, 58-41.00S 050-51.00W.
-   C. A76C, 53-22.00S 030-05.00W.
-   D. D33C, 61-58.00S 053-58.00W.
-   E. 59-35.00S 050-20.00W.
-   F. 61-05.00S 054-18.00W.
-   G. 61-23.00S 054-04.00W.
-   H. 61-12.00S 054-18.00W.
-   I. 61-08.00S 054-14.00W.
-2. CANCEL THIS MSG 231313Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221307Z AUG 26
-HYDROLANT 1648/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-42.00S 102-47.40W.
-   B. A85, 63-19.80S 053-24.00W.
-   C. D33A, 63-59.40S 055-49.80W.
-   D. D33C, 61-55.80S 054-24.60W.
-2. CANCEL THIS MSG 231307Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -875,21 +847,6 @@ BRAZIL.
 1. RADIOBEACON AT CHUI LIGHT 33-44.6S 053-22.5W
    OFF AIR UNTIL 17 JAN 27.
 2. CANCEL THIS MSG 180001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031505Z JUL 26
-HYDROLANT 1297/26.
-NORTH SEA.
-NORWAY.
-SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY M/V RAMFORM ATLAS TOWING 17 3600
-METER LONG CABLES IN AREA BOUND BY
-61-18.30N 001-48.00E, 61-18.20N 002-46.80E,
-60-57.70N 002-42.70E, 60-57.70N 001-52.30E.
-THREE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
