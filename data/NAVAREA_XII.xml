@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>230026Z AUG 26
+NAVAREA XII 573/26.
+CHUKCHI SEA.
+ALASKA.
+1. CABLE OPERATIONS IN PROGRESS BY VESSEL IT INTEGRITY
+   ALONG TRACKLINE JOINING
+   66-06.56N 162-40.36W, 66-48.93N 162-59.80W.
+   ONE MILE WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>190015Z AUG 26

@@ -548,20 +548,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130837Z AUG 26
-HYDROLANT 1565/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 13 THRU 22 AUG BY M/V COMANDO B 
-   AND M/V AM KIRTI IN 20-23.90S 040-09.67W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 222200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110847Z AUG 26
@@ -705,21 +691,6 @@ DANGEROUS WRECK IN 23-57.50N 015-50.00W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070845Z AUG 26
-HYDROLANT 1523/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 08 THRU 22 AUG BY M/V MARSANNE 
-   AND M/V COMANDO B IN 
-   20-23.57S 040-08.87W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 221900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>052211Z AUG 26
@@ -738,31 +709,6 @@ HYDROLANT 1503/26.
 NORTH ATLANTIC.
 MOROCCO.
 EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041026Z AUG 26
-HYDROLANT 1497/26.
-SOUTH ATLANTIC.
-ANGOLA.
-1. SURVEY OPERATIONS IN PROGRESS 
-   UNTIL 22 AUG BY CABLESHIP NAUTILUS
-   IN: 
-   A. 06-16.56S 011-14.56E.
-   B. 06-28.99S 011-01.04E.
-   C. 06-18.69S 011-05.44E.
-   D. 06-28.14S 011-09.26E.
-   E. 06-20.63S 011-09.34E.
-   F. 06-22.58S 011-00.52E.
-   G. 06-27.33S 011-05.36E.
-   H. 06-22.56S 011-00.57E.
-   I. 06-21.26S 011-16.74E.
-   J. 06-11.13S 011-05.44E.
-   K. 06-16.40S 011-04.25E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 230001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
