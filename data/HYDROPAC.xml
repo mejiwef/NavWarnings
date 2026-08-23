@@ -188,19 +188,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>201137Z AUG 26
-HYDROPAC 2394/26
-ARABIAN SEA.
-YEMEN.
-1. M/V HIJACKED IN 14-32.00N 051-28.50E BY SIX PIRATES. 
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 231137Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>201038Z AUG 26
@@ -473,25 +460,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>140859Z AUG 26
-HYDROPAC 2356/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   220912Z TO 221350Z, 230858Z TO 231336Z, 
-   240843Z TO 241321Z, 251107Z TO 251545Z, 
-   261053Z TO 261531Z, 271038Z TO 271516Z 
-   AND 281024Z TO 281502Z AUG
-   IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 281602Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>162208Z AUG 26
@@ -515,21 +483,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>150634Z AUG 26
-HYDROPAC 2342/26.
-SOUTH PACIFIC.
-PERU.
-1. GUNNERY EXERCISES 200200Z TO 230800Z AUG
-   IN AREA BOUND BY
-   11-00.00S 078-08.00W, 11-00.00S 077-39.00W,
-   11-35.00S 077-10.00W, 11-35.00S 078-08.00W.
-2. CANCEL HYDROPAC 2340/26.  
-3. CANCEL THIS MSG 230900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

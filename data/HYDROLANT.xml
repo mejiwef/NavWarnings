@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>231142Z AUG 26
+HYDROLANT 1654/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 60-16.00S 050-08.00W.
+   B. A81, 58-41.00S 050-51.00W.
+   C. A76C, 53-22.00S 030-05.00W.
+   D. D33C, 61-58.00S 053-58.00W.
+   E. 59-35.00S 050-20.00W.
+   F. 61-05.00S 054-18.00W.
+   G. 61-23.00S 054-04.00W.
+   H. 61-12.00S 054-18.00W.
+   I. 61-08.00S 054-14.00W.
+2. CANCEL THIS MSG 241142Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>231138Z AUG 26
+HYDROLANT 1653/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-42.00S 102-47.40W.
+   B. A85, 63-19.80S 053-24.00W.
+   C. D33A, 63-59.40S 055-49.80W.
+   D. D33C, 61-55.80S 054-24.60W.
+2. CANCEL THIS MSG 241138Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231047Z AUG 26
+HYDROLANT 1652/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z
+   DAILY 24 AUG THRU 07 SEP BY M/V SPAR ARIES
+   AND M/V COMANDO B IN 20-23.87S 040-11.03W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 071900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>230932Z AUG 26
+HYDROLANT 1651/26
+IRISH SEA.
+IRELAND.
+1. KISH BANK LIGHT IN 53-18.70N 005-55.50W.
+   UNRELIABLE.
+2. CANCEL THIS MSG 250001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>221436Z AUG 26
@@ -198,18 +261,6 @@ SOUTH ATLANTIC.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1620/26.
 3. CANCEL THIS MSG 250001Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210108Z AUG 26
-HYDROLANT 1635/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 222300Z TO 230800Z AUG
-   IN AREA WITHIN TWO MILES OF 21-52.50S 040-50.30W.
-2. CANCEL THIS MSG 230900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
