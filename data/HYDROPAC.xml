@@ -583,20 +583,6 @@ PERU.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>131219Z AUG 26
-HYDROPAC 2327/26
-INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0148Z TO 0429Z DAILY 16 THRU 23 AUG
-   IN AREA BOUND BY
-   25-05.00S 057-53.00E, 23-17.00S 060-00.00E,
-   35-50.00S 074-04.00E, 37-39.00S 071-40.00E.
-2. CANCEL THIS MSG 230529Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>131126Z AUG 26
 HYDROPAC 2326/26
 BAY OF BENGAL.

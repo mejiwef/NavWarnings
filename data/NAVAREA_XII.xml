@@ -110,17 +110,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FAD</category>
-        <status>INFORCE</status>
-        <msgText>200549Z AUG 26
-NAVAREA XII 564/26.
-NORTH PACIFIC.
-1. FAD ADRIFT IN VICINITY 04-21.66N 081-47.40W
-   AT 191700Z AUG.
-2. CANCEL THIS MSG 230551Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>200537Z AUG 26
