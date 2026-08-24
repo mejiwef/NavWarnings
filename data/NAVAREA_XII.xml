@@ -20,7 +20,8 @@ NORTH PACIFIC.
       43-29.57N 126-31.35W.
    TWO MILE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 523/26.
-3. CANCEL THIS MSG 110900Z SEP 26.</msgText>
+3. CANCEL THIS MSG 110900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -47,7 +48,8 @@ HAWAII.
    22-02.00N 159-48.00W, 22-02.00N 159-53.00W,
    22-11.00N 159-53.00W, 22-11.00N 159-46.00W,
    22-07.00N 159-46.00W.
-2. CANCEL THIS MSG 010001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 010001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

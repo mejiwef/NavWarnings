@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>241311Z AUG 26
+HYDROLANT 1661/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 60-11.00S 049-40.00W.
+   B. A81, 58-36.00S 050-34.00W.
+   C. A76C, 53-34.00S 029-56.00W.
+   D. D33C, 61-44.00S 053-26.00W.
+   E. 59-19.00S 050-22.00W.
+   F. 60-56.00S 054-48.00W.
+   G. 61-23.00S 054-04.00W.
+   H. 61-12.00S 054-18.00W.
+   I. 60-58.00S 054-30.00W.
+2. CANCEL THIS MSG 251311Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>241113Z AUG 26
@@ -8,8 +29,8 @@ HYDROLANT 1659/26.
 NORTH SEA.
 ENGLAND.
 MF DSC AND R/T SERVICES OFF AIR AT:
-   A. CULLERCOATS 55-04.40N 001-27.80W.
-   B. GREGNESS 57-07.70N 002-03.20W.
+A. CULLERCOATS 55-04.40N 001-27.80W.
+B. GREGNESS 57-07.70N 002-03.20W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -23,7 +44,8 @@ BRAZIL.
    IN AREA WITHIN TWO MILES OF 
    26-53.00S 048-35.15W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 252000Z AUG 26.</msgText>
+2. CANCEL THIS MSG 252000Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -39,17 +61,8 @@ ANTARCTICA.
    B. A85, 63-19.80S 053-24.00W.
    C. D33A, 63-59.40S 055-49.80W.
    D. D33C, 61-55.80S 054-24.60W.
-2. CANCEL THIS MSG 250518Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>231821Z AUG 26
-HYDROLANT 1656/26.
-IRISH SEA.
-IRELAND.
-CANCEL HYDROLANT 1651/26 AND THIS MSG,
-AID RESTORED.</msgText>
+2. CANCEL THIS MSG 250518Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -64,17 +77,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 071900Z SEP 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>230932Z AUG 26
-HYDROLANT 1651/26
-IRISH SEA.
-IRELAND.
-1. KISH BANK LIGHT IN 53-18.70N 005-55.50W.
-   UNRELIABLE.
-2. CANCEL THIS MSG 250001Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -137,7 +139,7 @@ BRAZIL.
 HYDROLANT 1644/26
 NORTH ATLANTIC.
 1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   1900Z TO 0001Z DAILY 27 AUG THRU 07 SEP
+   1900Z TO 0001Z DAILY 27 AUG THRU 06 SEP
    IN AREAS BOUND BY:
    A. 04-07.00N 032-44.00W, 03-39.00N 028-39.00W,
       03-05.00N 028-43.00W, 03-34.00N 032-48.00W.
@@ -147,7 +149,8 @@ NORTH ATLANTIC.
       05-19.00N 047-01.00W, 05-17.00N 048-34.00W.
    D. 04-29.00N 033-35.00W, 03-51.00N 028-17.00W,
       02-45.00N 028-25.00W, 03-23.00N 033-42.00W.
-2. CANCEL THIS MSG 080100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 070100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -462,22 +465,6 @@ MAN OVERBOARD FROM VESSEL IN
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151546Z AUG 26
-HYDROLANT 1583/26.
-NORTH SEA.
-NORWAY.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-   NOTICE BY M/V AMAZON CONQUEROR TOWING
-   EIGHT ONE MILE LONG CABLES IN AREA BOUND BY
-   60-00.9N 001-57.8E, 60-01.7N 002-13.3E, 
-   59-48.7N 002-15.8E, 59-47.2N 001-55.9E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1477/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
