@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>241223Z AUG 26
+HYDROPAC 2425/26.
+SOUTH CHINA SEA.
+1. GUNNERY EXERCISES 290000Z TO 291300Z AUG,
+   ALTERNATE 050000Z TO 051300Z SEP
+   IN AREA BOUND BY
+   10-25.16N 114-18.56E, 10-25.28N 114-25.80E,
+   10-20.95N 114-26.08E, 10-20.20N 114-18.56E.
+2. CANCEL THIS MSG 051400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241202Z AUG 26
+HYDROPAC 2424/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0830Z TO 0930Z 25 AUG
+   IN AREA BOUND BY
+   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
+   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
+   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
+2. CANCEL THIS MSG 251030Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>240732Z AUG 26
+HYDROPAC 2423/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V BV 99079 TS, 15 PERSONS ON BOARD, 
+TAKING ON WATER IN 09-43.00N 108-33.00E 
+AT 240530Z AUG. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240638Z AUG 26
@@ -471,20 +516,6 @@ EASTERN INDIAN OCEAN.
 AUSTRALIA.
 FOUR BUOYS, YELLOW, FL Y 5 SEC, ESTABLISHED
 IN VICINITY 29-27.00S 114-52.18E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>132057Z AUG 26
-HYDROPAC 2328/26.
-SOUTH PACIFIC.
-PERU.
-1. GUNNERY EXERCISES 180200Z TO 240800Z AUG
-   IN AREA BOUND BY
-   12-52.00S 078-39.00W, 12-26.00S 077-21.00W,
-   13-34.00S 077-01.00W, 13-59.00S 078-17.00W.
-2. CANCEL THIS MSG 240900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

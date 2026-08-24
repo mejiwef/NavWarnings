@@ -34,18 +34,6 @@ HYDROARC 182/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>211233Z AUG 26
-HYDROARC 181/26
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 78-00.90N 105-01.70E
-    AT 211108 AUG.
-2. CANCEL THIS MSG 241233Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>210934Z AUG 26
