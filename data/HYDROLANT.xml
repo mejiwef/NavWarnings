@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>250427Z AUG 26
+HYDROLANT 1667/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-42.00S 102-47.40W.
+   B. A85, 63-19.80S 053-24.00W.
+   C. D33A, 63-59.40S 055-49.80W.
+   D. D33C, 61-55.80S 054-24.60W.
+2. CANCEL THIS MSG 260429Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>250115Z AUG 26
+HYDROLANT 1666/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. CURUCA LIGHT 00-33.88S 047-45.98W UNLIT
+   UNTIL 202000Z FEB 27.
+2. CANCEL THIS MSG 202100Z FEB 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>250100Z AUG 26
@@ -86,23 +113,6 @@ BRAZIL.
    26-53.00S 048-35.15W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 252000Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>240515Z AUG 26
-HYDROLANT 1657/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-42.00S 102-47.40W.
-   B. A85, 63-19.80S 053-24.00W.
-   C. D33A, 63-59.40S 055-49.80W.
-   D. D33C, 61-55.80S 054-24.60W.
-2. CANCEL THIS MSG 250518Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
