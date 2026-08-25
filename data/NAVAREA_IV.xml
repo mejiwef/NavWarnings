@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>241921Z AUG 26
+NAVAREA IV 825/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   301110Z TO 301216Z AUG, ALTERNATE
+   311110Z TO 311216Z AUG, 011107Z TO 011214Z,
+   021104Z TO 021211Z, 031104Z TO 031211Z,
+   041101Z TO 041208Z AND 051056Z TO 051203Z SEP
+   IN AREAS BOUND BY:
+   A. 32-38.00N 067-27.00W, 33-34.00N 064-52.00W,
+      33-24.00N 063-48.00W, 33-12.00N 063-44.00W,
+      32-44.00N 064-13.00W, 32-27.00N 067-24.00W.
+   B. 29-35.00N 078-19.00W, 30-08.00N 077-17.00W,
+      30-10.00N 076-33.00W, 30-03.00N 076-30.00W,
+      29-41.00N 077-04.00W, 29-27.00N 078-15.00W.
+   C. 28-41.20N 080-39.90W, 28-47.00N 080-27.00W,
+      28-57.00N 080-01.00W, 28-58.00N 079-48.00W,
+      28-50.00N 079-53.00W, 28-34.00N 080-11.00W,
+      28-27.42N 080-31.37W.
+2. CANCEL THIS MSG 051303Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>241939Z AUG 26
@@ -164,18 +189,6 @@ COLOMBIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>220734Z AUG 26
-NAVAREA IV 813/26
-GULF OF AMERICA.
-LOUISIANA.
-USCG REMOTE COMMUNICATION FACILITY NEW ORLEANS 
-29-53.00N 089-57.00W HF DSC TRANSMIT AND RECIEVE
-SERVICES UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>211451Z AUG 26.
@@ -310,22 +323,6 @@ NAVAREA IV 798/26.
 CARIBBEAN SEA.
 VENEZUELA.
 GUARANAO LIGHT 11-40.00N 070-12.80W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141901Z AUG 26
-NAVAREA IV 791/26.
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. SURVEY OPERATIONS UNTIL 250700 AUG 
-   BY M/V  OCEAN INTERVENTION II 
-   IN AREA BOUND BY
-   10-06.23N 060-17.47W, 10-04.98N 060-16.47W,
-   10-04.94N 060-13.63W, 10-06.60N 060-15.44W.
-   500 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 250800Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
