@@ -3,6 +3,26 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>251414Z AUG 26
+HYDROLANT 1668/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 60-05.00S 049-39.00W.
+   B. A81, 58-35.00S 050-21.00W.
+   C. A76C, 53-38.00S 029-55.00W.
+   D. 59-15.00S 050-27.00W.
+   E. 60-52.00S 054-52.00W.
+   F. 61-00.00S 053-59.00W.
+   G. 60-56.00S 054-34.00W.
+   H. 60-51.00S 054-16.00W.
+2. CANCEL THIS MSG 261414Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>250427Z AUG 26
 HYDROLANT 1667/26.
 SCOTIA SEA.
@@ -69,27 +89,6 @@ ANGOLA.
 2. CANCEL HYDROLANT 1294/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241311Z AUG 26
-HYDROLANT 1661/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 60-11.00S 049-40.00W.
-   B. A81, 58-36.00S 050-34.00W.
-   C. A76C, 53-34.00S 029-56.00W.
-   D. D33C, 61-44.00S 053-26.00W.
-   E. 59-19.00S 050-22.00W.
-   F. 60-56.00S 054-48.00W.
-   G. 61-23.00S 054-04.00W.
-   H. 61-12.00S 054-18.00W.
-   I. 60-58.00S 054-30.00W.
-2. CANCEL THIS MSG 251311Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>241113Z AUG 26
@@ -127,18 +126,6 @@ BRAZIL.
    AND M/V COMANDO B IN 20-23.87S 040-11.03W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 071900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>221436Z AUG 26
-HYDROLANT 1650/26
-BLACK SEA.
-ROMANIA.
-1. DANGEROUS OBJECT ADRIFT IN 
-   44-31.68N 029-33.28E AT 221048Z AUG.
-2. CANCEL THIS MSG 251436Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -668,17 +655,6 @@ BRAZIL.
    22-51.38S 041-01.70W, 22-51.38S 041-08.21W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z MAR 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>080625Z AUG 26
-HYDROLANT 1532/26.
-SEA OF THE HEBRIDES.
-SCOTLAND.
-MF DSC SERVICE OFF AIR AT TIREE
-56-30.20N 006-57.80W. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

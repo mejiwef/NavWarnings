@@ -3,6 +3,18 @@
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
+        <msgText>251557Z AUG 26
+HYDROARC 185/26.
+ARCTIC OCEAN.
+CANADA.
+MCTS IQALUIT REMOTE STATION RESOLUTE
+68-19.00N 133-35.00W 
+MF AND HF R/T SERVICES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
         <msgText>221452Z AUG 26
 HYDROARC 184/26
 CANADA.
