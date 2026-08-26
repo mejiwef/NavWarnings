@@ -3,6 +3,60 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>261423Z AUG 26
+HYDROLANT 1674/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. D33B, 59-49.00S 049-56.00W.
+   B. A81, 58-44.00S 049-57.00W.
+   C. A76C, 53-44.00S 029-46.00W.
+   D. 59-11.00S 050-42.00W.
+   E. 60-47.00S 054-40.00W.
+   F. 60-58.00S 053-28.00W.
+   G. 60-55.00S 053-57.00W.
+2. CANCEL THIS MSG 271423Z AUG 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261400Z AUG 26
+HYDROLANT 1673/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS:
+   A. 0600Z TO 1800Z DAILY 01 THRU 02 SEP 
+      IN AREAS BOUND BY
+      44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+      44-25.08N 029-01.20E, 44-19.70N 029-00.81E,
+      44-14.56N 028-57.93E, 44-13.10N 028-56.33E,
+      44-22.08N 028-42.41E.
+   B. 0600Z TO 1300Z DAILY 31 AUG AND 03 THRU 
+      04 SEP IN AREAS BOUND BY
+      44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
+      44-19.00N 028-47.00E, 44-22.08N 028-42.41E.
+2. CANCEL THIS MSG 041400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261338Z AUG 26
+HYDROLANT 1672/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z
+   DAILY 27 AUG THRU 10 SEP BY M/V COMANDO B AND
+   M/V ANGELINA THE GREAT IN 20-23.92S 040-09.47W.
+   WIDE BERTH REQUESTED. 
+2. CANCEL THIS MSG 101900Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>260400Z AUG 26
 HYDROLANT 1671/26.
 SCOTIA SEA.
@@ -26,26 +80,6 @@ ROMANIA.
 1. OBJECT ADRIFT IN VICINITY 43-48.11N 028-38.53E
    AT 251705Z AUG.
 2. CANCEL THIS MSG 282007Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>251414Z AUG 26
-HYDROLANT 1668/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. D33B, 60-05.00S 049-39.00W.
-   B. A81, 58-35.00S 050-21.00W.
-   C. A76C, 53-38.00S 029-55.00W.
-   D. 59-15.00S 050-27.00W.
-   E. 60-52.00S 054-52.00W.
-   F. 61-00.00S 053-59.00W.
-   G. 60-56.00S 054-34.00W.
-   H. 60-51.00S 054-16.00W.
-2. CANCEL THIS MSG 261414Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -314,22 +348,6 @@ SOUTH ATLANTIC.
    IN 24-35.02S 042-15.37W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 280359Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191516Z AUG 26
-HYDROLANT 1618/26.
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS 0800Z TO 1830Z 
-   DAILY 24 THRU 28 AUG AND 31 AUG THRU 
-   04 SEP IN AREAS WITHIN:
-   A. 27 MILES OF 57-20.80N 008-32.10W.
-   B. 26 MILES OF 57-13.80N 009-00.00W.
-2. CANCEL HYDROLANT 1610/26.
-3. CANCEL THIS MSG 041930Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
