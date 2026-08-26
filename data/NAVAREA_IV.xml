@@ -142,18 +142,6 @@ ARUBA TO FLORIDA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>231101Z AUG 26
-NAVAREA IV 818/26
-CARIBBEAN SEA.
-COLOMBIA.
-1. DERELICT M/V VAGABOND SUBMERGED  
-   AND ADRIFT IN 13-34.78N 081-22.67W.
-2. CANCEL THIS MSG 261101Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>222350Z AUG 26
