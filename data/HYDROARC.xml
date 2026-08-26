@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>260637Z AUG 26
+HYDROARC 186/26.
+KARA SEA.
+RUSSIA.
+DEPTHS REPORTED: 
+A. 12.3 METERS IN 71-53.99N 082-35.35E.
+B. 9.7 METERS IN 71-53.34N 082-36.04E.
+C. 11.6 METERS IN 71-51.43N 082-34.18E.
+D. 9.9 METERS IN 71-51.54N 082-33.59E.
+E. 6.4 METERS IN 71-51.02N 082-34.85E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>251557Z AUG 26

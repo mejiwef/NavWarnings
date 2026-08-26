@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260333Z AUG 26
+NAVAREA XII 582/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 261500Z TO 262300Z AUG
+   IN AREA WITHIN ONE MILE OF 
+   32-35.87N 117-10.87W.
+2. CANCEL THIS MSG 270001Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>242359Z AUG 26

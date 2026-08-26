@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>260132Z AUG 26
+HYDROPAC 2439/26.
+EASTERN INDIAN OCEAN.
+SOUTH PACIFIC.
+TASMAN SEA.
+CANCEL HYDROPAC 2341/26 AND THIS MSG,
+OPERATIONS COMPLETED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>260122Z AUG 26
+HYDROPAC 2438/26.
+EASTERN SOUTH PACIFIC.
+CHILE.
+MAGALLANES RADIO 53-09.92S 070-54.28W
+MF AND HF DSC RECEIVE SERVICES OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>260105Z AUG 26
@@ -604,29 +625,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>150302Z AUG 26
-HYDROPAC 2341/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   201739Z TO 202235Z, 211717Z TO 212213Z,
-   221655Z TO 222151Z, 231632Z TO 232128Z,
-   241610Z TO 242106Z, 251548Z TO 252044Z
-   AND 261525Z TO 262021Z AUG
-   IN AREA BOUND BY
-   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,
-   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,
-   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,
-   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,
-   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,
-   41-36.00S 080-09.00E.
-2. CANCEL THIS MSG 262121Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
