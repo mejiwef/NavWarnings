@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>252007Z AUG 26
+HYDROLANT 1670/26.
+BLACK SEA.
+ROMANIA.
+1. OBJECT ADRIFT IN VICINITY 43-48.11N 028-38.53E
+   AT 251705Z AUG.
+2. CANCEL THIS MSG 282007Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>251414Z AUG 26
@@ -98,20 +109,6 @@ ENGLAND.
 MF DSC AND R/T SERVICES OFF AIR AT:
 A. CULLERCOATS 55-04.40N 001-27.80W.
 B. GREGNESS 57-07.70N 002-03.20W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>WORKING VESSELS</category>
-        <status>INFORCE</status>
-        <msgText>240848Z AUG 26
-HYDROLANT 1658/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. NAVIGATION PROHIBITED 251100Z TO 251900Z AUG
-   IN AREA WITHIN TWO MILES OF 
-   26-53.00S 048-35.15W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 252000Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -304,20 +301,6 @@ BRAZIL.
    IN 20-23.95S 040-10.83W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200006Z AUG 26
-HYDROLANT 1621/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1000Z TO 2000Z
-   DAILY UNTIL 25 AUG BY VESSEL NOMAR
-   IN 24-07.27S 046-09.30W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 252100Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -603,21 +586,6 @@ AZORES.
 1. MF/HF VOICE AND DSC SERVICES FROM AZORES STATIONS
     37-47.65N 25-49.42W OFF AIR.
 2. CANCEL HYDROLANT 1527/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100842Z AUG 26
-HYDROLANT 1544/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 11 THRU 25 AUG BY M/V COMANDO B 
-   AND M/V FANEROMENI IN 
-   20-23.00S 040-09.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 251900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1129,20 +1097,6 @@ DNC 01.
 1. PONTA DA GALHETA LIGHT 27-34.55S 048-24.99W
    UNLIT UNTIL 31 AUG.
 2. CANCEL THIS MSG 010001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>270057Z FEB 26
-HYDROLANT 397/26(24).
-SOUTH ATLANTIC.
-BRAZIL.
-DNC 01.
-1. SCIENTIFIC BOUY, YELLOW, FL Y 20 SEC
-   ESTABLISHED IN 27-24.38S 047-15.92W.
-   UNTIL 25 AUG.
-2. CANCEL THIS MSG 260001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

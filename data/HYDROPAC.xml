@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>260105Z AUG 26
+HYDROPAC 2437/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0345Z TO 1330Z DAILY 31 AUG THRU 14 SEP
+   IN AREAS BOUND BY:
+   A. 38-00.00S 178-00.00W, 37-00.00S 173-00.00W,
+      38-30.00S 173-00.00W, 39-30.00S 178-00.00W.
+   B. 35-30.00S 165-00.00W, 34-30.00S 160-00.00W,
+      36-00.00S 160-00.00W, 37-00.00S 165-00.00W.
+2. CANCEL THIS MSG 141430Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>260053Z AUG 26
+HYDROPAC 2436/26.
+BERING SEA.
+BERING STRAIT.
+RUSSIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 10 SEP
+   BY VESSEL ALEKSANDR ROGOTSKIY
+   IN AREA BOUND BY
+   66-05.00N 169-19.00W, 66-05.00N 169-17.00W,
+   64-03.00N 172-16.00W, 64-04.00N 172-18.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>260022Z AUG 26
+HYDROPAC 2435/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0345Z TO 1330Z DAILY 31 AUG THRU 14 SEP
+   IN AREA BOUND BY
+   39-12.00S 177-48.00E, 39-12.00S 177-57.00E,
+   39-06.00S 178-30.00E, 39-18.00S 178-30.00E,
+   39-24.00S 177-48.00E.
+2. CANCEL THIS MSG 141430Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251135Z AUG 26
+HYDROPAC 2434/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 261831Z TO 281829Z AUG
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 281929Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>251252Z AUG 26

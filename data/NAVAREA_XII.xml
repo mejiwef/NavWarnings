@@ -161,19 +161,6 @@ ALASKA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201302Z AUG 26
-NAVAREA XII 566/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 251400Z TO 252000Z AUG,
-   ALTERNATE 261400Z TO 262000Z AUG IN AREA WITHIN 
-   56 MILES OF 35-35.00N 121-56.00W.
-2. CANCEL THIS MSG 262100Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>200537Z AUG 26
