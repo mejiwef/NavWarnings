@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271729Z AUG 26
+NAVAREA XII 588/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 311300Z TO 312100Z AUG 
+   IN AREA BOUND BY
+   33-26.00N 119-25.00W, 33-37.00N 119-10.00W,
+   33-54.00N 119-26.00W, 33-42.00N 119-43.00W,
+   33-26.00N 120-00.00W, 33-15.00N 119-49.00W.
+2. CANCEL THIS MSG 312200Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>212338Z AUG 26
@@ -241,22 +255,6 @@ CALIFORNIA.
       29-15.00N 118-02.00W, 29-02.00N 117-59.00W,
       28-13.00N 117-21.00W, 29-36.00N 117-16.00W.
 2. CANCEL THIS MSG 311358Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>100530Z AUG 26
-NAVAREA XII 540/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2100Z TO 1800Z DAILY 13 THRU 26 AUG
-   IN AREAS BOUND BY:
-   A. 33-06.05N 128-42.07W, 32-50.48N 127-12.42W,
-      28-19.72N 128-15.70W, 28-36.02N 129-37.43W.
-   B. 38-46.77N 172-48.63W, 38-15.70N 170-15.70W,
-      31-07.28N 172-31.87W, 31-32.10N 174-48.60W.
-2. CANCEL THIS MSG 271900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

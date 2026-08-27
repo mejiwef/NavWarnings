@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271210Z AUG 26
+HYDROPAC 2457/26.
+NORTH PACIFIC.
+1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
+   31 AUG THRU 29 SEP IN AREA BOUND BY
+   28-15.15N 146-29.47E, 25-25.16N 147-37.47E,
+   25-00.16N 145-35.48E, 27-55.15N 144-57.48E.
+2. CANCEL THIS MSG 301000Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>271158Z AUG 26
+HYDROPAC 2456/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   012112Z TO 012157Z SEP IN AREA BOUND BY
+   28-47.00S 172-56.00W, 28-41.00S 168-50.00W,
+   29-36.00S 162-44.00W, 29-40.00S 167-03.00W.
+2. CANCEL THIS MSG 012257Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>271121Z AUG 26
+HYDROPAC 2455/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+F/V SHRI BALAJANEYA SANK IN 13-36.00N 074-36.50E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>271112Z AUG 26
+HYDROPAC 2454/26.
+SOUTH CHINA SEA.
+VIETNAM.
+ONE PERSON MISSING FROM F/V BT 95518 TS 
+IN 10-40.05N 108-28.98E AT 260001Z AUG.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270615Z AUG 26
@@ -13,7 +65,8 @@ NORTHERN MARIANA ISLANDS.
    17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
    15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 030900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 030900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -28,7 +81,8 @@ GUAM.
    12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 020900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 020900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -46,7 +100,8 @@ SOUTH PACIFIC.
    38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 071359Z SEP 26.</msgText>
+2. CANCEL THIS MSG 071359Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -56,7 +111,8 @@ HYDROPAC 2450/26.
 CORAL SEA.
 AUSTRALIA.
 RACON AT NORTH REEF LIGHT 23-11.10S 151-54.18E
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -70,7 +126,8 @@ GUAM.
    DAILY 01 THRU 03 SEP IN AREAS WITHIN:
    A. THREE MILES OF 13-27.00N 145-08.00E.
    B. THREE MILES OF 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 031400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 031400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -85,7 +142,8 @@ GUAM.
    13-39.12N 144-52.14E, 13-38.61N 144-52.84E,
    13-38.57N 144-52.88E, 13-39.91N 144-53.62E,
    13-40.43N 144-52.72E, 13-40.11N 144-52.14E.
-2. CANCEL THIS MSG 030900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 030900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -96,13 +154,14 @@ NORTH PACIFIC.
 PHILIPPINE SEA.
 GUAM.
 1. HAZARDOUS OPERATIONS 2200Z TO 1000Z DAILY
-   30 AUG THRU 04 SEP IN AREA BOUND BY
+   30 AUG THRU 03 SEP IN AREA BOUND BY
    13-45.00N 144-19.59E, 13-45.00N 144-36.00E,
    13-30.00N 144-36.00E, 13-30.00N 144-19.59E.
-2. CANCEL THIS MSG 041100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 041100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
+        <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>261528Z AUG 26
 HYDROPAC 2446/26.
@@ -147,7 +206,9 @@ NORTH PACIFIC.
         <msgText>260911Z AUG 26
 HYDROPAC 2441/26.
 BAY OF BENGAL.
-M/V OCEAN WINNER SANK IN 17-25.27N 089-30.13E.</msgText>
+M/V OCEAN WINNER SANK IN 17-25.27N 089-30.13E.
+CANCEL THIS MSG 281300Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -162,18 +223,8 @@ INDIA.
    18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
    18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
 2. CANCEL HYDROPAC 2434/26.
-3. CANCEL THIS MSG 281929Z AUG 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>260132Z AUG 26
-HYDROPAC 2439/26.
-EASTERN INDIAN OCEAN.
-SOUTH PACIFIC.
-TASMAN SEA.
-CANCEL HYDROPAC 2341/26 AND THIS MSG,
-OPERATIONS COMPLETED.</msgText>
+3. CANCEL THIS MSG 281929Z AUG 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -183,7 +234,8 @@ HYDROPAC 2438/26.
 EASTERN SOUTH PACIFIC.
 CHILE.
 MAGALLANES RADIO 53-09.92S 070-54.28W
-MF AND HF DSC RECEIVE SERVICES OFF AIR.</msgText>
+MF AND HF DSC RECEIVE SERVICES OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -198,7 +250,8 @@ SOUTH PACIFIC.
       38-30.00S 173-00.00W, 39-30.00S 178-00.00W.
    B. 35-30.00S 165-00.00W, 34-30.00S 160-00.00W,
       36-00.00S 160-00.00W, 37-00.00S 165-00.00W.
-2. CANCEL THIS MSG 141430Z SEP 26.</msgText>
+2. CANCEL THIS MSG 141430Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -214,7 +267,8 @@ RUSSIA.
    66-05.00N 169-19.00W, 66-05.00N 169-17.00W,
    64-03.00N 172-16.00W, 64-04.00N 172-18.00W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -301,25 +355,8 @@ PAKISTAN.
    24-50.26N 066-43.04E, 24-40.47N 066-40.28E,
    24-40.44N 066-23.98E, 24-45.33N 066-25.45E,
    24-50.23N 066-43.00E.
-2. CANCEL THIS MSG 301400Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>242022Z AUG 26
-HYDROPAC 2427/26.
-DUE TO TROPICAL STORM SAUDEL:
-1. THE FOLLOWING PORT(S) ARE CLOSED:
-   NONE TO REPORT.
-2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
-   NONE TO REPORT.
-3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
-   A. SAIPAN 15-11.00N 145-45.00E.  
-   B. TINIAN 15-00.00N 145-38.00E.
-4. CURRENT PORT INFORMATION CAN BE FOUND AT
-   WWW.NAVCEN.USCG.GOV/PORT-STATUS.
-5. CANCEL HYDROPAC 2400/26.
-6. CANCEL THIS MSG 272022Z AUG 26.</msgText>
+2. CANCEL THIS MSG 301400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -477,20 +514,6 @@ HYDROPAC 2409/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211059Z AUG 26
-HYDROPAC 2405/26
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY 
-   25 THRU 27 AUG IN AREA BOUND BY
-   10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
-   10-50.00N 075-35.00E, 10-50.00N 075-00.00E,
-2. CANCEL THIS MSG 270900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201210Z AUG 26
@@ -520,22 +543,6 @@ NEW CALEDONIA.
    C. TEN MILES OF 23-00.00S 167-20.00E.
    D. TEN MILES OF 22-07.00S 167-27.00E.
 2. CANCEL THIS MSG 280900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200846Z AUG 26
-HYDROPAC 2390/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 24 THRU 27 AUG IN AREAS WITHIN 
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 271400Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -571,22 +578,6 @@ NORTH PACIFIC.
    2200Z TO 1300Z DAILY 23 AND 29 AUG IN AREA 
    WITHIN 25 MILES OF 31-14.14N 144-26.48E.
 2. CANCEL THIS MSG 301400Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190829Z AUG 26
-HYDROPAC 2374/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 25 THRU 27 AUG IN AREAS WITHIN 
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 271400Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -738,23 +729,6 @@ SOUTH PACIFIC.
 PERU.
 N. BREAKWATER HEAD LIGHT 12-02.78S 077-09.34W
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>100808Z AUG 26
-HYDROPAC 2289/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   2100Z TO 1800Z DAILY 13 THRU 26 AUG
-   IN AREAS BOUND BY:
-   A. 59-42.60S 165-49.20E, 59-42.60S 180-00.00E,
-      62-33.00S 180-00.00E, 62-33.00S 162-33.60E.
-   B. 59-42.60S 180-00.00W, 58-39.87S 161-41.05W,
-      57-28.80S 126-01.20W, 60-23.40S 122-04.80W,
-      61-31.90S 161-16.02W, 62-33.00S 180-00.00W.
-2. CANCEL THIS MSG 271900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
