@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280928Z AUG 26
+HYDROARC 191/26.
+NORWEGIAN SEA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V AMAZON CONQUEROR
+   TOWING 12 10000 METER LONG CABLES
+   IN AREA BOUND BY
+   65-40.80N 005-19.70E, 65-42.20N 006-52.30E,
+   64-33.50N 006-04.80E, 64-32.70N 004-33.70E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL HYDROARC 190/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>261111Z AUG 26

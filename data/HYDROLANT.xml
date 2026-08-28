@@ -1,6 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280928Z AUG 26
+HYDROLANT 1691/26.
+NORWEGIAN SEA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V AMAZON CONQUEROR
+   TOWING 12 10000 METER LONG CABLES
+   IN AREA BOUND BY
+   65-40.80N 005-19.70E, 65-42.20N 006-52.30E,
+   64-33.50N 006-04.80E, 64-32.70N 004-33.70E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1689/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>280914Z AUG 26
+HYDROLANT 1690/26.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+RACON AT HYSKEIR LIGHT 56-58.20N 006-40.80W
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>280351Z AUG 26
+HYDROLANT 1688/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-42.00S 102-47.40W.
+   B. A85, 63-19.80S 053-24.00W.
+   C. D33A, 63-59.40S 055-49.80W.
+   D. D33C, 61-55.80S 054-24.60W.
+2. CANCEL THIS MSG 290352Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>272349Z AUG 26
+HYDROLANT 1687/26.
+NORTH ATLANTIC.
+ORKNEY ISLANDS.
+CABLE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY CABLESHIP SOVEREIGN
+IN 59-49.00N 002-58.40W.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>272318Z AUG 26
+HYDROLANT 1686/26.
+BLACK SEA.
+ROMANIA.
+M/V PROGRESS IV SANK IN 44-36.22N 029-46.77E
+AT 271904Z AUG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>272241Z AUG 26
+HYDROLANT 1685/26.
+BLACK SEA.
+ROMANIA.
+1. CONTAINERS ADRIFT IN VICINITY 
+   44-37.93N 029-46.92E AT 271455Z AUG.
+2. CANCEL THIS MSG 302241Z AUG 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SOUND SIGNAL</category>
         <status>INFORCE</status>
         <msgText>271705Z AUG 26
@@ -70,23 +144,6 @@ ROMANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>270401Z AUG 26
-HYDROLANT 1676/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-42.00S 102-47.40W.
-   B. A85, 63-19.80S 053-24.00W.
-   C. D33A, 63-59.40S 055-49.80W.
-   D. D33C, 61-55.80S 054-24.60W.
-2. CANCEL THIS MSG 280402Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261400Z AUG 26
@@ -143,21 +200,6 @@ BRAZIL.
 1. CURUCA LIGHT 00-33.88S 047-45.98W UNLIT
    UNTIL 20 FEB 27.
 2. CANCEL THIS MSG 210001Z FEB 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>242310Z AUG 26
-HYDROLANT 1664/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. DERELICT M/V HORIZON JADE ADRIFT IN VICINITY
-   23-07.00N 017-12.00W AT 242230Z AUG.
-   VESSELS IN VICINITY REQUESTED TO KEEP A
-   SHARP LOOKOUT. REPORTS TO NAVAREA II,
-   EMAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 272310Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -354,19 +396,6 @@ JERICOACOARA LIGHT 02-47.28S 040-29.98W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200942Z AUG 26
-HYDROLANT 1626/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 250900Z TO 272100Z AUG
-   IN AREA WITHIN SEVEN MILES OF 
-   24-26.04S 045-39.91W.
-2. CANCEL THIS MSG 272200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200936Z AUG 26
@@ -379,19 +408,6 @@ BRAZIL.
    IN 20-23.95S 040-10.83W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>192310Z AUG 26
-HYDROLANT 1619/26.
-SOUTH ATLANTIC.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 280259Z AUG BY M/V SIEM PILOT
-   IN 24-35.02S 042-15.37W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280359Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -622,20 +638,6 @@ ROMANIA.
    44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
    44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 281300Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130111Z AUG 26
-HYDROLANT 1560/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   27 AUG BY M/V NAVIOS FELIX AND
-   M/V COMANDO B IN 20-22.12S 040-08.38W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 280001Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

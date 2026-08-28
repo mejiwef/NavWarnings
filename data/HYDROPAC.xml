@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270031Z AUG 26
+HYDROPAC 2460/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 1400Z TO 1359Z  
+   DAILY 01 THRU 05 SEP IN AREAS BOUND BY:
+   A. 12-49.98N 145-00.00E, 12-49.98N 145-10.00E,
+      11-25.00N 147-00.00E, 10-30.00N 147-00.00E,
+      10-30.00N 145-19.98E.
+   B. 13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+      12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
+      10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
+      12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 061459Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>280307Z AUG 26
+HYDROPAC 2459/26.
+CORAL SEA.
+AUSTRALIA.
+15 METER VESSEL CAPSIZED IN 
+28-12.40S 153-38.00E AT 270650Z AUG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>272152Z AUG 26
+HYDROPAC 2458/26.
+NORTH PACIFIC.
+GUAM.
+USCG REMOTE COMMUNICATION FACILITY GUAM
+13-29.00N 144-50.00E HF, NAVTEX AND SITOR
+SERVICES OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>271210Z AUG 26
@@ -314,23 +353,6 @@ SOUTH CHINA SEA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>251145Z AUG 26
-HYDROPAC 2431/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS:
-   A. 271530Z TO 271831Z AUG IN AREAS BOUND BY:
-      09-38.00N 075-00.00E, 09-44.00N 075-13.00E,
-      09-35.00N 075-18.00E, 09-29.00N 075-04.00E.
-   B. 280415Z TO 280600Z AUG IN AREAS BOUND BY:
-      09-52.00N 075-26.00E, 09-52.00N 075-31.00E,
-      09-47.00N 075-31.00E, 09-47.00N 075-26.00E.
-2. CANCEL THIS MSG 280700Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>251107Z AUG 26
 HYDROPAC 2430/26.
 ANDAMAN SEA.
@@ -454,22 +476,6 @@ DANGEROUS WRECK IN 04-14.70S 113-44.30E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>171602Z AUG 26
-HYDROPAC 2415/26.
-CORAL SEA.
-NEW CALEDONIA.
-1. GUNNERY EXERCISES 242000Z TO 280800Z AUG
-   IN AREAS WITHIN:
-      A. 20 MILES OF 23-00.00S 165-05.00E.
-      B. TEN MILES OF 22-04.00S 166-00.00E.
-      C. TEN MILES OF 23-00.00S 167-02.00E.
-      D. TEN MILES OF 22-00.00S 167-02.00E.
-2. CANCEL THIS MSG 280900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>211444Z AUG 26
@@ -527,22 +533,6 @@ RUSSIA.
    42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
    42-51.50N 132-30.80E.
 2. CANCEL THIS MSG 310900Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>200909Z AUG 26
-HYDROPAC 2391/26.
-CORAL SEA.
-NEW CALEDONIA.
-1. GUNNERY EXERCISES 242000Z TO 280800Z AUG
-   IN AREAS WITHIN:
-   A. 20 MILES OF 23-00.00S 165-58.00E.
-   B. TEN MILES OF 22-42.00S 166-00.00E.
-   C. TEN MILES OF 23-00.00S 167-20.00E.
-   D. TEN MILES OF 22-07.00S 167-27.00E.
-2. CANCEL THIS MSG 280900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

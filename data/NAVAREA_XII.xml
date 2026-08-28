@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>280105Z AUG 26
+NAVAREA XII 590/26.
+NORTH PACIFIC.
+CALIFORNIA.
+USCG REMOTE COMMUNICATION FACILITY
+POINT REYES 37-55.00N 122-24.00W MF AND HF
+DSC TRANSMIT CAPABILITES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>272327Z AUG 26
+NAVAREA XII 589/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 011800Z TO 020100Z SEP,
+   ALTERNATE 031800Z TO 040100Z SEP
+   IN AREA BOUND BY
+   32-46.00N 120-11.00W, 32-29.00N 120-46.00W,
+   33-19.00N 121-19.00W, 33-36.00N 120-43.00W.
+2. CANCEL THIS MSG 040200Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>271729Z AUG 26
