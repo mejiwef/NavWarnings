@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291331Z AUG 26
+HYDROPAC 2471/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 1330Z TO 1900Z
+   DAILY 02 AND 04 SEP IN AREA BOUND BY
+   32-55.00S 072-00.00W, 32-55.00S 071-50.00W,
+   33-05.00S 071-50.00W, 33-05.00S 072-00.00W.
+2. CANCEL THIS MSG 042000Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>282246Z AUG 26
@@ -115,20 +128,6 @@ INDIA.
    06-22.01S 087-05.31E, 05-59.60S 091-37.56E,
    18-24.13N 088-30.46E, 20-48.73N 087-07.43E.
 2. CANCEL THIS MSG 031630Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281309Z AUG 26
-HYDROPAC 2464/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 290500Z TO 291230Z AUG
-   IN AREA BOUND BY
-   17-43.57N 083-35.81E, 17-48.64N 084-06.85E,
-   17-07.94N 083-55.22E, 17-27.28N 083-31.20E.
-2. CANCEL THIS MSG 291330Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -477,32 +476,6 @@ NEW ZEALAND.
    39-06.00S 178-30.00E, 39-18.00S 178-30.00E,
    39-24.00S 177-48.00E.
 2. CANCEL THIS MSG 141430Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>251252Z AUG 26
-HYDROPAC 2433/26.
-SOUTH CHINA SEA.
-1. GUNNERY EXERCISES 290000Z TO 290200Z AUG,
-   ALTERNATE 290700Z TO 290900Z AUG
-   IN AREA WITHIN THREE MILES OF:
-   A. 08-02.05N 110-37.01E.
-   B. 07-49.03N 110-30.05E.
-   C. 07-52.51N 111-44.68E.
-   D. 07-30.41N 109-54.71E.
-   E. 08-09.95N 110-35.80E.
-   F. 07-29.13N 109-37.26E.
-   G. 07-31.83N 109-50.21E.
-   H. 07-48.20N 109-55.93E.
-   I. 08-04.55N 110-28.06E.
-   J. 08-09.58N 110-29.98E.
-   K. 08-05.75N 110-33.65E.
-   L. 07-47.16N 110-27.03E.
-   M. 07-42.18N 111-45.15E.
-   N. 07-32.08N 111-32.83E.
-2. CANCEL THIS MSG 291000Z AUG 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
