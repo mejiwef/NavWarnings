@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290335Z AUG 26
+HYDROLANT 1700/26.
+BAY OF BISCAY.
+FRANCE.
+LES PIERRES NOIRES LIGHTHOUSE
+IN 48-18.60N 004-54.80W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>290136Z AUG 26
+HYDROLANT 1699/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. YELLOW LIGHT MOORING BUOY
+   ESTABLISHED TEMPORARILY IN 04-35.70S 037-02.79W.
+2. CANCEL THIS MSG 220100Z AUG 29.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290055Z AUG 26
+HYDROLANT 1698/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS 290900Z AUG 26 
+   THRU 072200Z JAN 27 BY VESSEL 
+   IN AREA BOUND BY
+   25-34.77S 048-20.62W, 25-29.89S 048-41.14W,
+   25-28.14S 048-23.77W, 25-26.51S 048-21.20W,
+   25-37.37S 048-04.42W, 25-37.51S 048-11.49W,
+   25-42.88S 048-04.28W, 25-39.25S 048-11.45W,
+   25-43.02S 048-11.36W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 072300Z JAN 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281611Z AUG 26.
@@ -85,34 +125,6 @@ NORWEGIAN SEA.
    64-33.50N 006-04.80E, 64-32.70N 004-33.70E.
    SEVEN MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1689/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>280914Z AUG 26
-HYDROLANT 1690/26.
-SEA OF THE HEBRIDES.
-SCOTLAND.
-RACON AT HYSKEIR LIGHT 56-58.20N 006-40.80W
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>280351Z AUG 26
-HYDROLANT 1688/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-42.00S 102-47.40W.
-   B. A85, 63-19.80S 053-24.00W.
-   C. D33A, 63-59.40S 055-49.80W.
-   D. D33C, 61-55.80S 054-24.60W.
-2. CANCEL THIS MSG 290352Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -474,20 +486,6 @@ NAVTEX STATION SELLIA MARINA (V)
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170900Z AUG 26
-HYDROLANT 1592/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 18 THRU 28 AUG BY M/V SPAR ARIES 
-   AND M/V COMANDO B IN 20-48.85S 040-27.23W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 282200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>162156Z AUG 26
@@ -573,23 +571,6 @@ BRAZIL.
    20-23.37S 040-10.72W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 292200Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>140058Z AUG 26
-HYDROLANT 1569/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   181300Z TO 282130Z AUG IN AREA BOUND BY
-   02-16.27S 044-22.65W, 02-14.29S 044-20.98W,
-   00-28.51S 043-53.40W, 01-36.26S 042-17.77W,
-   02-17.69S 044-17.52W, 02-22.08S 044-20.92W,
-   02-22.12S 044-22.31W, 02-21.30S 044-22.37W,
-   02-20.41S 044-21.42W.
-2. CANCEL THIS MSG 282230Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

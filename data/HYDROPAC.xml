@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>282246Z AUG 26
+HYDROPAC 2470/26.
+CORAL SEA.
+AUSTRALIA.
+EDEN REEF LIGHT 
+IN 14-04.63S 143-55.01E.
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>281640Z AUG 26. 
