@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>301659Z AUG 26
+HYDROPAC 2482/26.
+ARABIAN SEA.
+INDIA.
+F/V OM SHREE MASTHI AMMA SANK IN 14-47.21N 074-01.62E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301638Z AUG 26
+HYDROPAC 2481/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 010230Z TO 011130Z 
+   SEP IN AREA BOUND BY
+   17-23.00N 083-43.00E, 17-23.00N 083-53.00E,
+   17-33.00N 083-53.00E, 17-33.00N 083-43.00E.
+2. CANCEL THIS MSG 011230Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>301607Z AUG 26
