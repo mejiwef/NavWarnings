@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>300223Z AUG 26
+HYDROLANT 1709/26
+SOUTH ATLANTIC.
+URUGUAY.
+DANGEROUS WRECK IN 32-38.57S 051-36.80W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>292034Z AUG 26
+HYDROLANT 1708/26.
+SAINT GEORGES CHANNEL.
+IRELAND.
+1. HAZARDOUS OPERATIONS 301100Z AUG THRU
+   030001Z SEP IN AREA BOUND BY
+   53-08.40N 006-03.50W, 53-08.40N 005-59.20W,
+   53-05.50N 005-57.20W, 53-02.20N 005-58.40W,
+   53-02.20N 006-02.60W, 53-05.50N 006-02.30W.
+2. CANCEL THIS MSG 030100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>291641Z AUG 26
@@ -584,21 +607,6 @@ BRAZIL.
    02-11.35S 036-54.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 132100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140923Z AUG 26
-HYDROLANT 1573/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 15 THRU 29 AUG BY M/V COMANDO B 
-   AND M/V ROSCO BANYAN IN 
-   20-23.37S 040-10.72W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 292200Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

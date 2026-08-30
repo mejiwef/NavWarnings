@@ -519,20 +519,6 @@ GALEOTA POINT LIGHT 10-08.30N 060-59.50W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081812Z JUL 26
-NAVAREA IV 666/26.
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL
-   292200Z AUG BY M/V SEVEN PEGASUS
-   IN 10-06.30N 060-17.39W.
-   500 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 292300Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>070131Z JUL 26
