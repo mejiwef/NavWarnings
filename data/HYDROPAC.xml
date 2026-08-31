@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MINING EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>311237Z AUG 26
+HYDROPAC 2493/26.
+EASTERN INDIAN OCEAN.
+KENYA.
+1. MINING EXERCISES IN PROGRESS UNTIL
+   06 SEP IN 05-37.33S 039-06.2E.
+2. CANCEL THIS MSG 070001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311126Z AUG 26
+HYDROPAC 2492/26.
+BAY OF BENGAL.
+BANGLADESH.
+1. HAZARDOUS OPERATIONS 0001Z TO 1600Z DAILY
+   01 THRU 30 SEP EXCEPT FRIDAYS AND SATURDAYS
+   IN AREAS BOUND BY:
+   A. 21-20.83N 090-34.00E, 21-41.00N 091-14.00E,
+      21-20.83N 091-28.00E, 21-00.00N 090-47.83E.
+   B. 20-07.00N 090-52.00E, 20-47.60N 091-29.80E,
+      20-24.00N 091-59.00E, 19-44.00N 091-21.00E.
+   C. 21-18.00N 089-31.00E, 21-18.00N 089-50.00E,
+      21-04.00N 089-54.00E, 21-04.00N 089-34.00E.
+   D. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
+      20-34.00N 089-54.00E, 20-34.00N 089-34.00E.
+2. CANCEL THIS MSG 301700Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>310931Z AUG 26
+HYDROPAC 2491/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   012119Z TO 012145Z SEP 
+   IN AREA BOUND BY
+   28-16.00S 170-42.00W, 29-09.00S 164-42.00W,
+   30-09.00S 163-42.00W, 29-16.00S 169-42.00W.
+2. CANCEL HYDROPAC 2456/26.
+3. CANCEL THIS MSG 012245Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>310916Z AUG 26
+HYDROPAC 2490/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KURIL ISLANDS.
+1. GUNNERY EXERCISES IN PROGRESS UNTIL 
+   031200Z SEP IN AREAS BOUND BY:
+   A. 50-05.00N 155-07.00E, 49-55.00N 155-33.00E,
+      49-30.00N 155-05.00E, 49-31.00N 155-05.00E.
+   B. 49-40.00N 154-35.00E, 48-39.00N 154-08.00E,
+      48-17.00N 152-54.00E, 48-53.00N 153-22.00E.
+2. CANCEL THIS MSG 031300Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>310835Z AUG 26
+HYDROPAC 2489/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. MISSILE OPERATIONS 1400Z TO 0900Z 
+   DAILY 04 THRU 11 SEP IN AREA BOUND BY
+   56-34.00N 154-14.00E, 56-34.00N 156-18.20E,
+   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
+   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
+   52-46.00N 160-30.00E, 51-40.00N 160-30.00E,
+   50-26.00N 158-48.00E, 49-23.50N 157-28.50E,
+   50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
+   52-06.00N 154-14.00E.
+2. CANCEL THIS MSG 121000Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>281658Z AUG 26
@@ -180,19 +260,6 @@ PAKISTAN.
       24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
 2. CANCEL THIS MSG 302000Z SEP 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301012Z AUG 26
-HYDROPAC 2475/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 310630Z TO 311030Z AUG
-   IN AREA BOUND BY
-   17-09.00N 083-31.00E, 17-19.00N 083-31.00E,
-   17-19.00N 083-41.50E, 17-09.00N 083-41.50E.
-2. CANCEL THIS MSG 311130Z AUG 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -470,20 +537,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>271158Z AUG 26
-HYDROPAC 2456/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   012112Z TO 012157Z SEP IN AREA BOUND BY
-   28-47.00S 172-56.00W, 28-41.00S 168-50.00W,
-   29-36.00S 162-44.00W, 29-40.00S 167-03.00W.
-2. CANCEL THIS MSG 012257Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>271121Z AUG 26
@@ -750,22 +803,6 @@ HYDROPAC 2417/26.
 JAVA SEA.
 INDONESIA.
 DANGEROUS WRECK IN 04-14.70S 113-44.30E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201210Z AUG 26
-HYDROPAC 2395/26
-SEA OF JAPAN.
-RUSSIA.
-1. MISSILE OPERATIONS 1400Z TO 0800Z DAILY
-   25 THRU 30 AUG IN AREA BOUND BY
-   42-43.90N 132-50.60E, 42-30.50N 133-14.00E,
-   41-24.40N 133-11.30E, 41-21.20N 132-24.60E,
-   42-21.60N 132-08.00E, 42-48.30N 132-28.50E,
-   42-51.50N 132-30.80E.
-2. CANCEL THIS MSG 310900Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1149,22 +1186,6 @@ FAIRWAY BUOY 24-43.14N 066-55.86E MISSING.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311338Z JUL 26
-HYDROPAC 2190/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0900Z TO 1200Z
-   AND 1230Z TO 1430Z DAILY 07, 14, 21 AND 28
-   AND 0900Z TO 1200Z DAILY 03, 10, 17, 24
-   AND 31 AUG IN AREA BOUND BY
-   09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
-   09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
-2. CANCEL THIS MSG 311300Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>311136Z JUL 26
@@ -1250,35 +1271,6 @@ SOUTH PACIFIC.
    30-35.08S 175-55.29E.
    FIVE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2149/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>271202Z JUL 26
-HYDROPAC 2152/26
-NORTH PACIFIC.
-1. GUNNERY EXERCISES 2300Z TO 0900Z DAILY
-   31 JUL THRU 30 AUG IN AREA BOUND BY
-   28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
-   25-00.26N 145-35.80E, 27-55.25N 144-57.80E.
-2. CANCEL THIS MSG 311000Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>271148Z JUL 26
-HYDROPAC 2151/26
-SEA OF JAPAN.
-RUSSIA.
-1. GUNNERY EXERCISES 2200Z TO 1000Z DAILY,
-   31 JUL, 02 THRU 14, 16 THRU 21, 23 THRU 28
-   AND 30 AUG,  IN AREA BOUND BY
-   42-40.00N 131-41.00E, 42-40.00N 131-57.00E,
-   42-38.50N 132-15.00E, 42-15.00N 132-15.00E,
-   42-15.00N 131-41.00E.
-2. CANCEL THIS MSG 311100Z AUG 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

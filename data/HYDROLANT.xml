@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311207Z AUG 26
+HYDROLANT 1720/26.
+SEA OF MARMARA.
+TURKEY.
+CABLE OPERATIONS UNTIL FURTHER NOTICE BY 
+CABLESHIP SOPHIE GERMAIN IN AREA BOUND BY
+40-40.27N 027-15.72E, 40-39.95N 027-17.51E,
+40-38.88N 027-15.78E, 40-39.66N 027-14.78E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>311047Z AUG 26
+HYDROLANT 1719/26.
+BLACK SEA.
+ROMANIA.
+CANCEL HYDROLANT 1685/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>310859Z AUG 26
+HYDROLANT 1718/26.
+BLACK SEA.
+ROMANIA.
+1. OBJECT ADRIFT IN VICINITY 
+   44-04.36N 029-35.31E AT 310530Z AUG.
+2. CANCEL THIS MSG 030900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>310853Z AUG 26
+HYDROLANT 1717/26.
+BLACK SEA.
+ROMANIA.
+1. OBJECT ADRIFT IN VICINITY 
+   44-31.60N 029-32.10E AT 310515Z AUG.
+2. CANCEL THIS MSG 030854Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>310417Z AUG 26
