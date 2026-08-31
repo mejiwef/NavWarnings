@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>311832Z AUG 26
+HYDROARC 197/26
+BARENTS SEA.
+WHITE SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0100Z TO 1400Z DAILY
+   04 AND 05 SEP IN AREAS BOUND BY:
+   A. 69-22.00N 037-56.00E, 68-58.00N 041-58.00E,
+      67-59.00N 044-09.00E, 66-58.00N 044-24.00E,
+      66-53.00N 044-09.00E, 68-22.00N 041-02.00E,
+      68-42.00N 038-33.00E, 68-58.00N 037-36.00E.
+   B. 67-32.00N 045-06.00E, 67-18.00N 045-33.00E,
+      67-13.00N 045-16.00E, 67-20.00N 044-55.00E.
+2. CANCEL THIS MSG 051500Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>311242Z AUG 26
 HYDROARC 196/26.
 LAPTEV SEA.
 1. ICEBERG REPORTED IN 77-48.20N 114-58.20E.
-2. CANCEL THIS MSG 011243Z SEP 26.</msgText>
+2. CANCEL THIS MSG 011243Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
@@ -207,18 +227,6 @@ RUSSIA.
 TIDE GAUGE ESTABLISHED AT DEPTH 15 METERS
 IN 73-08.24N 080-26.79E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>030023Z OCT 25
-HYDROARC 180/25(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT TUKTOYAKTUK ISLAND LIGHT
-69-27.35N 132-59.97W INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
