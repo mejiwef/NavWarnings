@@ -399,18 +399,6 @@ FACILITIES:
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
-        <msgText>291810Z JUN 26
-NAVAREA XII 458/26.
-BERING SEA.
-ALASKA.
-USCG COMMUNICATION FACILITY ST PAUL
-57-09.00N 170-14.00W HF TRANSMIT AND RECEIVE
-SERVICES OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
         <msgText>162018Z JUN 26
 NAVAREA XII 429/26.
 NORTH PACIFIC.
