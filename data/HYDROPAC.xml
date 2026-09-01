@@ -240,21 +240,6 @@ POSITION AND TO EXERCISE EXTREME CAUTION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>301253Z AUG 26
-HYDROPAC 2479/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   312129Z TO 312152Z AUG IN AREA BOUND BY
-   27-47.00S 176-37.00W, 29-07.00S 168-29.00W,
-   30-07.00S 167-29.00W, 28-47.00S 175-37.00W.
-2. CANCEL HYDROPAC 2444/26. 
-3. CANCEL THIS MSG 312252Z AUG 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301205Z AUG 26

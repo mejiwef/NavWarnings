@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>010029Z SEP 26
+NAVAREA XII 597/26.
+NORTH PACIFIC.
+1. DERELICT 12 METER VESSEL, GREY HULL,
+   PARTIALLY SUBMERGED AND ADRIFT IN
+   09-44.50N 137-14.20W AT 292320Z AUG.
+2. CANCEL THIS MSG 040029Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>311728Z AUG 26
@@ -236,21 +247,6 @@ NORTH PACIFIC.
    TWO MILE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 523/26.
 3. CANCEL THIS MSG 110900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190015Z AUG 26
-NAVAREA XII 572/26.
-NORTH PACIFIC.
-HAWAII.
-1. HAZARDOUS OPERATIONS 27 THRU 31 AUG
-   IN AREA BOUND BY
-   22-02.00N 159-48.00W, 22-02.00N 159-53.00W,
-   22-11.00N 159-53.00W, 22-11.00N 159-46.00W,
-   22-07.00N 159-46.00W.
-2. CANCEL THIS MSG 010001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
