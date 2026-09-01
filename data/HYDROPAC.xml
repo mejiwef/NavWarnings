@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>010757Z SEP 26
+HYDROPAC 2495/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E HF/MF UNRELIABLE AND 
+   DSC INOPERATIVE 041500Z TO 041730Z SEP.
+2. CANCEL THIS MSG 041830Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MINING EXERCISES</category>
         <status>INFORCE</status>
         <msgText>311237Z AUG 26

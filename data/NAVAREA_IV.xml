@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>010757Z SEP 26
+NAVAREA IV 844/26.
+NORTH ATLANTIC.
+1. HF/MF UNRELIABLE AND DSC INOPERATIVE 
+   041500Z TO 041730Z SEP AT USCG REMOTE 
+   COMMUNICATION FACILITIES:
+   A. BOSTON 41-43.00N 070-31.00W.
+   B. CHESAPEAKE 36-44.00N 076-01.00W.
+   C. CHARLESTON 32-50.70N 079-57.00W.
+   D. MIAMI 25-37.40N 080-23.40W.
+   E. NEW ORLEANS 29-53.00N 089-57.00W.
+   F. SAN JUAN 18-28.00N 067-04.30W.
+2. CANCEL THIS MSG 041830Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>311912Z AUG 26
