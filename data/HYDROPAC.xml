@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
+        <msgText>011652Z SEP 26
+HYDROPAC 2506/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0405Z TO 0521Z DAILY 15 SEP THRU 15 OCT
+   IN AREAS BOUND BY
+   49-52.00S 086-34.00W, 49-38.00S 085-13.00W,
+   58-56.00S 080-05.00W, 59-14.00S 081-42.00W.
+2. CANCEL THIS MSG 150621Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
         <msgText>011425Z SEP 26
 HYDROPAC 2505/26.
 SOUTH PACIFIC.
