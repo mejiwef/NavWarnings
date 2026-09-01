@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>011310Z SEP 26
+HYDROARC 200/26.
+KARA SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 011145Z SEP IN: 
+   A. 77-44.40N 097-30.50E.
+   B. 77-46.30N 097-56.00E.
+   C. 77-50.30N 098-22.30E.
+2. CANCEL THIS MSG 021311Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>010331Z SEP 26
@@ -18,7 +32,8 @@ NORWAY.
       79-55.85N 010-21.89W, 79-41.45N 011-34.90W,
       78-03.47N 004-13.39W, 76-01.02N 002-00.03E,
       73-32.12N 007-12.24E, 70-30.12N 011-37.50E.
-2. CANCEL THIS MSG 102235Z SEP 26.</msgText>
+2. CANCEL THIS MSG 102235Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -37,16 +52,6 @@ RUSSIA.
    B. 67-32.00N 045-06.00E, 67-18.00N 045-33.00E,
       67-13.00N 045-16.00E, 67-20.00N 044-55.00E.
 2. CANCEL THIS MSG 051500Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>311242Z AUG 26
-HYDROARC 196/26.
-LAPTEV SEA.
-1. ICEBERG REPORTED IN 77-48.20N 114-58.20E.
-2. CANCEL THIS MSG 011243Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

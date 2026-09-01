@@ -1,6 +1,138 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>011425Z SEP 26
+HYDROPAC 2505/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1134Z TO 1738Z DAILY 05 THRU 11 SEP
+   IN AREA BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 111838Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VESSEL ABANDONED</category>
+        <status>INFORCE</status>
+        <msgText>011416Z SEP 26
+HYDROPAC 2504/26.
+STRAIT OF HORMUZ.
+IRAN.
+VESSEL SENEGAL PROSPERITY SUFFERED A 
+SECURITY INCIDENT AND ANCHORED IN
+26-18.80N 056-33.60E. VESSELS ARE ADVISED 
+TO KEEP CLEAR OF THIS POSITION AND TO 
+EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>VESSEL ABANDONED</category>
+        <status>INFORCE</status>
+        <msgText>011408Z SEP 26
+HYDROPAC 2503/26.
+STRAIT OF HORMUZ.
+IRAN.
+VESSEL SIDAR SUFFERED A SECURITY INCIDENT
+AND ANCHORED IN 26-26.10N 056-30.00E.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+POSITION AND TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011357Z SEP 26
+HYDROPAC 2502/26.
+RED SEA.
+SAUDI ARABIA.
+1. HAZARDOUS OPERATIONS 0300Z TO 1500Z 
+   DAILY 06 THRU 10 SEP IN AREA BOUND BY
+   21-06.00N 038-58.30E, 21-05.35N 039-07.00E,
+   21-13.30N 039-06.12E, 21-13.24N 038-58.30EE.
+2. CANCEL THIS MSG 101600Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011350Z SEP 26
+HYDROPAC 2501/26.
+EASTERN INDIAN OCEAN.
+REUNION.
+1. HAZARDOUS OPERATIONS 0230Z TO 0700Z 
+   DAILY 14 THRU 16 SEP IN AREA WITHIN
+   TWO MILES OF 21-17.00S 055-20.81E.
+2. CANCEL THIS MSG 160800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011209Z SEP 26
+HYDROPAC 2500/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 020230Z TO 021130Z 
+   SEP IN AREA BOUND BY
+   17-46.00N 084-12.00E, 17-14.00N 084-12.00E,
+   17-12.10N 085-42.27E, 17-53.49N 085-41.00E.
+2. CANCEL THIS MSG 021230Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>011150Z SEP 26
+HYDROPAC 2498/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   032100Z TO 040100Z SEP
+   A. IN AREAS BOUND BY:
+      A. 12-00.00N 084-45.00E, 12-45.00N 085-00.00E,
+         12-20.00N 086-20.00E, 11-35.00N 086-05.00E.
+      B. 10-55.00N 087-50.00E, 11-55.00N 088-00.00E,
+         11-05.00N 090-30.00E, 10-05.00N 090-20.00E.
+      C. 07-50.00N 095-10.00E, 09-35.00N 095-10.00E,
+         09-35.00N 096-05.00E, 07-50.00N 096-05.00E.
+   B. IN AREA WITHIN TEN MILES OF 13-43.20N 080-13.80E.
+2. CANCEL THIS MSG 040200Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011143Z SEP 26
+HYDROPAC 2497/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 030200Z TO 030730Z AND
+   030830Z TO 031130Z SEP IN AREA BOUND BY
+   10-46.42N 073-42.00E, 10-46.42N 073-44.48E,
+   10-49.18N 073-44.48E, 10-49.18N 073-42.00E.
+2. CANCEL THIS MSG 031230Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011130Z SEP 26
+HYDROPAC 2496/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 020630Z TO 021030Z SEP
+   IN AREA BOUND BY:
+   17-43.00N 083-35.00E, 17-48.00N 084-06.00E,
+   17-07.00N 083-55.00E, 17-27.00N 083-31.00E.
+2. CANCEL THIS MSG 021130Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>010757Z SEP 26
@@ -10,7 +142,8 @@ GUAM.
 1. USCG REMOTE COMMUNICATION FACILITY GUAM
    13-29.00N 144-50.00E HF/MF UNRELIABLE AND 
    DSC INOPERATIVE 041500Z TO 041730Z SEP.
-2. CANCEL THIS MSG 041830Z SEP 26.</msgText>
+2. CANCEL THIS MSG 041830Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MINING EXERCISES</category>
@@ -222,20 +355,6 @@ HYDROPAC 2482/26.
 ARABIAN SEA.
 INDIA.
 F/V OM SHREE MASTHI AMMA SANK IN 14-47.21N 074-01.62E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301638Z AUG 26
-HYDROPAC 2481/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 010230Z TO 011130Z 
-   SEP IN AREA BOUND BY
-   17-23.00N 083-43.00E, 17-23.00N 083-53.00E,
-   17-33.00N 083-53.00E, 17-33.00N 083-43.00E.
-2. CANCEL THIS MSG 011230Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -860,17 +979,6 @@ UNTIL FURTHER NOTICE IN AREA BOUND BY
 21-31.95N 038-54.85E, 21-29.50N 038-47.80E,
 21-19.60N 038-51.70E, 21-21.60N 038-57.50E,
 21-23.45N 038-58.20E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>171217Z AUG 26
-HYDROPAC 2360/26.
-ARABIAN SEA.
-INDIA.
-FAIRWAY BOUY IN 17-34.34N 073-04.58E
-MISSING.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

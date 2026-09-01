@@ -19,7 +19,8 @@ NORTH PACIFIC.
    H. PT HIGGINS 55-27.00N 131-49.00W.
    I. ASTORIA 46-12.00N 123-49.00W.
    J. CAMBRIA 35-31.1N 121-03.6W.
-2. CANCEL THIS MSG 041830Z SEP 26.</msgText>
+2. CANCEL THIS MSG 041830Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -30,7 +31,8 @@ NORTH PACIFIC.
 1. DERELICT 12 METER VESSEL, GREY HULL,
    PARTIALLY SUBMERGED AND ADRIFT IN
    09-44.50N 137-14.20W AT 292320Z AUG.
-2. CANCEL THIS MSG 040029Z SEP 26.</msgText>
+2. CANCEL THIS MSG 040029Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -342,18 +344,6 @@ FACILITIES:
    I. ASTORIA 46-10.00N 123-49.00W.
    J. BERING SEA 57-46.00N 152-34.00W.
    K. CAMBRIA 33-44N 118-24W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>162018Z JUN 26
-NAVAREA XII 429/26.
-NORTH PACIFIC.
-ALASKA.
-USCG COMMUNICATION FACILITY PT HIGGINS
-55-27.00N 131-49.00W TRANSMIT AND RECEIVE
-SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
