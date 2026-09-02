@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>COMBINED OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>020744Z SEP 26
+HYDROARC 203/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE AND GUNNERY OPERATIONS 
+   0500Z TO 1900Z DAILY 05 THRU 10 SEP
+   IN AREAS BOUND BY:
+   A. 69-43.00N 033-08.00E, 69-43.00N 033-27.00E,
+      69-32.00N 033-27.00E, 69-32.00N 032-56.00E,
+      69-34.00N 032-50.50E, 69-43.00N 033-08.00E.
+   B. 70-12.00N 033-36.00E, 70-12.00N 035-30.00E,
+      69-34.50N 035-30.00E, 69-34.50N 033-36.00E.
+2. CANCEL THIS MSG 102000Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SHOAL</category>
         <status>INFORCE</status>
         <msgText>020011Z SEP 26

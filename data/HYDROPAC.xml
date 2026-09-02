@@ -739,22 +739,6 @@ NORTHERN MARIANA ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260730Z AUG 26
-HYDROPAC 2452/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 0800Z 
-   DAILY 01 AND 02 SEP IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 020900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>240825Z AUG 26
