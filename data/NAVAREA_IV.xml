@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>021058Z SEP 26
+NAVAREA IV 847/26.
+NORTH ATLANTIC.
+FRENCH GUIANA.
+1. HAZARDOUS OPERATIONS 041130Z TO 041600Z 
+   SEP IN AREA WITHIN THREE MILES OF 
+   05-01.00N 051-58.00W.
+2. CANCEL THIS MSG 041700Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>011915Z SEP 26
@@ -31,7 +44,8 @@ NAVAREA IV 846/26.
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 030001Z SEP 26.</msgText>
+9. CANCEL THIS MSG 030001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>

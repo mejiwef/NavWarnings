@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021421Z SEP 26
+HYDROARC 205/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED IN AREA BOUND BY
+   78-20.00N 108-00.00E, 77-46.60N 115-23.60E,
+   77-20.40N 116-57.40E, 77-22.20N 117-12.20E,
+   77-09.80N 117-37.90E.
+2. CANCEL THIS MSG 031422Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>021144Z SEP 26
+HYDROARC 204/26.
+KARA SEA.
+RUSSIA.
+9.8 METER DEPTH REPORTED IN
+IN 68-35.51N 073-54.19E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>COMBINED OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020744Z SEP 26
@@ -15,7 +39,8 @@ RUSSIA.
       69-34.00N 032-50.50E, 69-43.00N 033-08.00E.
    B. 70-12.00N 033-36.00E, 70-12.00N 035-30.00E,
       69-34.50N 035-30.00E, 69-34.50N 033-36.00E.
-2. CANCEL THIS MSG 102000Z SEP 26.</msgText>
+2. CANCEL THIS MSG 102000Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SHOAL</category>
@@ -32,7 +57,8 @@ D. 68-13.73N 065-47.64W.
 E. 68-12.84N 065-44.47W.
 F. 68-12.62N 065-42.89W.
 G. 68-12.93N 065-41.98W.
-H. 68-12.63N 065-44.18W.</msgText>
+H. 68-12.63N 065-44.18W.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -46,20 +72,6 @@ ARCTIC.
    81-42.00N 134-18.00W, 81-06.00N 135-04.00W,
    76-42.00N 163-41.00W, 77-06.00N 161-35.00W.
 2. CANCEL THIS MSG 150344Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011310Z SEP 26
-HYDROARC 200/26.
-KARA SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 011145Z SEP IN: 
-   A. 77-44.40N 097-30.50E.
-   B. 77-46.30N 097-56.00E.
-   C. 77-50.30N 098-22.30E.
-2. CANCEL THIS MSG 021311Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

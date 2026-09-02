@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>021547Z SEP 26
+HYDROLANT 1738/26.
+ROMANIA.
+1. OBJECT ADRIFT IN 44-31.22N 029-33.85E
+   AT 020750Z.
+2. CANCEL HYDROLANT 1736/26.
+3. CANCEL THIS MSG 051548Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>021441Z SEP 26
+HYDROLANT 1737/26.
+SOUTH ATLANTIC.
+1. ICEBERGS REPORTED IN: 
+   A. A76C, 53-14.00S 027-48.00W.
+   B. A81, 58-50.00S 047-13.00W.
+   C. D33B, 59-07.00S 050-51.00W.
+   D. D33C, 61-55.00S 054-03.00W.
+   E. 58-32.00S 050-12.00W.
+   F. 60-45.00S 052-41.00W.
+   G. 60-16.00S 052-06.00W.
+   H. 58-35.00S 050-25.00W.
+   I. 58-39.00S 049-48.00W.
+2. CANCEL THIS MSG 031444Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>020926Z SEP 26
@@ -13,7 +42,8 @@ TOWING 15 7050 METER LONG CABLES
 IN AREA BOUND BY
 56-59.50N 002-56.70E, 57-30.00N 004-51.30E,
 56-48.70N 005-26.00E, 56-16.70N 003-34.70E.
-SIX MILE BERTH REQUESTED.</msgText>
+SIX MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -26,7 +56,8 @@ BRAZIL.
    DAILY 03 THRU 17 SEP BY M/V COMMANDER K
    AND M/V COMANDO B IN 20-23.90S 040-08.68W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 172200Z SEP 26.</msgText>
+2. CANCEL THIS MSG 172200Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -38,28 +69,9 @@ SCOTLAND.
 1. HAZARDOUS OPERATIONS 0800Z TO 1800Z DAILY 
    04 THRU 05 AND 07 THRU 12 SEP
    IN AREAS WITHIN:
-      A. 27.00 MILES OF 57-27.40N 008-20.50W.
-      B. 20.00 MILES OF 57-43.40N 008-58.80W.
-2. CANCEL THIS MSG 121900Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011430Z SEP 26
-HYDROLANT 1732/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A76C, 53-19.00S 028-11.00W.
-   B. A81, 59-04.00S 047-27.00W.
-   C. D33B, 59-14.00S 050-41.00W.
-   D. D33C, 61-52.00S 054-23.00W.
-   E. 58-41.00S 051-00.00W.
-   F. 60-53.00S 053-27.00W.
-   G. 60-20.00S 052-28.00W.
-   H. 58-44.00S 050-55.00W.
-   I. 58-30.00S 050-50.00W.
-2. CANCEL THIS MSG 021431Z SEP 26.
+      A. 27 MILES OF 57-27.40N 008-20.50W.
+      B. 20 MILES OF 57-43.40N 008-58.80W.
+2. CANCEL THIS MSG 121900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -313,17 +325,6 @@ ENGLAND.
 1. FOG SIGNAL AT DUNGENESS LIGHT
    50-54.80N 000-58.60E INOPERATIVE.
 2. CANCEL HYDROLANT 1680/26, 1681/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271337Z AUG 26
-HYDROLANT 1682/26.
-NORTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 011600Z TO 021300Z SEP
-   IN AREA WITHIN 41 MILES OF 55-05.00N 019-00.00W.
-2. CANCEL THIS MSG 021400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
