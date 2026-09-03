@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031219Z SEP 26
+HYDROPAC 2528/26.
+ARABIAN SEA.
+1. CABLE OPERATIONS  04 SEP THRU 05 OCT BY
+   M/V REBECCA ALONG TRACKLINES JOINING:
+   A. 09-07.39N 069-00.80E, 09-36.61N 067-13.32E.
+   B. 09-59.58N 065-45.38E, 10-35.36N 063-11.19E.
+   C. 10-54.17N 062-05.32E, 11-30.68N 060-00.68E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 060001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031202Z SEP 26
+HYDROPAC 2527/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 061831Z TO 121829Z AND
+   131831Z TO 191829Z SEP IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 201929Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031059Z SEP 26
+HYDROPAC 2526/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 062100Z TO 070200Z
+   IN AREA BOUND BY
+   12-50.00N 145-00.00E, 12-50.00N 145-10.00E,
+   11-32.00N 146-50.20E, 11-32.00N 145-11.00E
+2. CANCEL THIS MSG 070300Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031030Z SEP 26
@@ -30,7 +71,8 @@ GUAM.
       12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
       10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
       12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 101459Z SEP 26.</msgText>
+2. CANCEL THIS MSG 101459Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -44,7 +86,8 @@ NORTHERN MARIANA ISLANDS.
    IN AREA BOUND BY
    13-04.00N 145-18.00E, 13-04.00N 147-02.00E,
    13-55.00N 147-02.00E, 13-55.00N 145-18.00E.
-2. CANCEL THIS MSG 090400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 090400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -58,7 +101,8 @@ GUAM.
    DAILY 07 THRU 11 SEP IN AREA BOUND BY
    13-45.00N 144-19.98E, 13-45.00N 144-36.00E,
    13-30.00N 144-36.00E, 13-30.00N 144-19.98E.
-2. CANCEL THIS MSG 120800Z SEP 26.</msgText>
+2. CANCEL THIS MSG 120800Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -73,7 +117,8 @@ GUAM.
    12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 070800Z SEP 26.</msgText>
+2. CANCEL THIS MSG 070800Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -88,7 +133,8 @@ GUAM.
    12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 070200Z SEP 26.</msgText>
+2. CANCEL THIS MSG 070200Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -103,7 +149,8 @@ NORTHERN MARIANA ISLANDS.
    17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
    15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 100900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 100900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -115,7 +162,8 @@ GUAM.
 1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
    DAILY 08 THRU 10 SEP IN AREA WITHIN 
    THREE MILES OF 13-27.00N 145-08.00E.
-2. CANCEL THIS MSG 101400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 101400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -130,7 +178,8 @@ SOUTH PACIFIC.
       35-45.00S 170-30.00W, 38-00.00S 176-45.00W.
    B. 32-30.00S 165-00.00W, 30-30.00S 160-00.00W,
       32-00.00S 159-00.00W, 34-00.00S 164-00.00W.
-2. CANCEL THIS MSG 200030Z SEP 26.</msgText>
+2. CANCEL THIS MSG 200030Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -148,7 +197,8 @@ NEW ZEALAND.
    B. SPACE DEBRIS IN AREA BOUND BY
       36-30.00S 177-30.00W, 34-15.00S 171-30.00W,
       35-45.00S 170-30.00W, 38-00.00S 176-45.00W.
-2. CANCEL THIS MSG 200030Z SEP 26.</msgText>
+2. CANCEL THIS MSG 200030Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -163,7 +213,8 @@ AUSTRALIA.
    31-48.90S 115-17.60E, 31-50.10S 115-17.60E,
    31-50.10S 115-19.50E, 31-48.90S 115-19.50E.
    ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2473/26.</msgText>
+2. CANCEL HYDROPAC 2473/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -175,7 +226,8 @@ AUSTRALIA.
 UNDERWATER OPERATIONS IN PROGRESS UNTIL 
 FURTHER NOTICE BY M/V SKANDI HERCULES
 IN 19-38.90S 115-55.60E.
-FIVE MILE BERTH REQUESTED.</msgText>
+FIVE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -184,7 +236,7 @@ FIVE MILE BERTH REQUESTED.</msgText>
 HYDROPAC 2510/26.
 SOUTH PACIFIC.
 1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1800Z TO 2000Z DAILY 07 THRU 08 SEP
+   1800Z TO 2000Z DAILY 07 AND 08 SEP
    IN AREA BOUND BY
    32-17.00S 164-26.00W, 37-09.00S 157-47.00W,
    45-31.00S 140-26.00W, 48-34.00S 129-27.00W,
@@ -192,7 +244,8 @@ SOUTH PACIFIC.
    52-11.00S 127-15.00W, 50-11.00S 139-30.00W,
    43-13.00S 157-53.00W, 38-40.00S 166-30.00W,
    35-48.00S 165-42.00W.
-2. CANCEL THIS MSG 082100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 082100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -328,20 +381,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011143Z SEP 26
-HYDROPAC 2497/26.
-EASTERN INDIAN OCEAN.
-LAKSHADWEEP.
-1. HAZARDOUS OPERATIONS 030200Z TO 030730Z AND
-   030830Z TO 031130Z SEP IN AREA BOUND BY
-   10-46.42N 073-42.00E, 10-46.42N 073-44.48E,
-   10-49.18N 073-44.48E, 10-49.18N 073-42.00E.
-2. CANCEL THIS MSG 031230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>010757Z SEP 26
@@ -385,23 +424,6 @@ BANGLADESH.
    D. 20-58.00N 089-34.00E, 20-58.00N 089-54.00E,
       20-34.00N 089-54.00E, 20-34.00N 089-34.00E.
 2. CANCEL THIS MSG 301700Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>310916Z AUG 26
-HYDROPAC 2490/26.
-NORTH PACIFIC.
-SEA OF OKHOTSK.
-KURIL ISLANDS.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL 
-   031200Z SEP IN AREAS BOUND BY:
-   A. 50-05.00N 155-07.00E, 49-55.00N 155-33.00E,
-      49-30.00N 155-05.00E, 49-31.00N 155-05.00E.
-   B. 49-40.00N 154-35.00E, 48-39.00N 154-08.00E,
-      48-17.00N 152-54.00E, 48-53.00N 153-22.00E.
-2. CANCEL THIS MSG 031300Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -743,21 +765,6 @@ CORAL SEA.
 AUSTRALIA.
 RACON AT NORTH REEF LIGHT 23-11.10S 151-54.18E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270114Z AUG 26
-HYDROPAC 2449/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z
-   DAILY 01 THRU 03 SEP IN AREAS WITHIN:
-   A. THREE MILES OF 13-27.00N 145-08.00E.
-   B. THREE MILES OF 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 031400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

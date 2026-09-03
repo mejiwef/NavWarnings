@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031255Z SEP 26
+HYDROARC 208/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 031212Z SEP IN: 
+   A. 78-00.50N 112-31.00E.
+   B. 76-21.50N 116-23.80E.
+   C. 75-58.20N 112-41.10E.
+2. CANCEL THIS MSG 061300Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>021741Z SEP 26
@@ -14,19 +27,6 @@ RUSSIA.
 2. CANCEL HYDROARC 203/26.
 3. CANCEL THIS MSG 102000Z SEP 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>021421Z SEP 26
-HYDROARC 205/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED IN AREA BOUND BY
-   78-20.00N 108-00.00E, 77-46.60N 115-23.60E,
-   77-20.40N 116-57.40E, 77-22.20N 117-12.20E,
-   77-09.80N 117-37.90E.
-2. CANCEL THIS MSG 031422Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
@@ -231,17 +231,6 @@ CANADA.
 MCTS IQALUIT REMOTE STATION RESOLUTE
 68-19.00N 133-35.00W 
 MF AND HF R/T SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>221452Z AUG 26
-HYDROARC 184/26
-CANADA.
-MCTS IQALUIT REMOTE STATION INUVIK
-60-25.45N 064-50.50W MF &amp; HF R/T 
-SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
