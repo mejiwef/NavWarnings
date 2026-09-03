@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030321Z SEP 26
+HYDROPAC 2513/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V SKANDI HERCULES
+IN 19-38.90S 115-55.60E.
+FIVE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>021215Z SEP 26

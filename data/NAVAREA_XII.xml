@@ -121,21 +121,6 @@ NAVAREA XII 592/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>272327Z AUG 26
-NAVAREA XII 589/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 011800Z TO 020100Z SEP,
-   ALTERNATE 031800Z TO 040100Z SEP
-   IN AREA BOUND BY
-   32-46.00N 120-11.00W, 32-29.00N 120-46.00W,
-   33-19.00N 121-19.00W, 33-36.00N 120-43.00W.
-2. CANCEL THIS MSG 040200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>212338Z AUG 26
@@ -270,21 +255,6 @@ NORTH PACIFIC.
    TWO MILE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 523/26.
 3. CANCEL THIS MSG 110900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201725Z AUG 26
-NAVAREA XII 568/26
-CHUKCHI SEA.
-ALASKA.
-1. CABLE OPERATIONS 22 AUG THRU 02 SEP 
-   BY CABLESHIP IT INTEGRITY IN: 
-   A. 66-06.56N 162-40.36W.
-   B. 66-48.93N 162-59.80W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
