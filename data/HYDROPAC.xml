@@ -663,22 +663,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>281330Z AUG 26
-HYDROPAC 2465/26.
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 1230Z TO 1530Z DAILY 
-   02 AND 03 SEP IN AREA BOUND BY
-   20-48.35N 087-02.61E, 18-12.35N 086-07.13E,
-   06-22.01S 087-05.31E, 05-59.60S 091-37.56E,
-   18-24.13N 088-30.46E, 20-48.73N 087-07.43E.
-2. CANCEL THIS MSG 031630Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>270031Z AUG 26
 HYDROPAC 2460/26.
 NORTH PACIFIC.
