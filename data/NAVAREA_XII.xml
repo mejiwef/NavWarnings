@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040721Z SEP 26
+NAVAREA XII 605/26.
+NORTH PACIFIC.
+HAWAII.
+1. HAZARDOUS OPERATIONS 091600Z TO 110400Z SEP
+   IN AREA WITHIN ONE MILE OF 21-17.48N 157-59.23W.
+2. CANCEL THIS MSG 110500Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040702Z SEP 26
+NAVAREA XII 604/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081900Z TO 090300Z SEP
+   IN AREA WITHIN ONE MILE OF 33-01.73N 118-35.32W.
+2. CANCEL THIS MSG 090400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>040430Z SEP 26
+NAVAREA XII 603/26.
+EASTERN NORTH PACIFIC.
+OREGON.
+1. USCG REMOTE COMMUNICATION FACILITY ASTORIA 
+   46-12.40N 123-57.40W MF AND HF TRANSMIT AND 
+   RECEIVE CAPABILITES OFF AIR 091400Z TO 092000Z SEP.
+2. CANCEL THIS MSG 092100Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>010757Z SEP 26
