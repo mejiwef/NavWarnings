@@ -3,6 +3,34 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>041056Z SEP 26
+HYDROPAC 2539/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z
+   DAILY 09 THRU 11 SEP IN AREA BOUND BY
+   12-50.00N 093-40.00E, 12-50.00N 094-10.00E,
+   13-00.00N 094-10.00E, 13-00.00N 093-40.00E.
+2. CANCEL THIS MSG 111130Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041051Z SEP 26
+HYDROPAC 2538/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. HAZARDOUS OPERATIONS 090230Z TO 091130Z SEP
+   IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
+   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
+2. CANCEL THIS MSG 091230Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>041026Z SEP 26
 HYDROPAC 2537/26.
 ANDAMAN SEA.
@@ -12,7 +40,8 @@ INDIA.
    080830Z TO 081030Z SEP IN AREA BOUND BY
    11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
    11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 081130Z SEP 26.</msgText>
+2. CANCEL THIS MSG 081130Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -26,7 +55,8 @@ GUAM.
    IN AREA BOUND BY
    12-50.00N 145-00.00E, 12-50.00N 145-10.00E,
    11-32.00N 146-50.33E, 11-32.00N 145-11.00E.
-2. CANCEL THIS MSG 091900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 091900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -79,7 +109,8 @@ GUAM.
    DAILY 09 THRU 11 SEP IN AREA BOUND BY
    13-45.00N 144-19.98E, 13-45.00N 144-36.00E,
    13-30.00N 144-36.00E, 13-30.00N 144-19.98E.
-2. CANCEL THIS MSG 120800Z SEP 26.</msgText>
+2. CANCEL THIS MSG 120800Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -94,7 +125,8 @@ AUSTRALIA.
    31-49.30S 115-14.70E, 31-48.30S 115-14.70E,
    31-48.30S 115-22.60E, 31-49.30S 115-22.60E.
    ONE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2515/26.</msgText>
+2. CANCEL HYDROPAC 2515/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -119,7 +151,8 @@ HYDROPAC 2529/26.
 SOUTH PACIFIC.
 PERU.
 PUNTA SAN JUAN LIGHT 15-21.70S 075-10.80W
-UNLIT.</msgText>
+UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -127,13 +160,14 @@ UNLIT.</msgText>
         <msgText>031219Z SEP 26
 HYDROPAC 2528/26.
 ARABIAN SEA.
-1. CABLE OPERATIONS  04 SEP THRU 05 OCT BY
+1. CABLE OPERATIONS 04 SEP THRU 05 OCT BY
    M/V REBECCA ALONG TRACKLINES JOINING:
    A. 09-07.39N 069-00.80E, 09-36.61N 067-13.32E.
    B. 09-59.58N 065-45.38E, 10-35.36N 063-11.19E.
    C. 10-54.17N 062-05.32E, 11-30.68N 060-00.68E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 060001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 060001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -147,7 +181,8 @@ INDIA.
    19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
    18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
    18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 201929Z SEP 26.</msgText>
+2. CANCEL THIS MSG 201929Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -160,7 +195,8 @@ GUAM.
    IN AREA BOUND BY
    12-50.00N 145-00.00E, 12-50.00N 145-10.00E,
    11-32.00N 146-50.20E, 11-32.00N 145-11.00E
-2. CANCEL THIS MSG 070300Z SEP 26.</msgText>
+2. CANCEL THIS MSG 070300Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -804,21 +840,6 @@ CORAL SEA.
 AUSTRALIA.
 RACON AT NORTH REEF LIGHT 23-11.10S 151-54.18E
 UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270044Z AUG 26
-HYDROPAC 2447/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 2200Z TO 1000Z DAILY
-   30 AUG THRU 03 SEP IN AREA BOUND BY
-   13-45.00N 144-19.59E, 13-45.00N 144-36.00E,
-   13-30.00N 144-36.00E, 13-30.00N 144-19.59E.
-2. CANCEL THIS MSG 041100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

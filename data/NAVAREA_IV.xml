@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041310Z SEP 26
+NAVAREA IV 851/26.
+NORTH ATLANTIC.
+TRINIDAD AND TOBAGO.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   140700Z SEP BY M/V OCEAN INTERVENTION II
+   ALONG TRACKLINE JOINING
+   09-57.55N 059-57.41W, 09-56.60N 060-01.53W,
+   09-58.22N 060-01.85W, 09-58.80N 060-03.08W,
+   10-03.55N 060-11.76W, 10-03.57N 060-13.57W,
+   10-05.81N 060-13.56W, 10-05.81N 060-12.34W,
+   10-06.56N 060-07.93W, 10-04.81N 060-06.34W,
+   10-04.80N 060-06.05W, 10-04.48N 060-04.10W,
+   10-02.38N 060-01.64W, 10-00.88N 060-00.38W,
+   09-59.43N 059-59.10W, 09-59.69N 059-57.72W,
+   09-58.19N 059-57.42W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 140800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>031902Z SEP 26
