@@ -23,32 +23,6 @@ NORTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>010029Z SEP 26
-NAVAREA XII 597/26.
-NORTH PACIFIC.
-1. DERELICT 12 METER VESSEL, GREY HULL,
-   PARTIALLY SUBMERGED AND ADRIFT IN
-   09-44.50N 137-14.20W AT 292320Z AUG.
-2. CANCEL THIS MSG 040029Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311728Z AUG 26
-NAVAREA XII 596/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 011800Z TO 020100Z SEP,
-   ALTERNATE 031800Z TO 040100Z SEP IN AREA BOUND BY
-   32-46.00N 120-11.00W, 32-29.00N 120-46.00W,
-   33-19.00N 121-19.00W, 33-36.00N 120-43.00W.
-2. CANCEL THIS MSG 040200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>310941Z AUG 26

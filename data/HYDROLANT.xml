@@ -212,22 +212,6 @@ REPORTS TO ANY COASTAL RADIO STATION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>291451Z AUG 26
-HYDROLANT 1705/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 030001Z TO 032359Z
-   SEP IN AREA BOUND BY
-   29-53.00N 010-15.00W, 29-53.00N 010-38.50W,
-   30-01.50N 010-35.60W, 30-09.10N 010-29.10W,
-   30-12.40N 010-21.90W, 30-13.00N 010-15.00W.
-2. CANCEL HYDROLANT 1702/26.
-3. CANCEL THIS MSG 040059Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>290136Z AUG 26
@@ -545,48 +529,6 @@ BRAZIL.
    IN 20-23.95S 040-10.83W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 041900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190929Z AUG 26
-HYDROLANT 1616/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 20 AUG THRU 03 SEP BY M/V CHARLIE 
-   AND M/V COMANDO B IN 20-24.27S 040-09.57W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 032200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190926Z AUG 26
-HYDROLANT 1615/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 20 AUG THRU 03 SEP BY M/V COMANDO B 
-   AND M/V LINDEN TRADER IN 20-22.98S 040-08.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 032200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190921Z AUG 26
-HYDROLANT 1614/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 20 AUG THRU 03 SEP BY M/V HUI AN 
-   AND M/V COMANDO B IN 20-23.17S 040-10.02W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 032200Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
