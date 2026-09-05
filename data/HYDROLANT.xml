@@ -3,6 +3,27 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>051324Z SEP 26
+HYDROLANT 1758/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 58-08.00S 047-43.00W.
+   B. D33B, 59-01.00S 051-22.00W.
+   C. A76C, 53-16.00S 026-52.00W.
+   D. D33C,  61-51.00S 054-09.00W.
+   E. 58-51.00S 048-48.00W.
+   F. 60-29.00S 052-25.00W.
+   G. 60-05.00S 051-37.00W.
+   H. 58-42.00S 049-19.00W.
+   I. 59-02.00S 048-16.00W.
+   J. 60-20.00S 051-28.00W.
+2. CANCEL THIS MSG 061400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>050452Z SEP 26
 HYDROLANT 1756/26
 SCOTIA SEA.
@@ -104,28 +125,6 @@ VIRGINIA.
    CHESAPEAKE 36-43.70N 076-00.60W MUOS CAPABILITIES 
    OFF AIR 081200Z TO 081700Z SEP.
 2. CANCEL THIS MSG 081800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>041417Z SEP 26
-HYDROLANT 1750/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 58-26.00S 047-31.00W.
-   B. D33B, 59-04.00S 051-17.00W.
-   C. A76C, 53-16.00S 027-00.00W.
-   D. D33C, 61-51.00S 054-09.00W.
-   E. 58-48.00S 048-57.00W.
-   F. 60-29.00S 052-26.00W.
-   G. 60-05.00S 051-37.00W.
-   H. 58-42.00S 049-19.00W.
-   I. 58-43.00S 048-41.00W.
-   J. 60-20.00S 051-28.00W.
-2. CANCEL THIS MSG 051424Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

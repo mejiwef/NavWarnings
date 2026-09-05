@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051138Z SEP 26
+HYDROPAC 2552/26.
+TIMOR SEA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V REACH REMOTE 2
+IN AREA BOUND BY
+11-13.00S 127-05.00E, 11-05.00S 127-40.00E,
+11-15.00S 128-15.00E, 11-35.00S 127-55.00E,
+11-50.00S 127-15.00E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>021642Z SEP 26
+HYDROPAC 2551/26
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   101724Z TO 102102Z, 111710Z TO 112048Z,
+   121656Z TO 122034Z, 131642Z TO 132020Z,
+   141628Z TO 142006Z, 151614Z TO 151952Z,
+   AND 161601Z SEP TO 161939Z IN AREA 
+   BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 162039Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>050902Z SEP 26
@@ -1022,20 +1054,6 @@ BOHOL SEA.
 PHILIPPINES.
 APO ISLAND LIGHT 09-04.98N 123-16.22E
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>241223Z AUG 26
-HYDROPAC 2425/26.
-SOUTH CHINA SEA.
-1. GUNNERY EXERCISES 290000Z TO 291300Z AUG,
-   ALTERNATE 050000Z TO 051300Z SEP
-   IN AREA BOUND BY
-   10-25.16N 114-18.56E, 10-25.28N 114-25.80E,
-   10-20.95N 114-26.08E, 10-20.20N 114-18.56E.
-2. CANCEL THIS MSG 051400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
