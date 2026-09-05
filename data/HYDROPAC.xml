@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050902Z SEP 26
+HYDROPAC 2550/26
+BAY OF BENGAL.
+INDIA.
+1. SURVEY OPERATIONS 06 THRU 14 SEP, 
+   BY VESSEL M/V ALBATROSS 37,
+   IN AREA BOUND BY
+   06-22.13N 093-43.63E, 06-04.21N 093-42.76E,
+   06-06.48N 092-54.52E, 05-37.48N 092-13.10E,
+   05-24.96N 090-46.93E, 05-35.78N 090-44.27E,
+   05-43.80N 091-57.38E, 06-23.42N 092-33.71E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 150001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050829Z SEP 26
+HYDROPAC 2549/26
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY
+   09 THRU 11 SEP 26 IN AREA BOUND BY
+   10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
+   10-50.00N 075-35.00E, 10-50.00N 075-00.00E.
+2. CANCEL THIS MSG 110900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050805Z SEP 26
+HYDROPAC 2548/26
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 070730Z TO 071130Z SEP
+   IN AREA BOUND BY
+   10-14.00N 075-20.00E, 10-14.00N 075-31.00E,
+   10-24.00N 075-31.00E, 10-24.00N 075-20.00E.
+2. CANCEL THIS MSG 071230Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030801Z SEP 26
+HYDROPAC 2547/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 1400Z TO 1359Z 
+   DAILY 10 THRU 12 SEP IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 131459Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031117Z SEP 26
+HYDROPAC 2546/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 102230Z TO 110600Z SEP
+   IN AREA BOUND BY
+   13-04.00N 145-18.00E, 13-04.00N 146-10.00E,
+   13-55.00N 146-10.00E, 13-55.00N 145-18.00E
+2. CANCEL THIS MSG 110700Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031124Z SEP 26
+HYDROPAC 2545/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 102000Z TO 102230Z SEP
+   IN AREA BOUND BY
+   13-32.00N 144-38.00E, 13-53.00N 145-02.00E,
+   14-38.00N 144-21.00E, 14-17.00N 143-57.00E
+2. CANCEL THIS MSG 102330Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>041737 SEP 26
