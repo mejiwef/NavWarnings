@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>042324Z SEP 26
+HYDROLANT 1755/26.
+WESTERN MEDITERRANEAN SEA.
+TUNISIA.
+CABLE OPERATIONS 051200Z SEP
+UNTIL FURTHER NOTICE BY M/V MAASVLIET
+ALONG TRACKLINE JOINING
+38-03.60N 010-59.76E, 38-03.00N 010-59.12E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041822Z SEP 26
