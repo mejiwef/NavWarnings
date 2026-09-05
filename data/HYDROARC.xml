@@ -3,6 +3,17 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>051646Z SEP 26
+HYDROARC 215/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED IN 78-29.70N 106-40.30E 
+   AT 051601Z SEP.
+2. CANCEL THIS MSG 081653Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>051436Z SEP 26
 HYDROARC 214/26.
 ARCTIC.
@@ -148,25 +159,6 @@ NORWAY.
       78-03.47N 004-13.39W, 76-01.02N 002-00.03E,
       73-32.12N 007-12.24E, 70-30.12N 011-37.50E.
 2. CANCEL THIS MSG 102235Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>311832Z AUG 26
-HYDROARC 197/26
-BARENTS SEA.
-WHITE SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0100Z TO 1400Z DAILY
-   04 AND 05 SEP IN AREAS BOUND BY:
-   A. 69-22.00N 037-56.00E, 68-58.00N 041-58.00E,
-      67-59.00N 044-09.00E, 66-58.00N 044-24.00E,
-      66-53.00N 044-09.00E, 68-22.00N 041-02.00E,
-      68-42.00N 038-33.00E, 68-58.00N 037-36.00E.
-   B. 67-32.00N 045-06.00E, 67-18.00N 045-33.00E,
-      67-13.00N 045-16.00E, 67-20.00N 044-55.00E.
-2. CANCEL THIS MSG 051500Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

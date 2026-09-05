@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051623Z SEP 26
+HYDROLANT 1759/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 080001Z TO 090001Z SEP
+   IN AREA BOUND BY
+   29-53.00N 010-15.00W, 29-53.00N 010-38.50W,
+   30-01.50N 010-35.60W, 30-09.10N 010-29.10W,
+   30-12.40N 010-21.90W, 30-13.00N 010-15.00W.
+2. CANCEL THIS MSG 090100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>051324Z SEP 26
@@ -209,18 +223,6 @@ BRAZIL.
    UNLIT UNTIL 01 MAR 27.
 2. CANCEL HYDROLANT 492/26.
 3. CANCEL THIS MSG 020001Z MAR 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>021547Z SEP 26
-HYDROLANT 1738/26.
-ROMANIA.
-1. OBJECT ADRIFT IN 44-31.22N 029-33.85E
-   AT 020750Z SEP.
-2. CANCEL HYDROLANT 1736/26.
-3. CANCEL THIS MSG 051548Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -494,20 +496,6 @@ NORTH ATLANTIC.
    D. 04-29.00N 033-35.00W, 03-51.00N 028-17.00W,
       02-45.00N 028-25.00W, 03-23.00N 033-42.00W.
 2. CANCEL THIS MSG 070100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211042Z AUG 26
-HYDROLANT 1639/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 22 AUG THRU 05 SEP BY M/V COMANDO B
-   AND M/V TRUE CHARIOT IN 20-18.87S 040-08.17W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 051900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

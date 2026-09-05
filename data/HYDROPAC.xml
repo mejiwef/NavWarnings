@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051652Z SEP 26
+HYDROPAC 2553/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 101200Z TO 101700Z
+   AND 111200Z TO 111700Z SEP IN AREA BOUND BY
+   40-05.00S 074-08.00W, 40-05.00S 073-55.00W,
+   40-15.00S 073-55.00W, 40-15.00S 074-08.00W.
+2. CANCEL THIS MSG 111800Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051138Z SEP 26
