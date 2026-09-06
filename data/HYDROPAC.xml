@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061149Z SEP 26
+HYDROPAC 2558/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+1. HAZARDOUS OPERATIONS 2200Z TO 1359Z DAILY
+   11 AND 12 SEP IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
+   15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+2. CANCEL THIS MSG 131459Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>060728Z SEP 26
@@ -254,22 +269,6 @@ INDIA.
    09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
    09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
 2. CANCEL THIS MSG 281300Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>041638Z SEP 26
-HYDROPAC 2541/26.
-EASTERN INDIAN OCEAN.
-REUNION.
-1. HAZARDOUS OPERATIONS 060400Z TO 061400Z SEP
-   IN AREAS BOUND BY:
-   A. 21-30.75S 055-05.27E, 21-07.73S 054-56.99E,
-      21-16.18S 054-22.72E, 21-45.69S 054-32.38E.
-   B. 21-16.18S 054-22.72E, 21-45.69S 054-32.38E,
-      22-00.24S 053-59.99E, 21-24.54S 053-48.27E.
-2. CANCEL THIS MSG 061500Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -902,25 +901,6 @@ CORAL SEA.
 AUSTRALIA.
 EDEN REEF LIGHT 
 IN 14-04.63S 143-55.01E UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270031Z AUG 26
-HYDROPAC 2460/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 1400Z TO 1359Z  
-   DAILY 01 THRU 05 SEP IN AREAS BOUND BY:
-   A. 12-49.98N 145-00.00E, 12-49.98N 145-10.00E,
-      11-25.00N 147-00.00E, 10-30.00N 147-00.00E,
-      10-30.00N 145-19.98E.
-   B. 13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-      12-49.98N 144-45.00E, 10-30.00N 144-45.00E,
-      10-30.00N 143-00.00E, 11-45.00N 143-00.00E,
-      12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 061459Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

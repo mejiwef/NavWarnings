@@ -90,20 +90,6 @@ HYDROARC 211/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031255Z SEP 26
-HYDROARC 208/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 031212Z SEP IN: 
-   A. 78-00.50N 112-31.00E.
-   B. 76-21.50N 116-23.80E.
-   C. 75-58.20N 112-41.10E.
-2. CANCEL THIS MSG 061300Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>021741Z SEP 26
