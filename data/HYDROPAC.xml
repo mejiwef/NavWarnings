@@ -3,6 +3,34 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>030904Z SEP 26
+HYDROPAC 2555/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 110001Z TO 110600Z SEP
+   IN AREA BOUND BY
+   12-49.00N 146-15.00E, 12-49.00N 146-52.00E,
+   14-01.00N 146-52.00E, 14-01.00N 146-15.00E.
+2. CANCEL THIS MSG 110700Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030842Z SEP 26
+HYDROPAC 2554/26.
+NORTH PACIFIC.
+GUAM.
+NORTHERN MARIANA ISLANDS.
+1. HAZARDOUS OPERATIONS 112200Z TO 121359Z 
+   AND 121400Z TO 130200Z SEP
+   IN AREA BOUND BY
+   13-04.00N 145-18.00E, 13-04.00N 147-02.00E,
+   13-55.00N 147-02.00E, 13-55.00N 145-18.00E.
+2. CANCEL THIS MSG 130300Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>051652Z SEP 26
 HYDROPAC 2553/26.
 SOUTH PACIFIC.
