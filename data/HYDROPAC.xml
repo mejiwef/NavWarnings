@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>061733Z SEP 26
+HYDROPAC 2560/26.
+SOUTH CHINA SEA.
+F/V LD 95888 TS, 21 PERSONS ONBOARD, 
+DISABLED AND ADRIFT DUE TO ENGINE FAILURE 
+IN VICINITY 10-52.73N 111-20.00E AT 060600Z SEP. 
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>061626Z SEP 26
+HYDROPAC 2559/26.
+EASTERN INDIAN OCEAN.
+1. DERELICT F/V SAJIRA ADRIFT IN VICINITY 06-55.40S 060-46.40E.
+2. CANCEL THIS MSG 091630Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>061149Z SEP 26
