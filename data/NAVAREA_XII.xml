@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>071842Z SEP 26
+NAVAREA XII 612/26.
+NORTH PACIFIC.
+COLOMBIA.
+ISLA PALMAS LIGHT 03-54.10N 077-21.51W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>060854Z SEP 26
