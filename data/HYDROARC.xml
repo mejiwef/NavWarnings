@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>070856Z SEP 26
+HYDROARC 218/26.
+KARA SEA.
+RUSSIA.
+SCIENTIFIC MOORINGS REPORTED IN: 
+A. 67-17.87N 072-40.37E.
+B. 67-20.38N 072-46.96E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>061556Z SEP 26

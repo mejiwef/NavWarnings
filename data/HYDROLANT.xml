@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070948Z SEP 26
+HYDROLANT 1778/26.
+BLACK SEA.
+TURKEY.
+1. SURVEY OPERATIONS 08 SEP THRU 01 OCT 
+   BY M/V KARADENIZ ARASTIRMA, 
+   M/V BARBAROS HAYREDDIN PASA AND 
+   M/V TANUX-1 IN AREA BOUND BY
+   42-20.65N 031-59.85E, 42-20.73N 033-14.63E,
+   42-42.03N 033-14.72E, 43-16.32N 032-46.77E,
+   43-20.30N 031-59.70E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 020001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SAR OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070910Z SEP 26
+HYDROLANT 1776/26.
+BLACK SEA.
+ROMANIA.
+1. SEARCH AND RESCUE OPERATIONS 080500Z TO 081400Z SEP 
+   IN AREA BOUND BY
+   44-00.00N 028-40.00E, 44-00.00N 028-50.00E,
+   43-52.00N 028-50.00E, 43-52.00N 028-40.00E. 
+2. CANCEL THIS MSG 081500Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070613Z SEP 26
+HYDROLANT 1774/26.
+NORTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   19 SEP BY M/V AMAZON WARRIOR, 
+   M/V VENTURE G AND M/V BIG JOHN VII 
+   TOWING 12 10000 METER LONG CABLES 
+   IN AREA BOUND BY
+   04-33.71N 050-01.26W, 05-42.36N 048-58.13W,
+   03-02.99N 046-18.20W, 01-59.67N 047-14.09W,
+   02-02.36N 047-18.50W, 02-05.99N 047-20.75W,
+   02-07.44N 047-21.64W, 02-33.17N 047-37.51W,
+   02-41.94N 047-47.84W, 02-54.27N 047-55.54W,
+   03-10.64N 048-13.68W, 03-17.80N 048-17.87W,
+   03-34.64N 048-37.52W, 03-48.19N 048-54.43W,
+   03-56.43N 049-06.33W, 04-07.01N 049-23.23W,
+   04-15.75N 049-43.94W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 200001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>070422Z SEP 26
+HYDROLANT 1772/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-25.80S 101-35.40W.
+   B. A85, 62-24.60S 053-55.20W.
+   C. D33A, 64-01.80S 055-36.00W.
+   D. D33C, 61-51.00S 054-09.60W.
+2. CANCEL THIS MSG 080422Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>062313Z SEP 26
@@ -306,21 +376,6 @@ ROMANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNREPORTED</category>
-        <status>INFORCE</status>
-        <msgText>010128Z SEP 26
-HYDROLANT 1726/26.
-NORTH ATLANTIC.
-1. F/V SE PESCADOS, SIX PERSONS ON BOARD,
-   UNREPORTED. LAST KNOWN POSITION IN VICINITY 
-   00-34.88N 038-24.10W ON 27 AUG.
-   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-   LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 1714/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>301542Z AUG 26
@@ -604,16 +659,6 @@ RANGE REDUCED TO 12 MILES.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>041634Z AUG 26
-HYDROLANT 1503/26.
-NORTH ATLANTIC.
-MOROCCO.
-EL HANK LIGHT 33-36.60N 007-39.28W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>null</category>
         <status>INFORCE</status>
         <msgText>311600Z JUL
@@ -648,17 +693,6 @@ HYDROLANT 1481/26.
 3. CANCEL HYDROLANT 1273/25,1125/26,1424/26,1428/26, 1480/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>301236Z JUL 26
-HYDROLANT 1471/26.
-EASTERN MEDITERRANEAN SEA.
-EGYPT.
-NAVTEX STATION ALEXANDRIA (N) 
-31-11.92N 029-51.86E OFF AIR. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>290847Z JUL 26
@@ -686,16 +720,6 @@ SOUTH ATLANTIC.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1456/26.
 3. CANCEL THIS MSG 060500Z JUN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>271703Z JUL 26
-HYDROLANT 1448/26
-ENGLISH CHANNEL.
-ENGLAND. 
-FOWEY LIGHT 50-19.60N 004-38.90W UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

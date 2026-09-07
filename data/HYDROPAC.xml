@@ -1,19 +1,114 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071105Z SEP 26
+HYDROPAC 2574/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 102330Z TO 110330Z SEP 
+   IN AREA BOUND BY
+   11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
+   11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
+2. CANCEL THIS MSG 110430Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071101Z SEP 26
+HYDROPAC 2573/26.
+ANDAMAN SEA.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 1430Z TO 1800Z 
+   DAILY 08 THRU 11 SEP IN AREA BOUND BY
+   08-21.00N 091-30.10E, 06-47.40N 091-39.10E,
+   07-10.50N 093-59.50E, 07-42.40N 093-59.40E.
+2. CANCEL THIS MSG 111900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071045Z SEP 26
+HYDROPAC 2572/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 091230Z TO 091530Z SEP 
+   IN AREA BOUND BY
+   14-47.00N 073-01.00E, 14-47.00N 073-11.00E,
+   14-57.00N 073-11.00E, 14-57.00N 073-01.00E.
+2. CANCEL THIS MSG 091630Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071040Z SEP 26
+HYDROPAC 2571/26.
+BAY OF BENGAL.
+1. HAZARDOUS OPERATIONS 080530Z TO 081430Z SEP
+   IN AREA BOUND BY
+   12-59.80N 086-28.60E, 13-51.30N 087-32.80E,
+   12-33.10N 088-37.10E, 11-41.30N 087-32.20E.
+2. CANCEL THIS MSG 081530Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071033Z SEP 26
+HYDROPAC 2570/26.
+ARABIAN SEA.
+INDIA.
+1. CABLE OPERATIONS 08 SEP THRU 23 OCT 
+   BY C/S TENEO IN AREA BOUND BY
+   19-00.68N 072-38.37E, 19-00.53N 072-38.95E,
+   18-59.27N 072-38.66E, 18-59.06N 072-37.36E,
+   18-59.60N 072-37.34E, 18-59.73N 072-38.05E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030913Z SEP 26
+HYDROPAC 2569/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 121400Z TO 131359Z SEP
+   IN AREA BOUND BY
+   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
+   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-49.98N 144-30.00E.
+2. CANCEL THIS MSG 131459Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>070547Z SEP 26
+HYDROPAC 2568/26.
+CORAL SEA.
+NEW CALEDONIA.
+1. GUNNERY EXERCISES 071930Z TO 090400Z SEP
+   IN AREA WITHIN TEN MILES OF 
+   22-42.00S 166-00.00E.
+2. CANCEL THIS MSG 090500Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
-        <msgText>070143Z SEP 26
-HYDROPAC 2563/26.
+        <msgText>070433Z SEP 26
+HYDROPAC 2564/26.
 SOUTH CHINA SEA.
 VIETNAM.
-1. F/V QNG 95068 TS, 14 PERSONS ON BOARD,
-   DISABLED AND ADRIFT IN 11-59.00N 110-00.00E
-   AT 061730Z SEP. VESSELS IN VICINITY REQUESTED
+1. F/V QNG 95068 TS, 13 PERSONS ON BOARD, 
+   DISABLED AND ADRIFT IN 12-01.00N 110-03.00E
+   AT 070136Z SEP. VESSELS IN VICINITY REQUESTED 
    TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
    REPORTS TO MRCC VIETNAM,
    EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 2562/26.</msgText>
+2. CANCEL HYDROPAC 2563/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -569,22 +664,6 @@ GUAM.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>030819Z SEP 26
-HYDROPAC 2521/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 070300Z TO 070700Z SEP
-   IN AREA BOUND BY
-   13-10.00N 144-30.00E, 13-10.00N 144-41.98E,
-   12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 070800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>030741Z SEP 26
 HYDROPAC 2519/26.
 NORTH PACIFIC.
@@ -812,25 +891,6 @@ KAMCHATKA.
    50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
    52-06.00N 154-14.00E.
 2. CANCEL THIS MSG 121000Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>281658Z AUG 26
-HYDROPAC 2488/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   051300Z TO 051738Z, 061246Z TO 061724Z,  
-   071232Z TO 071710Z, 081217Z TO 081655Z,  
-   091203Z TO 091641Z, 101148Z TO 101626Z 
-   AND 111134Z TO 111612Z SEP 
-   IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 111712Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1730,17 +1790,6 @@ SOUTH PACIFIC.
 MOOREA.
 POINTE AROA LIGHT 17-28.40S 149-46.50W
 UNLIT.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>040651Z APR 26
-HYDROPAC 1015/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-MOORING BUOY, FL W, IN VICINITY 20-16.32S 116-16.58E 
-SEMI-SUMERGED.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
