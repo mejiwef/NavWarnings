@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>080730Z SEP 26
+HYDROPAC 2583/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+TEMPORARILY ESTABLISHED IN AREA WITHIN 
+TWO MILES OF 38-41.03S 142-49.49E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>VOLCANIC ACTIVITY</category>
         <status>INFORCE</status>
         <msgText>080310Z SEP 26
@@ -140,22 +152,6 @@ NEW CALEDONIA.
    IN AREA WITHIN TEN MILES OF 
    22-42.00S 166-00.00E.
 2. CANCEL THIS MSG 090500Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>070433Z SEP 26
-HYDROPAC 2564/26.
-SOUTH CHINA SEA.
-VIETNAM.
-1. F/V QNG 95068 TS, 13 PERSONS ON BOARD, 
-   DISABLED AND ADRIFT IN 12-01.00N 110-03.00E
-   AT 070136Z SEP. VESSELS IN VICINITY REQUESTED 
-   TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-   REPORTS TO MRCC VIETNAM,
-   EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-2. CANCEL HYDROPAC 2563/26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -621,20 +617,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>031030Z SEP 26
-HYDROPAC 2525/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 072100Z TO 072300Z
-   AND 080100Z TO 080300Z IN AREA BOUND BY
-   13-36.00N 143-07.00E, 12-56.00N 143-15.00E,
-   13-06.00N 144-07.00E, 13-16.00N 144-25.00E,
-   13-29.00N 144-24.00E.
-2. CANCEL THIS MSG 080400Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>030941Z SEP 26
 HYDROPAC 2524/26.
 NORTH PACIFIC.
@@ -756,24 +738,6 @@ UNDERWATER OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY M/V SKANDI HERCULES
 IN 19-38.90S 115-55.60E.
 FIVE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>021215Z SEP 26
-HYDROPAC 2510/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1800Z TO 2000Z DAILY 07 AND 08 SEP
-   IN AREA BOUND BY
-   32-17.00S 164-26.00W, 37-09.00S 157-47.00W,
-   45-31.00S 140-26.00W, 48-34.00S 129-27.00W,
-   50-36.00S 109-00.00W, 52-39.00S 108-38.00W,
-   52-11.00S 127-15.00W, 50-11.00S 139-30.00W,
-   43-13.00S 157-53.00W, 38-40.00S 166-30.00W,
-   35-48.00S 165-42.00W.
-2. CANCEL THIS MSG 082100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

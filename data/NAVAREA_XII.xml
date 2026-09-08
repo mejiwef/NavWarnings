@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>080927Z SEP 26
+NAVAREA XII 614/26.
+NORTH PACIFIC.
+HAWAII.
+USCG REMOTE COMMUNICATION FACILITY 
+HONOLULU 21-26.10N 158-08.70W RECEPTION 
+CAPABILITIES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>071842Z SEP 26

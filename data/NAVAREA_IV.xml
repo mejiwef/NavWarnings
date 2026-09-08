@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>052223Z SEP 26
+NAVAREA IV 862/26.
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2134Z TO 2357Z DAILY 13 THRU 19 SEP   
+   IN AREA BOUND BY
+   08-58.00N 050-28.00W, 08-06.00N 047-28.00W,
+   03-21.00N 032-11.00W, 00-57.00N 032-55.00W,
+   05-44.00N 048-12.00W.
+2. CANCEL THIS MSG 200057Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>072122Z SEP 26
+NAVAREA IV 861/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   131840Z TO 132110Z SEP, ALTERNATE
+   1840Z TO 2110Z DAILY 14 THRU 19 SEP
+   IN AREAS BOUND BY:
+   A. 29-16.00N 075-11.00W, 29-35.00N 072-08.00W,
+      29-21.00N 071-15.00W, 28-38.00N 071-15.00W,
+      28-19.00N 072-12.00W, 28-46.00N 075-11.00W.
+   B. 28-36.52N 080-35.63W, 28-39.00N 080-29.00W,
+      28-39.00N 080-06.00W, 28-33.00N 080-06.00W,
+      28-31.00N 080-22.00W, 28-31.00N 080-33.28W.
+2. CANCEL THIS MSG 192210Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>071912Z SEP 26
