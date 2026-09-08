@@ -213,29 +213,6 @@ WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>232151Z AUG 26
-NAVAREA XII 575/26.
-NORTH PACIFIC.
-1. CABLE OPERATIONS 271500Z AUG
-   TO 110800Z SEP BY M/V GRACE WITHIN
-   THREE MILES OF TRACKLINES JOINING:
-   A. 44-16.46N 128-51.90W, 44-22.13N 129-08.89W,
-      44-35.35N 129-49.20W, 44-35.35N 129-49.20W,
-      44-36.80N 129-53.69W.
-   B. 44-16.46N 128-51.90W, 44-15.75N 128-49.48W,
-      44-15.75N 128-49.47W, 44-11.35N 128-36.11W,
-      44-03.67N 128-12.61W, 44-03.63N 128-12.49W.
-   C. 43-39.45N 127-02.70W, 43-45.62N 127-19.49W.
-   D. 43-39.45N 127-02.70W, 43-38.50N 127-00.00W,
-      43-29.57N 126-31.35W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 523/26.
-3. CANCEL THIS MSG 110900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>162213Z JUL 26
