@@ -3,6 +3,17 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>081223Z SEP 26
+HYDROARC 220/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED IN 76-59.60N 112-52.40E.
+2. CANCEL THIS MSG 111400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>071600Z SEP 26
 HYDROARC 219/26.
 LAPTEV SEA.
@@ -21,7 +32,8 @@ RUSSIA.
    K. 76-36.60N 118-50.20E.
    L. 76-30.50N 118-52.60E.
    M. 76-24.60N 119-33.20E.
-2. CANCEL THIS MSG 101000Z SEP 26.</msgText>
+2. CANCEL THIS MSG 101000Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBSTRUCTION</category>
@@ -33,7 +45,8 @@ RUSSIA.
 SCIENTIFIC MOORINGS REPORTED IN: 
 A. 67-17.87N 072-40.37E.
 B. 67-20.38N 072-46.96E.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -42,20 +55,12 @@ WIDE BERTH REQUESTED.</msgText>
 HYDROARC 217/26.
 LAPTEV SEA.
 RUSSIA.
-1. ICEBERGS REPORTED IN AREA BOUND BY
+1. ICEBERGS REPORTED AT 061355Z SEP
+   IN AREA BOUND BY
    79-27.40N 106-59.10E, 76-45.90N 119-55.50E,
    75-51.30N 124-51.30E, 77-44.60N 099-52.70E.
-2. CANCEL THIS MSG 091400Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>060653Z SEP 26
-HYDROARC 216/26.
-GREENLAND SEA.
-NORWEGIAN SEA.
-NORWAY.
-CANCEL HYDROARC 199/26 AND THIS MSG.</msgText>
+2. CANCEL THIS MSG 091400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -66,33 +71,8 @@ LAPTEV SEA.
 RUSSIA.
 1. ICEBERG REPORTED IN 78-29.70N 106-40.30E 
    AT 051601Z SEP.
-2. CANCEL THIS MSG 081653Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051436Z SEP 26
-HYDROARC 214/26.
-ARCTIC.
-KARA SEA.
-RUSSIA.
-1. ICEBERGS REPORTED ON 051319Z SEP IN: 
-   A. 81-04.80N 089-16.00E.
-   B. 81-03.30N 089-01.60E.
-   C. 80-25.60N 103-33.20E.
-   D. 80-11.80N 102-26.30E.
-2. CANCEL THIS MSG 081443Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051431Z SEP 26
-HYDROARC 213/26.
-KARA SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 78-14.80N 096-10.90E AT 
-   051342Z SEP.
-2. CANCEL THIS MSG 081438Z SEP 26.</msgText>
+2. CANCEL THIS MSG 081653Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>

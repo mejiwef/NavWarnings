@@ -31,7 +31,8 @@ FLORIDA.
    B. 28-36.52N 080-35.63W, 28-39.00N 080-29.00W,
       28-39.00N 080-06.00W, 28-33.00N 080-06.00W,
       28-31.00N 080-22.00W, 28-31.00N 080-33.28W.
-2. CANCEL THIS MSG 192210Z SEP 26.</msgText>
+2. CANCEL THIS MSG 192210Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -64,7 +65,8 @@ NAVAREA IV 860/26.
 8. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-9. CANCEL THIS MSG 090001Z SEP 26.</msgText>
+9. CANCEL THIS MSG 090001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -73,10 +75,11 @@ NAVAREA IV 860/26.
 NAVAREA IV 859/26.
 CARIBBEAN SEA.
 COLOMBIA.
-ISLA FUERTE LIGHT 09-23.45N 076-10.68W UNLIT.</msgText>
+ISLA FUERTE LIGHT 09-23.45N 076-10.68W UNLIT.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
+        <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>061639Z SEP 26
 NAVAREA IV 857/26.
@@ -84,7 +87,8 @@ WESTERN NORTH ATLANTIC.
 FLORIDA.
 1. NAVTEX STATION MIAMI (A) 25-30.00N 080-23.00W 
    INOPERATIVE.  
-2. CANCEL NAVAREA IV 802/26.</msgText>
+2. CANCEL NAVAREA IV 802/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
