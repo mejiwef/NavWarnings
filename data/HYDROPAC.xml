@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>081552Z SEP 26
-HYDROPAC 2589/26.
-STRAIT OF HORMUZ.
-IRAN.
-CANCEL HYDROPAC 2503/26, HYDROPAC 2558/26 AND THIS MSG.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081206Z SEP 26
@@ -33,8 +24,9 @@ INDIA.
    IN AREA BOUND BY
    14-35.00N 073-10.50E, 14-31.00N 073-05.03E,
    14-38.83N 073-02.00E, 14-42.67N 073-07.00E.
-2. CANCEL HYDROPAC 2265/26 AND HYDROPAC 2572/26.
-3. CANCEL THIS MSG 091630Z SEP 26.</msgText>
+2. CANCEL HYDROPAC 2265/26 AND 2572/26.
+3. CANCEL THIS MSG 091630Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -47,7 +39,8 @@ LAKSHADWEEP.
    IN AREA BOUND BY
    10-33.32N 072-38.05E, 10-32.54N 072-38.72E,
    10-31.92N 072-37.90E, 10-32.60N 072-37.25E.
-2. CANCEL THIS MSG 110530Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110530Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -62,7 +55,8 @@ INDIA.
    08-21.00N 091-30.10E, 06-47.40N 091-39.10E,
    07-10.50N 093-59.50E, 07-42.40N 093-59.40E.
 2. CANCEL HYDROPAC 2573/26. 
-3. CANCEL THIS MSG 111330Z SEP 26.</msgText>
+3. CANCEL THIS MSG 111330Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -75,7 +69,8 @@ INDIA.
    IN AREA BOUND BY
    11-04.60N 092-57.20E, 11-04.60N 093-14.30E,
    11-25.30N 093-14.30E, 11-25.30N 092-57.20E.
-2. CANCEL THIS MSG 110600Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110600Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -87,7 +82,8 @@ AUSTRALIA.
 12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
 TEMPORARILY ESTABLISHED IN AREA WITHIN 
 TWO MILES OF 38-41.03S 142-49.49E.
-THREE MILE BERTH REQUESTED.</msgText>
+THREE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>VOLCANIC ACTIVITY</category>
@@ -111,10 +107,11 @@ AUSTRALIA.
 TWO SIX METER BUOYS, YELLOW, FL W 3 SEC,
 TEMPORARILY ESTABLISHED IN AREA WITHIN
 ONE MILE OF 38-47.19S 142-36.00E.
-THREE MILE BERTH REQUESTED.</msgText>
+THREE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
+        <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>071923Z SEP 26
 HYDROPAC 2577/26.
@@ -123,7 +120,8 @@ GUAM.
 1. USCG REMOTE COMMUNICATION FACILITY GUAM
    13-29.00N 144-50.00E HF NAVTEX AND VOBRA
    SERVICES OFF AIR.
-2. CANCEL HYDROPAC 2458/26.</msgText>
+2. CANCEL HYDROPAC 2458/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -131,11 +129,12 @@ GUAM.
         <msgText>071456Z SEP 26
 HYDROPAC 2576/26.
 GULF OF OMAN.
-U.A.E..
+U.A.E.
 1. UNDERWATER OPERATIONS 08 THRU 10 SEP 
    BY VESSEL WISH WAY IN 25-11.30N 056-24.40E.
-   1 MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z SEP 26.</msgText>
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -148,7 +147,8 @@ INDIA.
    IN AREA BOUND BY
    11-15.00N 092-31.00E, 11-14.00N 092-46.00E,
    11-10.00N 092-46.00E, 11-07.00N 092-32.00E.
-2. CANCEL THIS MSG 110430Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110430Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -163,7 +163,8 @@ INDIA.
    18-59.27N 072-38.66E, 18-59.06N 072-37.36E,
    18-59.60N 072-37.34E, 18-59.73N 072-38.05E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 240001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 240001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -178,7 +179,8 @@ GUAM.
    12-49.98N 144-45.00E, 11-00.00N 144-45.00E,
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
-2. CANCEL THIS MSG 131459Z SEP 26.</msgText>
+2. CANCEL THIS MSG 131459Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -198,10 +200,10 @@ NEW CALEDONIA.
         <msgText>062131Z SEP 26
 HYDROPAC 2561/26
 EASTERN INDIAN OCEAN.
-1. DERELICT 13 METER VESSEL,
-   PARTIALLY SUBMERGED AND ADRIFT
-   IN 12-06.20S 114-19.47E AT 061100Z SEP.
-2. CANCEL THIS MSG 092131Z SEP 26.</msgText>
+1. DERELICT 13 METER VESSEL PARTIALLY SUBMERGED
+   AND ADRIFT IN 12-06.20S 114-19.47E AT 061100Z SEP.
+2. CANCEL THIS MSG 092131Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -209,8 +211,10 @@ EASTERN INDIAN OCEAN.
         <msgText>061626Z SEP 26
 HYDROPAC 2559/26.
 EASTERN INDIAN OCEAN.
-1. DERELICT F/V SAJIRA ADRIFT IN VICINITY 06-55.40S 060-46.40E.
-2. CANCEL THIS MSG 091630Z SEP 26.</msgText>
+1. DERELICT F/V SAJIRA ADRIFT IN VICINITY
+   06-55.40S 060-46.40E.
+2. CANCEL THIS MSG 091630Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -229,7 +233,7 @@ NORTHERN MARIANA ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
+        <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>060728Z SEP 26
 HYDROPAC 2557/26.
@@ -254,7 +258,8 @@ NORTHERN MARIANA ISLANDS.
    17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
    15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
    15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
-2. CANCEL THIS MSG 131459Z SEP 26.</msgText>
+2. CANCEL THIS MSG 131459Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -267,7 +272,8 @@ GUAM.
    IN AREA BOUND BY
    12-49.00N 146-15.00E, 12-49.00N 146-52.00E,
    14-01.00N 146-52.00E, 14-01.00N 146-15.00E.
-2. CANCEL THIS MSG 110700Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110700Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -282,7 +288,8 @@ NORTHERN MARIANA ISLANDS.
    IN AREA BOUND BY
    13-04.00N 145-18.00E, 13-04.00N 147-02.00E,
    13-55.00N 147-02.00E, 13-55.00N 145-18.00E.
-2. CANCEL THIS MSG 130300Z SEP 26.</msgText>
+2. CANCEL THIS MSG 130300Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -295,7 +302,8 @@ CHILE.
    AND 111200Z TO 111700Z SEP IN AREA BOUND BY
    40-05.00S 074-08.00W, 40-05.00S 073-55.00W,
    40-15.00S 073-55.00W, 40-15.00S 074-08.00W.
-2. CANCEL THIS MSG 111800Z SEP 26.</msgText>
+2. CANCEL THIS MSG 111800Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -309,7 +317,8 @@ IN AREA BOUND BY
 11-13.00S 127-05.00E, 11-05.00S 127-40.00E,
 11-15.00S 128-15.00E, 11-35.00S 127-55.00E,
 11-50.00S 127-15.00E.
-TWO MILE BERTH REQUESTED.</msgText>
+TWO MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -321,13 +330,13 @@ SOUTH PACIFIC.
    101724Z TO 102102Z, 111710Z TO 112048Z,
    121656Z TO 122034Z, 131642Z TO 132020Z,
    141628Z TO 142006Z, 151614Z TO 151952Z,
-   AND 161601Z SEP TO 161939Z IN AREA 
-   BOUND BY
+   AND 161601Z TO 161939Z SEP IN AREA BOUND BY
    27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
    38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 162039Z SEP 26.</msgText>
+2. CANCEL THIS MSG 162039Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -336,15 +345,15 @@ SOUTH PACIFIC.
 HYDROPAC 2550/26
 BAY OF BENGAL.
 INDIA.
-1. SURVEY OPERATIONS 06 THRU 14 SEP, 
-   BY VESSEL M/V ALBATROSS 37,
-   IN AREA BOUND BY
+1. SURVEY OPERATIONS 06 THRU 14 SEP
+   BY M/V ALBATROSS 37 IN AREA BOUND BY
    06-22.13N 093-43.63E, 06-04.21N 093-42.76E,
    06-06.48N 092-54.52E, 05-37.48N 092-13.10E,
    05-24.96N 090-46.93E, 05-35.78N 090-44.27E,
    05-43.80N 091-57.38E, 06-23.42N 092-33.71E.
    TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z SEP 26.</msgText>
+2. CANCEL THIS MSG 150001Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -357,7 +366,8 @@ INDIA.
    09 THRU 11 SEP 26 IN AREA BOUND BY
    10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
    10-50.00N 075-35.00E, 10-50.00N 075-00.00E.
-2. CANCEL THIS MSG 110900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 110900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -795,22 +805,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>011425Z SEP 26
-HYDROPAC 2505/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1134Z TO 1738Z DAILY 05 THRU 11 SEP
-   IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 111838Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>011416Z SEP 26
@@ -978,18 +972,6 @@ CORAL SEA.
 AUSTRALIA.
 15 METER VESSEL CAPSIZED IN 
 28-12.40S 153-38.00E AT 270650Z AUG.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>272152Z AUG 26
-HYDROPAC 2458/26.
-NORTH PACIFIC.
-GUAM.
-USCG REMOTE COMMUNICATION FACILITY GUAM
-13-29.00N 144-50.00E HF NAVTEX AND SITOR
-SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

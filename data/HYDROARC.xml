@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081758Z SEP 26
+HYDROARC 221/26.
+BARENTS SEA.
+KARA SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0200Z TO 1400Z 
+   DAILY 12 AND 13 SEP IN AREA BOUND BY
+   67-19.00N 045-00.00E, 67-48.70N 046-34.00E,
+   67-51.00N 046-42.00E, 68-18.00N 048-13.00E,
+   70-13.00N 055-43.00E, 70-21.00N 059-21.00E,
+   69-50.00N 060-49.00E, 69-21.90N 060-29.00E,
+   69-55.00N 058-51.00E, 69-48.00N 056-12.00E,
+   67-57.00N 049-03.00E, 67-51.00N 048-46.20E,
+   67-50.20N 048-44.00E, 67-38.00N 048-04.00E,
+   67-34.00N 047-51.00E, 66-56.00N 045-47.00E.
+2. CANCEL THIS MSG 131500Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>081223Z SEP 26
@@ -60,18 +81,6 @@ RUSSIA.
    79-27.40N 106-59.10E, 76-45.90N 119-55.50E,
    75-51.30N 124-51.30E, 77-44.60N 099-52.70E.
 2. CANCEL THIS MSG 091400Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051646Z SEP 26
-HYDROARC 215/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 78-29.70N 106-40.30E 
-   AT 051601Z SEP.
-2. CANCEL THIS MSG 081653Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

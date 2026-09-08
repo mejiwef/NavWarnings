@@ -252,19 +252,6 @@ HYDROLANT 1753/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>041446Z SEP 26
-HYDROLANT 1751/26.
-NORTH ATLANTIC.
-VIRGINIA.
-1. USCG REMOTE COMMUNICATION FACILITY
-   CHESAPEAKE 36-43.70N 076-00.60W MUOS CAPABILITIES 
-   OFF AIR 081200Z TO 081700Z SEP.
-2. CANCEL THIS MSG 081800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>031333Z SEP 26
