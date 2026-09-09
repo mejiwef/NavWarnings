@@ -3,6 +3,33 @@
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>090157Z SEP 26
+HYDROARC 223/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0200Z TO 1500Z DAILY
+   11 THRU 13 SEP IN AREA BOUND BY
+   69-53.00N 032-57.00E, 70-07.00N 032-57.00E,
+   70-07.00N 035-20.00E, 69-15.00N 035-20.00E.
+2. CANCEL THIS MSG 131600Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GPS JAMMING</category>
+        <status>INFORCE</status>
+        <msgText>082102Z SEP 26
+HYDROARC 222/26.
+NORWEGIAN SEA.
+NORWAY.
+1. GPS JAMMING EXERCISES 0600Z TO 1600Z
+   DAILY 09 THRU 18 AND 1600Z TO 2000Z
+   DAILY 15 AND 16 SEP IN AREA BOUND BY
+   69-50.40N 013-42.00E, 69-49.80N 016-15.60E,
+   69-07.20N 016-23.40E, 68-39.00N 013-25.80E.
+2. CANCEL THIS MSG 181700Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>081758Z SEP 26
 HYDROARC 221/26.
 BARENTS SEA.

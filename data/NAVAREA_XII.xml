@@ -27,16 +27,6 @@ USCG REMOTE COMMUNICATION FACILITY HONOLULU
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>071842Z SEP 26
-NAVAREA XII 612/26.
-NORTH PACIFIC.
-COLOMBIA.
-ISLA PALMAS LIGHT 03-54.10N 077-21.51W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>060854Z SEP 26
