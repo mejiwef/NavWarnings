@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>090947Z SEP 26
+NAVAREA XII 618/26.
+NORTH PACIFIC.
+1. DSC AND HF UNRELIABLE 091530Z TO 100330Z SEP
+   AT USCG REMOTE COMMUNICATION FACILITIES:
+   A. PT REYES 37-55.00N 122-44.00W.
+   B. HONOLULU 21-26.00N 158-09.00W.
+   C. KODIAK 57-46.00N 152-34.00W.
+   D. NOME 64-29.00N 165-15.00W.
+   E. COLD BAY 55-11.00N 162-42.00W.
+   F. ST PAUL 57-09.00N 170-14.00W.
+   G. SHEMYA 52-43.00N 174-07.00E.
+   H. PT HIGGINS 55-27.00N 131-49.00W.
+   I. ASTORIA 46-12.00N 123-49.00W.
+   J. CAMBRIA 35-31.1N 121-03.6W.
+2. CANCEL THIS MSG 100430Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>090647Z SEP 26
+NAVAREA XII 617/26.
+CHUKCHI SEA.
+ALASKA.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   14 SEP BY CABLESHIP IT INTEGRITY
+   ALONG TRACKLINE JOINING
+   66-07.20N 162-39.69W, 66-06.51N 162-40.48W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 150001Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>081514Z SEP 26
@@ -119,18 +153,6 @@ HAWAII.
 1. HAZARDOUS OPERATIONS 091600Z TO 110400Z SEP
    IN AREA WITHIN ONE MILE OF 21-17.48N 157-59.23W.
 2. CANCEL THIS MSG 110500Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040702Z SEP 26
-NAVAREA XII 604/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 081900Z TO 090300Z SEP
-   IN AREA WITHIN ONE MILE OF 33-01.73N 118-35.32W.
-2. CANCEL THIS MSG 090400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

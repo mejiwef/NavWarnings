@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>090947Z SEP 26
+NAVAREA IV 866/26.
+NORTH ATLANTIC.
+1. DSC AND HF UNRELIABLE 091530Z TO 100330Z SEP
+   AT USCG REMOTE COMMUNICATION FACILITIES:
+   A. BOSTON 41-43.00N 070-31.00W.
+   B. CHESAPEAKE 36-44.00N 076-01.00W.
+   C. CHARLESTON 32-50.70N 079-57.00W.
+   D. MIAMI 25-37.40N 080-23.40W.
+   E. NEW ORLEANS 29-53.00N 089-57.00W.
+   F. SAN JUAN 18-28.00N 067-04.30W.
+2. CANCEL THIS MSG 100430Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>090003Z SEP 26
@@ -343,21 +359,6 @@ NAVAREA IV 842/26.
 CARIBBEAN SEA.
 DERELICT M/V UNLIT AND ANCHORED 
 IN 15-54.77N 078-41.81W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>282214Z AUG 26
-NAVAREA IV 838/26.
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-1. UNDERWATER OPERATIONS 291000Z AUG THRU 090800Z SEP
-   BY DREDGE BOSKALIS SHOREWAY
-   IN VICINITY 10-06.91N 061-02.84W.
-   500 METER BERTH REQUESTED.
-2. DREDGED SPOIL DISPOSED IN 09-59.40N 061-10.80W.
-3. CANCEL THIS MSG 090900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
