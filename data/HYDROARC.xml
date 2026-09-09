@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091326Z SEP 26
+HYDROARC 224/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED AT 091120Z SEP IN 78-15.50N 104-58.90E.
+2. CANCEL THIS MSG 121120Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090157Z SEP 26
@@ -25,7 +35,8 @@ NORWAY.
    DAILY 15 AND 16 SEP IN AREA BOUND BY
    69-50.40N 013-42.00E, 69-49.80N 016-15.60E,
    69-07.20N 016-23.40E, 68-39.00N 013-25.80E.
-2. CANCEL THIS MSG 181700Z SEP 26.</msgText>
+2. CANCEL THIS MSG 181700Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -94,20 +105,6 @@ SCIENTIFIC MOORINGS REPORTED IN:
 A. 67-17.87N 072-40.37E.
 B. 67-20.38N 072-46.96E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>061556Z SEP 26
-HYDROARC 217/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 061355Z SEP
-   IN AREA BOUND BY
-   79-27.40N 106-59.10E, 76-45.90N 119-55.50E,
-   75-51.30N 124-51.30E, 77-44.60N 099-52.70E.
-2. CANCEL THIS MSG 091400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

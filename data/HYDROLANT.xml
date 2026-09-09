@@ -3,6 +3,26 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>091426Z SEP 26
+HYDROLANT 1790/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-33.00S 047-29.00W.
+   B. D33B, 58-43.00S 050-38.00W.
+   C. A76C, 53-52.00S 026-25.00W.
+   D. D32, 57-47.00S 038-51.00W.
+   E. D33C, 61-39.00S 053-33.00W.
+   F. 59-08.00S 046-36.00W.
+   G. 60-15.00S 052-35.00W.
+   H. 59-17.00S 050-50.00W.
+   I. 59-51.00S 050-08.00W.
+2. CANCEL THIS MSG 101400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>090552Z SEP 26
 HYDROLANT 1789/26.
 SCOTIA SEA.
@@ -14,7 +34,8 @@ ANTARCTICA.
    B. A85, 62-24.60S 053-55.20W.
    C. D33A, 64-01.80S 055-36.00W.
    D. D33C, 61-51.00S 054-09.60W.
-2. CANCEL THIS MSG 100605Z SEP 26.</msgText>
+2. CANCEL THIS MSG 100605Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -25,7 +46,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. ITAPEVA LIGHT 29-33.40S 049-53.37W
    UNLIT UNTIL 07 MAR 27.
-2. CANCEL THIS MSG 080001Z MAR 27.</msgText>
+2. CANCEL THIS MSG 080001Z MAR 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -36,7 +58,8 @@ SOUTH ATLANTIC.
 BRAZIL.
 1. SARITA LIGHT 32-37.81S 052-25.76W UNLIT
    UNTIL 07 MAR 27.
-2. CANCEL THIS MSG 080001Z MAR 27.</msgText>
+2. CANCEL THIS MSG 080001Z MAR 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -49,27 +72,6 @@ ROMANIA.
    AT 081030Z SEP.
    TWO MILE BERTH REQUESTED. 
 2. CANCEL THIS MSG 111540Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>081339Z SEP 26
-HYDROLANT 1785/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 57-38.00S 047-35.00W.
-   B. D33B, 58-49.00S 050-58.00W.
-   C. A76C, 53-52.00S 026-25.00W.
-   D. D32, 57-36.00S 038-39.00W.
-   E. D33C, 61-39.00S 053-33.00W.
-   F. 59-21.00S 047-00.00W.
-   G. 60-17.00S 052-34.00W.
-   H. 59-17.00S 050-50.00W.
-   I. 59-51.00S 050-08.00W.
-2. CANCEL THIS MSG 091400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -96,18 +98,6 @@ NORTH ATLANTIC.
    03-21.00N 032-11.00W, 00-57.00N 032-55.00W,
    05-44.00N 048-12.00W.
 2. CANCEL THIS MSG 200057Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071358Z SEP 26
-HYDROLANT 1780/26.
-NORTH ATLANTIC.
-SENEGAL.
-1. HAZARDOUS OPERATIONS 090800Z TO 091500Z SEP 
-   IN AREA WITHIN 20 MILES OF 12-44.00N 017-47.00W.
-2. CANCEL THIS MSG 091600Z SEP 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
