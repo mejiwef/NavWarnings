@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091737Z SEP 26
+HYDROARC 225/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1700Z
+   DAILY 14 THRU 18 SEP IN AREA BOUND BY
+   69-43.10N 033-38.00E, 69-43.10N 034-10.80E,
+   69-34.50N 034-10.80E, 69-34.50N 033-38.00E.
+2. CANCEL THIS MSG 181800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>091326Z SEP 26
 HYDROARC 224/26.
 LAPTEV SEA.
 RUSSIA.
-1. ICEBERG REPORTED AT 091120Z SEP IN 78-15.50N 104-58.90E.
-2. CANCEL THIS MSG 121120Z SEP 26.</msgText>
+1. ICEBERG REPORTED IN 78-15.50N 104-58.90E
+   AT 091120Z SEP.
+2. CANCEL THIS MSG 121120Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
