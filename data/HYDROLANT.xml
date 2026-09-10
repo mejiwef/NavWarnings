@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>101341Z SEP 26
+HYDROLANT 1796/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-22.00S 047-14.00W.
+   B. D33B, 58-40.00S 050-06.00W.
+   C. A76C, 53-57.00S 026-26.00W.
+   D. D32, 57-57.00S 039-05.00W.
+   E. D33C, 61-45.00S 054-09.00W.
+   F. 59-08.00S 046-36.00W.
+   G. 60-14.00S 052-31.00W.
+   H. 59-17.00S 050-50.00W.
+   I. 59-51.00S 050-08.00W.
+2. CANCEL THIS MSG 111400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>101335Z SEP 26
+HYDROLANT 1795/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1300Z DAILY
+   14 THRU 16 SEP IN AREA BOUND BY
+   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
+   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
+   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
+   44-22.08N 028-42.42E.
+2. CANCEL THIS MSG 161400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100939Z SEP 26
@@ -12,7 +49,8 @@ BRAZIL.
    AND M/V SOMNIUM AUSTRALIS IN 
    20-23.78S 040-09.43W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 252200Z SEP 26.</msgText>
+2. CANCEL THIS MSG 252200Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -25,7 +63,8 @@ BRAZIL.
    DAILY 11 THRU 25 SEP BY M/V COMANDO B 
    AND M/V ENTERPRISE IN 20-23.47S 040-09.33W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 252200Z SEP 26.</msgText>
+2. CANCEL THIS MSG 252200Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -41,7 +80,8 @@ BRAZIL.
    06-23.59S 034-34.44W, 06-31.87S 034-11.54W,
    06-23.83S 034-01.81W, 06-03.44S 033-56.53W,
    05-52.66S 034-03.34W, 05-49.30S 034-25.37W.
-2. CANCEL THIS MSG 172100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 172100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -57,27 +97,7 @@ ANTARCTICA.
    B. A85, 62-24.60S 053-55.20W.
    C. D33A, 64-01.80S 055-36.00W.
    D. D33C, 61-51.00S 054-09.60W.
-2. CANCEL THIS MSG 110423Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091426Z SEP 26
-HYDROLANT 1790/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 57-33.00S 047-29.00W.
-   B. D33B, 58-43.00S 050-38.00W.
-   C. A76C, 53-52.00S 026-25.00W.
-   D. D32, 57-47.00S 038-51.00W.
-   E. D33C, 61-39.00S 053-33.00W.
-   F. 59-08.00S 046-36.00W.
-   G. 60-15.00S 052-35.00W.
-   H. 59-17.00S 050-50.00W.
-   I. 59-51.00S 050-08.00W.
-2. CANCEL THIS MSG 101400Z SEP 26.
+2. CANCEL THIS MSG 110423Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -140,7 +160,8 @@ NORTH ATLANTIC.
    08-58.00N 050-28.00W, 08-06.00N 047-28.00W,
    03-21.00N 032-11.00W, 00-57.00N 032-55.00W,
    05-44.00N 048-12.00W.
-2. CANCEL THIS MSG 200057Z SEP 26.</msgText>
+2. CANCEL THIS MSG 200057Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -288,6 +309,7 @@ HYDROLANT 1753/26.
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 809/26, 1407/26, 1586/26, 1652/26,
    1666/26, 1694/26.
+CANCEL THIS MSG 111300Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
