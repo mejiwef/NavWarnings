@@ -87,30 +87,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>071600Z SEP 26
-HYDROARC 219/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED IN: 
-   A. 78-08.00N 104-37.90E.
-   B. 78-05.70N 104-44.70E.
-   C. 78-08.50N 104-26.00E.
-   D. 78-09.80N 104-15.70E.
-   E. 78-02.20N 115-57.80E.
-   F. 78-02.80N 116-17.90E.
-   G. 77-55.90N 116-10.40E.
-   H. 77-20.70N 116-56.60E.
-   I. 77-08.90N 117-11.10E.
-   J. 76-43.20N 118-05.80E.
-   K. 76-36.60N 118-50.20E.
-   L. 76-30.50N 118-52.60E.
-   M. 76-24.60N 119-33.20E.
-2. CANCEL THIS MSG 101000Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>070856Z SEP 26
