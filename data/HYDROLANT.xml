@@ -487,20 +487,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261338Z AUG 26
-HYDROLANT 1672/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z
-   DAILY 27 AUG THRU 10 SEP BY M/V COMANDO B AND
-   M/V ANGELINA THE GREAT IN 20-23.92S 040-09.47W.
-   WIDE BERTH REQUESTED. 
-2. CANCEL THIS MSG 101900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>242004Z AUG 26
