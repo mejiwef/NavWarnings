@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111730Z SEP 26
+HYDROLANT 1802/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-14.00S 047-00.00W.
+   B. D33B, 58-42.00S 049-39.00W.
+   C. A76C, 54-07.00S 026-20.00W.
+   D. D32, 57-57.00S 039-11.00W.
+   E. D33C, 61-52.00S 054-20.00W.
+   F. 58-52.00S 047-03.00W.
+   G. 60-14.00S 052-24.00W.
+   H. 58-45.00S 051-08.00W.
+   I. 60-12.00S 051-30.00W.
+   J. 58-44.00S 051-30.00W.
+2. CANCEL THIS MSG 121732Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>111502Z SEP 26
@@ -333,7 +355,8 @@ BRAZIL.
    23-19.75S 040-09.56W, 23-17.81S 040-09.56W,
    23-17.76S 040-13.45W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 302100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 302100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -463,20 +486,6 @@ CABLE OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY CABLESHIP SOVEREIGN
 IN 59-49.00N 002-58.40W.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270848Z AUG 26
-HYDROLANT 1678/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 28 AUG THRU 11 SEP BY M/V COMANDO B 
-   AND M/V ELATI IN 20-23.40S 040-09.98W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 111900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
