@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>102041Z SEP 26
+HYDROPAC 2620/26.
+GULF OF ADEN.
+YEMEN.
+1. M/V POSSIBLY HIJACKED IN 13-23.00N 047-55.00E.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 132041Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101255Z SEP 26
@@ -164,19 +176,6 @@ PERU.
    13-20.00S 078-30.00W, 13-20.00S 079-30.00W.
 2. CANCEL HYDROPAC 2604/26.
 3. CANCEL THIS MSG 180900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>091600Z SEP 26
-HYDROPAC 2605/26.
-INDIA.
-1. NAVTEX STATION PORTO NOVO (O)
-   IN 11-30.25N 079-46.20E OFF AIR
-   UNTIL 10 SEP. 
-2. CANCEL HYDROPAC 2602/26.
-3. CANCEL THIS MSG 110001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -437,19 +436,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>071456Z SEP 26
-HYDROPAC 2576/26.
-GULF OF OMAN.
-U.A.E.
-1. UNDERWATER OPERATIONS 08 THRU 10 SEP 
-   BY VESSEL WISH WAY IN 25-11.30N 056-24.40E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071105Z SEP 26
@@ -677,20 +663,6 @@ GUAM.
    13-04.00N 145-18.00E, 13-04.00N 146-10.00E,
    13-55.00N 146-10.00E, 13-55.00N 145-18.00E
 2. CANCEL THIS MSG 110700Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031124Z SEP 26
-HYDROPAC 2545/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 102000Z TO 102230Z SEP
-   IN AREA BOUND BY
-   13-32.00N 144-38.00E, 13-53.00N 145-02.00E,
-   14-38.00N 144-21.00E, 14-17.00N 143-57.00E
-2. CANCEL THIS MSG 102330Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1142,23 +1114,6 @@ MF AND HF DSC RECEIVE SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260053Z AUG 26
-HYDROPAC 2436/26.
-BERING SEA.
-BERING STRAIT.
-RUSSIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 10 SEP
-   BY VESSEL ALEKSANDR ROGOTSKIY
-   IN AREA BOUND BY
-   66-05.00N 169-19.00W, 66-05.00N 169-17.00W,
-   64-03.00N 172-16.00W, 64-04.00N 172-18.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250531Z AUG 26
@@ -1422,26 +1377,6 @@ ARABIAN SEA.
 INDIA.
 RACON AT OYSTER ROCKS LIGHT 14-49.22N 074-03.63E
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280930Z JUL 26
-HYDROPAC 2163/26.
-SOUTH PACIFIC.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   FURTHER NOTICE BY M/V LAYLA INVICINITY OF
-   TRACKLINE JOINING
-   22-05.57S 178-05.51E, 24-06.89S 177-12.25E,
-   25-00.90S 176-57.48E, 25-13.57S 176-55.81E,
-   25-34.91S 176-57.16E, 25-56.53S 176-53.47E,
-   26-20.99S 176-42.81E, 27-45.31S 176-21.20E,
-   29-13.28S 176-16.84E, 29-36.37S 176-11.60E,
-   29-49.21S 176-02.81E, 30-27.25S 175-59.10E,
-   30-35.08S 175-55.29E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2149/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

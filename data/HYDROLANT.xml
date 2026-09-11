@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>110104Z SEP 26
+HYDROLANT 1798/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
+   0800Z TO 2000Z DAILY 15 THRU 17 SEP 
+   IN AREA BOUND BY
+   05-55.28S 034-34.36W, 05-49.30S 034-25.37W,
+   05-52.66S 034-03.34W, 06-03.44S 033-56.53W,
+   06-23.83S 034-01.81W, 06-31.87S 034-11.54W,
+   06-23.59S 034-34.44W, 06-13.92S 034-39.38W.
+2. CANCEL HYDROLANT 1792/26.
+3. CANCEL THIS MSG 172100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>110057Z SEP 26
+HYDROLANT 1797/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   10 NOV 27 BY M/V REM SALTIRE
+   IN AREA BOUND BY
+   21-39.40S 039-49.11W, 22-07.28S 039-21.27W,
+   22-51.59S 039-53.36W, 22-28.48S 040-32.07W,
+   22-20.25S 040-26.11W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z NOV 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>101341Z SEP 26
@@ -64,23 +97,6 @@ BRAZIL.
    AND M/V ENTERPRISE IN 20-23.47S 040-09.33W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 252200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>100927Z SEP 26
-HYDROLANT 1792/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0800Z TO 2000Z DAILY 15 THRU 17 SEP 
-   IN AREA BOUND BY
-   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,
-   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,
-   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,
-   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.
-2. CANCEL THIS MSG 172100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

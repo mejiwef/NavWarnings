@@ -1,256 +1,400 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="theme-color" content="#000000">
-        <link rel="shortcut icon" href="apology_objects/favicon.ico">
-        <link rel="stylesheet" href="apology_objects/bootstrap.min.css" />
-        <link rel="stylesheet" href="apology_objects/apology.css">
-
-        <!-- Ecobar Script... **IMPORTANT** FOR LOCAL: HTTP   FOR CLOUD: HTTPS -->
-        <script>
-        //set classification of page
-        window.classification = "unclassified";
-        </script>
-        <script src="https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js" defer></script>
-        <title>Maritime Safety Information</title>
-    
-                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="hgnorwixzvveo2vdctja-f-e6fc086b7-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"h2","ak.rid":"4203c0a2","ak.r":41481,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":3264,"ak.gh":"23.218.222.75","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1789072594","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Iq7cR87PChJUZitraPGmIg8HCfvgj11KZghehc4ndmh+C5fDEKK2UmvPvXXZTH0aJtIsivePD4WwykQTxNelJ0xJdMmYw5YlK1tsolJEJMkR9IgD7eg8RsupiGKtOp8NwjzVfvG3G0ub72XNP1oaxMjJVZgZfWp2C63r9cePp1NZntaRADhkoaZD3AUjk35xhIpKdES0pguF79EaDmgItqXJxka4uhJcjZ4uqcc3dg3p2K26CgFPqNVg2hQgbG0HYsF/xNfQLux9P7OQbLFzEsnGQ9A97L3vgdILWCrYXlPAd2d035YxcNjEA+7KvVbfggQfY35IMwNVW9hoHRCdoW6FYMgi2DcUEQpZJPd3jTMH8Jit4JeUFXLmH+2GbgrwQCu7cQl2xhNj9c1J3A2AWyMX12a4aIqCXIuRVKWuYaQ=","ak.pv":"101","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "971bb140c8b827ab8a112a3a33d37ac2"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head><script>
-function addVars() {
-    BOOMR.addVar({
-      "akam.msicookie": "971bb140c8b827ab8a112a3a33d37ac2"
-    });
-}
-if (document.addEventListener) {
-        document.addEventListener("onBoomerangLoaded", addVars);
-    } else if (document.attachEvent) {
-        document.attachEvent("onpropertychange", function(e) {
-            if (!e) {
-                e = window.event;
-            }
-            if (e && e.propertyName === "onBoomerangLoaded") {
-                addVars();
-            }
-        });
-    }
-</script></head>
-    <body>
-        <noscript>
-            You need to enable JavaScript to run this app.
-        </noscript>
-        <!--[if lt IE 9]>
-            This application does not support this version of Internet Explorer, please update to IE 9 or later.
-        <![endif]-->
-        <div id="root" class="app">
-            <section class="nav-panel">
-                <h2 class="page-title">Maritime Safety Information</h3>
-            </section>
-
-            <div class="homebkg">
-                <div class="container">
-                    <div class="row"><br /><br /></div>
-                    <div class="row">
-                        <div class="col-md-8 mb10">
-                            <div class="gray-light-box">
-                                <h3>MSI IS CURRENTLY UNDER MAINTENANCE</h3><br/>
-                                <h3><b>Announcement</b></h3>
-                                <p class="pl10 pr10 center">The Maritime Safety Information (MSI) Portal is currently unavailable. 
-                                    Please take advantage of the helpful resources linked here.<br/> MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/></p>
-                                <br /><br />
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="gray-light-box">
-                                <b>Helpful Links</b><br /><br />
-                                <b>Latest Notice to Mariners</b><br /><br />
-                                <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
-                                
-                                                                
-                                                                                              
-                                                                                                                                                         
-                                                               
-                                                                                                                              
-                                                                                                                         
-                                                                                                                                                     
-                                                                                              
-                                
-                                                                                        
-                                                                                                                             
-                                
-                                 
-                                      
-                                     
-                                      
-                                    
-                                     
-                                     
-                                
-                                  
-				
-				
-							
-				
-				
-				
-				
-								
-
-				
-				
-				<a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br /><br />
-											
-                                                            <b> Latest Navigational Warnings<br/><br />
-                                <ul class="bullets left-align ml15">
-                                    <li><a href="apology_objects/DailyMemIV.txt" target="_blank" rel="noopener noreferrer">NAVAREA IV</a></li>
-                                    <li><a href="apology_objects/DailyMemXII.txt" target="_blank" rel="noopener noreferrer">NAVAREA XII</a></li> 
-                                    <li><a href="apology_objects/DailyMemLAN.txt" target="_blank" rel="noopener noreferrer">HYDROLANT</a></li>
-                                    <li><a href="apology_objects/DailyMemPAC.txt" target="_blank" rel="noopener noreferrer">HYDROPAC</a></li> 
-                                    <li><a href="apology_objects/DailyMemARC.txt" target="_blank" rel="noopener noreferrer">HYDROARC</a></li>
-                                </ul>
-                            </div>
-                        </div>                         
-                    <div class="col-md-4">
-                            <div class="gray-light-box">
-				 <b>AMERICAN PRACTICAL NAVIGATOR</b><br /><br />
-				 <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 1(PDF)</a><br />
-				<a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 2 (PDF)</a><br /><br />
-				 </ul>
-                            </div>
-                        </div>                       
-                    <div class="col-md-4">
-			<div class="gray-light-box">
-				<b>SAILING DIRECTIONS PLANNING GUIDES</b><br /><br />
-				<a href="apology_objects/Pub120bk.pdf" target="_blank" class="btn btn-home">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
-				<a href="apology_objects/Pub140bk.pdf" target="_blank" class="btn btn-home">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
-				<a href="apology_objects/Pub160bk.pdf" target="_blank" class="btn btn-home">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
-				
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row"><br /><br /></div>
-                </div>
-            </div>
-
-            <div id="bottom">
-                
-                <div class="classificationblock">
-                    <div  id="classification">
-                        Dynamic content classified up to UNCLASSIFIED
-                    </div>
-                </div>    
-            </div>
-        </div>
-        <script>
-        window.onload = () => {
-            var ecobarLocalConfig = {
-                "app_id": "MSI174XUT18B8",
-                "network": {
-                    "trackAnalytics" : "false",
-                    "classification": window.classification
-                },
-                "ui": {
-                    "zIndex": "0",    
-                    "hideClassificationWarning": "true",
-                    "hideClassification": "false",
-                    "hideFooter": "true",
-                    "appendFooterToSelector": "#bottom",
-                    "siteContentSelector": "#root"
-                }
-            };
-
-            window.ecobarApp && ecobarApp.init(ecobarLocalConfig);
-        };
-        </script>
-        <!-- Matomo (Geoint App Store + TFII) -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      pushData(window.location.href);
-      document.addEventListener('click', callback);
-
-      function callback(e) {
-        var e = window.e || e;
-        if (e.target.tagName !== 'A'){
-          //not a link
-          return;
-        }
-        pushData(event.target.href);
-        return;
-      }
-
-      function pushData(href) {
-        if(window.classification === "unclassified" || window.classification === "unclassified//limdis") {
-          //don't track clicks that aren't a page navigation.
-          if(href === ""){
-            return;
-          }
-          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-          _paq.push(['setCustomUrl', href]);
-          _paq.push(['setReferrerUrl', window.location.href]);
-          
-          //set user id for tracking specific users on nipr (and eventually SC/TC)
-          var persist = window.localStorage.getItem("reduxPersist:userReducer");
-          if(persist){
-            var email = JSON.parse(persist).userEmail;
-            _paq.push(['setUserId', email]);
-          }
-          _paq.push(['trackPageView']);
-          _paq.push(['enableLinkTracking']);
-          _paq.push(['setDocumentTitle', window.location.href]);
-
-          (function() {
-            //set url, siteId based on location          
-            var u="//gasmetrics.nga.mil/piwik/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '297']);
-
-            var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
-            var secondarySiteId = null;
-            if(window.location.hostname === "msi.nga.mil" || window.location.hostname === "msi.gs.mil"){
-              secondarySiteId = 24;
-              _paq.push(["setCookieDomain", "*.msi.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            } else if (window.location.hostname === "msi.geo.nga.mil"){
-              secondarySiteId = 45
-              _paq.push(["setCookieDomain", "*.msi.geo.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            }
-
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-          })();
-        }
-      };
-    </script>
-        <!-- End Matomo Code -->
-    </body>
-</html>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<smaps>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>101300Z SEP 26
+HYDROARC 228/26.
+ARCTIC.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0128Z TO 0244Z DAILY 15 SEP THRU 15 OCT
+   IN AREA BOUND BY
+   77-06.00N 161-35.00E, 76-42.00N 163-41.00E,
+   81-06.00N 135-04.00W, 81-42.00N 134-18.00W.
+2. CANCEL THIS MSG 150344Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>101217Z SEP 26
+HYDROARC 227/26.
+BEAUFORT SEA.
+CANADA.
+RACON AT PELLY ISLAND IN 69-37.44N 135-29.26W
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>101145Z SEP 26
+HYDROARC 226/26.
+BEAUFORT SEA.
+CANADA.
+RACON AT RELIEF ISLET 70-08.75N 130-49.67W INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>091737Z SEP 26
+HYDROARC 225/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1700Z
+   DAILY 14 THRU 18 SEP IN AREA BOUND BY
+   69-43.10N 033-38.00E, 69-43.10N 034-10.80E,
+   69-34.50N 034-10.80E, 69-34.50N 033-38.00E.
+2. CANCEL THIS MSG 181800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>091326Z SEP 26
+HYDROARC 224/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED IN 78-15.50N 104-58.90E
+   AT 091120Z SEP.
+2. CANCEL THIS MSG 121120Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>090157Z SEP 26
+HYDROARC 223/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0200Z TO 1500Z DAILY
+   11 THRU 13 SEP IN AREA BOUND BY
+   69-53.00N 032-57.00E, 70-07.00N 032-57.00E,
+   70-07.00N 035-20.00E, 69-15.00N 035-20.00E.
+2. CANCEL THIS MSG 131600Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GPS JAMMING</category>
+        <status>INFORCE</status>
+        <msgText>082102Z SEP 26
+HYDROARC 222/26.
+NORWEGIAN SEA.
+NORWAY.
+1. GPS JAMMING EXERCISES 0600Z TO 1600Z
+   DAILY 09 THRU 18 AND 1600Z TO 2000Z
+   DAILY 15 AND 16 SEP IN AREA BOUND BY
+   69-50.40N 013-42.00E, 69-49.80N 016-15.60E,
+   69-07.20N 016-23.40E, 68-39.00N 013-25.80E.
+2. CANCEL THIS MSG 181700Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>081758Z SEP 26
+HYDROARC 221/26.
+BARENTS SEA.
+KARA SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0200Z TO 1400Z 
+   DAILY 12 AND 13 SEP IN AREA BOUND BY
+   67-19.00N 045-00.00E, 67-48.70N 046-34.00E,
+   67-51.00N 046-42.00E, 68-18.00N 048-13.00E,
+   70-13.00N 055-43.00E, 70-21.00N 059-21.00E,
+   69-50.00N 060-49.00E, 69-21.90N 060-29.00E,
+   69-55.00N 058-51.00E, 69-48.00N 056-12.00E,
+   67-57.00N 049-03.00E, 67-51.00N 048-46.20E,
+   67-50.20N 048-44.00E, 67-38.00N 048-04.00E,
+   67-34.00N 047-51.00E, 66-56.00N 045-47.00E.
+2. CANCEL THIS MSG 131500Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>081223Z SEP 26
+HYDROARC 220/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERG REPORTED IN 76-59.60N 112-52.40E.
+2. CANCEL THIS MSG 111400Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>070856Z SEP 26
+HYDROARC 218/26.
+KARA SEA.
+RUSSIA.
+SCIENTIFIC MOORINGS REPORTED IN: 
+A. 67-17.87N 072-40.37E.
+B. 67-20.38N 072-46.96E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041851Z SEP 26
+HYDROARC 212/26.
+BARENTS SEA.
+KARA SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0200Z TO 1700Z DAILY
+   08 THRU 11 SEP IN AREA BOUND BY
+   67-19.00N 045-00.00E, 67-48.70N 046-34.00E,
+   68-18.00N 048-13.00E, 70-13.00N 055-43.00E,
+   70-21.00N 059-21.00E, 69-50.00N 060-49.00E,
+   69-55.00N 058-51.00E, 69-48.00N 056-12.00E,
+   67-57.00N 049-03.00E, 67-51.00N 048-46.20E,
+   67-38.00N 048-04.00E.
+2. CANCEL THIS MSG 111800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>041722Z SEP 26
+HYDROARC 211/26.
+1. HYDROARC WARNINGS IN FORCE AS OF 041722Z SEP.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   208/2026, 206/2026, 202/2026, 201/2026, 199/2026,
+   197/2026, 191/2026, 185/2026, 155/2026.
+   178/2025, 175/2025, 148/2025, 145/2025, 103/2025.
+   283/2024.
+   163/2023.
+   198/2022.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROARC 149/26, 152/26, 180/26, 187/26, 188/26,
+   189/26, 192/26, 195/26, 204/26. 
+CANCEL THIS MSG 111300Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SHOAL</category>
+        <status>INFORCE</status>
+        <msgText>020011Z SEP 26
+HYDROARC 202/26.
+DAVIS STRAIT.
+CANADA.
+SHOALS REPORTED IN: 
+A. 68-16.14N 066-01.06W.
+B. 68-15.59N 066-01.09W.
+C. 68-15.29N 066-01.13W.
+D. 68-13.73N 065-47.64W.
+E. 68-12.84N 065-44.47W.
+F. 68-12.62N 065-42.89W.
+G. 68-12.93N 065-41.98W.
+H. 68-12.63N 065-44.18W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>011652Z SEP 26
+HYDROARC 201/26.
+ARCTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0128Z TO 0244Z DAILY 15 SEP THRU 15 OCT
+   IN AREAS BOUND BY
+   81-42.00N 134-18.00W, 81-06.00N 135-04.00W,
+   76-42.00N 163-41.00W, 77-06.00N 161-35.00W.
+2. CANCEL THIS MSG 150344Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280928Z AUG 26
+HYDROARC 191/26.
+NORWEGIAN SEA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V AMAZON CONQUEROR
+   TOWING 12 10000 METER LONG CABLES
+   IN AREA BOUND BY
+   65-40.80N 005-19.70E, 65-42.20N 006-52.30E,
+   64-33.50N 006-04.80E, 64-32.70N 004-33.70E.
+   SEVEN MILE BERTH REQUESTED.
+2. CANCEL HYDROARC 190/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>251557Z AUG 26
+HYDROARC 185/26.
+ARCTIC OCEAN.
+CANADA.
+MCTS IQALUIT REMOTE STATION RESOLUTE
+68-19.00N 133-35.00W 
+MF AND HF R/T SERVICES OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051258Z AUG 26
+HYDROARC 155/26.
+KARA SEA.
+LAPTEV SEA.
+RUSSIA.
+1. CABLE OPERATIONS 10 AUG THRU 30 NOV
+   BY M/V NORTON WAVE, CABLESHIP YAUZA,
+   M/V SOPHIA, AND M/V SIRIUS
+   ALONG TRACKLINE JOINING
+   75-12.21N 074-39.20E, 76-09.92N 080-22.98E,
+   76-23.62N 086-43.61E, 76-37.48N 091-21.17E,
+   77-03.58N 094-34.27E, 77-38.01N 097-30.99E,
+   77-46.25N 098-41.60E, 77-44.75N 099-54.39E,
+   78-00.14N 105-56.61E, 77-56.46N 108-05.31E,
+   77-14.76N 116-57.40E, 76-55.62N 124-22.09E,
+   77-01.91N 129-04.97E, 75-59.97N 129-27.98E,
+   73-48.97N 131-09.10E, 72-19.46N 131-10.33E,
+   71-26.38N 130-36.24E, 71-23.82N 129-55.75E,
+   71-36.55N 129-20.09E, 71-38.37N 128-53.33E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z DEC 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>011116Z OCT 25
+HYDROARC 178/25(15).
+FRANKLIN STRAIT.
+MCCLINTOCK CHANNEL.
+CANADA.
+DNC 28.
+DEPTHS REPORTED: 
+A. 29.3 METERS IN 71-22.82N 096-41.27W.
+B. 26.6 METERS IN 71-22.05N 096-40.73W.
+C. 11.3 METERS IN 71-21.53N 096-45.79W.
+D. 11.3 METERS IN 71-21.20N 096-44.65W.
+E. 28.4 METERS IN 71-20.59N 096-45.34W.
+F. 28.35 METERS IN 71-18.28N 096-49.03W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>292329Z SEP 25
+HYDROARC 175/25(15).
+MCCLINTOCK CHANNEL.
+CANADA.
+DNC 28.
+33.6 METER DEPTH REPORTED IN 76-40.36N 102-16.62W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>310015Z AUG 25
+HYDROARC 148/25(15).
+LANCASTER SOUND.
+CANADA.
+DNC 28.
+13.6 METER DEPTH REPORTED IN 74-38.63N 091-20.54W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>290041Z AUG 25
+HYDROARC 145/25(15).
+BEAUFORT SEA.
+CANADA.
+DNC 27.
+RACON AT PITT ISLAND 69-09.00N 136-11.00W
+INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ADMIN</category>
+        <status>INFORCE</status>
+        <msgText>171751Z JUL 25
+HYDROARC 103/25.
+CANCELLED ELECTRONIC NAVIGATIONAL CHART (ENC) 
+ADVISORY.
+USERS OF NGA ENC PRODUCTS ARE ADVISED OF 
+POTENTIAL UNINTENDED ECDIS BEHAVIOR WHEN 
+PROCESSING CANCELLED CHARTS, INCLUDING 
+REINSTALLATION OF RECENTLY CANCELLED CHARTS ON 
+SOME SYSTEMS WITHOUT OBVIOUS ERROR OR 
+WARNING MESSAGES.
+NGA HAS CONFIRMED THIS ISSUE AFFECTS NAVY VMS 9.5 AND
+RAYTHEON ANSCHUTZ SYNAPSIS NX SYSTEMS. THIS ISSUE DOES NOT
+AFFECT NAVY ECDIS. OTHER SYSTEMS ARE CURRENTLY UNASSESSED.
+USERS MAY REFERENCE NGAS ENC CATALOG (GLOBAL 
+OR REGIONAL PRODUCT LISTINGS) FOR A LIST OF 
+CANCELLED CHARTS WHICH SHOULD BE UNINSTALLED 
+FROM ECDIS.
+NGAS GLOBAL ENC CATALOG IS AVAILABLE ON
+HTTPS://MCDP.NGA.MIL, WITH REGIONAL ENC PRODUCT 
+LISTING SPREADSHEETS CONTAINED WITHIN EACH
+REGIONS ZIP ON ESYNC, NGAS WEBSITES, AND 
+WORLDCOVER DVD.
+USERS MAY FILTER PRODUCT LISTINGS FOR EDITION OF 
+CXL AND SORT BY ISSUE DATE TO SEE MOST RECENT 
+CANCELLATIONS.
+CHARTS CANCELLED WITHIN THE LAST 90 DAYS ARE 
+ACTIVELY DISSEMINATED BY NGA AND MOST LIKELY 
+CANDIDATES FOR INADVERTENT REINSTALLATION.
+NGA IS CONSULTING WITH THE USER COMMUNITY TO 
+ASSESS POSSIBLE CHANGES TO THE CANCELLED CHART 
+DISSEMINATION PROCESS TO MITIGATE THIS POTENTIAL
+UNINTENDED ECDIS BEHAVIOR. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>170858Z DEC 24
+HYDROARC 283/24(16).
+BEAUFORT SEA.
+CHUKCHI SEA.
+ALASKA.
+DNC 27.
+SCIENTIFIC MOORINGS ESTABLISHED:
+A. BCE-24, IN 71-40.40N 154-59.90W, 
+   AT DEPTH 108 METERS, TOP FLOAT 20 METERS.
+B. BCC-24, IN 71-44.10N 155-09.68W, 
+   AT DEPTH 291 METERS, TOP FLOAT 21 METERS.
+C. BCW-24, IN 71-47.80N 155-20.83W, 
+   AT DEPTH 165 METERS, TOP FLOAT 40 METERS.
+D. NAP-24T, IN 74-31.37N 161-56.19W,
+   AT DEPTH 1680 METERS, TOP FLOAT 28 METERS.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>150429Z AUG 23
+HYDROARC 163/23(15).
+BEAUFORT SEA.
+CANADA.
+DNC 27.
+RACON AT PULLEN ISLAND LIGHT
+69-46.60N 134-24.40W INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>111643Z AUG 22
+HYDROARC 198/22(15).
+BEAUFORT SEA.
+CANADA.
+DNC 27.
+RACON AT SHINGLE POINT BEACON 
+69-00.00N 137-34.50W INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+</smaps>
