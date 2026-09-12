@@ -100,23 +100,6 @@ UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>110430Z SEP 26
-HYDROLANT 1799/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-25.80S 101-35.40W.
-   B. A85, 62-24.60S 053-55.20W.
-   C. D33A, 64-01.80S 055-36.00W.
-   D. D33C, 61-51.00S 054-09.60W.
-2. CANCEL THIS MSG 120430Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110057Z SEP 26
@@ -543,17 +526,6 @@ BRAZIL.
    UNTIL 21 AUG 27 IN 21-34.20S 040-43.62W.
 2. CANCEL HYDROLANT 746/26.
 3. CANCEL THIS MSG 220001Z AUG 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>172026Z AUG 26
-HYDROLANT 1598/26.
-IONIAN SEA.
-ITALY.
-NAVTEX STATION SELLIA MARINA (V)
-38-52.21N 016-43.06E OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
