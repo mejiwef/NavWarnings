@@ -89,18 +89,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>091326Z SEP 26
-HYDROARC 224/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 78-15.50N 104-58.90E
-   AT 091120Z SEP.
-2. CANCEL THIS MSG 121120Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>090157Z SEP 26

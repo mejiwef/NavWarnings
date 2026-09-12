@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121446Z SEP 26
+HYDROLANT 1809/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   13 THRU 27 SEP BY M/V COMANDO B AND
+   M/V IONIC SMYRNI IN 20-23.05S 040-09.88W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121424Z SEP 26
+HYDROLANT 1808/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   13 THRU 27 SEP BY M/V COMANDO B AND 
+   M/V CALYPSO IN 20-23.18S 040-09.77W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121401Z SEP 26
+HYDROLANT 1807/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL  030300Z NOV
+   BY M/V FUGRO VAQUITA AND AN UNMANNED VESSEL
+   ALONG TRACKLINE JOINING
+   22-56.50S 043-08.40W, 22-32.79S 040-04.53W,
+   22-56.50S 043-08.40W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 030400Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121034Z SEP 26
+HYDROLANT 1806/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-11.40S 101-39.00W.
+   B. A85, 61-43.20S 053-01.20W.
+   C. D33A, 64-00.00S 055-35.40W.
+   D. D33C, 61-38.40S 053-55.20W.
+2. CANCEL THIS MSG 131030Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120107Z SEP 26
