@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>121609Z SEP 26
+HYDROPAC 2641/26
+SULU SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   162200Z TO 170400Z SEP
+   IN AREA BOUND BY
+   09-16.20N 118-57.00E, 09-28.20N 119-12.60E,
+   08-57.00N 119-36.00E, 08-45.00N 119-19.80E.
+2. CANCEL THIS MSG 170500Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>121555Z SEP 26
+HYDROPAC 2640/26
+NORTH PACIFIC.
+PHILIPPINE SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   152100Z TO 160300Z SEP
+   IN AREAS BOUND BY:
+   A. 19-37.45N 123-14.78E, 19-37.12N 123-26.22E,
+      18-54.02N 123-24.80E, 18-54.34N 123-13.41E.
+   B. 20-02.06N 123-15.65E, 20-01.73N 123-27.13E,
+      19-18.64N 123-25.72E, 19-18.96N 123-14.30E.
+2. CANCEL THIS MSG 160400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>121514Z SEP 26
+HYDROPAC 2639/26
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 170230 THRU 260730Z SEP
+   IN AREA BOUND BY
+   15-53.00N 072-20.00E, 16-02.00N 072-50.00E,
+   15-15.00N 073-10.00E, 15-08.00N 072-40.00E.
+2. CANCEL THIS MSG 260830Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121259Z SEP 26
