@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120107Z SEP 26
+HYDROLANT 1804/26.
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS
+   0900Z TO 2330Z DAILY 17 THRU 21 SEP
+   IN AREA WITHIN 140 MILES OF 
+   58-14.00N 013-21.00W.
+2. CANCEL THIS MSG 220030Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>112318Z SEP 26
+HYDROLANT 1803/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0800Z TO 2000Z DAILY 15 THRU 19 SEP
+   IN AREA BOUND BY
+   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,
+   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,
+   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,
+   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.
+2. CANCEL HYDROLANT 1798/26.
+3. CANCEL THIS MSG 192100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>111730Z SEP 26
@@ -83,24 +114,6 @@ ANTARCTICA.
    C. D33A, 64-01.80S 055-36.00W.
    D. D33C, 61-51.00S 054-09.60W.
 2. CANCEL THIS MSG 120430Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>110104Z SEP 26
-HYDROLANT 1798/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING
-   0800Z TO 2000Z DAILY 15 THRU 17 SEP 
-   IN AREA BOUND BY
-   05-55.28S 034-34.36W, 05-49.30S 034-25.37W,
-   05-52.66S 034-03.34W, 06-03.44S 033-56.53W,
-   06-23.83S 034-01.81W, 06-31.87S 034-11.54W,
-   06-23.59S 034-34.44W, 06-13.92S 034-39.38W.
-2. CANCEL HYDROLANT 1792/26.
-3. CANCEL THIS MSG 172100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -682,20 +695,6 @@ HYDROLANT 1481/26.
     ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
     FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1273/25,1125/26,1424/26,1428/26, 1480/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>290847Z JUL 26
-HYDROLANT 1462/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 03 AUG THRU 11 SEP
-   IN AREA BOUND BY
-   05-42.53S 034-45.02W, 06-09.83S 034-46.82W,
-   06-03.93S 034-57.22W, 05-47.03S 034-56.32W.
-2. CANCEL THIS MSG 120001Z SEP 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
