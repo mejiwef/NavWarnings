@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131447Z SEP 26
+HYDROLANT 1813/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-18.00S 004-28.00W.
+   B. D33B, 58-58.00S 048-23.00W.
+   C. A76C, 54-15.00S 026-18.00W.
+   D. D32, 57-38.00S 039-03.00W.
+   E. D33C, 61-57.00S 054-14.00W.
+   F. 58-25.00S 047-43.00W.
+   G. 60-11.00S 052-11.00W.
+   H. 58-30.00S 050-39.00W.
+   I. 60-08.00S 050-35.00W.
+   J. 58-31.00S 050-46.00W.
+2. CANCEL THIS MSG 141500Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>131143Z SEP 26
+HYDROLANT 1812/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-11.40S 101-39.00W.
+   B. A85, 61-43.20S 053-01.20W.
+   C. D33A, 64-00.00S 055-35.40W.
+   D. D33C, 61-38.40S 053-55.20W.
+2. CANCEL THIS MSG 141145Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121635Z SEP 26
@@ -13,27 +50,6 @@ SCOTLAND.
    B. 20 MILES OF 57-43.40N 008-58.80W.
 2. CANCEL HYDROLANT 1733/26.
 3. CANCEL THIS MSG 151800Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121528Z SEP 26
-HYDROLANT 1810/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 57-14.00S 047-00.00W.
-   B. D33B, 58-42.00S 049-39.00W.
-   C. A76C, 54-07.00S 026-20.00W.
-   D. D32, 57-57.00S 039-11.00W.
-   E. D33C, 61-52.00S 054-20.00W.
-   F. 58-52.00S 047-03.00W.
-   G. 60-14.00S 052-24.00W.
-   H. 58-45.00S 051-08.00W.
-   I. 60-12.00S 051-30.00W.
-   J. 58-44.00S 051-30.00W.
-2. CANCEL THIS MSG 131525Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
