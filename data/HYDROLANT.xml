@@ -77,22 +77,6 @@ BRAZIL.
 2. CANCEL THIS MSG 030400Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>121034Z SEP 26
-HYDROLANT 1806/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-11.40S 101-39.00W.
-   B. A85, 61-43.20S 053-01.20W.
-   C. D33A, 64-00.00S 055-35.40W.
-   D. D33C, 61-38.40S 053-55.20W.
-2. CANCEL THIS MSG 131030Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>120107Z SEP 26

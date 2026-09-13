@@ -91,21 +91,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090647Z SEP 26
-NAVAREA XII 617/26.
-CHUKCHI SEA.
-ALASKA.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 
-   14 SEP BY CABLESHIP IT INTEGRITY
-   ALONG TRACKLINE JOINING
-   66-07.20N 162-39.69W, 66-06.51N 162-40.48W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 150001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DISTRESS SIGNAL</category>
         <status>INFORCE</status>
         <msgText>060854Z SEP 26
