@@ -11,7 +11,8 @@ RUSSIA.
 1. ICEBERGS REPORTED AT 140005Z SEP
    ALONG TRACKLINE JOINING
    77-37.40N 095-28.00E, 77-31.70N 112-12.50E.
-2. CANCEL THIS MSG 170809Z SEP 26.</msgText>
+2. CANCEL THIS MSG 170809Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -40,7 +41,8 @@ NORWAY.
    69-53.08N 016-21.58E, 70-12.38N 015-13.81E,
    69-36.32N 013-40.39E, 69-23.53N 014-20.64E,
    69-23.11N 015-14.66E.
-2. CANCEL THIS MSG 200400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 200400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -51,22 +53,7 @@ LAPTEV SEA.
 RUSSIA.
 1. ICEBERG REPORTED IN 
    76-51.50N 114-53.20E AT 130840Z SEP .
-2. CANCEL THIS MSG 161115Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111620Z SEP 26
-HYDROARC 230/26
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED 111120Z SEP IN: 
-   A. 78-20.10N 109-52.40E.
-   B. 78-21.60N 109-33.70E.
-   C. 78-27.60N 106-43.10E.
-   D. 78-18.10N 105-18.20E.
-   E. 76-49.10N 120-16.30E.
-2. CANCEL THIS MSG 141621Z SEP 26.
+2. CANCEL THIS MSG 161115Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
