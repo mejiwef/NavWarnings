@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140917Z SEP 26
+HYDROPAC 2650/26.
+SEA OF JAPAN.
+RUSSIA.
+1. MISSILE OPERATIONS 151400Z TO 161000Z SEP 
+   IN AREA BOUND BY
+   50-16.00N 140-28.20E, 50-11.30N 140-47.80E,
+   49-37.00N 140-26.70E, 49-28.20N 140-49.00E,
+   48-57.30N 141-03.20E, 47-46.10N 140-59.50E,
+   45-07.80N 138-15.60E, 43-06.40N 135-22.70E,
+   42-33.70N 134-05.00E, 42-30.40N 133-56.50E,
+   42-26.20N 133-42.30E, 42-35.00N 133-35.50E,
+   42-42.60N 133-46.60E, 42-46.10N 133-55.00E,
+   43-19.60N 135-09.40E, 45-18.40N 137-58.40E,
+   47-51.80N 140-36.10E, 48-49.70N 140-43.10E,
+   49-20.20N 140-32.30E, 49-31.60N 140-01.50E.
+2. CANCEL THIS MSG 161100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DISABLED</category>
         <status>INFORCE</status>
         <msgText>140243Z SEP 26
@@ -579,20 +600,6 @@ GUAM.
    IN AREA WITHIN THREE MILES OF 
    13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 171400Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090836Z SEP 26
-HYDROPAC 2595/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 131400Z TO 140600Z SEP
-   IN AREA BOUND BY
-   13-14.00N 145-00.00E, 13-14.00N 146-32.00E,
-   13-46.00N 146-32.00E, 13-46.00N 145-00.00E.
-2. CANCEL THIS MSG 140700Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

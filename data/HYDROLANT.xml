@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141034Z SEP 26
+HYDROLANT 1818/26
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS 160600Z TO 161700Z SEP
+   IN AREAS WITHIN:
+   A. 27.00 MILES OF 57-27.50N 008-20.50W.
+   B. 20.00 MILES OF 57-43.50N 008-58.80W.
+2. CANCEL HYDROLANT 1811/26.
+3. CANCEL THIS MSG 161800Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>140349Z SEP 26
@@ -76,36 +90,6 @@ ANTARCTICA.
    I. 60-08.00S 050-35.00W.
    J. 58-31.00S 050-46.00W.
 2. CANCEL THIS MSG 141500Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131143Z SEP 26
-HYDROLANT 1812/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-11.40S 101-39.00W.
-   B. A85, 61-43.20S 053-01.20W.
-   C. D33A, 64-00.00S 055-35.40W.
-   D. D33C, 61-38.40S 053-55.20W.
-2. CANCEL THIS MSG 141145Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121635Z SEP 26
-HYDROLANT 1811/26
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS 0800Z TO 1700Z DAILY
-   14 THRU 15 SEP IN AREAS WITHIN:
-   A. 27 MILES OF 57-27.40N 008-20.50W.
-   B. 20 MILES OF 57-43.40N 008-58.80W.
-2. CANCEL HYDROLANT 1733/26.
-3. CANCEL THIS MSG 151800Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

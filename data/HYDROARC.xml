@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>140756Z SEP 26
+HYDROARC 234/26.
+KARA SEA.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 140005Z SEP
+   ALONG TRACKLINE JOINING
+   77-37.40N 095-28.00E, 77-31.70N 112-12.50E.
+2. CANCEL THIS MSG 170809Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>100023Z SEP 26
+HYDROARC 233/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 190600Z TO 191700Z SEP
+   IN AREA BOUND BY
+   69-43.10N 033-38.00E, 69-43.10N 034-10.80E,
+   69-34.50N 034-10.80E, 69-34.50N 033-38.00E.
+2. CANCEL THIS MSG 191800Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>131906Z SEP 26
