@@ -28,7 +28,8 @@ NORTH ATLANTIC.
    B. 36-44.00N 076-01.00W.
    C. 25-30.00N 080-23.00W.
    D. 29-53.00N 089-57.00W.
-2. CANCEL THIS MSG 161830Z SEP 26.</msgText>
+2. CANCEL THIS MSG 161830Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -346,22 +347,6 @@ CARIBBEAN SEA.
 GUADELOUPE.
 ILET GOSIER LIGHTHOUSE 16-11.91N 061-29.45W AT 
 REDUCED INTENSITY.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>011652Z SEP 26
-NAVAREA IV 845/26.
-NORTH ATLANTIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0021Z TO 0151Z DAILY 15 SEP THRU 15 OCT
-   IN AREAS BOUND BY:
-   A. 09-36.00N 052-45.00W, 09-36.00N 052-42.00W,
-      08-41.00N 052-43.00W, 08-41.00N 052-46.00W.
-   B. 24-14.00N 055-20.00W, 24-16.00N 055-04.00W,
-      21-21.00N 054-38.00W, 21-19.00N 054-54.00W.
-2. CANCEL THIS MSG 150251Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
