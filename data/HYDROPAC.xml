@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>161600Z SEP 26
+HYDROPAC 2680/26.
+SULU SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   171225Z TO 171254Z SEP
+   IN AREA BOUND BY
+   09-28.00N 119-13.00E, 08-57.00N 119-36.00E,
+   08-45.00N 119-20.00E, 09-16.00N 118-57.00E.
+2. CANCEL THIS MSG 171354Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161032Z SEP 26
@@ -12,15 +26,16 @@ INDIA.
    BY M/V FUGRO MAPPER
    IN AREAS BOUND BY:
    A. 20-22.00N 071-18.00E, 20-28.00N 072-28.00E,
-   20-01.00N 072-28.00E, 20-02.00N 071-20.00E.
+      20-01.00N 072-28.00E, 20-02.00N 071-20.00E.
    B. 19-41.00N 071-07.00E, 19-41.00N 071-36.00E,
-   19-12.00N 071-36.00E, 19-13.00N 071-06.00E.
+      19-12.00N 071-36.00E, 19-13.00N 071-06.00E.
    C. 19-24.00N 071-56.00E, 19-24.00N 072-16.00E,
-   19-09.00N 072-16.00E, 19-09.00N 071-56.00E.
+      19-09.00N 072-16.00E, 19-09.00N 071-56.00E.
    D. 18-36.00N 072-11.00E, 18-36.00N 072-19.00E,
-   18-30.00N 072-19.00E, 18-30.00N 072-10.00E.
+      18-30.00N 072-19.00E, 18-30.00N 072-10.00E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 160001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 160001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -39,7 +54,8 @@ RUSSIA.
    57-39.70N 151-45.00E, 57-39.70N 150-59.70E,
    57-45.20N 150-59.70E, 57-45.20N 149-22.70E.
    ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 260001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 260001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -53,7 +69,8 @@ GUAM.
    IN AREA BOUND BY
    13-24.75N 144-38.30E, 13-24.92N 144-38.55E,
    13-25.75N 144-38.00E, 13-25.58N 144-37.75E.
-2. CANCEL THIS MSG 250400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 250400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -63,7 +80,8 @@ HYDROPAC 2673/26.
 EASTERN SOUTH PACIFIC.
 CHILE.
 VALPARAISO RADIO 33-04.70S 071-36.80W 
-DSC SERVICES OFF AIR.</msgText>
+DSC SERVICES OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -73,7 +91,8 @@ HYDROPAC 2672/26.
 SOUTH PACIFIC.
 CHILE.
 RACON AT ISLA FALGATE LIGHT 52-54.90S 073-49.80W
-INOPERATIVE.</msgText>
+INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -281,20 +300,6 @@ U.A.E.
    IN 25-11.30N 056-24.40E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 180001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>131559Z SEP 26
-HYDROPAC 2647/26
-STRAIT OF HORMUZ.
-U.A.E.
-1. M/V EL GAIA ON FIRE, ADRIFT AND SPILLING OIL
-   IN 26-26.50N 056-30.10E. VESSELS ARE ADVISED
-   TO KEEP CLEAR OF THIS POSITION AND TO
-   EXERCISE EXTREME CAUTION.
-2. CANCEL HYDROPAC 2504/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1206,17 +1211,6 @@ ESTABLISHED IN 26-38.41N 051-56.90E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>071331Z AUG 26
-HYDROPAC 2269/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-RACON AT MUTTAM POINT LIGHT 08-07.37N 077-19.05E
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>060314Z AUG 26
@@ -1298,17 +1292,6 @@ HYDROPAC 2200/26.
 ARABIAN SEA.
 PAKISTAN.
 FAIRWAY BUOY 24-43.14N 066-55.86E MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>311136Z JUL 26
-HYDROPAC 2188/26.
-ARABIAN SEA.
-INDIA.
-RACON AT OYSTER ROCKS LIGHT 14-49.22N 074-03.63E
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1421,17 +1404,6 @@ DUE TO TROPICAL STORM BAVI:
 4. CURRENT PORT INFORMATION CAN BE FOUND AT
    HOMEPORT.USCG.MIL USING THE PORT DIRECTORY TAB.
 5. CANCEL HYDROPAC 1947/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>061046Z JUL 26
-HYDROPAC 1931/26.
-BAY OF BENGAL.
-INDIA. 
-RACON AT DOLPHIN NOSE LIGHT IN 17-40.50N 083-17.70E.
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1632,16 +1604,6 @@ HYDROPAC 1237/26.
 BAY OF BENGAL.
 INDIA.
 BUOY ESTABLISHED IN 14-05.21N 080-28.50E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>221103Z APR 26
-HYDROPAC 1203/26.
-GULF OF KHAMBHAT.
-INDIA.
-RACON AT LUHARA POINT LIGHT 
-21-39.57N 072-32.89E INOPERATIVE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
