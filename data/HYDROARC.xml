@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>160741Z SEP 26
+HYDROARC 238/26.
+BEAUFORT SEA.
+CANADA.
+1. LIGHT AT SHINGLE POINT 69-00.00N 137-34.00W
+   INOPERATIVE.
+2. CANCEL HYDROARC 198/22.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>160733Z SEP 26
+HYDROARC 237/26.
+BEAUFORT SEA.
+CANADA.
+1. LIGHT AT PITT ISLAND 69-09.00N 136-11.00W
+   INOPERATIVE. 
+2. CANCEL HYDROARC 145/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>160725Z SEP 26
+HYDROARC 236/26.
+BEAUFORT SEA.
+CANADA.
+1. RACON AND LIGHT AT PELLY ISLAND 
+   69-37.00N 135-29.00W INOPERATIVE.
+2. CANCEL HYDROARC 227/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>140756Z SEP 26
@@ -91,17 +124,6 @@ ARCTIC.
    77-06.00N 161-35.00E, 76-42.00N 163-41.00E,
    81-06.00N 135-04.00W, 81-42.00N 134-18.00W.
 2. CANCEL THIS MSG 150344Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>101217Z SEP 26
-HYDROARC 227/26.
-BEAUFORT SEA.
-CANADA.
-RACON AT PELLY ISLAND IN 69-37.44N 135-29.26W
-INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -269,18 +291,6 @@ DNC 28.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>290041Z AUG 25
-HYDROARC 145/25(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT PITT ISLAND 69-09.00N 136-11.00W
-INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ADMIN</category>
         <status>INFORCE</status>
         <msgText>171751Z JUL 25
@@ -347,18 +357,6 @@ CANADA.
 DNC 27.
 RACON AT PULLEN ISLAND LIGHT
 69-46.60N 134-24.40W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>111643Z AUG 22
-HYDROARC 198/22(15).
-BEAUFORT SEA.
-CANADA.
-DNC 27.
-RACON AT SHINGLE POINT BEACON 
-69-00.00N 137-34.50W INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
 </smaps>
