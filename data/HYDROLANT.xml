@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>160340Z SEP 26
+HYDROLANT 1835/26.
+SEA OF THE HEBRIDES.
+SCOTLAND.
+DUBH ARTACH LIGHT 56-08.00N 006-38.10W
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160112Z SEP 26
+HYDROLANT 1833/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 170001Z TO 172359Z SEP 
+   IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 180100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>151850Z SEP 26
@@ -55,23 +79,6 @@ ANTARCTICA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151348Z SEP 26
-HYDROLANT 1828/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS
-   IN PROGRESS UNTIL 160100Z SEP
-   IN AREA BOUND BY
-   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
-   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
-   34-01.00N 008-03.00W.
-2. CANCEL HYDROLANT 1827/26.
-3. CANCEL THIS MSG 160200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>150426Z SEP 26
@@ -123,21 +130,6 @@ TYRRHENIAN SEA.
 SARDINIA.
 1. DERELICT VESSEL ADRIFT IN 38-51.10N 009-20.90E.
 2. CANCEL THIS MSG 171900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141832Z SEP 26
-HYDROLANT 1822/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 150001Z TO 152359Z SEP 
-   IN AREA BOUND BY
-   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
-   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
-   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
-2. CANCEL THIS MSG 160100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -255,24 +247,6 @@ SCOTLAND.
    IN AREA WITHIN 140 MILES OF 
    58-14.00N 013-21.00W.
 2. CANCEL THIS MSG 220030Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>112318Z SEP 26
-HYDROLANT 1803/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0800Z TO 2000Z DAILY 15 THRU 19 SEP
-   IN AREA BOUND BY
-   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,
-   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,
-   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,
-   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.
-2. CANCEL HYDROLANT 1798/26.
-3. CANCEL THIS MSG 192100Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
