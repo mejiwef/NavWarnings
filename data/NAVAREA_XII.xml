@@ -69,25 +69,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>142125Z SEP 26
-NAVAREA XII 628/26.
-NORTH PACIFIC.
-1. DSC SERVICES INOPERATIVE AND BROADCAST
-   SERVICES UNRELIABLE 161500Z TO 161730Z SEP
-   AT USCG REMOTE COMMUNICATION FACILITIES:
-   A. 21-22.00N 158-09.00W.
-   B. 37-55.00N 122-44.00W.
-   C. 32-08.00N 081-42.00W.
-   D. 46-10.00N 123-49.00W.
-   E. 35-51.00N 121-06.00W.
-   F. 18-27.00N 066-06.00W.
-   G. 57-46.00N 152-34.00W.
-2. CANCEL THIS MSG 161830Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>111553Z SEP 26

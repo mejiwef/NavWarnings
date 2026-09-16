@@ -702,17 +702,6 @@ DANGEROUS WRECK IN 23-57.50N 015-50.00W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>052211Z AUG 26
-HYDROLANT 1510/26.
-NORTH ATLANTIC.
-ORKNEY ISLANDS.
-NOUP HEAD LIGHT 59-19.90N 003-04.20W
-RANGE REDUCED TO 12 MILES.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>null</category>
         <status>INFORCE</status>
         <msgText>311600Z JUL
