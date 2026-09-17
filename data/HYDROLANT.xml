@@ -200,17 +200,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>141900Z SEP 26
-HYDROLANT 1823/26.
-TYRRHENIAN SEA.
-SARDINIA.
-1. DERELICT VESSEL ADRIFT IN 38-51.10N 009-20.90E.
-2. CANCEL THIS MSG 171900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>141708Z SEP 26
