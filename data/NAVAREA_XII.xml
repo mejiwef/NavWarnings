@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
+        <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>161410Z SEP 26
-NAVAREA XII 633/26.
+        <msgText>162149Z SEP 26
+NAVAREA XII 635/26.
 NORTH PACIFIC.
 HAWAII.
-USCG REMOTE COMMUNICATION FACILITY
-HONOLULU 21-22.00N 158-09.00W
-RECEIVE CAPABILITIES INOPERATIVE.
-</msgText>
+1. HAZARDOUS OPERATIONS 171700Z TO 180300Z SEP
+   IN AREA WITHIN ONE MILE OF 21-17.48N 157-59.23W.
+2. CANCEL THIS MSG 180400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>162140Z SEP 26
+NAVAREA XII 634/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 191700Z TO 192200Z SEP
+   IN AREA WITHIN ONE MILE OF 33-01.87N 118-35.26W.
+2. CANCEL THIS MSG 192300Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -24,18 +34,6 @@ CALIFORNIA.
    15 MILES OF 33-01.00N 120-53.00W.
 2. CANCEL NAVAREA XII 631/26.
 3. CANCEL THIS MSG 190200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152120Z SEP 26
-NAVAREA XII 630/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 161630Z TO 162230Z SEP
-   IN AREA WITHIN ONE MILE OF 33-01.75N 118-35.28W.
-2. CANCEL THIS MSG 162330Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

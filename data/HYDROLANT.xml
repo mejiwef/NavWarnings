@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170136Z SEP 26
+HYDROLANT 1844/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 240259Z SEP BY M/V SIEM PILOT
+   IN 22-25.32S 039-56.55W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240359Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170130Z SEP 26
+HYDROLANT 1843/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1700Z
+   DAILY 17 SEP THRU 01 OCT BY M/V TOP WEATHER
+   AND M/V COMANDO B IN 20-23.85S 040-09.08W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 011800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170125Z SEP 26
+HYDROLANT 1842/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z
+   DAILY 17 SEP TRU 01 OCT BY M/V FJ IRIS AND
+   M/V COMANDO B IN 20-23.72S 040-09.15W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 011900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161510Z SEP 26
@@ -35,23 +74,6 @@ ANTARCTICA.
    G. 56-21.00S 050-24.00W.
    H. 58-14.00S 050-05.00W.
 2. CANCEL THIS MSG 171433Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>160357Z SEP 26
-HYDROLANT 1836/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-11.40S 101-39.00W.
-   B. A85, 61-43.20S 053-01.20W.
-   C. D33A, 64-00.00S 055-35.40W.
-   D. D33C, 61-38.40S 053-55.20W.
-2. CANCEL THIS MSG 170358Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
