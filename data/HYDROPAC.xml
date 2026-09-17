@@ -1,6 +1,120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170926Z SEP 26
+HYDROPAC 2691/26.
+SEA OF JAPAN.
+RUSSIA.
+1. SURVEY OPERATIONS 210001Z TO 211200Z 
+   AND 251400Z TO 261000Z SEP IN AREA 
+   WITHIN FIVE MILES OF 42-31.00N 131-53.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 261100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>170603Z SEP 26
+HYDROPAC 2689/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 211100Z TO 211500Z SEP
+   IN AREA BOUND BY
+   40-05.00S 074-08.00W, 40-05.00S 073-55.00W,
+   40-15.00S 073-55.00W, 40-15.00S 074-08.00W.
+2. CANCEL THIS MSG 211600Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>151951Z SEP 26
+HYDROPAC 2688/26.
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1427Z TO 1833Z DAILY 22 THRU 28 SEP
+   IN AREAS BOUND BY:
+   A. 23-55.00N 144-37.00E, 26-07.00N 151-14.00E,
+      27-41.00N 156-20.00E, 29-25.00N 165-03.00E,
+      30-26.00N 172-41.00E, 29-41.00N 176-14.00E,
+      29-13.00N 170-10.00E, 28-28.00N 164-59.00E,
+      26-39.00N 156-15.00E, 23-28.00N 144-48.00E.
+   B. 23-46.00N 156-11.00W, 24-52.00N 159-19.00W,
+      27-38.00N 167-49.00W, 29-25.00N 175-00.00W,
+      29-45.00N 176-35.00W, 29-49.00N 180-00.00W,
+      30-56.00N 180-00.00W, 31-11.00N 175-00.00W,
+      31-17.00N 171-29.00W, 30-33.00N 161-15.00W,
+      29-37.00N 155-40.00W, 28-49.00N 151-35.00W,
+      26-53.00N 145-26.00W, 26-50.00N 145-28.00W,
+      24-03.00N 154-32.00W, 23-46.00N 156-11.00W.
+2. CANCEL THIS MSG 281933Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>150900Z SEP 26
+HYDROPAC 2687/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1223Z TO 1447Z DAILY 22 THRU 28 SEP
+   IN AREA BOUND BY
+   24-36.00S 072-06.00E, 23-03.00S 076-59.00E,
+   21-45.00S 080-57.00E, 18-56.00S 087-42.00E,
+   16-14.00S 093-37.00E, 15-16.00S 095-26.00E,
+   15-18.00S 095-31.00E, 15-25.00S 095-50.00E,
+   15-30.00S 096-12.00E, 15-34.00S 096-34.00E,
+   15-34.00S 097-02.00E, 15-33.00S 097-14.00E,
+   15-30.00S 097-33.00E, 15-28.00S 097-42.00E,
+   15-26.00S 097-50.00E, 15-24.00S 097-58.00E,
+   15-22.00S 098-03.00E, 15-19.00S 098-11.00E,
+   15-18.00S 098-14.00E, 15-56.00S 098-31.00E,
+   17-04.00S 096-38.00E, 19-56.00S 091-02.00E,
+   23-02.00S 084-06.00E, 24-59.00S 079-06.00E,
+   27-04.00S 073-18.00E.
+2. CANCEL THIS MSG 281547Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>150834Z SEP 26
+HYDROPAC 2686/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+PITCAIRN ISLANDS.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   2107Z TO 0108Z DAILY 22 THRU 28 SEP
+   IN AREA BOUND BY
+   19-51.00S 149-00.00W, 19-23.00S 148-49.00W,
+   24-58.00S 133-10.00W, 26-10.00S 129-09.00W,
+   27-34.00S 123-03.00W, 28-11.00S 118-33.00W,
+   28-45.00S 112-39.00W, 28-18.00S 111-00.00W,
+   28-26.00S 103-26.00W, 26-55.00S 101-39.00W,
+   26-32.00S 099-12.00W, 25-17.00S 091-56.00W,
+   23-54.00S 083-47.00W, 27-17.00S 082-49.00W,
+   30-21.00S 082-47.00W, 31-02.00S 085-34.00W,
+   30-38.00S 087-34.00W, 30-58.00S 093-06.00W,
+   31-31.00S 102-06.00W, 31-15.00S 106-53.00W,
+   30-36.00S 113-01.00W, 29-19.00S 119-18.00W,
+   28-06.00S 125-06.00W, 26-11.00S 132-50.00W.
+2. CANCEL THIS MSG 290208Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160827Z SEP 26
+HYDROPAC 2685/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 22 THRU 24 SEP IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 241400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>170029Z SEP 26
@@ -117,17 +231,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>160747Z SEP 26
-HYDROPAC 2673/26.
-EASTERN SOUTH PACIFIC.
-CHILE.
-VALPARAISO RADIO 33-04.70S 071-36.80W 
-DSC SERVICES OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>160429Z SEP 26
@@ -187,22 +290,6 @@ INDIA.
    20-48.77N 087-07.40E, 20-37.55N 087-17.08E,
    17-28.40N 088-40.73E, 17-15.73N 086-06.92E.
 2. CANCEL THIS MSG 190830Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151123Z SEP 26
-HYDROPAC 2664/26.
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-1. HAZARDOUS OPERATIONS 170430Z TO 170730Z SEP
-   IN AREA BOUND BY
-   22-42.11N 068-55.34E, 22-40.00N 069-09.11E,
-   22-35.12N 069-16.12E, 22-28.30N 069-17.10E,
-   22-28.45N 068-51.05E.
-2. CANCEL THIS MSG 170830Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -363,20 +450,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>121609Z SEP 26
-HYDROPAC 2641/26
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   162200Z TO 170400Z SEP IN AREA BOUND BY
-   09-16.20N 118-57.00E, 09-28.20N 119-12.60E,
-   08-57.00N 119-36.00E, 08-45.00N 119-19.80E.
-2. CANCEL THIS MSG 170500Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121514Z SEP 26
@@ -403,20 +476,6 @@ BANGLADESH.
    22-23.00N 091-38.00E, 22-20.70N 091-37.80E,
    22-20.45N 091-45.43E.
 2. CANCEL THIS MSG 261700Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>120652Z SEP 26
-HYDROPAC 2636/26
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   170100Z TO 170700Z SEP IN AREA BOUND BY
-   51-08.34S 168-41.58W, 53-51.96S 152-28.98W,
-   53-57.18S 131-36.66W, 54-51.00S 131-31.44W,
-   54-44.94S 152-25.26W, 52-02.16S 168-36.72W.
-2. CANCEL THIS MSG 170800Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -715,22 +774,6 @@ GUAM.
    IN AREA WITHIN THREE MILES OF 
    13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 171400Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090825Z SEP 26
-HYDROPAC 2594/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 142230Z TO 150600Z, 
-   2200Z TO 0600Z DAILY 15 AND 16 SEP
-   IN AREA BOUND BY
-   13-32.00N 144-38.00E, 13-53.00N 145-02.00E,
-   14-38.00N 144-21.00E, 14-17.00N 143-57.00E.
-2. CANCEL THIS MSG 170700Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
