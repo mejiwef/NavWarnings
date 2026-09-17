@@ -12,7 +12,8 @@ RUSSIA.
    72-52.25N 034-14.50E, 72-27.17N 037-59.50E,
    70-49.00N 036-34.00E, 69-42.50N 033-08.50E,
    69-47.00N 032-36.50E, 71-02.00N 032-21.25E.
-2. CANCEL THIS MSG 251900Z SEP 26.</msgText>
+2. CANCEL THIS MSG 251900Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
@@ -21,7 +22,8 @@ RUSSIA.
 HYDROARC 239/26.
 KARA SEA.
 RUSSIA.
-DANGEROUS WRECK IN 70-58.65N 073-52.21E.</msgText>
+DANGEROUS WRECK IN 70-58.65N 073-52.21E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

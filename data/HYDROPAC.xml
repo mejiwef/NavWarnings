@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171618Z SEP 26
+HYDROPAC 2695/26.
+PERSIAN GULF.
+QATAR.
+PIPELINE OPERATIONS 18 SEP UNTIL FURTHER
+NOTICE BY BARGE MC DERMOTT
+IN AREA BOUND BY
+25-59.10N 051-36.60E, 26-11.20N 051-46.20E,
+26-15.10N 051-40.60E, 26-00.10N 051-26.00E.
+TWO MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171601Z SEP 26
+HYDROPAC 2694/26.
+PERSIAN GULF.
+QATAR.
+SURVEY OPERATIONS 18 SEP UNTIL FURTHER NOTICE
+BY M/V FUGRO RESILIENCE
+IN AREA BOUND BY
+26-33.31N 051-04.86E, 26-56.03N 051-13.62E,
+25-04.51N 052-27.40E, 24-50.54N 052-03.14E.
+WIDE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>171522Z SEP 26
+HYDROPAC 2693/26.
+SOUTH PACIFIC.
+CHILE.
+1. HAZARDOUS OPERATIONS 211100Z TO 211500Z SEP
+   IN AREA BOUND BY
+   33-56.00S 072-30.00W, 33-59.00S 072-20.00W,
+   34-18.00S 072-30.00W, 34-15.00S 072-40.00W.
+2. CANCEL THIS MSG 211600Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>171301Z SEP 26
+HYDROPAC 2692/26
+STRAIT OF HORMUZ.
+OMAN.
+M/V TREND SUFFERED A SECURITY INCIDENT 
+AND ANCHORED IN 26-25.60N 056-24.00E.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+POSITION AND TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>170926Z SEP 26
@@ -11,7 +67,8 @@ RUSSIA.
    AND 251400Z TO 261000Z SEP IN AREA 
    WITHIN FIVE MILES OF 42-31.00N 131-53.00E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 261100Z SEP 26.</msgText>
+2. CANCEL THIS MSG 261100Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -24,7 +81,8 @@ CHILE.
    IN AREA BOUND BY
    40-05.00S 074-08.00W, 40-05.00S 073-55.00W,
    40-15.00S 073-55.00W, 40-15.00S 074-08.00W.
-2. CANCEL THIS MSG 211600Z SEP 26.</msgText>
+2. CANCEL THIS MSG 211600Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -48,7 +106,8 @@ NORTH PACIFIC.
       29-37.00N 155-40.00W, 28-49.00N 151-35.00W,
       26-53.00N 145-26.00W, 26-50.00N 145-28.00W,
       24-03.00N 154-32.00W, 23-46.00N 156-11.00W.
-2. CANCEL THIS MSG 281933Z SEP 26.</msgText>
+2. CANCEL THIS MSG 281933Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -72,7 +131,8 @@ INDIAN OCEAN.
    17-04.00S 096-38.00E, 19-56.00S 091-02.00E,
    23-02.00S 084-06.00E, 24-59.00S 079-06.00E,
    27-04.00S 073-18.00E.
-2. CANCEL THIS MSG 281547Z SEP 26.</msgText>
+2. CANCEL THIS MSG 281547Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -97,7 +157,8 @@ PITCAIRN ISLANDS.
    31-31.00S 102-06.00W, 31-15.00S 106-53.00W,
    30-36.00S 113-01.00W, 29-19.00S 119-18.00W,
    28-06.00S 125-06.00W, 26-11.00S 132-50.00W.
-2. CANCEL THIS MSG 290208Z SEP 26.</msgText>
+2. CANCEL THIS MSG 290208Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -112,7 +173,8 @@ GUAM.
    THREE MILES OF:
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 241400Z SEP 26.</msgText>
+2. CANCEL THIS MSG 241400Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -125,7 +187,8 @@ INDONESIA.
    IN 01-07.09N 103-31.06E AT 162046Z SEP.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 200029Z SEP 26.</msgText>
+2. CANCEL THIS MSG 200029Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -156,20 +219,7 @@ SOUTH PACIFIC.
    B. 59-42.36S 180-00.00W, 58-39.52S 161-41.03W,
       57-28.48S 126-01.12W, 60-23.24S 122-04.48W,
       61-31.54S 161-16.01W, 62-33.00S 180-00.00W.
-2. CANCEL THIS MSG 212200Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>161600Z SEP 26
-HYDROPAC 2680/26.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   171225Z TO 171254Z SEP IN AREA BOUND BY
-   09-28.00N 119-13.00E, 08-57.00N 119-36.00E,
-   08-45.00N 119-20.00E, 09-16.00N 118-57.00E.
-2. CANCEL THIS MSG 171354Z SEP 26.
+2. CANCEL THIS MSG 212200Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -675,20 +725,6 @@ EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101100Z SEP 26
-HYDROPAC 2612/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
-   14 THRU 17 SEP IN AREA BOUND BY
-   12-49.00N 080-46.00E, 12-49.00N 081-26.00E,
-   12-59.00N 081-26.00E, 12-59.00N 080-46.00E.
-2. CANCEL THIS MSG 171230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>100913Z SEP 26
@@ -764,21 +800,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>090904Z SEP 26
-HYDROPAC 2596/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 140100Z TO 141300Z, 
-   0600Z TO 1300Z DAILY 15 THRU 17 SEP
-   IN AREA WITHIN THREE MILES OF 
-   13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 171400Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>090748Z SEP 26
 HYDROPAC 2592/26.
 NORTH PACIFIC.
@@ -790,20 +811,6 @@ GUAM.
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-49.98N 144-30.00E.
 2. CANCEL THIS MSG 201459Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>090726Z SEP 26
-HYDROPAC 2591/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 140600Z TO 141300Z, 
-   0100Z TO 1300Z DAILY 15 THRU 17 SEP
-   IN AREA WITHIN THREE MILES OF 
-   13-27.00N 145-08.00E.
-2. CANCEL THIS MSG 171400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
