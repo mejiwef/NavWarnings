@@ -183,22 +183,6 @@ IF POSSIBLE, REPORTS TO ANY COASTAL RADIO STATION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>142243Z SEP 26
-NAVAREA IV 889/26.
-NORTH ATLANTIC.
-TRINIDAD AND TOBAGO.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   180700Z SEP BY M/V OCEAN INTERVENTION II
-   ALONG TRACKLINE JOINING
-   10-06.23N 060-17.47W, 10-04.98N 060-16.47W,
-   10-04.94N 060-13.63W, 10-06.60N 060-15.44W.
-   500 METER BERTH REQUESTED.
-2. CANCEL THIS MSG 180800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>111709Z SEP 26
@@ -408,20 +392,6 @@ LOUISIANA.
    WIDE BERTH REQUESTED.
 2. CANCEL NAVAREA IV 762/26.
 3. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181434Z AUG 26
-NAVAREA IV 799/26.
-NORTH ATLANTIC.
-DELAWARE.
-1. UNDERWATER OPERATIONS 30800Z AUG 
-   TO 180800Z SEP BY M/V ATLANTIS IN AREA
-   WITHIN TEN MILES OF 37-32.00N 074-14.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 180900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
