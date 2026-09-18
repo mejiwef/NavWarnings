@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>181426Z SEP 26
+HYDROARC 243/26
+KARA SEA.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED IN: 
+   A. 77-55.80N 104-05.10E.
+   B. 77-52.00N 103-21.60E.
+   C. 77-52.50N 101-51.20E.
+   D. 76-38.00N 120-58.10E.
+   E. 76-43.00N 120-18.80E.
+   F. 77-40.10N 108-43.50E.
+2. CANCEL THIS MSG 211526Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCK</category>
         <status>INFORCE</status>
         <msgText>180541Z SEP 26
@@ -10,7 +27,8 @@ CANADA.
 1. 0.3 METER ROCK DEPTH REPORTED IN 
    70-32.05N 115-59.06W.
 2. DANGEROUS SUBMERGED ROCK REPORTED 
-   IN 70-30.05N 116-04.70W.</msgText>
+   IN 70-30.05N 116-04.70W.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -25,16 +43,6 @@ RUSSIA.
    70-49.00N 036-34.00E, 69-42.50N 033-08.50E,
    69-47.00N 032-36.50E, 71-02.00N 032-21.25E.
 2. CANCEL THIS MSG 251900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>161221Z SEP 26
-HYDROARC 239/26.
-KARA SEA.
-RUSSIA.
-DANGEROUS WRECK IN 70-58.65N 073-52.21E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -88,29 +96,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>INFORCE BULLETIN</category>
-        <status>INFORCE</status>
-        <msgText>111443Z SEP 26
-HYDROARC 229/26.
-1. HYDROARC WARNINGS IN FORCE AS OF 111443Z SEP.
-   ALL THE INFORCE WARNINGS ARE LISTED HERE.
-   228/2026, 227/2026, 226/2026, 225/2026, 224/2026,
-   223/2026, 222/2026, 221/2026, 218/2026, 212/2026,
-   202/2026, 201/2026, 191/2026, 185/2026, 155/2026.
-   178/2025, 175/2025, 148/2025, 145/2025, 103/2025.
-   283/2024.
-   163/2023.
-   198/2022.
-2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROARC 
-   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
-   MARITIME SAFETY INFORMATION WEBSITE AT:
-   MSI.NGA.MIL/NAVWARNINGS.
-   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
-   FROM NGA AT NAVSAFETY@NGA.MIL.
-3. CANCEL HYDROARC 211/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>101300Z SEP 26
@@ -146,34 +131,6 @@ RUSSIA.
    69-43.10N 033-38.00E, 69-43.10N 034-10.80E,
    69-34.50N 034-10.80E, 69-34.50N 033-38.00E.
 2. CANCEL THIS MSG 181800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GPS JAMMING</category>
-        <status>INFORCE</status>
-        <msgText>082102Z SEP 26
-HYDROARC 222/26.
-NORWEGIAN SEA.
-NORWAY.
-1. GPS JAMMING EXERCISES 0600Z TO 1600Z
-   DAILY 09 THRU 18 AND 1600Z TO 2000Z
-   DAILY 15 AND 16 SEP IN AREA BOUND BY
-   69-50.40N 013-42.00E, 69-49.80N 016-15.60E,
-   69-07.20N 016-23.40E, 68-39.00N 013-25.80E.
-2. CANCEL THIS MSG 181700Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>070856Z SEP 26
-HYDROARC 218/26.
-KARA SEA.
-RUSSIA.
-SCIENTIFIC MOORINGS REPORTED IN: 
-A. 67-17.87N 072-40.37E.
-B. 67-20.38N 072-46.96E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
