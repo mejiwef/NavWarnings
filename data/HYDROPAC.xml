@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>180043Z SEP 26
+HYDROPAC 2702/26.
+INDIAN OCEAN.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   200300Z TO 200900Z SEP IN AREA BOUND BY
+   10-59.27S 092-07.69E, 11-03.49S 092-40.39E,
+   16-24.60S 091-56.90E, 16-20.29S 091-23.45E.
+2. CANCEL THIS MSG 201000Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>172243Z SEP 26
+HYDROPAC 2700/26.
+BERING STRAIT.
+RUSSIA.
+1. SCIENTIFIC MOORING, AT DEPTH SEVEN METERS,
+   ESTABLISHED IN 66-19.59N 168-57.01W.
+2. CANCEL HYDROPAC 1795/25.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>172217Z SEP 26
+HYDROPAC 2699/26.
+NORTH PACIFIC.
+CANCEL HYDROPAC 2688/26 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>171711Z SEP 26
@@ -83,20 +114,6 @@ RUSSIA.
    WITHIN FIVE MILES OF 42-31.00N 131-53.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 261100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170603Z SEP 26
-HYDROPAC 2689/26.
-SOUTH PACIFIC.
-CHILE.
-1. HAZARDOUS OPERATIONS 211100Z TO 211500Z SEP
-   IN AREA BOUND BY
-   40-05.00S 074-08.00W, 40-05.00S 073-55.00W,
-   40-15.00S 073-55.00W, 40-15.00S 074-08.00W.
-2. CANCEL THIS MSG 211600Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -405,20 +422,6 @@ PERU.
    11-00.00S 078-08.00W, 11-00.00S 077-39.00W,
    11-35.00S 077-10.00W, 11-35.00S 078-08.00W.
 2. CANCEL THIS MSG 230900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141942Z SEP 26
-HYDROPAC 2653/26.
-GULF OF OMAN.
-U.A.E.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 17 SEP BY M/V HUA XING LONG
-   IN 25-11.30N 056-24.40E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 180001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -917,19 +920,6 @@ INDIA.
    18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
    18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
 2. CANCEL THIS MSG 201929Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>030321Z SEP 26
-HYDROPAC 2513/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V SKANDI HERCULES
-IN 19-38.90S 115-55.60E.
-FIVE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1864,18 +1854,6 @@ G. 11.5 METERS IN 07-06.17N 171-22.40E.
 H. 5.4 METERS IN 07-06.16N 171-22.43E.
 I. 18.8 METERS IN 07-05.70N 171-22.47E.
 J. 11.2 METERS IN 07-05.30N 171-22.39E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>141418Z JUL 25
-HYDROPAC 1795/25(96).
-BERING STRAIT.
-RUSSIA.
-DNC 27.
-SCIENTIFIC MOORING, AT DEPTH SEVEN METERS,
-ESTABLISHED IN 66-19.56N 168-57.08W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
