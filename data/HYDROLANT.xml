@@ -3,6 +3,25 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>191245Z SEP 26
+HYDROLANT 1858/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-42.00S 045-31.00W.
+   B. D33B, 59-34.00S 045-50.00W.
+   C. A76C, 54-30.00S 026-29.00W.
+   D. A81, 57-01.00S 038-20.00W.
+   E. 57-18.10S 047-33.00W.
+   F. 59-10.00S 050-42.00W.
+   G. 56-21.00S 050-24.00W.
+   H. 58-07.00S 049-58.00W.
+2. CANCEL THIS MSG 201400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>190408Z SEP 26
 HYDROLANT 1857/26.
 SCOTIA SEA.
@@ -72,25 +91,6 @@ WESTERN SAHARA.
    ADRIFT, IN 24-44.20N 016-36.20W.
    AT 181334Z SEP.
 2. CANCEL THIS MSG 211430Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>181311Z SEP 26
-HYDROLANT 1853/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 57-46.00S 045-43.00W.
-   B. D33B, 59-33.00S 046-21.00W.
-   C. A76C, 54-31.00S 026-31.00W.
-   D. D32, 57-01.00S 038-20.00W.
-   E. 57-18.10S 047-33.00W.
-   F. 59-53.00S 051-04.00W.
-   G. 56-21.00S 050-24.00W.
-   H. 58-07.00S 049-58.00W.
-2. CANCEL THIS MSG 191400Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>191308Z SEP 26
+NAVAREA IV 909/26
+BAHAMAS.
+FLORIDA.
+USCG REMOTE COMMUNICATION FACILITY
+MIAMI (NMA) 25-30N 080-23W
+HF CAPABILITIES INOPERATIVE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>182325Z SEP 26
@@ -83,22 +94,6 @@ NAVAREA IV 905/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM THE NAVAREA IV COORDINATOR AT NAVSAFETY@NGA.MIL.
 3. CANCEL NAVAREA IV 852/26, 876/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181531Z SEP 26
-NAVAREA IV 904/26
-NORTH ATLANTIC.
-NORTH CAROLINA.
-1. HAZARDOUS OPERATIONS
-   A. 210800Z TO 211200Z IN AREA BOUND BY 
-      34-17.00N 076-45.00W, 33-49.00N 076-30.00W,
-      33-33.00N 076-55.00W, 34-04.00N 077-07.00W.
-   B. 220700Z TO 221800Z IN AREA BOUND BY 
-      34-38.00N 076-56.00W, 33-49.00N 076-30.00W,
-      33-10.00N 077-31.00W, 34-24.00N 077-30.00W.
-2. CANCEL THIS MSG 221900Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
