@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>190408Z SEP 26
+HYDROLANT 1857/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 71-11.40S 101-39.00W.
+   B. A85, 61-43.20S 053-01.20W.
+   C. D33A, 64-00.00S 055-35.40W.
+   D. D33C, 61-38.40S 053-55.20W.
+2. CANCEL THIS MSG 200408Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>182014Z SEP 26
@@ -89,23 +104,6 @@ BRAZIL.
    30-15.00S 049-54.50W, 30-15.00S 050-06.75W,
    31-15.00S 050-42.34W, 31-15.00S 050-26.24W.
 2. CANCEL THIS MSG 252230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>180451Z SEP 26
-HYDROLANT 1851/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-11.40S 101-39.00W.
-   B. A85, 61-43.20S 053-01.20W.
-   C. D33A, 64-00.00S 055-35.40W.
-   D. D33C, 61-38.40S 053-55.20W.
-2. CANCEL THIS MSG 190452Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

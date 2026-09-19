@@ -3,6 +3,44 @@
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>191023Z SEP 26
+HYDROPAC 2722/26.
+SEA OF OKHOTSK.
+RUSSIA.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL 25 OCT
+   BY M/V FYODOR KOVROV IN AREA BOUND BY
+   53-46.10N 141-20.00E, 53-46.00N 142-37.70E,
+   53-22.00N 141-45.50E, 53-36.30N 141-20.00E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>160905Z SEP 26
+HYDROPAC 2720/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 242000Z TO 251000Z SEP
+   IN AREA BOUND BY
+   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-40.00N 144-16.15E.
+2. CANCEL THIS MSG 251100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>190612Z SEP 26
+HYDROPAC 2719/26.
+SOUTH PACIFIC.
+KIRIBATI.
+1. ORANGE OBJECT ADRIFT IN VICINITY 00-22.30N 172-56.50E.
+2. CANCEL THIS MSG 220616Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>182044Z SEP 26
 HYDROPAC 2717/26.
 PERSIAN GULF.
@@ -491,41 +529,6 @@ RUSSIA.
    ONE MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2652/26.
 3. CANCEL THIS MSG 260001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>150716Z SEP 26
-HYDROPAC 2662/26.
-SOUTH PACIFIC.
-NEW ZEALAND.
-1. HAZARDOUS OPERATIONS 0115Z TO 2330Z 
-   DAILY 19 SEP THRU 01 OCT:
-   A. ROCKET LAUNCHING IN AREA BOUND BY
-      39-12.00S 177-46.20E, 39-07.80S 178-18.00E,
-      39-19.20S 178-18.00E, 39-22.80S 177-48.00E,
-      39-15.00S 177-45.00E.
-   B. SPACE DEBRIS IN AREA BOUND BY
-      37-51.00S 178-18.00W, 37-00.00S 172-42.02W,
-      38-54.00S 172-06.00W, 39-42.00S 177-48.00W.
-2. CANCEL THIS MSG 020030Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>150659Z SEP 26
-HYDROPAC 2661/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0001Z TO 2330Z DAILY 19 SEP THRU 01 OCT   
-   IN AREAS BOUND BY:
-   A. 37-51.00S 178-18.00W, 37-00.00S 172-42.02W,
-      38-54.00S 172-06.00W, 39-42.00S 177-48.00W.
-   B. 35-45.60S 166-57.00W, 34-24.00S 160-06.00W,
-      36-33.00S 159-18.00W, 37-58.20S 166-20.40W.
-2. CANCEL THIS MSG 020030Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
