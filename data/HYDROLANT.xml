@@ -463,20 +463,6 @@ ROKER PIER LIGHT 54-55.30N 001-21.20W UNRELIABLE.
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>031333Z SEP 26
-HYDROLANT 1743/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
-   04 THRU 18 SEP BY M/V CHARLIE AND M/V COMANDO B
-   IN 20-24.27S 040-09.57W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 182200Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>031319Z SEP 26
 HYDROLANT 1742/26.
 SOUTH ATLANTIC.
@@ -489,20 +475,6 @@ BRAZIL.
    23-17.76S 040-13.45W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 302100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031310Z SEP 26
-HYDROLANT 1741/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z DAILY
-   04 THRU 18 SEP BY M/V COMANDO B
-   AND M/V LINDEN TRADER IN 20-22.98S 040-08.73W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 182200Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

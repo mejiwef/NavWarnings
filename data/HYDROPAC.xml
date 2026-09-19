@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>182044Z SEP 26
+HYDROPAC 2717/26.
+PERSIAN GULF.
+SAUDI ARABIA.
+SURVEY OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE IN AREA BOUND BY
+28-48.72N 048-50.06E, 28-42.06N 048-55.57E,
+28-30.44N 048-34.57E, 28-34.33N 048-29.94E,
+28-35.19N 048-29.08E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181818Z SEP 26
