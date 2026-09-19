@@ -19,18 +19,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>182111Z SEP 26
-NAVAREA XII 644/26.
-NORTH PACIFIC.
-HAWAII.
-1. HAZARDOUS OPERATIONS 190800Z TO 191700Z SEP
-   IN AREA WITHIN ONE MILE OF 21-17.48N 157-59.23W.
-2. CANCEL THIS MSG 191800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>181639Z SEP 26.

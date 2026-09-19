@@ -119,20 +119,6 @@ CANADA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>100023Z SEP 26
-HYDROARC 233/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 190600Z TO 191700Z SEP
-   IN AREA BOUND BY
-   69-43.10N 033-38.00E, 69-43.10N 034-10.80E,
-   69-34.50N 034-10.80E, 69-34.50N 033-38.00E.
-2. CANCEL THIS MSG 191800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>101300Z SEP 26
