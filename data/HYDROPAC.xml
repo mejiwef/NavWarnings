@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>201604Z SEP 26
+HYDROPAC 2727/26
+EASTERN INDIAN OCEAN.
+1. YELLOW CYLINDRICAL OBJECT ADRIFT 
+   IN 04-15.60S 081-20.00E AT 200538Z SEP.
+2. CANCEL THIS MSG 230638Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>201153Z SEP 26
@@ -884,21 +894,6 @@ ARABIAN SEA.
    C. 10-54.17N 062-05.32E, 11-30.68N 060-00.68E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 060001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031202Z SEP 26
-HYDROPAC 2527/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 061831Z TO 121829Z AND
-   131831Z TO 191829Z SEP IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 201929Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
