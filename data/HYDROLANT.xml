@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201002Z SEP 26
+HYDROLANT 1862/26
+NORTH ATLANTIC.
+WESTERN SAHARA.
+1. HAZARDOUS OPERATIONS
+   0100Z TO 2359Z SEP IN AREA 
+   WITHIN 20 MILES OF 23-35.00N 017-00.00W.
+2. CANCEL THIS MSG 230059Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>200933Z SEP 26
+HYDROLANT 1861/26.
+BLACK SEA.
+ROMANIA.
+1. OBJECT ADRIFT IN VICINITY 43-57.90N 029-32.38E AT 200330Z SEP.
+   TWO MILE BERTH REQUESTED. 
+2. CANCEL THIS MSG 230935Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>200638Z SEP 26
+HYDROLANT 1860/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-49.20S 099-05.40W.
+   B. A85, 61-25.80S 053-19.80W.
+   C. D33A, 64-01.80S 055-39.00W.
+   D. D33C, 61-49.80S 053-42.60W.
+2. CANCEL THIS MSG 210639Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>200451Z SEP 26
+HYDROLANT 1859/26.
+NORTH SEA.
+ENGLAND.
+CABLE OPERATIONS IN PROGRESS BY CABLESHIP PIERRE DE FERMAT
+WITH SUBMERSIBLE IN 53-00.30N 002-23.90E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>191245Z SEP 26
@@ -18,21 +67,6 @@ ANTARCTICA.
    G. 56-21.00S 050-24.00W.
    H. 58-07.00S 049-58.00W.
 2. CANCEL THIS MSG 201400Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>190408Z SEP 26
-HYDROLANT 1857/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 71-11.40S 101-39.00W.
-   B. A85, 61-43.20S 053-01.20W.
-   C. D33A, 64-00.00S 055-35.40W.
-   D. D33C, 61-38.40S 053-55.20W.
-2. CANCEL THIS MSG 200408Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>

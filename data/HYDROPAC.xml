@@ -246,19 +246,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>180043Z SEP 26
-HYDROPAC 2702/26.
-INDIAN OCEAN.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   200300Z TO 200900Z SEP IN AREA BOUND BY
-   10-59.27S 092-07.69E, 11-03.49S 092-40.39E,
-   16-24.60S 091-56.90E, 16-20.29S 091-23.45E.
-2. CANCEL THIS MSG 201000Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>172243Z SEP 26
