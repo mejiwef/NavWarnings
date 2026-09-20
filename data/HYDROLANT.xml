@@ -1,6 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201345Z SEP 26
+HYDROLANT 1868/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS
+   0800Z TO 1800Z DAILY
+   21 SEP THRU 05 OCT
+   BY M/V COMANDO B AND M/V LINDSAYLOU
+   IN 20-23.93S 040-09.58W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 051900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201336Z SEP 26
+HYDROLANT 1867/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS
+   0800Z TO 1800Z DAILY
+   21 SEP THRU 05 OCT
+   BY M/V COMANDO B ANDM/V EMERALD DAISHAN
+   IN 20-23.82S 040-09.98W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 051900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201243Z SEP 26
+HYDROLANT 1866/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS
+   0800Z TO 1800Z DAILY
+   21 SEP THRU 05 OCT
+   BY M/V MDS ARIADNE AND M/V COMANDO B
+   IN 20-23.88S 040-09.40W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 051900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201239Z SEP 26
+HYDROLANT 1865/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS
+   0800Z TO 1800Z DAILY
+   21 SEP THRU 05 OCT
+   BY M/V COMANDO BM/V APPIA
+   IN 20-23.62S 040-09.17W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 051900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>201215Z SEP 26
+HYDROLANT 1864/26
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 57-32.00S 045-18.00W.
+   B. D33B, 59-27.00S 045-27.00W.
+   C. A76C, 54-30.00S 026-26.00W.
+   D. A85, 61-10.00S 053-45.00W.
+   E. D32, 57-37.00S 038-15.00W.
+   F. D33C, 61-36.00S 053-58.00W.
+   G. 56-54.00S 046-24.00W.
+   H. 59-10.00S 050-42.00W.
+   I. 57-59.00S 049-30.00W.
+   J. 58-20.00S 048-07.00W.
+   K. 61-02.00S 053-15.00W.
+2. CANCEL THIS MSG 211400Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201051Z SEP 26
+HYDROLANT 1863/26
+NORTH ATLANTIC.
+SCOTLAND.
+1. HAZARDOUS OPERATIONS
+   0900Z TO 2330Z DAILY 20 THRU 21 SEP
+   IN AREA WITHIN 150 MILES OF 58-13.00N 013-02.00W.
+2. CANCEL NAVAREA I 202/26.
+3. CANCEL THIS MSG 220030Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201002Z SEP 26
@@ -48,25 +142,6 @@ ENGLAND.
 CABLE OPERATIONS IN PROGRESS BY CABLESHIP PIERRE DE FERMAT
 WITH SUBMERSIBLE IN 53-00.30N 002-23.90E.
 ONE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191245Z SEP 26
-HYDROLANT 1858/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 57-42.00S 045-31.00W.
-   B. D33B, 59-34.00S 045-50.00W.
-   C. A76C, 54-30.00S 026-29.00W.
-   D. A81, 57-01.00S 038-20.00W.
-   E. 57-18.10S 047-33.00W.
-   F. 59-10.00S 050-42.00W.
-   G. 56-21.00S 050-24.00W.
-   H. 58-07.00S 049-58.00W.
-2. CANCEL THIS MSG 201400Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -338,20 +413,6 @@ BRAZIL.
    22-56.50S 043-08.40W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 030400Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120107Z SEP 26
-HYDROLANT 1804/26.
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS
-   0900Z TO 2330Z DAILY 17 THRU 21 SEP
-   IN AREA WITHIN 140 MILES OF 
-   58-14.00N 013-21.00W.
-2. CANCEL THIS MSG 220030Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
