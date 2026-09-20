@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>200046Z SEP 26
+HYDROARC 247/26.
+NORWEGIAN SEA.
+NORWAY.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   0700Z TO 1500Z DAILY 21 THRU 25 SEPT
+   IN AREA BOUND BY
+   69-06.78N 015-37.92E, 69-08.28N 015-40.68E,
+   69-43.80N 014-59.76E, 69-45.12N 014-33.72E,
+   69-37.26N 014-25.74E, 69-06.18N 015-32.70E,
+   69-06.78N 015-37.92E.
+2. CANCEL THIS MSG 251600Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>191501Z SEP 26

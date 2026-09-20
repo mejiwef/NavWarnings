@@ -271,20 +271,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>171711Z SEP 26
-HYDROPAC 2696/26
-GULF OF ADEN.
-YEMEN.
-1. M/V REPORTS APPROACH BY SUSPICIOUS VESSEL
-   IN 12-48.21N 046-19.27E. AT 171359 SEP.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 200001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>171618Z SEP 26
@@ -369,20 +355,6 @@ GUAM.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 241400Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>170029Z SEP 26
-HYDROPAC 2684/26.
-SOUTH CHINA SEA.
-INDONESIA.
-1. VESSEL BOARDED BY FOUR ARMED PIRATES
-   IN 01-07.09N 103-31.06E AT 162046Z SEP.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 200029Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
