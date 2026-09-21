@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>210555Z SEP 26
+HYDROLANT 1870/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-49.20S 099-05.40W.
+   B. A85, 61-25.80S 053-19.80W.
+   C. D33A, 64-01.80S 055-39.00W.
+   D. D33C, 61-49.80S 053-42.60W.
+2. CANCEL THIS MSG 220556Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210030Z SEP 26
@@ -129,21 +145,6 @@ ROMANIA.
 1. OBJECT ADRIFT IN VICINITY 43-57.90N 029-32.38E AT 200330Z SEP.
    TWO MILE BERTH REQUESTED. 
 2. CANCEL THIS MSG 230935Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>200638Z SEP 26
-HYDROLANT 1860/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-49.20S 099-05.40W.
-   B. A85, 61-25.80S 053-19.80W.
-   C. D33A, 64-01.80S 055-39.00W.
-   D. D33C, 61-49.80S 053-42.60W.
-2. CANCEL THIS MSG 210639Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>

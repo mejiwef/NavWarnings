@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211144Z SEP 26
+HYDROPAC 2732/26
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0130Z TO 1130Z DAILY
+   25 THRU 30 SEP IN AREA BOUND BY
+   12-49.00N 080-46.00E, 12-59.00N 080-46.00E,
+   12-59.00N 081-26.00E, 12-49.00N 081-26.00E.
+2. CANCEL THIS MSG 301230Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211108Z SEP 26
+HYDROPAC 2731/26
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY
+   23 THRU 25 SEP IN AREA BOUND BY
+   10-50.00N 075-00.00E, 10-50.00N 075-35.00E,
+   10-20.00N 075-35.00E, 10-20.00N 075-00.00E.
+2. CANCEL THIS MSG 250900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>210629Z SEP 26
+HYDROPAC 2730/26.
+SOUTH PACIFIC.
+NEW ZEALAND.
+1. HAZARDOUS OPERATIONS 1700Z TO 0200Z 
+   DAILY 25 SEP THRU 07 OCT:
+   A. ROCKET LAUNCHING IN AREA BOUND BY
+      39-12.00S 177-42.00E, 39-10.80S 177-55.80E,
+      39-04.20S 178-18.00E, 39-22.80S 178-24.00E,
+      39-26.40S 177-48.00E.
+   B. SPACE DEBRIS IN AREA BOUND BY
+      37-45.60S 178-18.00W, 36-36.00S 172-48.00W,
+      38-33.00S 172-00.00W, 39-39.00S 177-40.20W.
+2. CANCEL THIS MSG 080300Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>210612Z SEP 26
+HYDROPAC 2729/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   1700Z TO 0200Z DAILY 25 SEP THRU 07 OCT
+   IN AREAS BOUND BY:
+   A. 37-45.60S 178-18.00W, 36-36.00S 172-48.00W,
+      38-33.00S 172-00.00W, 39-39.00S 177-40.20W.
+   B. 35-24.00S 167-00.00W, 33-48.00S 160-28.20W,
+      36-00.00S 159-30.00W, 37-36.00S 166-24.00W.
+2. CANCEL THIS MSG 080300Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>181229Z SEP 26
@@ -624,20 +683,6 @@ BANGLADESH.
    22-23.00N 091-38.00E, 22-20.70N 091-37.80E,
    22-20.45N 091-45.43E.
 2. CANCEL THIS MSG 261700Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>111910Z SEP 26
-HYDROPAC 2635/26.
-SOUTH PACIFIC.
-PERU.
-1. GUNNERY EXERCISES 160200Z SEP TO 210800Z SEP
-   IN AREA BOUND BY
-   12-54.00S 078-13.00W, 12-54.00S 077-13.00W,
-   13-54.00S 077-13.00W, 13-54.00S 078-13.00W.
-2. CANCEL THIS MSG 210900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
