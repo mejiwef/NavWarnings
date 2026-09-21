@@ -3,6 +3,19 @@
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>210030Z SEP 26
+HYDROLANT 1869/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
+   22 SEP THRU 06 OCT BY M/V NORD HOUSTON AND
+   M/V COMANDO B IN 20-23.62S 040-09.70W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 061900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>201345Z SEP 26
 HYDROLANT 1868/26
 SOUTH ATLANTIC.

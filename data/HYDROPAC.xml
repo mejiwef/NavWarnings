@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>181229Z SEP 26
+HYDROPAC 2728/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   261343Z TO 261721Z, 271436Z TO 271707Z, 
+   281315Z TO 281653Z, 291301Z TO 291639Z, 
+   301247Z TO 301625Z SEP, 011234Z TO 011612Z, 
+   AND 021220Z TO 021558Z OCT
+   IN AREA BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 021658Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>201604Z SEP 26
@@ -181,23 +200,6 @@ PAKISTAN.
    25-12.00N 064-27.83E, 25-12.00N 064-49.00E,
    25-03.83N 064-49.00E, 25-03.83N 064-27.83E.
 2. CANCEL THIS MSG 261300Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181248Z SEP 26
-HYDROPAC 2711/26
-EASTERN INDIAN OCEAN.
-REUNION.
-1. SURVEY OPERATIONS 19 THRU 20 SEP 
-   BY M/V MARION DUFRESNE
-   ALONG TRACKLINE JOINING 
-   A. 20-00.00S 053-45.00E.
-   B. 20-00.00S 054-25.00E.
-   C. 19-30.00S 054-25.00E.
-   D. 19-30.00S 053-45.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 210230Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
