@@ -33,23 +33,6 @@ NORWAY.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191501Z SEP 26
-HYDROARC 246/26
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED 191301Z IN: 
-   A. 76-26.90N 123-35.10E.
-   B. 76-28.10N 123-15.20E.
-   C. 76-28.10N 123-14.40E.
-   D. 76-28.40N 123-14.40E.
-   E. 76-34.80N 121-36.50E.
-   F. 76-42.80N 120-43.30E.
-2. CANCEL THIS MSG 221601Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>181555Z SEP 26
