@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>221945Z SEP 26
+NAVAREA XII 654/26.
+NORTH PACIFIC.
+ALASKA.
+1. USCG REMOTE COMMUNICATION FACILITY
+   KODIAK 57-46.00N 152-34.00W HF AND MF
+   TRANSMIT CAPABILITIES UNRELIABLE
+   1600Z TO 0030Z DAILY 23 THRU 25 SEP.
+2. CANCEL NAVAREA XII 259/25.
+3. CANCEL THIS MSG 250130Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>212202Z SEP 26
@@ -463,16 +477,6 @@ OREGON.
 USCG REMOTE COMMUNICATION FACILITY
 ASTORIA (W) 46-10.00N 123-49.00W OFF AIR. 
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>051901Z MAY 25
-NAVAREA XII 259/25(16).
-GULF OF ALASKA.
-ALASKA.
-USCG REMOTE COMMUNICATION FACILITY KODIAK (J)
-57-46.00N 152-34.00W HF AND DSC SERVICES UNRELIABLE.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>

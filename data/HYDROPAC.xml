@@ -12,7 +12,8 @@ INDIA.
    12-49.00N 080-46.00E, 12-59.00N 080-46.00E,
    12-59.00N 081-26.00E, 12-49.00N 081-26.00E.
 2. CANCEL HYDROPAC 2732/26.
-3. CANCEL THIS MSG 301230Z SEP 26.</msgText>
+3. CANCEL THIS MSG 301230Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -412,20 +413,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>181042Z SEP 26
-HYDROPAC 2706/26
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 1700Z TO 2000Z
-   DAILY 21 THRU 22 SEP IN AREA BOUND BY
-   11-40.23N 092-45.75E, 11-37.33N 092-47.93E,
-   11-40.30N 092-50.00E, 11-40.77N 092-45.97E.
-2. CANCEL THIS MSG 222100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>181034Z SEP 26
 HYDROPAC 2705/26
 BAY OF BENGAL.
@@ -435,21 +422,6 @@ INDIA.
    16-20.10N 084-29.30E, 16-01.80N 087-23.30E,
    13-52.40N 085-31.50E, 14-43.10N 082-33.50E.
 2. CANCEL THIS MSG 241630Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181023Z SEP 26
-HYDROPAC 2704/26
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 191831Z TO 221829Z
-   SEP IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 221929Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
