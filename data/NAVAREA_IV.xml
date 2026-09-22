@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>212316Z SEP 26
+NAVAREA IV 917/26.
+CARIBBEAN SEA.
+TRINIDAD AND TOBAGO.
+1. CHUPARA POINT LIGHT IN 10-48.72N 061-21.86W 
+   CHANGED TO FL 10 SEC 12 MILES.
+2. CANCEL NAVAREA IV 907/26 AND 161/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>211904Z SEP 26
@@ -32,20 +44,6 @@ NAVAREA IV 916/26.
 8. CANCEL THIS MSG 230001Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211401Z SEP 26
-NAVAREA IV 915/26
-NORTH ATLANTIC.
-FRENCH GUIANA.
-1. HAZARDOUS OPERATIONS 211600Z TO 212100Z SEP
-   IN AREA BOUND BY
-   05-24.00N 052-42.00W, 05-24.00N 052-37.00W,
-   05-19.00N 052-37.00W, 05-19.00N 052-42.00W.
-2. CANCEL NAVAREA IV 903/26.
-3. CANCEL THIS MSG 212200Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>210048Z SEP 26
@@ -53,48 +51,6 @@ NAVAREA IV 914/26.
 CARIBBEAN SEA.
 COLOMBIA.
 DANGEROUS WRECK IN VICINITY 14-17.21N 080-21.99W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAIS ICE LIMIT</category>
-        <status>INFORCE</status>
-        <msgText>201931Z SEP 26
-NAVAREA IV 913/26.
-1. NORTH AMERICAN ICE SERVICE (NAIS)
-   ICEBERG BULLETIN 210001Z SEP.
-2. ICEBERG LIMIT ALONG TRACKLINE JOINING
-   49-30N 055-10W, 51-30N 053-30W,
-   54-00N 053-30W, 60-00N 058-00W.
-3. ESTIMATED ICEBERG LIMIT ALONG
-   TRACKLINE JOINING
-   60-00N 058-00W, 61-25N 054-35W,
-   58-50N 046-10W, 58-55N 042-25W,
-   62-40N 038-40W, 63-40N 027-25W.
-4. WESTERN ICEBERG LIMIT ALONG TRACKLINE
-   JOINING
-   51-39N 056-43W, 51-28N 056-15W.
-5. MOST RECENT RECONNAISSANCE:
-   EASTERN LIMIT SATELLITE PASS 20 SEP 26.
-6. REPORT POSITION AND TIME OF ANY ICEBERGS
-   SEA ICE OR STATIONARY RADAR TARGETS THAT
-   MAY LIKELY BE ICE TO THE NEAREST CANADIAN
-   COAST GUARD MARINE COMMUNICATIONS AND
-   TRAFFIC SERVICE STATION OR
-   USING INMARSAT CODE 42.
-7. FOR MORE REPORTING INFORMATION OR TO
-   DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
-   GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 220001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>182325Z SEP 26
-NAVAREA IV 907/26.
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-FORT KING GEORGE LIGHT 11-10.60N 060-43.60W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -795,18 +751,6 @@ NAVAREA IV 222/26(24).
 NORTH ATLANTIC.
 GUYANA.
 BARGE TRADER III SANK IN 06-53.77N 057-53.43W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>202131Z FEB 26
-NAVAREA IV 161/26(24).
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-1. CHUPARA POINT LIGHT, 10-48.72N 061-21.86W.
-   UNLIT.
-2. CANCEL NAVAREA IV 1008/25(24).
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
