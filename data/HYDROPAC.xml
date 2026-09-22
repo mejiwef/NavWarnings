@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>DISTRESS SIGNAL</category>
+        <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>220129Z SEP 26
-HYDROPAC 2737/26.
+        <msgText>220812Z SEP 26
+HYDROPAC 2741/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
+   IN AREA BOUND BY
+   20-19.72S 115-42.52E, 20-35.47S 115-42.52E,
+   20-35.47S 115-43.80E, 20-19.72S 115-43.80E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2373/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>220629Z SEP 26
+HYDROPAC 2740/26.
 SOUTH CHINA SEA.
-DISTRESS SIGNAL RECEIVED FROM VESSEL MSC HERMES III
-IN 11-40.00N 112-08.00E AT 220046Z SEP.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC SINGAPORE,
-PHONE: 656 226 5539,
-EMAIL: POCC@MPA.GOV.SG.
-</msgText>
+1. DERELICT M/V MSC HERMES III ADRIFT 
+   IN VICINITY 11-45.00N 112-15.00E.
+2. CANCEL THIS MSG 250631Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -200,18 +210,6 @@ GUAM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>190612Z SEP 26
-HYDROPAC 2719/26.
-SOUTH PACIFIC.
-KIRIBATI.
-1. ORANGE OBJECT ADRIFT IN VICINITY
-   00-22.30N 172-56.50E ON 19 SEP.
-2. CANCEL THIS MSG 220616Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>182044Z SEP 26
@@ -311,20 +309,6 @@ INDIA.
    17-06.00N 082-21.60E, 17-06.00N 082-26.00E,
    17-00.50N 082-20.00E, 17-00.50N 082-17.10E.
 2. CANCEL THIS MSG 241300Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181057Z SEP 26
-HYDROPAC 2708/26
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0830Z
-   DAILY 21 THRU 22 SEP IN AREA BOUND BY
-   21-32.00N 069-24.00E, 21-17.00N 069-24.00E,
-   21-17.00N 069-06.00E, 21-32.00N 068-56.00E.
-2. CANCEL THIS MSG 220930Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -646,21 +630,6 @@ INDONESIA.
    05-43.80N 091-57.38E, 06-23.42N 092-33.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>080604Z SEP 26
-HYDROPAC 2626/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   0245Z TO 0723Z DAILY 16 THRU 22 SEP
-   IN AREA BOUND BY
-   27-48.00S 136-13.00W, 27-19.00S 133-10.00W,
-   43-24.00S 129-14.00W, 59-13.00S 122-24.00W,
-   59-42.00S 127-43.00W, 43-51.00S 133-07.00W.
-2. CANCEL THIS MSG 220823Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1033,22 +1002,6 @@ HYDROPAC 2417/26.
 JAVA SEA.
 INDONESIA.
 DANGEROUS WRECK IN 04-14.70S 113-44.30E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190534Z AUG 26
-HYDROPAC 2373/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
-   IN AREA BOUND BY
-   19-47.68S 115-12.91E, 19-57.87S 115-12.91E,
-   19-57.87S 115-25.37E, 19-47.68S 115-25.37E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2157/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIPELINE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>220911Z SEP 26
+HYDROLANT 1878/26.
+BLACK SEA.
+ROMANIA.
+1. PIPELINE OPERATIONS IN PROGRESS 
+   UNTIL 30 OCT IN AREA BOUND BY
+   43-49.77N 028-37.27E, 43-47.98N 028-37.00E,
+   43-48.33N 028-35.12E, 43-49.84N 028-35.42E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 310001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>220555Z SEP 26
+HYDROLANT 1877/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-49.20S 099-05.40W.
+   B. A85, 61-25.80S 053-19.80W.
+   C. D33A, 64-01.80S 055-39.00W.
+   D. D33C, 61-49.80S 053-42.60W.
+2. CANCEL THIS MSG 230556Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>220301Z SEP 26
@@ -91,23 +121,6 @@ ANTARCTICA.
    K. 58-08.00S 048-04.00W.
    L. 61-12.00S 053-36.00W.
 2. CANCEL THIS MSG 221515Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>210555Z SEP 26
-HYDROLANT 1870/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-49.20S 099-05.40W.
-   B. A85, 61-25.80S 053-19.80W.
-   C. D33A, 64-01.80S 055-39.00W.
-   D. D33C, 61-49.80S 053-42.60W.
-2. CANCEL THIS MSG 220556Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

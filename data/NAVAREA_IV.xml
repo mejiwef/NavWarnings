@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141320Z SEP 26
+NAVAREA IV 918/26.
+NORTH ATLANTIC.
+GUYANA.
+1. SURVEY OPERATIONS 27 SEP THRU 23 OCT 
+   BY TUG DONA JOSE II AND 
+   M/V EXXONMOBIL GUYANA LIMITED 
+   IN AREA BOUND BY
+   08-48.42N 057-24.76W, 08-07.63N 056-43.42W,
+   07-42.03N 056-17.69W, 07-36.69N 056-36.30W,
+   07-58.32N 057-03.55W, 08-35.01N 057-36.74W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 240001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>212316Z SEP 26
@@ -930,17 +948,6 @@ ANY INQUIRIES CAN BE DIRECTED TO GRAEME
 CAIRNS AT NFSI (GRAEME.CAIRNS@DAL.CA) OR
 ALEXANDRE PLOURDE AT NRCAN 
 (ALEXANDRE.PLOURDE@NRCAN-RNCAN.GC.CA).
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>191207Z NOV 25
-NAVAREA IV 1282/25(25).
-CARIBBEAN SEA.
-GUADELOUPE.
-LA DESIRADE LIGHT 16-20.00N 061-00.33W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
