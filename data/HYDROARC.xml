@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>230736Z SEP 26
+HYDROARC 250/26.
+CANADA.
+SCIENTIFIC MOORINGS ESTABLISHED IN: 
+A. 69-42.02N 095-42.64W, LEAST DEPTH 43 METERS.
+B. 69-36.60N 095-20.92W, LEAST DEPTH 38 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>221714Z SEP 26
