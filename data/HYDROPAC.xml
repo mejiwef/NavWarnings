@@ -422,25 +422,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>201153Z SEP 26
-HYDROPAC 2726/26
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   231100Z TO 231700Z SEP IN AREAS BOUND BY:
-   A. 12-24.60N 116-04.20E, 13-17.40N 115-24.60E,
-      13-37.20N 115-52.20E, 12-43.80N 116-31.20E.
-   B. 07-47.00N 119-21.60E, 08-40.80N 118-43.20E,
-      09-00.00N 119-10.80E, 08-06.60N 119-48.60E.
-   C. 07-35.40N 119-23.40E, 08-28.80N 118-45.00E,
-      08-54.00N 119-21.60E, 08-00.60N 119-59.40E.
-2. CANCEL THIS MSG 231800Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OIL SPILL RESPONSE</category>
         <status>INFORCE</status>
         <msgText>191049Z SEP 26

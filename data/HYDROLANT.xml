@@ -52,30 +52,6 @@ ANTARCTICA.
 2. CANCEL THIS MSG 240414Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221621Z SEP 26
-HYDROLANT 1879/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED AT:
-   A. A76C, 54-29.00S 026-24.00W.
-   B. A81, 57-16.00S 044-57.00W.
-   C. A85, 60-55.00S 053-30.00W.
-   D. D32, 57-47.00S 038-30.00W.
-   E. D33B, 59-25.00S 045-14.00W.
-   F. D33C, 61-46.00S 054-24.00W.
-   G. 60-55.00S 053-01.00W.
-   H. 56-48.00S 045-55.00W.
-   I. 58-47.00S 050-30.00W.
-   J. 57-52.00S 049-06.00W.
-   K. 58-08.00S 048-04.00W.
-   L. 61-09.00S 053-39.00W.
-2. CANCEL THIS MSG 231622Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>220911Z SEP 26
