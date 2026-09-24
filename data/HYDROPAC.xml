@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>241824Z SEP 26
+HYDROPAC 2769/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 250830Z TO 251030Z SEP 
+   IN AREA BOUND BY
+   12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
+   13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
+2. CANCEL THIS MSG 251130Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNREPORTED</category>
         <status>INFORCE</status>
         <msgText>241258Z SEP 26
@@ -107,20 +120,6 @@ INDIA.
    20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
    20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
 2. CANCEL THIS MSG 251230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231310Z SEP 26
-HYDROPAC 2759/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 241330Z TO 241730Z SEP
-   IN AREA BOUND BY
-   09-35.00N 075-11.00E, 09-35.00N 075-27.00E,
-   09-50.00N 075-27.00E, 09-50.00N 075-11.00E.
-2. CANCEL THIS MSG 241830Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -959,6 +958,7 @@ IN AREA BOUND BY
 11-15.00S 128-15.00E, 11-35.00S 127-55.00E,
 11-50.00S 127-15.00E.
 TWO MILE BERTH REQUESTED.
+CANCEL THIS MSG 251300Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -3,6 +3,34 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>242053Z SEP 26
+NAVAREA XII 660/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1330Z TO 2030Z
+   DAILY 28 AND 29 SEP IN AREA BOUND BY
+   35-04.00N 122-39.00W, 34-45.00N 123-29.00W,
+   33-31.00N 122-41.00W, 33-49.00N 121-50.00W,
+   34-49.00N 121-09.00W, 35-04.00N 121-19.00W.
+2. CANCEL THIS MSG 292130Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>242037Z SEP 26
+NAVAREA XII 659/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 292000Z TO 300230Z SEP
+   IN AREA BOUND BY
+   33-32.00N 120-21.00W, 32-45.00N 120-53.00W,
+   32-33.00N 120-41.00W, 33-11.00N 119-49.00W,
+   33-37.00N 119-25.00W, 33-54.00N 119-44.00W.
+2. CANCEL THIS MSG 300330Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>212108Z SEP 26
 NAVAREA XII 658/26.
 NORTH PACIFIC.

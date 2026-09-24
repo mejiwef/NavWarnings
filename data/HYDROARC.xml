@@ -132,21 +132,6 @@ CANADA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161857Z SEP 26
-HYDROARC 240/26.
-BARENTS SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 2100Z TO 1800Z DAILY
-   21 THRU 24 SEP IN AREA BOUND BY
-   72-52.25N 034-14.50E, 72-27.17N 037-59.50E,
-   70-49.00N 036-34.00E, 69-42.50N 033-08.50E,
-   69-47.00N 032-36.50E, 71-02.00N 032-21.25E.
-2. CANCEL THIS MSG 251900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>160741Z SEP 26
