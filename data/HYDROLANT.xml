@@ -3,6 +3,43 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>240918Z SEP 26
+HYDROLANT 1888/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
+   DAILY 29 SEP THRU 01 OCT IN AREA WITHIN 
+   TEN MILES OF 25-06.00S 041-13.00W.
+2. CANCEL THIS MSG 012200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>240420Z SEP 26
+HYDROLANT 1886/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-49.20S 099-05.40W.
+   B. A85, 61-25.80S 053-19.80W.
+   C. D33A, 64-01.80S 055-39.00W.
+   D. D33C, 61-49.80S 053-42.60W.
+2. CANCEL THIS MSG 250420Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>240411Z SEP 26
+HYDROLANT 1885/26.
+BRISTOL CHANNEL.
+ENGLAND.
+BULL POINT LIGHT IN 51-12.00N 004-12.10W
+UNRELIABLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>240020Z SEP 26
 HYDROLANT 1884/26.
 SOUTH ATLANTIC.
@@ -45,22 +82,6 @@ BRAZIL.
    IN AREA WITHIN TEN MILES OF 
    14-22.00S 038-34.00W.
 2. CANCEL THIS MSG 291900Z SEP 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>230413Z SEP 26
-HYDROLANT 1881/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-49.20S 099-05.40W.
-   B. A85, 61-25.80S 053-19.80W.
-   C. D33A, 64-01.80S 055-39.00W.
-   D. D33C, 61-49.80S 053-42.60W.
-2. CANCEL THIS MSG 240414Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -351,21 +372,6 @@ CABLE OPERATIONS 190001Z SEP UNTIL FURTHER NOTICE
 BY CABLESHIP LEON THEVENIN IN AREA BOUND BY
 05-27.80S 010-42.70E, 05-38.70S 010-54.20E,
 05-49.70S 010-30.40E, 05-44.50S 010-25.40E.
-WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141708Z SEP 26
-HYDROLANT 1821/26.
-IRISH SEA.
-WALES.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V ZWERVER I
-IN AREA BOUND BY
-53-34.50N 003-35.40W, 53-34.60N 003-28.20W,
-53-32.60N 003-35.70W.
 WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
