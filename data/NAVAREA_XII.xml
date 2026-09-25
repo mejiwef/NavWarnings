@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>242142Z SEP 26
+NAVAREA XII 661/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 1300Z TO 2300Z
+   DAILY 28 AND 30 SEP IN AREAS BOUND BY:
+   A. 33-41.00N 119-39.00W, 33-28.00N 119-39.00W,
+      33-28.00N 119-17.00W, 33-41.00N 119-17.00W.
+   B. 33-07.00N 121-58.00W, 33-36.00N 120-23.00W,
+      32-49.00N 120-03.00W, 32-20.00N 121-38.00W.
+2. CANCEL THIS MSG 010001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>242053Z SEP 26
 NAVAREA XII 660/26.
 NORTH PACIFIC.
@@ -79,21 +94,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>221945Z SEP 26
-NAVAREA XII 654/26.
-NORTH PACIFIC.
-ALASKA.
-1. USCG REMOTE COMMUNICATION FACILITY
-   KODIAK 57-46.00N 152-34.00W HF AND MF
-   TRANSMIT CAPABILITIES UNRELIABLE
-   1600Z TO 0030Z DAILY 23 THRU 25 SEP.
-2. CANCEL NAVAREA XII 259/25.
-3. CANCEL THIS MSG 250130Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>212202Z SEP 26
@@ -141,18 +141,6 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 261300Z TO 262300Z SEP 
    IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
 2. CANCEL THIS MSG 270001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>212049Z SEP 26
-NAVAREA XII 649/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 241300Z TO 242300Z SEP
-   IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
-2. CANCEL THIS MSG 250001Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

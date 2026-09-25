@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SALVAGE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250140Z SEP 26
+HYDROPAC 2775/26.
+GULF OF KACHCHH.
+INDIA.
+SALVAGE OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V KMAX EMPEROR
+IN 22-43.76N 069-53.61E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250033Z SEP 26
+HYDROPAC 2774/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 292300Z TO
+   300900Z AND 302300Z SEP TO 010700Z OCT
+   IN AREA BOUND BY
+   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-40.00N 144-16.15E.
+2. CANCEL HYDROPAC 2753/26.
+3. CANCEL THIS MSG 010800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250014Z SEP 26
+HYDROPAC 2772/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 252000Z TO 261000Z SEP
+   IN AREA BOUND BY
+   13-32.00N 144-04.00E, 13-32.00N 144-27.00E,
+   13-05.00N 144-27.00E, 13-05.00N 144-04.00E.
+2. CANCEL THIS MSG 261100Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>242107Z SEP 26
+HYDROPAC 2770/26.
+STRAIT OF HORMUZ.
+OMAN.
+1. M/V CAPE DAO SUFFERED A SECURITY INCIDENT,
+   DISABLED AND ADRIFT IN 26-23.40N 056-34.40E.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL HYDROPAC 2767/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>241824Z SEP 26
@@ -25,20 +81,6 @@ UNREPORTED IN 11-27.70N 109-09.60E AT 232120Z SEP.
 VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE.  REPORTS TO
 MRCC VIETNAM, E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>240723Z SEP 26
-HYDROPAC 2767/26.
-STRAIT OF HORMUZ.
-OMAN.
-1. M/V CAPE DAO SUFFERED A SECURITY INCIDENT, 
-   IS ON FIRE AND ANCHORED IN  26-24.80N 056-27.60E.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL HYDROPAC 2766/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -178,21 +220,6 @@ GUAM.
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
 2. CANCEL THIS MSG 011400Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230801Z SEP 26
-HYDROPAC 2753/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 2200Z TO 1000Z 
-   DAILY 28 THRU 30 SEP IN AREA BOUND BY
-   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-40.00N 144-16.15E.
-2. CANCEL THIS MSG 011100Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -481,21 +508,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160905Z SEP 26
-HYDROPAC 2720/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 242000Z TO 251000Z SEP
-   IN AREA BOUND BY
-   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-40.00N 144-16.15E.
-2. CANCEL THIS MSG 251100Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>182044Z SEP 26
@@ -659,21 +671,6 @@ RUSSIA.
    57-45.20N 150-59.70E, 57-45.20N 149-22.70E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160836Z SEP 26
-HYDROPAC 2674/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 210300Z TO 210500Z 
-   AND 250100Z TO 250300Z SEP 
-   IN AREA BOUND BY
-   13-24.75N 144-38.30E, 13-24.92N 144-38.55E,
-   13-25.75N 144-38.00E, 13-25.58N 144-37.75E.
-2. CANCEL THIS MSG 250400Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1099,17 +1096,6 @@ F/V SHRI BALAJANEYA SANK IN 13-36.00N 074-36.50E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>270353Z AUG 26
-HYDROPAC 2450/26.
-CORAL SEA.
-AUSTRALIA.
-RACON AT NORTH REEF LIGHT 23-11.10S 151-54.18E
-UNRELIABLE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>260122Z AUG 26
@@ -1272,22 +1258,6 @@ MALAYSIA.
    05-54.00N 103-01.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051218Z AUG 26
-HYDROPAC 2241/26.
-TIMOR SEA.
-AUSTRALIA.
-SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICEBY M/V SW BLY TOWING TWELVE 7300 METER
-CABLES IN AREA BOUND BY
-12-47.76S 127-35.15E, 12-38.08S 127-44.03E,
-12-38.27S 128-06.05E, 13-18.37S 128-53.75E,
-13-38.87S 128-35.38E.
-SEVEN MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

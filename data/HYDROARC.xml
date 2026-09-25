@@ -3,6 +3,36 @@
     <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
+        <msgText>250341Z SEP 26
+HYDROARC 258/26.
+DEESE STRAIT.
+CANADA.
+SCIENTIFIC MOORING ESTABLISHED IN 
+68-55.94N 105-49.66W, TOP FLOAT 122 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>250336Z SEP 26
+HYDROARC 257/26.
+DEESE STRAIT.
+CANADA.
+SCIENTIFIC MOORING ESTABLISHED IN 
+68-55.72N 105-48.26W, TOP FLOAT 127 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>250331Z SEP 26
+HYDROARC 256/26.
+QUEEN MAUD GULF.
+CANADA.
+SCIENTIFIC MOORING ESTABLISHED IN 
+68-48.95N 105-06.53W, TOP FLOAT 69 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
         <msgText>240936Z SEP 26
 HYDROARC 253/26.
 QUEEN MAUD GULF.
@@ -77,23 +107,6 @@ RUSSIA.
    69-31.00N 034-45.00E, 69-27.80N 033-24.50E,
    69-32.00N 033-17.80E, 69-53.00N 034-12.00E.
 2. CANCEL THIS MSG 261600Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>200046Z SEP 26
-HYDROARC 247/26.
-NORWEGIAN SEA.
-NORWAY.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   0700Z TO 1500Z DAILY 21 THRU 25 SEP
-   IN AREA BOUND BY
-   69-06.78N 015-37.92E, 69-08.28N 015-40.68E,
-   69-43.80N 014-59.76E, 69-45.12N 014-33.72E,
-   69-37.26N 014-25.74E, 69-06.18N 015-32.70E,
-   69-06.78N 015-37.92E.
-2. CANCEL THIS MSG 251600Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
