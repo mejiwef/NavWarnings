@@ -449,20 +449,6 @@ WIDE BERTH REQUESTED.
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>140101Z SEP 26
-HYDROLANT 1816/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z
-   DAILY UNTIL 25 SEP BY M/V SOMNIUM AUSTRALIS
-   AND M/V COMANDO B IN 20-23.78S 040-09.43W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 251900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>140053Z SEP 26
 HYDROLANT 1815/26
 SOUTH ATLANTIC.

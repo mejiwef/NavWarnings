@@ -135,23 +135,6 @@ B. 69-36.60N 095-20.92W, LEAST DEPTH 38 METERS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>221714Z SEP 26
-HYDROARC 249/26
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 220900 SEP IN: 
-   A. 77-30.60N 111-54.90E.
-   B. 77-07.10N 120-35.50E.
-   C. 77-48.30N 109-17.40E.
-   D. 77-30.70N 111-54.80E.
-   E. 77-13.20N 114-52.80E.
-   F. 77-44.80N 107-57.60E.
-2. CANCEL THIS MSG 251714Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200513Z SEP 26
