@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251109Z SEP 26
+HYDROPAC 2782/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 1130Z DAILY
+   28 THRU 30 SEP IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
+   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
+2. CANCEL THIS MSG 301230Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>251030Z SEP 26
+HYDROPAC 2781/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 290830Z TO 290930Z SEP
+   IN AREA BOUND BY
+   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
+   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
+   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
+2. CANCEL THIS MSG 291030Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DISABLED</category>
+        <status>INFORCE</status>
+        <msgText>250910Z SEP 26
+HYDROPAC 2780/26.
+SOUTH CHINA SEA.
+VIETNAM.
+F/V QNA 90945 TS, 41 PERSONS ON BOARD, 
+DISABLED AND ADRIFT DUE TO ENGINE FAILURE
+IN 11-54.00N 110-03.00E AT 250630Z SEP.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250817Z SEP 26
+HYDROPAC 2779/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 2200Z TO 1000Z 
+   DAILY 28 THRU 30 SEP IN AREA BOUND BY
+   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-40.00N 144-16.15E.
+2. CANCEL THIS MSG 011100Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250756Z SEP 26
+HYDROPAC 2778/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 292300Z TO 300900Z SEP
+   AND 302300Z SEP TO 010700Z OCT 
+   IN AREA BOUND BY
+   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-40.00N 144-16.15E.
+2. CANCEL HYDROPAC 2774/26.
+3. CANCEL THIS MSG 010800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SALVAGE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250140Z SEP 26
@@ -11,22 +84,6 @@ SALVAGE OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE BY M/V KMAX EMPEROR
 IN 22-43.76N 069-53.61E.
 WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>250033Z SEP 26
-HYDROPAC 2774/26.
-NORTH PACIFIC.
-GUAM.
-1. HAZARDOUS OPERATIONS 292300Z TO
-   300900Z AND 302300Z SEP TO 010700Z OCT
-   IN AREA BOUND BY
-   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
-   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
-   12-40.00N 144-16.15E.
-2. CANCEL HYDROPAC 2753/26.
-3. CANCEL THIS MSG 010800Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -415,20 +472,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>211108Z SEP 26
-HYDROPAC 2731/26
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY
-   23 THRU 25 SEP IN AREA BOUND BY
-   10-50.00N 075-00.00E, 10-50.00N 075-35.00E,
-   10-20.00N 075-35.00E, 10-20.00N 075-00.00E.
-2. CANCEL THIS MSG 250900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>210629Z SEP 26
@@ -810,21 +853,6 @@ INDIA.
    19-10.61N 070-57.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 270001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>101108Z SEP 26
-HYDROPAC 2613/26.
-SOUTH CHINA SEA.
-VIETNAM.
-MAN OVERBOARD FROM F/V BT 98597 TS
-IN 08-34.71N 106-32.80E AT 092230Z SEP.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,99 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250946Z SEP 26
+HYDROLANT 1900/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 26 SEP THRU 10 OCT BY 
+   M/V COMANDO B IN 19-51.63S 039-56.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 101900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250940Z SEP 26
+HYDROLANT 1899/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 26 SEP THRU 10 OCT BY M/V COMANDO B 
+   IN 20-23.78S 040-09.43W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 101900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250902Z SEP 26
+HYDROLANT 1898/26.
+BLACK SEA.
+TURKEY.
+1. SURVEY OPERATIONS 26 SEP THRU 03 JUL 27 
+   BY M/V KARADENIZ ARASTIRMA, 
+   M/V BARBAROS HAYREDDIN PASA AND 
+   M/V TANUX-1 IN AREA BOUND BY
+   41-15.08N 038-42.67E, 41-07.28N 039-23.52E,
+   41-08.63N 039-52.77E, 41-59.25N 040-33.63E,
+   42-01.37N 040-27.28E, 42-11.65N 039-30.50E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 040001Z JUL 27.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250859Z SEP 26
+HYDROLANT 1897/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 1000Z TO 1130Z 
+   DAILY 30 SEP THRU 02 OCT 
+   IN AREA BOUND BY
+   41-10.77N 040-50.82E, 41-04.83N 040-29.55E,
+   42-01.32N 035-13.48E, 42-03.35N 035-10.43E,
+   42-06.15N 035-00.88E, 42-06.50N 034-56.10E,
+   41-58.57N 034-41.63E, 42-03.78N 033-19.17E,
+   42-05.00N 032-16.68E, 42-12.17N 031-44.12E,
+   42-47.13N 031-39.30E, 42-47.85N 032-49.68E,
+   42-46.83N 034-05.27E, 42-41.00N 037-40.00E,
+   41-35.35N 041-01.92E.
+2. CANCEL THIS MSG 021230Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221931Z SEP 26
+HYDROLANT 1896/26.
+BLACK SEA.
+ROMANIA.
+1. HAZARDOUS OPERATIONS 0700Z TO 1500Z
+   DAILY 30 SEP THRU 01 OCT 
+   IN AREA BOUND BY
+   44-05.00N 029-08.00E, 44-15.00N 029-08.00E,
+   44-15.00N 029-30.00E, 44-05.00N 029-30.00E.
+2. CANCEL THIS MSG 011600Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>250559Z SEP 26
+HYDROLANT 1894/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-49.20S 099-05.40W.
+   B. A85, 61-25.80S 053-19.80W.
+   C. D33A, 64-01.80S 055-39.00W.
+   D. D33C, 61-49.80S 053-42.60W.
+2. CANCEL THIS MSG 260559Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>250102Z SEP 26
@@ -62,23 +155,6 @@ SOUTH ATLANTIC.
    DAILY 29 SEP THRU 01 OCT IN AREA WITHIN 
    TEN MILES OF 25-06.00S 041-13.00W.
 2. CANCEL THIS MSG 012200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>240420Z SEP 26
-HYDROLANT 1886/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-49.20S 099-05.40W.
-   B. A85, 61-25.80S 053-19.80W.
-   C. D33A, 64-01.80S 055-39.00W.
-   D. D33C, 61-49.80S 053-42.60W.
-2. CANCEL THIS MSG 250420Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -244,19 +320,6 @@ BRAZIL.
    IN 20-23.88S 040-09.40W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 051900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200451Z SEP 26
-HYDROLANT 1859/26.
-NORTH SEA.
-ENGLAND.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY CABLESHIP PIERRE DE FERMAT
-WITH SUBMERSIBLE IN 53-00.30N 002-23.90E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

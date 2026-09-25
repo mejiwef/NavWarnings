@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>250615Z SEP 26
+NAVAREA IV 927/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 290700Z TO 291800Z SEP
+   IN AREA BOUND BY
+   10-18.00N 076-15.00W, 10-48.00N 076-15.00W,
+   10-48.00N 075-53.00W, 10-18.00N 075-53.00W.
+2. CANCEL THIS MSG 291900Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>242028Z SEP 26
