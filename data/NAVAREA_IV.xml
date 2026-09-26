@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261306Z SEP 26
+NAVAREA IV 933/26.
+GULF OF AMERICA.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY M/V ISLAND FRONTIER IN AREA BOUND BY
+27-14.19N 093-56.67W, 26-52.58N 093-52.73W,
+26-53.23N 094-33.48W, 27-04.17N 094-33.44W,
+27-14.03N 094-22.13W.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>081609Z SEP 26

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>261446Z SEP 26
+HYDROARC 264/26.
+CORONATION GULF.
+CANADA.
+SCIENTIFIC MOORING ESTABLISHED IN 
+68-23.73N 110-00.91W, TOP FLOAT 243 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>261438Z SEP 26
+HYDROARC 263/26.
+CORONATION GULF.
+CANADA.
+SCIENTIFIC MOORING ESTABLISHED IN 
+68-23.75N 109-59.54W, TOP FLOAT 236 METERS.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>251735Z SEP 26
@@ -123,20 +144,6 @@ SCIENTIFIC MOORING ESTABLISHED IN
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>231419Z SEP 26
-HYDROARC 251/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 230900Z SEP IN: 
-   A. 77-06.70N 112-00.30E.
-   B. 77-21.10N 109-24.50E.
-   C. 76-39.50N 122-28.70E.
-2. CANCEL THIS MSG 261419Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>230736Z SEP 26
@@ -145,21 +152,6 @@ CANADA.
 SCIENTIFIC MOORINGS ESTABLISHED IN: 
 A. 69-42.02N 095-42.64W, LEAST DEPTH 43 METERS.
 B. 69-36.60N 095-20.92W, LEAST DEPTH 38 METERS.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200513Z SEP 26
-HYDROARC 248/26.
-BARENTS SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0400Z TO 1500Z
-   DAILY 25 AND 26 SEP IN AREA BOUND BY
-   70-18.00N 036-10.00E, 69-53.00N 036-50.00E,
-   69-31.00N 034-45.00E, 69-27.80N 033-24.50E,
-   69-32.00N 033-17.80E, 69-53.00N 034-12.00E.
-2. CANCEL THIS MSG 261600Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

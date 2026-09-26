@@ -3,6 +3,42 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>261347Z SEP 26
+HYDROLANT 1912/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 56-32.00S 043-53.00W.
+   B. D33B, 59-04.00S 046-02.00W.
+   C. A76C, 54-35.00S 026-25.00W.
+   D. A85, 60-21.00S 052-14.00W.
+   E. 60-33.00S 052-16.00W.
+   F. D32, 57-10.00S 038-36.00W.
+   G. D33C, 61-57.00S 054-14.00W.
+   H. 56-32.00S 044-34.00W.
+   I. 58-57.00S 047-49.00W.
+   J. 57-06.00S 048-11.00W.
+   K. 57-29.00S 047-31.00W.
+   L. 60-29.00S 052-24.00W.
+2. CANCEL THIS MSG 271348Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>261238Z SEP 26
+HYDROLANT 1911/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 27 SEP THRU 11 OCT BY M/V COMANDO B 
+   AND M/V PRIME STAR IN 20-23.47S 040-09.80W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 111900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>260424Z SEP 26
 HYDROLANT 1910/26.
 SOUTH ATLANTIC.
@@ -100,30 +136,6 @@ HYDROLANT 1903/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1778/26, 1852/26, 1855/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>251306Z SEP 26
-HYDROLANT 1902/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN:
-   A. A81, 56-46.00S 044-03.00W.
-   B. D33B, 59-14.00S 045-41.00W.
-   C. A76C, 54-35.00S 026-25.00W.
-   D. A85, 60-27.00S 052-26.00W.
-   E. 60-41.00S 052-26.00W.
-   F. D32, 57-16.00S 038-45.00W.
-   G. D33C, 61-57.00S 054-22.00W.
-   H. 56-30.00S 044-58.00W.
-   I. 58-52.00S 048-02.00W.
-   J. 57-23.00S 048-26.00W.
-   K. 57-29.00S 047-31.00W.
-   L. 60-54.00S 053-05.00W.
-2. CANCEL THIS MSG 261306Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
