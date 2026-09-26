@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAIS ICE LIMIT</category>
+        <status>INFORCE</status>
+        <msgText>261913Z SEP 26
+NAVAREA IV 935/26
+(14, 15, 38).
+DAVIS STRAIT.
+GULF OF ST LAWRENCE.
+LABRADOR SEA.
+NORTH ATLANTIC.
+CANADA.
+GREENLAND.
+
+ALONG TRACKLINES JOINING:
+A. 49-30.00N 055-10.00W, 51-30.00N 053-30.00W,
+   54-00.00N 053-30.00W, 60-00.00N 058-00.00W.
+B. 60-00.00N 058-00.00W, 61-25.00N 054-35.00W,
+   59-20.00N 049-20.00W, 58-30.00N 043-10.00W,
+   59-05.00N 042-00.00W, 62-40.00N 038-30.00W,
+   63-40.00N 027-25.00W.
+C. 51-39.00N 056-43.00W, 51-28.00N 056-15.00W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>261841Z SEP 26
+NAVAREA IV 934/26.
+CARIBBEAN SEA.
+COLOMBIA.
+ISLA FUERTE LIGHT, FI (2) W 8 SEC 44 METERS
+12 MILES, ESTABLISHED IN 09-23.45N 076-10.68W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261306Z SEP 26
