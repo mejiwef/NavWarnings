@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>260424Z SEP 26
+HYDROLANT 1910/26.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. 60-33.60S 052-31.20W.
+   B. 64-04.20S 055-39.00W.
+   C. 61-57.00S 054-22.80W.
+   D. 70-24.60S 097-40.80W.
+2. CANCEL HYDROPAC 1909/26.
+3. CANCEL THIS MSG 270425Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>260121Z SEP 26
@@ -202,23 +218,6 @@ ROMANIA.
    44-05.00N 029-08.00E, 44-15.00N 029-08.00E,
    44-15.00N 029-30.00E, 44-05.00N 029-30.00E.
 2. CANCEL THIS MSG 011600Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>250559Z SEP 26
-HYDROLANT 1894/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-49.20S 099-05.40W.
-   B. A85, 61-25.80S 053-19.80W.
-   C. D33A, 64-01.80S 055-39.00W.
-   D. D33C, 61-49.80S 053-42.60W.
-2. CANCEL THIS MSG 260559Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
