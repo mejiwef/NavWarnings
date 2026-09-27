@@ -559,24 +559,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>181229Z SEP 26
-HYDROPAC 2728/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   261343Z TO 261721Z, 271436Z TO 271707Z, 
-   281315Z TO 281653Z, 291301Z TO 291639Z, 
-   301247Z TO 301625Z SEP, 011234Z TO 011612Z, 
-   AND 021220Z TO 021558Z OCT IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 021658Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OIL SPILL RESPONSE</category>
         <status>INFORCE</status>
         <msgText>191049Z SEP 26

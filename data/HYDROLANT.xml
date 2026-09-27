@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>271755Z SEP 26
+HYDROLANT 1920/26.
+BLACK SEA.
+TURKEY.
+1. HAZARDOUS OPERATIONS 1000Z TO 1130Z
+   DAILY 30 SEP TO 02 OCT IN AREA BOUND BY
+   41-10.77N 040-50.82E, 41-04.83N 040-29.55E,
+   42-01.32N 035-13.48E, 42-03.35N 035-10.43E,
+   42-06.15N 035-00.88E, 42-06.50N 034-56.10E,
+   41-58.57N 034-41.63E, 42-03.78N 033-19.17E,
+   42-05.00N 032-16.68E, 42-12.17N 031-44.12E,
+   42-47.13N 031-39.30E, 42-47.85N 032-49.68E,
+   42-46.83N 034-05.27E, 42-41.00N 037-40.00E,
+   41-35.35N 041-01.92E.
+2. CANCEL THIS MSG 021230Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>271712Z SEP 26
+HYDROLANT 1919/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 56-20.00S 043-37.00W.
+   B. D33B, 59-00.00S 046-18.00W.
+   C. A76C, 54-43.00S 026-10.00W.
+   D. A85, 60-17.00S 052-01.00W.
+   E. 60-33.00S 052-16.00W.
+   F. D32, 57-01.00S 038-31.00W.
+   G. D33C, 61-54.00S 054-02.00W.
+   H. 56-28.00S 044-16.00W.
+   I. 58-57.00S 047-45.00W.
+   J. 56-53.00S 047-58.00W.
+   K. 57-29.00S 047-31.00W.
+   L. 60-29.00S 052-24.00W.
+2. CANCEL THIS MSG 281713Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>271310Z SEP 26
@@ -512,34 +554,6 @@ BRAZIL.
    IN 20-23.20S 040-09.73W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 281900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121446Z SEP 26
-HYDROLANT 1809/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   13 THRU 27 SEP BY M/V COMANDO B AND
-   M/V IONIC SMYRNI IN 20-23.05S 040-09.88W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 271900Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>121424Z SEP 26
-HYDROLANT 1808/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   13 THRU 27 SEP BY M/V COMANDO B AND 
-   M/V CALYPSO IN 20-23.18S 040-09.77W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 271900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
