@@ -3,6 +3,26 @@
     <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
+        <msgText>271150Z SEP 26
+HYDROARC 268/26.
+CORONATION GULF.
+CANADA.
+SCIENTIFIC MOORING, LEAST DEPTH 41 METERS,
+ESTABLISHED IN 68-27.66N 113-23.37W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>271141Z SEP 26
+HYDROARC 267/26.
+CORONATION GULF.
+CANADA.
+SCIENTIFIC MOORING, LEAST DEPTH 21 METERS, 
+ESTABLISHED IN 68-20.73N 112-21.13W.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
         <msgText>262344Z SEP 26
 HYDROARC 266/26.
 CORONATION GULF.

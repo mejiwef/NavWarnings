@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>271310Z SEP 26
+HYDROLANT 1918/26.
+DOVER STRAIT.
+ENGLAND.
+1. EAST GOODWIN LIGHT VESSEL 51-13.30N 001-36.40E,
+   DISCONTINUED.
+2. CANCEL HYDROLANT 1589/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>270459Z SEP 26
@@ -56,29 +67,6 @@ WESTERN SAHARA.
    23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
    23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 010100Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261347Z SEP 26
-HYDROLANT 1912/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 56-32.00S 043-53.00W.
-   B. D33B, 59-04.00S 046-02.00W.
-   C. A76C, 54-35.00S 026-25.00W.
-   D. A85, 60-21.00S 052-14.00W.
-   E. 60-33.00S 052-16.00W.
-   F. D32, 57-10.00S 038-36.00W.
-   G. D33C, 61-57.00S 054-14.00W.
-   H. 56-32.00S 044-34.00W.
-   I. 58-57.00S 047-49.00W.
-   J. 57-06.00S 048-11.00W.
-   K. 57-29.00S 047-31.00W.
-   L. 60-29.00S 052-24.00W.
-2. CANCEL THIS MSG 271348Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -768,17 +756,6 @@ BRAZIL.
    UNTIL 21 AUG 27 IN 21-34.20S 040-43.62W.
 2. CANCEL HYDROLANT 746/26.
 3. CANCEL THIS MSG 220001Z AUG 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>162156Z AUG 26
-HYDROLANT 1589/26.
-DOVER STRAIT.
-ENGLAND.
-EAST GOODWIN LIGHT VESSEL 51-13.30N 001-36.40E.
-PERMANENTLY DISCONTINUED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

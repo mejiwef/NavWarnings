@@ -142,20 +142,6 @@ DUE TO HURRICANE NOLO:
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>252241Z SEP 26
-NAVAREA XII 668/26.
-NORTH PACIFIC.
-CALIFORNIA.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER 
-NOTICE BY M/V GRACE ALONG TRACKLINE JOINING:
-39-17.09N 124-37.90W, 39-16.52N 124-40.96W,
-39-19.18N 124-54.32W, 39-20.00N 125-00.00W,
-39-20.08N 125-20.29W.
-ONE MILE WIDE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>251615Z SEP 26.
