@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DEPTH REPORTED</category>
+        <status>INFORCE</status>
+        <msgText>270240Z SEP 26
+HYDROLANT 1916/26
+SOUTH ATLANTIC.
+BRAZIL.
+1. DEPTH REPORTED UP TO 9.46 METERS LESS 
+   THAN CHARTED IN AREA BOUND BY
+   10-51.51S 036-52.91W, 10-51.52S 036-52.88W,
+   10-51.55S 036-52.88W, 10-51.56S 036-52.89W,
+   10-51.57S 036-53.00W, 10-51.55S 036-53.02W,
+   10-51.52S 036-53.02W.
+2. CANCEL THIS MSG 252000Z SEP 28.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270118Z SEP 26
+HYDROLANT 1915/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
+   DAILY 28 SEP THRU 12 OCT BY M/V CALYPSO 
+   AND M/V COMMANDO B IN 20-23.18S 040-09.77W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 121900Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>261629Z SEP 26

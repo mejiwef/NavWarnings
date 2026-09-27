@@ -3,12 +3,26 @@
     <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
-        <msgText>261446Z SEP 26
-HYDROARC 264/26.
+        <msgText>262344Z SEP 26
+HYDROARC 266/26.
 CORONATION GULF.
 CANADA.
-SCIENTIFIC MOORING ESTABLISHED IN 
-68-23.73N 110-00.91W, TOP FLOAT 243 METERS.</msgText>
+1. SCIENTIFIC MOORING ESTABLISHED IN 
+   68-23.73N 110-00.91W, LEAST DEPTH 19 METERS.
+2. CANCEL HYDROARC 264/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>262317Z SEP 26
+HYDROARC 265/26.
+DEESE STRAIT.
+CANADA.
+1. SCIENTIFIC MOORING ESTABLISHED IN 
+   IN 68-55.72N 105-48.26W, LEAST DEPTH 20 METERS.
+2. CANCEL HYDROARC 257/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBSTRUCTION</category>
@@ -97,17 +111,6 @@ DEESE STRAIT.
 CANADA.
 SCIENTIFIC MOORING ESTABLISHED IN 
 68-55.94N 105-49.66W, TOP FLOAT 122 METERS.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBSTRUCTION</category>
-        <status>INFORCE</status>
-        <msgText>250336Z SEP 26
-HYDROARC 257/26.
-DEESE STRAIT.
-CANADA.
-SCIENTIFIC MOORING ESTABLISHED IN 
-68-55.72N 105-48.26W, TOP FLOAT 127 METERS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
