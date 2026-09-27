@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>270459Z SEP 26
+HYDROLANT 1917/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-24.60S 097-40.80W.
+   B. A85, 60-33.60S 052-31.20W.
+   C. D33A, 64-04.20S 055-39.00W.
+   D. D33C, 61-57.00S 054-22.80W.
+2. CANCEL THIS MSG 280501Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>270240Z SEP 26
@@ -78,22 +92,6 @@ BRAZIL.
    AND M/V PRIME STAR IN 20-23.47S 040-09.80W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 111900Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>260424Z SEP 26
-HYDROLANT 1910/26.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. 60-33.60S 052-31.20W.
-   B. 64-04.20S 055-39.00W.
-   C. 61-57.00S 054-22.80W.
-   D. 70-24.60S 097-40.80W.
-2. CANCEL HYDROPAC 1909/26.
-3. CANCEL THIS MSG 270425Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
