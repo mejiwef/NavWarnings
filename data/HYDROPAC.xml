@@ -533,18 +533,6 @@ AUSTRALIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>220019Z SEP 26
-HYDROPAC 2736/26.
-GULF OF CARPENTARIA.
-AUSTRALIA.
-1. DUYFKEN POINT LIGHT IN 12-34.15S 141-35.98E
-   UNLIT.
-2. CANCEL HYDROPAC 2725/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211144Z SEP 26
