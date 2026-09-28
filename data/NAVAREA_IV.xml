@@ -33,21 +33,6 @@ NAVAREA IV 938/26.
 8. CANCEL THIS MSG 290001Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DISABLED</category>
-        <status>INFORCE</status>
-        <msgText>271420Z SEP 26
-NAVAREA IV 937/26.
-CARIBBEAN SEA.
-PANAMA.
-27 FOOT VESSEL, BLACK AND BLUE HULL, THREE PERSONS 
-ONBOARD, DISABLED AND ADRIFT 
-IN VICINITY 09-43.56N 079-48.42W.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>260913Z SEP 26

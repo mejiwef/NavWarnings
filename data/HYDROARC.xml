@@ -66,7 +66,8 @@ RUSSIA.
    DAILY 01 THRU 04 OCT IN AREA BOUND BY
    69-58.00N 033-38.00E, 69-58.00N 034-48.00E,
    69-34.50N 034-48.00E, 69-34.50N 033-38.00E.
-2. CANCEL THIS MSG 042000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 042000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -105,21 +106,6 @@ RUSSIA.
    C. 76-51.90N 119-44.90E.
    D. 76-48.30N 120-06.40E.
 2. CANCEL THIS MSG 281325Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>250606Z SEP 26
-HYDROARC 259/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 250034Z SEP IN: 
-   A. 77-11.10N 111-57.50E.
-   B. 77-08.20N 111-46.10E.
-   C. 77-06.50N 111-51.60E.
-   D. 77-05.90N 111-39.90E.
-2. CANCEL THIS MSG 280607Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

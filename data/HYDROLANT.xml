@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280825Z SEP 26
+HYDROLANT 1924/26.
+WESTERN MEDITERRANEAN SEA.
+BALEARIC ISLANDS.
+CABLE OPERATIONS 281200Z SEP UNTIL 
+FURTHER NOTICE BY M/V MAASVLIET
+ALONG TRACKLINES JOINING:
+A. 39-32.67N 001-22.32E, 40-00.45N 001-50.71E.
+B. 38-17.61N 003-23.15E, 38-42.10N 004-24.37E.
+C. 37-50.58N 008-49.22E, 37-39.59N 009-47.26E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>280742Z SEP 26
+HYDROLANT 1923/26.
+MEDITERRANEAN SEA.
+SICILY.
+1. CABLE OPERATIONS IN PROGRESS 
+   UNTIL 071000Z OCT BY VESSEL IN: 
+   A. 36-12.78N 015-52.58E.
+   B. 36-14.00N 015-49.20E.
+   C. 36-15.14N 015-46.90E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 071100Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>280356Z SEP 26
@@ -83,20 +113,6 @@ ENGLAND.
 1. EAST GOODWIN LIGHT VESSEL 51-13.30N 001-36.40E,
    DISCONTINUED.
 2. CANCEL HYDROLANT 1589/26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>270459Z SEP 26
-HYDROLANT 1917/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-24.60S 097-40.80W.
-   B. A85, 60-33.60S 052-31.20W.
-   C. D33A, 64-04.20S 055-39.00W.
-   D. D33C, 61-57.00S 054-22.80W.
-2. CANCEL THIS MSG 280501Z SEP 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
@@ -224,18 +240,6 @@ HYDROLANT 1903/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1778/26, 1852/26, 1855/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>251119Z SEP 26
-HYDROLANT 1901/26.
-BLACK SEA.
-ROMANIA.
-1. OBJECT ADRIFT IN VICINITY 43-55.10N 030-37.65E
-   AT 250923Z SEP. TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 281119Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -511,23 +515,6 @@ SCOTLAND.
 1. DUBH ARTACH LIGHT 56-08.0N 006-38.1W 
    UNRELIABLE. 
 2. CANCEL HYDROLANT 1847/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170853Z SEP 26
-HYDROLANT 1846/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1200Z 
-   DAILY 22 THRU 25 AND 28 SEP
-   IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-29.50N 028-55.58E,
-   44-25.08N 029-01.20E, 44-19.70N 029-00.82E,
-   44-14.57N 028-57.93E, 44-13.10N 028-56.33E,
-   44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 281300Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
