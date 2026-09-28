@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>281257Z SEP 26
-NAVAREA XII 683/26
-NORTH PACIFIC.
-CALIFORNIA.
-NAVTEX STATION POINT REYES (C)
-37-55.00N 122-44.00W INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281151Z SEP 26
@@ -43,7 +32,8 @@ NORTH PACIFIC.
       41-09.86N 128-50.47W, 41-16.16N 128-57.05W.
    D. 40-58.20N 128-40.14W, 40-44.53N 128-27.47W.
    TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 102000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 102000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -59,7 +49,8 @@ NORTH PACIFIC.
    IN AREA BOUND BY
    37-56.00N 129-26.00W, 36-33.00N 127-15.00W,
    31-01.00N 132-34.00W, 32-24.00N 134-37.00W.
-2. CANCEL THIS MSG 080939Z OCT 26.</msgText>
+2. CANCEL THIS MSG 080939Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -73,7 +64,8 @@ CALIFORNIA.
    32-33.00N 118-25.00W, 32-35.00N 118-16.00W,
    32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
    31-55.00N 118-25.00W.
-2. CANCEL THIS MSG 010900Z NOV 26.</msgText>
+2. CANCEL THIS MSG 010900Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -89,7 +81,8 @@ CALIFORNIA.
    33-02.53N 118-43.55W, 32-58.88N 118-43.52W,
    32-47.67N 118-32.35W, 32-36.92N 118-45.00W,
    32-36.92N 118-56.95W.
-2. CANCEL THIS MSG 010900Z NOV 26.</msgText>
+2. CANCEL THIS MSG 010900Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -103,7 +96,8 @@ CALIFORNIA.
    32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
    32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
    32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z NOV 26.</msgText>
+2. CANCEL THIS MSG 010900Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -130,7 +124,8 @@ CALIFORNIA.
       30-04.00N 120-54.00W, 29-49.00N 120-52.00W,
       29-28.00N 121-13.00W, 29-29.00N 121-31.00W,
       29-52.00N 122-00.00W, 30-07.00N 122-03.00W.
-2. CANCEL THIS MSG 072109Z OCT 26.</msgText>
+2. CANCEL THIS MSG 072109Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -159,7 +154,8 @@ CALIFORNIA.
       29-47.00N 118-49.00W, 29-25.00N 118-45.00W,
       28-55.00N 119-16.00W, 28-56.00N 119-41.00W,
       29-30.00N 120-23.00W, 29-52.00N 120-27.00W.
-2. CANCEL THIS MSG 110926Z OCT 26.</msgText>
+2. CANCEL THIS MSG 110926Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -170,7 +166,8 @@ NORTH PACIFIC.
 CALIFORNIA.
 1. HAZARDOUS OPERATIONS 011300Z TO 012300Z OCT
    IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
-2. CANCEL THIS MSG 020001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 020001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PORT CLOSURE</category>
@@ -239,22 +236,6 @@ HAWAII.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>242142Z SEP 26
-NAVAREA XII 661/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1300Z TO 2300Z
-   DAILY 28 AND 30 SEP IN AREAS BOUND BY:
-   A. 33-41.00N 119-39.00W, 33-28.00N 119-39.00W,
-      33-28.00N 119-17.00W, 33-41.00N 119-17.00W.
-   B. 33-07.00N 121-58.00W, 33-36.00N 120-23.00W,
-      32-49.00N 120-03.00W, 32-20.00N 121-38.00W.
-2. CANCEL THIS MSG 010001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>242053Z SEP 26
 NAVAREA XII 660/26.
 NORTH PACIFIC.
@@ -264,7 +245,8 @@ CALIFORNIA.
    35-04.00N 122-39.00W, 34-45.00N 123-29.00W,
    33-31.00N 122-41.00W, 33-49.00N 121-50.00W,
    34-49.00N 121-09.00W, 35-04.00N 121-19.00W.
-2. CANCEL THIS MSG 292130Z SEP 26.</msgText>
+2. CANCEL THIS MSG 292130Z SEP 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -291,32 +273,6 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 291300Z TO 292300Z SEP 
    IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
 2. CANCEL THIS MSG 300001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>231328Z SEP 26
-NAVAREA XII 657/26.
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1427Z TO 1833Z DAILY 28 SEP THRU 04 OCT
-   IN AREA BOUND BY
-   23-55.00N 144-37.00E, 26-07.00N 151-14.00E,
-   27-41.00N 156-20.00E, 29-25.00N 165-03.00E,
-   30-26.00N 172-41.00E, 30-56.00N 180-00.00W,
-   31-11.00N 175-00.00W, 31-17.00N 171-29.00W,
-   30-33.00N 161-15.00W, 29-37.00N 155-40.00W,
-   28-49.00N 151-35.00W, 26-53.00N 145-26.00W,
-   26-50.00N 145-28.00W, 24-03.00N 154-32.00W,
-   23-46.00N 156-11.00W, 24-52.00N 159-19.00W,
-   27-38.00N 167-49.00W, 29-25.00N 175-00.00W,
-   29-45.00N 176-35.00W, 29-49.00N 180-00.00W,
-   29-41.00N 176-14.00E, 29-13.00N 170-10.00E,
-   28-28.00N 164-59.00E, 26-39.00N 156-15.00E,
-   23-28.00N 144-48.00E.
-2. CANCEL NAVAREA XII 655/26.
-3. CANCEL THIS MSG 041933Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
