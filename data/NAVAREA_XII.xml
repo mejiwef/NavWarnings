@@ -276,18 +276,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>212142Z SEP 26
-NAVAREA XII 656/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 281300Z TO 282300Z SEP
-   IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
-2. CANCEL THIS MSG 290001Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>180515Z SEP 26

@@ -3,6 +3,35 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>290051Z SEP 26
+HYDROPAC 2816/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 2200Z TO 1000Z
+   DAILY UNTIL 30 SEP IN AREA BOUND BY
+   13-32.00N 144-04.00E, 13-32.00N 144-27.00E,
+   13-05.00N 144-27.00E, 13-05.00N 144-04.00E.
+2. CANCEL THIS MSG 011100Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>290028Z SEP 26
+HYDROPAC 2815/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 292300Z TO
+   300900Z AND 302300Z SEP TO 010700Z OCT
+   IN AREA BOUND BY
+   12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
+   11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
+   12-40.00N 144-16.15E.
+2. CANCEL THIS MSG 010800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>281600Z SEP 26
 HYDROPAC 2812/26
 BAY OF BENGAL.

@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>290351Z SEP 26
+HYDROLANT 1928/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-24.60S 097-40.80W.
+   B. A85, 60-33.60S 052-31.20W.
+   C. D33A, 64-04.20S 055-39.00W.
+   D. D33C, 61-57.00S 054-22.80W.
+2. CANCEL THIS MSG 300352Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>281440Z SEP 26
 HYDROLANT 1926/26
 SCOTIA SEA.
@@ -54,23 +70,6 @@ SICILY.
    C. 36-15.14N 015-46.90E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 071100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>280356Z SEP 26
-HYDROLANT 1922/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-24.60S 097-40.80W.
-   B. A85, 60-33.60S 052-31.20W.
-   C. D33A, 64-04.20S 055-39.00W.
-   D. D33C, 61-57.00S 054-22.80W.
-2. CANCEL THIS MSG 290357Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -349,18 +348,6 @@ BRAZIL.
    31-15.00S 050-26.24W, 31-15.00S 050-42.34W.
 2. CANCEL HYDROPAC 2774/26.
 3. CANCEL THIS MSG 022200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240918Z SEP 26
-HYDROLANT 1888/26.
-SOUTH ATLANTIC.
-1. HAZARDOUS OPERATIONS 0800Z TO 2100Z 
-   DAILY 29 SEP THRU 01 OCT IN AREA WITHIN 
-   TEN MILES OF 25-06.00S 041-13.00W.
-2. CANCEL THIS MSG 012200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
