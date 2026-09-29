@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>292006Z SEP 26
+HYDROPAC 2825/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+1. GUNNERY EXERCISES IN PROGRESS UNTIL
+   302200Z SEP IN AREA BOUND BY
+   17-13.00S 149-48.00W, 16-37.00S 150-08.00W,
+   16-30.00S 149-36.00W, 17-10.00S 149-36.00W.
+2. CANCEL THIS MSG 302300Z SEP 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>291157Z SEP 26
@@ -60,7 +73,8 @@ PAPUA NEW GUINEA.
 1. DERELICT SEVEN METER VESSEL, WHITE HULL, 
    CAPSIZED AND ADRIFT IN 02-45.00S 149-10.00E
    AT 282315Z SEP.
-2. CANCEL THIS MSG 020455Z OCT 26.</msgText>
+2. CANCEL THIS MSG 020455Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -351,20 +365,6 @@ SINGAPORE.
    IN VICINITY 01-16.75N 104-08.14E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2735/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251140Z SEP 26
-HYDROPAC 2784/26
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 1130Z TO 1430Z
-   DAILY 28 THRU 29 SEP IN AREA BOUND BY
-   11-40.23N 092-45.75E, 11-40.77N 092-45.97E,
-   11-40.30N 092-50.00E, 11-37.33N 092-47.93E.
-2. CANCEL THIS MSG 291530Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -816,22 +816,6 @@ INDIA.
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>100913Z SEP 26
-HYDROPAC 2611/26.
-SEA OF JAPAN.
-RUSSIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   291400Z SEP IN AREA BOUND BY
-   42-14.00N 131-42.00E, 42-14.00N 132-10.00E,
-   41-20.00N 132-10.00E, 41-20.00N 131-42.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2598/26.
-3. CANCEL THIS MSG 291500Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091032Z SEP 26
 HYDROPAC 2600/26.
 BAY OF BENGAL.
@@ -1217,17 +1201,6 @@ HYDROPAC 2200/26.
 ARABIAN SEA.
 PAKISTAN.
 FAIRWAY BUOY 24-43.14N 066-55.86E MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>261530Z JUL 26
-HYDROPAC 2144/26.
-QATAR.
-PERSIAN GULF.
-MOORING BUOY ESTABLISHED 
-IN 26-38.47N 051-55.82E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

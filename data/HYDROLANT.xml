@@ -3,6 +3,47 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>291545Z SEP 26
+HYDROLANT 1932/26
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 300001Z TO 302359Z SEP
+   IN AREA BOUND BY
+   33-41.00N 008-03.00W, 33-41.00N 008-26.00W,
+   33-50.50N 008-23.90W, 33-58.60N 008-14.30W,
+   34-01.00N 008-03.00W.
+2. CANCEL THIS MSG 010100Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>291309Z SEP 26
+HYDROLANT 1931/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-57.00S 042-54.00W.
+   B. D33B, 58-47.00S 047-02.00W.
+   C. A76C, 55-07.00S 025-26.00W.
+   D. A83, 60-53.00S 052-17.00W.
+   E. A85, 59-52.00S 051-20.00W.
+   F. D32, 56-42.00S 038-09.00W.
+   G. D33C, 61-44.00S 053-48.00W.
+   H. 60-02.00S 051-26.00W.
+   I. 56-04.00S 043-36.00W.
+   J. 59-05.00S 047-31.00W.
+   K. 56-13.00S 047-32.00W.
+   L. 57-12.00S 045-41.00W.
+   M. 60-03.00S 051-43.00W.
+   N. 58-42.00S 045-35.00W.
+2. CANCEL THIS MSG 301309Z SEP 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>290901Z SEP 26
 HYDROLANT 1930/26.
 BLACK SEA.
@@ -44,30 +85,6 @@ ANTARCTICA.
    C. D33A, 64-04.20S 055-39.00W.
    D. D33C, 61-57.00S 054-22.80W.
 2. CANCEL THIS MSG 300352Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>281440Z SEP 26
-HYDROLANT 1926/26
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 56-07.00S 043-14.00W.
-   B. D33B, 58-54.00S 046-42.00W.
-   C. A76C, 54-56.00S 025-43.00W.
-   D. A85, 60-04.00S 051-30.00W.
-   E. D32, 56-50.00S 038-20.00W.
-   F. D33C, 61-49.00S 053-51.00W.
-   G. 60-14.00S 051-41.00W.
-   H. 56-13.00S 043-52.00W.
-   I. 59-04.00S 047-39.00W.
-   J. 56-43.00S 047-53.00W.
-   K. 57-16.00S 046-02.00W.
-   L. 60-14.00S 051-59.00W.
-2. CANCEL THIS MSG 291440Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -203,7 +220,8 @@ BRAZIL.
 1. PONTA DOS MEROS LIGHT 23-13.57S 044-20.83W
    UNLIT UNTIL 24 MAR.
 2. CANCEL HYDROLANT 638/26.
-3. CANCEL THIS MSG 250001Z MAR 27.</msgText>
+3. CANCEL THIS MSG 250001Z MAR 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -347,19 +365,6 @@ BRAZIL.
    31-15.00S 050-26.24W, 31-15.00S 050-42.34W.
 2. CANCEL HYDROPAC 2774/26.
 3. CANCEL THIS MSG 022200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230927Z SEP 26
-HYDROLANT 1882/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 281100Z TO 291800Z SEP
-   IN AREA WITHIN TEN MILES OF 
-   14-22.00S 038-34.00W.
-2. CANCEL THIS MSG 291900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -732,20 +737,6 @@ ANGOLA.
    06-35.00S 010-51.00E, 06-11.40S 010-47.30E.
    FOUR MILE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1294/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>221057Z AUG 26
-HYDROLANT 1645/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   23 AUG THRU 29 SEP BY M/V COMANDO B 
-   AND M/V BH SHIJIAZHUANG IN 20-23.47S 040-09.88W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 291900Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

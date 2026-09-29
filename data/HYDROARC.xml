@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291827Z SEP 26
+HYDROARC 271/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 040600Z TO 041400Z
+   AND 050400Z TO 051130Z OCT
+   IN AREA BOUND BY
+   69-58.00N 032-42.00E, 69-58.00N 033-49.50E,
+   69-36.50N 033-49.50E, 69-36.50N 032-59.50E,
+   69-48.00N 032-42.00E.
+2. CANCEL THIS MSG 051230Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281731Z SEP 26
