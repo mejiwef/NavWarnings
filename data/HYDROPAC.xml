@@ -3,6 +3,68 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>291157Z SEP 26
+HYDROPAC 2822/26
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0300Z TO 1900Z DAILY
+   01 AND 02, 05 THRU 09, 12 THRU 16, 19 THRU 23
+   AND 26 THRU 30 OCT IN AREAS BOUND BY:
+   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
+      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
+   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
+      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
+   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
+      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
+   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
+      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
+2. CANCEL THIS MSG 302000Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291127Z SEP 26
+HYDROPAC 2821/26
+ARABIAN SEA.
+INDIA.
+1. SURVEY OPERATIONS 30 SEP THRU 13 NOV 
+   BY M/V OCEANIC SIRIUS IN AREA BOUND BY
+   18-16.00N 071-45.00E, 18-30.00N 072-21.00E,
+   18-01.00N 072-28.00E, 17-46.00N 071-44.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 140001Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>291048Z SEP 26
+HYDROPAC 2820/26
+EASTERN INDIAN OCEAN.
+INDIA.
+1. YELLOW BUOY ESTABLISHED UNTIL 31 OCT IN
+   08-54.20N 076-05.51E. 
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2756/26.
+3. CANCEL THIS MSG 010001Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>290453Z SEP 26
+HYDROPAC 2819/26.
+BISMARCK SEA.
+PAPUA NEW GUINEA.
+1. DERELICT SEVEN METER VESSEL, WHITE HULL, 
+   CAPSIZED AND ADRIFT IN 02-45.00S 149-10.00E
+   AT 282315Z SEP.
+2. CANCEL THIS MSG 020455Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>290051Z SEP 26
 HYDROPAC 2816/26.
 NORTH PACIFIC.
@@ -12,7 +74,8 @@ GUAM.
    DAILY UNTIL 30 SEP IN AREA BOUND BY
    13-32.00N 144-04.00E, 13-32.00N 144-27.00E,
    13-05.00N 144-27.00E, 13-05.00N 144-04.00E.
-2. CANCEL THIS MSG 011100Z OCT 26.</msgText>
+2. CANCEL THIS MSG 011100Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -27,7 +90,8 @@ GUAM.
    12-40.00N 144-45.00E, 11-00.00N 144-45.00E,
    11-00.00N 143-00.00E, 11-45.00N 143-00.00E,
    12-40.00N 144-16.15E.
-2. CANCEL THIS MSG 010800Z OCT 26.</msgText>
+2. CANCEL THIS MSG 010800Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -292,20 +356,6 @@ SINGAPORE.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>251147Z SEP 26
-HYDROPAC 2785/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0830Z
-   DAILY 28 AND 29 SEP IN AREA BOUND BY
-   21-32.00N 068-56.00E, 21-32.00N 069-24.00E,
-   21-17.00N 069-24.00E, 21-17.00N 069-06.00E.
-2. CANCEL THIS MSG 290930Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>251140Z SEP 26
 HYDROPAC 2784/26
 ANDAMAN SEA.
@@ -343,21 +393,6 @@ INDIA.
    20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
    20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
 2. CANCEL THIS MSG 301230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>251030Z SEP 26
-HYDROPAC 2781/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 290830Z TO 290930Z SEP
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 291030Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -432,19 +467,6 @@ PHILIPPINES.
    B. 11-34.10N 118-53.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>231127Z SEP 26
-HYDROPAC 2756/26
-EASTERN INDIAN OCEAN.
-INDIA.
-1. YELLOW BUOY ESTABLISHED UNTIL 31 OCT IN
-   08-54.00N 076-01.80E. 
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z NOV 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -617,21 +639,6 @@ FURTHER NOTICE IN AREA BOUND BY
 28-30.44N 048-34.57E, 28-34.33N 048-29.94E,
 28-35.19N 048-29.08E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181703Z SEP 26
-HYDROPAC 2715/26
-PERSIAN GULF.
-QATAR.
-1. PIPELINE OPERATIONS 19 SEP THRU 02 OCT. 
-   IN AREA BOUND BY
-   25-58.69N 051-36.69E, 25-58.67N 051-36.99E,
-   25-58.40N 051-36.98E, 25-58.42N 051-36.68E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 030001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

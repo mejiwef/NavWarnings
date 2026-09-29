@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>291145Z SEP 26
+NAVAREA XII 687/26
+DUE TO PASSAGE OF HURRICANE NOLO:
+1. THE FOLLOWING PORTS ARE REOPENED:
+   A. HILO HARBOR, BIG ISLAND 19-44.00N 155-04.00W.
+   B. KAWAIHAE HARBOR, BIG ISLAND 20-02.00N 155-50.00W.
+2. CURRENT PORT INFORMATION CAN BE FOUND AT
+   HTTPS://NAVCEN.USCG.GOV/PORT-STATUS
+   USING THE PORT DIRECTORY TAB.
+3. CANCEL NAVAREA XII 669/26.
+4. CANCEL THIS MSG 021145Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>281151Z SEP 26
@@ -167,20 +183,6 @@ CALIFORNIA.
 1. HAZARDOUS OPERATIONS 011300Z TO 012300Z OCT
    IN AREA WITHIN ONE MILE OF 32-52.80N 118-17.70W.
 2. CANCEL THIS MSG 020001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>260040Z SEP 26
-NAVAREA XII 669/26.
-DUE TO HURRICANE NOLO:
-1. THE FOLLOWING PORTS ARE CLOSED:
-   A. HILO HARBOR, BIG ISLAND 19-44.00N 155-04.00W.
-   B. KAWAIHAE HARBOR, BIG ISLAND 20-02.00N 155-50.00W.
-2. CURRENT PORT INFORMATION CAN BE FOUND AT
-   HTTPS://NAVCEN.USCG.GOV/PORT-STATUS
-   USING THE PORT DIRECTORY TAB.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
