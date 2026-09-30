@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNREPORTED</category>
+        <status>INFORCE</status>
+        <msgText>300852Z SEP 26
+NAVAREA XII 689/26.
+NORTH PACIFIC.
+COSTA RICA TO PHILIPPINES.
+49 FOOT S/V MARINGAUX II, FIVE PERSONS 
+ON BOARD, UNREPORTED COSTA RICA TO 
+PHILIPPINES. LAST KNOWN POSITION IN 
+00-01.33N 162-34.16W AT 040900Z AUG.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO JRCC HONOLULU,
+PHONE: 800 331 6176,
+EMAIL: JRCCHONOLULU@USCG.MIL.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>292022Z SEP 26

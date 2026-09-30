@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>301017Z SEP 26
+NAVAREA IV 949/26
+NORTH ATLANTIC.
+1. HAZARDOUS OPERATIONS 0001Z TO 1100Z 
+   DAILY 04 THRU 21 OCT IN AREA WITHIN 
+   71 MILES OF 32-25.00N 057-21.00W.
+2. CANCEL THIS MSG 220100Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>291920Z SEP 26
