@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>270824Z SEP 26
+HYDROPAC 2828/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   051028Z TO 051123Z, 061021Z TO 061116Z,
+   071013Z TO 071108Z, 081006Z TO 081101Z,
+   090958Z TO 091053Z, 100951Z TO 101046Z
+   AND 110943Z TO 111038Z OCT
+   IN AREA BOUND BY
+   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,
+   49-02.00S 025-15.00E, 60-00.00S 022-30.00E,
+   59-00.00S 010-00.00E, 48-44.00S 014-50.00E.
+2. CANCEL THIS MSG 111138Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300342Z SEP 26
+HYDROPAC 2827/26.
+BASS STRAIT.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+FURTHER NOTICE BY M/V SAMSON EXPLORER
+IN AREA BOUND BY
+39-47.00S 145-46.00E, 39-53.00S 145-46.00E,
+39-53.00S 145-52.00E, 39-47.00S 145-52.00E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300139Z SEP 26
+HYDROPAC 2826/26.
+EASTERN INDIAN OCEAN.
+MOZAMBIQUE CHANNEL.
+MOZAMBIQUE.
+HAZARDOUS OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE IN AREA BOUND BY
+10-31.52S 040-42.53E, 10-31.45S 040-54.59E,
+10-45.55S 040-54.68E, 10-45.62S 040-42.61E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>292006Z SEP 26
@@ -120,19 +164,6 @@ INDIA.
    16-47.20N 084-05.20E, 16-45.60N 083-37.00E.
 2. CANCEL HYDROPAC 2807/26.
 3. CANCEL THIS MSG 301230Z SEP 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281552Z SEP 26
-HYDROPAC 2811/26
-ARABIAN SEA.
-1. HAZARDOUS OPERATIONS 290930Z TO 300330Z SEP
-   IN AREA BOUND BY
-   16-44.00N 070-41.00E, 16-54.00N 070-41.00E,
-   16-54.00N 070-56.00E, 16-44.00N 070-56.00E.
-2. CANCEL THIS MSG 300430Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

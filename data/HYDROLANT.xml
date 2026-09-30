@@ -3,6 +3,64 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>281117Z SEP 26
+HYDROLANT 1936/26.
+BLACK SEA.
+ROMANIA.
+1. NAVIGATION PROHIBITED 05 THRU 10 OCT
+   IN AREA WITHIN ONE MILE OF 44-53.30N 029-42.70E.
+2. CANCEL THIS MSG 110001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>270824Z SEP 26
+HYDROLANT 1935/26.
+SOUTH ATLANTIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   051028Z TO 051123Z, 061021Z TO 061116Z,
+   071013Z TO 071108Z, 081006Z TO 081101Z,
+   090958Z TO 091053Z, 100951Z TO 101046Z
+   AND 110943Z TO 111038Z OCT
+   IN AREA BOUND BY
+   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,
+   49-02.00S 025-15.00E, 60-00.00S 022-30.00E,
+   59-00.00S 010-00.00E, 48-44.00S 014-50.00E.
+2. CANCEL THIS MSG 111138Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>300400Z SEP 26
+HYDROLANT 1934/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-24.60S 097-40.80W.
+   B. A85, 60-33.60S 052-31.20W.
+   C. D33A, 64-04.20S 055-39.00W.
+   D. D33C, 61-57.00S 054-22.80W.
+2. CANCEL THIS MSG 010400Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300105Z SEP 26
+HYDROLANT 1933/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   120259Z OCT BY M/V SISTAC VITORIA
+   IN 22-32.82S 040-04.05W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120359Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>291545Z SEP 26
 HYDROLANT 1932/26
 NORTH ATLANTIC.
@@ -68,23 +126,6 @@ BRAZIL.
    IN 22-25.32S 039-56.55W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090359Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>290351Z SEP 26
-HYDROLANT 1928/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-24.60S 097-40.80W.
-   B. A85, 60-33.60S 052-31.20W.
-   C. D33A, 64-04.20S 055-39.00W.
-   D. D33C, 61-57.00S 054-22.80W.
-2. CANCEL THIS MSG 300352Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
