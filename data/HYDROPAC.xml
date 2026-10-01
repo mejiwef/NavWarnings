@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300830Z SEP 26
+HYDROPAC 2839/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 06 THRU 08 OCT IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 081400Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>010046Z OCT 26
+HYDROPAC 2838/26.
+CORAL SEA.
+AUSTRALIA.
+RACON AT CREAL REEF LIGHT 20-31.87S 150-22.68E
+INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>PIRACY EVENT</category>
         <status>INFORCE</status>
         <msgText>301957Z SEP 26
@@ -175,20 +200,6 @@ HAZARDOUS OPERATIONS IN PROGRESS UNTIL
 FURTHER NOTICE IN AREA BOUND BY
 10-31.52S 040-42.53E, 10-31.45S 040-54.59E,
 10-45.55S 040-54.68E, 10-45.62S 040-42.61E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>292006Z SEP 26
-HYDROPAC 2825/26.
-SOUTH PACIFIC.
-FRENCH POLYNESIA.
-1. GUNNERY EXERCISES IN PROGRESS UNTIL
-   302200Z SEP IN AREA BOUND BY
-   17-13.00S 149-48.00W, 16-37.00S 150-08.00W,
-   16-30.00S 149-36.00W, 17-10.00S 149-36.00W.
-2. CANCEL THIS MSG 302300Z SEP 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -545,16 +556,6 @@ MAYOTTE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>222114Z SEP 26
-HYDROPAC 2747/26.
-TIMOR SEA.
-AUSTRALIA.
-CAPE HOTHAM LIGHT 12-02.78S 131-17.37E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>FOUL GROUND</category>
         <status>INFORCE</status>
         <msgText>221255Z SEP 26
@@ -777,24 +778,6 @@ RUSSIA.
    57-40.20N 145-14.19E, 57-39.02N 142-34.33E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111354Z SEP 26
-HYDROPAC 2631/26
-BAY OF BENGAL.
-EASTERN INDIAN OCEAN.
-INDONESIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 30 SEP
-   BY M/V ALBATROSS 37 IN AREA BOUND BY
-   06-22.13N 093-43.63E, 06-04.21N 093-42.76E,
-   06-06.48N 092-54.52E, 05-37.48N 092-13.10E,
-   05-24.96N 090-46.93E, 05-35.78N 090-44.27E,
-   05-43.80N 091-57.38E, 06-23.42N 092-33.71E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
