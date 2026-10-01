@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011326Z OCT 26
+HYDROPAC 2856/26.
+ANDAMAN SEA.
+INDIA.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 13 NOV
+   BY CABLESHIP BLUE NAVIGATOR
+   ALONG TRACKLINE JOINING
+   14-04.98N 093-57.24E, 13-53.66N 094-17.61E,
+   13-57.53N 094-37.46E, 13-55.36N 094-52.75E,
+   13-41.22N 095-19.57E, 13-44.03N 096-09.34E,
+   14-00.08N 096-15.59E, 14-02.48N 096-21.90E,
+   14-05.39N 096-24.55E, 14-07.76N 096-24.01E,
+   14-07.79N 096-23.60E.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2855/26.
+3. CANCEL THIS MSG 140001Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>011253Z OCT 26
+HYDROPAC 2854/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   0130Z TO 1430Z DAILY 06 THRU 10 OCT
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 101530Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>011221Z OCT 26
 HYDROPAC 2853/26.
 ARABIAN SEA.
 INDIA.
-F/V VARDANI MAULI SANK IN 18-25.90N 072-41.57E.</msgText>
+F/V VARDANI MAULI SANK IN 18-25.90N 072-41.57E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -22,7 +60,8 @@ INDIA.
    IN AREA BOUND BY
    11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
    11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 061130Z OCT 26.</msgText>
+2. CANCEL THIS MSG 061130Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -36,7 +75,8 @@ INDIA.
    IN AREA BOUND BY
    15-26.00N 073-27.00E, 15-26.00N 073-06.00E,
    15-53.00N 072-55.00E, 15-52.00N 073-14.00E.
-2. CANCEL THIS MSG 071230Z OCT 26.</msgText>
+2. CANCEL THIS MSG 071230Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -52,7 +92,8 @@ INDIA.
    21-21.48N 088-41.70E, 21-28.80N 088-41.76E,
    21-34.47N 088-34.01E, 21-38.52N 087-59.62E,
    21-47.00N 087-54.07E.
-2. CANCEL THIS MSG 091130Z OCT 26.</msgText>
+2. CANCEL THIS MSG 091130Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -83,7 +124,8 @@ INDIA.
    10-14.00N 075-50.00E, 10-28.00N 075-52.00E,
    11-44.00N 075-05.00E, 11-33.00N 074-36.00E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.</msgText>
+2. CANCEL THIS MSG 220001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -102,7 +144,8 @@ KAMCHATKA.
    50-24.90N 158-53.10E, 49-23.50N 157-28.50E,
    50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
    52-06.00N 154-14.00E, 56-34.00N 154-14.00E.
-2. CANCEL THIS MSG 171000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 171000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -113,8 +156,9 @@ NORTH PACIFIC.
 GUAM.
 1. USCG COMMUNICATION FACILITY GUAM 
    13-29.00N 144-50.00E MF, HF AND DSC SERVICES 
-    OFF AIR 021200Z TO 021600Z OCT. 
-2. CANCEL THIS MSG 021700Z OCT 26.</msgText>
+   OFF AIR 021200Z TO 021600Z OCT. 
+2. CANCEL THIS MSG 021700Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -124,7 +168,8 @@ HYDROPAC 2843/26.
 CORAL SEA.
 AUSTRALIA.
 LITTLE BUGATTI LIGHT 20-01.23S 150-15.37E
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PORT CLOSURE</category>
@@ -142,7 +187,8 @@ DUE TO TROPICAL STORM CHOI-WAN:
 3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
    NONE TO REPORT.
 4. CURRENT PORT INFORMATION CAN BE FOUND AT
-   HOMEPORT.USCG.MIL USING THE PORT DIRECTORY TAB.</msgText>
+   WWW.NAVCEN.USCG.GOV/PORT-STATUS.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -154,7 +200,8 @@ NEW CALEDONIA.
 1. GUNNERY EXERCISES 050100Z TO 050900Z OCT
    IN AREA WITHIN TEN MILES OF 
    22-07.00S 167-27.00E.
-2. CANCEL THIS MSG 051000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 051000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -169,7 +216,8 @@ GUAM.
    THREE MILES OF:
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 081400Z OCT 26.</msgText>
+2. CANCEL THIS MSG 081400Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RACON</category>
@@ -179,7 +227,8 @@ HYDROPAC 2838/26.
 CORAL SEA.
 AUSTRALIA.
 RACON AT CREAL REEF LIGHT 20-31.87S 150-22.68E
-INOPERATIVE.</msgText>
+INOPERATIVE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIRACY EVENT</category>
@@ -192,7 +241,8 @@ INDONESIA.
    01-09.46N 103-27.35E AT 301820Z SEP.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
    POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 031957Z OCT 26.</msgText>
+2. CANCEL THIS MSG 031957Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -506,6 +556,7 @@ HYDROPAC 2787/26.
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROPAC 894/24, 3535/24, 2552/26, 2557/26,
    2603/26, 2713/26, 2758/26.
+CANCEL THIS MSG 021300Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -562,22 +613,6 @@ PHILIPPINES.
    B. 11-34.10N 118-53.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230813Z SEP 26
-HYDROPAC 2754/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 28 THRU 30 SEP AND 01 OCT
-   IN AREAS WITHIN THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 011400Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
