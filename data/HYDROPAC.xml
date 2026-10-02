@@ -338,21 +338,6 @@ SOUTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300342Z SEP 26
-HYDROPAC 2827/26.
-BASS STRAIT.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-FURTHER NOTICE BY M/V SAMSON EXPLORER
-IN AREA BOUND BY
-39-47.00S 145-46.00E, 39-53.00S 145-46.00E,
-39-53.00S 145-52.00E, 39-47.00S 145-52.00E.
-THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>300139Z SEP 26
@@ -500,21 +485,6 @@ SOUTH PACIFIC.
    37-08.00S 157-59.00W, 44-20.00S 170-14.00W,
    42-41.00S 171-31.00W, 35-24.00S 159-30.00W.
 2. CANCEL THIS MSG 071543Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>231957Z SEP 26
-HYDROPAC 2790/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   1958Z TO 2149Z DAILY 01 THRU 07 OCT
-   IN AREA BOUND BY
-   25-16.00S 157-18.00W, 25-41.00S 154-55.00W,
-   43-00.00S 158-36.00W, 60-00.00S 165-00.00W,
-   59-29.00S 170-11.00W, 42-29.00S 162-10.00W.
-2. CANCEL THIS MSG 072249Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
