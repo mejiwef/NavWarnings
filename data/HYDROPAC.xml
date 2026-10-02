@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>020916Z OCT 26
+HYDROPAC 2860/26.
+NORTH PACIFIC.
+SEA OF OKHOTSK.
+KAMCHATKA.
+1. MISSILE OPERATIONS 1400Z TO 0900Z 
+   DAILY 05 THRU 15 OCT IN AREA BOUND BY
+   56-34.00N 154-14.00E, 56-34.00N 156-18.20E,
+   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
+   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
+   52-46.00N 160-30.00E, 51-40.00N 160-30.00E,
+   50-24.90N 158-53.10E, 49-23.50N 157-28.50E,
+   50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
+   52-06.00N 154-14.00E.
+2. CANCEL HYDROPAC 2845/26.
+3. CANCEL THIS MSG 161000Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>020852Z OCT 26
+HYDROPAC 2859/26.
+SOUTH CHINA SEA.
+MAN OVERBOARD FROM F/V BV 98998 TS
+IN 08-20.00N 108-20.00E AT 011800Z OCT.
+VESSELS IN VICINITY REQUESTED TO KEEP 
+A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>011326Z OCT 26
@@ -128,26 +162,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>010944Z OCT 26
-HYDROPAC 2845/26.
-NORTH PACIFIC.
-SEA OF OKHOTSK.
-KAMCHATKA.
-1. MISSILE OPERATIONS 1400Z TO 0900Z 
-   DAILY 05 THRU 16 OCT IN AREA BOUND BY
-   56-34.00N 154-14.00E, 56-34.00N 156-18.20E,
-   55-44.00N 155-32.00E, 52-35.00N 155-32.00E,
-   52-13.10N 158-25.00E, 52-54.30N 159-42.00E,
-   52-46.00N 160-30.00E, 51-40.00N 160-30.00E,
-   50-24.90N 158-53.10E, 49-23.50N 157-28.50E,
-   50-13.60N 156-03.00E, 51-30.10N 158-03.10E,
-   52-06.00N 154-14.00E, 56-34.00N 154-14.00E.
-2. CANCEL THIS MSG 171000Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>010900Z OCT 26
@@ -158,17 +172,6 @@ GUAM.
    13-29.00N 144-50.00E MF, HF AND DSC SERVICES 
    OFF AIR 021200Z TO 021600Z OCT. 
 2. CANCEL THIS MSG 021700Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>010733Z OCT 26
-HYDROPAC 2843/26.
-CORAL SEA.
-AUSTRALIA.
-LITTLE BUGATTI LIGHT 20-01.23S 150-15.37E
-UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -299,24 +302,6 @@ A SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO JRCC HONOLULU,
 PHONE: 800 331 6176,
 EMAIL: JRCCHONOLULU@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300733Z SEP 26
-HYDROPAC 2830/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z 
-   DAILY 30 SEP THRU 02 OCT 
-   IN AREAS BOUND BY:
-   A. 17-42.00N 083-53.00E, 17-31.00N 084-10.00E,
-      17-14.00N 083-58.00E, 17-25.00N 083-41.00E.
-   B. 17-53.04N 083-45.73E, 17-52.98N 083-50.49E,
-      17-49.79N 083-47.16E, 17-50.14N 083-42.05E.
-2. CANCEL HYDROPAC 2800/26.
-3. CANCEL THIS MSG 021130Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

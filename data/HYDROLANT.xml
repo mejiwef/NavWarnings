@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>020830Z OCT 26
+HYDROLANT 1961/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL 110300Z OCT BY M/V SISTAC VITORIA
+   IN 22-32.81S 040-04.04W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110400Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>020412Z OCT 26
@@ -14,7 +28,8 @@ ANTARCTICA.
    B. A85, 60-33.60S 052-31.20W.
    C. D33A, 64-04.20S 055-39.00W.
    D. D33C, 61-57.00S 054-22.80W.
-2. CANCEL THIS MSG 030413Z OCT 26.</msgText>
+2. CANCEL THIS MSG 030413Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -297,7 +312,7 @@ BRAZIL.
    120259Z OCT BY M/V SISTAC VITORIA
    IN 22-32.82S 040-04.05W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 120359Z OCT 26.
+2. CANCEL THIS MSG 021300Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -706,18 +721,6 @@ BRAZIL.
    22-20.25S 040-26.11W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 110001Z NOV 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>090206Z SEP 26
-HYDROLANT 1788/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. ITAPEVA LIGHT 29-33.40S 049-53.37W
-   UNLIT UNTIL 07 MAR 27.
-2. CANCEL THIS MSG 080001Z MAR 27.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
