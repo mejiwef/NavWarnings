@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>031744Z OCT 26
+HYDROARC 278/26.
+LAPTEV SEA.
+1. ICEBERGS REPORTED AT 031557Z OCT IN: 
+   A. 76-25.70N 120-11.30E.
+   B. 77-06.70N 118-43.90E.
+2. CANCEL THIS MSG 061745Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030207Z OCT 26

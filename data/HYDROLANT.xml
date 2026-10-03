@@ -533,21 +533,6 @@ ROMANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>212229Z SEP 26
-HYDROLANT 1874/26.
-NORTH ATLANTIC.
-SCOTLAND.
-1. HAZARDOUS OPERATIONS 0700Z TO 1630Z 
-   DAILY 25 THRU 26 SEP AND 28 SEP THRU 03 OCT
-   IN AREAS WITHIN:
-   A. 27 MILES OF 57-27.50N 008-20.50W.
-   B. 20 MILES OF 57-43.50N 008-58.80W.
-2. CANCEL THIS MSG 031730Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210030Z SEP 26

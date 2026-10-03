@@ -336,20 +336,6 @@ INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>301957Z SEP 26
-HYDROPAC 2837/26.
-SINGAPORE STRAIT.
-INDONESIA.
-1. VESSEL BOARDED BY FOUR PIRATES IN
-   01-09.46N 103-27.35E AT 301820Z SEP.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 031957Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301059Z SEP 26
