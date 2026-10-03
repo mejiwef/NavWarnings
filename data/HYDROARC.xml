@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030207Z OCT 26
+HYDROARC 277/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 0600Z TO 1700Z DAILY
+   08 THRU 12 OCT IN AREA BOUND BY
+   69-52.40N 033-13.00E, 69-52.40N 033-56.00E,
+   69-32.00N 032-59.30E, 69-40.00N 033-05.00E,
+   69-35.90N 032-59.30E.
+2. CANCEL THIS MSG 121800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
         <status>INFORCE</status>
         <msgText>021905Z OCT 26
