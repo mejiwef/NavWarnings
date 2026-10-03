@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031039Z OCT 26
+HYDROPAC 2870/26.
+ARABIAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   071130Z TO 071530Z OCT IN AREA BOUND BY
+   15-18.00N 072-52.00E, 15-08.00N 072-56.00E,
+   15-06.00N 072-47.00E, 15-16.00N 072-44.00E.
+2. CANCEL THIS MSG 071630Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031033Z OCT 26
+HYDROPAC 2869/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS
+   050830Z TO 051130Z OCT IN AREA BOUND BY
+   10-22.00N 075-07.00E, 10-22.00N 075-18.00E,
+   10-12.00N 075-18.00E, 10-12.00N 075-07.00E.
+2. CANCEL THIS MSG 051230Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>031023Z OCT 26
+HYDROPAC 2868/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 
+   061330Z TO 091530Z OCT IN AREA BOUND BY
+   16-20.10N 084-29.30E, 16-01.80N 087-23.30E,
+   13-52.40N 085-31.50E, 14-43.10N 082-33.50E.
+2. CANCEL THIS MSG 091630Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>022230Z OCT 26

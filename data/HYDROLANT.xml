@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>030444Z OCT 26
+HYDROLANT 1968/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. HAZARDOUS OPERATIONS 050001Z TO 060100Z
+   AND 070001Z TO 080100Z OCT
+   IN AREAS BOUND BY:
+   A. 26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
+      26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
+      27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
+   B. 23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
+      23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
+      23-55.07N 017-00.00W.
+2. CANCEL THIS MSG 080200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>030408Z OCT 26
@@ -15,22 +33,6 @@ ANTARCTICA.
    C. D33A, 64-04.20S 055-39.00W.
    D. D33C, 61-57.00S 054-22.80W.
 2. CANCEL THIS MSG 040408Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021516Z OCT 26
-HYDROLANT 1966/26.
-CELTIC SEA.
-NORTH ATLANTIC.
-DNC 08.
-1. HAZARDOUS OPERATIONS 
-   030800Z TO 031000Z OCT IN AREA BOUND BY
-   47-40.00N 008-00.00W, 47-40.26N 007-35.26W,
-   47-25.01N 007-06.26W, 47-06.38N 007-13.58W,
-   47-05.18N 008-00.00W.
-2. CANCEL THIS MSG 031100Z OCT 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -267,19 +269,6 @@ ROMANIA.
    44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
    44-19.00N 028-47.00E, 44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 061600Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>301035Z SEP 26
-HYDROLANT 1939/26
-BLACK SEA.
-ROMANIA.
-1. DERELICT M/V EMIL ADRIFT IN 44-31.68N 029-46.33E
-   AT 300630Z SEP.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 031035Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
