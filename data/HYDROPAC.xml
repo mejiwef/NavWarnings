@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>040153Z OCT 26
+HYDROPAC 2872/26.
+NORTH PACIFIC.
+MARSHALL ISLANDS.
+1. HAZARDOUS OPERATIONS 090600Z TO 091242Z OCT,
+   ALTERNATE 100600Z TO 101242Z OCT 
+   IN AREA BOUND BY
+   09-16.00N 167-21.00E, 09-23.00N 167-33.00E,
+   09-30.00N 167-29.00E, 09-46.00N 167-55.00E,
+   09-20.00N 168-12.00E, 08-55.00N 167-33.00E.
+2. CANCEL THIS MSG 101342Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>031039Z OCT 26
 HYDROPAC 2870/26.
 ARABIAN SEA.

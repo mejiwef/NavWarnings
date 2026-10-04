@@ -46,22 +46,6 @@ MOROCCO.
 2. CANCEL THIS MSG 080200Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>030408Z OCT 26
-HYDROLANT 1967/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 70-24.60S 097-40.80W.
-   B. A85, 60-33.60S 052-31.20W.
-   C. D33A, 64-04.20S 055-39.00W.
-   D. D33C, 61-57.00S 054-22.80W.
-2. CANCEL THIS MSG 040408Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>021406Z OCT 26
