@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>041351Z OCT 26
+HYDROARC 279/26.
+KARA SEA.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED AT 041223Z OCT IN: 
+   A. 77-07.30N 121-52.30E.
+   B. 77-30.60N 111-55.20E.
+   C. 77-48.50N 100-24.80E.
+2. CANCEL THIS MSG 071351Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>031744Z OCT 26
 HYDROARC 278/26.
 LAPTEV SEA.
@@ -60,36 +75,6 @@ HYDROARC 275/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROARC 261/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011349Z OCT 26
-HYDROARC 274/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 011020Z OCT IN: 
-   A. 77-33.60N 114-40.70E.
-   B. 76-29.90N 113-27.50E.
-2. CANCEL THIS MSG 041349Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>011239Z OCT 26
-HYDROARC 273/26.
-LAPTEV SEA.
-1. ICEBERGS REPORTED AT 010200Z OCT IN: 
-   A. 77-09.50N 120-37.00E.
-   B. 77-06.90N 120-02.20E.
-   C. 77-06.80N 120-10.00E.
-   D. 77-04.40N 121-13.10E.
-   E. 77-07.40N 121-52.90E.
-   F. 77-08.40N 121-09.80E.
-   G. 76-58.40N 124-05.60E.
-2. CANCEL THIS MSG 041241Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

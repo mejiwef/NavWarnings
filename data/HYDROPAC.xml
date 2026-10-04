@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041607Z OCT 26
+HYDROPAC 2877/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. SURVEY OPERATIONS 05 THRU 25 OCT 
+   IN AREA BOUND BY
+   08-00.00N 076-58.00E, 07-31.90N 076-58.00E,
+   07-31.90N 077-57.50E, 07-46.00N 078-06.60E,
+   07-52.00N 077-25.80E, 08-00.00N 077-14.40E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 260001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>041544Z OCT 26
+HYDROPAC 2876/26.
+PERSIAN GULF.
+KUWAIT.
+SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER NOTICE
+BY M/V NAIA, M/V MOSAAID 01001 AND M/V VISION 2
+IN AREA BOUND BY
+29-01.26N 048-09.51E, 29-01.61N 048-11.35E,
+29-01.72N 048-11.32E, 29-01.84N 048-11.94E,
+29-01.42N 048-12.09E, 29-01.30N 048-11.46E,
+29-01.40N 048-11.42E, 29-01.04N 048-09.56E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>041516Z OCT 26
+HYDROPAC 2875/26.
+STRAIT OF HORMUZ.
+OMAN.
+M/V LIPSI SUFFERED A SECURITY INCIDENT,
+DISABLED AND ADRIFT IN 26-23.00N 056-26.30E.
+VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+POSITION AND TO EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>040830Z OCT 26

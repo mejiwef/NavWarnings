@@ -3,6 +3,45 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>041257Z OCT 26
+HYDROLANT 1976/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-25.00S 041-29.00W.
+   B. D33B, 58-03.00S 047-37.00W.
+   C. A76C, 56-04.00S 025-09.00W.
+   D. A83, 60-39.00S 051-53.00W.
+   E. A85, 58-59.00S 050-58.00W.
+   F. 58-34.00S 050-02.00W.
+   G. D32, 56-25.00S 038-37.00W.
+   H. D33C, 61-47.00S 054-26.00W.
+   I. 55-13.00S 041-45.00W.
+   J. 59-37.00S 046-09.00W.
+   K. 55-03.00S 046-34.00W.
+   L. 56-35.00S 045-27.00W.
+   M. 58-35.00S 050-12.00W.
+   N. 58-48.00S 049-14.00W.
+   O. 59-17.00S 051-02.00W.
+2. CANCEL HYDROLANT 1972/26.
+3. CANCEL THIS MSG 051258Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>041204Z OCT 26
+HYDROLANT 1975/26.
+CELTIC SEA.
+ENGLAND.
+SEVEN STONES LIGHT VESSEL IN 50-03.60N 006-04.30W
+OFF STATION, LIGHT UNLIT AND RACON INOPERATIVE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>040908Z OCT 26
 HYDROLANT 1974/26.
 SCOTIA SEA.
@@ -28,33 +67,6 @@ BRAZIL.
    AND M/V RGR OKINAWA IN 20-19.03S 040-07.78W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 182200Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>040712Z OCT 26
-HYDROLANT 1972/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-33.00S 041-42.00W.
-   B. D33B, 58-12.00S 047-24.00W.
-   C. A76C, 55-23.00S 025-15.00W.
-   D. A83, 60-47.00S 052-05.00W.
-   E. A85, 59-13.00S 051-07.00W.
-   F. 59-14.00S 050-44.00W.
-   G. D32, 56-28.00S 038-23.00W.
-   H. D33C, 61-49.00S 054-09.00W.
-   I. 55-32.00S 042-30.00W.
-   J. 59-33.00S 047-12.00W.
-   K. 55-17.00S 046-17.00W.
-   L. 56-35.00S 045-27.00W.
-   M. 59-05.00S 050-31.00W.
-   N. 58-58.00S 049-57.00W.
-   O. 59-35.00S 051-21.00W.
-2. CANCEL HYDROLANT 1971/26.
-3. CANCEL THIS MSG 050712Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
