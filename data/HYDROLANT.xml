@@ -3,8 +3,37 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
-        <msgText>031310Z OCT 26
-HYDROLANT 1971/26.
+        <msgText>040908Z OCT 26
+HYDROLANT 1974/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 70-24.60S 097-40.80W.
+   B. A85, 60-33.60S 052-31.20W.
+   C. D33A, 64-04.20S 055-39.00W.
+   D. D33C, 61-57.00S 054-22.80W.
+2. CANCEL THIS MSG 050910Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>040759Z OCT 26
+HYDROLANT 1973/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
+   DAILY 04 THRU 18 OCT BY M/V COMANDO B
+   AND M/V RGR OKINAWA IN 20-19.03S 040-07.78W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 182200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>040712Z OCT 26
+HYDROLANT 1972/26.
 SCOTIA SEA.
 SOUTH ATLANTIC.
 ANTARCTICA.
@@ -24,8 +53,8 @@ ANTARCTICA.
    M. 59-05.00S 050-31.00W.
    N. 58-58.00S 049-57.00W.
    O. 59-35.00S 051-21.00W.
-2. CANCEL THIS MSG 041311Z OCT 26.
-</msgText>
+2. CANCEL HYDROLANT 1971/26.
+3. CANCEL THIS MSG 050712Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
