@@ -1,6 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>051331Z OCT 26
+HYDROPAC 2890/26
+(93).
+SOUTH CHINA SEA.
+CAMBODIA.
+VIETNAM.
+DNC 11.
+1. M/V AT ANCHOR BOARDED AND ROBBED BY PIRATES 
+   IN 10-11.78N 107-03.73E AT 031630Z OCT.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 081334Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>051218Z OCT 26
+HYDROPAC 2888/26.
+SULU SEA.
+PHILIPPINES.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
+   091700Z TO 092300Z OCT IN AREA BOUND BY
+   08-57.00N 119-36.00E, 08-45.00N 119-19.80E,
+   09-16.20N 118-57.00E, 09-28.20N 119-12.60E.
+2. CANCEL THIS MSG 100001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>051208Z OCT 26
+HYDROPAC 2887/26
+NORTH PACIFIC.
+NORTHERN MARIANA ISLANDS.
+DUE TO TROPICAL STORM CHOI-WAN:
+1. THE FOLLOWING PORT(S) ARE CLOSED:
+   A. TINIAN 15-00N 145-38E.
+2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
+   NONE TO REPORT.
+3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
+   A. SAIPAN 15-11N 145-45E.
+4. CURRENT PORT INFORMATION CAN BE FOUND AT
+   WWW.NAVCEN.USCG.GOV/PORT-STATUS.
+5. CANCEL HYDROPAC 2842/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051028Z OCT 26
+HYDROPAC 2885/26.
+ANDAMAN SEA.
+INDIA.
+1. HAZARDOUS OPERATIONS 0830Z TO 1030Z DAILY
+   07 AND 09 OCT IN AREA BOUND BY
+   13-00.00N 093-40.00E, 13-00.00N 094-10.00E,
+   12-50.00N 094-10.00E, 12-50.00N 093-40.00E.
+2. CANCEL THIS MSG 091130Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050732Z OCT 26
+HYDROPAC 2883/26.
+ARABIAN SEA.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 050630Z TO 051430Z OCT
+   IN AREA BOUND BY
+   14-11.00N 072-42.00E, 14-41.00N 072-42.00E,
+   14-41.00N 073-13.00E, 14-11.00N 073-13.00E.
+2. CANCEL THIS MSG 051530Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>030046Z OCT 26
@@ -112,20 +186,6 @@ POSITION AND TO EXERCISE EXTREME CAUTION.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>040830Z OCT 26
-HYDROPAC 2874/26.
-STRAIT OF HORMUZ.
-OMAN.
-VESSEL KAZIMAH III SUFFERED A SECURITY INCIDENT 
-AND ANCHORED IN 26-23.00N 056-26.30E.
-VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-POSITION AND TO EXERCISE EXTREME CAUTION.
-
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>040528Z OCT 26
@@ -173,20 +233,6 @@ INDIA.
    15-18.00N 072-52.00E, 15-08.00N 072-56.00E,
    15-06.00N 072-47.00E, 15-16.00N 072-44.00E.
 2. CANCEL THIS MSG 071630Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031033Z OCT 26
-HYDROPAC 2869/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   050830Z TO 051130Z OCT IN AREA BOUND BY
-   10-22.00N 075-07.00E, 10-22.00N 075-18.00E,
-   10-12.00N 075-18.00E, 10-12.00N 075-07.00E.
-2. CANCEL THIS MSG 051230Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -435,38 +481,6 @@ INDIA.
    11-44.00N 075-05.00E, 11-33.00N 074-36.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 220001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>010718Z OCT 26
-HYDROPAC 2842/26.
-NORTH PACIFIC.
-NORTHERN MARIANA ISLANDS.
-DUE TO TROPICAL STORM CHOI-WAN:
-1. THE FOLLOWING PORT(S) ARE CLOSED:
-   A. SAIPAN 15-11N 145-45E.
-   B. TINIAN 15-00N 145-38E.
-2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
-   NONE TO REPORT.
-3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
-   NONE TO REPORT.
-4. CURRENT PORT INFORMATION CAN BE FOUND AT
-   WWW.NAVCEN.USCG.GOV/PORT-STATUS.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>GUNNERY EXERCISES</category>
-        <status>INFORCE</status>
-        <msgText>010643Z OCT 26
-HYDROPAC 2841/26.
-CORAL SEA.
-NEW CALEDONIA.
-1. GUNNERY EXERCISES 050100Z TO 050900Z OCT
-   IN AREA WITHIN TEN MILES OF 
-   22-07.00S 167-27.00E.
-2. CANCEL THIS MSG 051000Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
