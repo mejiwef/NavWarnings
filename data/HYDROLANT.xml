@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBJECT</category>
+        <status>INFORCE</status>
+        <msgText>051508Z OCT 26
+HYDROLANT 1983/26.
+BLACK SEA.
+ROMANIA.
+1. DANGEROUS OBJECT ADRIFT IN 44-12.50N 028-59.16E 
+   AT 051100Z OCT.
+   TWO MILE BERTH REQUESTED. 
+2. CANCEL THIS MSG 081509Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>051446Z OCT 26
+HYDROLANT 1982/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. YELLOW MOORING BUOY ADRIFT IN VICINITY
+   04-54.98S 036-21.09W.
+2. CANCEL THIS MSG 081450Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>051310Z OCT 26
@@ -23,7 +48,8 @@ ANTARCTICA.
    L. 58-32.00S 050-17.00W.
    M. 58-57.00S 048-33.00W.
    N. 58-59.00S 050-26.00W.
-2. CANCEL THIS MSG 061311Z OCT 26.</msgText>
+2. CANCEL THIS MSG 061311Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -32,10 +58,10 @@ ANTARCTICA.
 HYDROLANT 1980/26.
 BLACK SEA.
 ROMANIA.
-M/V ROYAD MAMMADOV SINKING WITH MAN OVER BOARD
-IN VICINITY 44-20.50N 029-44.57E AT 051056Z OCT. 
-VESSELS IN VICINITY REQUESTED TO 
-KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
+M/V ROYAD MAMMADOV SINKING WITH MAN
+OVERBOARD IN VICINITY 44-20.50N 029-44.57E AT
+051056Z OCT. VESSELS IN VICINITY REQUESTED TO
+KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE.
 REPORTS TO MRCC CONSTANTA,
 EMAIL: MRCC@RNA.RO.
 </msgText>
@@ -61,7 +87,8 @@ TURKEY.
    42-57.10N 031-31.46E, 41-58.78N 031-37.39E,
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090001Z OCT 27.</msgText>
+2. CANCEL THIS MSG 090001Z OCT 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -77,7 +104,8 @@ ANTARCTICA.
    B. A85, 59-14.40S 051-08.40W.
    C. D33A, 64-04.20S 055-28.20W.
    D. D33C, 61-39.60S 054-14.40W.
-2. CANCEL THIS MSG 060400Z OCT 26.</msgText>
+2. CANCEL THIS MSG 060400Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -101,7 +129,8 @@ BRAZIL.
    DAILY 04 THRU 18 OCT BY M/V COMANDO B
    AND M/V RGR OKINAWA IN 20-19.03S 040-07.78W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 182200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 182200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -119,7 +148,8 @@ MOROCCO.
    B. 23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
       23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
       23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 080200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 080200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -604,65 +634,6 @@ BRAZIL.
    M/V COMANDO B IN 20-23.62S 040-09.70W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 061900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201345Z SEP 26
-HYDROLANT 1868/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   21 SEP THRU 05 OCT BY M/V COMANDO B AND
-   M/V LINDSAYLOU IN 20-23.93S 040-09.58W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 051900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201336Z SEP 26
-HYDROLANT 1867/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   21 SEP THRU 05 OCT BY M/V COMANDO B AND
-   M/V EMERALD DAISHAN IN 20-23.82S 040-09.98W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 051900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201243Z SEP 26
-HYDROLANT 1866/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS
-   0800Z TO 1800Z DAILY
-   21 SEP THRU 05 OCT
-   BY M/V MDS ARIADNE AND M/V COMANDO B
-   IN 20-23.88S 040-09.40W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 051900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201239Z SEP 26
-HYDROLANT 1865/26
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z
-   DAILY 21 SEP THRU 05 OCT BY
-   M/V MDS ARIADNE AND M/V COMANDO B
-   IN 20-23.88S 040-09.40W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 051900Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

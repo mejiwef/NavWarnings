@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>051820Z OCT 26
+HYDROARC 280/26.
+BARENTS SEA.
+WHITE SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0400Z TO 1500Z DAILY
+   10 THRU 13 OCT IN AREAS BOUND BY:
+   A. 73-48.00N 040-10.00E, 68-33.00N 044-42.00E,
+      66-59.00N 044-24.00E, 66-54.00N 043-31.00E,
+      73-33.00N 037-31.00E.
+   B. 67-42.00N 045-18.00E, 67-07.00N 045-42.00E,
+      67-07.00N 045-37.00E, 67-22.00N 044-55.00E.
+2. CANCEL THIS MSG 131600Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>041351Z OCT 26
@@ -24,7 +42,8 @@ LAPTEV SEA.
 1. ICEBERGS REPORTED AT 031557Z OCT IN: 
    A. 76-25.70N 120-11.30E.
    B. 77-06.70N 118-43.90E.
-2. CANCEL THIS MSG 061745Z OCT 26.</msgText>
+2. CANCEL THIS MSG 061745Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -38,19 +57,7 @@ RUSSIA.
    69-52.40N 033-13.00E, 69-52.40N 033-56.00E,
    69-32.00N 032-59.30E, 69-40.00N 033-05.00E,
    69-35.90N 032-59.30E.
-2. CANCEL THIS MSG 121800Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>021905Z OCT 26
-HYDROARC 276/26
-BARENTS SEA.
-RUSSIA.
-1. MOORING BUOY ADRIFT IN 
-   69-57.20N 050-57.20E.
-   AT 020430Z OCT.
-2. CANCEL THIS MSG 051904Z OCT 26.
+2. CANCEL THIS MSG 121800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
