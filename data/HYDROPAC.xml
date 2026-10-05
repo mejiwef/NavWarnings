@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>030046Z OCT 26
+HYDROPAC 2882/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0047Z TO 0525Z DAILY 11 THRU 17 OCT
+   IN AREA BOUND BY
+   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
+   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
+   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
+   44-34.00S 114-13.00W.
+2. CANCEL THIS MSG 170625Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>050310Z OCT 26
+HYDROPAC 2881/26.
+SOUTH PACIFIC.
+CHILE.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL 27 OCT BY SUBMERSIBLE SEAEXPLORER
+   IN: 
+   A. 20-11.35S 070-09.41W.
+   B. 20-11.00S 073-00.00W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 280001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>050054Z OCT 26
+HYDROPAC 2880/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+TEMPORARILY ESTABLISHED IN AREA WITHIN
+ONE MILE OF 38-46.14S 142-48.47E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>050048Z OCT 26
+HYDROPAC 2879/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+TEMPORARILY ESTABLISHED IN AREA WITHIN
+TWO MILES OF 38-41.02S 142-49.48E.
+THREE MILE BERTH REQUESTED.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>042357Z OCT 26
+HYDROPAC 2878/26.
+ARABIAN SEA.
+MAN OVERBOARD FROM M/V MSC SKY II
+IN 15-01.20N 062-24.40E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>041607Z OCT 26
@@ -679,21 +745,6 @@ PHILIPPINES.
    B. 11-34.10N 118-53.54E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>230724Z SEP 26
-HYDROPAC 2752/26.
-MOZAMBIQUE CHANNEL.
-MAYOTTE.
-1. SURVEY OPERATIONS 24 SEP THRU 04 OCT 
-   BY M/V MARION DUFRESNE IN AREA BOUND BY
-   12-30.00S 045-17.00E, 13-18.00S 045-17.00E,
-   13-18.00S 046-14.00E, 12-30.00S 046-14.00E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 050001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
