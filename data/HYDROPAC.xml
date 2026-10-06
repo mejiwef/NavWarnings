@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>060151Z OCT 26
+HYDROPAC 2893/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY GUAM
+   13-29.00N 144-50.00E HF NAVTEX, VOBRA AND
+   SITOR SERVICES OFF AIR.
+2. CANCEL HYDROPAC 2577/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051717Z OCT 26
@@ -1056,34 +1068,6 @@ TWO SIX METER BUOYS, YELLOW, FL W 3 SEC,
 TEMPORARILY ESTABLISHED IN AREA WITHIN
 ONE MILE OF 38-47.19S 142-36.00E.
 THREE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>071923Z SEP 26
-HYDROPAC 2577/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY GUAM
-   13-29.00N 144-50.00E HF NAVTEX AND VOBRA
-   SERVICES OFF AIR.
-2. CANCEL HYDROPAC 2458/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031219Z SEP 26
-HYDROPAC 2528/26.
-ARABIAN SEA.
-1. CABLE OPERATIONS 04 SEP THRU 05 OCT BY
-   M/V REBECCA ALONG TRACKLINES JOINING:
-   A. 09-07.39N 069-00.80E, 09-36.61N 067-13.32E.
-   B. 09-59.58N 065-45.38E, 10-35.36N 063-11.19E.
-   C. 10-54.17N 062-05.32E, 11-30.68N 060-00.68E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 060001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

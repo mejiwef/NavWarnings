@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>060401Z OCT 26
+HYDROLANT 1988/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+SOUTH PACIFIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-51.00S 095-29.40W.
+   B. A85, 59-14.40S 051-08.40W.
+   C. D33A, 64-04.20S 055-28.20W.
+   D. D33C, 61-39.60S 054-14.40W.
+2. CANCEL THIS MSG 070401Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060112Z OCT 26
+HYDROLANT 1986/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 120259Z OCT BY M/V SISTAC VITORIA
+   IN 22-32.81S 040-04.04W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1961/26.
+3. CANCEL THIS MSG 120359Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060058Z OCT 26
+HYDROLANT 1985/26.
+NORTH ATLANTIC.
+BRAZIL.
+1. SURVEY OPERATIONS IN PROGRESS UNTIL
+   17 OCT BY M/V AMAZON WARRIOR,
+   M/V VENTURE G AND M/V BIG JOHN VII
+   TOWING 12 1500 METER LONG CABLES
+   IN AREA BOUND BY
+   04-33.71N 050-01.26W, 05-42.36N 048-58.13W,
+   03-02.99N 046-18.20W, 01-59.67N 047-14.09W,
+   02-02.36N 047-18.50W, 02-05.99N 047-20.75W,
+   02-07.44N 047-21.64W, 02-33.17N 047-37.51W,
+   02-41.94N 047-47.84W, 02-54.27N 047-55.54W,
+   03-10.64N 048-13.68W, 03-17.80N 048-17.87W,
+   03-34.64N 048-37.52W, 03-48.19N 048-54.43W,
+   03-56.43N 049-06.33W, 04-07.01N 049-23.23W,
+   04-15.75N 049-43.94W.
+   WIDE BERTH REQUESTED.
+2. CANCEL HYDROLANT 1938/26.
+3. CANCEL THIS MSG 180001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>060049Z OCT 26
+HYDROLANT 1984/26.
+SOUTH ATLANTIC.
+BRAZIL.
+CANCEL HYDROLANT 1213/25 AND THIS MSG.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBJECT</category>
         <status>INFORCE</status>
         <msgText>051508Z OCT 26
@@ -88,34 +152,6 @@ TURKEY.
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>050400Z OCT 26
-HYDROLANT 1977/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-51.00S 095-29.40W.
-   B. A85, 59-14.40S 051-08.40W.
-   C. D33A, 64-04.20S 055-28.20W.
-   D. D33C, 61-39.60S 054-14.40W.
-2. CANCEL THIS MSG 060400Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>041204Z OCT 26
-HYDROLANT 1975/26.
-CELTIC SEA.
-ENGLAND.
-SEVEN STONES LIGHT VESSEL IN 50-03.60N 006-04.30W
-OFF STATION, LIGHT UNLIT AND RACON INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -207,20 +243,6 @@ TURKEY.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1952/26.
 3. CANCEL THIS MSG 260001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>020830Z OCT 26
-HYDROLANT 1961/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL 110300Z OCT BY M/V SISTAC VITORIA
-   IN 22-32.81S 040-04.04W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110400Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -358,32 +380,6 @@ ROMANIA.
    44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
    44-19.00N 028-47.00E, 44-22.08N 028-42.42E.
 2. CANCEL THIS MSG 061600Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>300957Z SEP 26
-HYDROLANT 1938/26.
-NORTH ATLANTIC.
-BRAZIL.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 
-   10 OCT BY M/V AMAZON WARRIOR, 
-   M/V VENTURE G AND M/V BIG JOHN VII
-   TOWING 12 1500 METER LONG CABLES 
-   IN AREA BOUND BY
-   04-33.71N 050-01.26W, 05-42.36N 048-58.13W,
-   03-02.99N 046-18.20W, 01-59.67N 047-14.09W,
-   02-02.36N 047-18.50W, 02-05.99N 047-20.75W,
-   02-07.44N 047-21.64W, 02-33.17N 047-37.51W,
-   02-41.94N 047-47.84W, 02-54.27N 047-55.54W,
-   03-10.64N 048-13.68W, 03-17.80N 048-17.87W,
-   03-34.64N 048-37.52W, 03-48.19N 048-54.43W,
-   03-56.43N 049-06.33W, 04-07.01N 049-23.23W,
-   04-15.75N 049-43.94W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1875/26.
-3. CANCEL THIS MSG 110001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
