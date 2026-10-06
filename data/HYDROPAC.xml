@@ -1,6 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061419Z OCT 26
+HYDROPAC 2900/26.
+EASTERN INDIAN OCEAN.
+LAKSHADWEEP.
+1. HAZARDOUS OPERATIONS 090200Z TO 091130Z
+   IN AREA BOUND BY
+   10-46.42N 073-42.00E, 10-46.42N 073-44.48E,
+   10-49.18N 073-44.48E, 10-49.18N 073-42.00E.
+2. CANCEL THIS MSG 091230Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061249Z OCT 26
+HYDROPAC 2899/26.
+ARABIAN SEA.
+INDIA.
+1. CABLE OPERATIONS 07 OCT THRU 20 NOV BY
+   CABLESHIP ATHBA IN AREA BOUND BY
+   19-00.58N 072-41.03E, 19-01.08N 072-43.72E,
+   19-01.61N 072-48.74E, 19-01.62N 072-50.09E,
+   19-02.69N 072-50.22E, 19-02.68N 072-48.75E,
+   19-02.18N 072-43.72E, 19-01.66N 072-40.83E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 210001Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061152Z OCT 26
+HYDROPAC 2898/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 081030Z TO 091230Z OCT
+   IN AREA BOUND BY
+   13-41.08N 081-14.05E, 13-26.32N 081-13.68E,
+   13-25.78N 080-58.41E, 13-40.45N 080-58.41E.
+2. CANCEL THIS MSG 091330Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>061058Z OCT 26
+HYDROPAC 2897/26.
+AUSTRALIA.
+CAPE NATURALISTE LIGHT IN 33-32.24S 115-01.12E, 
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061035Z OCT 26
+HYDROPAC 2896/26.
+BAY OF BENGAL.
+BANGLADESH.
+1. HAZARDOUS OPERATIONS 0100Z TO 1700Z 
+   DAILY 07 THRU 16 OCT IN AREA BOUND BY
+   22-23.50N 091-45.72E, 22-20.75N 091-45.72E,
+   22-22.17N 091-37.68E, 22-31.00N 091-40.50E.
+2. CANCEL THIS MSG 161800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>061031Z OCT 26
+HYDROPAC 2895/26.
+GULF OF KHAMBHAT.
+INDIA.
+1. HAZARDOUS OPERATIONS 090230Z TO 091130Z OCT 
+   IN AREA BOUND BY
+   20-26.00N 072-27.00E, 20-26.00N 072-40.00E,
+   20-40.00N 072-40.00E, 20-40.00N 072-27.00E.
+2. CANCEL THIS MSG 091230Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>061024Z OCT 26
+HYDROPAC 2894/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   090530Z TO 090700Z OCT IN AREA BOUND BY
+   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,
+   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,
+   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,
+   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.
+2. CANCEL THIS MSG 090800Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>060151Z OCT 26
@@ -10,7 +107,8 @@ GUAM.
 1. USCG REMOTE COMMUNICATION FACILITY GUAM
    13-29.00N 144-50.00E HF NAVTEX, VOBRA AND
    SITOR SERVICES OFF AIR.
-2. CANCEL HYDROPAC 2577/26.</msgText>
+2. CANCEL HYDROPAC 2577/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -440,22 +538,6 @@ HYDROPAC 2853/26.
 ARABIAN SEA.
 INDIA.
 F/V VARDANI MAULI SANK IN 18-25.90N 072-41.57E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011153Z OCT 26
-HYDROPAC 2851/26.
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 060430Z TO 060630Z
-   AND 060830Z TO 061030Z OCT
-   IN AREA BOUND BY
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E,
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E.
-2. CANCEL THIS MSG 061130Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

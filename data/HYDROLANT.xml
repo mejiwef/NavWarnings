@@ -3,6 +3,46 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>061438Z OCT 26
+HYDROLANT 1993/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-12.00S 041-04.00W.
+   B. D33B, 58-02.00S 048-06.00W.
+   C. A83, 60-32.00S 051-31.00W.
+   D. A85, 58-50.00S 050-50.00W.
+   E. 58-29.00S 050-01.00W.
+   F. D32, 56-23.00S 038-44.00W.
+   G. D33C, 61-58.00S 054-13.00W.
+   H. 54-50.00S 041-31.00W.
+   I. 59-27.00S 046-01.00W.
+   J. 55-06.00S 046-21.00W.
+   K. 56-27.00S 044-52.00W.
+   L. 58-38.00S 050-29.00W.
+   M. 59-03.00S 048-28.00W.
+   N. 58-45.00S 049-52.00W.
+2. CANCEL THIS MSG 071438Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>060823Z OCT 26
+HYDROLANT 1990/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
+   DAILY 06 THRU 20 OCT BY M/V COMANDO B 
+   AND M/V EMERALD DAISHAN IN 
+   20-23.70S 040-09.43W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 202200Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>060401Z OCT 26
 HYDROLANT 1988/26.
 SCOTIA SEA.
@@ -14,7 +54,8 @@ ANTARCTICA.
    B. A85, 59-14.40S 051-08.40W.
    C. D33A, 64-04.20S 055-28.20W.
    D. D33C, 61-39.60S 054-14.40W.
-2. CANCEL THIS MSG 070401Z OCT 26.</msgText>
+2. CANCEL THIS MSG 070401Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -28,7 +69,8 @@ BRAZIL.
    IN 22-32.81S 040-04.04W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1961/26.
-3. CANCEL THIS MSG 120359Z OCT 26.</msgText>
+3. CANCEL THIS MSG 120359Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -53,16 +95,8 @@ BRAZIL.
    04-15.75N 049-43.94W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1938/26.
-3. CANCEL THIS MSG 180001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>060049Z OCT 26
-HYDROLANT 1984/26.
-SOUTH ATLANTIC.
-BRAZIL.
-CANCEL HYDROLANT 1213/25 AND THIS MSG.</msgText>
+3. CANCEL THIS MSG 180001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>OBJECT</category>
@@ -87,32 +121,6 @@ BRAZIL.
 1. YELLOW MOORING BUOY ADRIFT IN VICINITY
    04-54.98S 036-21.09W.
 2. CANCEL THIS MSG 081450Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>051310Z OCT 26
-HYDROLANT 1981/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-19.00S 041-17.00W.
-   B. D33B, 58-04.00S 047-54.00W.
-   C. A83, 60-37.00S 051-46.00W.
-   D. A85, 58-55.00S 050-53.00W.
-   E. 58-30.00S 050-04.00W.
-   F. D32, 56-23.00S 038-42.00W.
-   G. D33C, 61-55.00S 054-26.00W.
-   H. 54-50.00S 041-31.00W.
-   I. 59-34.00S 045-56.00W.
-   J. 55-06.00S 046-21.00W.
-   K. 56-27.00S 044-52.00W.
-   L. 58-32.00S 050-17.00W.
-   M. 58-57.00S 048-33.00W.
-   N. 58-59.00S 050-26.00W.
-2. CANCEL THIS MSG 061311Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -326,31 +334,6 @@ AND THIS MSG.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301657Z SEP 26
-HYDROLANT 1944/26
-BAY OF BISCAY.
-CELTIC SEA.
-NORTH ATLANTIC.
-FRANCE.
-1. MISSILE OPERATIONS 0001Z TO 1100Z DAILY
-   04 THRU 21 OCT IN AREAS BOUND BY:
-   A. 46-16.38N 023-35.45W, 46-59.73N 019-44.15W,
-      45-07.98N 019-44.15W, 44-26.03N 022-49.63W.
-   B. 47-44.70N 005-23.50W, 47-48.72N 004-31.00W,
-      47-39.00N 004-01.00W, 47-21.72N 004-09.58W,
-      47-16.47N 005-17.68W.
-   C. 47-24.10N 009-51.67W, 47-31.00N 008-28.28W,
-      47-08.48N 008-24.55W, 47-01.62N 009-47.35W.   
-   D. 47-31.00N 008-28.28W, 47-44.70N 005-23.50W,
-      47-16.47N 005-17.68W, 47-08.48N 008-24.55W.
-   E. 42-58.33N 034-54.68W, 43-46.17N 032-20.02W,
-      42-49.37N 031-48.72W, 42-02.25N 034-21.48W.
-2. CANCEL THIS MSG 211200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>301416Z SEP 26
@@ -366,20 +349,6 @@ ROMANIA.
    44-25.56N 029-02.25E, 44-23.91N 028-47.33E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 020001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301401Z SEP 26
-HYDROLANT 1941/26
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1500Z 
-   DAILY 05 AND 06 OCT IN AREA BOUND BY
-   44-25.43N 028-42.50E, 44-27.60N 028-50.00E,
-   44-19.00N 028-47.00E, 44-22.08N 028-42.42E.
-2. CANCEL THIS MSG 061600Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -438,22 +407,6 @@ BRAZIL.
    IN 22-25.32S 039-56.55W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090359Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>280825Z SEP 26
-HYDROLANT 1924/26.
-WESTERN MEDITERRANEAN SEA.
-BALEARIC ISLANDS.
-CABLE OPERATIONS 281200Z SEP UNTIL 
-FURTHER NOTICE BY M/V MAASVLIET
-ALONG TRACKLINES JOINING:
-A. 39-32.67N 001-22.32E, 40-00.45N 001-50.71E.
-B. 38-17.61N 003-23.15E, 38-42.10N 004-24.37E.
-C. 37-50.58N 008-49.22E, 37-39.59N 009-47.26E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -619,20 +572,6 @@ ROMANIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>210030Z SEP 26
-HYDROLANT 1869/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z DAILY
-   22 SEP THRU 06 OCT BY M/V NORD HOUSTON AND
-   M/V COMANDO B IN 20-23.62S 040-09.70W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 061900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>171336Z SEP 26
@@ -697,24 +636,6 @@ ENGLISH CHANNEL.
 ENGLAND.
 NEWHAVEN BREAKWATER, HEAD LIGHT
 50-46.50N 000-03.50E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>062116Z SEP 26
-HYDROLANT 1770/26.
-NORTH SEA.
-NORWEGIAN SEA.
-NORWAY.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL
-   FURTHER NOTICE BY M/V RAMFORM ATLAS
-   TOWING 12 7050 METER LONG CABLES
-   IN AREA BOUND BY
-   61-21.60N 002-40.30E, 61-24.60N 003-02.00E,
-   60-22.70N 003-40.00E, 60-21.20N 003-14.60E.
-   FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1768/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

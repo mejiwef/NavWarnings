@@ -34,18 +34,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>031744Z OCT 26
-HYDROARC 278/26.
-LAPTEV SEA.
-1. ICEBERGS REPORTED AT 031557Z OCT IN: 
-   A. 76-25.70N 120-11.30E.
-   B. 77-06.70N 118-43.90E.
-2. CANCEL THIS MSG 061745Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>030207Z OCT 26
@@ -99,20 +87,6 @@ RUSSIA.
    69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
    69-53.00N 033-21.00E, 70-03.00N 035-02.00E.
 2. CANCEL THIS MSG 071600Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>281731Z SEP 26
-HYDROARC 269/26
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0500Z TO 1900Z DAILY
-   01 THRU 06 OCT IN AREA BOUND BY
-   69-40.00N 035-20.00E, 69-40.00N 037-02.00E,
-   69-21.50N 037-02.00E, 69-21.50N 035-20.00E.
-2. CANCEL THIS MSG 062000Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
