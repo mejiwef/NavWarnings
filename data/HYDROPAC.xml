@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>071907Z OCT 26
+HYDROPAC 2914/26.
+RED SEA.
+YEMEN.
+1. PIRACY ACTIVITY REPORTED IN VICINITY
+   12-58.00N 043-12.00E. VESSELS ARE
+   ADVISED TO KEEP CLEAR OF THIS POSITION
+   AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL HYDROPAC 2912/26.
+3. CANCEL THIS MSG 101907Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>071500Z OCT 26
+HYDROPAC 2913/26.
+NORTH PACIFIC.
+MARSHALL ISLANDS.
+1. HAZARDOUS OPERATIONS 090600Z TO 091242Z OCT,
+   ALTERNATE 100600Z TO 101242Z 
+   AND 110600Z TO 111242Z OCT IN AREA BOUND BY
+   09-16.00N 167-21.00E, 09-23.00N 167-33.00E,
+   09-30.00N 167-29.00E, 09-46.00N 167-55.00E,
+   09-20.00N 168-12.00E, 08-55.00N 167-33.00E.
+2. CANCEL THIS MSG 111342Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071049Z OCT 26
@@ -195,7 +224,8 @@ BANGLADESH.
    DAILY 07 THRU 16 OCT IN AREA BOUND BY
    22-23.50N 091-45.72E, 22-20.75N 091-45.72E,
    22-22.17N 091-37.68E, 22-31.00N 091-40.50E.
-2. CANCEL THIS MSG 161800Z OCT 26.</msgText>
+2. CANCEL THIS MSG 161800Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -432,20 +462,6 @@ MARSHALL ISLANDS.
    09-30.00N 167-29.00E, 09-46.00N 167-55.00E,
    09-20.00N 168-12.00E, 08-55.00N 167-33.00E.
 2. CANCEL THIS MSG 101342Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>031039Z OCT 26
-HYDROPAC 2870/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   071130Z TO 071530Z OCT IN AREA BOUND BY
-   15-18.00N 072-52.00E, 15-08.00N 072-56.00E,
-   15-06.00N 072-47.00E, 15-16.00N 072-44.00E.
-2. CANCEL THIS MSG 071630Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -974,22 +990,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2677/26.
 3. CANCEL THIS MSG 160001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>220812Z SEP 26
-HYDROPAC 2741/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. UNDERWATER OPERATIONS IN PROGRESS 
-   UNTIL FURTHER NOTICE BY M/V FUGRO KWILENA
-   IN AREA BOUND BY
-   20-19.72S 115-42.52E, 20-35.47S 115-42.52E,
-   20-35.47S 115-43.80E, 20-19.72S 115-43.80E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2373/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
