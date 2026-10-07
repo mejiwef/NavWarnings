@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070017Z OCT 26
+NAVAREA XII 708/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 121500Z TO
+   172200Z OCT IN AREA WITHIN ONE
+   MILE OF 32-51.14N 118-22.36W.
+2. CANCEL THIS MSG 172300Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070006Z OCT 26
+NAVAREA XII 707/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 081400Z TO
+   092200Z OCT IN AREA WITHIN TWO MILES
+   OF 32-35.82N 117-10.88W.
+2. CANCEL THIS MSG 092300Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>062109Z OCT 26
@@ -149,21 +173,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040309Z OCT 26
-NAVAREA XII 701/26.
-BERING SEA.
-ALASKA.
-1. CABLE OPERATIONS IN PROGRESS UNTIL
-   06 OCT BY CABLESHIP IT INTEGRITY
-   ALONG TRACKLINE JOINING
-   64-28.05N 165-19.12W, 64-28.34N 165-19.11W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 070001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>022343Z OCT 26
@@ -177,20 +186,6 @@ CALIFORNIA.
    33-40.00N 120-42.00W, 33-48.00N 119-46.00W,
    33-30.00N 119-14.00W.
 2. CANCEL THIS MSG 100200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022242Z OCT 26
-NAVAREA XII 699/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 061800Z TO 062300Z OCT
-   IN AREA BOUND BY
-   33-34.40N 120-44.05W, 32-46.75N 120-12.73W,
-   32-31.33N 120-45.72W, 33-19.00N 121-17.15W.
-2. CANCEL THIS MSG 070001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -261,21 +256,6 @@ NORTH PACIFIC.
 OREGON.
 NAVTEX STATION ASTORIA (W) 46-12.40N 123-57.38W 
 OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>292324Z SEP 26
-NAVAREA XII 690/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 062000Z TO 062300Z OCT 
-   IN AREA BOUND BY
-   38-02.00N 123-17.83W, 37-56.00N 123-17.83W,
-   37-46.42N 123-10.00W, 37-43.00N 124-00.07W,
-   37-50.00N 124-24.57W, 38-00.00N 123-23.07W.
-2. CANCEL THIS MSG 070001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
