@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>072119Z OCT 26
+NAVAREA XII 713/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. USCG REMOTE COMMUNICATION FACILITY
+   POINT REYES 37-55.50N 122-43.90W HF/MF
+   BROADCAST AND DSC SERVICES UNRELIABLE
+   1400Z TO 2000Z DAILY 13 THRU 17 OCT.
+2. CANCEL THIS MSG 172100Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070113Z OCT 26
+NAVAREA XII 712/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 131600Z TO
+   132200Z OCT IN AREA WITHIN ONE MILE
+   OF 32-35.82N 117-10.88W.
+2. CANCEL THIS MSG 132300Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>080332Z OCT 26

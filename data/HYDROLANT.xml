@@ -338,21 +338,6 @@ BRAZIL.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>010832Z OCT 26
-HYDROLANT 1953/26.
-BLACK SEA.
-ROMANIA.
-1. HAZARDOUS OPERATIONS 0600Z TO 1200Z 
-   DAILY 06 THRU 08 OCT IN AREA BOUND BY
-   44-05.00N 029-08.00E, 44-15.00N 029-08.00E,
-   44-15.00N 029-30.00E, 44-05.00N 029-30.00E.
-2. CANCEL HYDROLANT 1951/26.
-3. CANCEL THIS MSG 081300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>010428Z OCT 26
 HYDROLANT 1950/26.
 NORTH ATLANTIC.

@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>071319Z OCT 26
+NAVAREA IV 970/26.
+NORTH ATLANTIC.
+FLORIDA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   131024Z TO 131114Z OCT, ALTERNATE 
+   140958Z TO 141048Z, 150935Z TO 151025Z, 
+   160913Z TO 161003Z, 170850Z TO 170940Z,  
+   180825Z TO 180915Z, AND 
+   190802Z TO 190852Z OCT IN AREAS BOUND BY:
+   A. 31-04.00N 077-59.00W, 31-36.00N 077-41.00W,
+      31-55.00N 077-22.00W, 32-14.00N 076-44.00W,
+      32-11.00N 076-38.00W, 31-34.00N 076-53.00W,
+      31-15.00N 077-16.00W, 31-00.00N 077-56.00W.
+   B. 28-37.95N 080-36.93W, 28-52.00N 080-28.00W,
+      30-09.00N 079-06.00W, 29-57.00N 078-54.00W,
+      28-31.00N 080-20.00W, 28-28.02N 080-31.80W.
+2. CANCEL THIS MSG 190952Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>071927Z OCT 26
