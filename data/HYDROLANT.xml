@@ -3,6 +3,33 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>081453Z OCT 26
+HYDROLANT 2006/26
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-02.00S 040-43.00W.
+   B. D33B, 57-52.00S 048-15.00W.
+   C. A83, 60-20.00S 051-04.00W.
+   D. A85, 58-45.00S 050-56.00W.
+   E. 58-31.00S 049-57.00W.
+   F. D32, 56-19.00S 038-49.00W.
+   G. D33C, 61-45.00S 053-46.00W.
+   H. 54-03.00S 040-59.00W.
+   I. 58-54.00S 046-34.00W.
+   J. 55-25.00S 045-19.00W.
+   K. 56-30.00S 044-21.00W.
+   L. 58-30.00S 050-51.00W.
+   M. 59-19.00S 048-44.00W.
+   N. 58-53.00S 047-48.00W.
+   O. 58-39.00S 046-57.00W. 
+2. CANCEL THIS MSG 091453Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>080349Z OCT 26
 HYDROLANT 2003/26.
 SCOTIA SEA.
@@ -14,7 +41,8 @@ ANTARCTICA.
    B. A85, 59-14.40S 051-08.40W.
    C. D33A, 64-04.20S 055-28.20W.
    D. D33C, 61-39.60S 054-14.40W.
-2. CANCEL THIS MSG 090350Z OCT 26.</msgText>
+2. CANCEL THIS MSG 090350Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -26,7 +54,7 @@ SOUTH ATLANTIC.
 1. HAZARDOUS OPERATIONS, SPACE DEBRIS
    081006Z TO 081101Z, 090958Z TO 091053Z
    100951Z TO 101046Z, 110943Z TO 111038Z
-   120936Z TO 121031Z1, 30928Z TO 131023Z
+   120936Z TO 121031Z, 130928Z TO 131023Z
    140921Z TO 141016Z, 150913Z TO 151008Z
    AND 160905Z TO 161001Z OCT
    IN AREA BOUND BY
@@ -34,32 +62,8 @@ SOUTH ATLANTIC.
    49-02.00S 025-15.00E, 60-00.00S 022-30.00E,
    59-00.00S 010-00.00E, 48-44.00S 014-50.00E.
 2. CANCEL HYDROLANT 1935/26.
-3. CANCEL THIS MSG 151108Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>071330Z OCT 26
-HYDROLANT 2000/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-07.00S 040-58.00W.
-   B. D33B, 57-59.00S 048-14.00W.
-   C. A83, 60-30.00S 051-27.00W.
-   D. A85, 58-48.00S 050-50.00W.
-   E. 58-30.00S 050-02.00W.
-   F. D32, 56-21.00S 038-48.00W.
-   G. D33C, 61-54.00S 054-05.00W.
-   H. 54-20.00S 041-09.00W.
-   I. 59-13.00S 046-11.00W.
-   J. 55-21.00S 045-39.00W.
-   K. 56-30.00S 044-21.00W.
-   L. 58-39.00S 050-43.00W.
-   M. 59-06.00S 048-27.00W.
-   N. 58-40.00S 048-55.00W.
-2. CANCEL THIS MSG 081331Z OCT 26.</msgText>
+3. CANCEL THIS MSG 151108Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -171,31 +175,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1938/26.
 3. CANCEL THIS MSG 180001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>051508Z OCT 26
-HYDROLANT 1983/26.
-BLACK SEA.
-ROMANIA.
-1. DANGEROUS OBJECT ADRIFT IN 44-12.50N 028-59.16E 
-   AT 051100Z OCT.
-   TWO MILE BERTH REQUESTED. 
-2. CANCEL THIS MSG 081509Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>051446Z OCT 26
-HYDROLANT 1982/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. YELLOW MOORING BUOY ADRIFT IN VICINITY
-   04-54.98S 036-21.09W.
-2. CANCEL THIS MSG 081450Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
