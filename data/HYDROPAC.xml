@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>070732Z OCT 26
+HYDROPAC 2931/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 14 THRU 16 OCT IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 161400Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>300818Z SEP 26
+HYDROPAC 2930/26.
+NORTH PACIFIC.
+GUAM.
+1. HAZARDOUS OPERATIONS 2300Z TO 0800Z 
+   DAILY 14 AND 15 OCT IN 13-29.05N 144-40.05E.
+2. CANCEL THIS MSG 160900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>081340Z OCT 26
@@ -1028,21 +1054,6 @@ MRCC VIETNAM, E-MAIL: HPLES-GMDSS@HPLES.COM.VN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIPELINE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>240000Z SEP 26
-HYDROPAC 2764/26.
-SOUTH CHINA SEA.
-PHILIPPINES.
-1. PIPELINE OPERATIONS IN PROGRESS UNTIL
-   08 OCT BY M/V FORTITUDE IN VICINITY:
-   A. 11-38.23N 118-56.36E.
-   B. 11-34.10N 118-53.54E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>FOUL GROUND</category>
         <status>INFORCE</status>
         <msgText>221255Z SEP 26
@@ -1432,18 +1443,6 @@ MALAYSIA.
    05-54.00N 103-01.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 010001Z JAN 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>050939Z AUG 26
-HYDROPAC 2238/26.
-EASTERN SOUTH PACIFIC.
-CHILE.
-1. MAGALLANES RADIO 53-09.90S 070-54.30W
-   HF, MF AND RADIOTELEX OFF AIR.
-2. CANCEL HYDROPAC 527/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
