@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>101519Z OCT 26
+HYDROPAC 2950/26.
+SOUTH PACIFIC.
+FRENCH POLYNESIA.
+1. GUNNERY EXERCISES 2300Z TO 0400Z DAILY 
+   12 THRU 14 OCT IN AREA BOUND BY
+   17-13.00S 149-48.00W, 16-37.00S 150-08.00W,
+   16-30.00S 149-36.00W, 17-10.00S 149-36.00W.
+2. CANCEL THIS MSG 140500Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>101249Z OCT 26
+HYDROPAC 2949/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   0036Z TO 0608Z DAILY 15 THRU 23 OCT
+   IN AREA BOUND BY
+   27-29.00S 136-18.00W, 26-57.00S 133-13.00W,
+   43-20.00S 129-08.00W, 59-25.00S 121-59.00W,
+   59-57.00S 127-24.00W, 43-49.00S 133-05.00W.
+2. CANCEL THIS MSG 230708Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>
@@ -386,21 +415,6 @@ SOUTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PIRACY EVENT</category>
-        <status>INFORCE</status>
-        <msgText>071907Z OCT 26
-HYDROPAC 2914/26.
-RED SEA.
-YEMEN.
-1. PIRACY ACTIVITY REPORTED IN VICINITY
-   12-58.00N 043-12.00E. VESSELS ARE
-   ADVISED TO KEEP CLEAR OF THIS POSITION
-   AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL HYDROPAC 2912/26.
-3. CANCEL THIS MSG 101907Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>071049Z OCT 26
@@ -754,22 +768,6 @@ INDIA.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2855/26.
 3. CANCEL THIS MSG 140001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011253Z OCT 26
-HYDROPAC 2854/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   0130Z TO 1430Z DAILY 06 THRU 10 OCT
-   IN AREA BOUND BY
-   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
-   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
-   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
-2. CANCEL THIS MSG 101530Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
