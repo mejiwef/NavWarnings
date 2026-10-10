@@ -407,20 +407,6 @@ ROMANIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>300941Z SEP 26
-HYDROLANT 1937/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 050800Z TO 092200Z OCT
-   IN AREA BOUND BY
-   30-15.00S 049-54.50W, 30-15.00S 050-06.75W,
-   31-15.00S 050-42.34W, 31-15.00S 050-26.24W.
-2. CANCEL THIS MSG 092300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>281117Z SEP 26
 HYDROLANT 1936/26.
 BLACK SEA.

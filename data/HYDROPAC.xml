@@ -483,18 +483,6 @@ DUE TO TROPICAL STORM CHOI-WAN:
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FAD</category>
-        <status>INFORCE</status>
-        <msgText>070329Z OCT 26
-HYDROPAC 2903/26.
-TIMOR SEA.
-AUSTRALIA.
-1. FAD WITH NET ATTACHED ADRIFT IN 
-   10-48.53S 130-53.18E AT 060606Z OCT.
-2. CANCEL THIS MSG 100330Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>070134Z OCT 26
@@ -564,20 +552,6 @@ QATAR.
    26-05.88N 051-32.80E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2695/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>051218Z OCT 26
-HYDROPAC 2888/26.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS 
-   091700Z TO 092300Z OCT IN AREA BOUND BY
-   08-57.00N 119-36.00E, 08-45.00N 119-19.80E,
-   09-16.20N 118-57.00E, 09-28.20N 119-12.60E.
-2. CANCEL THIS MSG 100001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -186,19 +186,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070006Z OCT 26
-NAVAREA XII 707/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 081400Z TO
-   092200Z OCT IN AREA WITHIN TWO MILES
-   OF 32-35.82N 117-10.88W.
-2. CANCEL THIS MSG 092300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>062109Z OCT 26
@@ -262,22 +249,6 @@ CALIFORNIA.
       28-12.00N 117-19.00W, 28-50.00N 117-19.00W,
       29-36.00N 117-16.00W.
 2. CANCEL THIS MSG 170443Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>022343Z OCT 26
-NAVAREA XII 700/26
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 071730Z TO 080100Z OCT,
-   ALTERNATE 081400Z TO 082000Z AND 091730Z TO 
-   1001000Z OCT, IN AREA BOUND BY
-   32-46.00N 119-57.00W, 33-02.00N 120-40.00W,
-   33-40.00N 120-42.00W, 33-48.00N 119-46.00W,
-   33-30.00N 119-14.00W.
-2. CANCEL THIS MSG 100200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
