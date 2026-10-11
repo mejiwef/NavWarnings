@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>110956Z OCT 26
+HYDROLANT 2024/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 120956Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110036Z OCT 26
