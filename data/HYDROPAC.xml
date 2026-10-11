@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>020734Z APR 26
+HYDROPAC 2952/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   15 OCT IN AREA BOUND BY
+   50-00.00S 130-00.00W, 30-30.00S 130-00.00W,
+   30-30.00S 160-00.00W, 50-00.00S 160-00.00W.
+2. CANCEL THIS MSG 160001Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>090000Z OCT 26
+HYDROPAC 2951/26.
+SOUTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   160130Z TO 160608Z, 170121Z TO 170559Z,
+   180112Z TO 180550Z, 190103Z TO 190541Z,
+   200054Z TO 200532Z, 210045Z TO 210523Z 
+   AND 220036Z TO 220514Z OCT
+   IN AREA BOUND BY
+   27-29.00S 136-18.00W, 26-57.00S 133-13.00W,
+   43-20.00S 129-08.00W, 59-25.00S 121-59.00W,
+   59-57.00S 127-24.00W, 43-49.00S 133-05.00W.
+2. CANCEL THIS MSG 220614Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>101519Z OCT 26
