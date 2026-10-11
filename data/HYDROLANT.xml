@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>111613Z OCT 26
+HYDROLANT 2027/26.
+NORTH ATLANTIC.
+1. RED AND WHITE BUOY ADRIFT 
+   IN VICINITY 28-14.00N 032-20.00W.
+   VESSELS IN VICINITY REQUESTED TO KEEP A
+   SHARP LOOKOUT. REPORTS TO NAVAREA II,
+   EMAIL: COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 141613Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>111357Z OCT 26
+HYDROLANT 2026/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-02.00S 040-10.00W.
+   B. D33B, 57-24.00S 047-54.00W.
+   C. A83, 60-20.00S 050-31.00W.
+   D. A85, 58-40.00S 050-51.00W.
+   E. 58-31.00S 049-00.00W.
+   F. D32, 56-12.00S 038-45.00W.
+   G. D33C, 61-38.00S 053-54.00W.
+   H. 53-28.00S 040-43.00W.
+   I. 58-35.00S 046-58.00W.
+   J. 55-39.00S 044-42.00W.
+   K. 56-30.00S 044-21.00W.
+   L. 57-55.00S 049-14.00W.
+   M. 59-19.00S 048-44.00W.
+   N. 59-25.00S 047-14.00W.
+   O. 58-38.00S 046-49.00W.
+2. CANCEL THIS MSG 121357Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>111250Z OCT 26
+HYDROLANT 2025/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. HAZARDOUS OPERATIONS 150800Z TO 252130Z OCT 
+   IN AREA BOUND BY
+   30-15.00S 050-06.75W, 30-15.00S 049-54.50W,
+   31-15.00S 050-26.24W, 31-15.00S 050-42.34W.
+2. CANCEL THIS MSG 252230Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>110956Z OCT 26
@@ -57,31 +112,6 @@ BRAZIL.
 2. CANCEL THIS MSG 162200Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101848Z OCT 26
-HYDROLANT 2019/26.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-A. A81, 55-02.00S 040-20.00W.
-B. D33B, 57-33.00S 048-03.00W.
-C. A83, 60-17.00S 050-53.00W.
-D. A85, 58-42.00S 050-59.00W.
-E. 58-29.00S 049-35.00W.
-F. D32, 56-14.00S 038-49.00W.
-G. D33C, 61-39.00S 053-51.00W.
-H. 53-44.00S 040-30.00W.
-I. 58-41.00S 046-52.00W.
-J. 55-34.00S 044-47.00W.
-K. 56-30.00S 044-21.00W.
-L. 58-09.00S 049-40.00W.
-M. 59-19.00S 048-44.00W.
-N. 59-16.00S 047-22.00W.
-O. 58-39.00S 046-57.00W.
-2. CANCEL THIS MSG 111400Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>101833Z OCT 26
@@ -104,23 +134,6 @@ BAY OF BISCAY.
 FRANCE.
 PIERRES NOIRES LIGHT 48-18.67N 004-54.87W
 UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101309Z OCT 26
-HYDROLANT 2014/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-SOUTH PACIFIC.
-ANTARCTICA.
-1. ICEBERG REPORTED IN: 
-   A. A84, 69-51.00S 095-29.40W.
-   B. A85, 59-14.40S 051-08.40W.
-   C. D33A, 64-04.20S 055-28.20W.
-   D. D33C, 61-39.60S 054-14.40W.
-2. CANCEL THIS MSG 111309Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -476,20 +489,6 @@ BRAZIL.
    AND M/V COMMANDO B IN 20-23.18S 040-09.77W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 121900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261238Z SEP 26
-HYDROLANT 1911/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 27 SEP THRU 11 OCT BY M/V COMANDO B 
-   AND M/V PRIME STAR IN 20-23.47S 040-09.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 111900Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
