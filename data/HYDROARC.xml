@@ -110,19 +110,6 @@ HYDROARC 283/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SATELLITE SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>091544Z OCT 26
-HYDROARC 282/26.
-DAVIS STRAIT.
-CANADA.
-1. MCTS IQALUIT 63-43.80N 068-32.70W REMOTE
-   STATIONS SATELLITE SERVICES UNRELIABLE
-   1802Z TO 1826Z DAILY 11 THRU 17 OCT.
-2. CANCEL THIS MSG 171926Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>051820Z OCT 26

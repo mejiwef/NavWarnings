@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>121325Z OCT 26
+HYDROLANT 2030/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-09.00S 039-52.00W.
+   B. D33B, 57-18.00S 047-48.00W.
+   C. A83, 60-20.00S 050-31.00W.
+   D. A85, 58-38.00S 050-44.00W.
+   E. 58-29.00S 048-52.00W.
+   F. D32, 56-11.00S 038-43.00W.
+   G. D33C, 61-38.00S 053-55.00W.
+   H. 53-15.00S 041-01.00W.
+   I. 58-28.00S 046-56.00W.
+   J. 55-50.00S 044-32.00W.
+   K. 56-30.00S 044-21.00W.
+   L. 58-09.00S 049-40.00W.
+   M. 59-17.00S 049-14.00W.
+   N. 59-26.00S 047-09.00W.
+   O. 58-07.00S 046-58.00W.
+2. CANCEL THIS MSG 131400Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120942Z OCT 26
+HYDROLANT 2029/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1700Z 
+   DAILY 13 THRU 27 OCT BY M/V COMANDO B 
+   IN 20-23.68S 040-09.10W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 271800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>120644Z OCT 26
+HYDROLANT 2028/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 130646Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
         <status>INFORCE</status>
         <msgText>111613Z OCT 26
@@ -15,33 +69,6 @@ NORTH ATLANTIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111357Z OCT 26
-HYDROLANT 2026/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-02.00S 040-10.00W.
-   B. D33B, 57-24.00S 047-54.00W.
-   C. A83, 60-20.00S 050-31.00W.
-   D. A85, 58-40.00S 050-51.00W.
-   E. 58-31.00S 049-00.00W.
-   F. D32, 56-12.00S 038-45.00W.
-   G. D33C, 61-38.00S 053-54.00W.
-   H. 53-28.00S 040-43.00W.
-   I. 58-35.00S 046-58.00W.
-   J. 55-39.00S 044-42.00W.
-   K. 56-30.00S 044-21.00W.
-   L. 57-55.00S 049-14.00W.
-   M. 59-19.00S 048-44.00W.
-   N. 59-25.00S 047-14.00W.
-   O. 58-38.00S 046-49.00W.
-2. CANCEL THIS MSG 121357Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111250Z OCT 26
@@ -53,22 +80,6 @@ BRAZIL.
    30-15.00S 050-06.75W, 30-15.00S 049-54.50W,
    31-15.00S 050-26.24W, 31-15.00S 050-42.34W.
 2. CANCEL THIS MSG 252230Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>110956Z OCT 26
-HYDROLANT 2024/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-48.00S 093-43.80W.
-   B. A85, 58-44.40S 050-57.00W.
-   C. D33A, 64-13.80S 055-24.00W.
-   D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 120956Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -172,33 +183,6 @@ HYDROLANT 2013/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROLANT 1213/26, 1965/26. 
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>OBJECT</category>
-        <status>INFORCE</status>
-        <msgText>091429Z OCT 26
-HYDROLANT 2011/26.
-BLACK SEA.
-ROMANIA.
-1. DANGEROUS OBJECT ADRIFT IN 
-   44-31.92N 029-28.83E AT 090820Z OCT.
-2. CANCEL THIS MSG 121429Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>091027Z OCT 26
-HYDROLANT 2010/26.
-NORTH ATLANTIC.
-1. DERELICT TEN METER VESSEL ADRIFT, 
-   RED AND WHITE HULL, IN VICINITY
-   26-30.90N 020-17.10W AT 082300Z OCT.
-   VESSELS IN VICINITY REQUESTED TO KEEP A
-   SHARP LOOKOUT. REPORTS TO NAVAREA II,
-   EMAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 121027Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

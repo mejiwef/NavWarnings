@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PORT CLOSURE</category>
+        <status>INFORCE</status>
+        <msgText>120925Z OCT 26
+NAVAREA IV 983/26.
+GULF OF AMERICA.
+DUE TO HURRICANE ISAIAS:
+1. THE FOLLOWING PORT(S) ARE CLOSED:
+   NONE TO REPORT.
+2. THE FOLLOWING PORT(S) ARE OPEN WITH RESTRICTIONS:
+   NONE TO REPORT.
+3. THE FOLLOWING PORT(S) HAVE RE-OPENED:
+   A. MOBILE 30-41N 088-07W.
+   B. PANAMA CITY 30-09N 085-40W.
+   C. PASCAGOULA 30-21N 088-34W.
+   D. PENSACOLA 30-24N 087-13W.
+   E. GULFPORT 30-24.10N 089-04.57W.
+4. CURRENT PORT INFORMATION CAN BE FOUND AT
+   HOMEPORT.USCG.MIL USING THE PORT DIRECTORY TAB.
+5. CANCEL NAVAREA IV 975/26.
+6. CANCEL THIS MSG 150001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>120859Z OCT 26
+NAVAREA IV 982/26.
+NORTH ATLANTIC.
+TURKS AND CAICOS ISLANDS.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   18 OCT BY CABLESHIP IT INTREPID IN 
+   VICINITY 21-30.18N 072-41.53W.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL NAVAREA IV 967/26.
+3. CANCEL THIS MSG 190001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>111902Z OCT 26
@@ -202,36 +238,6 @@ PACIFIC COASTAL AREAS.
    AT WWW.TSUNAMI.GOV.//</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>PORT CLOSURE</category>
-        <status>INFORCE</status>
-        <msgText>091355Z OCT 26
-NAVAREA IV 975/26.
-GULF OF AMERICA.
-DUE TO HURRICANE ISAIAS: 
-1. THE FOLLOWING PORTS ARE CLOSED: 
-   A. GULFPORT 30-24.10N 089-04.57W.
-   B. MOBILE 30-42.73N 088-02.60W.
-   C. PANAMA CITY 30-13.40N 085-32.08W.
-   D. PASCAGOULA 30-21.82N 088-32.52W.
-   E. PENSACOLA 30-24.44N 087-13.12W.
-2. CURRENT PORT INFORMATION CAN BE FOUND AT
-   NAVCEN.USCG.MIL USING THE PORT STATUS TAB.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SATELLITE SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>081956Z OCT 26
-NAVAREA IV 973/26.
-DAVIS STRAIT.
-CANADA.
-1. MCTS IQALUIT 63-43.80N 068-32.70W REMOTE
-   STATIONS SATELLITE SERVICES UNRELIABLE
-   1802Z TO 1826Z DAILY 11 THRU 17 OCT.
-2. CANCEL THIS MSG 171926Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>071319Z OCT 26
@@ -374,20 +380,6 @@ NAVAREA IV 968/26.
    PER IMO RESOLUTION A.1023(26), PARAGRAPH 11.5.1,
    CONTACT NAVSAFETY@NGA.MIL SUBJ: MODU REPORT.
 3. CANCEL NAVAREA IV 924/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>062141Z OCT 26
-NAVAREA IV 967/26.
-NORTH ATLANTIC.
-TURKS AND CAICOS ISLANDS.
-1. CABLE OPERATIONS 08 THRU 12 OCT BY
-   CABLESHIP IT INTREPID IN VICINITY
-   21-30.18N 072-41.53W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 130001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
