@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>112149Z OCT 26
+NAVAREA XII 720/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. CABLE OPERATIONS BY M/V GRACE UNTIL FURTHER
+   NOTICE WITHIN ONE MILE OF TRACKLINES JOINING:
+   A. 40-58.20N 128-40.14W, 40-44.53N 128-27.47W.
+   B. 41-36.61N 126-05.43W, 42-01.74N 125-55.17W,
+      42-38.52N 125-40.18W, 42-40.76N 125-39.34W.
+   C. 41-36.61N 126-05.43W, 40-46.78N 126-25.64W.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 706/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>050135Z OCT 26
@@ -210,23 +227,6 @@ CALIFORNIA.
    172200Z OCT IN AREA WITHIN ONE
    MILE OF 32-51.14N 118-22.36W.
 2. CANCEL THIS MSG 172300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>062109Z OCT 26
-NAVAREA XII 706/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. CABLE OPERATIONS 071900Z OCT UNTIL
-   FURTHER NOTICE BY M/V GRACE WITHIN
-   ONE MILE OF TRACKLINE JOINING
-   39-00.46N 123-43.69W, 38-59.02N 123-42.83W,
-   38-59.33N 123-43.92W, 38-58.16N 123-49.85W,
-   38-56.98N 123-53.85W, 38-51.82N 124-04.95W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 688/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

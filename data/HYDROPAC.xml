@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>120401Z OCT 26
+HYDROPAC 2957/26.
+MOZAMBIQUE CHANNEL.
+1. DERELICT VESSEL HMM PLATINUM ON FIRE 
+   AND ADRIFT IN VICINITY 25-47.15S 040-20.88E.
+2. CANCEL THIS MSG 150402Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>112237Z OCT 26
+HYDROPAC 2955/26.
+GULF OF OMAN.
+OMAN.
+M/V PETRO DOLPHIN SUFFERED A SECURITY INCIDENT,
+ON FIRE AND ADRIFT IN VICINITY 24-41.40N 056-43.50E.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>111837Z OCT 26
@@ -526,17 +548,6 @@ INDIA.
    B. 17-25.00N 083-41.00E, 17-14.00N 083-58.00E,
       17-31.00N 084-10.00E, 17-42.00N 083-53.00E.
 2. CANCEL THIS MSG 171130Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>070940Z OCT 26
-HYDROPAC 2907/26.
-SOUTH PACIFIC.
-CHILE.
-BREAKWATER LIGHT 33-01.90S 071-37.20W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

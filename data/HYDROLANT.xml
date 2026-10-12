@@ -302,21 +302,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>060112Z OCT 26
-HYDROLANT 1986/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS IN PROGRESS
-   UNTIL 120259Z OCT BY M/V SISTAC VITORIA
-   IN 22-32.81S 040-04.04W.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1961/26.
-3. CANCEL THIS MSG 120359Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>060058Z OCT 26
