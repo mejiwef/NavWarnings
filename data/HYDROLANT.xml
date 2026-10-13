@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>130928Z OCT 26
+HYDROLANT 2033/26.
+NORTH ATLANTIC.
+1. DERELICT NINE METER VESSEL, BLACK 
+   AND WHITE HULL, ADRIFT IN VICINITY 
+   26-13.52N 021-05.36W AT 121422Z OCT.
+   REPORTS TO NAVAREA II, 
+   E-MAIL: COORD.NAVAREA2@SHOM.FR.
+2. CANCEL THIS MSG 160930Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130855Z OCT 26
+HYDROLANT 2032/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1700Z 
+   DAILY 14 THRU 28 OCT BY M/V COMANDO B
+   IN 20-23.02S 040-09.23W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 281800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>130523Z OCT 26
+HYDROLANT 2031/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 140523Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>121325Z OCT 26
@@ -38,21 +79,6 @@ BRAZIL.
    IN 20-23.68S 040-09.10W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 271800Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>120644Z OCT 26
-HYDROLANT 2028/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-48.00S 093-43.80W.
-   B. A85, 58-44.40S 050-57.00W.
-   C. D33A, 64-13.80S 055-24.00W.
-   D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 130646Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -546,27 +572,6 @@ BLACK SEA.
 ROMANIA.
 PLATFORM NEPTUN ALPHA ESTABLISHED IN 44-02.85N 030-35.25E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>062313Z SEP 26
-HYDROLANT 1771/26.
-ENGLISH CHANNEL.
-ENGLAND.
-NEWHAVEN BREAKWATER, HEAD LIGHT
-50-46.50N 000-03.50E UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>052203Z SEP 26
-HYDROLANT 1761/26.
-NORTH SEA.
-ENGLAND.
-ROKER PIER LIGHT 54-55.30N 001-21.20W UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

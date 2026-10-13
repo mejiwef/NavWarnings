@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAVAL OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130903Z OCT 26
+NAVAREA IV 987/26.
+CARIBBEAN SEA.
+COLOMBIA.
+1. NAVAL OPERATIONS 130001Z TO 152359Z OCT 
+   IN AREA BOUND BY
+   10-29.52N 075-45.00W, 10-20.02N 075-45.00W,
+   10-20.02N 075-53.46W, 10-29.52N 075-53.46W.
+2. CANCEL NAVAREA IV 980/26.
+3. CANCEL THIS MSG 160059Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>130112Z OCT 26
+NAVAREA IV 986/26.
+CARIBBEAN SEA.
+COLOMBIA.
+PUNTA GALERA LIGHT 10-47.10N 075-16.00W UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>121903Z OCT 26
@@ -31,7 +54,8 @@ NAVAREA IV 985/26.
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 140001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 140001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PORT CLOSURE</category>
@@ -70,21 +94,6 @@ TURKS AND CAICOS ISLANDS.
 3. CANCEL THIS MSG 190001Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111655Z OCT 26
-NAVAREA IV 980/26.
-CARIBBEAN SEA.
-COLOMBIA.
-1. HAZARDOUS OPERATIONS 141200Z T0 152359Z OCT
-   IN AREA BOUND BY
-   10-29.52N 075-45.00W, 10-20.02N 075-45.00W,
-   10-20.02N 075-53.46W, 10-29.52N 075-53.46W,
-   10-29.52N 075-45.00W.
-2. CANCEL THIS MSG 160059Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
         <status>INFORCE</status>
         <msgText>101915Z OCT 26
@@ -115,7 +124,8 @@ NAVAREA IV 979/26
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 120001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 120001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -190,7 +200,8 @@ NAVAREA IV 977/26
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 110001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 110001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>POSSIBLE TSUNAMI</category>
@@ -236,29 +247,6 @@ PACIFIC COASTAL AREAS.
    INITIAL WAVE ARRIVAL.
 4. FURTHER TSUNAMI INFORMATION CAN BE FOUND
    AT WWW.TSUNAMI.GOV.//</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>071319Z OCT 26
-NAVAREA IV 970/26.
-NORTH ATLANTIC.
-FLORIDA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   131024Z TO 131114Z OCT, ALTERNATE 
-   140958Z TO 141048Z, 150935Z TO 151025Z, 
-   160913Z TO 161003Z, 170850Z TO 170940Z,  
-   180825Z TO 180915Z, AND 
-   190802Z TO 190852Z OCT IN AREAS BOUND BY:
-   A. 31-04.00N 077-59.00W, 31-36.00N 077-41.00W,
-      31-55.00N 077-22.00W, 32-14.00N 076-44.00W,
-      32-11.00N 076-38.00W, 31-34.00N 076-53.00W,
-      31-15.00N 077-16.00W, 31-00.00N 077-56.00W.
-   B. 28-37.95N 080-36.93W, 28-52.00N 080-28.00W,
-      30-09.00N 079-06.00W, 29-57.00N 078-54.00W,
-      28-31.00N 080-20.00W, 28-28.02N 080-31.80W.
-2. CANCEL THIS MSG 190952Z OCT 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVAREA IV RIG LIST</category>

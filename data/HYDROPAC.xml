@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>131312Z OCT 26
+HYDROPAC 2967/26.
+NORTH PACIFIC.
+JAPAN.
+1. GUNNERY EXERCISES 160400Z TO 161500Z,
+   ALTERNATE 200400Z TO 201500Z OCT
+   IN AREA WITHIN SEVEN MILES OF 28-07.00N 143-08.00E.
+2. CANCEL THIS MSG 201600Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>131022Z OCT 26
+HYDROPAC 2966/26.
+BAY OF BENGAL.
+INDIA.
+1. DERELICT VESSEL PARTIALLY SUBMERGED AND ADRIFT   
+   WITH FLOATING BUOYS   
+   IN VICINITY 12-31.39N 080-13.05E AT 122245Z OCT.
+2. CANCEL THIS MSG 161031Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131014Z OCT 26
+HYDROPAC 2965/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+1. HAZARDOUS OPERATIONS 0230Z TO 0800Z DAILY
+   16 AND 17 OCT IN AREA BOUND BY
+   10-20.00N 075-00.00E, 10-20.00N 075-35.00E,
+   10-50.00N 075-35.00E, 10-50.00N 075-00.00E.
+2. CANCEL THIS MSG 170900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>130301Z OCT 26
+HYDROPAC 2964/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V SKANDI HERCULES
+IN 19-57.30S 115-12.32E.
+FIVE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>AIDS TO NAVIGATION</category>
         <status>INFORCE</status>
         <msgText>130007Z OCT 26
@@ -244,20 +293,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091129Z OCT 26
-HYDROPAC 2942/26.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 131000Z TO 131200Z OCT
-   IN AREA BOUND BY
-   11-36.26N 092-44.73E, 11-35.93N 092-45.51E,
-   11-35.45N 092-45.30E, 11-35.73N 092-44.53E.
-2. CANCEL THIS MSG 131300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>091115Z OCT 26
 HYDROPAC 2941/26.
 ANDAMAN SEA.
@@ -281,21 +316,6 @@ INDIA.
    09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
    09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
 2. CANCEL THIS MSG 140900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091048Z OCT 26
-HYDROPAC 2939/26.
-ANDAMAN SEA.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 130430Z TO 130630Z
-   AND 130830Z TO 131030Z OCT IN AREA BOUND BY
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E,
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E.
-2. CANCEL THIS MSG 131130Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
