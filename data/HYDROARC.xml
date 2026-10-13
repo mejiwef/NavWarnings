@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>131551Z OCT 26
+HYDROARC 296/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0400Z TO 1500Z DAILY
+   15 AND 16 OCT IN AREA BOUND BY
+   70-07.00N 035-56.00E, 69-27.50N 036-07.00E,
+   69-29.00N 035-11.00E, 69-32.50N 033-14.00E,
+   69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
+   69-53.00N 033-21.00E, 70-03.00N 035-02.00E.
+2. CANCEL HYDROARC 288/26.
+3. CANCEL THIS MSG 161600Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DEPTH REPORTED</category>
         <status>INFORCE</status>
         <msgText>131109Z OCT 26
@@ -13,7 +30,7 @@ B. 7.5 METERS IN 69-11.93N 089-33.11W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
+        <category>UNDERWATER CABLE</category>
         <status>INFORCE</status>
         <msgText>130923Z OCT 26
 HYDROARC 294/26.
@@ -42,7 +59,8 @@ RUSSIA.
    69-33.00N 041-04.00E, 69-12.00N 038-20.00E,
    69-22.00N 035-52.00E, 69-38.50N 034-23.00E,
    70-23.50N 032-33.00E.
-2. CANCEL THIS MSG 211600Z OCT 26.</msgText>
+2. CANCEL THIS MSG 211600Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -58,7 +76,8 @@ RUSSIA.
    B. 69-38.50N 033-05.60E, 69-38.50N 033-13.00E,
       69-32.00N 033-13.00E, 69-32.00N 032-56.00E,
       69-34.90N 032-56.00E, 69-38.50N 033-05.60E.
-2. CANCEL THIS MSG 141600Z OCT 26.</msgText>
+2. CANCEL THIS MSG 141600Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -85,66 +104,7 @@ RUSSIA.
    DAILY 15 THRU 20 OCT IN AREA BOUND BY
    80-00.00N 044-00.00E, 80-00.00N 048-00.00E,
    79-30.00N 048-00.00E, 79-30.00N 044-00.00E.
-2. CANCEL THIS MSG 201800Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081907Z OCT 26
-HYDROARC 288/26.
-BARENTS SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0400Z TO 1500Z DAILY
-   15 THRU 17 OCT IN AREA BOUND BY
-   70-07.00N 035-56.00E, 69-27.50N 036-07.00E,
-   69-29.00N 035-11.00E, 69-32.50N 033-14.00E,
-   69-41.00N 033-04.00E, 69-44.00N 033-04.00E,
-   69-53.00N 033-21.00E, 70-03.00N 035-02.00E.
-2. CANCEL THIS MSG 171600Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101758Z OCT 26
-HYDROARC 287/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED AT 101740Z OCT
-   IN 75-41.10N 123-12.90E.
-2. CANCEL THIS MSG 131801Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101635Z OCT 26
-HYDROARC 286/26.
-LAPTEV SEA.
-1. ICEBERG REPORTED AT 101230Z OCT 
-   IN 75-54.20N 122-07.00E.
-2. CANCEL THIS MSG 131638Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101552Z OCT 26
-HYDROARC 285/26
-LAPTEV SEA.
-1. ICEBERG REPORTED AT 101434Z OCT 
-   IN 76-04.00N 122-44.00E.
-2. CANCEL THIS MSG 131553Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>101353Z OCT 26
-HYDROARC 284/26.
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERG REPORTED IN 77-30.50N 111-55.60E.
-2. CANCEL THIS MSG 131353Z OCT 26.
+2. CANCEL THIS MSG 201800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -168,24 +128,6 @@ HYDROARC 283/26.
    ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
    FROM NGA AT NAVSAFETY@NGA.MIL.
 3. CANCEL HYDROARC 275/2026.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MISSILE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>051820Z OCT 26
-HYDROARC 280/26.
-BARENTS SEA.
-WHITE SEA.
-RUSSIA.
-1. MISSILE OPERATIONS 0400Z TO 1500Z DAILY
-   10 THRU 13 OCT IN AREAS BOUND BY:
-   A. 73-48.00N 040-10.00E, 68-33.00N 044-42.00E,
-      66-59.00N 044-24.00E, 66-54.00N 043-31.00E,
-      73-33.00N 037-31.00E.
-   B. 67-42.00N 045-18.00E, 67-07.00N 045-42.00E,
-      67-07.00N 045-37.00E, 67-22.00N 044-55.00E.
-2. CANCEL THIS MSG 131600Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
