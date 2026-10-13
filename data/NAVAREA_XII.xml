@@ -3,6 +3,20 @@
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>121735Z OCT 26
+NAVAREA XII 721/26.
+BERING SEA.
+ALASKA.
+1. CABLE OPERATIONS 12 THRU 19 OCT
+   BY CABLESHIP IT INTEGRITY ALONG TRACKLINE JOINING
+   61-27.37N 166-34.14W, 61-29.03N 166-14.84W.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL NAVAREA XII 711/26.
+3. CANCEL THIS MSG 200001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>112149Z OCT 26
 NAVAREA XII 720/26.
 NORTH PACIFIC.
@@ -168,21 +182,6 @@ CALIFORNIA.
    132200Z OCT IN AREA WITHIN ONE MILE
    OF 32-35.82N 117-10.88W.
 2. CANCEL THIS MSG 132300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>080332Z OCT 26
-NAVAREA XII 711/26.
-BERING SEA.
-ALASKA.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 13 OCT 
-   BY CABLESHIP IT INTEGRITY 
-   ALONG TRACKLINE JOINING
-   62-52.90N 165-28.00W, 62-51.70N 165-12.70W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 140001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

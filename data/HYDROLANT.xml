@@ -447,20 +447,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>270118Z SEP 26
-HYDROLANT 1915/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1800Z 
-   DAILY 28 SEP THRU 12 OCT BY M/V CALYPSO 
-   AND M/V COMMANDO B IN 20-23.18S 040-09.77W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 121900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>260113Z SEP 26
@@ -471,22 +457,6 @@ BRAZIL.
    22-02.52S 041-03.17W INOPERATIVE UNTIL 24 MAR.
 2. CANCEL HYDROLANT 657/26.
 3. CANCEL THIS MSG 250001Z MAR 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>260053Z SEP 26
-HYDROLANT 1905/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 280800Z SEP 
-   TO 122200Z OCT IN AREA BOUND BY
-   29-30.53S 049-05.53W, 29-27.03S 049-32.03W,
-   30-38.03S 050-09.53W, 31-06.53S 050-29.53W,
-   31-24.03S 050-19.53W
-2. CANCEL HYDROLANT 1892/26.
-3. CANCEL THIS MSG 122300Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

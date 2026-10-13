@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>AIDS TO NAVIGATION</category>
+        <status>INFORCE</status>
+        <msgText>130007Z OCT 26
+HYDROPAC 2963/26.
+SOUTH PACIFIC.
+PERU.
+MANCORA LIGHT 04-06.50S 081-03.43W INOPERATIVE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121043Z OCT 26
@@ -310,20 +319,6 @@ FEDERATED STATES OF MICRONESIA.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2906/26.
 3. CANCEL THIS MSG 150001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>090554Z OCT 26
-HYDROPAC 2933/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   121225Z TO 121405Z OCT IN AREA BOUND BY
-   50-00.00S 131-00.00W, 30-30.00S 131-00.00W,
-   30-30.00S 160-00.00W, 50-00.00S 160-00.00W.
-2. CANCEL HYDROPAC 2928/26.
-3. CANCEL THIS MSG 121505Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
