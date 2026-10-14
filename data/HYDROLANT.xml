@@ -31,17 +31,6 @@ ANTARCTICA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>141251Z OCT 26
-HYDROLANT 2042/26.
-NORTH SEA.
-ENGLAND.
-MRCC DOVER MF DSC AND R/T SERVICES 
-AT BAWDSEY SITE 51-59.60N 001-24.50E OFF AIR.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140931Z OCT 26

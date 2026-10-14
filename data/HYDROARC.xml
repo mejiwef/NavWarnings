@@ -64,20 +64,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>111636Z OCT 26
-HYDROARC 290/26.
-LAPTEV SEA.
-1. ICEBERGS REPORTED IN: 
-   A. 75-55.60N 124-47.80E.
-   B. 76-04.50N 123-40.20E.
-   C. 76-04.60N 122-44.00E.
-   D. 76-14.10N 121-44.50E.
-2. CANCEL THIS MSG 141636Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>091931Z OCT 26

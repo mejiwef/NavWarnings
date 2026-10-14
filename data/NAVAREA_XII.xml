@@ -107,20 +107,6 @@ NAVAREA XII 718/26.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>082205Z OCT 26
-NAVAREA XII 716/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 1400Z TO 2000Z
-   DAILY 14 THRU 16 OCT IN AREA BOUND BY
-   35-12.00N 121-03.00W, 35-06.00N 120-55.00W,
-   34-57.00N 121-15.00W, 35-05.00N 121-20.00W.
-2. CANCEL THIS MSG 162100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>082153Z OCT 26
 NAVAREA XII 715/26.
 NORTH PACIFIC.
