@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>141328Z OCT 26
+NAVAREA IV 993/26.
+NORTH ATLANTIC.
+GUYANA.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 31 DEC
+   BY M/V TSHD SHOREWAY IN AREA BOUND BY
+   06-56.46N 058-03.84W, 06-56.39N 058-03.78W,
+   06-50.17N 058-10.07W, 06-50.03N 058-10.11W,
+   06-50.00N 058-10.13W, 06-49.96N 058-10.16W,
+   06-49.64N 058-10.19W, 06-49.64N 058-10.26W,
+   06-49.97N 058-10.21W, 06-50.03N 058-10.20W,
+   06-50.07N 058-10.18W, 06-50.11N 058-10.14W,
+   06-50.15N 058-10.11W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z JAN 27.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>121112Z OCT 26

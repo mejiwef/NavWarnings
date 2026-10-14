@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>141416Z OCT 26
+HYDROLANT 2043/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-12.00S 039-19.00W.
+   B. D33B, 57-06.00S 046-48.00W.
+   C. D35, 60-02.00S 044-01.00W.
+   D. A83, 60-19.00S 049-46.00W.
+   E. A85, 58-23.00S 050-11.00W.
+   F. 58-38.00S 047-52.00W.
+   G. D32, 56-13.00S 038-40.00W.
+   H. D33C, 61-33.00S 054-06.00W.
+   I. 52-59.00S 041-21.00W.
+   J. 57-58.00S 047-12.00W.
+   K. 55-53.00S 044-22.00W.
+   L. 56-49.00S 045-08.00W.
+   M. 57-37.00S 048-44.00W.
+   N. 58-50.00S 049-31.00W.
+   O. 59-44.00S 046-10.00W.
+   P. 57-49.00S 047-01.00W.
+   Q. 60-04.00S 044-31.00W.
+   R. 59-23.00S 062-53.00W.
+2. CANCEL THIS MSG 151400Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>141251Z OCT 26
+HYDROLANT 2042/26.
+NORTH SEA.
+ENGLAND.
+MRCC DOVER MF DSC AND R/T SERVICES 
+AT BAWDSEY SITE 51-59.60N 001-24.50E OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>140931Z OCT 26
@@ -23,7 +64,8 @@ BRAZIL.
    04-15.75N 049-43.94W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1985/26.
-3. CANCEL THIS MSG 250001Z OCT 26.</msgText>
+3. CANCEL THIS MSG 250001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -38,7 +80,8 @@ ANTARCTICA.
    B. A85, 58-44.40S 050-57.00W.
    C. D33A, 64-13.80S 055-24.00W.
    D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 150351Z OCT 26.</msgText>
+2. CANCEL THIS MSG 150351Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -53,7 +96,8 @@ BRAZIL.
    22-22.26S 040-26.40W, 22-22.28S 040-24.56W,
    22-26.46S 040-24.61W, 22-26.45S 040-26.43W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 080400Z MAY 28.</msgText>
+2. CANCEL THIS MSG 080400Z MAY 28.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -66,36 +110,7 @@ BRAZIL.
    UNTIL 220259Z OCT BY M/V SIEM PILOT
    IN 22-14.40S 040-02.88W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220359Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>131400Z OCT 26
-HYDROLANT 2036/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-11.00S 039-33.00W.
-   B. D33B, 57-09.00S 047-08.00W.
-   C. A83, 60-17.00S 049-39.00W.
-   D. A85, 58-24.00S 050-17.00W.
-   E. D35, 60-01.00S 044-08.00W.
-   F. 58-38.00S 047-55.00W.
-   G. D32, 56-12.00S 038-40.00W.
-   H. D33C, 61-36.00S 054-14.00W.
-   I. 53-06.00S 041-16.00W.
-   J. 58-09.00S 047-13.00W.
-   K. 55-52.00S 044-29.00W.
-   L. 56-30.00S 044-21.00W.
-   M. 57-55.00S 049-01.00W.
-   N. 58-56.00S 049-37.00W.
-   O. 59-43.00S 046-14.00W.
-   P. 60-05.00S 044-27.00W.
-   Q. 60-05.00S 044-27.00W.
-   R. 59-11.00S 062-33.00W.
-2. CANCEL THIS MSG 141400Z OCT 26.
+2. CANCEL THIS MSG 220359Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -137,20 +152,6 @@ BRAZIL.
    IN 20-23.68S 040-09.10W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 271800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY ADRIFT</category>
-        <status>INFORCE</status>
-        <msgText>111613Z OCT 26
-HYDROLANT 2027/26.
-NORTH ATLANTIC.
-1. RED AND WHITE BUOY ADRIFT IN VICINITY
-   28-14.00N 032-20.00W. VESSELS IN VICINITY
-   REQUESTED TO KEEP A SHARP LOOKOUT.
-   REPORTS TO NAVAREA II,
-   EMAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 141613Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
