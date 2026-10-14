@@ -3,6 +3,49 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>140349Z OCT 26
+HYDROLANT 2040/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 150351Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140125Z OCT 26
+HYDROLANT 2038/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
+   080300Z MAY 28 BY M/V KIRT CHOUEST
+   IN AREA BOUND BY
+   22-22.26S 040-26.40W, 22-22.28S 040-24.56W,
+   22-26.46S 040-24.61W, 22-26.45S 040-26.43W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 080400Z MAY 28.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140045Z OCT 26
+HYDROLANT 2037/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 220259Z OCT BY M/V SIEM PILOT
+   IN 22-14.40S 040-02.88W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 220359Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>131400Z OCT 26
 HYDROLANT 2036/26.
 SCOTIA SEA.
@@ -169,17 +212,6 @@ BRAZIL.
    23-44.50S 042-45.00W, 23-44.50S 042-28.00W,
    24-00.00S 042-28.00W, 24-00.00S 042-45.00W.
 2. CANCEL THIS MSG 160100Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>101626Z OCT 26
-HYDROLANT 2017/26.
-BAY OF BISCAY.
-FRANCE.
-PIERRES NOIRES LIGHT 48-18.67N 004-54.87W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

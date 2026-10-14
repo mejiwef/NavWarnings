@@ -130,19 +130,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070113Z OCT 26
-NAVAREA XII 712/26.
-NORTH PACIFIC.
-CALIFORNIA.
-1. HAZARDOUS OPERATIONS 131600Z TO
-   132200Z OCT IN AREA WITHIN ONE MILE
-   OF 32-35.82N 117-10.88W.
-2. CANCEL THIS MSG 132300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>072346Z OCT 26
