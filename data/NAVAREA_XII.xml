@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>121112Z OCT 26
+NAVAREA XII 724/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   191334Z TO 191528Z OCT, ALTERNATE
+   1334Z TO 1528Z DAILY 20 THRU 25 OCT
+   IN AREA BOUND BY
+   41-28.51N 140-03.17W, 30-20.60N 125-28.93W,
+   21-13.00N 118-21.00W, 20-52.00N 118-45.00W,
+   29-01.72N 127-31.33W, 40-11.11N 141-24.84W.
+2. CANCEL THIS MSG 251628Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>121735Z OCT 26

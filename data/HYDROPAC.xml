@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
+        <category>CONTAINER</category>
         <status>INFORCE</status>
-        <msgText>140318Z OCT 26
-HYDROPAC 2978/26.
+        <msgText>141058Z OCT 26
+HYDROPAC 2982/26.
 STRAIT OF HORMUZ.
 OMAN.
-M/V GFS PRIDE SUFFERED A SECURITY INCIDENT,
-IS ON FIRE AND ADRIFT IN 26-23.70N 056-23.60E.
-VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-POSITION AND TO EXERCISE EXTREME CAUTION.
-</msgText>
+1. CONTAINERS ADRIFT IN 26-16.80N 056-08.60E.
+2. CANCEL THIS MSG 171005Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>141052Z OCT 26
+HYDROPAC 2981/26.
+STRAIT OF HORMUZ.
+OMAN.
+1. M/V GFS PRIDE SANK IN 26-16.80N 056-08.60E.
+2. CANCEL HYDROPAC 2978/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>140659Z OCT 26
+HYDROPAC 2980/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+NORTHERN MARIANA ISLANDS.
+1. HAZARDOUS OPERATIONS 170001Z TO 170600Z OCT
+   IN AREA BOUND BY
+   17-00.00N 145-04.98E, 17-00.00N 146-27.65E,
+   15-25.00N 146-27.65E, 15-25.00N 146-25.00E,
+   15-40.37N 146-12.03E, 15-43.60N 145-27.77E.
+2. CANCEL THIS MSG 170700Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>140624Z OCT 26
+HYDROPAC 2979/26.
+SOUTH PACIFIC.
+PERU.
+1. GUNNERY EXERCISES 140500Z TO 160500Z OCT
+   IN AREA BOUND BY
+   11-50.65S 077-28.05W, 11-50.65S 077-25.47W,
+   11-53.15S 077-25.47W, 11-53.15S 077-28.05W.
+2. CANCEL THIS MSG 160600Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -368,20 +403,6 @@ INDIA.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>091103Z OCT 26
-HYDROPAC 2940/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. HAZARDOUS OPERATIONS 
-   140600Z TO 140800Z OCT IN AREA BOUND BY
-   09-57.60N 076-14.50E, 09-47.40N 076-16.60E,
-   09-46.80N 076-11.60E, 09-50.00N 076-07.60E.
-2. CANCEL THIS MSG 140900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>070732Z OCT 26
 HYDROPAC 2931/26.
 NORTH PACIFIC.
@@ -405,20 +426,6 @@ GUAM.
 1. HAZARDOUS OPERATIONS 2300Z TO 0800Z 
    DAILY 14 AND 15 OCT IN 13-29.05N 144-40.05E.
 2. CANCEL THIS MSG 160900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>081230Z OCT 26
-HYDROPAC 2926/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS FROM 0330Z TO 0830Z DAILY
-   12 AND 14 OCT IN AREA BOUND BY
-   21-32.00N 068-56.00E, 21-32.00N 069-24.00E,
-   21-17.00N 069-24.00E, 21-17.00N 069-06.00E.
-2. CANCEL THIS MSG 140930Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -750,24 +757,6 @@ M/V LIPSI SUFFERED A SECURITY INCIDENT,
 DISABLED AND ADRIFT IN 26-23.00N 056-26.30E.
 VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
 POSITION AND TO EXERCISE EXTREME CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ROCKET LAUNCHING</category>
-        <status>INFORCE</status>
-        <msgText>021205Z OCT 26
-HYDROPAC 2862/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
-   070333Z TO 070453Z OCT, ALTERNATE
-   0328Z TO 0443Z DAILY 08 AND 14 OCT
-   IN AREAS BOUND BY:
-   A. 21-29.63N 128-41.38E, 21-37.99N 129-53.83E,
-      18-29.72N 130-17.60E, 18-21.37N 129-06.56E.
-   B. 12-45.04N 129-26.03E, 12-55.28N 131-04.99E,
-      08-14.81N 131-34.22E, 08-04.55N 129-56.77E.
-2. CANCEL THIS MSG 140543Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
