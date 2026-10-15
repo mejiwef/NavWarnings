@@ -174,21 +174,6 @@ BRAZIL.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>102348Z OCT 26
-HYDROLANT 2022/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 140001Z TO 142359Z OCT
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 150059Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>101905Z OCT 26
 HYDROLANT 2020/26.
 SOUTH ATLANTIC.
