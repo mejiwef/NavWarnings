@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>150409Z OCT 26
+HYDROLANT 2045/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 160410Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>141416Z OCT 26
 HYDROLANT 2043/26.
 SCOTIA SEA.
@@ -54,22 +69,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1985/26.
 3. CANCEL THIS MSG 250001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>140349Z OCT 26
-HYDROLANT 2040/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-48.00S 093-43.80W.
-   B. A85, 58-44.40S 050-57.00W.
-   C. D33A, 64-13.80S 055-24.00W.
-   D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 150351Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
