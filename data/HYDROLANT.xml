@@ -3,6 +3,36 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>151357Z OCT 26
+HYDROLANT 2046/26.
+SCOTIA SEA.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-06.00S 038-55.00W.
+   B. D33B, 57-00.00S 046-12.00W.
+   C. D35, 60-08.00S 043-45.00W.
+   D. A83, 60-06.00S 049-23.00W.
+   E. A85, 58-24.00S 049-27.00W.
+   F. D32, 56-17.00S 038-43.00W.
+   G. D33C, 61-39.00S 054-17.00W.
+   H. 58-57.00S 047-44.00W.
+   I. 52-52.00S 041-29.00W.
+   J. 57-45.00S 047-03.00W.
+   K. 55-50.00S 044-13.00W.
+   L. 56-49.00S 045-08.00W.
+   M. 57-39.00S 048-31.00W.
+   N. 58-55.00S 048-43.00W.
+   O. 59-34.00S 044-32.00W.
+   P. 57-45.00S 046-54.00W.
+   Q. 60-01.00S 044-23.00W.
+   R. 59-15.00S 063-22.00W.
+2. CANCEL THIS MSG 161357Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>150409Z OCT 26
 HYDROLANT 2045/26.
 SCOTIA SEA.
@@ -13,36 +43,7 @@ ANTARCTICA.
    B. A85, 58-44.40S 050-57.00W.
    C. D33A, 64-13.80S 055-24.00W.
    D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 160410Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>141416Z OCT 26
-HYDROLANT 2043/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-12.00S 039-19.00W.
-   B. D33B, 57-06.00S 046-48.00W.
-   C. D35, 60-02.00S 044-01.00W.
-   D. A83, 60-19.00S 049-46.00W.
-   E. A85, 58-23.00S 050-11.00W.
-   F. 58-38.00S 047-52.00W.
-   G. D32, 56-13.00S 038-40.00W.
-   H. D33C, 61-33.00S 054-06.00W.
-   I. 52-59.00S 041-21.00W.
-   J. 57-58.00S 047-12.00W.
-   K. 55-53.00S 044-22.00W.
-   L. 56-49.00S 045-08.00W.
-   M. 57-37.00S 048-44.00W.
-   N. 58-50.00S 049-31.00W.
-   O. 59-44.00S 046-10.00W.
-   P. 57-49.00S 047-01.00W.
-   Q. 60-04.00S 044-31.00W.
-   R. 59-23.00S 062-53.00W.
-2. CANCEL THIS MSG 151400Z OCT 26.
+2. CANCEL THIS MSG 160410Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
