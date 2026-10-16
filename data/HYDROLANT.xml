@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161037Z OCT 26
+HYDROLANT 2053/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1700Z
+   DAILY 17 THRU 30 OCT BY  M/V COMANDO B
+   AND M/V SEAWAY EAGLE 
+   IN 20-23.73S 040-09.85W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 301800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161026Z OCT 26
+HYDROLANT 2052/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1700Z
+   DAILY 17 THRU 30 OCT  BY M/V PROBOAT I, 
+   M/V TITO AND M/V BETTY K
+   IN 20-47.72S 040-28.90W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 301800Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>161016Z OCT 26
+HYDROLANT 2051/26.
+SOUTH ATLANTIC.
+BRAZIL.
+1. UNDERWATER OPERATIONS 0800Z TO 1800Z
+   DAILY 17 THRU 31 OCT BY M/V COMANDO B 
+   AND M/V STAR NAVARRAM 
+   IN 20-23.68S 040-09.48W.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 311900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>160356Z OCT 26
+HYDROLANT 2049/26.
+SOUTH ATLANTIC.
+SCOTIA SEA.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-48.00S 093-43.80W.
+   B. A85, 58-44.40S 050-57.00W.
+   C. D33A, 64-13.80S 055-24.00W.
+   D. D33C, 61-45.00S 053-46.20W.
+2. CANCEL THIS MSG 170356Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>160051Z OCT 26
@@ -41,22 +98,6 @@ ANTARCTICA.
    Q. 60-01.00S 044-23.00W.
    R. 59-15.00S 063-22.00W.
 2. CANCEL THIS MSG 161357Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>150409Z OCT 26
-HYDROLANT 2045/26.
-SCOTIA SEA.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-48.00S 093-43.80W.
-   B. A85, 58-44.40S 050-57.00W.
-   C. D33A, 64-13.80S 055-24.00W.
-   D. D33C, 61-45.00S 053-46.20W.
-2. CANCEL THIS MSG 160410Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -113,19 +154,6 @@ BRAZIL.
    IN 22-14.40S 040-02.88W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 220359Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>130928Z OCT 26
-HYDROLANT 2033/26.
-NORTH ATLANTIC.
-1. DERELICT NINE METER VESSEL, BLACK AND WHITE
-   HULL, ADRIFT IN VICINITY  26-13.52N 021-05.36W AT
-   121422Z OCT. REPORTS TO NAVAREA II, 
-   E-MAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 160930Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -867,17 +895,6 @@ BRAZIL.
    ESTABLISHED UNTIL 20 OCT
    IN 04-53.00S 035-46.01W.
 2. CANCEL THIS MSG 210001Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>070125Z MAY 26
-HYDROLANT 900/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. TAMANDARE LIGHT 08-45.57S 035-06.08W
-   UNLIT UNTIL 02 NOV.
-2. CANCEL THIS MSG 030001Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
