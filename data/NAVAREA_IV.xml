@@ -1,6 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>NAIS ICE LIMIT</category>
+        <status>INFORCE</status>
+        <msgText>161911Z OCT 26
+NAVAREA IV 1002/26
+1. NORTH AMERICAN ICE SERVICE (NAIS)
+   ICEBERG BULLETIN 170001Z OCT.
+2. ICEBERG LIMIT ALONG TRACKLINE JOINING
+   48-37N 053-06W, 51-30N 049-45W,
+   52-45N 049-45W, 60-00N 058-00W.
+3. ESTIMATED ICEBERG LIMIT ALONG
+   TRACKLINE JOINING
+   60-00N 058-00W, 61-25N 054-45W,
+   58-45N 045-30W, 59-20N 041-20W,
+   64-25N 036-20W, 64-10N 027-05W.
+4. WESTERN ICEBERG LIMIT ALONG TRACKLINE
+   JOINING
+   51-28N 057-50W, 50-47N 057-03W.
+5. MOST RECENT RECONNAISSANCE:
+   EASTERN LIMIT SATELLITE PASS 16 OCT 26.
+6. REPORT POSITION AND TIME OF ANY ICEBERGS
+   SEA ICE OR STATIONARY RADAR TARGETS THAT
+   MAY LIKELY BE ICE TO THE NEAREST CANADIAN
+   COAST GUARD MARINE COMMUNICATIONS AND
+   TRAFFIC SERVICE STATION OR
+   USING INMARSAT CODE 42.
+7. FOR MORE REPORTING INFORMATION OR TO
+   DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
+   GO TO
+   WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
+8. CANCEL THIS MSG 180001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>161724Z OCT 26
+NAVAREA IV 1001/26.
+1. NAVAREA IV WARNINGS IN FORCE AS OF 161724Z OCT.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   1000/2026, 999/2026, 998/2026, 997/2026, 995/2026,
+   994/2026, 993/2026, 992/2026, 982/2026, 961/2026,
+   950/2026, 949/2026, 946/2026, 933/2026, 918/2026,
+   917/2026, 878/2026, 877/2026, 857/2026, 842/2026,
+   832/2026, 831/2026, 822/2026, 817/2026, 798/2026,
+   709/2026, 705/2026, 684/2026, 682/2026, 670/2026,
+   662/2026, 658/2026, 653/2026, 649/2026, 621/2026, 
+   616/2026, 615/2026, 601/2026, 586/2026, 556/2026, 
+   552/2026, 551/2026, 545/2026, 539/2026, 525/2026,
+   452/2026, 451/2026, 413/2026, 345/2026, 306/2026,
+   222/2026, 113/2026, 98/2026, 55/2026, 53/2026,
+   7/2026.
+   1431/2025, 1430/2025, 1413/2025, 1391/2025,
+   1292/2025, 1175/2025, 1174/2025, 1158/2025,
+   1114/2025, 829/2025, 761/2025, 693/2025, 671/2025,
+   643/2025, 563/2025, 504/2025, 354/2025, 312/2025,
+   311/2025, 190/2025, 183/2025, 155/2025, 130/2025,
+   90/2025, 12/2025.
+   1524/2024, 1382/2024, 1125/2024, 722/2024, 702/2024,
+   701/2024, 437/2024, 214/2024.
+   1404/2023, 1403/2023, 1377/2023, 356/2023, 222/2023.
+   748/2022, 441/2022, 227/2022, 120/2022.
+   1157/2021, 1003/2021, 278/2021, 277/2021.
+2. THE COMPLETE TEXT OF ALL IN-FORCE NAVAREA IV
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM THE NAVAREA IV COORDINATOR AT NAVSAFETY@NGA.MIL.
+3. CANCEL NAVAREA IV 144/21, 778/21, 141/22, 367/22,
+   439/22, 873/23, 12/24, 151/24, 325/24, 703/24,746/24,
+   797/24, 1553/24, 466/25, 616/25, 644/25, 650/25,
+   663/25, 667/25, 789/25,872/25, 998/25, 978/26. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVAREA IV RIG LIST</category>
         <status>INFORCE</status>
         <msgText>152223Z OCT 26
@@ -1048,30 +1122,6 @@ TRINIDAD AND TOBAGO.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>WELLHEAD</category>
-        <status>INFORCE</status>
-        <msgText>191411Z SEP 25
-NAVAREA IV 998/25(24).
-CARIBBEAN SEA.
-TRINIDAD AND TOBAGO.
-UNMARKED SUBMERGED WELLHEAD 
-IN 10-28.29N 061-33.83W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>161717Z AUG 25
-NAVAREA IV 872/25(25).
-NORTH ATLANTIC.
-DOMINICAN REPUBLIC.
-DUE TO HURRICANE ERIN, LATERAL BUOYS REMOVED:
-A. BUOY 1 19-10.61N 069-16.51W.
-B. BUOY 2 19-09.04N 069-07.44W.
-C. BUOY 4 19-10.35N 069-13.74W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>080127Z AUG 25
@@ -1079,16 +1129,6 @@ NAVAREA IV 829/25(24).
 CARIBBEAN SEA.
 TRINIDAD AND TOBAGO.
 CHACACHACARE LIGHT 10-41.81N 061-45.25W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>291532Z JUL 25
-NAVAREA IV 789/25(24).
-CARIBBEAN SEA.
-VENEZUELA.
-LA GUAIRA LIGHT 10-36.25N 066-56.71W ESTABLISHED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1133,71 +1173,11 @@ PUNTA CHARAGATO LIGHT 10-50.48N 064-09.38W UNLIT.
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>251300Z JUN 25
-NAVAREA IV 667/25(25).
-EASTERN CARIBBEAN SEA.
-MARTINIQUE.
-CARENAGE RANGE REAR LIGHT 14-36.32N 061-03.74W
-CHANGED TO OC (2) G 50 METERS 9 MILES.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>240832Z JUN 25
-NAVAREA IV 663/25(26).
-WESTERN CARIBBEAN SEA.
-PANAMA.
-STARBOARD HAND 4 BUOY 09-23.52N 079-53.87W
-MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>200559Z JUN 25
-NAVAREA IV 650/25(26).
-WESTERN CARIBBEAN SEA.
-PANAMA.
-PORT HAND 3 BUOY 09-23.52N 079-53.75W
-MISSING.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>190133Z JUN 25
-NAVAREA IV 644/25(24).
-CARIBBEAN SEA.
-VENEZUELA.
-1. PUNTA BOROJO LIGHT 11-12.08N 070-46.67W
-   CHANGED TO FL W 11 SEC 19 METERS 18 MILES.
-2. CANCEL NAVAREA IV 373/25.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
         <msgText>190025Z JUN 25
 NAVAREA IV 643/25(24).
 EASTERN CARIBBEAN SEA.
 VENEZUELA.
 PUNTA ORIENTAL LIGHT 10-54.00N 065-12.30W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>130011Z JUN 25
-NAVAREA IV 616/25(GEN).
-WESTERN NORTH ATLANTIC.
-MESSAGING SERVICES UNAVAILABLE AT
-USCG REMOTE COMMUNICATION FACILITIES:
-A. BOSTON (F) 41-42.00N 070-30.30W.
-B. CHESAPEAKE (N) 36-43.70N 076-00.60W.
-C. CHARLESTON (E) 32-50.00N 079-56.00W.
-D. MIAMI (A) 25-37.00N 080-23.00W.
-E. NEW ORLEANS (G) 29-53.10N 089-56.70W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1220,17 +1200,6 @@ WESTERN CARIBBEAN SEA.
 PANAMA.
 MANZANILLO ENTRANCE LIGHT 09-22.90N 079-53.90W
 TEMPORARILY CHANGED TO WHITE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>251029Z APR 25
-NAVAREA IV 466/25(26).
-WESTERN CARIBBEAN SEA.
-NICARAGUA.
-HOYO SOPLADOR LIGHT, FL W 15 SEC 20 METERS 
-12 MILES, ESTABLISHED IN 12-28.85N 081-43.83W.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1334,17 +1303,6 @@ HUNTING CAY LIGHT 16-06.40N 088-16.60W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>111518Z DEC 24
-NAVAREA IV 1553/24(27).
-WESTERN CARIBBEAN SEA.
-CUBA.
-LOS BALLENATOS LIGHT, FL W 10 SEC 8 METERS
-8 MILES, ESTABLISHED IN 21-34.71N 081-38.30W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ADMIN</category>
         <status>INFORCE</status>
         <msgText>041331Z DEC 24
@@ -1397,25 +1355,6 @@ EAST SNAKE CAYE LIGHT 16-12.60N 088-30.20W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>090142Z JUL 24
-NAVAREA IV 797/24(25).
-EASTERN CARIBBEAN SEA.
-GRENADINES.
-CHART 25001
-DANGEROUS WRECK IN 12-35.75N 061-24.44W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>270637Z JUN 24
-NAVAREA IV 746/24(14).
-WESTERN NORTH ATLANTIC.
-ODAS BUOY ESTABLISHED IN 47-53.93N 046-47.74W.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>211635Z JUN 24
@@ -1425,16 +1364,6 @@ BELIZE.
 CHART 26167.
 1. SANDBORE CAY LIGHT 17-28.20N 087-29.50W UNLIT.
 2. CANCEL NAVAREA IV 616/23.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>182349Z JUN 24
-NAVAREA IV 703/24(28).
-WESTERN CARIBBEAN SEA.
-MEXICO.
-PUNTA HERRERO LIGHT 19-18.76N 087-26.76W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1468,16 +1397,6 @@ CAYO RONCADOR LIGHT 13-34.41N 080-05.51W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>211603Z MAR 24
-NAVAREA IV 325/24(24).
-WESTERN NORTH ATLANTIC.
-GUYANA.
-ODAS BUOY ESTABLISHED IN 07-02.67N 057-58.65W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>250645Z FEB 24
@@ -1485,18 +1404,6 @@ NAVAREA IV 214/24(24).
 CARIBBEAN SEA.
 NETHERLANDS ANTILLES.
 KLEIN BONAIRE LIGHT 12-09.37N 068-19.61W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>092139Z FEB 24
-NAVAREA IV 151/24(24).
-EASTERN CARIBBEAN SEA.
-VENEZUELA.
-DNC 14.
-FARO PUNTA MEJILLONES LIGHT 10-42.20N 062-08.40W
-DISCONTINUED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1583,20 +1490,6 @@ WESTERN NORTH ATLANTIC.
 DOMINICAN REPUBLIC.
 CHART 25720.
 PUERTO PLATA LIGHT 19-48.2N 070-41.7W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>MSGID/GENADMIN/NGA NAVSAFETY WASHINGTON DC//
-RMKS/
-NAVAREA IV 141/22(28).
-GULF OF HONDURAS.
-BELIZE.
-CHART 28162.
-1. HUNTING CAY, ZAPODILLA CAYS LIGHT
-   16-06.5N 088-16.0W UNLIT.
-2. CANCEL NAVAREA IV 138/22.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

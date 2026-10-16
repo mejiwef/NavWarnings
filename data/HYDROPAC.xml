@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>INFORCE BULLETIN</category>
+        <status>INFORCE</status>
+        <msgText>161827Z OCT 26.
+HYDROPAC 3014/26.
+1. HYDROPAC WARNINGS IN FORCE AS OF 161827Z OCT 26.
+   ALL THE INFORCE WARNINGS ARE LISTED HERE.
+   3013/2026, 3012/2026, 3010/2026, 3009/2026,
+   3008/2026, 3007/2026, 3006/2026, 3005/2026, 3004/2026,
+   3003/2026, 3002/2026, 3000/2026, 2999/2026, 2998/2026,
+   2997/2026, 2996/2026, 2995/2026, 2993/2026, 2992/2026,
+   2989/2026, 2987/2026, 2986/2026, 2985/2026, 2984/2026,
+   2983/2026, 2982/2026, 2981/2026, 2980/2026, 2976/2026,
+   2971/2026, 2968/2026, 2965/2026, 2964/2026, 2963/2026,
+   2960/2026, 2951/2026, 2949/2026, 2945/2026, 2944/2026,
+   2923/2026, 2918/2026, 2911/2026, 2910/2026, 2908/2026,
+   2904/2026, 2899/2026, 2891/2026, 2881/2026, 2880/2026,
+   2878/2026, 2877/2026, 2875/2026, 2859/2026, 2856/2026,
+   2853/2026, 2848/2026, 2847/2026, 2833/2026, 2826/2026,
+   2822/2026, 2821/2026, 2820/2026, 2805/2026, 2802/2026,
+   2801/2026, 2798/2026, 2795/2026, 2786/2026, 2775/2026,
+   2744/2026, 2717/2026, 2700/2026, 2694/2026, 2676/2026,
+   2672/2026, 2670/2026, 2646/2026, 2615/2026, 2600/2026,
+   2580/2026, 2578/2026, 2483/2026, 2482/2026, 2455/2026,
+   2426/2026, 2417/2026, 2362/2026, 2353/2026, 2288/2026,
+   2281/2026, 2273/2026, 2250/2026, 2249/2026, 2200/2026,
+   2092/2026, 2075/2026, 2039/2026, 1978/2026, 1906/2026,
+   1903/2026, 1892/2026, 1883/2026, 1873/2026, 1869/2026,
+   1864/2026, 1796/2026, 1794/2026, 1772/2026, 1516/2026,
+   1493/2026, 1291/2026, 1237/2026, 1134/2026, 1052/2026,
+   974/2026, 957/2026, 808/2026, 627/2026, 622/2026,
+   598/2026, 540/2026, 473/2026, 379/2026, 292/2026,
+   241/2026, 10/2026.
+   2558/2025, 2242/2025, 1823/2025, 1819/2025, 1605/2025,
+   1415/2025, 1357/2025, 799/2025, 111/2025, 28/2025.
+   1423/2024, 1114/2024, 582/2024, 462/2024, 363/2024,
+   311/2024.
+2. THE COMPLETE TEXT OF ALL IN-FORCE HYDROPAC
+   BROADCAST WARNINGS ARE AVAILABLE ON THE NGA
+   MARITIME SAFETY INFORMATION WEBSITE AT:
+   MSI.NGA.MIL/NAVWARNINGS.
+   ALTERNATIVELY, THESE MAY BE REQUESTED BY E-MAIL
+   FROM NGA AT NAVSAFETY@NGA.MIL.
+3. CANCEL HYDROPAC 3849/24, 83/25, 221/25, 319/25, 1650/25,
+   2412/25, 2832/26, 2879/26, 2902/26, 2984/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>161621Z OCT 26
+HYDROPAC 3013/26.
+GULF OF OMAN.
+OMAN.
+1. M/V CAPE DAO SANK  IN 24-21.48N 057-40.65E.
+2. CANCEL  HYDROPAC 2970/26. 
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161329Z OCT 26
@@ -103,7 +161,8 @@ SOUTH PACIFIC.
    IN AREA BOUND BY
    53-30.00S 172-00.00E, 53-30.00S 173-30.00E,
    56-30.00S 172-30.00E, 56-30.00S 171-00.00E.
-2. CANCEL THIS MSG 030945Z NOV 26.</msgText>
+2. CANCEL THIS MSG 030945Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -463,16 +522,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>131532Z OCT 26
-HYDROPAC 2970/26.
-GULF OF OMAN.
-OMAN.
-M/V CAPE DAO SANK IN 24-44.20N 056-47.70E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>131440Z OCT 26
@@ -718,20 +767,6 @@ INDIA.
    19-02.18N 072-43.72E, 19-01.66N 072-40.83E.
    ONE MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 210001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>061035Z OCT 26
-HYDROPAC 2896/26.
-BAY OF BENGAL.
-BANGLADESH.
-1. HAZARDOUS OPERATIONS 0100Z TO 1700Z 
-   DAILY 07 THRU 16 OCT IN AREA BOUND BY
-   22-23.50N 091-45.72E, 22-20.75N 091-45.72E,
-   22-22.17N 091-37.68E, 22-31.00N 091-40.50E.
-2. CANCEL THIS MSG 161800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1833,17 +1868,6 @@ LIGHT AND RACON UNRELIABLE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>190907Z SEP 25
-HYDROPAC 2412/25(93).
-SOUTH CHINA SEA.
-VIETNAM.
-DNC 11.
-DANGEROUS WRECK IN 10-22.31N 107-46.96E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VOLCANIC ACTIVITY</category>
         <status>INFORCE</status>
         <msgText>021024Z SEP 25
@@ -1915,20 +1939,6 @@ J. 11.2 METERS IN 07-05.30N 171-22.39E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>242359Z JUN 25
-HYDROPAC 1650/25(16).
-NORTH PACIFIC.
-DNC 25.
-M/V MORNING MIDAS SANK IN 45-16.88N 179-14.13W.
-VESSELS IN VICINITY REQUESTED TO NAVIGATE WITH
-CAUTION AND REPORT PRESENCE OF OIL SHEENS OR
-DEBRIS TO USCG SECTOR WESTERN ALASKA AND US ARCTIC,
-PHONE: 907 428 4100, E-MAIL: SOUTHWESTERNAK@USCG.MIL.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>VESSEL ABANDONED</category>
         <status>INFORCE</status>
         <msgText>191650Z JUN 25
@@ -1981,31 +1991,6 @@ SERVICE OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>FOUL GROUND</category>
-        <status>INFORCE</status>
-        <msgText>071554Z FEB 25
-HYDROPAC 319/25(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-FOUL GROUND, ANCHOR WITH 2.5 SHACKLE CHAIN REPORTED 
-IN 25-07.69N 052-53.09E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>290955Z JAN 25
-HYDROPAC 221/25(96).
-SEA OF OKHOTSK.
-KURIL ISLANDS.
-DNC 24.
-1. MALOKURILSKIY LIGHT 43-52.50N 146-48.80E 
-   RANGE REDUCED TO EIGHT MILES.
-2. CANCEL HYDROPAC 3644/24.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ADMIN</category>
         <status>INFORCE</status>
         <msgText>170957Z JAN 25
@@ -2021,18 +2006,6 @@ MARITIMERADIO@GMAIL.COM.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>131317Z JAN 25
-HYDROPAC 83/25(62).
-PERSIAN GULF.
-KUWAIT.
-DNC 10.
-MET TOWER 28-46.0N 048-26.1E TEMPORARILY
-REPLACED BY YELLOW BUOY, FL(4) 15 SEC 5M.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>STRUCTURE</category>
         <status>INFORCE</status>
         <msgText>061036Z JAN 25
@@ -2043,19 +2016,6 @@ DNC 10.
 NAVIGATION PROHIBITED UNTIL FURTHER 
 NOTICE IN AREA WITHIN 600 METERS OF 
 28-52.49N 048-21.63E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>VESSEL ABANDONED</category>
-        <status>INFORCE</status>
-        <msgText>191056Z DEC 24
-HYDROPAC 3849/24(62).
-RED SEA.
-SAUDI ARABIA.
-DNC 10.
-1. DERELICT M/V ISA STAR AGROUND 
-   IN 18-26.00N 041-06.00E.
-2. CANCEL HYDROPAC 3841/24.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
