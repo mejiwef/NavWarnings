@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>162010Z OCT 26
-HYDROARC 302/26
-CANADA.
-1. MCTS IQALUIT REMOTE STATION INUVIK
-   68-19.00N 133-35.00W MF SERVICES OFF AIR UNTIL
-   162230Z OCT.
-2. CANCEL THIS MSG 162330Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>161846Z OCT 26
@@ -66,20 +55,6 @@ RUSSIA.
    70-23.50N 032-33.00E.
 2. CANCEL HYDROARC 293/26.
 3. CANCEL THIS MSG 241600Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>161705Z OCT 26
-HYDROARC 298/26.
-ARCTIC OCEAN.
-CANADA.
-1. MCTS IQALUIT REMOTE STATION INUVIK
-   68-19.00N 133-35.00W 
-   MF AND HF R/T SERVICES OFF AIR UNTIL
-   162100Z OCT. 
-2. CANCEL THIS MSG 162200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
