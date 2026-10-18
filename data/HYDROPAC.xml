@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>182010Z OCT 26
+HYDROPAC 3025/26.
+PERSIAN GULF.
+U.A.E.
+1. CONTAINERS PARTIALLY SUBMERGED AND
+   ADRIFT IN VICINITY 25-24.26N 055-03.00E.
+2. CANCEL THIS MSG 212006Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>181420Z OCT 26
