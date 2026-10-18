@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SPACE DEBRIS</category>
+        <status>INFORCE</status>
+        <msgText>180317Z OCT 26
+HYDROPAC 3023/26
+NORTH PACIFIC.
+1. HAZARDOUS OPERATIONS, SPACE DEBRIS
+   210200Z TO 210800Z OCT IN AREA BOUND BY
+   08-15.10N 162-28.82E, 05-58.72N 165-17.00E,
+   05-33.74N 164-56.38E, 07-50.00N 162-08.24E.
+2. CANCEL THIS MSG 210900Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>171546Z OCT 26
@@ -456,19 +468,6 @@ IN AREA BOUND BY
 25-52.86N 052-42.10E, 25-52.84N 052-43.83E,
 25-53.56N 052-43.84E, 25-53.58N 052-42.11E.
 WIDE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141528Z OCT 26
-HYDROPAC 2986/26.
-GULF OF OMAN.
-OMAN.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 17 OCT
-   BY M/V SEAWAY EAGLE IN 25-11.30N 056-24.40E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 180001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
