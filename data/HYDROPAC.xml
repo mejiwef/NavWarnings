@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>181420Z OCT 26
+HYDROPAC 3024/26.
+GULF OF OMAN.
+U.A.E.
+1. UNDERWATER OPERATIONS IN PROGRESS
+   UNTIL 21 OCT BY M/V HUA RUI LONG 
+   IN 25-11.30N 056-24.40E.
+   ONE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 220001Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
         <status>INFORCE</status>
         <msgText>180317Z OCT 26
