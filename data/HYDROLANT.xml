@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>190100Z OCT 26
+HYDROLANT 2069/26.
+SOUTH ATLANTIC.
+1. DERELICT M/V ESPIRITO SANTO EXPRESS ON FIRE
+   AND ADRIFT IN 29-13.38S 029-05.25W ON 18 OCT.
+   REPORTS TO ANY COASTAL RADIO STATION.
+2. CANCEL THIS MSG 220100Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>181435Z OCT 26
@@ -222,19 +233,6 @@ BRAZIL.
    IN 20-23.68S 040-09.48W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 311900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>160051Z OCT 26
-HYDROLANT 2048/26
-SOUTH ATLANTIC.
-1. DERELICT M/V ESPIRITO SANTO EXPRESS ON FIRE
-   AND ADRIFT IN 28-07.87S 026-56.90W AT
-   151906Z OCT.
-2. CANCEL HYDROLANT 2047/26.
-3. CANCEL THIS MSG 190053Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -486,20 +484,6 @@ TURKEY.
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>040759Z OCT 26
-HYDROLANT 1973/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 1100Z TO 2100Z 
-   DAILY 04 THRU 18 OCT BY M/V COMANDO B
-   AND M/V RGR OKINAWA IN 20-19.03S 040-07.78W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 182200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
