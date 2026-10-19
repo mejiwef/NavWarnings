@@ -27,7 +27,8 @@ CALIFORNIA.
       29-15.00N 118-02.00W, 29-02.00N 117-59.00W,
       28-12.00N 117-19.00W, 28-50.00N 117-19.00W,
       29-36.00N 117-16.00W.
-2. CANCEL THIS MSG 300945Z OCT 26.</msgText>
+2. CANCEL THIS MSG 300945Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -43,7 +44,8 @@ OREGON.
       42-38.52N 125-40.18W, 42-40.76N 125-39.34W.
    B. 41-26.00N 126-09.00W, 40-46.78N 126-25.64W.
    TWO MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 731/26.</msgText>
+2. CANCEL NAVAREA XII 731/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -59,7 +61,8 @@ NORTH PACIFIC.
    28-51.00N 123-28.00W, 28-52.00N 121-02.00W,
    27-20.00N 121-01.00W, 26-21.00N 122-13.00W,
    28-26.00N 123-54.00W.
-2. CANCEL THIS MSG 212000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 212000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
@@ -137,25 +140,6 @@ COSTA RICA.
    10-24.30N 085-48.52W, 10-24.04N 085-48.42W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 220001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151844Z OCT 26
-NAVAREA XII 727/26
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 190900Z TO 192100Z OCT,
-   ALTERNATE 0900Z TO 2100Z DAILY 20 AND 21 OCT
-   IN AREAS BOUND BY:
-   A. 34-13.00N 122-16.00W, 32-23.00N 121-48.00W,
-      31-18.00N 128-04.00W, 32-47.00N 128-33.00W
-   B. 31-14.00N 133-51.00W, 30-40.00N 135-53.00W,
-      29-34.00N 135-28.00W, 30-07.00N 133-27.00W.
-   C. 28-39.00N 141-04.00W, 28-03.00N 142-18.00W,
-      27-27.00N 143-00.00W, 26-51.00N 142-41.00W,
-      26-56.00N 141-42.00W, 27-24.00N 140-23.00W.
-2. CANCEL THIS MSG 212200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
