@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>201952Z OCT 26
+HYDROARC 307/26.
+BARENTS SEA.
+RUSSIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   252100Z TO 312100Z OCT IN AREAS BOUND BY:
+   A. 68-55.20N 051-20.35E, 68-40.47N 050-49.44E,
+      68-20.05N 049-23.23E, 68-02.05N 047-54.41E,
+      67-59.17N 047-04.45E, 68-14.22N 047-31.29E,
+      68-36.41N 048-56.04E, 68-53.30N 050-29.28E.
+   B. 67-29.00N 045-02.00E, 67-33.00N 045-19.00E,
+      67-26.00N 045-30.00E, 67-22.00N 045-13.00E.
+2. CANCEL THIS MSG 312200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201933Z OCT 26
+HYDROARC 306/26.
+BARENTS SEA.
+RUSSIA.
+1. MISSILE OPERATIONS 0400Z TO 1500Z DAILY
+   25 THRU 28 OCT IN AREA BOUND BY
+   71-49.50N 032-24.00E, 71-20.00N 038-01.50E,
+   71-08.00N 041-13.00E, 70-13.00N 042-45.00E,
+   69-33.00N 041-04.00E, 69-12.00N 038-20.00E,
+   69-22.00N 035-52.00E, 69-29.00N 035-11.00E,
+   69-32.50N 033-14.00E, 69-38.80N 033-06.00E,
+   69-44.50N 033-05.00E, 69-53.00N 033-21.00E,
+   70-23.50N 032-33.00E.
+2. CANCEL THIS MSG 281600Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191748Z OCT 26

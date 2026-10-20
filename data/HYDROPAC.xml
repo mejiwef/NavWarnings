@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>201827Z OCT 26
+HYDROPAC 3051/26.
+NORTH PACIFIC.
+GUAM.
+1. USCG REMOTE COMMUNICATION FACILITY
+   GUAM 13-29.00N 144-50.00E MF, HF AND DSC
+   SERVICES UNRELIABLE 221330Z TO 221600Z OCT.
+2. CANCEL THIS MSG 221700Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>201721Z OCT 26
+HYDROPAC 3050/26
+GULF OF OMAN.
+IRAN.
+1. M/V  PETRO DOLPHIN ADRIFT 
+   IN VICINITY OF 24-18.36N 057-55.82E.
+2. CANCEL HYDROPAC 3002/26.
+3. CANCEL THIS MSG 231715Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201351Z OCT 26
@@ -520,19 +544,6 @@ NORTHERN MARIANA ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>160145Z OCT 26
-HYDROPAC 3002/26
-GULF OF OMAN.
-OMAN.
-M/V PETRO DOLPHIN SUFFERED SECURITY INCIDENT,
-ADRIFT IN 24-30.36N 057-27.11E ON 12 OCT.
-VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-POSITION AND TO EXERCISE EXTREME CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>152349Z OCT 26
@@ -695,24 +706,6 @@ STRAIT OF HORMUZ.
 OMAN.
 1. M/V GFS PRIDE SANK IN 26-16.80N 056-08.60E.
 2. CANCEL HYDROPAC 2978/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ADMIN</category>
-        <status>INFORCE</status>
-        <msgText>131602Z OCT 26
-HYDROPAC 2971/26.
-NORTH PACIFIC.
-RUSSIA.
-1. RIGHT OF INNOCENT PASSAGE IN RUSSIAN
-   FEDERATION TERRITORIAL SEA FOR FOREIGN
-   NAVAL SHIPS AND STATE VESSELS OPERATED
-   FOR NON COMMERCIAL PURPOSES TEMPORARILY
-   SUSPENDED 131200Z TO 201700Z OCT 
-   IN AREA BOUND BY
-   56-10.00N 163-27.00E, 56-08.00N 163-43.00E,
-   54-37.00N 162-25.00E, 54-44.00N 162-08.00E.
-2. CANCEL THIS MSG 201800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
