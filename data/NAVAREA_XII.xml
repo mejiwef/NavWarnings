@@ -192,21 +192,6 @@ CALIFORNIA.
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>121735Z OCT 26
-NAVAREA XII 721/26.
-BERING SEA.
-ALASKA.
-1. CABLE OPERATIONS IN PROGRESS UNTIL 19 OCT
-   BY CABLESHIP IT INTEGRITY ALONG TRACKLINE JOINING
-   61-27.37N 166-34.14W, 61-29.03N 166-14.84W.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 711/26.
-3. CANCEL THIS MSG 200001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>011355Z OCT 26
 NAVAREA XII 694/26.
 NORTH PACIFIC.
