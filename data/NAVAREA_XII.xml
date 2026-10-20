@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>201611Z OCT 26
+NAVAREA XII 740/26
+NORTH PACIFIC.
+CANCEL NAVAREA XII 724/26 AND THIS MSG.
+OPERATIONS COMPLETE. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>170558Z OCT 26
@@ -45,23 +54,6 @@ OREGON.
    B. 41-26.00N 126-09.00W, 40-46.78N 126-25.64W.
    TWO MILE BERTH REQUESTED.
 2. CANCEL NAVAREA XII 731/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>170315Z OCT 26
-NAVAREA XII 735/26
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 
-   190900Z TO 191900Z OCT, ALTERNATE
-   200900Z TO 201900Z OCT,
-   210900Z TO 211900Z OCT.
-   IN AREA BOUND BY
-   28-51.00N 123-28.00W, 28-52.00N 121-02.00W,
-   27-20.00N 121-01.00W, 26-21.00N 122-13.00W,
-   28-26.00N 123-54.00W.
-2. CANCEL THIS MSG 212000Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

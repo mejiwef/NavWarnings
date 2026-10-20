@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>201351Z OCT 26
+HYDROPAC 3048/26
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0300Z TO 1100Z DAILY
+   23 AND 24 OCT, IN AREA BOUND BY
+   25-12.00N 064-27.83E, 25-12.00N 064-49.00E,
+   25-02.83N 064-49.00E, 25-02.83N 064-27.83E.
+2. CANCEL THIS MSG 241200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201023Z OCT 26
@@ -14,7 +27,8 @@ INDIA.
    18-01.00N 072-28.00E, 17-46.00N 071-44.00E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2821/26.
-3. CANCEL THIS MSG 140001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 140001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -27,7 +41,8 @@ RUSSIA.
    IN AREA BOUND BY
    58-44.00N 142-09.00E, 59-18.00N 143-38.00E,
    58-03.00N 145-25.00E, 57-31.00N 144-06.00E.
-2. CANCEL THIS MSG 312200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 312200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -49,7 +64,8 @@ FEDERATED STATES OF MICRONESIA.
       04-44.00N 152-16.00E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2992/26.
-3. CANCEL THIS MSG 030001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 030001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PORT CLOSURE</category>
@@ -239,25 +255,6 @@ SOUTH PACIFIC.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>190032Z OCT 26
-HYDROPAC 3026/26.
-SOUTH CHINA SEA.
-SULU SEA.
-PHILIPPINES.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   220100Z TO 220700Z OCT IN AREAS BOUND BY:
-   A. 12-25.80N 116-36.60E, 13-16.80N 115-54.60E,
-      13-37.80N 116-21.60E, 12-46.20N 117-03.00E.
-   B. 07-08.40N 120-43.80E, 08-00.00N 120-03.60E,
-      08-20.40N 120-30.00E, 07-28.20N 121-10.20E.
-   C. 07-08.40N 120-37.20E, 08-00.00N 119-57.00E,
-      08-26.40N 120-32.40E, 07-34.80N 121-12.60E.
-2. CANCEL THIS MSG 220800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CONTAINER</category>
         <status>INFORCE</status>
         <msgText>182010Z OCT 26
@@ -294,17 +291,6 @@ NORTH PACIFIC.
    08-15.10N 162-28.82E, 05-58.72N 165-17.00E,
    05-33.74N 164-56.38E, 07-50.00N 162-08.24E.
 2. CANCEL THIS MSG 210900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>171546Z OCT 26
-HYDROPAC 3022/26.
-PERSIAN GULF.
-IRAN.
-1. LIFEBOAT REPORTED ADRIFT IN 27-46.90N 050-36.00E.
-2. CANCEL THIS MSG 201546Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -698,23 +684,6 @@ HAZARDOUS OPERATIONS IN PROGRESS
 UNTIL FURTHER NOTICE ALONG TRACKLINE JOINING
 21-03.82S 054-57.81E, 20-54.03S 055-16.23E,
 20-53.39S 055-20.83E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVAL OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>141111Z OCT 26
-HYDROPAC 2983/26.
-EASTERN INDIAN OCEAN.
-SRI LANKA.
-1. NAVAL OPERATIONS:
-   A. 190330Z TO 191230Z OCT IN AREA BOUND BY
-      04-32.42N 084-47.59E, 04-32.42N 085-22.36E,
-      05-03.51N 085-22.36E, 05-03.51N 084-47.59E.
-   B. 200330Z TO 201230Z OCT IN AREA BOUND BY
-      04-29.39N 082-04.14E, 04-29.39N 082-39.27E,
-      05-03.07N 082-39.27E, 05-03.07N 082-04.14E.
-2. CANCEL THIS MSG 201330Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1552,24 +1521,6 @@ INDIA.
 1. DERELICT M/V AL JAFZIA AGROUND IN
    19-11.50N 072-46.40E.
 2. CANCEL HYDROPAC 1624/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>FISHING GEAR</category>
-        <status>INFORCE</status>
-        <msgText>191432Z JUL 26
-HYDROPAC 2075/26.
-STRAIT OF HORMUZ.
-IRAN.
-FISH FARMS ESTABLISHED IN AREAS BOUND BY:
-A. 26-43.84N 056-56.88E, 26-43.80N 056-56.95E,
-   26-43.74N 056-56.89E, 26-43.78N 056-56.83E.
-B. 26-45.29N 056-55.84E, 26-45.29N 056-55.86E,
-   26-45.27N 056-55.87E, 26-45.26N 056-55.86E.
-C. 26-41.20N 056-59.03E, 26-41.23N 056-59.10E,
-   26-41.17N 056-59.14E, 26-41.15N 056-59.07E.
-D. 26-40.75N 056-58.71E, 26-40.77N 056-58.79E,
-   26-40.70N 056-58.82E, 26-40.68N 056-58.74E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

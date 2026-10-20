@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>201611Z OCT 26
+NAVAREA IV 1010/26
+NORTH ATLANTIC.
+FLORIDA.
+CANCEL NAVAREA IV 992/26 AND THIS MSG.
+OPERATIONS COMPLETE.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICES</category>
+        <status>INFORCE</status>
+        <msgText>201256Z OCT 26
+NAVAREA IV 1009/26
+WESTERN NORTH ATLANTIC.
+MASSACHUSETTS.
+1. USCG REMOTE COMMUNICATION FACILITY
+   BOSTON 41-42.80N 070-30.30W HF SITOR
+   TRANSMIT CAPABILITIES OFF AIR.
+2. CANCEL NAVAREA IV 995/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>200702Z OCT 26
@@ -13,7 +36,8 @@ TRINIDAD AND TOBAGO.
    10-05.80N 060-08.20W, 10-21.91N 060-36.22W,
    10-07.32N 060-18.67W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 142200Z NOV 26.</msgText>
+2. CANCEL THIS MSG 142200Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -44,7 +68,8 @@ NAVAREA IV 1007/26.
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 210001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 210001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -257,18 +282,6 @@ SURINAME.
    F. 07-30.19N 055-28.57W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 260001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>141721Z OCT 26
-NAVAREA IV 995/26.
-WESTERN NORTH ATLANTIC.
-MASSACHUSETTS.
-USCG REMOTE COMMUNICATION FACILITY
-BOSTON 41-42.80N 070-30.30W HF SITOR
-TRANSMIT CAPABILITIES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
