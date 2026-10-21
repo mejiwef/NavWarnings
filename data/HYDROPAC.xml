@@ -1,6 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211042Z OCT 26
+HYDROPAC 3060/26
+ARABIAN SEA.
+NORTHWESTERN INDIAN OCEAN.
+INDIA.
+1. SURVEY OPERATIONS 22 OCT THRU 11 NOV
+   BY M/V EAGLE EXPLORER
+   IN AREA BOUND BY
+   11-33.00N 074-36.00E, 11-44.00N 075-05.00E,
+   10-28.00N 075-52.00E, 10-14.00N 075-50.00E,
+   10-09.00N 075-32.00E, 10-14.00N 075-16.00E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 120001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>SURVEY OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211025Z OCT 26
+HYDROPAC 3059/26
+BAY OF BENGAL.
+INDIA.
+1. SURVEY OPERATIONS 22 OCT THRU 30 NOV
+   BY M/V LAY VESSEL 108 IN AREA BOUND BY
+   16-31.55N 082-18.71E, 16-31.52N 082-23.20E,
+   16-17.93N 082-23.10E, 16-17.92N 082-26.12E,
+   16-15.24N 082-26.10E, 16-15.29N 082-18.60E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL THIS MSG 010001Z DEC 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MISSILE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210941Z OCT 26
+HYDROPAC 3058/26.
+SEA OF OKHOTSK.
+RUSSIA.
+1. MISSILE OPERATIONS 252100Z TO 312100Z OCT
+   IN AREAS BOUND BY:
+   A. 58-44.00N 142-09.00E, 59-18.00N 143-38.00E,
+      58-03.00N 145-25.00E, 57-31.00N 144-06.00E.
+   B. 51-55.00N 152-00.00E, 51-55.00N 152-20.00E,
+      51-40.00N 152-40.00E, 51-30.00N 152-40.00E,
+      51-30.00N 152-00.00E.
+   C. 52-20.00N 152-13.00E, 52-30.00N 152-42.00E,
+      51-58.00N 153-13.00E, 51-47.00N 152-43.00E.
+   D. 52-19.00N 150-58.00E, 52-38.00N 151-54.00E,
+      51-50.00N 152-39.00E, 51-31.00N 151-45.00E.
+2. CANCEL THIS MSG 312200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>210815Z OCT 26
+HYDROPAC 3057/26.
+STRAIT OF HORMUZ.
+OMAN.
+1. M/V AL DASMA SUFFERED A SECURITY INCIDENT,
+   IS ON FIRE AND ADRIFT IN 26-09.02N 055-56.10E.
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 240809Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210718Z OCT 26
+HYDROPAC 3056/26.
+NORTH PACIFIC.
+PHILIPPINE SEA.
+GUAM.
+1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
+   DAILY 26 THRU 29 OCT IN AREAS WITHIN 
+   THREE MILES OF:
+   A. 13-27.00N 145-08.00E.
+   B. 13-42.00N 144-36.00E.
+2. CANCEL THIS MSG 291400Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>210525Z OCT 26
+HYDROPAC 3054/26.
+EASTERN INDIAN OCEAN.
+INDIA.
+VESSEL MSV JESUS SANK IN 11-07.30N 075-30.60E.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210114Z OCT 26
@@ -334,19 +423,6 @@ U.A.E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>180317Z OCT 26
-HYDROPAC 3023/26
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   210200Z TO 210800Z OCT IN AREA BOUND BY
-   08-15.10N 162-28.82E, 05-58.72N 165-17.00E,
-   05-33.74N 164-56.38E, 07-50.00N 162-08.24E.
-2. CANCEL THIS MSG 210900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>171307Z OCT 26
@@ -476,20 +552,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161128Z OCT 26
-HYDROPAC 3008/26.
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 0330Z TO 0830Z
-   19 AND 21 OCT IN AREA BOUND BY
-   21-32.00N 068-56.00E, 21-32.00N 069-24.00E,
-   21-17.00N 069-24.00E, 21-17.00N 069-06.00E. 
-2. CANCEL THIS MSG 210930Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>160939Z OCT 26
@@ -553,23 +615,6 @@ SOUTH PACIFIC.
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
 2. CANCEL THIS MSG 270412Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>160242Z OCT 26
-HYDROPAC 3003/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-NORTHERN MARIANA ISLANDS.
-1. HAZARDOUS OPERATIONS 0200Z TO 0800Z 
-   DAILY 20 AND 21 OCT IN AREA BOUND BY
-   17-00.00N 145-05.00E, 17-00.00N 147-00.00E,
-   16-09.47N 148-09.77E, 15-25.00N 148-04.00E,
-   15-25.00N 146-25.00E, 15-40.37N 146-12.05E,
-   15-43.62N 145-27.77E.
-2. CANCEL THIS MSG 210900Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1259,22 +1304,6 @@ SOUTH PACIFIC.
 CHILE.
 RACON AT ISLA FALGATE LIGHT 52-54.90S 073-49.80W
 INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>151415Z SEP 26
-HYDROPAC 2670/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-CABLE OPERATIONS
-IN PROGRESS UNTIL FURTHER NOTICE
-BY M/V NEXANS AURORA IN VICINTY OF
-TRACKLINE JOINING 
-19-52.44S 114-36.29E,
-20-41.30S 115-24.58E.
-ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
