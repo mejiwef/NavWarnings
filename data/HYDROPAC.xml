@@ -25,7 +25,8 @@ AT 210630Z OCT. VESSELS IN VICINITY
 REQUESTED TO KEEP A SHARP LOOKOUT, 
 ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -446,18 +447,6 @@ SOUTH PACIFIC.
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
 2. CANCEL THIS MSG 301127Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CONTAINER</category>
-        <status>INFORCE</status>
-        <msgText>182010Z OCT 26
-HYDROPAC 3025/26.
-PERSIAN GULF.
-U.A.E.
-1. CONTAINERS PARTIALLY SUBMERGED AND
-   ADRIFT IN VICINITY 25-24.26N 055-03.00E.
-2. CANCEL THIS MSG 212006Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

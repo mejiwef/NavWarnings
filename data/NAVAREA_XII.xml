@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211853Z OCT 26
+NAVAREA XII 743/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 261500Z TO 262100Z OCT,
+   ALTERNATE 271500Z TO 272100Z OCT IN AREA
+   WITHIN 25 MILES OF 33-22.00N 120-08.00W.
+2. CANCEL NAVAREA XII 742/26.
+3. CANCEL THIS MSG 272200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>201827Z OCT 26
@@ -99,32 +112,6 @@ HAWAII.
 1. HAZARDOUS OPERATIONS 211800Z TO 240200Z OCT
    IN AREA WITHIN ONE MILE OF 21-17.98N 158-00.12W.
 2. CANCEL THIS MSG 240300Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152101Z OCT 26
-NAVAREA XII 730/26
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 190900Z TO 191900Z OCT,
-   ALTERNATE 0900Z TO 1900Z DAILY 20 AND 21 OCT
-   IN AREA BOUND BY
-   29-23.00N 128-11.00W, 27-40.00N 126-25.00W,
-   27-40.00N 129-14.00W, 28-50.00N 130-35.00W,
-2. CANCEL THIS MSG 212000Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152050Z OCT 26
-NAVAREA XII 729/26
-NORTH PACIFIC.
-1. HAZARDOUS OPERATIONS 190900Z TO 191900Z OCT,
-   ALTERNATE 0900Z TO 1900Z DAILY 20 AND 21 OCT
-   IN AREA WITHIN 53 MILES OF 29-00.00N 125-42.00W.
-2. CANCEL THIS MSG 212000Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

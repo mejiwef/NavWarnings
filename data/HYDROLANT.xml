@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>211638Z OCT 26
-HYDROLANT 2091/26
-BALTIC SEA.
-SWEDEN.
-CANCEL HYDROLANT 2085/26 AND THIS MSG.
-STATION RESTORED. </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>211413Z OCT 26
@@ -40,7 +30,8 @@ SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
    S. 61-36.00S 054-06.00W.
    T. 56-43.00S 043-37.00W.
    U. 55-12.00S 044-00.00W.
-2. CANCEL THIS MSG 221415Z OCT 26.</msgText>
+2. CANCEL THIS MSG 221415Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -83,17 +74,6 @@ SOUTH ATLANTIC.
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROLANT 2083/26.
 3. CANCEL THIS MSG 240907Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>210729Z OCT 26
-HYDROLANT 2085/26.
-BALTIC SEA.
-SWEDEN.
-NAVTEX STATION GISLOVSHAMMAR (J)
-55-29.37N 014-18.87E OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
