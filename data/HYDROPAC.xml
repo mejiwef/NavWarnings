@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>210114Z OCT 26
+HYDROPAC 3053/26.
+CORAL SEA.
+SOLOMON ISLANDS.
+1. CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
+   NOTICE BY M/V LAYLA ALONG TRACKLINE JOINING
+   13-06.14S 161-11.58E, 12-23.69S 162-08.91E,
+   11-43.41S 163-07.90E, 10-50.91S 163-20.29E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2798/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>202347Z OCT 26
+HYDROPAC 3052/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS
+UNTIL FURTHER NOTICE BY M/V OUTER LIMIT
+IN AREA BOUND BY
+21-26.28S 114-46.07E, 21-26.28S 114-49.20E,
+21-40.36S 114-46.07E, 21-40.36S 114-49.20E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>201827Z OCT 26
@@ -1121,20 +1150,6 @@ INDIA.
    13-12.00N 081-26.00E, 13-50.00N 080-48.00E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL THIS MSG 100001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>262244Z SEP 26
-HYDROPAC 2798/26.
-CORAL SEA.
-CABLE OPERATIONS IN PROGRESS UNTIL FURTHER
-NOTICE BY M/V LAYLA ALONG TRACKLINE JOINING
-14-45.98S 159-08.93E, 15-26.23S 158-28.20E,
-17-11.66S 157-52.33E, 20-05.93S 156-46.34E,
-20-17.59S 156-01.37E, 20-40.48S 155-22.64E.
-TWO MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
