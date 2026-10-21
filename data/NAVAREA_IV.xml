@@ -8,16 +8,8 @@ NAVAREA IV 1015/26.
 CARIBBEAN SEA.
 COLOMBIA.
 1. CAYO RONCADOR LIGHT 13-34.41N 080-05.51W UNLIT.
-2. CANCEL NAVAREA IV 437/24.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>CANCEL MSG</category>
-        <status>INFORCE</status>
-        <msgText>202006Z OCT 26
-NAVAREA IV 1014/26.
-CARIBBEAN SEA.
-COLOMBIA.
-CANCEL NAVAREA IV 155/25 AND THIS MSG.</msgText>
+2. CANCEL NAVAREA IV 437/24.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -48,7 +40,8 @@ NAVAREA IV 1013/26.
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 220001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 220001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ADMIN</category>
@@ -62,7 +55,8 @@ ANGUILLA.
    18-13.20N 063-04.70W, 18-13.60N 063-04.70W,
    18-13.60N 063-04.15W, 18-13.20N 063-04.50W.
    WIDE BERTH REQUESTED.
-2. CANCEL NAVAREA IV 222/23.</msgText>
+2. CANCEL NAVAREA IV 222/23.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -80,7 +74,8 @@ NORTH ATLANTIC.
    E. NEW ORLEANS 29-53.00N 089-57.00W.
    F. SAN JUAN 18-27.00N 066-06.00W.
 2. CANCEL NAVAREA IV 190/25.
-3. CANCEL THIS MSG 221700Z OCT 26.</msgText>
+3. CANCEL THIS MSG 221700Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICES</category>

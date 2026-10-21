@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>211125Z OCT 26
+HYDROARC 308/26
+LAPTEV SEA.
+1. ICEBERG REPORTED AT 211004Z OCT
+   IN 77-33.50N 122-40.80E.
+2. CANCEL THIS MSG 241125Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>201952Z OCT 26
@@ -15,7 +26,8 @@ RUSSIA.
       68-36.41N 048-56.04E, 68-53.30N 050-29.28E.
    B. 67-29.00N 045-02.00E, 67-33.00N 045-19.00E,
       67-26.00N 045-30.00E, 67-22.00N 045-13.00E.
-2. CANCEL THIS MSG 312200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 312200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -33,7 +45,8 @@ RUSSIA.
    69-32.50N 033-14.00E, 69-38.80N 033-06.00E,
    69-44.50N 033-05.00E, 69-53.00N 033-21.00E,
    70-23.50N 032-33.00E.
-2. CANCEL THIS MSG 281600Z OCT 26.</msgText>
+2. CANCEL THIS MSG 281600Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

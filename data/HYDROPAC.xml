@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>211500Z OCT 26
+HYDROPAC 3063/26
+STRAIT OF HORMUZ.
+OMAN.
+1. M/V AL DASMA ANCHORED IN 
+   26-14.00N 056-04.60E.
+2. CANCEL HYDROPAC 3057/26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>211612Z OCT 26
+HYDROPAC 3062/26
+SOUTH CHINA SEA.
+VIETNAM.
+F/V BTH 80712 TS CAPSIZED AND ADRIFT 
+IN 10-12.80N 108-21.78E. FOUR PERSONS MISSING
+AT 210630Z OCT. VESSELS IN VICINITY 
+REQUESTED TO KEEP A SHARP LOOKOUT, 
+ASSIST IF POSSIBLE. 
+REPORTS TO MRCC VIETNAM,
+EMAIL: HPLES-GMDSS@HPLES.COM.VN.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>211115Z OCT 26
+HYDROPAC 3061/26
+BAY OF BENGAL.
+BANGLADESH.
+1. HAZARDOUS OPERATIONS 1230Z TO 1600Z DAILY,
+   24 OCT THRU 02 NOV IN AREA BOUND BY
+   22-23.30N 091-45.20E, 22-26.00N 091-39.00E,
+   22-23.00N 091-38.00E, 22-20.70N 091-37.80E,
+   22-20.45N 091-45.43E.
+2. CANCEL THIS MSG 021700Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211042Z OCT 26
@@ -9,13 +51,13 @@ ARABIAN SEA.
 NORTHWESTERN INDIAN OCEAN.
 INDIA.
 1. SURVEY OPERATIONS 22 OCT THRU 11 NOV
-   BY M/V EAGLE EXPLORER
-   IN AREA BOUND BY
+   BY M/V EAGLE EXPLORER IN AREA BOUND BY
    11-33.00N 074-36.00E, 11-44.00N 075-05.00E,
    10-28.00N 075-52.00E, 10-14.00N 075-50.00E,
    10-09.00N 075-32.00E, 10-14.00N 075-16.00E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 120001Z NOV 26.</msgText>
+2. CANCEL THIS MSG 120001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -30,7 +72,8 @@ INDIA.
    16-17.93N 082-23.10E, 16-17.92N 082-26.12E,
    16-15.24N 082-26.10E, 16-15.29N 082-18.60E.
    FIVE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 010001Z DEC 26.</msgText>
+2. CANCEL THIS MSG 010001Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
@@ -50,7 +93,8 @@ RUSSIA.
       51-58.00N 153-13.00E, 51-47.00N 152-43.00E.
    D. 52-19.00N 150-58.00E, 52-38.00N 151-54.00E,
       51-50.00N 152-39.00E, 51-31.00N 151-45.00E.
-2. CANCEL THIS MSG 312200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 312200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -63,7 +107,8 @@ OMAN.
    IS ON FIRE AND ADRIFT IN 26-09.02N 055-56.10E.
    VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
    POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 240809Z OCT 26.</msgText>
+2. CANCEL THIS MSG 240809Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -78,7 +123,8 @@ GUAM.
    THREE MILES OF:
    A. 13-27.00N 145-08.00E.
    B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 291400Z OCT 26.</msgText>
+2. CANCEL THIS MSG 291400Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
@@ -87,7 +133,8 @@ GUAM.
 HYDROPAC 3054/26.
 EASTERN INDIAN OCEAN.
 INDIA.
-VESSEL MSV JESUS SANK IN 11-07.30N 075-30.60E.</msgText>
+VESSEL MSV JESUS SANK IN 11-07.30N 075-30.60E.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -116,7 +163,8 @@ UNTIL FURTHER NOTICE BY M/V OUTER LIMIT
 IN AREA BOUND BY
 21-26.28S 114-46.07E, 21-26.28S 114-49.20E,
 21-40.36S 114-46.07E, 21-40.36S 114-49.20E.
-ONE MILE BERTH REQUESTED.</msgText>
+ONE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>RADIO SERVICE</category>
@@ -128,7 +176,8 @@ GUAM.
 1. USCG REMOTE COMMUNICATION FACILITY
    GUAM 13-29.00N 144-50.00E MF, HF AND DSC
    SERVICES UNRELIABLE 221330Z TO 221600Z OCT.
-2. CANCEL THIS MSG 221700Z OCT 26.</msgText>
+2. CANCEL THIS MSG 221700Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -140,7 +189,8 @@ IRAN.
 1. M/V  PETRO DOLPHIN ADRIFT 
    IN VICINITY OF 24-18.36N 057-55.82E.
 2. CANCEL HYDROPAC 3002/26.
-3. CANCEL THIS MSG 231715Z OCT 26.</msgText>
+3. CANCEL THIS MSG 231715Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -153,7 +203,8 @@ PAKISTAN.
    23 AND 24 OCT, IN AREA BOUND BY
    25-12.00N 064-27.83E, 25-12.00N 064-49.00E,
    25-02.83N 064-49.00E, 25-02.83N 064-27.83E.
-2. CANCEL THIS MSG 241200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 241200Z OCT 26.7
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -314,7 +365,8 @@ INDIA.
    22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
    22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
    22-42.11N 068-55.34E.
-2. CANCEL THIS MSG 220830Z OCT 26.</msgText>
+2. CANCEL THIS MSG 220830Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>

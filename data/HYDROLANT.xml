@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CANCEL MSG</category>
+        <status>INFORCE</status>
+        <msgText>211638Z OCT 26
+HYDROLANT 2091/26
+BALTIC SEA.
+SWEDEN.
+CANCEL HYDROLANT 2085/26 AND THIS MSG.
+STATION RESTORED. </msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>211413Z OCT 26
+HYDROLANT 2089/26
+SOUTH ATLANTIC.
+SCOTIA SEA.
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 54-52.00S 038-19.00W.
+   B. D33B, 56-46.00S 043-25.00W.
+   C. D35, 60-10.00S 044-09.00W.
+   D. A83, 59-57.00S 049-25.00W.
+   E. A85, 58-53.00S 047-20.00W.
+   F. 58-29.00S 047-58.00W.
+   G. D32, 56-38.00S 039-21.00W.
+   H. D33C, 61-53.00S 054-33.00W.
+   I. 52-09.00S 041-28.00W.
+   J. 57-54.00S 046-26.00W.
+   K. 54-25.00S 043-28.00W.
+   L. 56-21.00S 043-26.00W.
+   M. 56-33.00S 047-35.00W.
+   N. 59-37.00S 049-09.00W.
+   O. 59-10.00S 044-05.00W.
+   P. 58-02.00S 046-18.00W.
+   Q. 60-10.00S 043-35.00W.
+   R. 59-50.00S 042-52.00W.
+   S. 61-36.00S 054-06.00W.
+   T. 56-43.00S 043-37.00W.
+   U. 55-12.00S 044-00.00W.
+2. CANCEL THIS MSG 221415Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>210922Z OCT 26
@@ -11,7 +53,8 @@ BRAZIL.
    DAILY 22 OCT THRU 05 NOV BY M/V COMANDO B 
    AND M/V ANNABEL IN 20-23.42S 040-09.50W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 052200Z NOV 26.</msgText>
+2. CANCEL THIS MSG 052200Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -25,7 +68,8 @@ BRAZIL.
    AND M/V SAGA PROVIDANA IN 
    20-23.73S 040-09.83W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 052200Z NOV 26.</msgText>
+2. CANCEL THIS MSG 052200Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -38,7 +82,8 @@ SOUTH ATLANTIC.
    ON 20 OCT. 
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROLANT 2083/26.
-3. CANCEL THIS MSG 240907Z OCT 26.</msgText>
+3. CANCEL THIS MSG 240907Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -48,7 +93,8 @@ HYDROLANT 2085/26.
 BALTIC SEA.
 SWEDEN.
 NAVTEX STATION GISLOVSHAMMAR (J)
-55-29.37N 014-18.87E OFF AIR.</msgText>
+55-29.37N 014-18.87E OFF AIR.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -63,7 +109,8 @@ ANTARCTICA.
    B. A85, 58-24.60S 050-13.80W.
    C. D33A, 64-18.00S 054-53.40W.
    D. D33C, 61-36.00S 054-13.20W.
-2. CANCEL THIS MSG 220519Z OCT 26.</msgText>
+2. CANCEL THIS MSG 220519Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -99,39 +146,8 @@ B. 34-31.17N 026-20.11E, 34-32.02N 026-23.52E,
    34-27.22N 031-47.09E, 34-17.49N 031-49.33E,
    34-08.21N 031-49.61E, 33-53.43N 031-48.81E,
    33-51.11N 031-48.22E.
-FIVE MILE BERTH REQUESTED.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>201453Z OCT 26
-HYDROLANT 2080/26
-SOUTH ATLANTIC.
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 54-58.00S 031-21.00W.
-   B. D33B, 56-53.00S 043-45.00W.
-   C. D35, 60-10.00S 044-04.00W.
-   D. A83, 59-56.00S 049-26.00W.
-   E. A85, 58-53.00S 049-19.00W.
-   F. 58-29.00S 047-58.00W.
-   G. D32, 56-43.00S 039-52.00W.
-   H. D33C, 61-50.00S 054-36.00W.
-   I. 52-22.00S 041-33.00W.
-   J. 57-50.00S 046-21.00W.
-   K. 54-40.00S 043-50.00W.
-   L. 56-32.00S 043-38.00W.
-   M. 56-33.00S 047-35.00W.
-   N. 59-35.00S 049-08.00W.
-   O. 59-10.00S 044-05.00W.
-   P. 57-58.00S 046-15.00W.
-   Q. 60-06.00S 043-40.00W.
-   R. 59-49.00S 042-55.00W.
-   S. 61-39.00S 054-05.00W.
-   T. 56-56.00S 044-45.00W.
-   U. 55-17.00S 043-50.00W.
-2. CANCEL THIS MSG 211500Z OCT 26.</msgText>
+FIVE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CONTAINER</category>
@@ -144,7 +160,8 @@ SOUTH ATLANTIC.
    REPORTS TO SALVAMAR SUESTE,
    PHONE: 5521 2104 6119,
    EMAIL: MRCCRIO@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 231424Z OCT 26.</msgText>
+2. CANCEL THIS MSG 231424Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -272,17 +289,6 @@ BRAZIL.
    M/V RGR OKINAWA IN 20-19.03S 040-07.78W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 021900Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>180000Z OCT 26
-HYDROLANT 2062/26
-IRISH SEA.
-ENGLAND.
-JORDANS SPIT BUOY 53-35.80N 003-19.30W
-UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -600,24 +606,6 @@ SOUTH ATLANTIC.
 BRAZIL.
 PONTA DA TIJOCA LIGHT 00-33.44S 047-53.85W
 RELOCATED TO 00-34.71S 047-55.28W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301416Z SEP 26
-HYDROLANT 1942/26
-BLACK SEA.
-ROMANIA.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 01 NOV 
-   BY M/V KOBI RUEGG IN AREA BOUND BY
-   44-25.56N 028-47.44E, 44-28.53N 029-01.98E,
-   44-31.27N 029-26.73E, 44-33.51N 029-26.60E,
-   44-32.41N 029-38.51E, 44-28.53N 029-39.43E,
-   44-28.46N 029-26.89E, 44-29.11N 029-26.85E,
-   44-25.56N 029-02.25E, 44-23.91N 028-47.33E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 020001Z NOV 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
