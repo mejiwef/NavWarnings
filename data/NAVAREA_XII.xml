@@ -115,21 +115,6 @@ HAWAII.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>152021Z OCT 26
-NAVAREA XII 728/26.
-NORTH PACIFIC.
-COSTA RICA.
-1. UNDERWATER OPERATIONS 16 THRU 21 OCT 
-   IN AREA BOUND BY
-   10-24.02N 085-48.47W, 10-24.29N 085-48.57W,
-   10-24.30N 085-48.52W, 10-24.04N 085-48.42W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>140015Z OCT 26

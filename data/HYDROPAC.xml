@@ -3,13 +3,16 @@
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
-        <msgText>211500Z OCT 26
-HYDROPAC 3063/26
+        <msgText>220041Z OCT 26
+HYDROPAC 3064/26.
 STRAIT OF HORMUZ.
 OMAN.
-1. M/V AL DASMA ANCHORED IN 
-   26-14.00N 056-04.60E.
-2. CANCEL HYDROPAC 3057/26.
+1. M/V AL DASMA SUFFERED A SECURITY 
+   INCIDENT AND IS ANCHORED 
+   IN 26-14.00N 056-04.60E ON 20 OCT.
+   VESSELS IN VICINITY REQUESTED TO KEEP A
+   SHARP LOOKOUT, ASSIST IF POSSIBLE.
+2. CANCEL HYDROPAC 3063/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -95,20 +98,6 @@ RUSSIA.
    D. 52-19.00N 150-58.00E, 52-38.00N 151-54.00E,
       51-50.00N 152-39.00E, 51-31.00N 151-45.00E.
 2. CANCEL THIS MSG 312200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>210815Z OCT 26
-HYDROPAC 3057/26.
-STRAIT OF HORMUZ.
-OMAN.
-1. M/V AL DASMA SUFFERED A SECURITY INCIDENT,
-   IS ON FIRE AND ADRIFT IN 26-09.02N 055-56.10E.
-   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS
-   POSITION AND TO EXERCISE EXTREME CAUTION.
-2. CANCEL THIS MSG 240809Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -447,20 +436,6 @@ SOUTH PACIFIC.
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
 2. CANCEL THIS MSG 301127Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>181420Z OCT 26
-HYDROPAC 3024/26.
-GULF OF OMAN.
-U.A.E.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL
-   21 OCT BY M/V HUA RUI LONG IN
-   25-11.30N 056-24.40E.
-   ONE MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1123,22 +1098,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>011100Z OCT 26
-HYDROPAC 2847/26.
-EASTERN INDIAN OCEAN.
-INDIA.
-1. SURVEY OPERATIONS 02 THRU 21 OCT 
-   BY M/V EAGLE EXPLORER IN AREA BOUND BY
-   10-14.00N 075-16.00E, 10-09.00N 075-32.00E,
-   10-14.00N 075-50.00E, 10-28.00N 075-52.00E,
-   11-44.00N 075-05.00E, 11-33.00N 074-36.00E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>300948Z SEP 26
@@ -1374,22 +1333,6 @@ INDIA.
    19-10.61N 070-57.71E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 270001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091032Z SEP 26
-HYDROPAC 2600/26.
-BAY OF BENGAL.
-INDIA.
-1. SURVEY OPERATIONS 10 SEP THRU 21 OCT 
-   BY M/V LAY VESSEL 108 IN AREA BOUND BY
-   16-31.55N 082-18.71E, 16-31.52N 082-23.20E,
-   16-17.93N 082-23.10E, 16-17.92N 082-26.12E,
-   16-15.24N 082-26.10E, 16-15.29N 082-18.60E.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CONTAINER</category>
+        <status>INFORCE</status>
+        <msgText>220107Z OCT 26
+HYDROLANT 2092/26.
+SOUTH ATLANTIC.
+1. 20 CONTAINERS ADRIFT IN VICINITY
+   30-09.01S 026-38.02W AT 212134Z OCT.
+   REPORTS TO SALVAMAR SUESTE,
+   PHONE: 5521 2104 6119,
+   EMAIL: MRCCRIO@MARINHA.MIL.BR.
+2. CANCEL THIS MSG 250107Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>211413Z OCT 26
@@ -197,21 +210,6 @@ BRAZIL.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2041/26.
 3. CANCEL THIS MSG 310001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200117Z OCT 26
-HYDROLANT 2074/26.
-SOUTH ATLANTIC.
-1. SURVEY OPERATIONS IN PROGRESS UNTIL 21 OCT
-   BY M/V RAMFORM TITAN TOWING 2000 METER 
-   LONG CABLES IN AREA BOUND BY
-   31-47.00S 045-07.00W, 31-52.00S 045-07.00W,
-   31-52.00S 045-13.00W, 31-47.00S 045-13.00W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 220001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
