@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221619Z OCT 26
+HYDROLANT 2097/26.
+NORTH ATLANTIC.
+SPAIN.
+CABLE OPERATIONS 250700Z OCT UNTIL FURTHER 
+NOTICE BY M/V MAASVLIET IN AREA BOUND BY
+38-05.83N 009-50.14W, 38-05.83N 006-04.87W,
+33-47.24N 006-04.87W, 33-47.24N 009-50.14W.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>221436Z OCT 26
+HYDROLANT 2096/26.
+ANTARCTICA.
+SOUTH ATLANTIC.
+1. ICEBERGS  REPORTED IN: 
+   A. A81, 54-54.00S 038-11.00W.
+   B. D33B, 56-35.00S 043-03.00W.
+   C. D35, 60-10.00S 044-19.00W.
+   D. A83, 59-54.00S 049-16.00W.
+   E. A85, 58-34.00S 047-19.00W.
+   F. 58-27.00S 047-42.00W.
+   G. D32, 56-35.00S 039-26.00W.
+   H. D33C, 61-54.00S 054-31.00W.
+   I. 51-57.00S 041-18.00W.
+   J. 57-55.00S 046-33.00W.
+   K. 54-18.00S 043-07.00W.
+   L. 56-16.00S 043-18.00W.
+   M. 56-14.00S 047-26.00W.
+   N. 59-35.00S 049-16.00W.
+   O. 58-48.00S 043-37.00W.
+   P. 58-03.00S 046-15.00W.
+   Q. 60-16.00S 043-29.00W.
+   R. 59-20.00S 042-38.00W.
+   S. 61-25.00S 054-07.00W.
+   T. 56-35.00S 043-21.00W.
+   U. 54-56.00S 043-59.00W.
+2. CANCEL THIS MSG 231437Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>220826Z OCT 26
@@ -12,7 +56,8 @@ BRAZIL.
    AND M/V COMANDO B IN 20-23.55S 040-09.12W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1999/26.
-3. CANCEL THIS MSG 062200Z NOV 26.</msgText>
+3. CANCEL THIS MSG 062200Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -26,7 +71,8 @@ BRAZIL.
    AND M/V ANDROUSA IN 20-23.80S 040-09.37W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1998/26.
-3. CANCEL THIS MSG 062200Z NOV 26.</msgText>
+3. CANCEL THIS MSG 062200Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -41,7 +87,8 @@ ANTARCTICA.
    B. A85, 58-24.60S 050-13.80W.
    C. D33A, 64-18.00S 054-53.40W.
    D. D33C, 61-36.00S 054-13.20W.
-2. CANCEL THIS MSG 230349Z OCT 26.</msgText>
+2. CANCEL THIS MSG 230349Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CONTAINER</category>
@@ -54,39 +101,7 @@ SOUTH ATLANTIC.
    REPORTS TO SALVAMAR SUESTE,
    PHONE: 5521 2104 6119,
    EMAIL: MRCCRIO@MARINHA.MIL.BR.
-2. CANCEL THIS MSG 250107Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>211413Z OCT 26
-HYDROLANT 2089/26
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 54-52.00S 038-19.00W.
-   B. D33B, 56-46.00S 043-25.00W.
-   C. D35, 60-10.00S 044-09.00W.
-   D. A83, 59-57.00S 049-25.00W.
-   E. A85, 58-53.00S 047-20.00W.
-   F. 58-29.00S 047-58.00W.
-   G. D32, 56-38.00S 039-21.00W.
-   H. D33C, 61-53.00S 054-33.00W.
-   I. 52-09.00S 041-28.00W.
-   J. 57-54.00S 046-26.00W.
-   K. 54-25.00S 043-28.00W.
-   L. 56-21.00S 043-26.00W.
-   M. 56-33.00S 047-35.00W.
-   N. 59-37.00S 049-09.00W.
-   O. 59-10.00S 044-05.00W.
-   P. 58-02.00S 046-18.00W.
-   Q. 60-10.00S 043-35.00W.
-   R. 59-50.00S 042-52.00W.
-   S. 61-36.00S 054-06.00W.
-   T. 56-43.00S 043-37.00W.
-   U. 55-12.00S 044-00.00W.
-2. CANCEL THIS MSG 221415Z OCT 26.
+2. CANCEL THIS MSG 250107Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

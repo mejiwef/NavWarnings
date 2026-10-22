@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>221611Z OCT 26
+NAVAREA IV 1024/26.
+GULF OF AMERICA.
+CUBA.
+CABO SAN ANTONIO LIGHT 21-52.0N 084-57.2W.
+UNRELIABLE.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>221554Z OCT 26
+NAVAREA IV 1023/26.
+NORTH ATLANTIC.
+CUBA.
+PUNTA MATERNILLOS LIGHT 21-39.7N 077-08.4W.
+UNRELIABLE.
+
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>RADIO SERVICE</category>
         <status>INFORCE</status>
         <msgText>212334Z OCT 26
@@ -12,7 +36,8 @@ LOUISIANA.
    HF AND MF TRANSMIT CAPABILITIES
    OFF AIR 231330Z TO 231630Z OCT.
 2. CANCEL NAVAREA IV 662/26.
-3. CANCEL THIS MSG 231730Z OCT 26.</msgText>
+3. CANCEL THIS MSG 231730Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAIS ICE LIMIT</category>
@@ -43,7 +68,8 @@ NAVAREA IV 1021/26.
 7. FOR MORE REPORTING INFORMATION OR TO
    DOWNLOAD SHAPEFILES AND WEEKLY PREDICTIONS,
    GO TO WWW.NAVCEN.USCG.GOV/INTERNATIONAL-ICE-PATROL.
-8. CANCEL THIS MSG 230001Z OCT 26.</msgText>
+8. CANCEL THIS MSG 230001Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -53,7 +79,8 @@ NAVAREA IV 1020/26
 CARIBBEAN SEA.
 JAMAICA.
 1. PORTLAND RIDGE LIGHT 17-44.50N 077-09.50W UNLIT.
-2. CANCEL NAVAREA IV 441/22.</msgText>
+2. CANCEL NAVAREA IV 441/22.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVAREA IV RIG LIST</category>
@@ -169,7 +196,8 @@ NAVAREA IV 1019/26
 2. TO REPORT A MOBILE OFFSHORE DRILLING UNIT AS
    PER IMO RESOLUTION A.1023(26), PARAGRAPH 11.5.1,
    CONTACT NAVSAFETY@NGA.MIL SUBJ: MODU REPORT.
-3. CANCEL NAVAREA IV 1000/26.</msgText>
+3. CANCEL NAVAREA IV 1000/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -187,7 +215,8 @@ HONDURAS.
    F. CABO FALSO 15-15.20N 083-23.70W.
    G. PUNTA CAXINAS 16-01.50N 086-00.60W.
    H. PUNTA OESTE 16-16.10N 086-36.10W.
-2. CANCEL NAVAREA IV 693/25.</msgText>
+2. CANCEL NAVAREA IV 693/25.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>LIGHT</category>
@@ -1126,24 +1155,6 @@ MISSING.
     <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
-        <msgText>032240Z JUL 25
-NAVAREA IV 693/25(28).
-GULF OF HONDURAS.
-HONDURAS.
-LIGHTS UNLIT:
-A. PUNTA IZOPO 15-50.90N 087-22.50W.
-B. PUMPKIN HILL 16-07.30N 086-52.90W.
-C. COCHINO GRANDE 15-58.60N 086-28.60W.
-D. CABO CAMARON 15-59.20N 085-01.70W.
-E. PUNTA PATUCA 15-48.90N 084-18.20W.
-F. CABO FALSO 15-15.20N 083-23.70W.
-G. PUNTA CAXINAS 16-01.50N 086-00.60W.
-H. PUNTA OESTE 16-16.10N 086-36.10W.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
         <msgText>252311Z JUN 25
 NAVAREA IV 671/25(24).
 CARIBBEAN SEA.
@@ -1401,17 +1412,6 @@ NAVAREA IV 748/22(24).
 CARIBBEAN SEA.
 NETHERLANDS ANTILLES.
 KLEIN CURACAO LIGHT 11-59.4N 068-38.6W UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>AIDS TO NAVIGATION</category>
-        <status>INFORCE</status>
-        <msgText>070354Z MAY 22
-NAVAREA IV 441/22(26).
-CARIBBEAN SEA.
-JAMAICA.
-CHART 26220.
-PORTLAND RIDGE LIGHT 17-44.50N 077-09.50W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

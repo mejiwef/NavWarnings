@@ -64,23 +64,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>191500Z OCT 26
-HYDROARC 304/26
-LAPTEV SEA.
-RUSSIA.
-1. ICEBERGS REPORTED AT 191152Z OCT
-   A. IN: 
-      A. 77-24.20N 116-29.90E.
-      B. 77-28.90N 112-07.40E.
-   B. IN AREA BOUND BY
-      77-30.00N 121-00.00E, 77-30.00N 123-00.00E,
-      77-00.00N 120-00.00E.
-2. CANCEL THIS MSG 221453Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>191235Z OCT 26

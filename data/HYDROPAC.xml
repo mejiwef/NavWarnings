@@ -12,7 +12,8 @@ INDIA.
    21-04.55N 092-07.55E, 21-01.55N 092-07.30E,
    21-01.15N 091-57.00E, 21-18.15N 091-57.00E,
    21-05.55N 092-07.24E.
-2. CANCEL THIS MSG 011700Z NOV 26.</msgText>
+2. CANCEL THIS MSG 011700Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -28,7 +29,8 @@ INDIA.
       17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
    B. 17-42.00N 083-53.00E, 17-31.00N 084-10.00E,
       17-14.00N 083-58.00E, 17-25.00N 083-41.00E.
-2. CANCEL THIS MSG 011130Z NOV 26.</msgText>
+2. CANCEL THIS MSG 011130Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -40,7 +42,8 @@ AUSTRALIA.
 12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
 TEMPORARILY ESTABLISHED IN AREA WITHIN
 ONE MILE OF 38-48.03S 142-52.08E.
-THREE MILE BERTH REQUESTED.</msgText>
+THREE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -165,7 +168,7 @@ GUAM.
 HYDROPAC 3054/26.
 EASTERN INDIAN OCEAN.
 INDIA.
-VESSEL MSV JESUS SANK IN 11-07.30N 075-30.60E.
+VESSEL MSV JESUS HEART SANK IN 11-07.30N 075-30.60E.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -218,7 +221,7 @@ GUAM.
 HYDROPAC 3050/26
 GULF OF OMAN.
 IRAN.
-1. M/V  PETRO DOLPHIN ADRIFT 
+1. M/V PETRO DOLPHIN ADRIFT 
    IN VICINITY OF 24-18.36N 057-55.82E.
 2. CANCEL HYDROPAC 3002/26.
 3. CANCEL THIS MSG 231715Z OCT 26.
@@ -537,21 +540,6 @@ OMAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161329Z OCT 26
-HYDROPAC 3012/26.
-BAY OF BENGAL.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 1030Z TO 1230Z
-   DAILY 20 THRU 22 OCT IN AREA BOUND BY
-   14-49.00N 090-59.32E, 13-48.13N 093-10.20E,
-   13-32.02N 093-08.63E, 13-18.44N 091-04.57E.
-2. CANCEL THIS MSG 221330Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>161148Z OCT 26
@@ -741,22 +729,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP
 A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>140713Z OCT 26
-HYDROPAC 2993/26.
-NORTH PACIFIC.
-PHILIPPINE SEA.
-GUAM.
-1. HAZARDOUS OPERATIONS 0100Z TO 1300Z 
-   DAILY 20 THRU 22 OCT IN AREAS WITHIN
-   THREE MILES OF:
-   A. 13-27.00N 145-08.00E.
-   B. 13-42.00N 144-36.00E.
-2. CANCEL THIS MSG 221400Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
