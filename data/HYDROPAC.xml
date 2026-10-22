@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221041Z OCT 26
+HYDROPAC 3070/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0100Z TO 1600Z DAILY
+   25 OCT THRU 01 NOV IN AREA BOUND BY
+   21-04.55N 092-07.55E, 21-01.55N 092-07.30E,
+   21-01.15N 091-57.00E, 21-18.15N 091-57.00E,
+   21-05.55N 092-07.24E.
+2. CANCEL THIS MSG 011700Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>221027Z OCT 26
+HYDROPAC 3069/26.
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY 
+   24 AND 25 OCT AND 29 OCT THRU 01 NOV
+   IN AREAS BOUND BY:
+   A. 17-58.90N 084-11.70E, 17-49.50N 083-59.60E,
+      17-49.50N 084-15.70E, 17-58.90N 084-27.30E.
+   B. 17-42.00N 083-53.00E, 17-31.00N 084-10.00E,
+      17-14.00N 083-58.00E, 17-25.00N 083-41.00E.
+2. CANCEL THIS MSG 011130Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>220712Z OCT 26
+HYDROPAC 3068/26.
+GREAT AUSTRALIAN BIGHT.
+AUSTRALIA.
+12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
+TEMPORARILY ESTABLISHED IN AREA WITHIN
+ONE MILE OF 38-48.03S 142-52.08E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
         <msgText>220041Z OCT 26
@@ -271,18 +313,6 @@ NORTHERN MARIANA ISLANDS.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>191341Z OCT 26
-HYDROPAC 3040/26
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-1. PORT HEDLAND C3 LIGHT 20-02.26S 118-24.90E.
-   UNLIT.
-2. CANCEL HYDROPAC 2904/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>191326Z OCT 26
@@ -340,22 +370,6 @@ INDIA.
    11-40.80N 092-45.90E, 11-38.13N 093-00.70E,
    11-30.65N 092-56.90E, 11-26.33N 092-50.27E.
 2. CANCEL THIS MSG 231230Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191130Z OCT 26
-HYDROPAC 3034/26
-ARABIAN SEA.
-GULF OF KACHCHH.
-INDIA.
-1. HAZARDOUS OPERATIONS 220430Z TO 220730Z OCT
-   IN AREA BOUND BY
-   22-40.00N 069-09.11E, 22-35.12N 069-16.12E,
-   22-28.30N 069-17.10E, 22-28.45N 068-51.05E,
-   22-42.11N 068-55.34E.
-2. CANCEL THIS MSG 220830Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -835,24 +849,6 @@ MANCORA LIGHT 04-06.50S 081-03.43W INOPERATIVE.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>090000Z OCT 26
-HYDROPAC 2951/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   160130Z TO 160608Z, 170121Z TO 170559Z,
-   180112Z TO 180550Z, 190103Z TO 190541Z,
-   200054Z TO 200532Z, 210045Z TO 210523Z 
-   AND 220036Z TO 220514Z OCT
-   IN AREA BOUND BY
-   27-29.00S 136-18.00W, 26-57.00S 133-13.00W,
-   43-20.00S 129-08.00W, 59-25.00S 121-59.00W,
-   59-57.00S 127-24.00W, 43-49.00S 133-05.00W.
-2. CANCEL THIS MSG 220614Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>RACON</category>
         <status>INFORCE</status>
         <msgText>091337Z OCT 26
@@ -979,19 +975,6 @@ CHILE.
    B. 20-11.00S 073-00.00W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 280001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>050054Z OCT 26
-HYDROPAC 2880/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-12 SIX METER BUOYS, YELLOW, FL W 3 SEC,
-TEMPORARILY ESTABLISHED IN AREA WITHIN
-ONE MILE OF 38-46.14S 142-48.47E.
-THREE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1652,17 +1635,6 @@ SEA OF OKHOTSK.
 RUSSIA.
 WAVE RIDER BUOY ESTABLISHED IN 51-22.54N 144-14.17E.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>290118Z JUN 26
-HYDROPAC 1864/26.
-GREAT AUSTRALIAN BIGHT.
-AUSTRALIA.
-SIX METER BUOY, YELLOW, ESTABLISHED
-IN 38-47.62S 142-37.77E.
-THREE MILE BERTH REQUESTED.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
