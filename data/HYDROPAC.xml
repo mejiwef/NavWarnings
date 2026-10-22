@@ -202,19 +202,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>201827Z OCT 26
-HYDROPAC 3051/26.
-NORTH PACIFIC.
-GUAM.
-1. USCG REMOTE COMMUNICATION FACILITY
-   GUAM 13-29.00N 144-50.00E MF, HF AND DSC
-   SERVICES UNRELIABLE 221330Z TO 221600Z OCT.
-2. CANCEL THIS MSG 221700Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>201721Z OCT 26

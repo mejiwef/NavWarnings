@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>221853Z OCT 26
+NAVAREA XII 746/26.
+BERING SEA.
+ALASKA.
+1. COMMDET KODIAK, AK REMOTE SITE SHEMYA 
+   52-43.00N 174-07.00E HF RECEIVE AND TRANSMIT
+   SERVICES INOPERABLE.
+2. CANCEL NAVAREA XII 344/25.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MISSILE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>221200Z OCT 26
@@ -49,23 +62,6 @@ CALIFORNIA.
    WITHIN 25 MILES OF 33-22.00N 120-08.00W.
 2. CANCEL NAVAREA XII 742/26.
 3. CANCEL THIS MSG 272200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>201827Z OCT 26
-NAVAREA XII 741/26.
-NORTH PACIFIC.
-1. MF, HF AND DSC SERVICES UNRELIABLE 
-   221330Z TO 221600Z OCT AT USCG REMOTE
-   COMMUNICATION FACILITIES:
-   A. PT REYES 37-56.00N 122-24.00W.
-   B. HONOLULU 21-22.00N 158-09.00W.
-   C. KODIAK 57-46.00N 152-34.00W.
-   D. ASTORIA 46-10.00N 123-49.00W.
-   E. CAMBRIA 35-31.1N 121-03.6W.
-2. CANCEL THIS MSG 221700Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -360,17 +356,6 @@ ALASKA.
 USCG REMOTE COMMUNICATION FACILITY SHEMYA
 52-43.00N 174-07.00E HF TRANSMIT AND RECEIVE
 SERVICES INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>100619Z JUN 25
-NAVAREA XII 344/25(16).
-BERING SEA.
-ALASKA.
-COMMDET KODIAK, AK REMOTE SITE SHEMYA 
-52-43.00N 174-07.00E HF R/T SERVICES OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
