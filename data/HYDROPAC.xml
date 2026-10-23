@@ -61,22 +61,6 @@ OMAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>211612Z OCT 26
-HYDROPAC 3062/26
-SOUTH CHINA SEA.
-VIETNAM.
-F/V BTH 80712 TS CAPSIZED AND ADRIFT 
-IN 10-12.80N 108-21.78E. FOUR PERSONS MISSING
-AT 210630Z OCT. VESSELS IN VICINITY 
-REQUESTED TO KEEP A SHARP LOOKOUT, 
-ASSIST IF POSSIBLE. 
-REPORTS TO MRCC VIETNAM,
-EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>211115Z OCT 26

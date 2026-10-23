@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>230330Z OCT 26
+HYDROLANT 2103/26.
+SOUTH ATLANTIC.
+1. DERELICT M/V ESPIRITO SANTO EXPRESS 
+   ON FIRE AND ADRIFT IN VICINITY 
+   30-10.66S 027-43.76W ON 20 OCT.
+2. CANCEL THIS MSG 260330Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>230314Z OCT 26
+HYDROLANT 2102/26.
+DOVER STRAIT.
+ENGLAND.
+ADMIRALTY PIER LIGHT 51-06.70N 001-19.70E
+UNLIT.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>222047Z OCT 26
@@ -167,20 +188,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>210903Z OCT 26
-HYDROLANT 2086/26.
-SOUTH ATLANTIC.
-1. DERELICT M/V ESPIRITO SANTO EXPRESS ON 
-   FIRE AND ADRIFT IN VICINITY 30-10.66S 027-43.76W
-   ON 20 OCT. 
-   REPORTS TO ANY COASTAL RADIO STATION.
-2. CANCEL HYDROLANT 2083/26.
-3. CANCEL THIS MSG 240907Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201655Z OCT 26
@@ -244,21 +251,6 @@ WESTERN SAHARA.
    23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
    23-55.07N 017-00.00W.
 2. CANCEL THIS MSG 240059Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200307Z OCT 26
-HYDROLANT 2076/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. HAZARDOUS OPERATIONS 220001Z TO 222359Z OCT
-   IN AREA BOUND BY
-   26-50.00N 014-00.00W, 26-50.00N 014-22.36W,
-   26-57.65N 014-20.62W, 27-04.27N 014-15.70W,
-   27-08.60N 014-08.43W, 27-10.00N 014-00.00W.
-2. CANCEL THIS MSG 230059Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -502,34 +494,6 @@ BRAZIL.
    IN 20-23.88S 040-09.17W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 241900Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070923Z OCT 26
-HYDROLANT 1997/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 2100Z 
-   DAILY 08 THRU 22 OCT BY M/V COMANDO B 
-   AND M/V APPIA IN 20-23.21S 040-09.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 222200Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>070920Z OCT 26
-HYDROLANT 1996/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 2100Z 
-   DAILY 08 THRU 22 OCT BY M/V GLBS MIGHT 
-   AND M/V COMANDO B IN 20-23.70S 040-09.02W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 222200Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
