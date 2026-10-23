@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>231939Z OCT 26
+HYDROPAC 3089/26
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 251831Z TO 311829Z OCT
+   IN AREA BOUND BY
+   19-14.60N 084-53.70E, 19-07.39N 085-35.94E,
+   18-52.00N 085-29.95E, 18-45.00N 085-24.21E,
+   18-36.50N 085-10.10E, 18-33.61N 084-53.74E.
+2. CANCEL THIS MSG 311929Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>231427Z OCT 26
@@ -431,19 +446,6 @@ IN AREA BOUND BY
 21-26.28S 114-46.07E, 21-26.28S 114-49.20E,
 21-40.36S 114-46.07E, 21-40.36S 114-49.20E.
 ONE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
-        <status>INFORCE</status>
-        <msgText>201721Z OCT 26
-HYDROPAC 3050/26
-GULF OF OMAN.
-IRAN.
-1. M/V PETRO DOLPHIN ADRIFT 
-   IN VICINITY OF 24-18.36N 057-55.82E.
-2. CANCEL HYDROPAC 3002/26.
-3. CANCEL THIS MSG 231715Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
