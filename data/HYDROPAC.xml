@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>232223Z OCT 26
+HYDROPAC 3090/26
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS 260730Z TO 261030Z OCT
+   IN AREA BOUND BY
+   16-46.21N 083-06.65E, 17-04.80N 083-59.40E,
+   15-49.20N 084-26.60E, 15-22.00N 083-08.90E,
+   15-54.31N 082-57.09E.
+2. CANCEL THIS MSG 261130Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>231939Z OCT 26
 HYDROPAC 3089/26
 BAY OF BENGAL.
@@ -643,22 +658,6 @@ OMAN.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161148Z OCT 26
-HYDROPAC 3010/26.
-PALK STRAIT.
-GULF OF MANNAR.
-SRI LANKA.
-1. SURVEY OPERATIONS 19 THRU 23 OCT
-   IN AREA BOUND BY
-   09-10.24N 079-08.30E, 09-10.24N 079-13.48E,
-   09-18.27N 079-13.48E, 09-18.27N 079-08.30E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 240001Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>160939Z OCT 26
@@ -670,25 +669,6 @@ RUSSIA.
    47-33.00N 139-11.00E, 47-21.00N 139-35.00E,
    47-03.00N 139-16.00E, 47-13.00N 138-54.00E.
 2. CANCEL THIS MSG 300800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>140029Z OCT 26
-HYDROPAC 3004/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   210001Z TO 210439Z, 212346Z TO 220424Z,
-   222332Z TO 230410Z, 232317Z TO 240355Z,
-   242303Z TO 250341Z, 252249Z TO 260327Z 
-   AND 262234Z TO 270312Z OCT 
-   IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 270412Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

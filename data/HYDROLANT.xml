@@ -33,20 +33,6 @@ TURBINE A07 54-00.60N 003-18.20W UNLIT.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>MAN OVERBOARD</category>
-        <status>INFORCE</status>
-        <msgText>231754Z OCT 26
-HYDROLANT 2113/26
-BLACK SEA.
-MOLDOVA.
-THREE PERSONS OVERBOARD FROM M/V KHORYV 
-IN 44-06.35N 029-00.45E AT 231016Z OCT.
-VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
-LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231557Z OCT 26
@@ -365,21 +351,6 @@ B. 34-31.17N 026-20.11E, 34-32.02N 026-23.52E,
    34-08.21N 031-49.61E, 33-53.43N 031-48.81E,
    33-51.11N 031-48.22E.
 FIVE MILE BERTH REQUESTED.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>200322Z OCT 26
-HYDROLANT 2077/26.
-NORTH ATLANTIC.
-WESTERN SAHARA.
-1. HAZARDOUS OPERATIONS 230001Z TO 232359Z OCT
-   IN AREA BOUND BY
-   23-35.00N 017-00.00W, 23-35.08N 017-21.75W,
-   23-44.54N 017-19.04W, 23-52.58N 017-10.39W,
-   23-55.07N 017-00.00W.
-2. CANCEL THIS MSG 240059Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

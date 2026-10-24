@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>232246Z OCT 26
+HYDROARC 310/26
+DAVIS STRAIT.
+GREENLAND.
+672 METER SCIENTIFIC MOORING, LEAST DEPTH 20 METERS,
+ESTABLISHED IN 67-02.31N 057-02.19W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>
         <status>INFORCE</status>
         <msgText>231459Z OCT 26
