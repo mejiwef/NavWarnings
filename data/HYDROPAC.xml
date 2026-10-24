@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>241457Z OCT 26
+HYDROPAC 3095/26.
+GULF OF OMAN.
+IRAN.
+1. M/V CAPE DAO SANK IN 24-36.41N 057-13.22E.
+2. CANCEL  HYDROPAC  1310/26. 
+3. CANCEL THIS MSG 011504Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>240722Z OCT 26
@@ -464,20 +475,6 @@ ONE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>201351Z OCT 26
-HYDROPAC 3048/26
-ARABIAN SEA.
-PAKISTAN.
-1. HAZARDOUS OPERATIONS 0300Z TO 1100Z DAILY
-   23 AND 24 OCT, IN AREA BOUND BY
-   25-12.00N 064-27.83E, 25-12.00N 064-49.00E,
-   25-02.83N 064-49.00E, 25-02.83N 064-27.83E.
-2. CANCEL THIS MSG 241200Z OCT 26.7
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>201023Z OCT 26
@@ -644,17 +641,6 @@ VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
 LOOKOUT, ASSIST IF POSSIBLE. 
 REPORTS TO MRCC VIETNAM,
 EMAIL: HPLES-GMDSS@HPLES.COM.VN.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>161621Z OCT 26
-HYDROPAC 3013/26.
-GULF OF OMAN.
-OMAN.
-1. M/V CAPE DAO SANK  IN 24-21.48N 057-40.65E.
-2. CANCEL  HYDROPAC 2970/26. 
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
