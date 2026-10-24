@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>241809Z OCT 26
+HYDROPAC 3097/26
+STRAIT OF HORMUZ.
+IRAN.
+M/V GHANA PROSPERITY SUFFERED A 
+SECURITY INCIDENT AND ANCHORED IN
+26-17.05N 056-33.35E. VESSELS ARE ADVISED 
+TO KEEP CLEAR OF THIS POSITION AND TO 
+EXERCISE EXTREME CAUTION.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
-        <msgText>241457Z OCT 26
-HYDROPAC 3095/26.
+        <msgText>241732Z OCT 26
+HYDROPAC 3096/26.
 GULF OF OMAN.
 IRAN.
 1. M/V CAPE DAO SANK IN 24-36.41N 057-13.22E.
-2. CANCEL  HYDROPAC  1310/26. 
-3. CANCEL THIS MSG 011504Z NOV 26.</msgText>
+2. CANCEL HYDROPAC 3013/26 AND 3095/26.
+3. CANCEL THIS MSG 011736Z NOV 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -835,22 +849,6 @@ EASTERN INDIAN OCEAN.
 LAKSHADWEEP.
 RACON AT KILTAN ISLAND SOUTH LIGHT
 12-28.10N 073-00.50E X BAND INOPERATIVE.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>091235Z OCT 26
-HYDROPAC 2944/26.
-BAY OF BENGAL.
-BANGLADESH.
-1. HAZARDOUS OPERATIONS 1230Z TO 1600Z DAILY
-   13 THRU 24 OCT IN AREA BOUND BY
-   21-16.50N 092-03.25E, 21-22.50N 091-56.80E,
-   21-20.04 N 91-55.82 E, 21-15.23 N 91-54.07 E,
-   21-10.98 N 91-55.24 E, 21-07.10N 091-57.90E, 
-   21-14.10N 092-03.15E.
-2. CANCEL THIS MSG 241700Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

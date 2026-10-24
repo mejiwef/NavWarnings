@@ -73,21 +73,6 @@ RUSSIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>191748Z OCT 26
-HYDROARC 305/26
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0500Z TO 1700Z DAILY
-   22 THRU 24 OCT IN AREA BOUND BY
-   80-00.00N 062-00.00E, 80-00.00N 066-00.00E,
-   79-30.00N 066-00.00E, 79-30.00N 062-00.00E.
-2. CANCEL HYRDOARC 289/26.
-3. CANCEL THIS MSG 241800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>191235Z OCT 26
@@ -101,26 +86,6 @@ GREENLAND.
    D. 67-04.49N 056-41.18W, LEAST DEPTH 22 METERS.
 2. CANCEL HYDROARC 301/26.
 3. CANCEL THIS MSG 170001Z OCT 28.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>161803Z OCT 26
-HYDROARC 299/26.
-BARENTS SEA.
-RUSSIA.
-1. HAZARDOUS OPERATIONS 0400Z TO 1500Z DAILY
-   17 THRU 24 OCT IN AREA BOUND BY
-   71-49.50N 032-24.00E, 71-20.00N 038-01.50E,
-   71-08.00N 041-13.00E, 70-13.00N 042-45.00E,
-   69-33.00N 041-04.00E, 69-12.00N 038-20.00E,
-   69-22.00N 035-52.00E, 69-29.00N 035-11.00E,
-   69-32.50N 033-14.00E, 69-38.80N 033-06.00E,
-   69-44.50N 033-05.00E, 69-53.00N 033-21.00E,
-   70-23.50N 032-33.00E.
-2. CANCEL HYDROARC 293/26.
-3. CANCEL THIS MSG 241600Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
