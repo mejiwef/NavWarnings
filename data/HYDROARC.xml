@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>251402Z OCT 26
+HYDROARC 311/26.
+BEAUFORT SEA.
+CANADA.
+SUBSURFACE SCIENTIFIC MOORING BUOY
+ESTABLISHED IN 71-00.99N 133-40.68W.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>OBSTRUCTION</category>
         <status>INFORCE</status>
         <msgText>232246Z OCT 26

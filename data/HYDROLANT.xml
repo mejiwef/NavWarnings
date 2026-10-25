@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>DERELICT VESSEL</category>
+        <status>INFORCE</status>
+        <msgText>251543Z OCT 26
+HYDROLANT 2134/26.
+NORTH ATLANTIC.
+MOROCCO.
+1. DERELICT VESSEL ADRIFT IN
+   33-54.30N 007-09.90W AT 241650Z OCT.
+2. CANCEL THIS MSG 281544Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>251428Z OCT 26
+HYDROLANT 2133/26.
+SOUTH ATLANTIC.
+ANTARCTICA.
+1. ICEBERGS  REPORTED IN: 
+   A. A81, 55-43.00S 037-14.00W.
+   B. D33B, 56-16.00S 042-54.00W.
+   C. D35, 60-14.00S 044-42.00W.
+   D. A83, 60-16.00S 049-29.00W.
+   E. A85, 58-12.00S 047-19.00W.
+   F. 57-59.00S 048-10.00W.
+   G. D32, 56-33.00S 039-29.00W.
+   H. D33C, 61-04.00S 054-58.00W.
+   I. 51-49.00S 041-03.00W.
+   J. 58-21.00S 047-18.00W.
+   K. 54-01.00S 043-24.00W.
+   L. 56-11.00S 043-07.00W.
+   M. 59-14.00S 049-38.00W.
+   N. 58-45.00S 044-22.00W.
+   O. 58-08.00S 046-08.00W.
+   P. 60-17.00S 043-31.00W.
+   Q. 59-50.00S 042-34.00W.
+   R. 61-35.00S 054-19.00W.
+   S. 56-27.00S 043-05.00W.
+   T. 54-26.00S 043-30.00W.
+2. CANCEL THIS MSG 261429Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RADIO SERVICE</category>
+        <status>INFORCE</status>
+        <msgText>251418Z OCT 26
+HYDROLANT 2132/26.
+NORTH SEA.
+SHETLAND ISLANDS.
+LERWICK SITE MF AND R/T SERVICES AT
+60-08.90N 001-08.40W OFF AIR.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>NAVTEX</category>
+        <status>INFORCE</status>
+        <msgText>251351Z OCT 26
+HYDROLANT 2131/26.
+NORTH CHANNEL.
+IRELAND.
+NAVTEX STATION MALIN HEAD (Q)
+55-22.00N 007-20.00W OFF AIR.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>250353Z OCT 26
@@ -55,36 +117,6 @@ ENGLAND.
 FOG SIGNAL AT GREENWICH LIGHT VESSEL
 50-24.50N 000-00.10W INOPERATIVE.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>241509Z OCT 26
-HYDROLANT 2126/26.
-SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-15.00S 037-34.00W.
-   B. D33B, 56-15.00S 042-33.00W.
-   C. D35, 60-09.00S 044-22.00W.
-   D. A83, 59-48.00S 049-15.00W.
-   E. A85, 58-12.00S 047-44.00W.
-   F. 58-04.00S 047-58.00W.
-   G. D32, 56-20.00S 039-19.00W.
-   H. D33C, 61-54.00S 054-38.00W.
-   I. 51-49.00S 041-03.00W.
-   J. 57-54.00S 046-38.00W.
-   K. 54-07.00S 042-43.00W.
-   L. 56-11.00S 043-07.00W.
-   M. 59-13.00S 049-26.00W.
-   N. 58-24.00S 043-55.00W.
-   O. 58-04.00S 046-05.00W.
-   P. 60-17.00S 043-31.00W.
-   Q. 59-50.00S 042-34.00W.
-   R. 60-59.00S 053-57.00W.
-   S. 56-27.00S 043-05.00W.
-   T. 54-26.00S 043-30.00W.
-2. CANCEL THIS MSG 251509Z OCT 26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>

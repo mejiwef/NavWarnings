@@ -3,6 +3,22 @@
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
         <status>INFORCE</status>
+        <msgText>251423Z OCT 26
+HYDROPAC 3100/26.
+NORTH PACIFIC.
+MICRONESIA, FEDERATED STATES OF.
+CABLE OPERATIONS UNTIL FURTHER NOTICE
+BY CABLESHIP ANIEK ALONG TRACKLINE 
+JOINING
+08-26.30N 150-43.50E, 07-44.00N 150-46.90E,
+07-33.30N 150-48.70E, 07-02.00N 150-59.00E,
+06-04.00N 151-40.00E, 05-42.20N 151-41.60E,
+04-44.50N 152-15.70E.
+WIDE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
         <msgText>250211Z OCT 26
 HYDROPAC 3099/26
 NORTH PACIFIC.
@@ -243,20 +259,6 @@ INDIA.
    11-15.00N 092-30.00E, 11-20.00N 092-55.00E,
    11-05.00N 092-55.00E, 11-00.00N 092-30.00E.
 2. CANCEL THIS MSG 311130Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231032Z OCT 26
-HYDROPAC 3079/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0030Z TO 1030Z DAILY
-   24 AND 25 OCT IN AREA BOUND BY
-   17-55.00N 084-14.00E, 17-42.00N 084-05.00E,
-   17-34.00N 084-18.00E, 17-47.00N 084-27.00E.
-2. CANCEL THIS MSG 251130Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
