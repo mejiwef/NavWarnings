@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>OBSTRUCTION</category>
+        <status>INFORCE</status>
+        <msgText>252342Z OCT 26
+HYDROARC 312/26.
+CHUKCHI SEA.
+SCIENTIFIC MOORING ESTABLISHED IN
+75-05.83N 167-59.91W, TOP FLOAT 59 METERS.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>BUOY</category>
         <status>INFORCE</status>
         <msgText>251402Z OCT 26

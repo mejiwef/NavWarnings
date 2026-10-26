@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MARINE CASUALTY</category>
+        <status>INFORCE</status>
+        <msgText>260039Z OCT 26
+HYDROLANT 2138/26.
+SOUTH ATLANTIC.
+BRAZIL.
+VESSEL AGUIA VII DISABLED AND ADRIFT IN VICINITY
+25-22.54S 044-45.48W. FOUR PERSONS MISSING.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO
+ANY COASTAL RADIO STATION.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>251705Z OCT 26
@@ -43,16 +56,6 @@ ANTARCTICA.
    S. 56-27.00S 043-05.00W.
    T. 54-26.00S 043-30.00W.
 2. CANCEL THIS MSG 261429Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RADIO SERVICE</category>
-        <status>INFORCE</status>
-        <msgText>251418Z OCT 26
-HYDROLANT 2132/26.
-NORTH SEA.
-SHETLAND ISLANDS.
-LERWICK SITE MF AND R/T SERVICES AT
-60-08.90N 001-08.40W OFF AIR.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -354,17 +357,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>LIGHT</category>
-        <status>INFORCE</status>
-        <msgText>230314Z OCT 26
-HYDROLANT 2102/26.
-DOVER STRAIT.
-ENGLAND.
-ADMIRALTY PIER LIGHT 51-06.70N 001-19.70E
-UNLIT.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>222047Z OCT 26
@@ -638,20 +630,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>111250Z OCT 26
-HYDROLANT 2025/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. HAZARDOUS OPERATIONS 150800Z TO 252130Z OCT 
-   IN AREA BOUND BY
-   30-15.00S 050-06.75W, 30-15.00S 049-54.50W,
-   31-15.00S 050-26.24W, 31-15.00S 050-42.34W.
-2. CANCEL THIS MSG 252230Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>110036Z OCT 26
@@ -687,28 +665,6 @@ TURKEY.
    41-36.20N 032-06.45E.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 090001Z OCT 27.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>021228Z OCT 26
-HYDROLANT 1962/26.
-EASTERN MEDITERRANEAN SEA.
-TURKEY.
-1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
-   25 OCT BY M/V DENAR ECHO, M/V ORUC REIS, 
-   M/V KIRICI AND M/V DENAR PATHFINDER
-   IN AREA BOUND BY
-   36-01.65N 032-45.72E, 36-00.97N 032-48.22E,
-   36-04.41N 032-52.90E, 36-05.97N 032-57.70E,
-   35-49.44N 033-07.64E, 35-48.34N 033-04.13E,
-   35-29.77N 033-20.96E, 35-20.39N 033-30.58E,
-   35-19.87N 033-23.33E, 35-27.98N 033-17.81E,
-   35-47.12N 033-00.26E, 35-45.04N 032-53.67E.
-   WIDE BERTH REQUESTED.
-2. CANCEL HYDROLANT 1952/26.
-3. CANCEL THIS MSG 260001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
