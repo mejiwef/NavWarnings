@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY ADRIFT</category>
+        <status>INFORCE</status>
+        <msgText>261513Z OCT 26
+HYDROLANT 2144/26
+SOUTH ATLANTIC.
+1. ODAS BOUY ADRIFT IN 26-44.20S 043-22.70W.
+2. CANCEL THIS MSG 292120Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>261400Z OCT 26
+HYDROLANT 2143/26
+SOUTH ATLANTIC.
+SCOTIA SEA.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-26.00S 036-50.00W.
+   B. D33B, 56-07.00S 042-29.00W.
+   C. D35, 60-07.00S 044-23.00W.
+   D. A83, 59-42.00S 049-20.00W.
+   E. A85, 57-56.00S 048-01.00W.
+   F. 57-39.00S 048-05.00W.
+   G. D32, 56-21.00S 039-14.00W.
+   H. D33C, 61-56.00S 054-35.00W.
+   I. 51-25.00S 040-32.00W.
+   J. 57-42.00S 046-52.00W.
+   K. 53-58.00S 042-57.00W.
+   L. 56-17.00S 041-57.00W.
+   M. 59-05.00S 049-12.00W.
+   N. 58-33.00S 044-00.00W.
+   O. 58-06.00S 045-55.00W.
+   P. 60-06.00S 043-46.00W.
+   Q. 59-54.00S 042-20.00W.
+   R. 60-57.00S 053-47.00W.
+   S. 54-26.00S 043-30.00W.
+   T. 63-31.00S 063-04.00W.
+2. CANCEL THIS MSG 271400Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>RACON</category>
+        <status>INFORCE</status>
+        <msgText>261318Z OCT 26
+HYDROLANT 2142/26
+IRISH SEA.
+WALES.
+1. RACON AT W CONSTABLE BUOY
+   53-23.10N 003-49.20W INOPERATIVE.
+2. CANCEL HYDROLANT 2141/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
         <msgText>260442Z OCT 26
@@ -13,51 +65,22 @@ ANTARCTICA.
    B. A85, 58-33.60S 047-18.60W.
    C. D33A, 63-57.00S 054-07.80W.
    D. D33C, 61-54.00S 054-31.20W.
-2. CANCEL THIS MSG 270443Z OCT 26.</msgText>
+2. CANCEL THIS MSG 270443Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>DERELICT VESSEL</category>
+        <category>MARINE CASUALTY</category>
         <status>INFORCE</status>
-        <msgText>251705Z OCT 26
-HYDROLANT 2135/26.
-NORTH ATLANTIC.
-MOROCCO.
-1. DERELICT VESSEL ADRIFT IN 
-   33-54.30N 007-09.90W AT 241650Z OCT.
-   NAVIGATE WITH CAUTION, REPORT 
-   INFORMATION TO : COORD.NAVAREA2@SHOM.FR
-2. CANCEL HYDROLANT 2134/26.
-3. CANCEL THIS MSG 281707Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>251428Z OCT 26
-HYDROLANT 2133/26.
+        <msgText>260039Z OCT 26
+HYDROLANT 2138/26.
 SOUTH ATLANTIC.
-ANTARCTICA.
-1. ICEBERGS  REPORTED IN: 
-   A. A81, 55-43.00S 037-14.00W.
-   B. D33B, 56-16.00S 042-54.00W.
-   C. D35, 60-14.00S 044-42.00W.
-   D. A83, 60-16.00S 049-29.00W.
-   E. A85, 58-12.00S 047-19.00W.
-   F. 57-59.00S 048-10.00W.
-   G. D32, 56-33.00S 039-29.00W.
-   H. D33C, 61-04.00S 054-58.00W.
-   I. 51-49.00S 041-03.00W.
-   J. 58-21.00S 047-18.00W.
-   K. 54-01.00S 043-24.00W.
-   L. 56-11.00S 043-07.00W.
-   M. 59-14.00S 049-38.00W.
-   N. 58-45.00S 044-22.00W.
-   O. 58-08.00S 046-08.00W.
-   P. 60-17.00S 043-31.00W.
-   Q. 59-50.00S 042-34.00W.
-   R. 61-35.00S 054-19.00W.
-   S. 56-27.00S 043-05.00W.
-   T. 54-26.00S 043-30.00W.
-2. CANCEL THIS MSG 261429Z OCT 26.</msgText>
+BRAZIL.
+VESSEL AGUIA VII DISABLED AND ADRIFT IN VICINITY
+25-22.54S 044-45.48W. FOUR PERSONS MISSING.
+VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+LOOKOUT, ASSIST IF POSSIBLE. REPORTS TO
+ANY COASTAL RADIO STATION.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -601,20 +624,6 @@ BRAZIL.
    IN 20-23.68S 040-09.10W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 271800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>110036Z OCT 26
-HYDROLANT 2023/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1700Z
-   DAILY 12 THRU 26 OCT BY M/V COMANDO B
-   IN 20-23.47S 040-09.80W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 261800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
