@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ROCKET LAUNCHING</category>
+        <status>INFORCE</status>
+        <msgText>271034Z OCT 26
+HYDROPAC 3117/26
+BAY OF BENGAL.
+INDIA.
+1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING 
+   301700Z TO 302100Z OCT.
+   A. IN AREAS BOUND BY:
+      A. 12-00.00N 084-45.00E, 12-45.00N 085-00.00E,
+         12-20.00N 086-20.00E, 11-35.00N 086-05.00E.
+      B. 10-55.00N 087-50.00E, 11-55.00N 088-00.00E,
+         11-05.00N 090-30.00E, 10-05.00N 090-20.00E.
+      C. 07-50.00N 095-10.00E, 09-35.00N 095-10.00E,
+         09-35.00N 096-05.00E, 07-50.00N 096-05.00E.
+   B. IN AREA WITHIN 10.00 MILES OF 13-43.20N 080-13.80E.
+2. CANCEL THIS MSG 302200Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270652Z OCT 26
+HYDROPAC 3115/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS UNTIL 
+   FURTHER NOTICE BY M/V SKANDI HERCULES
+   IN 21-29.10S 114-07.06E.
+   FIVE MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2964/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>CABLE OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270601Z OCT 26
+HYDROPAC 3114/26.
+ARABIAN SEA.
+INDIA.
+1. CABLE OPERATIONS IN PROGRESS UNTIL 
+   10 NOV BY M/V LADY GRACE, M/V DB MARINE 1 
+   AND M/V MT RAAJ 1 ALONG TRACKLINE JOINING
+   19-03.45N 072-40.64E, 19-01.07N 072-32.77E,
+   18-04.69N 070-50.32E.
+   WIDE BERTH REQUESTED.
+2. CANCEL THIS MSG 110001Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>270120Z OCT 26
@@ -34,40 +81,6 @@ QATAR.
 WAVE RIDER BUOY, FL 5 Y 20 SEC
 TEMPORARILY ESTABLISHED
 IN 26-38.47N 051-55.82E.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261045Z OCT 26
-HYDROPAC 3109/26
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS
-   0330Z TO 0530Z DAILY 29 THRU 30 OCT,
-   0830Z TO 1030Z DAILY 02 THRU 03 NOV,
-   050530Z TO 051030Z NOV,
-   060330Z TO 060530Z NOV.
-   IN AREA BOUND BY
-   20-49.88N 087-01.22E, 20-34.95N 086-56.05E,
-   18-34.37N 086-28.52E, 15-24.85N 086-07.13E,
-   15-39.08N 088-59.98E, 18-42.35N 088-05.38E,
-   20-36.62N 087-16.32E, 20-50.48N 087-08.47E.
-2. CANCEL THIS MSG 060630Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261035Z OCT 26
-HYDROPAC 3108/26
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 0430Z TO 0830Z DAILY
-   29 THRU 31 OCT IN AREA BOUND BY
-   17-49.87N 083-33.57E, 18-00.68N 083-56.25E,
-   17-35.00N 084-08.87E, 17-27.28N 083-39.80E.
-2. CANCEL THIS MSG 310930Z OCT 26.
-</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -264,21 +277,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231138Z OCT 26
-HYDROPAC 3085/26.
-BAY OF BENGAL.
-INDIA.
-1. HAZARDOUS OPERATIONS 270830Z TO 270930Z
-   IN AREA BOUND BY
-   13-07.02N 080-18.01E, 13-14.90N 080-25.98E,
-   13-13.90N 080-26.86E, 13-13.04N 080-27.44E,
-   13-11.70N 080-28.24E, 13-09.90N 080-28.90E.
-2. CANCEL THIS MSG 271139Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>231123Z OCT 26
@@ -335,22 +333,6 @@ INDIA.
    21-32.00N 068-56.00E, 21-32.00N 069-24.00E,
    21-17.00N 069-24.00E, 21-17.00N 069-06.00E.
 2. CANCEL THIS MSG 280930Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>231006Z OCT 26
-HYDROPAC 3077/26.
-BAY OF BENGAL.
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 270430Z TO 270630Z 
-   AND 270830Z TO 271030Z OCT 
-   IN AREA BOUND BY
-   11-52.00N 092-19.00E, 11-48.00N 092-29.00E,
-   11-40.00N 092-27.00E, 11-43.00N 092-16.00E.
-2. CANCEL THIS MSG 271130Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -667,25 +649,6 @@ INDIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>SPACE DEBRIS</category>
-        <status>INFORCE</status>
-        <msgText>170545Z OCT 26
-HYDROPAC 3028/26.
-SOUTH PACIFIC.
-1. HAZARDOUS OPERATIONS, SPACE DEBRIS
-   240716Z TO 241154Z, 250701Z TO 251139Z, 
-   260647Z TO 261125Z, 270632Z TO 271110Z, 
-   280618Z TO 281056Z, 290604Z TO 291042Z 
-   AND 300549Z TO 301027Z OCT 
-   IN AREA BOUND BY
-   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,
-   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
-   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
-   44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 301127Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>LIGHT</category>
         <status>INFORCE</status>
         <msgText>171307Z OCT 26
@@ -852,19 +815,6 @@ GUAM.
    13-29.00N 144-50.00E HF NAVTEX AND VOBRA 
     SERVICES OFF AIR.
 2. CANCEL HYDROPAC 2893/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130301Z OCT 26
-HYDROPAC 2964/26.
-EASTERN INDIAN OCEAN.
-AUSTRALIA.
-UNDERWATER OPERATIONS IN PROGRESS UNTIL
-FURTHER NOTICE BY M/V SKANDI HERCULES
-IN 19-57.30S 115-12.32E.
-FIVE MILE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
