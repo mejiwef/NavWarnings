@@ -221,23 +221,6 @@ CALIFORNIA.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>CABLE OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>190011Z OCT 26
-NAVAREA XII 736/26.
-NORTH PACIFIC.
-OREGON.
-1. CABLE OPERATIONS 192100Z OCT UNTIL
-   FURTHER NOTICE BY M/V GRACE WITHIN
-   ONE MILE OF TRACKLINES JOINING:
-   A. 41-26.00N 126-09.00W, 42-01.74N 125-55.17W,
-      42-38.52N 125-40.18W, 42-40.76N 125-39.34W.
-   B. 41-26.00N 126-09.00W, 40-46.78N 126-25.64W.
-   TWO MILE BERTH REQUESTED.
-2. CANCEL NAVAREA XII 731/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>NAVTEX</category>
         <status>INFORCE</status>
         <msgText>010817Z OCT 26

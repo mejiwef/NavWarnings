@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>270120Z OCT 26
+HYDROPAC 3112/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS UNTIL
+FURTHER NOTICE BY M/V FUGRO KWILENA
+IN AREA BOUND BY
+20-01.70S 116-31.20E, 20-01.70S 116-37.70E,
+20-10.70S 116-37.70E, 20-10.70S 116-31.20E.
+THREE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
         <status>INFORCE</status>
         <msgText>261953Z OCT 26
@@ -1218,25 +1232,6 @@ HYDROPAC 2646/26
 JAVA SEA.
 INDONESIA.
 DANGEROUS WRECK IN 04-32.53S 114-01.60E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>101124Z SEP 26
-HYDROPAC 2615/26.
-ARABIAN SEA.
-GULF OF KHAMBHAT.
-INDIA.
-1. SURVEY OPERATIONS 11 SEP THRU 26 OCT
-   BY M/V VANESSA 6 IN AREA BOUND BY
-   19-30.97N 071-21.32E, 19-35.32N 071-24.27E,
-   20-44.33N 071-37.99E, 20-20.02N 072-21.64E,
-   18-35.70N 072-12.81E, 19-09.75N 071-08.55E,
-   19-12.44N 071-05.99E, 19-12.18N 071-04.36E,
-   19-10.61N 070-57.71E.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 270001Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
