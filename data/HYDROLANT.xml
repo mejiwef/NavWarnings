@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>BUOY</category>
+        <status>INFORCE</status>
+        <msgText>272037Z OCT 26
+HYDROLANT 2157/26.
+IRISH SEA.
+WALES.
+1. W CONSTABLE BUOY 53-23.10N 003-49.20W UNLIT
+   AND RACON INOPERATIVE.
+2. CANCEL HYDROLANT 2142/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>271416Z OCT 26
@@ -13,7 +24,6 @@ NAMIBIA.
    LOOKOUT, ASSIST IF POSSIBLE. 
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROLANT 2155/26.
-
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -202,17 +212,6 @@ SOUTH ATLANTIC.
 1. ODAS BOUY ADRIFT IN 26-44.20S 043-22.70W.
 2. CANCEL THIS MSG 292120Z OCT 26.
 </msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>RACON</category>
-        <status>INFORCE</status>
-        <msgText>261318Z OCT 26
-HYDROLANT 2142/26
-IRISH SEA.
-WALES.
-1. RACON AT W CONSTABLE BUOY
-   53-23.10N 003-49.20W INOPERATIVE.
-2. CANCEL HYDROLANT 2141/26.</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>NAVTEX</category>
@@ -650,20 +649,6 @@ BRAZIL.
    IN 20-23.02S 040-09.23W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 281800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>120942Z OCT 26
-HYDROLANT 2029/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1700Z 
-   DAILY 13 THRU 27 OCT BY M/V COMANDO B 
-   IN 20-23.68S 040-09.10W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 271800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
