@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271557Z OCT 26
+HYDROPAC 3122/26
+NORTH PACIFIC.
+1. GUNNERY EXERCISES
+   2300Z TO 0900Z DAILY 31 OCT THRU 29 NOV  
+   IN AREA BOUND BY
+   28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
+   25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
+2. CANCEL HYDROPAC 3096/26, 3110/26, 3119/26.
+3. CANCEL THIS MSG 301000Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>GUNNERY EXERCISES</category>
+        <status>INFORCE</status>
+        <msgText>271232Z OCT 26
+HYDROPAC 3120/26
+SEA OF JAPAN.
+RUSSIA.
+1. HAZARDOUS OPERATIONS 2200Z TO 1000Z DAILY
+   31 OCT AND 01, 13, 15 THRU 20, 22 THRU 27 AND
+   29 NOV IN AREAS BOUND BY:
+   A. 42-40.00N 131-41.00E, 42-40.00N 131-57.00E,
+      42-38.50N 132-15.00E, 42-15.00N 132-15.00E,
+      42-15.00N 131-41.00E.
+   B. 42-39.00N 132-23.00E, 42-39.00N 132-35.00E,
+      42-38.00N 132-49.00E, 42-20.00N 132-49.00E,
+      42-20.00N 132-23.00E.
+2. CANCEL THIS MSG 301100Z NOV 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>DANGEROUS WRECK</category>
+        <status>INFORCE</status>
+        <msgText>271145Z OCT 26
+HYDROPAC 3118/26
+SULU SEA.
+PHILIPPINES.
+DANGEROUS WRECK, LEAST DEPTH 10.6 METERS
+IN 09-46.50N 121-22.23E.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>271034Z OCT 26
@@ -17,7 +61,8 @@ INDIA.
       C. 07-50.00N 095-10.00E, 09-35.00N 095-10.00E,
          09-35.00N 096-05.00E, 07-50.00N 096-05.00E.
    B. IN AREA WITHIN 10.00 MILES OF 13-43.20N 080-13.80E.
-2. CANCEL THIS MSG 302200Z OCT 26.</msgText>
+2. CANCEL THIS MSG 302200Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -30,7 +75,8 @@ AUSTRALIA.
    FURTHER NOTICE BY M/V SKANDI HERCULES
    IN 21-29.10S 114-07.06E.
    FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROPAC 2964/26.</msgText>
+2. CANCEL HYDROPAC 2964/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -45,7 +91,8 @@ INDIA.
    19-03.45N 072-40.64E, 19-01.07N 072-32.77E,
    18-04.69N 070-50.32E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 110001Z NOV 26.</msgText>
+2. CANCEL THIS MSG 110001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -59,7 +106,8 @@ FURTHER NOTICE BY M/V FUGRO KWILENA
 IN AREA BOUND BY
 20-01.70S 116-31.20E, 20-01.70S 116-37.70E,
 20-10.70S 116-37.70E, 20-10.70S 116-31.20E.
-THREE MILE BERTH REQUESTED.</msgText>
+THREE MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>DERELICT VESSEL</category>
@@ -69,18 +117,8 @@ HYDROPAC 3111/26.
 EASTERN INDIAN OCEAN.
 1. DERELICT F/V, WHITE AND BLUE HULL,
    CAPSIZED AND ADRIFT IN 36-00.60S 028-26.24E.
-2. CANCEL THIS MSG 291953Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>261547Z OCT 26
-HYDROPAC 3110/26
-PERSIAN GULF.
-QATAR.
-WAVE RIDER BUOY, FL 5 Y 20 SEC
-TEMPORARILY ESTABLISHED
-IN 26-38.47N 051-55.82E.</msgText>
+2. CANCEL THIS MSG 291953Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -166,32 +204,6 @@ SOUTH PACIFIC.
 1. YELLOW, BLUE, BLACK PERSONAL WATERCRAFT ADRIFT 
    IN VICINITY 24-40.00S 172-15.00E AT 241300Z OCT.
 2. CANCEL THIS MSG 272020Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>MARINE CASUALTY</category>
-        <status>INFORCE</status>
-        <msgText>241809Z OCT 26
-HYDROPAC 3097/26
-STRAIT OF HORMUZ.
-IRAN.
-M/V GHANA PROSPERITY SUFFERED A 
-SECURITY INCIDENT AND ANCHORED IN
-26-17.05N 056-33.35E. VESSELS ARE ADVISED 
-TO KEEP CLEAR OF THIS POSITION AND TO 
-EXERCISE EXTREME CAUTION.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>241732Z OCT 26
-HYDROPAC 3096/26.
-GULF OF OMAN.
-IRAN.
-1. M/V CAPE DAO SANK IN 24-36.41N 057-13.22E.
-2. CANCEL HYDROPAC 3013/26 AND 3095/26.
-3. CANCEL THIS MSG 011736Z NOV 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

@@ -29,7 +29,8 @@ A. 36-02.61N 123-23.94W, 35-56.78N 123-15.88W,
    35-44.95N 122-59.99W.
 B. 36-02.61N 123-23.94W, 36-05.58N 123-27.77W,
    36-25.44N 123-50.45W, 36-26.39N 123-51.54W.
-TWO MILE BERTH REQUESTED.</msgText>
+TWO MILE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -43,7 +44,8 @@ CALIFORNIA.
    32-55.00N 118-25.00W, 32-55.00N 118-15.00W,
    32-40.00N 118-15.00W, 32-40.00N 118-35.00W,
    32-45.00N 118-35.00W.
-2. CANCEL THIS MSG 010900Z DEC 26.</msgText>
+2. CANCEL THIS MSG 010900Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -73,7 +75,8 @@ CALIFORNIA.
    32-33.00N 118-25.00W, 32-35.00N 118-16.00W,
    32-35.00N 117-40.00W, 31-55.00N 117-40.00W,
    31-55.00N 118-25.00W.
-2. CANCEL THIS MSG 010900Z DEC 26.</msgText>
+2. CANCEL THIS MSG 010900Z DEC 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>INFORCE BULLETIN</category>

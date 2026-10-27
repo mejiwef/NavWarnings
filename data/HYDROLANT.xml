@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>MAN OVERBOARD</category>
+        <status>INFORCE</status>
+        <msgText>271416Z OCT 26
+HYDROLANT 2156/26
+SOUTH ATLANTIC.
+NAMIBIA.
+1. MAN OVERBOARD FROM M/V PEGASUS ACE
+   IN 28-55.40S 015-11.50E.
+   VESSELS IN VICINITY REQUESTED TO KEEP A SHARP
+   LOOKOUT, ASSIST IF POSSIBLE. 
+   REPORTS TO ANY COASTAL RADIO STATION.
+2. CANCEL HYDROLANT 2155/26.
+
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>271322Z OCT 26
+HYDROLANT 2154/26
+SOUTH ATLANTIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-22.00S 036-40.00W.
+   B. D33B, 56-04.00S 042-23.00W.
+   C. D35, 60-06.00S 044-22.00W.
+   D. A83, 59-39.00S 049-26.00W.
+   E. A85, 57-35.00S 048-02.00W.
+   F. 57-18.00S 047-49.00W.
+   G. D32, 56-27.00S 039-10.00W.
+   H. D33C, 61-55.00S 054-24.00W.
+   I. 51-25.00S 040-32.00W.
+   J. 57-34.00S 046-52.00W.
+   K. 53-58.00S 042-57.00W.
+   L. 56-04.00S 041-48.00W.
+   M. 59-00.00S 049-07.00W.
+   N. 58-30.00S 043-52.00W.
+   O. 58-03.00S 045-37.00W.
+   P. 60-01.00S 043-41.00W.
+   Q. 59-56.00S 042-11.00W.
+   R. 60-40.00S 052-47.00W.
+   S. 54-26.00S 043-30.00W.
+   T. 62-21.00S 062-48.00W.
+2. CANCEL THIS MSG 281400Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>DANGEROUS WRECK</category>
         <status>INFORCE</status>
         <msgText>270927Z OCT 26
@@ -19,7 +67,8 @@ SPAIN.
    44-51.00N 008-58.00W AT 270550Z OCT.
    REPORTS TO NAVAREA II, 
    E-MAIL: COORD.NAVAREA2@SHOM.FR.
-2. CANCEL THIS MSG 300851Z OCT 26.</msgText>
+2. CANCEL THIS MSG 300851Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -56,7 +105,8 @@ EASTERN MEDITERRANEAN SEA.
       34-39.25N 026-41.67E, 34-35.92N 026-32.45E,
       34-32.02N 026-23.52E, 34-31.17N 026-20.14E.
    FIVE MILE BERTH REQUESTED.
-2. CANCEL HYDROLANT 2081/26.</msgText>
+2. CANCEL HYDROLANT 2081/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MARINE CASUALTY</category>
@@ -83,7 +133,8 @@ HYDROLANT 2149/26.
 IRISH SEA.
 WALES.
 POINT LYNAS LIGHT 53-25.00N 004-17.40W
-UNRELIABLE.</msgText>
+UNRELIABLE.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNREPORTED</category>
@@ -98,7 +149,8 @@ ALONG TRACKLINE JOINING
 25-53.18S 045-30.55W, 25-22.54S 044-45.48W 
 ON 26 OCT. VESSELS IN VICINITY REQUESTED 
 TO KEEP A SHARP LOOKOUT, ASSIST IF POSSIBLE. 
-REPORTS TO ANY COASTAL RADIO STATION.</msgText>
+REPORTS TO ANY COASTAL RADIO STATION.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ICEBERG</category>
@@ -138,7 +190,8 @@ BRAZIL.
    04-15.75N 049-43.94W, 04-33.71N 050-01.26W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 2075/26.
-3. CANCEL THIS MSG 070001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 070001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY ADRIFT</category>
@@ -147,38 +200,7 @@ BRAZIL.
 HYDROLANT 2144/26
 SOUTH ATLANTIC.
 1. ODAS BOUY ADRIFT IN 26-44.20S 043-22.70W.
-2. CANCEL THIS MSG 292120Z OCT 26.</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>261400Z OCT 26
-HYDROLANT 2143/26
-SOUTH ATLANTIC.
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-26.00S 036-50.00W.
-   B. D33B, 56-07.00S 042-29.00W.
-   C. D35, 60-07.00S 044-23.00W.
-   D. A83, 59-42.00S 049-20.00W.
-   E. A85, 57-56.00S 048-01.00W.
-   F. 57-39.00S 048-05.00W.
-   G. D32, 56-21.00S 039-14.00W.
-   H. D33C, 61-56.00S 054-35.00W.
-   I. 51-25.00S 040-32.00W.
-   J. 57-42.00S 046-52.00W.
-   K. 53-58.00S 042-57.00W.
-   L. 56-17.00S 041-57.00W.
-   M. 59-05.00S 049-12.00W.
-   N. 58-33.00S 044-00.00W.
-   O. 58-06.00S 045-55.00W.
-   P. 60-06.00S 043-46.00W.
-   Q. 59-54.00S 042-20.00W.
-   R. 60-57.00S 053-47.00W.
-   S. 54-26.00S 043-30.00W.
-   T. 63-31.00S 063-04.00W.
-2. CANCEL THIS MSG 271400Z OCT 26.
+2. CANCEL THIS MSG 292120Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
