@@ -3,6 +3,49 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>281320Z OCT 26
+HYDROLANT 2164/26
+SOUTH ATLANTIC.
+SCOTIA SEA.
+SOUTH SHETLAND ISLANDS.
+1. ICEBERGS REPORTED IN: 
+   A. A81, 55-21.00S 036-50.00W.
+   B. D33B, 55-59.00S 042-21.00W.
+   C. D35, 60-06.00S 044-22.00W.
+   D. A83, 59-36.00S 049-30.00W.
+   E. A85, 57-21.00S 047-52.00W.
+   F. 57-00.00S 047-22.00W.
+   G. D32, 56-29.00S 039-08.00W.
+   H. D33C, 61-57.00S 054-33.00W.
+   I. 51-06.00S 040-19.00W.
+   J. 57-29.00S 046-54.00W.
+   K. 53-43.00S 043-14.00W.
+   L. 56-04.00S 041-48.00W.
+   M. 58-57.00S 049-03.00W.
+   N. 58-25.00S 043-48.00W.
+   O. 57-55.00S 045-29.00W.
+   P. 59-57.00S 043-42.00W.
+   Q. 59-54.00S 042-06.00W.
+   R. 60-37.00S 052-40.00W.
+   S. 54-26.00S 043-30.00W.
+   T. 62-19.00S 062-37.00W.
+2. CANCEL THIS MSG 291400Z OCT 26.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>LIGHT</category>
+        <status>INFORCE</status>
+        <msgText>281300Z OCT 26
+HYDROLANT 2163/26
+IRISH SEA.
+ENGLAND.
+WEST OF DUDDON SANDS WIND FARM 
+53-59.00N 003-27.00W UNLIT.
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>280502Z OCT 26
 HYDROLANT 2162/26.
 SOUTH ATLANTIC.
@@ -13,7 +56,8 @@ ANTARCTICA.
    B. A85, 58-33.60S 047-18.60W.
    C. D33A, 63-57.00S 054-07.80W.
    D. D33C, 61-54.00S 054-31.20W.
-2. CANCEL THIS MSG 290502Z OCT 26.</msgText>
+2. CANCEL THIS MSG 290502Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
@@ -26,7 +70,8 @@ BRAZIL.
    090300Z NOV BY M/V SISTAC VITORIA
    IN 22-06.62S 039-54.93W.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 090400Z NOV 26.</msgText>
+2. CANCEL THIS MSG 090400Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -47,18 +92,6 @@ BRAZIL.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>BUOY</category>
-        <status>INFORCE</status>
-        <msgText>272037Z OCT 26
-HYDROLANT 2157/26.
-IRISH SEA.
-WALES.
-1. W CONSTABLE BUOY 53-23.10N 003-49.20W UNLIT
-   AND RACON INOPERATIVE.
-2. CANCEL HYDROLANT 2142/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
         <status>INFORCE</status>
         <msgText>271416Z OCT 26
@@ -71,38 +104,6 @@ NAMIBIA.
    LOOKOUT, ASSIST IF POSSIBLE. 
    REPORTS TO ANY COASTAL RADIO STATION.
 2. CANCEL HYDROLANT 2155/26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>271322Z OCT 26
-HYDROLANT 2154/26
-SOUTH ATLANTIC.
-SCOTIA SEA.
-SOUTH SHETLAND ISLANDS.
-1. ICEBERGS REPORTED IN: 
-   A. A81, 55-22.00S 036-40.00W.
-   B. D33B, 56-04.00S 042-23.00W.
-   C. D35, 60-06.00S 044-22.00W.
-   D. A83, 59-39.00S 049-26.00W.
-   E. A85, 57-35.00S 048-02.00W.
-   F. 57-18.00S 047-49.00W.
-   G. D32, 56-27.00S 039-10.00W.
-   H. D33C, 61-55.00S 054-24.00W.
-   I. 51-25.00S 040-32.00W.
-   J. 57-34.00S 046-52.00W.
-   K. 53-58.00S 042-57.00W.
-   L. 56-04.00S 041-48.00W.
-   M. 59-00.00S 049-07.00W.
-   N. 58-30.00S 043-52.00W.
-   O. 58-03.00S 045-37.00W.
-   P. 60-01.00S 043-41.00W.
-   Q. 59-56.00S 042-11.00W.
-   R. 60-40.00S 052-47.00W.
-   S. 54-26.00S 043-30.00W.
-   T. 62-21.00S 062-48.00W.
-2. CANCEL THIS MSG 281400Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -210,17 +211,6 @@ HYDROLANT 2144/26
 SOUTH ATLANTIC.
 1. ODAS BOUY ADRIFT IN 26-44.20S 043-22.70W.
 2. CANCEL THIS MSG 292120Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>NAVTEX</category>
-        <status>INFORCE</status>
-        <msgText>251351Z OCT 26
-HYDROLANT 2131/26.
-NORTH CHANNEL.
-IRELAND.
-NAVTEX STATION MALIN HEAD (Q)
-55-22.00N 007-20.00W OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -634,20 +624,6 @@ BRAZIL.
    22-26.46S 040-24.61W, 22-26.45S 040-26.43W.
    WIDE BERTH REQUESTED.
 2. CANCEL THIS MSG 080400Z MAY 28.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>UNDERWATER OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>130855Z OCT 26
-HYDROLANT 2032/26.
-SOUTH ATLANTIC.
-BRAZIL.
-1. UNDERWATER OPERATIONS 0800Z TO 1700Z 
-   DAILY 14 THRU 28 OCT BY M/V COMANDO B
-   IN 20-23.02S 040-09.23W.
-   WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 281800Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

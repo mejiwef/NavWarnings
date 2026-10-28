@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>PIRACY EVENT</category>
+        <status>INFORCE</status>
+        <msgText>281451Z OCT 26
+HYDROPAC 3137/26
+GULF OF ADEN.
+YEMEN.
+1. PIRACY ACTIVITY REPORTED IN VICINITY 
+   12-42.00N 047-35.00E. 
+   VESSELS ARE ADVISED TO KEEP CLEAR OF THIS 
+   POSITION AND TO EXERCISE EXTREME CAUTION.
+2. CANCEL THIS MSG 010001Z NOV 26
+</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281422Z OCT 26
+HYDROPAC 3135/26
+ARABIAN SEA.
+PAKISTAN.
+1. HAZARDOUS OPERATIONS 0300Z TO 1900Z
+   DAILY 02 THRU 06, 09 THRU 13, 16 THRU 20,
+   23 THRU 27, AND 30 NOV IN AREAS BOUND BY:
+   A. 24-24.30N 066-42.00E, 24-19.00N 066-58.00E,
+      24-00.00N 066-39.00E, 24-11.00N 066-27.00E.
+   B. 24-36.02N 062-30.03E, 24-36.02N 063-15.03E,
+      24-21.02N 063-15.03E, 24-21.02N 062-30.03E.
+   C. 24-36.02N 061-45.03E, 24-36.02N 062-30.03E,
+      24-21.02N 062-30.03E, 24-21.02N 061-45.03E.
+   D. 24-22.00N 066-27.00E, 24-16.30N 066-33.00E,
+      24-10.30N 066-27.00E, 24-16.18N 066-20.50E.
+2. CANCEL THIS MSG 302000Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>281412Z OCT 26
+HYDROPAC 3134/26
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+1. UNDERWATER OPERATIONS IN PROGRESS 
+   UNTIL FURTHER NOTICE 
+   BY VESSEL FURGO KWILENA
+   IN AREA BOUND BY
+   19-54.50S 115-07.70E, 20-00.70S 115-07.70E,
+   20-00.70S 115-22.70E, 19-54.50S 115-22.70E.
+   TWO MILE BERTH REQUESTED.
+2. CANCEL HYDROPAC 2981/26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>281154Z OCT 26
@@ -24,8 +74,7 @@ PHILIPPINE SEA.
 HYDROPAC 3132/26
 INDIA.
 NAVTEX STATION VAKALPUDI (Q)
-17-00.80N 082-17.10E. 
-OFF AIR.
+17-00.80N 082-17.10E OFF AIR.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -53,7 +102,8 @@ INDIA.
       18-58.38N 072-14.46E, 18-58.51N 072-06.87E.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2997/26.
-3. CANCEL THIS MSG 280001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 280001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SURVEY OPERATIONS</category>
@@ -71,7 +121,8 @@ INDIA.
    19-01.44N 071-25.34E, 18-58.25N 071-37.25E,
    19-00.49N 071-25.21E.
    WIDE BERTH REQUESTED.
-2. CANCEL THIS MSG 301930Z NOV 26.</msgText>
+2. CANCEL THIS MSG 301930Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -86,7 +137,8 @@ SOUTH PACIFIC.
       42-00.00S 173-00.00W, 41-12.00S 177-00.00W.
    B. 41-00.00S 162-00.00W, 41-00.00S 157-00.00W,
       43-06.00S 156-48.00W, 43-00.00S 162-00.00W.
-2. CANCEL THIS MSG 161915Z NOV 26.</msgText>
+2. CANCEL THIS MSG 161915Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
@@ -104,7 +156,8 @@ NEW ZEALAND.
    B. SPACE DEBRIS IN AREA BOUND BY
       39-48.00S 176-30.00W, 40-30.00S 172-36.00W,
       42-00.00S 173-00.00W, 41-12.00S 177-00.00W.
-2. CANCEL THIS MSG 161915Z NOV 26.</msgText>
+2. CANCEL THIS MSG 161915Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>SPACE DEBRIS</category>
@@ -137,7 +190,8 @@ SOUTH PACIFIC.
    38-21.00S 115-04.00W, 49-09.00S 107-22.00W,
    59-09.00S 095-34.00W, 59-58.00S 099-05.00W,
    44-34.00S 114-13.00W.
-2. CANCEL THIS MSG 080757Z NOV 26.</msgText>
+2. CANCEL THIS MSG 080757Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>PIPELINE OPERATIONS</category>
@@ -152,7 +206,8 @@ SAUDI ARABIA.
    26-09.50N 051-43.90E, 26-12.30N 051-39.80E.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2891/26.
-3. CANCEL THIS MSG 270001Z NOV 26.</msgText>
+3. CANCEL THIS MSG 270001Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
@@ -165,7 +220,8 @@ KUWAIT.
    DAILY 28 AND 29 OCT IN AREA BOUND BY
    29-20.00N 048-26.00E, 29-20.00N 048-37.40E,
    29-10.00N 048-37.40E, 29-10.00N 048-26.00E.
-2. CANCEL THIS MSG 291000Z OCT 26.</msgText>
+2. CANCEL THIS MSG 291000Z OCT 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -179,7 +235,8 @@ NORTH PACIFIC.
    28-15.25N 146-29.78E, 25-25.27N 147-37.78E,
    25-00.27N 145-35.80E, 27-55.25N 144-57.80E.
 2. CANCEL HYDROPAC 3096/26, 3110/26, 3119/26.
-3. CANCEL THIS MSG 301000Z NOV 26.</msgText>
+3. CANCEL THIS MSG 301000Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
@@ -275,20 +332,6 @@ EASTERN INDIAN OCEAN.
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
         <status>INFORCE</status>
-        <msgText>261029Z OCT 26
-HYDROPAC 3107/26
-ARABIAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 281300Z TO 281700Z OCT
-   IN AREA BOUND BY
-   15-16.00N 072-44.00E, 15-18.00N 072-52.00E,
-   15-08.00N 072-56.00E, 15-06.00N 072-47.00E.
-2. CANCEL THIS MSG 281800Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
         <msgText>261023Z OCT 26
 HYDROPAC 3106/26
 ARABIAN SEA.
@@ -312,20 +355,6 @@ INDIA.
    12-50.00N 093-40.00E, 13-00.00N 093-40.00E,
    13-00.00N 094-10.00E, 12-50.00N 094-10.00E.
 2. CANCEL THIS MSG 301130Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>261006Z OCT 26
-HYDROPAC 3104/26
-ANDAMAN SEA.
-INDIA.
-1. HAZARDOUS OPERATIONS 280900Z TO 281230Z OCT
-   IN AREA BOUND BY
-   11-39.70N 092-46.30E, 11-40.60N 092-47.00E,
-   11-38.70N 092-53.10E, 11-32.90N 092-48.30E.
-2. CANCEL THIS MSG 281330Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -903,17 +932,6 @@ HAZARDOUS OPERATIONS IN PROGRESS
 UNTIL FURTHER NOTICE ALONG TRACKLINE JOINING
 21-03.82S 054-57.81E, 20-54.03S 055-16.23E,
 20-53.39S 055-20.83E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>DANGEROUS WRECK</category>
-        <status>INFORCE</status>
-        <msgText>141052Z OCT 26
-HYDROPAC 2981/26.
-STRAIT OF HORMUZ.
-OMAN.
-1. M/V GFS PRIDE SANK IN 26-16.80N 056-08.60E.
-2. CANCEL HYDROPAC 2978/26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
@@ -1774,21 +1792,6 @@ PERSIAN GULF.
 KUWAIT.
 DNC 10.
 BARGE DREAM 1 SANK IN 29-14.06N 048-41.22E.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>SURVEY OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>301519Z JAN 26
-HYDROPAC 292/26(62).
-PERSIAN GULF.
-QATAR.
-DNC 10.
-SURVEY OPERATIONS IN PROGRESS UNTIL FURTHER 
-NOTICE BY M/V HALUL 41 IN AREA BOUND BY
-26-23.34N 051-47.10E, 26-23.34N 052-00.06E,
-25-56.52N 052-00.06E, 25-56.52N 051-47.10E.
-WIDE BERTH REQUESTED.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

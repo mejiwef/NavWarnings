@@ -37,7 +37,8 @@ CALIFORNIA.
       29-36.00N 117-16.00W, 28-50.00N 117-19.00W,
       28-15.00N 117-19.00W, 28-16.00N 117-21.00W,
       28-50.00N 117-49.00W.
-2. CANCEL THIS MSG 080615Z NOV 26.</msgText>
+2. CANCEL THIS MSG 080615Z NOV 26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>CABLE OPERATIONS</category>
@@ -51,7 +52,8 @@ NOTICE BY CABLESHIP ILE DE SEIN
 ALONG TRACKLINE JOINING
 39-00.00N 123-45.00W, 38-58.00N 124-30.00W,
 37-38.00N 127-48.00W, 37-23.00N 128-16.00W.
-WIDE BERTH REQUESTED.</msgText>
+WIDE BERTH REQUESTED.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>HAZARDOUS OPERATIONS</category>
