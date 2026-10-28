@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
+        <msgText>280502Z OCT 26
+HYDROLANT 2162/26.
+SOUTH ATLANTIC.
+SCOTIA SEA.
+ANTARCTICA.
+1. ICEBERGS REPORTED IN: 
+   A. A84, 69-51.60S 092-54.00W.
+   B. A85, 58-33.60S 047-18.60W.
+   C. D33A, 63-57.00S 054-07.80W.
+   D. D33C, 61-54.00S 054-31.20W.
+2. CANCEL THIS MSG 290502Z OCT 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280046Z OCT 26
@@ -28,7 +43,8 @@ BRAZIL.
    22-20.42S 040-26.19W.
    WIDE BERTH REQUESTED.
 2. CANCEL HYDROLANT 1797/26.
-3. CANCEL THIS MSG 010001Z JUN 27.</msgText>
+3. CANCEL THIS MSG 010001Z JUN 27.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>BUOY</category>
@@ -39,7 +55,8 @@ IRISH SEA.
 WALES.
 1. W CONSTABLE BUOY 53-23.10N 003-49.20W UNLIT
    AND RACON INOPERATIVE.
-2. CANCEL HYDROLANT 2142/26.</msgText>
+2. CANCEL HYDROLANT 2142/26.
+</msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
         <category>MAN OVERBOARD</category>
