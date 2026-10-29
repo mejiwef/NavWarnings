@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>UNDERWATER OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>291210Z OCT 26
+HYDROPAC 3143/26.
+EASTERN INDIAN OCEAN.
+AUSTRALIA.
+UNDERWATER OPERATIONS IN PROGRESS 
+UNTIL FURTHER NOTICE 
+BY M/V BHAGWAN DRYDEN IN: 
+A. 20-17.40S 116-16.40E.
+B. 20-16.30S 116-16.60E.
+ONE MILE BERTH REQUESTED.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>GUNNERY EXERCISES</category>
         <status>INFORCE</status>
         <msgText>282028Z OCT 26
@@ -267,20 +281,6 @@ SAUDI ARABIA.
    TWO MILE BERTH REQUESTED.
 2. CANCEL HYDROPAC 2891/26.
 3. CANCEL THIS MSG 270001Z NOV 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
-        <category>HAZARDOUS OPERATIONS</category>
-        <status>INFORCE</status>
-        <msgText>271940Z OCT 26
-HYDROPAC 3124/26.
-PERSIAN GULF.
-KUWAIT.
-1. HAZARDOUS OPERATIONS 0300Z TO 0900Z
-   DAILY 28 AND 29 OCT IN AREA BOUND BY
-   29-20.00N 048-26.00E, 29-20.00N 048-37.40E,
-   29-10.00N 048-37.40E, 29-10.00N 048-26.00E.
-2. CANCEL THIS MSG 291000Z OCT 26.
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>

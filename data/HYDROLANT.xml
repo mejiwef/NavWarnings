@@ -125,22 +125,6 @@ WEST OF DUDDON SANDS WIND FARM
 </msgText>
     </smapsActiveEntity>
     <smapsActiveEntity>
-        <category>ICEBERG</category>
-        <status>INFORCE</status>
-        <msgText>280502Z OCT 26
-HYDROLANT 2162/26.
-SOUTH ATLANTIC.
-SCOTIA SEA.
-ANTARCTICA.
-1. ICEBERGS REPORTED IN: 
-   A. A84, 69-51.60S 092-54.00W.
-   B. A85, 58-33.60S 047-18.60W.
-   C. D33A, 63-57.00S 054-07.80W.
-   D. D33C, 61-54.00S 054-31.20W.
-2. CANCEL THIS MSG 290502Z OCT 26.
-</msgText>
-    </smapsActiveEntity>
-    <smapsActiveEntity>
         <category>UNDERWATER OPERATIONS</category>
         <status>INFORCE</status>
         <msgText>280046Z OCT 26

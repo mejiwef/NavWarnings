@@ -3,6 +3,21 @@
     <smapsActiveEntity>
         <category>ICEBERG</category>
         <status>INFORCE</status>
+        <msgText>291020Z OCT 26
+HYDROARC 314/26.
+LAPTEV SEA.
+RUSSIA.
+1. ICEBERGS REPORTED 
+   IN: 
+   A. 75-52.10N 123-34.40E.
+   B. 75-45.80N 122-16.30E.
+   C. 75-56.80N 122-17.90E.
+   D. 75-56.30N 122-46.20E.
+2. CANCEL THIS MSG 010750Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
+        <category>ICEBERG</category>
+        <status>INFORCE</status>
         <msgText>271205Z OCT 26
 HYDROARC 313/26
 LAPTEV SEA.
