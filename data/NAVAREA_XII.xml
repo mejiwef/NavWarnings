@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <smaps>
     <smapsActiveEntity>
+        <category>HAZARDOUS OPERATIONS</category>
+        <status>INFORCE</status>
+        <msgText>272341Z OCT 26
+NAVAREA XII 759/26.
+NORTH PACIFIC.
+CALIFORNIA.
+1. HAZARDOUS OPERATIONS 031500Z TO 040200Z NOV
+   IN AREA WITHIN ONE MILE OF 32-48.63N 118-24.84W.
+2. CANCEL THIS MSG 040300Z NOV 26.</msgText>
+    </smapsActiveEntity>
+    <smapsActiveEntity>
         <category>ROCKET LAUNCHING</category>
         <status>INFORCE</status>
         <msgText>260304Z OCT 26
