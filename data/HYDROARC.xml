@@ -16,10 +16,10 @@
         <script src="https://cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js" defer></script>
         <title>Maritime Safety Information</title>
     
-                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="amvj23axhnmcm2yd3yba-f-bea295937-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":8,"ak.ipv":4,"ak.proto":"h2","ak.rid":"ab022a3a","ak.r":51426,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":20846,"ak.gh":"23.205.114.198","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1795415554","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==L0hhDhEI0lssguqjSunjptFm0dECj2sOcfBkypn7TfxHCOtznWtGIQI/iPya5VpXq5LVA5kTnxSL01Mq/01B9AfKkk/JSidNZ5GOuq4p8a2MZdRoqj67eclksn3PPnbEdXmMMrp7gBqHKvs9Mo0zZrDMU99F/gokYVs9zsIX6W9Sk/IWj8OlkleZiD6PV3QF9dBSkHc3+hRyg1Gs5G9TS7G362VNGH4+SbLe5FeWFJfsxbMRyagFVU0wu5lvYy4l6Yt6ydE1ut092slhQhoiWItischpRxNw+49MghWKuEoGTr9Z1cjTL2HX+EsKxUcoM3ttDmP0k3Bc8mK0Az2L/zgupr5G1k7+Bbh3NnO3099Dc7/RoYY9kLLQGRqazbklVEZdXNU+auUq336V/C/YEpuVjOQdp/Hhdb1EcM7vDvo=","ak.pv":"103","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PX3CK-RZEZR-UBSGC-2D5XJ-M4UCL";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="hgnaptyxh3rhw2yezwmq-f-c9b026fea-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"898043","ak.ai":parseInt("574531",10),"ak.ol":"0","ak.cr":6,"ak.ipv":4,"ak.proto":"h2","ak.rid":"cc07b259","ak.r":54465,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":60464,"ak.gh":"23.62.109.113","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1795476889","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==FvmehrbVkKsHZ/0F83IXnNBVNaLuLnhB0m3nCNaOGlNIVDmbEyJdRUJpi0iurFhPCGhL6eJgmAEDwzOhp+Wrely50Lqba05InA3ubQZlR7qyyndbVwUJ3Naxwa3GK4KF7T/xLTR8vrOuplpPU57eGigfZOMGpcW8cAuN53R2OBCHcHL717XKazAW9uJR1HJA1+IBrWvFSbLNyWigc32zGo0MktoqdVG+EhMbOsrvowmYwmxfww72G6zd7aX60FXS0V5AX5ABqiJIL/9NKw5Pwb2Glx5QrIEvnG/Q18ahJfFWMepfZcmujqwVvv9L0Mv3xUUIvoBBudZ+MOFE1wP9Ee+K0/womh03lzIsB7Xhy9J2mnHqYSL1hdXTdAgTfRklWJLZIt2kuvB0Gx5Rx6x3m1rMN7ujUfWlT019e8+O66k=","ak.pv":"103","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>
 function addVars() {
     BOOMR.addVar({
-      "akam.msicookie": "7337936ac27438cb1ce79c6821e3951f"
+      "akam.msicookie": "354fe965ec6f4dc6d60937c61eb33238"
     });
 }
 if (document.addEventListener) {
@@ -37,7 +37,7 @@ if (document.addEventListener) {
 </script></head><script>
 function addVars() {
     BOOMR.addVar({
-      "akam.msicookie": "7337936ac27438cb1ce79c6821e3951f"
+      "akam.msicookie": "354fe965ec6f4dc6d60937c61eb33238"
     });
 }
 if (document.addEventListener) {
@@ -62,111 +62,147 @@ if (document.addEventListener) {
         <![endif]-->
         <div id="root" class="app">
             <section class="nav-panel">
-                <h2 class="page-title">Maritime Safety Information</h3>
+                <h3 class="page-title">Maritime Safety Information</h3>
             </section>
 
             <div class="homebkg">
                 <div class="container">
                     <div class="row"><br /><br /></div>
                     <div class="row">
-                        <div class="col-md-8 mb10">
+                        <div class="col-md-8 col-md-offset-2 mb10">
                             <div class="gray-light-box">
                                 <h3>MSI IS CURRENTLY UNDER MAINTENANCE</h3><br/>
-                                <h3><b>Announcement</b></h3>
-                                <p class="pl10 pr10 center">The Maritime Safety Information (MSI) Portal is currently unavailable. 
-                                    Please take advantage of the helpful resources linked here.<br/> MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/>
-                                    <br/><a href="mailto:marhelp@nga.mil"> Contact Information: marhelp@nga.mil</a></p>
+                                <h6 class="pl10 pr10 text-normal center-align"><b>Announcement</b></h6>
+                                <p class="pl10 pr10 left-align">The Maritime Safety Information (MSI) Portal is currently unavailable. 
+                                    Please take advantage of the helpful resources linked here, MSI will be operational as quickly as possible. We appreciate your patience and understanding during this outage. <br/></p>
                                 <br /><br />
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="gray-light-box">
-                                <b>Helpful Links</b><br /><br />
-                                <b>Latest Notice to Mariners</b><br /><br />
-                                <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
-                                <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
-                                
-                                                                
-                                                                                              
-                                                                                                                                                         
-                                                               
-                                                                                                                              
-                                                                                                                         
-                                                                                                                                                     
-                                                                                              
-                                
-                                                                                        
-                                                                                                                             
-                                
-                                 
-                                      
-                                     
-                                      
-                                    
-                                     
-                                     
-                                
-                                  
-				
-				
-							
-				
-				
-				
-				
-								
-
-				
-				
-				<a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br /><br />
-											
-                                                            <b> Latest Navigational Warnings<br/><br />
-                                <ul class="bullets left-align ml15">
+                                <b>View latest Navigational Warnings</b>
+                                <ul class="bullets center-align ml15">
                                     <li><a href="apology_objects/DailyMemIV.txt" target="_blank" rel="noopener noreferrer">NAVAREA IV</a></li>
                                     <li><a href="apology_objects/DailyMemXII.txt" target="_blank" rel="noopener noreferrer">NAVAREA XII</a></li> 
                                     <li><a href="apology_objects/DailyMemLAN.txt" target="_blank" rel="noopener noreferrer">HYDROLANT</a></li>
                                     <li><a href="apology_objects/DailyMemPAC.txt" target="_blank" rel="noopener noreferrer">HYDROPAC</a></li> 
                                     <li><a href="apology_objects/DailyMemARC.txt" target="_blank" rel="noopener noreferrer">HYDROARC</a></li>
                                 </ul>
-								<ul class="bullet left-align m115">
+                                <ul class="bullets center-align ml15">
 									<li><a href="apology_objects/WPI.zip" download>World Port Index CSV</a></li>
-								</ul>
+									<li><a href="apology_objects/MODU_shp.zip" download>MODU Shapefile</a></li>
+                                    <li><a href="apology_objects/MODU_csv.zip" download>MODU CSV</a></li>
+                                </ul>
                             </div>
-                        </div>                         
-                    <div class="col-md-4">
-                            <div class="gray-light-box">
-				 <b>AMERICAN PRACTICAL NAVIGATOR</b><br /><br />
-				 <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 1(PDF)</a><br />
-				<a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">AMERICAN PRACTICAL NAVIGATOR VOL 2 (PDF)</a><br /><br />
-				 </ul>
-                            </div>
-                        </div>                       
-                    <div class="col-md-4">
-			<div class="gray-light-box">
-				<b>SAILING DIRECTIONS PLANNING GUIDES</b><br /><br />
-				<a href="apology_objects/Pub120bk.pdf" target="_blank" class="btn btn-home">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
-				<a href="apology_objects/Pub140bk.pdf" target="_blank" class="btn btn-home">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
-				<a href="apology_objects/Pub160bk.pdf" target="_blank" class="btn btn-home">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
-				
+                        </div>
+                    </div> 
+
+                    <div class="row">
+                        <div class="col">
+                            <div class="col-md-12">
+                                <div class="gray-light-box">
+                                    <h6 class="pl10 pr10 text-normal center-align"><b>Helpful Links</b></h6>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <a href="apology_objects/UNTM_202611_NtM_11-2026.pdf" target="_blank" class="btn btn-home">NTM 11/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202610_NtM_10-2026.pdf" target="_blank" class="btn btn-home">NTM 10/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202609_NtM_09-2026.pdf" target="_blank" class="btn btn-home">NTM 09/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202608_NtM_08-2026.pdf" target="_blank" class="btn btn-home">NTM 08/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202607_NtM_07-2026.pdf" target="_blank" class="btn btn-home">NTM 07/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202606_NtM_06-2026.pdf" target="_blank" class="btn btn-home">NTM 06/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202605_NtM_05-2026.pdf" target="_blank" class="btn btn-home">NTM 05/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202604_NtM_04-2026.pdf" target="_blank" class="btn btn-home">NTM 04/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202603_NtM_03-2026.pdf" target="_blank" class="btn btn-home">NTM 03/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202602_NtM_02-2026.pdf" target="_blank" class="btn btn-home">NTM 02/2026 (PDF)</a><br />
+                                        </div>
+                                        <div class="col-md-6">
+                                            <a href="apology_objects/UNTM_202601_NtM_01-2026.pdf" target="_blank" class="btn btn-home">NTM 01/2026 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202552_NtM_52-2025.pdf" target="_blank" class="btn btn-home">NTM 52/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202551_NtM_51-2025.pdf" target="_blank" class="btn btn-home">NTM 51/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202550_NtM_50-2025.pdf" target="_blank" class="btn btn-home">NTM 50/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202549_NtM_49-2025.pdf" target="_blank" class="btn btn-home">NTM 49/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202548_NtM_48-2025.pdf" target="_blank" class="btn btn-home">NTM 48/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202547_NtM_47-2025.pdf" target="_blank" class="btn btn-home">NTM 47/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202546_NtM_46-2025.pdf" target="_blank" class="btn btn-home">NTM 46/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_202545_NtM_45-2025.pdf" target="_blank" class="btn btn-home">NTM 45/2025 (PDF)</a><br />
+                                            <a href="apology_objects/UNTM_Special_Notice.pdf" target="_blank" class="btn btn-home">NTM SPECIAL PARAGRAPHS 2022 EDITION (PDF)</a><br />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="row"><br /><br /></div>
+                    <div class="row"><br /></div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="col-md-12">
+                                <div class="gray-light-box">
+                                    <h6 class="pl10 pr10 text-normal center-align"><b>Publications</b></h6>
+                                    <div class="row">
+                                        <div class="col-md-6 left-align">
+                                            <a href="apology_objects/publications/Pub120bk.pdf" target="_blank" class="">PACIFIC OCEAN AND SOUTHEAST ASIA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub123bk.pdf" target="_blank" class="">SOUTHWEST COAST OF AFRICA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub124bk.pdf" target="_blank" class="">EAST COAST OF SOUTH AMERICA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub125bk.pdf" target="_blank" class="">WEST COAST OF SOUTH AMERICA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub126bk.pdf" target="_blank" class="">PACIFIC ISLANDS (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub127bk.pdf" target="_blank" class="">EAST COAST OF AUSTRALIA AND NEW ZEALAND (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub131bk.pdf" target="_blank" class="">WESTERN MEDITERRANEAN (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub132bk.pdf" target="_blank" class="">EASTERN MEDITERRANEAN (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub140bk.pdf" target="_blank" class="">NORTH ATLANTIC OCEAN AND ADJACENT SEAS (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub141bk.pdf" target="_blank" class="">SCOTLAND (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub142bk.pdf" target="_blank" class="">IRELAND AND THE WEST COAST OF ENGLAND (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub143bk.pdf" target="_blank" class="">WEST COAST OF EUROPE AND NORTHWEST AFRICA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub145bk.pdf" target="_blank" class="">NOVA SCOTIA AND THE ST. LAWRENCE (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub146bk.pdf" target="_blank" class="">NEWFOUNDLAND, LABRADOR, AND HUDSON BAY (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub147bk.pdf" target="_blank" class="">CARIBBEAN SEA - VOLUME I (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub148bk.pdf" target="_blank" class="">CARIBBEAN SEA - VOLUME II (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub153bk.pdf" target="_blank" class="">WEST COASTS OF MEXICO AND CENTRAL AMERICA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub154bk.pdf" target="_blank" class="">BRITISH COLUMBIA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub155bk.pdf" target="_blank" class="">EAST COAST OF RUSSIA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub157bk.pdf" target="_blank" class="">COASTS OF KOREA AND CHINA (PDF)</a><br />
+                                        </div>
+                                        <div class="col-md-6 left-align">
+                                            <a href="apology_objects/publications/Pub158bk.pdf" target="_blank" class="">JAPAN - VOLUME I (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub159bk.pdf" target="_blank" class="">JAPAN - VOLUME II (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub160bk.pdf" target="_blank" class="">SOUTH ATLANTIC OCEAN AND INDIAN OCEAN (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub161bk.pdf" target="_blank" class="">SOUTH CHINA SEA AND THE GULF OF THAILAND (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub162bk.pdf" target="_blank" class="">PHILIPPINE ISLANDS (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub163bk.pdf" target="_blank" class="">BORNEO, JAWA, SULAWESI, AND NUSA TENGGARA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub164bk.pdf" target="_blank" class="">NEW GUINEA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub171bk.pdf" target="_blank" class="">EAST AFRICA AND THE SOUTH INDIAN OCEAN (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub172bk.pdf" target="_blank" class="">RED SEA AND THE PERSIAN GULF (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub173bk.pdf" target="_blank" class="">INDIA AND THE BAY OF BENGAL (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub174bk.pdf" target="_blank" class="">STRAIT OF MALACCA AND SUMATERA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub175bk.pdf" target="_blank" class="">NORTH, WEST, AND SOUTH COASTS OF AUSTRALIA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub180bk.pdf" target="_blank" class="">ARCTIC OCEAN (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub181bk.pdf" target="_blank" class="">GREENLAND AND ICELAND (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub182bk.pdf" target="_blank" class="">NORTH AND WEST COASTS OF NORWAY (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub183bk.pdf" target="_blank" class="">NORTH COAST OF RUSSIA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub191bk.pdf" target="_blank" class="">ENGLISH CHANNEL (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub192bk.pdf" target="_blank" class="">NORTH SEA (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub193bk.pdf" target="_blank" class="">SKAGERRAK AND KATTEGAT (PDF)</a><br />
+                                            <a href="apology_objects/publications/Pub200bk.pdf" target="_blank" class="">ANTARCTICA (PDF)</a><br />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row"><br /></div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="gray-light-box">
+                                <h6 class="pl10 pr10 text-normal center-align"><b>AMERICAN PRACTICAL NAVIGATOR</b></h6>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <a href="apology_objects/Bowditch_Vol_1.pdf" target="_blank" class="btn btn-home">Vol 1 (PDF)</a><br />
+                                        <a href="apology_objects/Bowditch_Vol_2.pdf" target="_blank" class="btn btn-home">Vol 2 (PDF)</a><br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
             <div id="bottom">
-                
                 <div class="classificationblock">
                     <div  id="classification">
                         Dynamic content classified up to UNCLASSIFIED
@@ -196,65 +232,46 @@ if (document.addEventListener) {
         };
         </script>
         <!-- Matomo (Geoint App Store + TFII) -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      pushData(window.location.href);
-      document.addEventListener('click', callback);
-
-      function callback(e) {
-        var e = window.e || e;
-        if (e.target.tagName !== 'A'){
-          //not a link
-          return;
-        }
-        pushData(event.target.href);
-        return;
-      }
-
-      function pushData(href) {
-        if(window.classification === "unclassified" || window.classification === "unclassified//limdis") {
-          //don't track clicks that aren't a page navigation.
-          if(href === ""){
-            return;
-          }
-          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-          _paq.push(['setCustomUrl', href]);
-          _paq.push(['setReferrerUrl', window.location.href]);
-          
-          //set user id for tracking specific users on nipr (and eventually SC/TC)
-          var persist = window.localStorage.getItem("reduxPersist:userReducer");
-          if(persist){
-            var email = JSON.parse(persist).userEmail;
-            _paq.push(['setUserId', email]);
-          }
-          _paq.push(['trackPageView']);
-          _paq.push(['enableLinkTracking']);
-          _paq.push(['setDocumentTitle', window.location.href]);
-
-          (function() {
-            //set url, siteId based on location          
-            var u="//gasmetrics.nga.mil/piwik/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '297']);
-
-            var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
-            var secondarySiteId = null;
-            if(window.location.hostname === "msi.nga.mil" || window.location.hostname === "msi.gs.mil"){
-              secondarySiteId = 24;
-              _paq.push(["setCookieDomain", "*.msi.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
-            } else if (window.location.hostname === "msi.geo.nga.mil"){
-              secondarySiteId = 45
-              _paq.push(["setCookieDomain", "*.msi.geo.nga.mil"]);
-              _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
+        <script type="text/javascript">
+            if(window.classification === "unclassified" || window.classification === "unclassified") {
+                var _paq = _paq || [];
+                pushData(window.location.href);
+                document.addEventListener('click', callback);
             }
 
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-          })();
-        }
-      };
-    </script>
+            function callback(e) {
+                var e = window.e || e;
+                if (e.target.tagName !== 'A'){
+                //not a a
+                return;
+                }
+                pushData(event.target.href);
+                return;
+            }
+
+            function pushData(href) {
+                /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+                _paq.push(['setCustomUrl', href]);
+                _paq.push(['setReferrerUrl', window.location.href]);
+                _paq.push(['trackPageView']);
+                _paq.push(['enableaTracking']);
+                _paq.push(['setDocumentTitle', document.domain + "/" + document.title]);
+                _paq.push(["setCookieDomain", "*.msi.stage.east.pass.nga.mil"]);
+
+                (function() {
+                    var u="//gasmetrics.nga.mil/piwik/";
+                    _paq.push(['setTrackerUrl', u+'piwik.php']);
+                    _paq.push(['setSiteId', '297']);
+
+                    var secondaryTracker = "//matomo.east.paas.nga.mil/piwik.php"
+                    var secondarySiteId = 24;
+                    _paq.push(['addTracker', secondaryTracker, secondarySiteId]);
+
+                    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+                })();
+            };
+        </script>
         <!-- End Matomo Code -->
     </body>
 </html>
